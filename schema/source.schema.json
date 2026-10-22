@@ -1,0 +1,29 @@
+{
+  "$comment": "Frontmatter for sources/<type>/<id>.md. One file per document. Body = full text (or transcript) below the frontmatter.",
+  "required": ["id", "type", "title", "added", "status"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^src-\\d{8}-[a-z0-9]{6}$", "$comment": "src-YYYYMMDD-<6 chars of sha256>"},
+    "type": {"enum_from": "source_types"},
+    "title": {"type": "string"},
+    "date": {"type": ["string", "null"], "$comment": "publication / call date YYYY-MM-DD"},
+    "added": {"type": "string"},
+    "url": {"type": ["string", "null"]},
+    "publisher": {"type": ["string", "null"], "$comment": "AlphaSense, Tegus, Granola, McKinsey, Modern Machine Shop, ..."},
+    "author": {"type": ["string", "null"]},
+    "speakers": {"type": "array", "$comment": "for calls / podcasts: [{name, role, affiliation}]"},
+    "expert_background": {"type": ["string", "null"], "$comment": "for expert calls: 1 line, goes first in any summary"},
+    "companies": {"type": "array", "$comment": "company slugs discussed"},
+    "people": {"type": "array"},
+    "layers": {"type": "array", "enum_from": "layers"},
+    "tags": {"type": "array"},
+    "summary": {"type": ["string", "null"], "$comment": "3-6 lines written by agent or human"},
+    "key_facts": {"type": "array", "$comment": "[{fact, quote, where}] quotable numbers + where in the doc"},
+    "takeaways": {"type": "array", "$comment": "bullets, thesis-relevant"},
+    "confidence": {"enum_from": "confidence"},
+    "raw_file": {"type": ["string", "null"], "$comment": "path under raw/ to the original"},
+    "hash": {"type": ["string", "null"], "$comment": "sha256 of original file (dedupe)"},
+    "word_count": {"type": ["integer", "null"]},
+    "status": {"enum_from": "source_status"},
+    "added_by": {"type": ["string", "null"], "$comment": "lilly | grokbot | claude | ingest.py"}
+  }
+}

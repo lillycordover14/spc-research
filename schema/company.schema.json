@@ -1,0 +1,33 @@
+{
+  "$comment": "Frontmatter for companies/<slug>.md. Validated by scripts/validate.py (required keys + enums from taxonomy.yml).",
+  "required": ["slug", "name", "layer", "model", "status", "updated"],
+  "properties": {
+    "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "name": {"type": "string"},
+    "aliases": {"type": "array"},
+    "website": {"type": "string"},
+    "hq": {"type": "string"},
+    "founded": {"type": ["integer", "string"]},
+    "layer": {"enum_from": "layers"},
+    "layers": {"type": "array", "enum_from": "layers"},
+    "model": {"enum_from": "business_models"},
+    "what": {"type": "string", "$comment": "one line, plain English"},
+    "fit": {"type": "array", "enum_from": "fit_tests"},
+    "stage": {"enum_from": "stages"},
+    "total_raised_usd": {"type": ["integer", "null"]},
+    "last_round": {"type": "object", "$comment": "{date, amount_usd, lead, valuation_usd, source}"},
+    "investors": {"type": "array"},
+    "founders": {"type": "array", "$comment": "[{name, role, prior}]"},
+    "headcount": {"type": ["integer", "null"]},
+    "customers": {"type": "array"},
+    "harmonic_urn": {"type": "string"},
+    "affinity_id": {"type": ["string", "integer"]},
+    "pitchbook": {"type": "string"},
+    "status": {"enum_from": "company_status"},
+    "spc_owner": {"type": "string"},
+    "tags": {"type": "array"},
+    "sources": {"type": "array", "$comment": "source ids that mention this company"},
+    "data_quality": {"type": "string", "$comment": "note mismatches, e.g. 'Harmonic record is a different company'"},
+    "updated": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"}
+  }
+}

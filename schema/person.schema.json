@@ -1,0 +1,18 @@
+{
+  "$comment": "Frontmatter for people/<slug>.md — founders, operators, experts, investors worth tracking.",
+  "required": ["slug", "name", "role", "updated"],
+  "properties": {
+    "slug": {"type": "string"},
+    "name": {"type": "string"},
+    "role": {"type": "string", "$comment": "founder | operator | expert | investor | academic | customer"},
+    "affiliation": {"type": ["string", "null"]},
+    "companies": {"type": "array"},
+    "prior": {"type": "array", "$comment": "notable prior roles (SpaceX propulsion, Tesla cathode, ...)"},
+    "x_handle": {"type": ["string", "null"]},
+    "linkedin": {"type": ["string", "null"]},
+    "why_track": {"type": ["string", "null"]},
+    "spc_relationship": {"type": ["string", "null"], "$comment": "warm / cold / met on <date> / Affinity link"},
+    "sources": {"type": "array"},
+    "updated": {"type": "string"}
+  }
+}

@@ -1,0 +1,80 @@
+# What GrokBot (or Claude) sweeps on a schedule. Keep this list honest: every entry is something we actually read.
+# Status: seed = untested, keep = confirmed useful, drop = noise. Agent updates status after 2 weeks of sweeps.
+# Pattern copied from Energy-Themes: free sources only; transcribe audio/video with whisper (scripts/transcribe.md).
+
+cadence:
+  daily: [google_news_queries, x_lists, rss]
+  weekly: [podcasts, youtube_channels, gov_data, job_boards, harmonic_saved_searches]
+  monthly: [reports, conferences]
+
+rss_and_trade_press:          # daily; use feedparser; keep only items matching watchlist/searches.yml keywords or a tracked company
+  - {name: Modern Machine Shop, url: https://www.mmsonline.com, why: machining capacity, automation, shop economics, status: seed}
+  - {name: The Fabricator, url: https://www.thefabricator.com, why: sheet metal, welding, fab-shop automation, status: seed}
+  - {name: Additive Manufacturing Media, url: https://www.additivemanufacturing.media, why: metal AM production stories (Freeform, Divergent), status: seed}
+  - {name: IndustryWeek, url: https://www.industryweek.com, why: reshoring, labor, plant investments, status: seed}
+  - {name: Manufacturing Dive, url: https://www.manufacturingdive.com, why: plant announcements, capex, policy, status: seed}
+  - {name: American Machinist, url: https://www.americanmachinist.com, why: job-shop trends, status: seed}
+  - {name: Aviation Week (supply chain), url: https://aviationweek.com, why: aero/defense supplier capacity, castings/forgings shortages, status: seed}
+  - {name: Breaking Defense, url: https://breakingdefense.com, why: DoD industrial base, munitions ramp, awards, status: seed}
+  - {name: Defense News, url: https://www.defensenews.com, why: same, status: seed}
+  - {name: Mining.com, url: https://www.mining.com, why: critical minerals, refining projects (Mariana), status: seed}
+  - {name: Fastmarkets, url: https://www.fastmarkets.com, why: metals pricing, service-center margins (paywalled headlines only), status: seed}
+  - {name: Argus Metals, url: https://www.argusmedia.com/en/metals, why: rare earths, specialty metals pricing, status: seed}
+  - {name: Reuters Metals, url: https://www.reuters.com/markets/commodities/, why: tariffs, Section 232, China export controls, status: seed}
+
+newsletters_and_memos:        # weekly; paste into inbox/articles/
+  - {name: Not Boring (Packy McCormick), why: long-form on Hadrian and American Dynamism-style theses, status: seed}
+  - {name: Contrary Research, why: company memos (Hadrian, Divergent), status: seed}
+  - {name: Sacra, why: private-company revenue estimates, status: seed}
+  - {name: a16z American Dynamism, why: portfolio POV (Hadrian, Senra, Mariana, Periodic, Mind), status: seed}
+  - {name: Founders Fund / Lux / Construct Capital blogs, why: investor theses on autonomous factories, status: seed}
+  - {name: New American Industrial Alliance (Reindustrialize), why: the community; summit talks, status: seed}
+  - {name: Manufacturing Institute / NAM newsletters, why: labor data releases, status: seed}
+
+podcasts:                     # weekly; yt-dlp + whisper; only keep episodes naming a tracked company, founder or layer
+  - {name: a16z American Dynamism podcast / YouTube, why: founder interviews in the exact space, status: seed}
+  - {name: Manufacturing Happy Hour, why: practitioner view on automation ROI, status: seed}
+  - {name: MakingChips, why: job-shop owners on machining, labor, quoting, status: seed}
+  - {name: The Manufacturing Executive, why: plant-level operators, status: seed}
+  - {name: Invest Like the Best / Business Breakdowns, why: occasional deep dives (Proto Labs, Xometry, PCC), status: seed}
+  - {name: Reindustrialize summit talks (YouTube), why: founders of Hadrian, Senra, Machina on stage, status: seed}
+  - {name: Founder appearances (search by name), why: Chris Power, Ed Mehr, Jordan Black, Turner Caldwell, Erik Palitsch, Bob McGrew, status: seed}
+
+youtube_channels:             # weekly; same guest-appearance logic as Energy-Themes (host OR guest)
+  - {name: Hadrian, status: seed}
+  - {name: Machina Labs, status: seed}
+  - {name: Divergent / Czinger, status: seed}
+  - {name: SendCutSend, why: product videos show the actual process, status: seed}
+  - {name: Titans of CNC, why: machining culture, what shops buy, status: seed}
+
+x_lists:                      # daily; build one X list "ANIP" with these handles (resolve handles, don't guess)
+  founders: [Chris Power (Hadrian), Edward Mehr (Machina Labs), Jordan Black (Senra), Turner Caldwell (Mariana), Erik Palitsch (Freeform), Kevin Czinger (Divergent), Jim Belosic (SendCutSend), Alexander Fitzgerald (Isembard), Zane Hengsperger (Nox), Bob McGrew (Arda), Liam Fedus (Periodic), Joseph Krause (Radical AI)]
+  investors: [Katherine Boyle (a16z AD), Delian Asparouhov (Founders Fund), Josh Wolfe (Lux), Dayna Grayson (Construct), Rebecca Lynn (Canvas), Chris Lytle / Keith Block / Burke Norton (SPC)]
+  operators_and_commentators: [Titans of CNC, Reindustrialize, NAM]
+
+gov_and_structured_data:      # weekly / monthly; store under sources/datasets or sources/filings
+  - {name: SAM.gov contract awards, url: https://sam.gov, why: who is winning DoD production contracts (search tracked company names), status: seed}
+  - {name: SBIR.gov / DIU / AFWERX awards, why: early defense traction for seed-stage names, status: seed}
+  - {name: USGS Mineral Commodity Summaries, why: refining share by country (the 72% / 85% numbers on slide 8), status: seed}
+  - {name: IEA Critical Minerals Outlook, why: same, status: seed}
+  - {name: IFR World Robotics, why: robot installs US vs China (34,200 vs 295,000), status: seed}
+  - {name: Census Annual Survey of Manufactures / M3, why: shipments, capex by NAICS (3312 steel, 3327 machining, 3364 aero), status: seed}
+  - {name: BLS JOLTS + Deloitte/Manufacturing Institute, why: the 3.8M-worker gap, status: seed}
+  - {name: DoD Industrial Base Policy reports / NDAA text, why: policy pull, status: seed}
+  - {name: Google Patents (assignee = tracked company), why: what software/process IP they actually file, status: seed}
+  - {name: State incentive / local news (Cincinnati, Detroit, Torrance, Reno), why: plant openings, leases, headcount, status: seed}
+
+job_boards:                   # weekly; careers pages via scripts/fetch_site.py — job titles reveal the stack
+  - {name: tracked company careers pages, why: 'controls engineer', 'ML for inspection', 'CAM automation' tell you what the software does, status: seed}
+
+harmonic_and_crm:             # weekly
+  - {name: Harmonic saved search 'ANIP candidates', why: new companies matching layer keywords + founder backgrounds (SpaceX/Tesla/Anduril manufacturing alumni), status: seed}
+  - {name: Affinity list 'AI-native industrial production', why: SPC's own pipeline and notes, status: seed}
+
+alphasense:                   # see watchlist/searches.yml; run weekly, drop PDFs into inbox/alphasense/
+  - {name: expert transcripts + broker research + earnings calls, status: seed}
+
+conferences:                  # monthly
+  - {name: Reindustrialize (Detroit), status: seed}
+  - {name: IMTS / FABTECH / RAPID+TCT, why: machine builders and shops in one place, status: seed}
+  - {name: SpaceCom / Space Symposium, why: aero supply chain, status: seed}

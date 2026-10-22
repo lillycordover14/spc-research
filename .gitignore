@@ -1,0 +1,13 @@
+# generated sqlite (rebuild with `make index`); jsonl/csv indexes ARE committed so agents can read without python
+index/*.sqlite
+# large originals: keep PDFs/docs, skip audio/video (transcribe into sources/ instead)
+raw/**/*.mp3
+raw/**/*.mp4
+raw/**/*.m4a
+raw/**/*.wav
+raw/**/*.mov
+__pycache__/
+.venv/
+.DS_Store
+*.tmp
+.env

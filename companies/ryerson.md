@@ -1,0 +1,55 @@
+---
+slug: ryerson
+name: Ryerson
+aliases: []
+website: null
+hq: null
+founded: null
+layer: metals-supply
+layers: []
+model: owner-operator
+what: Public metals service center (cut-to-size, processing). The incumbent Nox Metals is rebuilding.
+fit: []
+stage: public
+total_raised_usd: null
+last_round:
+  date: null
+  amount_usd: null
+  lead: null
+  valuation_usd: null
+  source: null
+investors: []
+founders: []
+headcount: null
+customers: []
+harmonic_urn: null
+affinity_id: null
+pitchbook: null
+status: incumbent
+spc_owner: Lilly
+tags:
+- service-center
+- incumbent
+- gross-margin
+sources: []
+data_quality: ''
+updated: '2026-10-22'
+---
+
+## What they do
+Public metals service center (cut-to-size, processing). The incumbent Nox Metals is rebuilding.
+
+## Why it fits the theme (or doesn't)
+Benchmark / incumbent, not a target.
+
+## Traction and signals
+- (add from AlphaSense earnings transcripts)
+
+## Economics (what we know)
+- (pull GM, capex/revenue, lead-time claims from filings)
+
+## Open questions
+- 
+
+## People
+- 

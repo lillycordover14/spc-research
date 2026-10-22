@@ -1,0 +1,111 @@
+# Controlled vocabulary for the whole repo. Agents MUST use these values in frontmatter.
+# Layers mirror slide 8 of "RoY 2026 Investment Team Priorities" (AI Native Industrial Production).
+
+layers:
+  metals-supply:
+    label: "1. Metals supply"
+    what: "Mining, refining, and cut-to-size metal. Buyer: manufacturers."
+    incumbents: [BHP, "China-based refiners", "metals service centers (Ryerson, Reliance)", brokers]
+    upstart_angle: "Run mines/refineries/cutting lines on in-house software; quote in minutes not days; rebuild US refining"
+    seed_companies: [mariana-minerals, nox-metals]
+  fabrication:
+    label: "2. Fabrication"
+    what: "Forming, welding, assembling structures. Buyer: defense, builders."
+    incumbents: ["job shops", "contract manufacturers", "robot makers (Fanuc, ABB)"]
+    upstart_angle: "Robotic cells under one software layer; lead times weeks->days; no dedicated tooling"
+    seed_companies: [machina-labs, senra-systems, 1872, sendcutsend]
+  precision-parts:
+    label: "3. Precision parts"
+    what: "Machined and 3D-printed metal parts. Buyer: aerospace, defense."
+    incumbents: [Precision Castparts, Proto Labs, Xometry]
+    upstart_angle: "Software plans and runs machining / metal printing; scale to defense demand without more machinists"
+    seed_companies: [hadrian, divergent, freeform, isembard]
+  materials-rd:
+    label: "4. Materials R&D"
+    what: "Labs where AI and robots test new materials. Buyer: aerospace, energy."
+    incumbents: ["corporate R&D", "national labs"]
+    upstart_angle: "Closed loop: AI proposes, robots make and test, results train the next round"
+    seed_companies: [periodic-labs, cuspai, radical-ai]
+  factory-ai:
+    label: "5. Factory AI"
+    what: "AI that runs plants owned by others. Buyer: manufacturers."
+    incumbents: [Siemens, Rockwell, "MES vendors"]
+    upstart_angle: "Models trained on factory video; coordinate machines and workers; learn from the floor"
+    seed_companies: [arda, mind-robotics]
+  adjacent:
+    label: "Adjacent / watch"
+    what: "Owner-operator pattern applied outside the five layers (robotic earthworks, construction, energy equipment). Track, don't model."
+    seed_companies: [terrafirma]
+
+# Slide 8: "two approaches"
+business_models:
+  owner-operator: "Builds and runs its own plant(s); sells parts or material (1872, Nox, Mariana, Hadrian, Machina)"
+  software-first: "Sells AI that learns from factory video and coordinates machines in plants owned by others (Arda, Mind Robotics)"
+  hybrid: "Owns some capacity AND licenses software/factory-as-a-service (Freeform, Divergent)"
+  enabler: "Picks-and-shovels for the above (sensors, robots, inspection, quoting software) — track as adjacent"
+
+source_types:
+  alphasense: "AlphaSense expert-call transcripts, broker research, earnings transcripts"
+  expert-call: "SPC's own expert / customer / founder calls (Granola, AlphaSense-arranged)"
+  market-research: "Reports: NAM, Deloitte/MI, IEA, USGS, IFR, McKinsey, banks, Contrary/Sacra memos"
+  article: "Press, newsletters, blogs, substack, press releases"
+  podcast: "Podcast / YouTube / conference-talk transcripts"
+  website: "Snapshot of a company website, careers page, product page"
+  filing: "Gov & regulatory: SAM.gov awards, SBIR, DoD/DIU, EDGAR, permits, patents, state incentives"
+  dataset: "Structured data: Census ASM, BLS, USGS MCS, IFR, Harmonic exports, pricing series"
+  other: "Anything else (decks, internal memos, Slack threads)"
+
+# Why a company fits (or doesn't). Tag companies with the ones that apply; the thesis test on slide 8.
+fit_tests:
+  owns-production: "Runs its own physical production capacity"
+  in-house-software: "Software that quotes/schedules/controls/inspects is built in-house, not bought"
+  data-loop: "Each unit produced improves quoting, scheduling or quality (proprietary process data)"
+  mission-critical-output: "Output is on a critical path for the customer (defense, aero, grid, AI buildout)"
+  secured-inputs: "Owns or has locked capacity/permits/feedstock that others can't get quickly"
+  speed-moat: "Wins on lead time (days vs months) more than on price"
+  customer-qualification: "Holds hard-to-get qualifications (AS9100, NADCAP, ITAR, DoD prime approvals)"
+
+tags:  # free-form but prefer these
+  - labor-gap
+  - robot-density
+  - rare-earths
+  - refining-concentration
+  - defense-demand
+  - reshoring
+  - tariffs
+  - capex-financing
+  - unit-economics
+  - gross-margin
+  - lead-time
+  - quoting
+  - scheduling
+  - process-control
+  - inspection-qc
+  - welding
+  - forming
+  - machining
+  - additive
+  - casting
+  - forging
+  - wire-harness
+  - sheet-metal
+  - steel
+  - aluminum
+  - titanium
+  - copper
+  - lithium
+  - magnets
+  - autonomous-lab
+  - factory-video
+  - mes
+  - job-shop
+  - marketplace
+  - service-center
+  - m-and-a
+  - competitor
+  - incumbent
+
+company_status: [candidate, tracking, pipeline, in-diligence, passed, portfolio, not-a-fit, incumbent, competitor]
+source_status: [unread, summarized, reviewed]
+confidence: [high, med, low]
+stages: [pre-seed, seed, series-a, series-b, series-c, series-d, growth, public, private-mature, unknown]

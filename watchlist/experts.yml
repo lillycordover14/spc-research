@@ -1,0 +1,18 @@
+# People whose public output we track (Energy-Themes pattern: 8 experts, 2-of-8 alert band). Start with these; prune to the 8 that actually say new things.
+# "mentions" = companies they name in podcasts/posts; the agent counts them in insights/signals.md.
+
+tracked:
+  - {name: Chris Power, affiliation: Hadrian (CEO), why: defines the category; talks numbers on factory economics, status: seed}
+  - {name: Edward Mehr, affiliation: Machina Labs (CEO), why: forming/robotics specifics, status: seed}
+  - {name: Jordan Black, affiliation: Senra Systems (CEO), why: harness automation, defense demand, status: seed}
+  - {name: Turner Caldwell, affiliation: Mariana Minerals (CEO), why: refining and software, status: seed}
+  - {name: Kevin Czinger, affiliation: Divergent (CEO), why: additive production economics, status: seed}
+  - {name: Jim Belosic, affiliation: SendCutSend (CEO), why: non-defense owner-operator economics, status: seed}
+  - {name: Katherine Boyle, affiliation: a16z American Dynamism, why: investor thesis + portfolio signals, status: seed}
+  - {name: Delian Asparouhov, affiliation: Founders Fund / Varda, why: hardware-company financing views, status: seed}
+  - {name: Dayna Grayson, affiliation: Construct Capital, why: industrial software + Hadrian investor, status: seed}
+  - {name: Bob McGrew, affiliation: Arda, why: software-first view of factory AI, status: seed}
+  - {name: Liam Fedus, affiliation: Periodic Labs, why: autonomous lab view, status: seed}
+  - {name: Titan Gilroy, affiliation: Titans of CNC, why: what real shops think of automation, status: seed}
+
+alert_rule: "A company named by 2+ tracked people in 30 days, not yet in companies/, becomes a candidate (companies/_candidates.md) with both source ids."

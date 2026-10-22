@@ -66,6 +66,7 @@ fit_tests:
   customer-qualification: "Holds hard-to-get qualifications (AS9100, NADCAP, ITAR, DoD prime approvals)"
 
 tags:  # free-form but prefer these
+  - must-read  # curated best sources; see insights/best-of.md
   - labor-gap
   - robot-density
   - rare-earths

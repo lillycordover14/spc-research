@@ -70,6 +70,10 @@ sources:
 - src-20260810-f0371c
 - src-20250929-857f17
 - src-20250619-46e43c
+- src-20251106-dfddcb
+- src-20251110-84b67e
+- src-20251120-0c271b
+- src-20260621-f96bbd
 data_quality: Headcount 66 per Tech.eu Aug 2026 vs 76 per Harmonic; total raised $59M = $9M seed + $50M A plus undisclosed debt for owned factories; Series A valuation not disclosed (Harmonic estimates ~$250M); seed investor 'Foreword Fund' appears as 'Forward Fund' in Resilience Media; owned vs franchised split of the 14 factories not disclosed.
 updated: '2026-10-22'
 ---
@@ -89,7 +93,11 @@ Isembard runs a network of small precision-machining factories (CNC milling and 
 ## Traction and signals
 - 2026-08-10 — 14 factories (7 UK, 5 US, 1 FR, 1 DE), 66 staff, target 25 by YE2026, Ukraine next; customers Anduril, Tekever, ARX Robotics, UK gov; demand exceeds supply, turning down orders [src-20260810-f0371c]
 - 2026-08-10 — First franchisee Shawn Rowcliffe (22, ex-Babcock machinist); other franchisees include a restaurant owner, a cardiac nurse, a veteran and an investor [src-20260810-f0371c]
+- 2026-06-21 — AlphaSense call (Manufacturing Lead at Humanoid): Isembard was used for two urgent, one-off orders to resolve unplanned design issues in robot prototypes, delivering high-quality parts with very fast turnaround (as quick as two days). [src-20260621-f96bbd]
 - 2026-03-09 — $50M Series A led by USV; new Tamarack Global, IQ Capital; existing Notion, CIV; angels Bouaziz, Danescu, Briers; 6 factories at announcement; US, UK, DE, FR, UA footprint; hiring engineers in Europe and US [src-20260310-45bab3]
+- 2025-11-20 — AlphaSense call (Rolls Royce Engineer): Collaborative design and design for manufacturing are critical, with OEMs often involving suppliers early to optimize manufacturability and cost. [src-20251120-0c271b]
+- 2025-11-10 — AlphaSense call (Chief Procurement Officer at Astek - Thales Alenia Space): The primary pain points in the current CNC parts supply chain are market capacity constraints, increasing lead times, and compliance with regulations such as REACH, rather than quality or technical capability. [src-20251110-84b67e]
+- 2025-11-06 — AlphaSense call (Head of Supply Chain at Airbus Defence and Space): Most high precision CNC parts are procured from suppliers using a build-to-print model, with strict adherence to technical specifications and quality standards. [src-20251106-dfddcb]
 - 2025-09-29 — MasonOS launched at Resilience Conference London; three user groups planned: owned, franchised, white-label licensees; certs AS9100, ISO 9001, ITAR, Cyber Essentials, JOSCAR [src-20250929-857f17]
 - 2025-04 — $9M seed led by Notion Capital with 201 Ventures, Basis, Foreword, Material, Never Lift, NP-Hard; undisclosed debt for owned factories [src-20250929-857f17]
 - 2025-01 — First factory opened in Harlesden, NW London [src-20260810-f0371c]

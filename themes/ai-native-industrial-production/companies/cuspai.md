@@ -66,6 +66,8 @@ sources:
 - src-20261022-37a0ea
 - src-20261022-549759
 - src-20261016-29997e
+- src-20260909-af3e60
+- src-20260913-3ad55e
 data_quality: 'Slide 8: $450M Series B. Harmonic: $980M total at $2.6B (2026-07); Dealroom profile says $580M total ($30M seed + $100M+ Series A Sep 2025 + $450M Series B), which reconciles with press, so $580M used here [src-20260720-02f3fe]. NVIDIA/Samsung/Hyundai appear in Harmonic as investors and on cusp.ai as Foundry partners; investor status unconfirmed in press. Founders'' prior roles from Harmonic, not re-sourced.'
 updated: '2026-10-22'
 ---
@@ -81,10 +83,12 @@ CuspAI pairs generative AI with molecular simulation to design new materials and
 - Net: the software-first control case for layer 4, the way Arda is for factory AI. Contrast with Periodic (owns labs, sells agents) and Radical (owns lab, makes alloys). Not an SPC deal at $2.6B [src-20260720-840ae3].
 
 ## Traction and signals
+- 2026-10-22 — Site lists ~30 industry partners (3M, AMD, Applied Materials, Lam, Tokyo Electron, Kioxia, Umicore, Johnson Matthey, Topsoe, Oxford PV, UDC, Qnity), ~15 lab partners (imec, A*STAR, DTU, TU/e, Cambridge, Amsterdam) and data partners CCDC, ICSD, Wiley [src-20261022-37a0ea]
+- 2026-09-13 — AlphaSense call (Director of Solutions Engineering at Albert Invent): Newer companies like Cusp, Periodic Labs, and LILA are taking different approaches to materials discovery, with some building foundational AI models and others focusing on direct material production or embedding with enterprise customers. [src-20260913-3ad55e]
+- 2026-09-09 — AlphaSense call (Former Director at Moderna): AI platforms such as CuspAI, Lila, Radical AI, and Periodic Labs are transforming scientific discovery, with each excelling in different material domains and workflows. [src-20260909-af3e60]
 - 2026-07-20 — $450M Series B at $2.6B, co-led by Kleiner Perkins and NEA; Bezos Expeditions, Glade Brook, Lux, AMD Ventures, UK Sovereign AI Venture Fund, Invest-NL, John Doerr new; valuation >4x the Sep 2025 round [src-20260720-840ae3]
 - 2026-07-20 — Term sheets had been signed in June at a $400M target; closed at $450M; adding Singapore office to Cambridge, Amsterdam, Berlin, Tokyo, US; Dealroom total raised $580M [src-20260720-02f3fe]
 - 2026-07 — AI Materials Foundry launched with 45+ founding members incl. Nvidia (compute), Meta FAIR, Samsung, Hyundai, Hitachi High-Tech, Merck [src-20260720-840ae3]
-- 2026-10-22 — Site lists ~30 industry partners (3M, AMD, Applied Materials, Lam, Tokyo Electron, Kioxia, Umicore, Johnson Matthey, Topsoe, Oxford PV, UDC, Qnity), ~15 lab partners (imec, A*STAR, DTU, TU/e, Cambridge, Amsterdam) and data partners CCDC, ICSD, Wiley [src-20261022-37a0ea]
 - 2025-09 — $100M+ Series A at $520M valuation [src-20260720-02f3fe]
 
 ## Economics (what we know)

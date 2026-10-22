@@ -85,12 +85,12 @@ Mind Robotics began as Rivian's internal "Project Synapse" and was spun out in N
 - Net: taxonomy calls this software-first, but it is really a full-stack robot vendor with a captive OEM. For the thesis it is the test of whether a software/robotics vendor can get proprietary process data without owning the plant; the answer so far is yes, by having the plant owner own a third of you.
 
 ## Traction and signals
+- 2026-10-22 — Website lists HQ Palo Alto, Rivian as first manufacturing partner, careers incl. Application Engineer roles [src-20261022-eede0b]
 - 2026-10-13 — Doug Field (ex-Tesla SVP Engineering, ex-Apple car lead, ex-Ford Chief EV/Digital/Design Officer) joins as President over product, engineering, operations; Rivian disclosed as first customer owning ~one-third of Mind; no public product yet [src-20261014-461a42]
 - 2026-05-15 — Valuation ~$3.4B (WSJ); Salesforce Ventures and VW-tied Incharge Capital in the round; origin as Rivian "Project Synapse" [src-20260515-176e26]
 - 2026-05-13 — $400M Series B led by Kleiner Perkins; new Meritech, Redpoint, SV Angel, Incharge, A-Star, Garuda; returning Accel, a16z, Eclipse, Prysm, Bain Capital Ventures, Greenoaks; >$1B cumulative [src-20260513-83aa83]
 - 2026-03-11 — $500M Series A co-led by Accel and a16z at ~$2B (WSJ); $615M total; Scaringe says large number of robots deployed by YE2026; traditional robot forms, not humanoids [src-20260311-44ded4]
 - 2025-11-04 — Spinout announced in Rivian Q3 letter; $115M seed led by Eclipse (Jiten Behl, ex-Rivian); Scaringe chairman per SEC filing; no website, broad trademark only [src-20251104-5c9189]
-- 2026-10-22 — Website lists HQ Palo Alto, Rivian as first manufacturing partner, careers incl. Application Engineer roles [src-20261022-eede0b]
 
 ## Economics (what we know)
 - Pricing model: not disclosed in any source (per cell, per task, RaaS or sale all unknown).

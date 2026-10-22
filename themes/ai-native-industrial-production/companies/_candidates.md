@@ -101,3 +101,12 @@ Promote with `make new-company name="..."` once there are 2 independent sources 
 - 2026-10-22 | Terra AI | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261012-539c82] [src-20261022-66fe7f] [src-20261022-9367ca] | grokbot
 - 2026-10-22 | Vuecason | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261012-539c82] [src-20261022-66fe7f] [src-20261022-9367ca] | grokbot
 - 2026-10-22 | Daedalus | precision-parts | AI precision CNC machining (Germany, non-US); founder Jonas Schneider on NGP podcast | [src-20251203-fc28ea] | grokbot
+
+## From Drive import (2026-10-22)
+- 2026-10-22 | Chai Discovery | materials-rd | AI molecule/drug discovery models; on SPC biopharma shallow-dive list; 4 AlphaSense customer/expert calls filed | [src-20261022-80fd75] + drive-import calls | grokbot
+- 2026-10-22 | Edison Scientific | materials-rd | AI-for-science; on SPC biopharma shallow-dive list | [src-20261022-80fd75] | grokbot
+- 2026-10-22 | iCOMAT | precision-parts | Automated composite manufacturing, owns production (UK, non-US); JLR customer call | drive-import EC-1000000-227385 | grokbot
+- 2026-10-22 | Boltz | materials-rd | AI biomolecular modeling, Chai peer; GSK call | drive-import Boltz call | grokbot
+- 2026-10-22 | Code Metal | factory-ai | AI code generation for robotics/embedded; GM call; also on SPC VC list | drive-import EC-1000000-232320 | grokbot
+- 2026-10-22 | xdof | factory-ai | Egocentric data for robot training; Nike call; 8VC portco | drive-import xdof call | grokbot
+- 2026-10-22 | FACTON / Cognite / Laminar / RealWear / Protex AI / Trio Mobil / Nominal / Figure / Boston Dynamics / Fleet Space | factory-ai (Fleet Space: metals-supply) | software-first factory or industrial AI; one AlphaSense call each in drive-import; mostly scaled or non-target, track as benchmarks | drive-import | grokbot

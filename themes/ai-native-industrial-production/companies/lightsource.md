@@ -1,0 +1,44 @@
+---
+slug: lightsource
+name: Lightsource
+aliases: []
+website: null
+hq: null
+founded: null
+layer: factory-ai
+layers:
+- factory-ai
+model: software-first
+what: ''
+fit: []
+stage: unknown
+total_raised_usd: null
+last_round: {}
+investors: []
+founders: []
+headcount: null
+customers: []
+harmonic_urn: null
+affinity_id: null
+pitchbook: null
+status: candidate
+spc_owner: Lilly
+tags: []
+sources:
+- src-20260709-2f97ad
+data_quality: auto-created stub from src-20260709-2f97ad; fill layer/model/what
+updated: '2026-10-22'
+---
+
+## What they do
+
+## Why it fits the theme (or doesn't)
+
+## Traction and signals
+- 2026-07-09 — AlphaSense call (Chief Procurement Officer at TIME Manufacturing Company): The procurement function was newly established following multiple acquisitions, with a matrix structure separating global category management and local market operations. [src-20260709-2f97ad]
+
+## Economics (what we know)
+
+## Open questions
+
+## People

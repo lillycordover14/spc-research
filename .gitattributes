@@ -1,7 +1,5 @@
-# Originals under raw/ go to Git LFS so the repo stays fast. Text extracted into sources/ is what agents read.
-themes/*/raw/**/*.pdf  filter=lfs diff=lfs merge=lfs -text
-themes/*/raw/**/*.docx filter=lfs diff=lfs merge=lfs -text
-themes/*/raw/**/*.pptx filter=lfs diff=lfs merge=lfs -text
-themes/*/raw/**/*.xlsx filter=lfs diff=lfs merge=lfs -text
-themes/*/raw/**/*.zip  filter=lfs diff=lfs merge=lfs -text
+# Originals under raw/ are committed as normal files for now (text extracted into sources/ is what agents read).
+# When raw/ passes ~200 MB, switch PDFs/office files to Git LFS (uncomment) or point `raw_file` at a bucket (Cloudflare R2 / SharePoint):
+# themes/*/raw/**/*.pdf  filter=lfs diff=lfs merge=lfs -text
+# themes/*/raw/**/*.docx filter=lfs diff=lfs merge=lfs -text
 *.sqlite binary

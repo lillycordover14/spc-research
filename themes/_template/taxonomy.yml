@@ -1,0 +1,44 @@
+# Controlled vocabulary for this theme. Keep the KEYS below (layers, business_models, source_types, fit_tests, tags,
+# company_status, source_status, confidence, stages) — scripts and schemas depend on them. Change the VALUES freely.
+
+layers:                 # the 4-6 layers of the sector breakdown (one per row of the deck slide)
+  layer-one:
+    label: "1. Layer one"
+    what: "What it is. Buyer: who."
+    incumbents: []
+    upstart_angle: ""
+    seed_companies: []
+  adjacent:
+    label: "Adjacent / watch"
+    what: "Same pattern outside the main layers. Track, don't model."
+    seed_companies: []
+
+business_models:
+  owner-operator: "Owns and runs the asset"
+  software-first: "Sells software into assets owned by others"
+  hybrid: "Both"
+  enabler: "Picks and shovels"
+
+source_types:
+  alphasense: "AlphaSense expert-call transcripts, broker research, earnings transcripts"
+  expert-call: "SPC's own expert / customer / founder calls"
+  market-research: "Reports"
+  article: "Press, newsletters, blogs, press releases"
+  podcast: "Podcast / YouTube / talk transcripts"
+  website: "Snapshot of a company website or careers page"
+  filing: "Gov & regulatory filings, awards, patents, permits"
+  dataset: "Structured data"
+  other: "Anything else"
+
+fit_tests:
+  owns-asset: "Owns the physical asset"
+  in-house-software: "Core software built in-house"
+  data-loop: "Operating the asset produces data that improves the next unit"
+  mission-critical-output: "Output is on a critical path for the customer"
+
+tags: [competitor, incumbent, m-and-a, unit-economics, gross-margin, capex-financing]
+
+company_status: [candidate, tracking, pipeline, in-diligence, passed, portfolio, not-a-fit, incumbent, competitor]
+source_status: [unread, summarized, reviewed]
+confidence: [high, med, low]
+stages: [pre-seed, seed, series-a, series-b, series-c, series-d, growth, public, private-mature, unknown]

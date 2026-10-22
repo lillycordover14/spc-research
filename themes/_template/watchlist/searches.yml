@@ -1,0 +1,5 @@
+alphasense: {company_names: [], themes: [], earnings_calls_to_pull_quarterly: [], expert_call_targets: []}
+google_news: []               # plain query strings; sweep.py runs them via Google News RSS
+harmonic_scout: []
+x_search: []
+job_titles_to_flag: []

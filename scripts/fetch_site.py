@@ -7,7 +7,7 @@ Careers pages are gold: job titles reveal the software/robotics stack and what t
 import sys, re, time, requests
 from pathlib import Path
 from bs4 import BeautifulSoup
-from common import ROOT, write_fm, make_id, sha256_text, today
+from common import ROOT, SOURCES, write_fm, make_id, sha256_text, today, rel
 
 PATHS = ["", "/about", "/company", "/careers", "/jobs", "/products", "/product", "/technology", "/platform", "/blog", "/news", "/press", "/customers"]
 UA = {"User-Agent": "Mozilla/5.0 (research snapshot; smithpointcapital.com)"}
@@ -36,8 +36,8 @@ def main():
           "url": base, "publisher": slug, "companies": [slug], "layers": [], "tags": ["website-snapshot"],
           "summary": "", "key_facts": [], "takeaways": [], "confidence": "high", "raw_file": None,
           "hash": sha256_text(body), "word_count": len(body.split()), "status": "unread", "added_by": "fetch_site.py"}
-    out = ROOT / "sources" / "websites" / f"{sid}.md"
-    write_fm(out, fm, body); print(out.relative_to(ROOT))
+    out = SOURCES / "websites" / f"{sid}.md"
+    write_fm(out, fm, body); print(rel(out))
 
 if __name__ == "__main__":
     main()

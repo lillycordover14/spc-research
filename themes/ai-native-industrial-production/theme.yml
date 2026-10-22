@@ -1,0 +1,11 @@
+slug: ai-native-industrial-production
+short: anip
+name: AI-native industrial production
+owner: Lilly Cordover
+status: active                 # active | paused | archived
+started: 2026-10-22
+description: >
+  Companies that build and run their own production capacity on in-house AI, software and robotics, from metals and
+  refining to fabrication and precision parts, plus software-first vendors that run plants owned by others.
+  Layers follow slide 8 of the RoY 2026 investment team priorities deck.
+deck_source: src-20261022-80fd75

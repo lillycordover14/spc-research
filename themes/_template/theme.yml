@@ -1,0 +1,9 @@
+slug: {{slug}}
+short: {{short}}
+name: {{name}}
+owner: Lilly Cordover
+status: active
+started: {{today}}
+description: >
+  One paragraph: what this vertical is, in plain English.
+deck_source:

@@ -5,8 +5,8 @@
   python3 scripts/search.py --company hadrian          # every source that tags hadrian
 """
 import argparse, sqlite3, json
-from common import ROOT
-DB = ROOT / "index" / "anip.sqlite"
+from common import ROOT, INDEX
+DB = INDEX / "db.sqlite"
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("q", nargs="?"); ap.add_argument("--kind"); ap.add_argument("--limit", type=int, default=15)

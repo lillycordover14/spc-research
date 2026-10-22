@@ -1,5 +1,7 @@
 # PLAN — AI-native industrial production: data store + 7-day sprint
 
+_Status 2026-10-22: sections 0-3 are built (repo, scripts, automations, first 78 sources, thesis v0, weekly v0). What remains is the human part of section 4: AlphaSense exports, expert calls, founder conversations, and the group decision._
+
 Goal: by the group decision next week, have every useful desktop source (AlphaSense transcripts, expert calls, market research, company sites, articles, podcasts) in one place an agent can read, and be the most knowledgeable person in the room on the five layers of slide 8.
 
 ## 0. Design decisions (made)
@@ -7,19 +9,21 @@ Goal: by the group decision next week, have every useful desktop source (AlphaSe
 - **One file per record**: `companies/<slug>.md`, `sources/<type>/<id>.md`, `people/<slug>.md`. Frontmatter = structured fields (schema in `schema/`), body = full text.
 - **Controlled vocabulary** in `taxonomy.yml` (layers from slide 8, business models, fit tests, source types, statuses). Validator enforces it.
 - **Originals kept** in `raw/` (PDF/DOCX/HTML); audio is transcribed and not committed.
-- **Agent contract** in `AGENTS.md`: ingest, extract, source, synthesize. Works for GrokBot, Claude Code or Cowork.
+- **Agent contract** in `AGENTS.md`: ingest, extract, source, synthesize. Works for GrokBot, Claude Code or Cowork. Paste-ready prompt in `GROKBOT-PROMPT.md`.
+- **Multi-vertical**: everything theme-specific sits in `themes/<slug>/`; scripts, schemas, templates, workflows are shared. `make new-theme` starts a vertical.
+- **Automation on GitHub**: `validate-and-index` on every push (so an agent that only writes files keeps the DB consistent) and a daily `sweep` (Google News RSS + trade-press RSS + Monday site snapshots) that files new items as `status: unread`.
+- **GrokBot-efficient writes**: one small file per record, append-friendly logs, auto-created company stubs, generated `index/QUEUE.md` to-do list, `index/VALIDATION.md` error report; three write paths (shell, GitHub API, web editor).
 
-## 1. Setup (30 minutes, today)
-1. Unzip → `ai-native-industrial-production/`. Open in VS Code / Claude Code.
-2. `pip install -r requirements.txt` (pyyaml, pypdf, python-docx, bs4, requests, feedparser). `pdftotext`, `pandoc`, `ffmpeg` optional but faster.
-3. `make index && make validate` — confirms the seed loads (23 companies, 12 people).
-4. Push to GitHub (private): `gh repo create lillycordover14/ai-native-industrial-production --private --source=. --push` (or create empty repo in UI, then `git remote add origin ... && git push -u origin main`).
-5. Give the agent access: GrokBot → point it at the repo URL + `AGENTS.md`; Claude Code → `cd` into the repo and it reads `AGENTS.md` automatically; Cowork → connect the folder.
-6. Create the Affinity list "AI-native industrial production" and the Harmonic saved search "ANIP candidates" (queries in `watchlist/searches.yml`) so the weekly sweep has somewhere to pull from.
+## 1. Setup (15 minutes)
+1. **Get it on GitHub** (private repo `spc-research`). Either link GitHub to Claude once (claude.ai → Settings → Connectors → GitHub) and tell Claude "push it", or locally: `cd spc-research && gh repo create lillycordover14/spc-research --private --source=. --push` (needs `git lfs install` first for the PDFs under raw/; if LFS is a hassle, delete `.gitattributes` and push plain).
+2. **Turn on Actions**: Settings → Actions → "Allow all actions", and Settings → Actions → General → Workflow permissions → "Read and write". Then Actions tab → `sweep` → Run workflow (days=30, sites=true) for the first fill. Check `themes/anip/index/SWEEP-LOG.md` and `QUEUE.md` after.
+3. **Give GrokBot the repo**: repo URL + `GROKBOT-PROMPT.md` pasted as its instructions. If GrokBot has GitHub access, it writes cards directly; if not, it returns JSON and you (or Claude) run `scripts/add_source.py`.
+4. Local use: `pip install -r requirements.txt`, then `make validate && make index`.
+5. Create the Affinity list "AI-native industrial production" and the Harmonic saved search "ANIP candidates" (queries in `watchlist/searches.yml`).
 
 ## 2. How data gets in (the daily loop)
 ```
-inbox/alphasense/      <- AlphaSense PDF/TXT exports (transcripts, broker notes)
+themes/anip/inbox/alphasense/      <- AlphaSense PDF/TXT exports (transcripts, broker notes)
 inbox/expert-calls/    <- Granola exports / call notes
 inbox/market-research/ <- NAM, Deloitte, IEA, USGS, IFR, bank reports
 inbox/articles/        <- saved HTML / text; name them  article__<publisher>__<YYYY-MM-DD>__<title>.html
@@ -58,8 +62,8 @@ Anything you already have on the desktop: drag the files into the matching inbox
 ## 4. The week
 | Day | Do | Output |
 |---|---|---|
-| Thu 10/23 | Setup (§1). Drop everything already on the desktop into `inbox/`, `make ingest`. Run the 11 AlphaSense company searches + 10 theme searches, export to `inbox/alphasense/`. Book 3-4 expert calls (targets in searches.yml). | Repo live, first 30-60 sources in, calls booked |
-| Fri 10/24 | Agent Job 1+2 over everything ingested. Snapshot all 16 websites/careers (`fetch_site.py`). Pull earnings transcripts for the 9 comps. | Every source summarized; company files updated; `signals.md` populated |
+| Thu 10/23 | Setup (§1): push, enable Actions, first sweep. Drop desktop files into `inbox/`, `make ingest`. Run the 11 AlphaSense company searches + 10 theme searches, export to `inbox/alphasense/`. Book 3-4 expert calls (targets in searches.yml). Read `insights/weekly/2026-W43.md`. | Repo live on GitHub, AlphaSense material in, calls booked |
+| Fri 10/24 | Agent Job 1+2 over AlphaSense material and sweep results. Pull earnings transcripts for the 9 comps (GM benchmarks). | Every source summarized; Q4 (gross margin) answered |
 | Sat/Sun | Agent weekly sweep (Job 3): podcasts/YouTube transcribed, Harmonic scout, SAM.gov. Lilly reads `index/STATS.md` + top sources only. | `_candidates.md` with 10-20 names; first `insights/weekly/2026-W43.md` draft |
 | Mon 10/27 | Expert calls 1-2. Ingest Granola notes same day. Answer questions A1-A3 and B4-B5 in writing. | Questions A/B partial → answered |
 | Tue 10/28 | Expert calls 3-4. Answer C and D. Build the layer x model matrix with SPC's pick per cell. | Matrix v1 |

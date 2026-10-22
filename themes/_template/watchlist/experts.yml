@@ -1,0 +1,2 @@
+tracked: []   # [{name, affiliation, why, status}]
+alert_rule: "A company named by 2+ tracked people in 30 days becomes a candidate."

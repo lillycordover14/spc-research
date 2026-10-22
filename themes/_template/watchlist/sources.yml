@@ -1,0 +1,11 @@
+cadence: {daily: [google_news_queries, x_lists, rss], weekly: [podcasts, youtube_channels, gov_data, job_boards, harmonic_saved_searches], monthly: [reports, conferences]}
+rss_and_trade_press: []       # [{name, url, rss, why, status}]
+newsletters_and_memos: []
+podcasts: []
+youtube_channels: []
+x_lists: {founders: [], investors: [], operators_and_commentators: []}
+gov_and_structured_data: []
+job_boards: []
+harmonic_and_crm: []
+alphasense: []
+conferences: []

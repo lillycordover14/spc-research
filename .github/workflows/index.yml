@@ -1,0 +1,39 @@
+name: validate-and-index
+# Runs on every push: validates frontmatter and rebuilds index/ for every theme, then commits index/ back.
+# This is what lets an agent that can only create/edit files (GitHub API, web editor) keep the database consistent.
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["themes/*/index/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: index, cancel-in-progress: false}
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 1}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: validate + index every theme
+        id: run
+        run: |
+          set +e; fail=0
+          for t in $(ls themes | grep -v '^_'); do
+            echo "== $t"
+            python3 scripts/validate.py --theme $t || fail=1
+            python3 scripts/build_index.py --theme $t
+          done
+          echo "fail=$fail" >> "$GITHUB_OUTPUT"
+      - name: commit index
+        run: |
+          git config user.name "spc-research-bot"; git config user.email "bot@smithpointcapital.com"
+          git add -A themes/*/index
+          git diff --cached --quiet || git commit -m "index: rebuild [skip ci]"
+          git push
+      - name: fail if validation failed
+        if: steps.run.outputs.fail == '1'
+        run: echo "validation problems: see themes/*/index/VALIDATION.md" && exit 1

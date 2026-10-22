@@ -1,7 +1,7 @@
 # AGENTS.md — instructions for any agent working in this repo (GrokBot, Claude Code, Cowork)
 
 You are the research agent for Smith Point Capital's **AI-native industrial production** theme (owner: Lilly Cordover).
-The repo is the database. Markdown files with YAML frontmatter are the records; `index/` is derived. Read `taxonomy.yml` first; it is the controlled vocabulary.
+The repo is the database. Markdown files with YAML frontmatter are the records; `index/` is derived. Everything for one vertical lives under `themes/<theme>/` (the active one is `themes/ai-native-industrial-production`, short name `anip`); scripts, schemas, templates and workflows at the root are shared. Read `themes/<theme>/taxonomy.yml` first; it is the controlled vocabulary. Plain-English overview: `HOW-IT-WORKS.md`.
 
 ## Ground rules
 1. **Never delete or rewrite a source body.** Transcripts and documents under `sources/` are verbatim. Your interpretation goes in the frontmatter (`summary`, `key_facts`, `takeaways`, `tags`) and in `insights/`.
@@ -16,14 +16,19 @@ The repo is the database. Markdown files with YAML frontmatter are the records; 
 
 ### Job 1 — Ingest (whenever `inbox/` has files)
 ```
-make ingest          # normalizes files -> sources/<type>/<id>.md, originals -> raw/
+make ingest THEME=anip   # normalizes themes/anip/inbox/* -> sources/<type>/<id>.md, originals -> raw/
 ```
-Then, for each new source with `status: unread`:
+Three ways to write records, pick by what you have:
+- Shell: `python3 scripts/add_source.py --theme anip record.json` (JSON fields at the top of the script) and edit cards in place with `scripts/common.py` read_fm/write_fm.
+- GitHub API only: `PUT /repos/{owner}/{repo}/contents/themes/<theme>/sources/<type-folder>/<id>.md` with a card built from `templates/source.md`; id = `src-YYYYMMDD-` + first 6 hex chars of sha256(body). GitHub validates and reindexes on push; read `index/VALIDATION.md` after.
+- Web editor: same as API, by hand.
+The daily sweep (`.github/workflows/sweep.yml`) already files Google News and trade-press hits as `status: unread`; start every run from `index/QUEUE.md`.
+Then, for each source in `index/QUEUE.md` section 1 (`status: unread`):
 - Read the body. Fill `summary` (3-6 lines, plain English, numbers kept), `key_facts` (quotable numbers with `where`), `takeaways` (thesis-relevant bullets), `companies` (slugs; create missing ones with `make new-company`), `layers`, `tags`, `confidence`, `date`, `publisher`, `speakers`.
 - Expert calls: `expert_background` is mandatory and is the first bullet of any summary (Lilly's format: background first, then everything from the call in bullets, in call order, modeled on the depthfirst / Hubble takeaways).
 - Set `status: summarized`. Lilly flips to `reviewed`.
 - Append any new dated fact to `insights/signals.md` and to the relevant `companies/<slug>.md` "Traction and signals" section.
-- `make index && make validate`.
+- `make validate THEME=anip && make index THEME=anip` (or just push; GitHub does it).
 
 ### Job 2 — Extract into company files
 For every company mentioned in a newly summarized source, update `companies/<slug>.md`:
@@ -52,9 +57,12 @@ Write `insights/weekly/YYYY-Www.md`:
 - Tone: terse, peer-level, no em dashes, no headers in chat output unless asked.
 
 ## Reading the repo fast
-- `index/STATS.md` — counts; `index/companies.csv` — the universe in one table; `index/sources.jsonl` — every source's frontmatter + excerpt.
+- `index/QUEUE.md` — your to-do list; `index/STATS.md` — counts; `index/companies.csv` — the universe in one table; `index/sources.jsonl` — every source's frontmatter + excerpt; `index/SWEEP-LOG.md` — is the daily sweep alive.
 - `python3 scripts/search.py "query"` — FTS over everything; `--company <slug>` lists that company's sources.
 - `insights/questions.md` is the agenda; `insights/thesis.md` is the current answer.
+
+## Adding a vertical
+`make new-theme slug=<slug> name="<Name>" short=<xx>` then edit its `taxonomy.yml` layers, `watchlist/*.yml`, `insights/thesis.md`. Nothing else changes.
 
 ## What NOT to do
 - Don't create new top-level folders or new frontmatter keys; propose them in a PR/comment instead.

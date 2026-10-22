@@ -3,7 +3,7 @@
 Normalize everything dropped in inbox/ into sources/<type>/<id>.md (+ original kept in raw/).
 
 Usage:
-  python3 scripts/ingest.py                      # process inbox/, infer type from subfolder or filename
+  python3 scripts/ingest.py [--theme <slug>]     # process themes/<slug>/inbox/, infer type from subfolder or filename
   python3 scripts/ingest.py --type alphasense    # force a type for everything in inbox/
   python3 scripts/ingest.py path/to/file.pdf --type expert-call --title "..." --date 2026-10-20 --companies hadrian,1872
 
@@ -19,9 +19,9 @@ Dedupes on sha256 of the original file. Never deletes: originals move to raw/<ty
 from __future__ import annotations
 import argparse, json, re, shutil, subprocess, sys
 from pathlib import Path
-from common import ROOT, SOURCE_TYPES, type_dir, read_fm, write_fm, sha256_file, make_id, today, slugify, existing_hashes
+from common import ROOT, T, INBOX, RAW, SOURCES, SOURCE_TYPES, type_dir, read_fm, write_fm, sha256_file, make_id, today, slugify, existing_hashes, rel
 
-INBOX, RAW, SRC = ROOT / "inbox", ROOT / "raw", ROOT / "sources"
+SRC = SOURCES
 TYPE_ALIASES = {"expert-calls": "expert-call", "calls": "expert-call", "transcripts": "alphasense",
                 "research": "market-research", "reports": "market-research", "news": "article",
                 "articles": "article", "podcasts": "podcast", "sites": "website", "websites": "website",
@@ -151,7 +151,7 @@ def ingest_file(p: Path, forced_type: str | None, args) -> Path | None:
     digest = sha256_file(p)
     seen = existing_hashes()
     if digest in seen:
-        print(f"  skip (dup of {seen[digest].relative_to(ROOT)}): {p.name}"); return None
+        print(f"  skip (dup of {rel(seen[digest])}): {p.name}"); return None
     text, meta = extract(p)
     stype = guess_type(p, forced_type, meta)
     named = parse_name(p)
@@ -169,13 +169,13 @@ def ingest_file(p: Path, forced_type: str | None, args) -> Path | None:
         "companies": [c for c in (args.companies or "").split(",") if c], "people": [],
         "layers": [l for l in (args.layers or "").split(",") if l], "tags": [],
         "summary": meta.get("summary") or "", "key_facts": [], "takeaways": [], "confidence": "med",
-        "raw_file": str(raw_dest.relative_to(ROOT)), "hash": digest, "word_count": len(text.split()),
+        "raw_file": rel(raw_dest), "hash": digest, "word_count": len(text.split()),
         "status": "unread", "added_by": "ingest.py",
     }
     out_dir = SRC / type_dir(stype); out_dir.mkdir(parents=True, exist_ok=True)
     out = out_dir / f"{sid}.md"
     write_fm(out, fm, "\n" + text.strip() + "\n")
-    print(f"  + {out.relative_to(ROOT)}  ({stype}, {fm['word_count']} words)")
+    print(f"  + {rel(out)}  ({stype}, {fm['word_count']} words)")
     return out
 
 def main():
@@ -188,7 +188,7 @@ def main():
     forced = norm_type(a.stype)
     if a.stype and not forced: raise SystemExit(f"unknown --type {a.stype}; use one of {SOURCE_TYPES}")
     files = [Path(x) for x in a.paths] if a.paths else [p for p in INBOX.rglob("*") if p.is_file() and not p.name.startswith(".")]
-    if not files: print("inbox/ is empty"); return
+    if not files: print(f"{rel(INBOX)}/ is empty"); return
     print(f"ingesting {len(files)} file(s)")
     n = 0
     for p in files:

@@ -1,0 +1,35 @@
+name: sweep
+# Daily: Google News + trade-press RSS for every tracked company and saved query; Mondays also snapshot company sites.
+# New items land in themes/<theme>/sources/ as status: unread and appear in index/QUEUE.md for the agent.
+on:
+  schedule:
+    - cron: "17 11 * * *"      # 11:17 UTC daily (6:17am Central)
+  workflow_dispatch:
+    inputs:
+      days: {description: "look-back window in days", default: "14"}
+      sites: {description: "also snapshot company websites (true/false)", default: "false"}
+permissions:
+  contents: write
+concurrency: {group: index, cancel-in-progress: false}
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: sweep every active theme
+        run: |
+          for t in $(ls themes | grep -v '^_'); do
+            echo "== $t"
+            python3 scripts/sweep.py --theme $t --days "${{ github.event.inputs.days || '14' }}" $([ "${{ github.event.inputs.sites }}" = "true" ] && echo --sites) || true
+            python3 scripts/validate.py --theme $t || true
+            python3 scripts/build_index.py --theme $t
+          done
+      - name: commit
+        run: |
+          git config user.name "spc-research-bot"; git config user.email "bot@smithpointcapital.com"
+          git add -A themes
+          git diff --cached --quiet || git commit -m "sweep: $(date -u +%F) [skip ci]"
+          git push

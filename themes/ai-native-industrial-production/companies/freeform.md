@@ -60,6 +60,8 @@ sources:
 - src-20261022-81b3ed
 - src-20260901-6e197d
 - src-20261022-230f15
+- src-20241029-1d136e
+- src-20250424-da4c3f
 data_quality: Slide 8 shows $67M Series A; TechCrunch (Feb 2026) calls the $67M a Series B and Harmonic shows Series B at $179M valuation. Legal name Freeform Future Corp. Headcount 66 from Harmonic; TechCrunch says up to 100 hires planned. DIU award value undisclosed.
 updated: '2026-10-22'
 news_query: '"Freeform" ("metal 3D printing" OR "additive manufacturing" OR Palitsch OR "metal parts" OR laser) -TV -series -episode'

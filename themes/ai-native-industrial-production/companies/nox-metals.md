@@ -57,6 +57,8 @@ sources:
 - src-20261022-2aabbe
 - src-20250813-5ee11b
 - src-20261022-f3a17c
+- src-20260427-83b102
+- src-20261022-3135b5
 data_quality: 'Harmonic best match (urn:harmonic:company:62395481) is a DIFFERENT company (Bitterroot Valley fab shop); resolve by domain noxmetals.co. Headcount conflict: YC page says 52, Built In LA says 11 (Oct 2026). Daily Detroit (Jun 2026) says company is ~7 months old, which conflicts with YC S25 launch (Aug 2025); treat founded as 2025. Total raised = $4.6M pre-seed (Michigan Enjoyer) + $11.5M seed; Seedtable date 2026-06 matches YC news item 2026-06-14. $1.5B etc. not applicable.'
 updated: '2026-10-22'
 ---

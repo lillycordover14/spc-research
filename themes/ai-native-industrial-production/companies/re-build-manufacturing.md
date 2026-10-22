@@ -30,7 +30,9 @@ spc_owner: Lilly
 tags:
 - m-and-a
 - competitor
-sources: []
+sources:
+- src-20241001-28c2aa
+- src-20261022-f423ef
 data_quality: ''
 updated: '2026-10-22'
 ---

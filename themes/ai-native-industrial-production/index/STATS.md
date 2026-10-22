@@ -1,18 +1,19 @@
 # Index stats — AI-native industrial production — 2026-10-22
 
-- sources: 78  | companies: 23 | people: 16
+- sources: 175  | companies: 23 | people: 16
 
 ## Sources by type
-- article: 54
+- article: 138
 - filing: 2
 - market-research: 9
 - other: 2
 - podcast: 3
-- website: 8
+- website: 21
 
 ## Sources by status
 - reviewed: 1
 - summarized: 77
+- unread: 97
 
 ## Sources by layer
 - precision-parts: 26
@@ -35,18 +36,18 @@
 - status=tracking: 15
 
 ## Most-mentioned companies
-- hadrian: 7
-- mind-robotics: 7
-- nox-metals: 6
-- freeform: 5
-- radical-ai: 5
-- periodic-labs: 5
-- sendcutsend: 5
-- senra-systems: 5
-- 1872: 5
-- divergent: 4
-- machina-labs: 4
-- arda: 4
-- cuspai: 4
-- mariana-minerals: 4
-- isembard: 3
+- divergent: 17
+- arda: 17
+- hadrian: 16
+- mind-robotics: 16
+- sendcutsend: 13
+- freeform: 11
+- radical-ai: 7
+- nox-metals: 7
+- periodic-labs: 7
+- 1872: 7
+- senra-systems: 6
+- terrafirma: 6
+- mariana-minerals: 6
+- machina-labs: 5
+- cuspai: 5

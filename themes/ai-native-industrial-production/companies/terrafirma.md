@@ -61,6 +61,10 @@ tags:
 sources:
 - src-20260714-976329
 - src-20260721-aca75d
+- src-20261010-a272be
+- src-20261017-82b150
+- src-20261019-36f8f4
+- src-20261022-e216c8
 data_quality: 'Identity: this is TerraFirma Inc (terrafirma.inc), Austin robotic earthworks, founded 2024 per its own PR (Harmonic had 2023). Searched for a metals/refining/manufacturing ''Terrafirma'' an investor might mean instead; none found. Other name collisions: TerraFirma Health (Harmonic), Terra Firma Capital Partners (UK PE firm), neither relevant. Valuation: Harmonic estimated $500M post; not disclosed, left null. Anduril/Hadrian/SpaceX/Base Power are angel individuals from those companies per the PR, not corporate investors [src-20260714-976329]. Headcount 38 is Harmonic.'
 updated: '2026-10-22'
 ---

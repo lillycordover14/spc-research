@@ -33,6 +33,7 @@ tags:
 sources:
 - src-20260812-77d6f5
 - src-20260727-787ce9
+- src-20260917-ed8e8b
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -44,6 +45,7 @@ Largest US steelmaker; electric-arc minimills; benchmark for metals margins and 
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
+- 2026-09-17: Q3 2026 guidance EPS $5.55-5.65 (Q2 $5.04; Q3 2025 $2.63) [src-20260917-ed8e8b]
 - 2026-08-12: Q2 10-Q: GM 20% vs 14%; FY26 capex ~$2.5B; Section 232 cutting imports [src-20260812-77d6f5]
 - 2026-07-27: Q2 2026 net sales $10.40B, EPS $5.04; record mill shipments [src-20260727-787ce9]
 

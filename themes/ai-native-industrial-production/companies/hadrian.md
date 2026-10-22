@@ -117,6 +117,8 @@ sources:
 - src-20260306-4e4df8
 - src-20260702-d79e75
 - src-20260709-ccfbba
+- src-20260317-5585be
+- src-20260318-472c29
 data_quality: Slide 8 shows ~$1.6B Series C; TNW says valuation was ~$1.6B in Jan 2026 and Series C was $260M in Jul 2025 (equity+MS loan), so the $1.6B mark may be a Jan 2026 extension; unresolved. Series D $1.37B at $7.87B (Aug 2026) plus $360M revolver (Aug 17 2026). Headcount 643 from Harmonic; TNW says target 2,000 within a year. Casting/forging/additive claim in the old file is unsourced; sources only evidence CNC machining, inspection, scheduling and submarine assemblies. total_raised_usd from Harmonic, likely includes debt. Founded 2020 (Wikipedia) vs 2021 (TNW).
 updated: '2026-10-22'
 news_query: '"Hadrian" (factory OR manufacturing OR machining OR Lockheed OR "Chris Power" OR aerospace) -cyber -cybersecurity -testnet -wall'
@@ -148,6 +150,7 @@ Hadrian builds and runs highly automated factories that make precision metal com
 - Model is hybrid: parts sales plus factories-as-a-service for DoD [src-20250721-d99a2a]. Too large for an SPC entry; it is the benchmark for the financing stack (equity for software and people, bank debt for machines, government co-investment for segment plants) and the likely acquirer or partner for smaller names.
 
 ## Traction and signals
+- 2026-03-17: Army $39.2M FFP ($80M cumulative) for automation facility at Red River Army Depot, Texarkana [src-20260317-5585be] [src-20260318-472c29]
 - 2026-10-04 — AlphaSense call (Former Head of Programming at Hadrian): The company initially considered an acquisition/consolidation strategy but pivoted to a greenfield approach due to poor operational sophistication and aging equipment in target shops. [src-20261004-9b47f5]
 - 2026-09-08 — AlphaSense call (Executive Director at The Boeing Company): Hadrian is used primarily for prototyping and low-rate production parts, especially where speed and consistency are valued, but is not yet competitive for high-volume production due to cost and quality inspection limitations. [src-20260908-ed94f0]
 - 2026-08-23 — AlphaSense call (Senior Mechanical Engineer II at Raytheon Technologies): Current supply chain challenges are driven by surging demand, limited in-house capacity, and lingering disruptions from the COVID pandemic and global conflicts. [src-20260823-b3713f]

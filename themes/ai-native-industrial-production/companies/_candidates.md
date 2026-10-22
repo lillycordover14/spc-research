@@ -125,3 +125,4 @@ Promote with `make new-company name="..."` once there are 2 independent sources 
 - 2026-10-22 | Medra | materials-rd | Autonomous lab robotics (listed next to Lila/Periodic) | Defy map [src-20260909-524e7c] | | grokbot
 - 2026-10-22 | Westmag | metals-supply | US drone motors/actuators; a16z-led seed Jun 2026 | [src-20260602-66bb0d] | https://www.a16z.news/p/investing-in-westmag | grokbot
 - 2026-10-22 | Mach Industries | adjacent | Defense new-prime; $5.7M seed then $79M A (Sequoia) | [src-20260811-8f6209] | | grokbot
+- 2026-10-22 | Amca | precision-parts | El Segundo; AI-native component re-engineering + 8 acquired AS9100D factories; first Army AdvM CSO ACG award; Caffeinated Capital SPVs (Form D 2026-04, 2026-10); Boyle (a16z) amplifying | [src-20261008-149196] [src-20261008-9941fd] | https://www.prnewswire.com/news-releases/amca-and-army-announce-enterprise-wide-rapid-engineering-and-qualification-partnership-302901972.html | grokbot

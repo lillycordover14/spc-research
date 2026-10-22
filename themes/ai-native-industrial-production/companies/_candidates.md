@@ -110,3 +110,18 @@ Promote with `make new-company name="..."` once there are 2 independent sources 
 - 2026-10-22 | Code Metal | factory-ai | AI code generation for robotics/embedded; GM call; also on SPC VC list | drive-import EC-1000000-232320 | grokbot
 - 2026-10-22 | xdof | factory-ai | Egocentric data for robot training; Nike call; 8VC portco | drive-import xdof call | grokbot
 - 2026-10-22 | FACTON / Cognite / Laminar / RealWear / Protex AI / Trio Mobil / Nominal / Figure / Boston Dynamics / Fleet Space | factory-ai (Fleet Space: metals-supply) | software-first factory or industrial AI; one AlphaSense call each in drive-import; mostly scaled or non-target, track as benchmarks | drive-import | grokbot
+- 2026-10-22 | Fictiv | precision-parts | Digital manufacturing marketplace (Xometry peer) | listed under Platforms on Shriftman Made-in-USA map [src-20250506-249be3] | https://www.fictiv.com | grokbot
+- 2026-10-22 | Antara | precision-parts | Listed as manufacturing platform; details unverified | Shriftman map [src-20250506-249be3] | | grokbot
+- 2026-10-22 | Alloy Enterprises | fabrication | Metal additive manufacturing (listed under AM) | Shriftman map [src-20250506-249be3] | https://www.alloyenterprises.co | grokbot
+- 2026-10-22 | Instrumental | factory-ai | AI inspection/quality software for assembly lines | Shriftman map Software [src-20250506-249be3] | https://instrumental.com | grokbot
+- 2026-10-22 | Epsilon3 | factory-ai | Procedure/operations software; ThreadMoat names it top AI-native MES | Shriftman map [src-20250506-249be3]; ThreadMoat [src-20260610-eb6335] | https://www.epsilon3.io | grokbot
+- 2026-10-22 | Hestus | factory-ai | AI CAD/engineering software (listed under mfg software) | Shriftman map [src-20250506-249be3] | | grokbot
+- 2026-10-22 | CamFer | factory-ai | AI CAD/CAM tooling (listed under mfg software) | Shriftman map [src-20250506-249be3] | | grokbot
+- 2026-10-22 | Noble Machines | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy physical AI map [src-20260909-524e7c] | | grokbot
+- 2026-10-22 | Multiverse Machines | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] | | grokbot
+- 2026-10-22 | Foundry Robotics | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] | | grokbot
+- 2026-10-22 | Emergent Matter | factory-ai | Listed in Warehouse/Mfg/Industrial vertical (name as read from image) | Defy map [src-20260909-524e7c] | | grokbot
+- 2026-10-22 | Tutor | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] | | grokbot
+- 2026-10-22 | Medra | materials-rd | Autonomous lab robotics (listed next to Lila/Periodic) | Defy map [src-20260909-524e7c] | | grokbot
+- 2026-10-22 | Westmag | metals-supply | US drone motors/actuators; a16z-led seed Jun 2026 | [src-20260602-66bb0d] | https://www.a16z.news/p/investing-in-westmag | grokbot
+- 2026-10-22 | Mach Industries | adjacent | Defense new-prime; $5.7M seed then $79M A (Sequoia) | [src-20260811-8f6209] | | grokbot

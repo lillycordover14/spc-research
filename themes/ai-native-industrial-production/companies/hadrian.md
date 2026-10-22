@@ -101,6 +101,15 @@ sources:
 - src-20260823-b3713f
 - src-20260908-ed94f0
 - src-20261004-9b47f5
+- src-20261002-0b9265
+- src-20251024-2e5383
+- src-20260819-dadd06
+- src-20261012-b7af6d
+- src-20250506-249be3
+- src-20260909-524e7c
+- src-20220331-52566b
+- src-20260921-dad375
+- src-20240622-b8cd8b
 data_quality: Slide 8 shows ~$1.6B Series C; TNW says valuation was ~$1.6B in Jan 2026 and Series C was $260M in Jul 2025 (equity+MS loan), so the $1.6B mark may be a Jan 2026 extension; unresolved. Series D $1.37B at $7.87B (Aug 2026) plus $360M revolver (Aug 17 2026). Headcount 643 from Harmonic; TNW says target 2,000 within a year. Casting/forging/additive claim in the old file is unsourced; sources only evidence CNC machining, inspection, scheduling and submarine assemblies. total_raised_usd from Harmonic, likely includes debt. Founded 2020 (Wikipedia) vs 2021 (TNW).
 updated: '2026-10-22'
 news_query: '"Hadrian" (factory OR manufacturing OR machining OR Lockheed OR "Chris Power" OR aerospace) -cyber -cybersecurity -testnet -wall'

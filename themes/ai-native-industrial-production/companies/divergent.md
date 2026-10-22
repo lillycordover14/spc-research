@@ -67,16 +67,21 @@ sources:
 - src-20261014-6f0b56
 - src-20261013-dbb306
 - src-20261013-46ac91
-- src-20261022-a98c93
-- src-20261014-b9bb49
-- src-20261022-c6bd4e
-- src-20261020-4bdeee
-- src-20261016-4d6fbf
-- src-20261016-1e7dd9
-- src-20261022-9a7b10
-- src-20261022-2d6b03
 data_quality: 'Harmonic entity_lookup returned the wrong ''Divergent Technologies'' (a semiconductor test distributor); resolve by domain divergent3d.com. Series E (Sep 2025) confirmed at $290M/$2.3B led by Rochefort; stage set to growth since Series E is not in the stages vocabulary. CEO is now Lukas Czinger (press release Sep 2025); Kevin Czinger''s current title unknown. total_raised_usd not summed: known rounds are $230M Series D (2023) and $290M Series E (2025); earlier rounds unsourced.'
 updated: '2026-10-22'
+news_query: '"Divergent Technologies" OR Czinger OR ("Divergent" (munitions OR "additive manufacturing" OR L3Harris))'
+match_context:
+- czinger
+- munition
+- additive
+- 3d print
+- manufactur
+- l3harris
+- daps
+- torrance
+- aerospace
+- defense
+- factory
 ---
 
 ## What they do

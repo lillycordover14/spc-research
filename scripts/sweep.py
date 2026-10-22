@@ -8,6 +8,8 @@ Runs in GitHub Actions daily (see .github/workflows/sweep.yml); can run locally 
 What it does
   1. Google News RSS for every query in watchlist/searches.yml:google_news AND for every tracked company name
      (news.google.com/rss/search?q=...). Free, no key. Keeps items newer than --days.
+     Company frontmatter can set `news_query:` (replaces the default "<name>" query) and `match_context:` (a list of
+     words; a name match only counts if one of them also appears). Use both for names that are common words (Arda, Freeform).
   2. Trade-press RSS: every entry in watchlist/sources.yml:rss_and_trade_press that has an `rss:` URL, or whose homepage
      advertises a feed (<link type="application/rss+xml">). Keeps items that mention a tracked company or a sweep keyword.
   3. (--sites, or Mondays) snapshots each tracked company's homepage + careers page into sources/websites/.
@@ -32,9 +34,10 @@ def tracked_companies():
     out = []
     for p in iter_md(COMPANIES):
         fm, _ = read_fm(p)
-        if fm.get("status") in ("incumbent", "not-a-fit"): continue
+        if fm.get("status") in ("incumbent", "not-a-fit", "passed"): continue
         names = [fm.get("name")] + list(fm.get("aliases") or [])
-        out.append({"slug": fm["slug"], "names": [n for n in names if n], "website": fm.get("website")})
+        out.append({"slug": fm["slug"], "names": [n for n in names if n], "website": fm.get("website"),
+                    "news_query": fm.get("news_query"), "context": [w.lower() for w in (fm.get("match_context") or [])]})
     return out
 
 def fetch(url, timeout=20):
@@ -80,16 +83,18 @@ def entry_date(e) -> str | None:
 def mentions(text: str, companies, keywords) -> list[str]:
     t = text.lower(); hits = []
     for c in companies:
+        if c["context"] and not any(w in t for w in c["context"]): continue
         if any(len(n) > 2 and re.search(r"\b" + re.escape(n.lower()) + r"\b", t) for n in c["names"]): hits.append(c["slug"])
     return hits if hits else (["__kw__"] if any(k.lower() in t for k in keywords) else [])
 
-def file_item(e, publisher, companies, keywords, cutoff, layers_hint, args, stats, force_keep=False):
+def file_item(e, publisher, companies, keywords, cutoff, layers_hint, args, stats, force_keep=False, require=None):
     title = (e.get("title") or "").strip(); link = e.get("link"); date = entry_date(e)
     if not title or not link: return
     if date and date < cutoff: stats["old"] += 1; return
     snippet = re.sub(r"<[^>]+>", "", e.get("summary") or e.get("description") or "")
     hits = mentions(title + " " + snippet, companies, keywords)
     if not hits and not force_keep: stats["filtered"] += 1; return
+    if require and require not in hits: stats["filtered"] += 1; return   # company query: result must actually be about that company
     slugs = [h for h in hits if h != "__kw__"]
     src = e.get("source", {}).get("title") if isinstance(e.get("source"), dict) else None
     body, page_title = snippet, None
@@ -139,14 +144,14 @@ def main():
     stats = dict(new=0, dup=0, old=0, filtered=0, fetch_fail=0, feeds_ok=0, feeds_fail=0, sites=0, site_fail=0)
 
     # 1. Google News: company names + saved queries
-    queries = [f'"{c["names"][0]}"' for c in companies] + list(searches.get("google_news") or [])
+    queries = [(c.get("news_query") or f'"{c["names"][0]}"', c["slug"]) for c in companies] + [(q, None) for q in searches.get("google_news") or []]
     log(f"Google News: {len(queries)} queries, cutoff {cutoff}")
-    for q in queries:
+    for q, slug in queries:
         try:
             f = parse_feed(GN.format(q=quote_plus(q)))
             stats["feeds_ok"] += 1
             for e in f.entries[: args.max_per_query]:
-                file_item(e, "Google News", companies, keywords, cutoff, [], args, stats, force_keep=True)
+                file_item(e, "Google News", companies, keywords, cutoff, [], args, stats, force_keep=True, require=slug)
             time.sleep(1.0)
         except Exception as ex:
             stats["feeds_fail"] += 1; log(f"   feed fail: {q} ({str(ex)[:60]})")

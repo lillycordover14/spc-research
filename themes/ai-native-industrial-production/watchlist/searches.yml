@@ -42,7 +42,7 @@ google_news:   # daily; agent uses WebSearch; file only if new fact about a trac
   - '"metals" startup "cut-to-size" OR "service center" software'
   - '"rare earth" OR "critical minerals" refining startup United States funding'
   - '"job shop" acquisition AI startup'
-  - 'Hadrian OR "Machina Labs" OR Senra OR Divergent OR Freeform OR SendCutSend OR Isembard OR "Mariana Minerals" OR "Nox Metals"'
+  - '"Machina Labs" OR "Senra Systems" OR "Divergent Technologies" OR SendCutSend OR Isembard OR "Mariana Minerals" OR "Mind Robotics" OR "Periodic Labs"'
   - '"Reindustrialize" 2026'
   - 'Section 232 steel aluminum tariff manufacturers 2026'
 

@@ -36,4 +36,4 @@ jobs:
           git push
       - name: fail if validation failed
         if: steps.run.outputs.fail == '1'
-        run: echo "validation problems: see themes/*/index/VALIDATION.md" && exit 1
+        run: 'echo "validation problems: see themes/*/index/VALIDATION.md" && exit 1'

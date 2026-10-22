@@ -31,7 +31,9 @@ tags:
 - marketplace
 - competitor
 - unit-economics
-sources: []
+sources:
+- src-20260804-33fe9f
+- src-20260804-7625ed
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -43,7 +45,8 @@ Public marketplace for custom parts; no plants (asset-light). The anti-thesis co
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
-- (add from AlphaSense earnings transcripts)
+- 2026-08-04: Q2 2026 revenue $229M (+41%), marketplace +45%, GP $87.2M, adj. EBITDA $14.1M; Q3 guide $234-236M; FY26 growth 33-34% [src-20260804-33fe9f]
+- 2026-08-04: 10-Q: self-described AI-native marketplace; Siemens ISW integration [src-20260804-7625ed]
 
 ## Economics (what we know)
 - (pull GM, capex/revenue, lead-time claims from filings)

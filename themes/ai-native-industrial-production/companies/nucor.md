@@ -30,7 +30,9 @@ spc_owner: Lilly
 tags:
 - steel
 - incumbent
-sources: []
+sources:
+- src-20260812-77d6f5
+- src-20260727-787ce9
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -42,7 +44,8 @@ Largest US steelmaker; electric-arc minimills; benchmark for metals margins and 
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
-- (add from AlphaSense earnings transcripts)
+- 2026-08-12: Q2 10-Q: GM 20% vs 14%; FY26 capex ~$2.5B; Section 232 cutting imports [src-20260812-77d6f5]
+- 2026-07-27: Q2 2026 net sales $10.40B, EPS $5.04; record mill shipments [src-20260727-787ce9]
 
 ## Economics (what we know)
 - (pull GM, capex/revenue, lead-time claims from filings)

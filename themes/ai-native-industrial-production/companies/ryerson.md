@@ -31,7 +31,8 @@ tags:
 - service-center
 - incumbent
 - gross-margin
-sources: []
+sources:
+- src-20260729-407fd7
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -43,7 +44,7 @@ Public metals service center (cut-to-size, processing). The incumbent Nox Metals
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
-- (add from AlphaSense earnings transcripts)
+- 2026-07-29: Q2 2026 revenue $2.01B incl. $564M Olympic Steel; GM 17.7% (19.3% ex LIFO/PA); extended mill lead times, low service center inventories [src-20260729-407fd7]
 
 ## Economics (what we know)
 - (pull GM, capex/revenue, lead-time claims from filings)

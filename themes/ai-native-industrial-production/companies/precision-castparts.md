@@ -31,7 +31,8 @@ tags:
 - casting
 - forging
 - incumbent
-sources: []
+sources:
+- src-20260810-91dbeb
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -43,7 +44,7 @@ Incumbent in aerospace castings/forgings; the capacity startups are selling agai
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
-- (add from AlphaSense earnings transcripts)
+- 2026-08-10: Berkshire 10-Q: PCC Q2 revenue $3.1B (+14.4%), pre-tax +34.2%; growth gated by capacity [src-20260810-91dbeb]
 
 ## Economics (what we know)
 - (pull GM, capex/revenue, lead-time claims from filings)

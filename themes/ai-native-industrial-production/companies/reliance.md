@@ -31,7 +31,9 @@ tags:
 - service-center
 - incumbent
 - m-and-a
-sources: []
+sources:
+- src-20261021-16bb64
+- src-20260728-ae7dea
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -43,7 +45,8 @@ Largest North American metals service center. Benchmark for service-center econo
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
-- (add from AlphaSense earnings transcripts)
+- 2026-10-21: Q3 2026 sales $5.21B (+42.8% y/y), LIFO GM 27.9% / FIFO 31.6%, non-GAAP EPS $8.02 (+120%); border wall $0.74/share; defense/space, data center, shipbuilding strong [src-20261021-16bb64]
+- 2026-07-28: Q2 10-Q: LIFO GM 28.1%; aluminum elevated on 50% Section 232 tariff [src-20260728-ae7dea]
 
 ## Economics (what we know)
 - (pull GM, capex/revenue, lead-time claims from filings)

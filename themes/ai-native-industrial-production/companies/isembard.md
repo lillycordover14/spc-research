@@ -74,6 +74,9 @@ sources:
 - src-20251110-84b67e
 - src-20251120-0c271b
 - src-20260621-f96bbd
+- src-20260310-f52a8d
+- src-20260310-cdfd82
+- src-20260909-b547c7
 data_quality: Headcount 66 per Tech.eu Aug 2026 vs 76 per Harmonic; total raised $59M = $9M seed + $50M A plus undisclosed debt for owned factories; Series A valuation not disclosed (Harmonic estimates ~$250M); seed investor 'Foreword Fund' appears as 'Forward Fund' in Resilience Media; owned vs franchised split of the 14 factories not disclosed.
 updated: '2026-10-22'
 ---
@@ -91,6 +94,8 @@ Isembard runs a network of small precision-machining factories (CNC milling and 
 - Net: the European read on Hadrian with a franchise twist. The franchise model scales factory count fast and capital-light, at the cost of control over quality and process data; it is also what makes Isembard a software licensor (hybrid) rather than a pure owner-operator.
 
 ## Traction and signals
+- 2026-09-09: 14 factories (4 owned, 10 franchised) across US, UK, FR, DE; <100 staff; franchisee live in <90 days [src-20260909-b547c7]
+- 2026-03-10: $50M Series A led by USV; 6 factories, target 25 by end-2026; lead time ~10 weeks to <14 days [src-20260310-cdfd82]
 - 2026-08-10 — 14 factories (7 UK, 5 US, 1 FR, 1 DE), 66 staff, target 25 by YE2026, Ukraine next; customers Anduril, Tekever, ARX Robotics, UK gov; demand exceeds supply, turning down orders [src-20260810-f0371c]
 - 2026-08-10 — First franchisee Shawn Rowcliffe (22, ex-Babcock machinist); other franchisees include a restaurant owner, a cardiac nurse, a veteran and an investor [src-20260810-f0371c]
 - 2026-06-21 — AlphaSense call (Manufacturing Lead at Humanoid): Isembard was used for two urgent, one-off orders to resolve unplanned design issues in robot prototypes, delivering high-quality parts with very fast turnaround (as quick as two days). [src-20260621-f96bbd]

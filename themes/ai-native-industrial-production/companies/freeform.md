@@ -62,6 +62,7 @@ sources:
 - src-20261022-230f15
 - src-20241029-1d136e
 - src-20250424-da4c3f
+- src-20261020-bac9ca
 data_quality: Slide 8 shows $67M Series A; TechCrunch (Feb 2026) calls the $67M a Series B and Harmonic shows Series B at $179M valuation. Legal name Freeform Future Corp. Headcount 66 from Harmonic; TechCrunch says up to 100 hires planned. DIU award value undisclosed.
 updated: '2026-10-22'
 news_query: '"Freeform" ("metal 3D printing" OR "additive manufacturing" OR Palitsch OR "metal parts" OR laser) -TV -series -episode'
@@ -88,6 +89,7 @@ Freeform designs and builds its own laser powder-bed metal printers and operates
 - Model: owner-operator, service only; Palitsch's 2024 position is that they do not sell printers [src-20241024-7f1c2e]. $179M post on ~$126M raised says the market is pricing it as a capex-heavy service bureau, not a software company; the Skyfall throughput step and the DIU demand signal are what would change that.
 
 ## Traction and signals
+- 2026-10-20: Palitsch joint conversation with Ed Mehr (Machina) on new-process factories [src-20261020-bac9ca]
 - 2026-09-01 — DIU other transaction agreement (awarded Jul 2026) under Adaptive Space Manufacturing and Integration at Scale to scale production of propulsion and structural hardware; value undisclosed; Skyfall unveiled earlier in 2026 [src-20260901-6e197d]
 - 2026-07-30 — DIU contract announced on company site [src-20261022-81b3ed]
 - 2026-03-24 — Fast Company 2026 Most Innovative Companies [src-20261022-81b3ed]

@@ -71,6 +71,8 @@ sources:
 - src-20261013-453173
 - src-20261022-274b3e
 - src-20260909-524e7c
+- src-20260513-abe9cf
+- src-20261014-b24453
 data_quality: 'Slide 8: >$1B raised, Series A+; Harmonic: Series B 2026-05 at $3.4B. HQ conflict: website footer says Palo Alto, Harmonic says Sunnyvale. Headcount 91 is Harmonic, not press. Bessemer appears in Harmonic investor list but not in any press source. Seed reported as $115M (TechCrunch) and ~$110M (eWeek teaser). No CEO named in any source; Scaringe is chair, Doug Field is President from Oct 2026.'
 updated: '2026-10-22'
 ---
@@ -87,6 +89,7 @@ Mind Robotics began as Rivian's internal "Project Synapse" and was spun out in N
 
 ## Traction and signals
 - 2026-10-22 — Website lists HQ Palo Alto, Rivian as first manufacturing partner, careers incl. Application Engineer roles [src-20261022-eede0b]
+- 2026-10-14: Scaringe splits time ~50/50 between Rivian and Mind [src-20261014-b24453]
 - 2026-10-13 — Doug Field (ex-Tesla SVP Engineering, ex-Apple car lead, ex-Ford Chief EV/Digital/Design Officer) joins as President over product, engineering, operations; Rivian disclosed as first customer owning ~one-third of Mind; no public product yet [src-20261014-461a42]
 - 2026-05-15 — Valuation ~$3.4B (WSJ); Salesforce Ventures and VW-tied Incharge Capital in the round; origin as Rivian "Project Synapse" [src-20260515-176e26]
 - 2026-05-13 — $400M Series B led by Kleiner Perkins; new Meritech, Redpoint, SV Angel, Incharge, A-Star, Garuda; returning Accel, a16z, Eclipse, Prysm, Bain Capital Ventures, Greenoaks; >$1B cumulative [src-20260513-83aa83]

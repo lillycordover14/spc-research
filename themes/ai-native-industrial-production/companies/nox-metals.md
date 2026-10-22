@@ -59,6 +59,8 @@ sources:
 - src-20261022-f3a17c
 - src-20260427-83b102
 - src-20261022-3135b5
+- src-20260325-5b68db
+- src-20261009-404b9b
 data_quality: 'Harmonic best match (urn:harmonic:company:62395481) is a DIFFERENT company (Bitterroot Valley fab shop); resolve by domain noxmetals.co. Headcount conflict: YC page says 52, Built In LA says 11 (Oct 2026). Daily Detroit (Jun 2026) says company is ~7 months old, which conflicts with YC S25 launch (Aug 2025); treat founded as 2025. Total raised = $4.6M pre-seed (Michigan Enjoyer) + $11.5M seed; Seedtable date 2026-06 matches YC news item 2026-06-14. $1.5B etc. not applicable.'
 updated: '2026-10-22'
 ---
@@ -76,6 +78,8 @@ Nox Metals is a Detroit (YC S25) metals service center rebuilt as an owner-opera
 - Net: metals-supply layer, owner-operator, but closer to a fast service center than a new kind of plant. SPC passed Oct 2026 as too early; the test for the next round is whether automation plus speed earns a margin premium over the 15-25% GM service-center norm.
 
 ## Traction and signals
+- 2026-10-09: 75,000 sq ft facility outside Detroit (moved in ~8 weeks prior); ~250-300 customers; nesting system Factos [src-20261009-404b9b]
+- 2026-03-25: Auto-nesting at quote; LinkedIn/X bring ~30-40% of leads [src-20260325-5b68db]
 - 2026-10-22 — YC page lists team size 52 and 44 open roles across Detroit, Los Angeles and San Francisco (Chief of Staff $150-225K, MTS $90-180K); aluminum plate and block live, steel/tube/sheet planned [src-20261022-2aabbe]
 - 2026-10-01 — SPC passed on the current round as too early; reconnect ~Q1'27 [internal]
 - 2026-06-16 — $11.5M seed led by Hyperion (NYC) with YC, Palmer Luckey, RoboStrategy, Alumni Ventures, Operator Collective, DTX Ventures; plans a WW2-era 30,000 sq ft Detroit factory for the tech team in summer 2026 [src-20260616-1cf7cb]

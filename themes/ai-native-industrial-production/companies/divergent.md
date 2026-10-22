@@ -74,6 +74,13 @@ sources:
 - src-20250309-b9a3c2
 - src-20250506-249be3
 - src-20251015-e9edbf
+- src-20260113-c08796
+- src-20260325-7ba845
+- src-20260504-38bee3
+- src-20260331-8eb1cd
+- src-20260523-b05ded
+- src-20261002-b0cee5
+- src-20261014-47f64b
 data_quality: 'Harmonic entity_lookup returned the wrong ''Divergent Technologies'' (a semiconductor test distributor); resolve by domain divergent3d.com. Series E (Sep 2025) confirmed at $290M/$2.3B led by Rochefort; stage set to growth since Series E is not in the stages vocabulary. CEO is now Lukas Czinger (press release Sep 2025); Kevin Czinger''s current title unknown. total_raised_usd not summed: known rounds are $230M Series D (2023) and $290M Series E (2025); earlier rounds unsourced.'
 updated: '2026-10-22'
 news_query: '"Divergent Technologies" OR Czinger OR ("Divergent" (munitions OR "additive manufacturing" OR L3Harris))'
@@ -104,6 +111,10 @@ Divergent runs DAPS, a production system that pairs in-house AI generative desig
 - Mature ($2.3B, growth stage); use as the additive-based production benchmark, not an SPC entry.
 
 ## Traction and signals
+- 2026-10-14: ~30 active programs with 15 primes [src-20261014-47f64b]
+- 2026-10-02: Long Beach 400,000 sq ft, capacity 30,000 airframes/yr; >$1B raised; works with Lockheed Skunk Works [src-20261002-b0cee5]
+- 2026-03-25: Mach Industries cruise missile whiteboard to flight in 71 days; several thousand cruise missiles planned 2026; 500+ products on same machines [src-20260325-7ba845]
+- 2026-01-13: 15 printers in Torrance make 450 products; defense contracts from 2-3 to 30+; RTX Tomahawk casting yield <20% [src-20260113-c08796]
 - 2025-09-15 — $290M Series E at $2.3B ($250M equity, $40M debt) led by Rochefort Asset Management (Kyle Bass; OSC-licensed manager); revenue grew >5x in 2025; >200 new A&D part numbers in H1 2025; >600 unique parts; Lukas Czinger named CEO and co-founder [src-20250915-311606]
 - 2025-09-15 — Named customers now include US Air Force and McLaren alongside General Atomics, Lockheed Martin, Raytheon, Triumph Group, Aston Martin, Bugatti [src-20250915-ed0b46]
 - 2023-11-15 — $230M Series D led by Hexagon AB ($100M); seven automotive customers incl. Aston Martin and Mercedes-AMG; six US government contractors; Kevin Czinger CEO, Lukas Czinger President & COO [src-20231115-5d0589]

@@ -110,6 +110,13 @@ sources:
 - src-20220331-52566b
 - src-20260921-dad375
 - src-20240622-b8cd8b
+- src-20260921-876080
+- src-20260908-65fab6
+- src-20260610-779f8b
+- src-20260926-70087f
+- src-20260306-4e4df8
+- src-20260702-d79e75
+- src-20260709-ccfbba
 data_quality: Slide 8 shows ~$1.6B Series C; TNW says valuation was ~$1.6B in Jan 2026 and Series C was $260M in Jul 2025 (equity+MS loan), so the $1.6B mark may be a Jan 2026 extension; unresolved. Series D $1.37B at $7.87B (Aug 2026) plus $360M revolver (Aug 17 2026). Headcount 643 from Harmonic; TNW says target 2,000 within a year. Casting/forging/additive claim in the old file is unsourced; sources only evidence CNC machining, inspection, scheduling and submarine assemblies. total_raised_usd from Harmonic, likely includes debt. Founded 2020 (Wikipedia) vs 2021 (TNW).
 updated: '2026-10-22'
 news_query: '"Hadrian" (factory OR manufacturing OR machining OR Lockheed OR "Chris Power" OR aerospace) -cyber -cybersecurity -testnet -wall'
@@ -146,6 +153,9 @@ Hadrian builds and runs highly automated factories that make precision metal com
 - 2026-08-23 — AlphaSense call (Senior Mechanical Engineer II at Raytheon Technologies): Current supply chain challenges are driven by surging demand, limited in-house capacity, and lingering disruptions from the COVID pandemic and global conflicts. [src-20260823-b3713f]
 - 2026-08-18 — AlphaSense call (Head of Product, Senior Manager at The Boeing Company): Key procurement challenges include fragmented supply base, unpredictable lead times, skilled labor shortages, and quality consistency issues, especially in precision machining. [src-20260818-9b2d5c]
 - 2026-08-17 — AlphaSense call (Former Head of Engineering at Hadrian): Acquisition of legacy machine shops was deemed unviable due to deeply entrenched, inefficient cultures and lack of valuable IP; thus, the company pursued a 'clean sheet' approach to building factories. [src-20260817-8867f2]
+- 2026-09-26: Series D $1.37B at $7.87B (~$2B raised total); Factory 2 at max capacity; Opus trains operators in 30-40 days; factory-as-a-service can do ~80% of a full product [src-20260926-70087f]
+- 2026-09-21: Power: six factories since 2022, latest 2.2M sq ft; ~80% of capex shareable across programs; must deploy ~$1B capex ahead of contracts [src-20260921-876080]
+- 2026-09-08: Power: AS9100 qualification takes 7-8 years; considered buying certified shops first [src-20260908-65fab6]
 - 2026-08-17 — Closed $360M revolving credit facility; Morgan Stanley Senior Funding lead left, with Western Alliance, J.P. Morgan, First Citizens, Customers Bank, HSBC Ventures USA, Axos, Texas Capital as joint lead arrangers; funds machinery and factory hardware; Kirkland & Ellis counsel [src-20260817-c48f28]
 - 2026-08-08 — AlphaSense call (Former VP at Xometry): The expert perceives the competitive landscape as fragmented, with both marketplace and vertically integrated models able to coexist and succeed in different segments. [src-20260808-dc5cbb]
 - 2026-08-06 — AlphaSense call (Co-Founder & CEO at FlyX Technologies): Hadrian excels in producing high-precision, flight-critical, and defense-certified parts, offering robust quality assurance, documentation, and automation, making them the preferred choice for stringent aerospace and defense requirements. [src-20260806-3a2ec7]

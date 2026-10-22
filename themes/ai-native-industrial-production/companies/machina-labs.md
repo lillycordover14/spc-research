@@ -71,6 +71,14 @@ sources:
 - src-20260320-0aaf11
 - src-20251230-2c54a2
 - src-20250131-9b68b3
+- src-20260926-70087f
+- src-20260220-0d5345
+- src-20260320-1361e2
+- src-20260430-30ea09
+- src-20260622-7846f9
+- src-20260821-1c5a08
+- src-20260822-53d33e
+- src-20261020-bac9ca
 data_quality: 'Hybrid: runs its own plants (2 in LA, each <100k sq ft) and sells/places RoboCraftsman cells. Series C $124M (Feb 2026) per press; lead and valuation undisclosed, Harmonic shows $333M post. Slide 8 ''$124M Series C'' is the round size, not valuation. Press release calls the 200k sq ft Intelligent Factory ''production-ready'' and the third facility, but Axios the same day says the site is still being negotiated (NM, TX, AL, Reno); treat as planned. Total raised $172.3M is Harmonic''s figure; press does not state it.'
 updated: '2026-10-22'
 ---
@@ -88,6 +96,9 @@ Machina Labs (LA, founded 2019) runs software-defined factories that form, machi
 Tension for the thesis: hybrid model. Lockheed and Toyota on the cap table want cells and capacity, not just parts. Whether more value sits in running the plant or shipping the cell is still open.
 
 ## Traction and signals
+- 2026-08-22: Mehr: new ~200,000 sq ft programmable facility to be announced Q4 2026 [src-20260822-53d33e]
+- 2026-06-22: RoboCraftsman cell serial #19 in build [src-20260622-7846f9]
+- 2026-03-20: Series C $124M; Facility 3 250,000 sq ft for thousands of missile airframes/yr; ~70 staff to 240 in 18 months; equipment debt ~2-3% over prime [src-20260320-1361e2]
 - 2026-02-05 — Trade press confirms the factory plan: 200,000 sq ft, up to 50 RoboCraftsman cells, dual-use (aero, defense, auto) [src-20260205-aa44f0]
 - 2026-02-04 — $124M Series C from Woven Capital (Toyota), Lockheed Martin Ventures, Balerion Space Ventures and Abu Dhabi's Strategic Development Fund (EDGE Group); a significant chunk funds the Intelligent Factory [src-20260204-ce7053][src-20260204-e0dd1a]
 - 2026-02-04 — Site selection for the Intelligent Factory under way with New Mexico, Texas, Alabama and Reno NV; likely not California; initial output missile structures and airframes [src-20260204-e0dd1a]

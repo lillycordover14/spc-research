@@ -75,6 +75,12 @@ sources:
 - src-20260513-bdc044
 - src-20260623-6dc76b
 - src-20260502-d437f4
+- src-20260327-b33312
+- src-20260502-21f16a
+- src-20260623-d1790b
+- src-20260513-dd56eb
+- src-20260805-b7e3c7
+- src-20260813-1fe8a2
 data_quality: 'Official Aug 3 2026 release does not disclose valuation; $1.5B appears in Harmonic and secondary coverage (Dealroom, KuCoin headlines). Total raised: release says ~$400M parent plus project capital (Harmonic had $395M). Headcount 206 and CFO/CTO names are from Harmonic, not from the press sources ingested here. Investmets interview date approximated to 2026-08-05.'
 updated: '2026-10-22'
 match_context:
@@ -101,6 +107,9 @@ Mariana Minerals builds and operates its own mines and refineries for critical m
 - Net: the 'rebuild US refining' benchmark for the metals-supply layer. Fits every test except that at $310M Series B and ~$1.5B valuation it is a benchmark rather than an SPC entry point; nothing is yet producing at target scale.
 
 ## Traction and signals
+- 2026-08-13: Utah site to ramp to ~300 staff vs ~130 peak under prior operator [src-20260813-1fe8a2]
+- 2026-06-23: ~250 staff (20% software/ML); Utah copper restart ~50% autonomous, no-human pit targeted end-2026/Q1 2027; RL agents in process control loop; Select Water lithium partnership [src-20260623-d1790b]
+- 2026-05-02: Targets 30% lower refining, 40-50% lower mining cost; 50,000 t/yr refined copper goal; ~$100M raised [src-20260502-21f16a]
 - 2026-08-05 — CEO interview: 50,000 t/yr copper target at Copper One (San Juan County, UT); Sandvik and Pronto fleet autonomy, hybrid today, no-humans target by end-2026; roadmap to uranium, rare earths, nickel, cobalt, manganese, magnesium; brownfield sub-$1B asset strategy [src-20260805-6f5d90]
 - 2026-08-03 — $310M Series B led by Khosla Ventures; a16z and Breakthrough continuing; new investors Greenoaks, Halo, Pax, StepStone, BHP Ventures, Washington Harbour, Greycroft, General Innovation Capital, Mitsubishi, In-Q-Tel, Earthshot; ~$400M total parent plus project capital; ~$1.5B valuation per secondary coverage [src-20260803-30e6d5] [src-20260803-e02bf4] [Harmonic]
 - 2026-08-03 — MarianaOS disclosed as MineOS + PlantOS + CapitalProjectOS; claim of roughly halving 5-10 year project timelines [src-20260803-30e6d5]

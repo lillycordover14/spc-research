@@ -64,6 +64,12 @@ sources:
 - src-20250930-2f9981
 - src-20260403-40fa0e
 - src-20261001-8f85ca
+- src-20260917-1bcb81
+- src-20260106-62dba1
+- src-20260403-ba156a
+- src-20260929-ca6d19
+- src-20261008-83dc1b
+- src-20261001-aafb71
 data_quality: 'Slide 8: $300M seed. Harmonic: $1.1B raised at $7.5B (2026-06-03). Press: $300M seed at $1.3B (Sep 2025, Felicis lead) then $500M+ at $7.5B led by AMP reported as ''advanced talks'' May 2026 [src-20260514-5796ab]; round amount and lead not confirmed post-close. HQ: Harmonic says Menlo Park, press says San Francisco. Out of SPC range; benchmark only.'
 updated: '2026-10-22'
 ---
@@ -79,6 +85,7 @@ Periodic builds AI scientists and the autonomous labs they operate in: robotic a
 - Net: fits the 'own the loop' logic as a benchmark for where frontier-AI money thinks the physical-data moat is. Not an owner-operator of production and priced as a frontier lab ($1.3B to $7.5B in 8 months) [src-20260514-5796ab]. Track, don't model.
 
 ## Traction and signals
+- 2026-09-17: Own RL stack built for <$1M; at full lab throughput, 4 months of experiments in <2 weeks [src-20260917-1bcb81]
 - 2026-06-03 — Round closed at $7.5B valuation per Harmonic; total raised ~$1.1B [Harmonic]
 - 2026-05-14 — Forbes: advanced talks for $500M+ at $7.5B led by AMP (Anjney Midha); 'significantly oversubscribed'; fast-follow at higher valuation already discussed; 20+ researchers hired from Meta/OpenAI/DeepMind [src-20260514-5796ab]
 - 2026-03-26 — Bloomberg via Dealroom: early talks at ~$7B; paying customers in semiconductors [src-20260326-79447c]

@@ -65,6 +65,11 @@ sources:
 - src-20261022-935cf7
 - src-20251002-6a5afd
 - src-20260519-5cfe14
+- src-20260325-5b68db
+- src-20260430-9318cd
+- src-20260519-2d6ceb
+- src-20260525-4a12ab
+- src-20260626-541ac8
 data_quality: Round is the first institutional round (May 2026), no series letter in press; slide 8 calls it Series B, Harmonic Series A. Total raised $116M = $110M + $6M friends-and-family per press; Harmonic shows $117.89M. Press says founded by two software engineers but names only Belosic; second co-founder not identified in sources. $140M revenue run rate comes from a deleted Turner Novak post via Traders Union; low confidence.
 updated: '2026-10-22'
 ---
@@ -82,6 +87,9 @@ SendCutSend (Reno, founded 2018) is an instant-quote online metal parts service 
 Belosic argues "software first" is a VC trap, which is the counterpoint to the software-first model in our taxonomy [src-20260624-3dc6f7].
 
 ## Traction and signals
+- 2026-05-25: 32,000 orders in a month; 15-20% new customers monthly; growing ~100% y/y; +150,000 sq ft Reno [src-20260525-4a12ab]
+- 2026-05-19: Belosic: new large facility costs ~$50M; meets or beats China on ~20-25% of work [src-20260519-2d6ceb]
+- 2026-04-30: ~$140M revenue run rate, ~300,000 sq ft, serves 59.8% of Fortune 500 [src-20260430-9318cd]
 - 2026-06-24 — Core Memory interview at Reno HQ; chapters cover the $750k first machine, 300,000 customers, 'software first is a VC trap', anodizing and Nevada expansion, and one competitor he worries about [src-20260624-3dc6f7]
 - 2026-05-19 — $110M at $1.01B valuation, first institutional round, co-led by Sequoia, Paradigm and Patrick and John Collison; prior capital $6M friends-and-family (Sandy Kory, Mark Sugarman); five-year $1B US manufacturing commitment with >$250M for facilities [src-20260519-38c7ed]
 - 2026-05-19 — Sequoia's Andrew Reed: profitable, high-growth for eight years; kept board control [src-20260519-38c7ed]

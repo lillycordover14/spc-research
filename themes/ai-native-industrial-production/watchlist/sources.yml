@@ -65,7 +65,7 @@ gov_and_structured_data:      # weekly / monthly; store under sources/datasets o
   - {name: State incentive / local news (Cincinnati, Detroit, Torrance, Reno), why: plant openings, leases, headcount, status: seed}
 
 job_boards:                   # weekly; careers pages via scripts/fetch_site.py — job titles reveal the stack
-  - {name: tracked company careers pages, why: 'controls engineer', 'ML for inspection', 'CAM automation' tell you what the software does, status: seed}
+  - {name: tracked company careers pages, why: "'controls engineer', 'ML for inspection', 'CAM automation' tell you what the software does", status: seed}
 
 harmonic_and_crm:             # weekly
   - {name: Harmonic saved search 'ANIP candidates', why: new companies matching layer keywords + founder backgrounds (SpaceX/Tesla/Anduril manufacturing alumni), status: seed}

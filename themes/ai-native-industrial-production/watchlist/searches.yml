@@ -2,28 +2,28 @@
 
 alphasense:   # research.alpha-sense.com — expert calls, broker research, earnings transcripts. Export PDF -> inbox/alphasense/
   company_names:
-    - "Hadrian" AND (factory OR machining)
+    - '"Hadrian" AND (factory OR machining)'
     - "Machina Labs"
     - "Senra Systems"
-    - "Divergent" AND (Czinger OR DAPS)
-    - "Freeform" AND additive
+    - '"Divergent" AND (Czinger OR DAPS)'
+    - '"Freeform" AND additive'
     - "SendCutSend"
     - "Isembard"
     - "Mariana Minerals"
     - "Nox Metals"
-    - "Periodic Labs" OR "CuspAI" OR "Radical AI"
-    - "Mind Robotics" OR "Arda" AND McGrew
+    - '"Periodic Labs" OR "CuspAI" OR "Radical AI"'
+    - '"Mind Robotics" OR "Arda" AND McGrew'
   themes:
-    - "autonomous factory" OR "software-defined factory" OR "lights-out manufacturing"
-    - "robotic machining" OR "automated job shop" OR "automated machine shop"
-    - "metals service center" AND (margin OR automation OR quoting)
-    - "precision castings" AND (capacity OR lead time OR shortage)
-    - "wire harness" AND (automation OR lead time)
-    - "rare earth" AND refining AND (United States OR domestic)
-    - "reshoring" AND (defense OR aerospace) AND (machining OR fabrication)
-    - "manufacturing labor shortage" AND (robot OR automation)
-    - "instant quote" AND (manufacturing OR sheet metal)
-    - "factory video" OR "video-trained" AND manufacturing
+    - '"autonomous factory" OR "software-defined factory" OR "lights-out manufacturing"'
+    - '"robotic machining" OR "automated job shop" OR "automated machine shop"'
+    - '"metals service center" AND (margin OR automation OR quoting)'
+    - '"precision castings" AND (capacity OR lead time OR shortage)'
+    - '"wire harness" AND (automation OR lead time)'
+    - '"rare earth" AND refining AND (United States OR domestic)'
+    - '"reshoring" AND (defense OR aerospace) AND (machining OR fabrication)'
+    - '"manufacturing labor shortage" AND (robot OR automation)'
+    - '"instant quote" AND (manufacturing OR sheet metal)'
+    - '"factory video" OR "video-trained" AND manufacturing'
   earnings_calls_to_pull_quarterly: [Xometry, Proto Labs, Nucor, Ryerson, Reliance, Howmet, ATI, Carpenter Technology, Rockwell Automation]
   expert_call_targets:  # who to request calls with (AlphaSense Expert / Tegus)
     - former Hadrian plant / ops leaders
@@ -60,11 +60,11 @@ job_titles_to_flag:   # on careers pages — evidence of what the software does
   - "controls engineer"
   - "CAM automation"
   - "manufacturing software engineer"
-  - "computer vision" inspection
+  - '"computer vision" inspection'
   - "robotics perception"
-  - "process engineer" welding OR forming
-  - "estimating" OR "quoting" engineer
-  - "scheduling" OR "production planning" software
+  - '"process engineer" welding OR forming'
+  - '"estimating" OR "quoting" engineer'
+  - '"scheduling" OR "production planning" software'
 
 sweep_keywords:   # trade-press RSS items are kept only if they mention a tracked company OR one of these (lowercase substring match)
   - autonomous factory

@@ -1,0 +1,539 @@
+---
+theme: "Robotics & Physical AI"
+title: "Strategy Manager at BMW Group Sees Gradual Adoption of Humanoid Robots in Automotive Manufacturing"
+doc_id: EC-1000000-232453
+source_line: "Figure · Expert Call · Customer · 14 Oct 26"
+date: 2026-10-14
+company: "Figure"
+pages: 2 of 2
+saved: 2026-10-19T16:56:55.307Z
+url: https://research.alpha-sense.com/search?search_id=tmp-0pnbg1kc8uodovl7vbczkp&sort=RELEVANCE&order=DESC&docid=EC-1000000-232453
+---
+# Strategy Manager at BMW Group Sees Gradual Adoption of Humanoid Robots in Automotive Manufacturing
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+14 Oct 2026
+
+INTERVIEW DATE
+
+16 Jul 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Figure
+
+SMART SUMMARY
+
+Summary
+
+The interview covered the expert's experience piloting humanoid robots in automotive manufacturing, focusing on safety, operational performance, validation processes, and barriers to broader adoption. The discussion also addressed vendor selection criteria, training methods, and the outlook for commercial deployment of humanoid robots in the industry.
+
+EXPERT BACKGROUND
+
+- Strategy Manager responsible for Electrical Powertrains, Electrical/Electronic, and Advanced Driver Assistance Systems at a major automotive OEM, with direct experience piloting and evaluating humanoid robots for automotive manufacturing environments.
+
+EXPERT SENTIMENT
+
+- The expert is cautiously optimistic about the potential for humanoid robots in automotive manufacturing, seeing significant improvements in technology and operational readiness over time.
+- They believe broad adoption will be gradual due to validation, infrastructure, and social considerations, rather than a rapid, disruptive shift.
+- The expert sees greenfield (new) plants as more likely to adopt humanoids quickly, while brownfield (existing) plants face higher barriers due to legacy systems and labor considerations.
+
+TAKEAWAYS
+
+- Humanoid robots were piloted in two phases: an initial segregated environment for safety and capability validation, and a second phase in operational settings alongside humans, focusing on endurance and operational KPIs.
+- The pilots used Figure AI robots for pick-and-place tasks, with performance broadly on par with humans (within ±10-20%), and the expert expects further improvements in speed and capability.
+- Key barriers to commercial rollout include infrastructure investment, validation of each use case, training time, and risk of technological obsolescence.
+- The ROI for humanoid robots improves with scale and is more attractive in new (greenfield) plants where infrastructure can be designed for robots from the outset.
+- The expert expects gradual adoption of humanoid robots in the industry, with increasing pilots over the next 12 months and some permanent use cases within 24 months, but not a rapid, hockey-stick growth curve.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction to Robot Safety and Autonomy
+
+Pilot Phases and Outcomes
+
+KPIs and Training Methods
+
+Operational Challenges and Future Prospects
+
+Industry Trends and Vendor Evaluations
+
+EXPERT BIO
+
+Strategy Manager of Electrical Powertrains, Electrical/Electronic, and Advanced Driver Assistance Systems at BMW Group. The expert can speak to being a customer of Figure AI and Hexagon and has evaluated companies like Apptronik, Boston Dynamics, Unitree, and Agility.
+
+Strategy Manager of Electrical Powertrains, Electrical/Electronic, and Advanced Driver Assistance Systems at BMW Group. Reporting to the Head of Strategy, the expert is responsible for developing the centralized electrical/electronic architecture for in-vehicle infotainment, autonomous driving, and electric vehicle powertrains. This includes conducting toolchain evaluations, defining technical requirements for batteries, and managing semiconductor supply chain resilience. The expert holds authority over artificial intelligence use cases and analyzes electronic control unit centralization scenarios to optimize system performance and sustainability.
+
+Prior to the current role at BMW Group, the expert was the Project Manager of Fuel Cell Electric Vehicles at BMW Group, leaving September 2016. Reporting to the Vice President of Hydrogen Technology, the expert was responsible for validation management of fuel cell systems. This involved leading joint validation activities within the framework of technical collaborations with other major automotive manufacturers.
+
+The expert can speak to Advanced Driver Assistance Systems trends including lidar, radar, and camera technologies, System-on-a-Chip architecture, and the adoption timelines for Level 3 and Level 4 autonomous driving. Additionally, the expert is an authority on circular economy strategies, fuel cell validation, and the cost structures of modern electric vehicle powertrains.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Thank you for speaking with us about some of the safety and implementation at the factories. Specifically, the Figure robots, are they in cages, or do they have light curtains or any physical separation?
+
+**Expert** [00:00:13]
+No. They are on the same environment. They're not segregated. They are on the same environment as humans. On the initial phase of the pilot, there was a sandbox, a separate room where the pilot was taking place. Humans were also around. They were not in cages. They were also around the humans. It was a sandbox because there were all sorts of issues and we had to solve them. They were not in cages like a traditional robotic arm from KUKA or ABB, not at all. They were in the same environment.
+
+On the second stage of the pilot, they were shoulder-on-shoulder with humans, and they were working on the same environment. They were not segregated at all. This is actually the whole point. You don't have to change the environment. You share the same. Also because, if one of the robots would not work, a human would have to step in. This is quite clear.
+
+---
+
+**Client** [00:01:18]
+Can I ask a question? We've read online that because there's no safety regulation or safety standards, that robots have to be in cages. Have you heard of something like that? Also, where is this deployment? Is it in Europe somewhere where the regulation is different than in the U.S.?
+
+**Expert** [00:01:38]
+We have already, since many years, robots without cages. If you think about cobots, cobots are collaborative robots, but that are stationary. They don't have legs or wheels, essentially, they are on the same spot. Also those, they work shoulder-on-shoulder with humans. This is already possible. There are regulations and also regulations for if you want this type of collaborative robots. It's important also that the carmaker defines its own rules and makes the proper validation. It's not required. We have already quite a lot of robots that they are not in cages.
+
+---
+
+**Client** [00:02:19]
+Cobots, in my opinion, they're not autonomous. They're still very much like I program into them what to do, and then they do it. The idea is, and correct me if I'm wrong, but the Figure AI robots are somewhat more autonomous?
+
+**Expert** [00:02:36]
+They are more autonomous in the sense that they can move around. They are not stationary. They have a battery, and so they can indeed move around. They have additional degrees of freedom compared with the traditional cobot. That is correct. Ultimately, in terms of regulations, it's the same. I could also give you another example. Logistics or AMR, these logistic vehicles that distribute parts around the plant, and they are unmanned. They are, in a way, also robots. The only thing they do is that they move around the plant. They are autonomous. They are not caged. They move parts back and forth.
+
+Actually, those are even more, I would say, dangerous or let's say critical in terms of safety because they have significant more power, more weight, and they are really moving around in the same corridors and hallways where people are also moving. They transport heavy parts, and these are not caged by definition. They move on those hallways between the different lines, if you want. Ultimately, they are like autonomous cars almost.
+
+---
+
+**Client** [00:03:50]
+When you think about autonomous, from what you are saying, the definition for autonomous is it can walk around. If you think about the future of what autonomous could mean, it's more like it is intelligent enough to make decisions by itself, being able to walk over and load a metal sheet. It can identify, there is something in my path. I should move away from it. This sheet looks different. I should flag this. I might fall with the sheet. Let's not hit a human. Are the robots there yet?
+
+**Expert** [00:04:27]
+I would say so. A lot of these use cases, actually, they are required. The validation of the use case you are referring to, they are actually required for a collaborative work with humans in the same environment. They have to have 3D vision awareness. They have to detect humans. They have to deviate from obstacles. Sometimes the parts that they pick, they are not exactly placed always on the same way, so they have to turn the parts on the right position. When they insert the part, for instance, on that stamping machine, it has to be on the right position. These parts are not symmetrical. If you put the parts upside down, the robot has the capabilities to recognize the part is upside down.
+
+I was played a prank or something, when they said, I have to turn the part because this is not the right way. This is possible. This already happens today. They recognize humans. If they see obstacles, they understand that they have to step over that obstacle. They recognize priority. They recognize obstacles, say, fences or walls. They also recognize that they need to be charged. Therefore, they should direct themselves to a charging area. They are also able to communicate wirelessly with the IT system. A robot actually does not really need to talk or even to push buttons.
+
+A lot of things that you have on a shop floor, you have buttons and levers and doors and things like that the human essentially operates with his hand. These robots, if everything is electric, essentially, if they want to open the door, they can just send a wireless command to the IT system and say, please open door number 23, because I want to pass. They don't need actually the hand to turn the door and so on. They are already able to do this. Indeed, you have to go and validate these corner cases. There is a list of corner cases, some of them you have mentioned yourself, in which we have to validate.
+
+---
+
+**Client** [00:06:40]
+Sorry. I'm curious, two questions. One is, how many robots are being used right now from Figure AI, and are they all deployed at the same factory? What's the scope of this right now?
+
+**Expert** [00:06:57]
+As we speak, we do not have Figure AI robots in operation. We had two pilot phases. The 2nd pilot phase just ended beginning of this year. Essentially, it was stopped.
+
+---
+
+**Client** [00:07:11]
+Two pilots. Did they just give the robots for free? What was the nature of that agreement? Was it a partnership model?
+
+**Expert** [00:07:21]
+There was a commercial agreement. The details of which I cannot disclose. There was a commercial agreement with financial aspect, a data sharing aspect, an IT dimension to it, certain options for the future. The details of which I cannot disclose.
+
+---
+
+**Client** [00:07:40]
+That's totally fine. Can you tell us a little bit more about what happened in the first pilot, what happened in the second pilot, and why that was stopped?
+
+**Expert** [00:07:50]
+It was stopped because it was planned from the beginning to be stopped.
+
+---
+
+**Client** [00:07:55]
+There was no reason? It was just the pilot ended?
+
+**Expert** [00:07:59]
+Exactly, the pilot ended. It was also supposed to be a pilot. I tried to mention yesterday, the first pilot was in this segregated area, where also, of course, humans were around. The idea was to understand the capabilities of the robot in a number of realistic situations, including validation of the safety aspect, trying to increase the speed of the robot, trying to get the robot understand a number of curveballs or more and more difficult use cases. We bring the part upside down. There is obstacles. There are humans on the way. The robot is pushed. All those types of things.
+
+If things go wrong, this was a fully segregated domain, not necessarily a cage on that sense, but it was a room separated from the shop floor. If things go wrong, the line still works. There is no impact with the manufacturing line. That was just a couple of robots. That was phase one.
+
+There was a period of time of consolidation of the learning and conceptualization of phase two, then came phase two. The goal of phase two was more to understand the operational aspects. What the robot could do was already understood, but how suitable this robot would be on a realistic operational scenario, it was not known. This is essentially was the question. To do that, we had to operate with multiple robots. We had to operate also on an actual task that is required, not a dummy invented task, but a task that is actually needed and not just needed, it's part of building the car.
+
+There are a number of about 100,000 cars out there on the road in the U.S. for which a portion of the assembly was done by robots, by humanoid, by Figure AI, not the complete car, but a portion of that assembly was done by robots. You have real customers with real cars driving on real roads, for which a portion of the vehicle assembly was done by robots. This is what happened.
+
+For instance, we want to verify things like, we work in shifts or actually everybody works in shifts in the auto making, you can have two or three shifts a day, eight hours or 10 hours a day. You have to rotate. It's continuous operation, five to six days a week. We have to understand if the robots can endure and can operate continuously this way. It's more an endurance run more than a functional test, is an endurance run. How is it recharging. Can I recharge over and over again. How many failures do I have during the assembly. How these failures are solved. Those type of questions.
+
+Things like yield and scrap rate and meantime between failures, number of events, and the amount of time the robot was out of operation, essentially can build statistics. This essentially was the scope of phase two, and phase two ended. Essentially we are now on that post-analysis phase and said, this is what we have learned, what should we do next. Should we do a phase three, should we work with someone else, should we stop. This is what is on the table now.
+
+---
+
+**Client** [00:11:19]
+What was the feedback from phase one and phase two? Were you happy? What were you happy with? Were you unhappy? What are you concerned about?
+
+**Expert** [00:11:32]
+Broadly speaking, we are satisfied. I think the targets of both phases, they have been achieved. I would say that we are satisfied.
+
+---
+
+**Client** [00:11:43]
+When you say satisfied, what were the KPIs? Is it that it's on par performance with a human? The same throughput as a human, the same rate of error as a human, is that the KPI or is it is better than what you expected?
+
+**Expert** [00:11:59]
+The KPIs used are essentially really the classical KPIs you have on the shop floor, number of failures per shift, the amount of time is out of operation, scrap rates, and yields, and all of that. Throughput, of course, all those things have been measured. These KPIs cannot be disclosed. Of course, you would try to be as fast as a human. This is one of the challenges. I think there is definitely potential for these robots to be even faster than humans. There is a number of technical issues and, for instance, with Figure, they become faster and faster over time. Essentially, it could still be improved. This is the KPIs. Ultimately, you are going to calculate the TCO on both scenarios.
+
+You have scenario human, in which you have to pay salaries and you have a certain throughput. A scenario two, a scenario robot, in which you buy the asset or you have robot as a service. You have to invest in infrastructure and all of that. You have energy costs, and essentially, you have a different cost structure, and then you are going to compare the two.
+
+---
+
+**Client** [00:13:10]
+How does it compete with humans? Is the current technology in these select tasks on par with humans? If we don't ignore the cost factor.
+
+**Expert** [00:13:21]
+It's broadly on par. There is definitely still a lot of potential. Maybe one of the other KPIs is below others, is slightly above. Broadly speaking, ±10%, 20% is on par. What we also look into is the gradient. It's not the situation today, it's how fast the situation is improving. This is what is going to guide also in your investment.
+
+---
+
+**Client** [00:13:49]
+How much longer do you think it will take for an investment in a robot for the ROI to actually exceed the case of using a human?
+
+**Expert** [00:13:57]
+It really depends on the use case. Let me answer it in a different way. Imagine that today I am thinking about opening a greenfield car plant. I am building a car plant from scratch, in which I can design the line and everything the way I see fit. I would definitely already think about humanoids from the beginning, not for all tasks, but a lot of investments in infrastructure, charging, IT network. I would already think about accommodating humanoids from the start. I could also already define some tasks to be humanoid first, human backup. This is something I would do.
+
+Let's say the penetration and adoption on that case would be already quite interesting. It could be already, say, 20%. You could substitute probably 20% of the people using humanoids today if you would start from scratch. Now, there are not that many new car plants being built right now, though. There is actually an excess capacity in the industry. Car plants are not being used with a high utilization, and so you have a lot of brownfields. You have also, at the same time, excess capacity, excess labor.
+
+The sheer motivation to automate is a relative one. It's not, say, super urgent, because anyway, you would have to think about the solution then for that labor. Here in Europe, it is a bit different than in the U.S., also in terms of layoffs and things like that. I think you also have to think not just about the technological readiness and maturity, but also, of course, the financial aspect, the social aspect, and the fact that there's a lot of brownfields out there in which sometimes the introduction of humanoids means a high CapEx infrastructure investment.
+
+---
+
+**Client** [00:15:46]
+I thought the idea of having a humanoid in the shape of a human means that you don't need to redesign the factories. The infrastructure investment is charging batteries, electricity. Can you give me an example of what you mean by how you have to redesign things for a humanoid?
+
+**Expert** [00:16:04]
+Charging is one aspect. You could also think about the IT infrastructure. Do you really need buttons and levers. Do you need chairs for two people work seated. Those type of things. Also, for instance, the spacing between the machines. There is all sort of regulations that people must have a certain space between them and between the machines, whereas robots will not be constrained by that as well. I would say the most important is the IT infrastructure and the charging infrastructure, and the fact also that you have the possibility, if you go for the greenfield, you have the possibility to test and validate everything from scratch.
+
+What happens if I want to introduce robots right now, I can test, but I have to stop the line. If I stop the line, I am losing money. The introduction of robots implies that I'm introducing a risk on a running system. The system works perfectly. I have great KPIs. It works actually just fine with humans. Instead say, stop. I am going to change the system. I am going to introduce humanoids. Of course, I have to validate, so I have to stop the line. This, of course, is not impossible. I'm not saying it's impossible. Actually, we have done it.
+
+I'm just saying that it is an additional barrier with respect to, say, you have a greenfield, you have typically two years beforehand, you can test all possible use cases. You have enough time to do the tour if you want. Now, there is another dimension, which is, should humanoids look like humans. Is it really the best form factor. Sometimes wheels is just better than legs. Should they have hands or maybe just grippers. It depends at the task at hand. We humans, we evolved in today's bodies because we came from the savanna. Our body adapted to that environment, not really to work on car factories.
+
+Robots, they can actually be perfectly designed to work on car factories, and they may not necessarily look like humans. I think initially they look like humans because it is something people can relate and they can demonstrate, and there is a certain, I would say, PR value or demonstration value, which is fine. A human hand is something quite complex. Walking and running is also complex.
+
+---
+
+**Client** [00:18:40]
+I'm assuming that in your pilot phases, you didn't actually use a very dexterous hand. Can you deep dive a little bit in what specific use cases you tested them for in pilot one and pilot two?
+
+**Expert** [00:18:53]
+On the first pilot, it essentially was a pick-and-place task.
+
+---
+
+**Client** [00:18:57]
+Sorry, can you repeat? I missed that.
+
+**Expert** [00:19:02]
+A pick-and-place, so essentially picking a part from one box, taking into a stamping machine. The machine would open, the humanoid would introduce the part on that machine, there would be a stamping, and then the door would open, the robot would take the part out and put it into a different box.
+
+---
+
+**Client** [00:19:19]
+These are small pieces?
+
+**Expert** [00:19:22]
+This is 20 cm, 30 cm, 40 cm, something you can hold, something that everybody could hold in their hands, two kg-3kg. Also, not all aluminum parts.
+
+---
+
+**Client** [00:19:38]
+Is that the only thing we tested these robots on to do?
+
+**Expert** [00:19:43]
+For the first pilot, yes.
+
+---
+
+**Client** [00:19:45]
+Got it. It's picking this up, putting it on a machine, the machine stamps it so it's flat, and then they take it back and put it into another box?
+
+**Expert** [00:19:55]
+Exactly. Broadly speaking, that's it.
+
+---
+
+**Client** [00:20:01]
+It was the same use case in pilot one and pilot two? It's just in pilot one, this was a little bit more you put them in a separate room to see if they can do it. In pilot two, it was more, actually, the KPIs you were testing for are slightly different, how reliable, what are the shifts? What are the error rates? Is that correct assessment?
+
+**Expert** [00:20:26]
+Broadly speaking, yes. We were looking into more the operational KPIs.
+
+---
+
+**Client** [00:20:31]
+To roll this out, there's a lot of cost and backward inertia that's preventing you from doing this. I'm curious, what are the other things you need to test in general before broad commercial rollout at a place like BMW?
+
+**Expert** [00:20:47]
+The remaining barriers is, essentially, you would have to do some level of investment on a running system, and you have to make sure that it's going to work. This is a validation phase.
+
+---
+
+**Client** [00:21:00]
+Sorry, you mean some investment on the what system?
+
+**Expert** [00:21:03]
+On the infrastructure.
+
+---
+
+**Client** [00:21:05]
+Got it.
+
+**Expert** [00:21:06]
+Charging, all those things, charging and IT system. What we also found out is that the ROI makes sense the more robots you introduce, which makes sense. If you make investments, say one-off investment infrastructure, the more robots you have, the better, it's going to be the payoff. The more robots you introduce, you also have to consider the validation, and validation of different use cases.
+
+A major barrier is you have to validate one use case after the other. If we go for a use case on logistics in which you have to take parts from a box coming from the supplier, and you put into a warehouse in dedicated, this is something that robots can do already today. It works fine, but this has to be validated. The next one is to screw some components together or to attach two body parts together, or to do some quality inspection. This is all possible today, but you have to validate.
+
+Doing for one use case does not mean it works for all of them. This is work. It means also you have to invest engineering time to validate each one of these use cases. You also need humans in the backup. Things sometimes do not go right. You need humans in the backup such that the line doesn't really stop. You would also have to foresee this.
+
+If you have a lot of robots going around, then you also need either you have a swarm intelligence, so the robots talk to each other and decide how to go forward if there is a conflict. Imagine they know that they have to pick a part. There are two robots that could pick that part, who is going to take it. Humans would say, I will take it. Don't worry, that's fine. The robots will also have to reach that agreement, or you have some kind of master, a control unit that essentially directs the robots top-down. In terms of fleets or swarms, there is still some open questions on exactly how this is going to work out.
+
+There is also another problem concerning the risk of investment. Imagine that I commit to buy or to lease 1,000 robots from whatever company. I validate a use case, it works fine. In six months or one year, some other company comes up with a disruptive technology that is way cheaper and is much more performant. Essentially, I was happy with my solution, but it turns out I'm completely already outdated in terms of technology because the new start-up came along and it's actually a complete breakthrough.
+
+The risk that essentially you're changing your process, you're committing to a supplier, you're deploying a large commitment, either buying the assets or leasing the assets and adapting all your line for that, and then a few months later just comes something way better. This is yet another, if you want, yet another barrier here. I believe I mentioned this already. The training time for each use case is also engineering hours. I have also to put this into the ROI. This is something.
+
+You also, of course, have the fact that many carmakers have excess labor. The motivation to use robots is not there because actually they don't know what to do with so many people. Even more so when moving to EVs, so electrical vehicles, you need even less people. It's already highly automated. The motivation to automate even more is not that urgent.
+
+---
+
+**Client** [00:24:44]
+It almost feels like the technology needs to be much more mature, where your investments from the BMW side is much lower. It just comes, it works in your infrastructure. You don't have to spend a lot of time training it. It costs like $20,000-$50,000. It becomes a lot more of a decision. Whereas now it's risky, it's expensive, and you don't know if it's going to work in mass.
+
+**Expert** [00:25:13]
+Broadly speaking, yes, with the caveat that, as I mentioned, if I would plan a greenfield plant, I would be, I think, much more ambitious in introducing these robots in specific use cases, because I already think about the future and say, in three, five years' time, humanoids will be way ahead. I want to plan a plant for the future, already preparing everything for those humanoids to evolve there. The boundary conditions will be all already there. I would already define the tasks in the way that robots would be able to perform it, and I would validate everything beforehand.
+
+I would not even hire as many people as I would have to do otherwise, already save a lot of money upfront. The business case is a bit also different. I don't have to pay severance packages or anything like that. Essentially, instead of I need 4,000 people for the car plant, maybe I just need 3,000 or 2,500. This is a big saving. I would start with the humanoids. I'll probably define a number of interfaces, and then robot as a service. If a new robot comes along, I would say, this is the interfaces that I need. You can change the humanoid, but still how the humanoid interacts with the plant in terms of charging, in terms of IT, this remains the same.
+
+This is, for instance, something that I think is meaningful, that you define the environment that stays the same, that stays constant, and whoever new humanoid that comes along would fit in that interface. It's like you build a road for whatever car that drives onto that road. You don't have to change the road just because there is a new car. The road is the same. It will be the same here. You make the infrastructure right from the beginning, and then whoever humanoid comes along, you would be already ready.
+
+---
+
+**Client** [00:27:12]
+Just to confirm, how many humanoids did you say from Figure were working in pilot one and then pilot two? I know you mentioned a couple dozen yesterday.
+
+**Expert** [00:27:22]
+Exactly.
+
+---
+
+**Client** [00:27:23]
+I know this is a basic question, but it's like when you bring these robots in for the pilot, it's not like you are actually programming a set of actions for the robot to execute, or you have a human remote controlling what they do. How do you train them? Do you hold a council, a human holds the council and teaches the robot, and they do it a couple of times? What does that actually look like in the beginning?
+
+**Expert** [00:27:48]
+This is actually a key point, I think also in terms of adoption, is this training time and training methods. Ideally, the robot would actually be fed a number of video streams of the task at hand with some clear set of instructions. In the same way that you instruct your chatbot and provide context, these robots would also be taught. They have a clear, say, a one-page with context, where they are, what is the task they have at hand, what are the things they absolutely must not do.
+
+Really in broad terms, pretty much like a work instruction in the same way that if you are hired for a new job, you get in broad strokes what you have to do, the no-gos, and the best practices. Within this frame, you would just find your way on how best to do your job. This is pretty much the same in terms of the vision. To learn the work, you could just give them a video stream of a human working and say, this is it. This is what actually you have to do. Within essentially seconds, the robot would be able to do and would be fully operational, even faster than a human.
+
+If you get into a new job, you get onboarding sessions, and people will tell you things. Here, the onboarding could be essentially a matter of seconds. Now, is this the case right now, no, it is not. I must also say these robots are not telecontrolled. They do take decisions. The training takes longer. Let's say they get formal instructions for the task. They see the task a number of times. They try to perform the task. It doesn't work. There are feedback. If you want feedback, you try to improve speed. You try to understand why they tripped. You try to understand why they missed the machine.
+
+With the vision system, there was something that was not right. You have to go one after the other into this. This training can take several weeks. Now, this is the situation today. I believe that very soon this training time will be just a matter of days, then a matter of hours, and then will be essentially just minutes. I think the technology is not far away from this training to be drastically reduced.
+
+---
+
+**Client** [00:30:14]
+Sorry, can you elaborate on why you think it's close?
+
+**Expert** [00:30:19]
+The underlying software is smarter. The vision systems are much better. The locomotion is much faster, is much better. They have better motion control. Even things like dexterous hands, they are essentially same or better than a human hand, also in terms of precision. It ultimately boils down to the software.
+
+---
+
+**Client** [00:30:41]
+I'm curious. The software, if it's just watching a video or watching a human do it during the training, that's only one piece of the training. The other piece is if a human is holding, imagine like an Oculus thing with the controls on their hands, and then they're training the robot to feel things with its hands, what's the nature of the training that you're doing? Is it more still based on the vision?
+
+**Expert** [00:31:06]
+I would say it would also depend on the task at hand. If it is a simple logistic task, like transporting parts or a box from one site to the other, the vision could actually be sufficient. A lot of these robots come already with some basic training. They can hold things in their hands. This is not something new. If you give a command, hold this part, hold this apple, these type of things they would be able to do already. There are these basic functions that are already there.
+
+Now, for more complex tasks where you need high precision or you have parts that have some strange shapes or, for instance, very difficult is flexible parts like wire harness, one of the most difficult things would be to mount a wire harness into a vehicle. Wire is floppy, kind of flexible. It needs to be clipped in some kind of plastic, a bracket. Sometimes the workers, human workers, they take the cable in their hands and they will feel with their fingers where this clip is, and they will clip the cable even without seeing it. The clip is there. You feel with your fingers, it's here, and you just move the cable, and it just clips it. This is quite hard for the humanoid.
+
+You need really a high sophistication of control, very sophisticated tactile sensors and software. Vision there will not help. This is something that is really very hard. This is, I would say, something at the edge or probably beyond the edge of what is possible today.
+
+---
+
+**Client** [00:32:42]
+In the pilot phases, it's safe to assume most of the training has been relying on vision training?
+
+**Expert** [00:32:48]
+Mostly, yes.
+
+---
+
+**Client** [00:32:49]
+Got it. I know this is a very broad question, but in your opinion, not necessarily for BMW, but as someone who has actually been at the forefront working with the most technologically advanced robots. How long do you think it will take before we get to a place where there is going to be just commercial deployment of robots? How long do you think before we get to a point where there is just broad adoption?
+
+**Expert** [00:33:15]
+In terms of the industry as a whole, nothing to do with my company, but the industry as a whole, I would expect, within the next 12 months to see an increasing number of these pilots. Within the next 24 months to see some of these pilots becoming actual use cases, so they become permanent. Still is going to be reduced in numbers, so the numbers per plant is still going to be below 100 within the next 24 months. On the third year, then I think this could go already in the direction of the hundreds. It would go from there.
+
+I don't think it is going to be a hockey stick type of adoption. The reason is that you have many different tasks in a car plant, and you have to train and validate, not just to train, to validate each one of them. You have to make sure it works at least as good as a human. You also have to find a solution for the humans. You don't want to create a social problem. All this is, in a way, slowing down adoption. I don't think it's like an iPhone or something like that had such a strong adoption or fast. I think it's going to be much more gradual because of all these things.
+
+The investments you have to do with the infrastructure, you have to validate one use case after the other, you have to find solutions for the humans. Some use cases will not be suitable for the technology. The technology will evolve. We also have to understand who are the winners. There is a lot of start-ups. Should you commit a plant, like a big line also on a start-up that may not be there tomorrow. What about service and maintenance of these robots. There is also those type of aspects.
+
+Coming back to your question, I think it's going to be a continuous, gradual, but not so fast adoption of these humanoids in the automotive industry on the next few years. I think it is already starting. I think you would already see more and more, and we are also doing this now in our plant in Leipzig with a different company, essentially to find additional use cases, more complex, different environments, trying to answer different questions. At some point, there's going to be a commitment in terms of, okay, this is not a pilot anymore. This is the base case. This is how things are done, and maybe the humans are there as a backup.
+
+---
+
+**Client** [00:35:44]
+Maybe we could talk a little bit more about I would love to get your perspective on how you thought about the different humanoid vendors. For example, Figure AI is the big name. Have you heard of Apptronik, NEO, Agility, Boston Dynamics, then also the Chinese ones like Unitree? How did you think about all of these players, and why was Figure the one selected for the pilot?
+
+**Expert** [00:36:09]
+We check, of course, most of those names. Apptronik, Boston, Agility, more for the U.S. Of course, in China it's their own ecosystem. I do see that China, they have their own robot companies, makes sense in China, doesn't make sense in the U.S. In the U.S., to have your own robot companies makes sense in the U.S., not in China. It's really a decoupling there, because of all the geopolitical situation. Anyway, we have looked into actually those companies.
+
+The criteria that informed the decision had to do not just with the maturity of the technology, but also the capability of the engineering team, the willingness and the ability to work close with the customer, so customer relationship, the willingness and ability to perform these pilots, of course, then the commercial aspects around it. That was essentially what informed that decision.
+
+Let's say the sheer financial aspect is probably, in the early stage, not the most important. You're actually thinking the early stage more in terms of the sheer potential of the technology of that company, and very important, the willingness and ability to work together in this project. As I mentioned yesterday, the goal is to learn initially. Both sides want to learn, so both have to invest into this learning, even without a commitment for buying so many parts.
+
+---
+
+**Client** [00:37:37]
+Would you say from just when you evaluated the technology itself, across all of these companies, were they similar in terms of where they were?
+
+**Expert** [00:37:46]
+Let's say, at the time, Figure had a very good standing. I would say probably two years ago, two and a half years ago when we started, the difference between these companies was probably larger than it is today. I think today it is somewhat narrow. A lot of these components, it is not that they became commoditized, but they are widely available, or you have a supply chain. These days you can buy complete dexterous hands. The robot maker is not as vertically integrated as it was in the past and doing pretty much everything.
+
+If you want to make a robot by yourself, you can already buy a lot of things. You can buy the battery, you can buy the hands, you can buy all the vision systems, bits and pieces of the software. Even companies like NVIDIA, they are getting into the game as well. They provide the chip, and they provide the operating system, and then some of the middleware. There is increasingly a lot of Lego blocks that are pre-available, in the same way as the car-making industry. We don't have to develop our own tires. We buy tires from companies that can do very good tires, same way with batteries or mirrors or things like that. I think the same is happening with humanoids.
+
+---
+
+**Client** [00:39:04]
+Two, three years ago, though, you said Figure was just ahead. Was it because they were just earlier, and they actually developed a lot of their own stuff? What made it better? Was it the AI? Was it the hardware?
+
+**Expert** [00:39:21]
+I would say the whole package. The way they were able to integrate the whole package into a demonstrator that showed already a level of maturity. How it works, we go to talk with these companies, and we can talk a lot, but at some point, we have to see what these robots really can do. You want a real-life demonstration. This is ultimately what really moves the needle because it's everything there. You can claim, I have great software expertise, but what have you made. There is software, hardware, electromechanics. There is many different skills.
+
+Ultimately, these companies, they are integrators. They bring everything together. It's like a carmaker. We are integrators. In the end, you have a car. At the end here, you have a robot. This is also a skill that we also expect. Some companies, they only do software, but we are not really buying the software. We are buying the whole package.
+
+---
+
+**Client** [00:40:27]
+That's really helpful. You said the criteria was the capability of the engineering team, willingness to work with the customer. Can you comment on how you felt about that after the two pilots? It sounds like you are saying the only reason that right now, you guys are still deciding what's next is because a lot of the other companies are converging in terms of technology. Is that the correct assessment?
+
+**Expert** [00:40:51]
+Not quite. We have stopped the pilot because it was supposed to be stopped. There was a certain timeline that was agreed upon. There were certain targets, and there were certain things that need to be done and learned, and they were. That plan was fulfilled, tick in the box. This is why it was stopped. That is the situation. Now, essentially, it is understanding what the next steps should be.
+
+---
+
+**Client** [00:41:19]
+Do you felt like their engineering team and their customer success team were good
+
+**Expert** [00:41:24]
+Definitely. I would definitely confirm that they have not only excellent engineers, but also are very responsive. They are really very flexible, very fast. A number of things did not went according to plan initially, and they were very quick to resolve those issues. This is something that I think is really a success factor, is how good they can work together with the customers. A lot of these start-ups develop robots, first of all, then to be demonstrated. You have a bit of a wow effect. They know very little of the reality of a car plant. Obviously, they want to sell robots to other types of industries, not just carmakers.
+
+They need also from their side, the knowledge of the customer application, what the customer actually needs, what is important for us. They, of course, were very keen. They were fast learners. Also from our side, we also want to understand how far we can push this technology, what it works, what it doesn't, what is the gradient of evolution. Essentially, you try to find a team on the other side that from which you can learn, and they can also learn from you. It's mutually beneficial.
+
+---
+
+**Client** [00:42:39]
+It's like a BMW-sponsored university grant research project?
+
+**Expert** [00:42:45]
+Let's say, both sides learn. Both sides get something out of it.
+
+---
+
+**Client** [00:42:50]
+Do you see a future, if you think about all of these start-ups and players, if you think 10 years, 20 years down the road, do you think it's a winner-take-all market, kind of like Apple with the software, like iPhones and Apple products? Do you see it becoming more split where some robots are better for carmakers, some are better for the home, etc. ?
+
+**Expert** [00:43:12]
+The way I see it is that you have a commoditization of the underlying subcomponents, like actuators, sensors, cameras, dexterous hands, grippers, wheels, even bits and pieces of software of the lower levels of the software, the SOCs, the semiconductors, the memories. I see a commoditization of those components that is going to be probably the same that all these start-ups are going to use. This is one thing. The differentiation is going to be more on the form factor and the knowledge of the customer application. I also see a multiplication of the form factors.
+
+---
+
+**Client** [00:43:51]
+Can you explain what you mean by form factor?
+
+**Expert** [00:43:54]
+Sure. Form factor is what is exactly the geometrical shape of the robot, is it 1.70 m, is only 1m height, it has wheels, it has legs, it is large, long, deep, it has two hands or it just has grippers, the aspect ratio of the hardware. What I was trying to say is that there's going to be a broad diversity in those shapes, in those form factors, that are going to be specifically developed for a number of tasks.
+
+If you, let's say, in a shop floor, probably wheels is better than legs. It's more energy efficient in most cases. If you don't have stairs and any obstacles, actually you could just have wheels. We humans have legs, again, because we had a different evolutionary background. In some cases, that's it.
+
+I would also expect that these humanoids, they are not going to replace the classical robots. They are not going to replace cobots. I don't think they are going to replace the classical KUKA, or ABB, or FANUC robots, because they do completely different jobs, and those classical robots, actually, they have a great return on investment. They are not that expensive, and it works just fine. They don't need to be smarter. The humanoids is going to be more on what humans do.
+
+If you look into a shop floor in, say, 10 years' time, I think what you are going to do is certainly going to be robot-terminated, but these robots will have all different sizes and shapes. For each task at hand, you will have a different shape, so a different form factor, and could also be from different providers.
+
+I don't think carmakers will buy everything from one company and say, I need 4,000 robots, and I get 4,000 from one company. I do not think so. I think they will really divide and conquer, and they say, I have here, say, 100 different tasks in my plant, let's say a number. For each one of these tasks, one task is done by 10 people, another one is done by 20 people. For each one of these tasks, I am going to define what is the form factor, so what is the size and shape of the robot that is most suitable to solve that task, and then I will go and source the robot.
+
+Say, this one is just pick and place, tendering. This is the robot that I need. I will write down the requirements for that robot, and then I will shop around for robots that fulfill that. I will not try to over-engineer and maybe buy robots that can do incredible things, jump and dance and do stand-ups and things like that. Whereas actually, I just need something much, much simpler.
+
+I think that there is going to be a bit of more of that approach that you choose the equipment, you choose the asset, the robot that is suitable for the task at hand. Of course, you still do not want to have thousands of different robots. You want to have a manageable number of diverse robots that can perform different tasks. I believe carmakers will not stick to one robot maker or to one form factor. They will have probably seven, eight different brands operating into a plant. Now, the underlying components, actuators, sensors, cameras, chips, a lot of the software, these could be, however, more or less standardized among these different players.
+
+---
+
+**Client** [00:47:34]
+That's very helpful. What do you think about Chinese robots? From your perspective, is there any concerns with does the technology actually work in the Chinese robots, and if there's any geopolitical concerns?
+
+**Expert** [00:47:48]
+I believe that Chinese robots are actually very advanced, from a technological perspective. I believe Chinese robots make sense in China. Actually, these are complex physical AI machines. Moreover, they have sensors, so they can acquire all sorts of data. I don't think an American company, or a company based in America would buy Chinese robots, given these boundary conditions.
+
+---
+
+**Client** [00:48:15]
+Given the surveillance and the sensors?
+
+**Expert** [00:48:18]
+The surveillance, the level of intelligence, essentially.
+
+---
+
+**Client** [00:48:23]
+Privacy concerns.
+
+**Expert** [00:48:25]
+You could have a spy if you want, almost in your plant, and it would essentially gather all possible data. Let's say from a technical perspective, it's perfectly possible. It is essentially a Trojan horse almost that you have, and it essentially gathers. Probably these humanoids will have to be linked to the IT system of the plant. It could even be used, say, for cybersecurity attacks or anything. I'm just saying that it is technically possible.
+
+I don't think risks are going to be taken on that direction. Therefore, China is going to use mostly Chinese robots. For a Western maker with plants in China, makes sense to use Chinese robots. The same in the U.S. and in Europe. You would use the robots that are available on that region. I think this is what makes sense. Also, for instance, in China, I cannot take data out of China. This is also the regulation there that it has to stay there. Also in China, 5G connectivity is extremely widespread, much more than the U.S. and Europe. I also have additional capabilities in China to do things that I cannot do in Europe.
+
+Also, the degree and speed of evolution in China for humanoids is very fast. I could also be exposed to this fast innovation and try different things or new things or more sophisticated things that I cannot try yet in Europe, or even in the U.S. I could also use this geographical differentiation to try and learn new things, different use cases. This is, I think, what makes sense.
+
+What I don't see is likely is these robots traveling borders. Europe could be a bit of a borderline case in which you could have robots of both China and the U.S. We have then to see how also the geopolitical situation there evolves. It's a distinct possibility and is likely that Chinese robots will be significantly cheaper than the American or European counterparts, and therefore, there would be already a price pressure there. I think it's then the question if Europe is going to allow this or not.
+
+---
+
+**Client** [00:50:41]
+Got it. I'm just more thinking about electric cars. Obviously, America has pretty much banned all the Chinese cars, but if you think about Europe, there's definitely countries that are allowing the import of, say, BYD. Do you have any concerns over whether Chinese robots actually work? Depending on who I'm talking to, there's some sentiment, and I'm trying to see if anyone's tested a Chinese robot. There's thoughts that they're actually telecontrolled by a human, but they don't actually have the AI technology to be autonomous.
+
+**Expert** [00:51:17]
+They are autonomous. Now, of course, you have dozens and dozens of robotic companies in China. Some of them will have probably demonstrations in which there is that type of feature, that type of command or something. That is, I would not discard. The leading companies, they can't do that. We also have to think that the labor cost pressure in China is not the same as in Germany. Labor costs for shop floor, they are way lower in China, so the return on investment is a bit harder also there. The robots have to be really, really much, much cheaper. Also, you start to have some high unemployment in China.
+
+From one hand, it's highly supported by the government, all this type of technology in terms of pushing the boundaries, great PR, all those shows and so on. On the other hand, I believe they're also aware of potential social problems, and also the fact that the ROI is not yet so clear-cut, given the fact that still labor costs are not so high.
+
+---
+
+**Client** [00:52:16]
+This is circling back to something you said a little bit earlier, but would you say that validation is the bottleneck right now with deploying humanoids in the factories? If so, is that something that's done mainly on the carmaker side or mainly on the Figure side or is it closely collaborated between the two?
+
+**Expert** [00:52:36]
+Validation is definitely one bottleneck. It's done by both, mostly by the carmaker. The carmaker has to define what are the use cases.
+
+---
+
+**Client** [00:52:48]
+Is that in simulation or is it testing it out on the factory floor?
+
+**Expert** [00:52:53]
+You have a part that is simulated. At this stage, still nothing will replace the actual operation in the shop floor. Also, because the carmaker has to define what is good and what is not, what is acceptable, what is not, what are the different 50 corner cases that can happen and the robot has to resolve them.
+
+---
+
+**Client** [00:53:15]
+Got it. That's the part that's the bottleneck is the testing it out on the factory floor?
+
+**Expert** [00:53:21]
+It is one of the bottlenecks, yes. Also, as I mentioned, the risk. Say you go through all this validation process, fine, you have a solution, you agree on a certain price, and then six months later, you have a way better robot at half the price and doing things twice as fast.
+
+---
+
+**Client** [00:53:41]
+Yeah. That makes sense. Last question from me. I'm just curious, did you initially approach Figure and these other robotics makers, or did they approach you inbound?
+
+**Expert** [00:53:55]
+We approached them.
+
+---
+
+**Client** [00:53:57]
+That makes sense. I think that's all from us. Thank you so much.

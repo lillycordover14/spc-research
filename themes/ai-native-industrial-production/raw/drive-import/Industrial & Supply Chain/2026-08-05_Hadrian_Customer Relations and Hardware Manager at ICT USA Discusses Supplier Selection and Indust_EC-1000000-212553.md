@@ -1,0 +1,594 @@
+---
+theme: "Industrial & Supply Chain"
+title: "Customer Relations and Hardware Manager at ICT USA Discusses Supplier Selection and Industry Trends in Manufacturing Equipment"
+doc_id: EC-1000000-212553
+source_line: "Hadrian · Expert Call · Customer · 05 Aug 26"
+date: 2026-08-05
+company: "Hadrian"
+pages: 2 of 13
+saved: 2026-10-22T20:09:38.002Z
+url: https://research.alpha-sense.com/search?search_id=tmp-zrt1t2a4vvfkburx47q41n&sort=COMPANY_NAME&order=DESC&docid=EC-1000000-212553
+---
+# Customer Relations and Hardware Manager at ICT USA Discusses Supplier Selection and Industry Trends in Manufacturing Equipment
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+05 Aug 2026
+
+INTERVIEW DATE
+
+07 May 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Hadrian
+
+OTHER COMPANIES
+
+Machina Labs
+
+SMART SUMMARY
+
+Summary
+
+The interview covers the expert's approach to sourcing and evaluating contract manufacturing equipment, with a focus on the strengths and weaknesses of suppliers like Hadrian and Machina Labs, as well as considerations for future supplier selection and industry trends.
+
+EXPERT BACKGROUND
+
+- Customer Relations and Hardware Manager at a leading ODM, responsible for sourcing, evaluating, and purchasing production equipment and managing relationships with contract manufacturers and equipment suppliers for high-volume electronic product manufacturing.
+
+EXPERT SENTIMENT
+
+- The expert values high reliability, accuracy, and yield rate in production equipment, favoring suppliers that deliver consistent performance for stable, high-volume production.
+- The expert is open to switching suppliers if performance, pricing, or service levels change, and is attentive to emerging technologies and new entrants that could offer advantages in flexibility or software-driven production.
+
+TAKEAWAYS
+
+- The company performs 95% of manufacturing in-house, outsourcing only low-volume, high-mix, or overflow work.
+- Hadrian is preferred for high-volume, low-mix production due to superior reliability, accuracy, and yield rate, but is less nimble when frequent product changes are required.
+- Machina Labs is chosen for scenarios requiring frequent product switches due to faster changeover times, despite Hadrian's overall higher internal share (85% Hadrian, 15% Machina).
+- Hadrian's main weaknesses are slower response times in customer service and longer, less flexible pricing negotiations compared to peers.
+- Emerging suppliers like Barnes Group, Xometry, and Protolabs are being evaluated for their software-driven production capabilities, which are seen as potential future differentiators.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Background
+
+Manufacturing Processes and Criteria
+
+Technological Advancements in Manufacturing
+
+Vendor Selection and Evaluation
+
+Comparative Analysis of Suppliers
+
+EXPERT BIO
+
+Customer Relations and Hardware Manager at ICT USA / Wistron Group, the expert has spent 7 years in this space and can speak in depth about Hadrian and is a current customer of Machina Labs.
+
+Customer Relation and Hardware Manager at ICT USA / Wistron Group. Reporting to the General Manager, the expert is responsible for overseeing strategic client partnerships and hardware lifecycle management. They hold full authority over hardware procurement decisions and project delivery timelines, while maintaining direct P&L responsibility for the regional hardware services division.
+
+Prior to ICT USA / Wistron Group, the expert was the Senior Sales and Research and Development Director at Wiwynn, leaving September 2024. Reporting to the Vice President of Sales, the expert was responsible for driving global sales strategies and aligning research and development roadmaps with market demands for cloud infrastructure solutions. In this dual-capacity leadership role, they managed cross-functional teams to accelerate product time-to-market and expanded the company’s footprint within the hyperscale data center market.
+
+The expert can consult on the Internet of Things (IoT), which includes Smart Retail / Smart Agriculture/ Smart Traffic Control/ Smart Grid, Industry Automation ( Industry 4.0), AI (artificial intelligence) /Machine learning/DL, 5G / Wifi 6, VR / AR/MR, Digital Twin, Drone, Electric Vehicle, Cell Phone, Tablet PC, Semiconductor, Server, Data Center. The expert can consult on Dell, HP, Lenovo, Acer, Apple, Tesla, Rockwell, Siemens, Meta, Amazon, Super Micro, Lattice, Intel, AMD, Nvidia, Samsung, Mediatek, Qualcomm, Yageo, Murata, AUO, BOE, and TSMC. The expert can also consult on semiconductor manufacturing, high-speed interconnect, Shannon's Law, and more. The expert is also familiar with Broadcom and Marvell.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+I'll just get started. I'm trying to get smarter on defense contract manufacturing market, more specifically trying to understand who the main players are, how they differentiate, and what's driving the emergence of companies like Hadrian. I'd love to understand the space better from someone who works in it on a day-to-day basis, such as yourself. Excuse my questions if any of them are a bit ignorant. We'll jump in. If I could just learn a little bit more about you, are you able to walk me through your role, what your team is responsible for, and what your company actually does?
+
+**Expert** [00:00:34]
+Okay. We're one of the leading ODM for companies like, for example, Dell, HP, Apple, this kind of ODM business. We run a factory by ourselves, and we need to purchase a lot of production equipment in terms of hardware, software programs. Machina Labs, Martin, and Freeform Future are some of our important partner in the production site that we need to purchase the products or solution from them so that we can finish the manufacturing process for our electronic products for our OEM customers.
+
+---
+
+**Client** [00:01:06]
+How much of your manufacturing is done in-house versus outsourced?
+
+**Expert** [00:01:11]
+95%,%, we do it by ourselves, while around only that 5% that we do the outsourcing.
+
+---
+
+**Client** [00:01:18]
+I see. Can you walk me through how your team actually sources and works with contract manufacturers on a day-to-day basis?
+
+**Expert** [00:01:27]
+We actually have a criteria that we decide to do either in-house or do outsourcing. For example, our production line is actually designed to perform something like high-volume, low-mix types of production, which means the production, if they keep doing exactly the same thing, for example, two or three weeks, that will be the best in terms of production line efficiency. If we change the product very often, the efficiency will be chopped.
+
+That's why one of the major criteria is that kind of high-volume, low-mix of product. If it is, then we would most likely do it by ourself. If it is another types, then we'll prefer to do it outsourcing. For example, those industrial, military, or aerospace or other special types of product with very low volume, then we would most likely prefer to do it outsourcing. Whenever there's a hot season or peak season that we don't have enough capacity, we may also do outsourcing as well. Those are the major criteria that we will decide to do it either in-house or do outsourcing.
+
+---
+
+**Client** [00:02:29]
+Okay. If it's small production in-house, larger production, you outsource?
+
+**Expert** [00:02:35]
+Exactly.
+
+---
+
+**Client** [00:02:37]
+I understand. Just want to know a little bit more about the technology in your world. In plain terms, in layman's terms, how would you describe what the newer, more tech-forward manufacturers do differently from a traditional machine shop? What's the practical difference there?
+
+**Expert** [00:02:56]
+To perform this kind of ODM business, we will have to buy all the production equipment first in our own production line. If there's anything that we won't be able to produce or we won't be able to reach a higher production line yield rate or higher equipment utilization rate, then we would need the help from the equipment vendors. They do come to our factory to understand what we are doing and what is our bottleneck and how can they help us.
+
+For example, we will have to do cutting, shorting, or a lot of tooling in our production line to help. For example, a lot of metal parts need to do the finishing or extra treating before we put it into our production line. We'll find the most compatible equipment that can help us to reach a higher production line yield rate.
+
+If we, for example, find something will make our production line yield rate poor, then we will talk to the equipment supplier how can they help us to improve our production line yield rate. In terms of, for example, those metal parts or plastic parts or other parts that we cannot reach a higher yield rate, then definitely we will look for the help from the outsource the supplier or the vendor to help us through visiting our production line.
+
+---
+
+**Client** [00:04:10]
+Does a company like yours actively look to fully vertically integrate your production line, or do you think you'll always go to third-party sources or contract manufacturers like Machina Labs or Hadrian for something like that?
+
+**Expert** [00:04:23]
+Yeah. We actually need to study all the proposals from the similar vendors. Sometimes, we even ask to, for example, arrange some trial run program to see who fits our production line better. Also, we need to evaluate, for example, their offering, that pricing and payment term as well and how can they really help us to make our production line more stable in terms of a smooth output. Also, reasonable cost is very important. Also, we will study who's got, for example, a pretty good industry record. We'll talk to our peers in the market and see who is using which supplier and who's got better industrial reputations.
+
+---
+
+**Client** [00:05:06]
+On your purchasing journey then, what were you using before Machina Labs? What made you look for something different?
+
+**Expert** [00:05:13]
+Yes. For example, for the same purpose, we may purchase different types of the production equipment. Even the same one, we may still buy from different vendors. We will check who's got the better solution for our production line.
+
+Of course, when we consider different process, we need to buy from different supplier. We understand that, so we'll talk to our in-house, for example, the production engineer, the mechanical engineer first to see what kind of equipment we need, and then we will ask the potential vendors to visit our factory to see what is our demand and what is their offering. Can they really help us in a more efficient way?
+
+---
+
+**Client** [00:05:52]
+Sorry. I have a few questions from this. Firstly, were you the decision-maker to determine choosing Machina Labs, or do you at least know what the evaluation criteria was?
+
+**Expert** [00:06:04]
+For the technical factors, I still need to talk to my engineering team leaders. However, I'm the decision-maker to make a final judgment whom to buy from because I also need to consider, for example, ROI payback, and I will talk to my financial manager to make a final decision. I'm the one to make the final decision.
+
+---
+
+**Client** [00:06:24]
+Okay. When you speak to other people in the industry, what is the reputation for Machina Labs? What's the reputation for Hadrian? What was the overall consensus there?
+
+**Expert** [00:06:37]
+For example, if we consider to buy an automatic CNC production line, in such case, it seems like Hadrian has got the best industrial reputation because it's got more market share. Also, when we talk to our peers in the market, it seems like it's got a higher share and also got better sales volume for similar production equipment in the market. That's why if we're talking about the CNC process, most likely we will purchase from Hadrian.
+
+---
+
+**Client** [00:07:05]
+Why did you purchase Machina Labs over Hadrian for your use case?
+
+**Expert** [00:07:11]
+You mean in what scenario that we will not purchase from Hadrian?
+
+---
+
+**Client** [00:07:15]
+Are you a current customer of Machina Labs?
+
+**Expert** [00:07:18]
+Yeah.
+
+---
+
+**Client** [00:07:20]
+When you went and decided to purchase from Machina Labs and hire them, what went into your evaluation criteria there, and why did you choose Machina Labs over Hadrian?
+
+**Expert** [00:07:30]
+Okay. There's still some difference compared with those three similar equipment suppliers, for example, Hadrian, Machina, and Freeform. For example, if that is a typical high-volume and low-mix, that is the best scenario when we use Hadrian because it's best for higher-volume production line. That's our typical types of business.
+
+However, sometimes, we still have other types of business. For example, we got the purchasing orders from Honeywell or from Siemens. Those types of the product does not meet that requirements. That's more, for example, the high-mix and low-volume. They will consider to purchase, for example, from Machina because the switch time is actually much lower. If we switch the product all the time, then Machina actually performs better because it takes a very short time to finish the switch process. It depends on different scenario and different product that will make a final decision whom we will buy from.
+
+---
+
+**Client** [00:08:31]
+In that scenario, what would have to be different for Hadrian to win?
+
+**Expert** [00:08:35]
+For example, if we have a very stable purchasing order from Dell or HP, all those are very stable product that we can keep producing for several days or even several weeks length, then we will see a better yield rate and very high equipment utilization rate. In such case, that is the best scenario when we use Hadrian. We will see what kind of product, then we will buy multiple different types of production equipment in our production line. We will make a final decision whom we use for different types of product that we prefer to use different brand of the production equipment.
+
+---
+
+**Client** [00:09:12]
+Would you say that that's a product gap from Hadrian and something that they're missing out on?
+
+**Expert** [00:09:17]
+Yes. Even though they are similar equipment, there is still some difference in the equipment design that we need to understand what is their strengths, what is their weakness, and in which scenario we will use which brand of the production equipment.
+
+---
+
+**Client** [00:09:31]
+I see. What went into your evaluation criteria?
+
+**Expert** [00:09:34]
+For example, the uptime, downtime, the power consumption, and also the production, for example, their efficiency, accuracy, and also, of course, the machine takt time and what is the normal yield rate that we get, numbers through months or even years of production process, we would get their utilization rate and yield rate numbers. Those are the most important criteria when we decide to purchase or use which brands of production equipment in the demand for a specific product.
+
+---
+
+**Client** [00:10:04]
+When you were doing this evaluation, did you consider Hadrian at all, or did you already have a notion of what you think they can or could not do or if you already knew that it wouldn't be a good fit? Just curious.
+
+**Expert** [00:10:18]
+Actually, we got one or two of the equipment from Hadrian in the very beginning, but that is not the one we're using today. That's secondhand or used we get from someone else before. Through that moment, we understand the equipment of Hadrian. Even though it's not a new one, when we increase our production capacity, we decide to purchase more. We need to talk internally, "Should we keep use Hadrian, or should we purchase from someone else?" Also, we visit the production line in Hadrian. Also, we talk to their engineering team managers. We understand more about, "Should we keep purchasing more, or we may also consider to switch into other supplier?"
+
+The final decision is we buy several more from Hadrian. However, we still have to purchase from other similar suppliers. Machina is also one of the target that we buy two from them. It depends on our overall business scale and also the purchasing order types that we made a decision how many we should buy from Hadrian and how many we will buy from their peers.
+
+---
+
+**Client** [00:11:24]
+What went into the decision for you not to keep buying from Hadrian? Was that a close call, or was it an easy cut?
+
+**Expert** [00:11:33]
+That is because we still have some customers that we have to, for example, switch the production process or product mix very often. That is the typical weakness of Hadrian. If we change or modify our product in our production line, the yield rate and also the output will be impact. That is the typical weakness of Hadrian. That is one of the reason that we need to buy two or three machine from Machina.
+
+In terms of our share, actually, Hadrian still owns a very high number. However, we still need to keep a limited quantity from Machina because it still performs better if we need to switch the product in our production line quite often. Hadrian does not perform very well in that kind of production process.
+
+---
+
+**Client** [00:12:20]
+Is it fair to say that you did not select Hadrian because they're not nimble enough in that selection process?
+
+**Expert** [00:12:27]
+Actually, in terms of our internal share, the quantity of Hadrian is still higher than other brands. Typically, we still need to keep a limited quantity of production equipment that we purchase from Machina because some of our customers' product still need us to switch the product mix more often in our production line that we decide to keep a limited number of equipment from Machina that is perform better performance for high-mix, low-volume type of production.
+
+---
+
+**Client** [00:12:54]
+Of your current contract manufacturing spend, how much of it is allocated to Hadrian in that case, or is it just the products that you have?
+
+**Expert** [00:13:02]
+Currently, we have 85% of production equipment from Hadrian and the rest from Machina. It's very different in terms of our internal share for similar equipment.
+
+---
+
+**Client** [00:13:14]
+You're a customer of Hadrian as well then?
+
+**Expert** [00:13:17]
+Yes. We purchase from both of them.
+
+---
+
+**Client** [00:13:21]
+I see. I didn't realize you also had Hadrian. In that sense, how did onboarding go with Machina Labs and with Hadrian? What worked well and what didn't for each, if you could just compare and contrast?
+
+Just to give you some background, the reason why I'm asking is I want to understand a bit more as to what will cause somebody to choose Hadrian and retain them as a customer, and ultimately what will cause them to turn or look elsewhere. It's just great to know your perspective of Hadrian and how it contrasts with Machina Labs.
+
+**Expert** [00:13:54]
+Actually, in our types of the electronic product ODM business, we have a lot of different very complicated production process. For example, CNC is a very critical one and a very important one. We need to talk to supplier who can provide this kind of equipment. We did a lot of earlier-stage survey. What kind of performance, what kind of specification, does that meet our production equipment requirements, or that does not meet? We did a lot of earlier survey. From that stage, we will invite all the potential supplier to visit our factory and did the presentation.
+
+Also, we need to provide our, for example, RFQ and RFI so that the supplier understand what is our requirements in our machinery purchasing. For example, what is our typical operation time in the factory? For example, seven hours, eight hours. In some of our production line, it may run 24 hours a day.
+
+Also, we would provide some samples for them to try how good it is to fit our production requirements. Also, we compare their proposal in terms of the finishing process, the finishing accuracy, the performance limits. Of course, very important is their pricing and payment term as well. We would have several trials. Either, we'll invite them to bring their equipment to our production line and try to finish several trial run.
+
+Also, some of them, we need to visit the supplier sites to bring our samples to do trial in their production line as well. We did it several times in both ways, in our own sites, and also in supplier's site. Once we get those numbers, then we'll have two or three times of internal meeting, invite our production line staff and also the engineering team leader and also the financial department leaders to have a joint discussion. Personally, I will make the final decision to buy from which machinery supplier.
+
+---
+
+**Client** [00:15:55]
+I see. Where did Hadrian do well in that analysis? Where did they fall short?
+
+**Expert** [00:16:02]
+The machine quality, the reliability, the uptime, also the accuracy, obviously, to be the major strengths from Hadrian, that's why we purchase much, much more from Hadrian compared with other similar supplier. We also care about the switch time, which means the downtime that we turn off the machine and we adjust the production parameters that we were ready to do other types of product. For example, we have several SKUs from the same customer. Even they all will produce four products. For HP, we produce six products. We need to switch from one formula into another formula.
+
+When we shut down our machine and do the switching, actually, for Hadrian, it takes a little bit longer time for us to finish. For Machina, it takes a shorter time that we can finish everything and get the machine ready to produce next product. That is the major difference that we see between the similar machinery from Hadrian and from Machina.
+
+---
+
+**Client** [00:17:03]
+I see. Machina wins on the switching time. Correct me if I am wrong or misunderstanding, but would you say that even though Hadrian has a really fast lead time and good quality, the switching time is so slow that Machina is actually faster overall? Is that fair to say?
+
+**Expert** [00:17:24]
+Exactly.
+
+---
+
+**Client** [00:17:25]
+Okay. Would you say that that's the biggest churn driver or the main reason why you would not choose Hadrian?
+
+**Expert** [00:17:32]
+Yeah. That is one of the main reason. Also, for example, in terms of the pricing, Hadrian also are slightly more expensive compared with their peers. I think it's a worthy investment because it really performs better. For example, the reliability, stability, and also the finishing accuracy are better compared with their peers.
+
+---
+
+**Client** [00:17:55]
+If their next peer produced something that was the same quality with a similar lead time, what would Hadrian need to do to retain you or to strengthen their moat?
+
+**Expert** [00:18:04]
+Yeah. There's also some minor disadvantage from Hadrian. For example, if we really have a problem or we need the machine supplier to visit our factory to fix the issue, it looks like their supporting team are not as good as other similar supplier. Maybe that is because the machine is very reliable, so it always keep a better uptime and they don't need a very strong supporting team. However, if there's really a problem, Hadrian customer service team will not visit our factory in a more timely manner, while the other supplier performs better in the customer service.
+
+When we make a phone call and ask them to visit our factory, for example, the service guy from Machina can arrive, for example, within four hours. The service team from Hadrian, maybe they can visit our factory on the next-day basis. In terms of service, I can still see some difference, even though that's not a major factor for us to make a final decision. Also, the price from Hadrian is slightly higher compared to other supplier.
+
+---
+
+**Client** [00:19:11]
+If Hadrian were to increase prices by, let's say, 20%, would you look to churn or look at other suppliers?
+
+**Expert** [00:19:17]
+If, for example, we decide to settle a brand-new production line and if even the price is very similar, then we need to consider again to see why we settle down a new production facility. Is that for a existing supplier with very stable purchasing order, they never change the product, or we can keep producing same product for a very long time? If that is the case, maybe we will make the same decision. We will switch into other supplier.
+
+If, for example, there's no pricing difference, we don't switch the product, then it's okay. We can purchase from either any one of them. We will only consider to purchase from Machina if we need to switch the product in our side for more often base. It depends on the scenario from our customers and also the scenario from the machine supplier. We may not make the same decision to purchase from the same supplier.
+
+---
+
+**Client** [00:20:11]
+I see. I'll say, if lead time and quality are the same and you're looking at Hadrian versus another supplier, and we'll say Machina, again, as you've evaluated multiple, would love to know where Hadrian stacks up.
+
+If Hadrian were to increase their prices by about 10% if all things equal, would you then look elsewhere, regardless of job, we'll say, or is it that for some jobs, the parts they create have a much higher quality and therefore you're more resilient to a price increase? Is it the products that maybe are more of a generic quality or maybe you have the most rejections or rework, those are the ones that you're less price-sensitive to? In those scenarios, what would your price ceiling be?
+
+**Expert** [00:20:55]
+Yeah. For example, even though the performance is better, but the price gap is too big, 10%, 12%, in such case, we may still consider to switch into another supplier. Even though the performance is better, but the price gap is too big, then it may not be very worthy to invest more to pay more money on more expensive machinery. Pricing is definitely one of the gating item for us to make the final decision that whom will we buy from.
+
+---
+
+**Client** [00:21:26]
+I see. Going back to quality, in your experience with them, you said that the customer service isn't great, but when you need it, you don't need it very often. How often do you need to speak with customer service, comparing Hadrian to others in the space?
+
+**Expert** [00:21:41]
+Typically, every two to three months, we will make a phone call and ask them to visit our factory. It's not necessary because the machine shut down or there's any issue. For example, there's still some monthly maintenance or quarterly maintenance. Of course, some of the maintenance, we can do it by ourselves, but some of them, we rely on the customer service team of the machine supplier. Those are the two major reasons that we would call them. There's a machine issue or there's a periodical maintenance that we need their help from their customer service team.
+
+---
+
+**Client** [00:22:16]
+I see. When you've spoken to their customer service team, what's been your experience? Have they been helpful? Do they seem knowledgeable? Is it hard to get ahold of them? What's been your experience?
+
+**Expert** [00:22:33]
+Yeah. The customer service team, even though they arrive our factory later than their peers. However, they are still quite professional and knowledgeable and always provide the help that we need from their customer service team.
+
+---
+
+**Client** [00:22:47]
+What could be better?
+
+**Expert** [00:22:49]
+Yeah. The response time is one of the customer complaint issue here that they may not be able to visit our factory at the same time or even earlier compared with their peers because they don't have enough staff in their customer service team and they need to visit all the customers on-site. That's why it takes longer for them to arrive the customer site just because they don't have enough people in their customer service team.
+
+---
+
+**Client** [00:23:12]
+Did you feel a similar experience when you were going through the sales process with them? Was the sales something you spent?
+
+**Expert** [00:23:20]
+Sales is another issue that we may have some minor complaint on Hadrian. For example, the pricing negotiation process always takes longer compared with their peers. For example, we need to renew the annual contract and we'll have some modification on the price and payment terms. It takes around two weeks to finish all the discussion and settle down the new contract, for example, on the pricing and payment term negotiation process. For the other supplier, the similar supplier, it may be finished in three or four days. The negotiation process with Hadrian sales team takes a little bit longer time compared with their peers.
+
+---
+
+**Client** [00:23:58]
+Okay. Customer service could be improved. It's not a main churn reason, but it could be down the line if everything else were equal. Is that fair to say?
+
+**Expert** [00:24:10]
+Actually, it's because of their business culture. For those most sensitive issue, for example, the pricing, the payment term, it's always up to their top manager to make such decision. For other similar equipment suppliers, they authorize their sales manager, sales distribution team leader to make the decision. That's the slight difference. That's why it takes longer for us to finish the commercial or business issue discussion and settle down on the contract with Hadrian, while the most of their peers can perform better in the pricing negotiation process.
+
+---
+
+**Client** [00:24:42]
+Was it ever a case where you did not choose Hadrian for a job because of their customer service, because it took too long or anything of the sort?
+
+**Expert** [00:24:51]
+No. Their machine are relatively stable and the performance is very good. For example, the metal finishing CNC accuracy still performs pretty good compared with most of the peers. Those are still the most important factors for us to make the final decision. Of course, the price is reasonable and that is also important. Payment term is also reasonable, and that's why we still appreciate the overall performance of Hadrian over other peers.
+
+---
+
+**Client** [00:25:20]
+Okay. I just want to ask a little bit of some rapid-fire questions, if you will, just so I can get some numbers to assign to some data points. Of all the precision machining work that your team outsources, what percentage would you estimate goes to Hadrian across the industry in particular?
+
+**Expert** [00:25:38]
+In terms of the overall market share, I don't think Hadrian has such high market share in our internally. In the overall market, still, customers have different judge criteria to buy similar machinery from CNC machine suppliers. They have their own judgment criteria.
+
+For example, a price may not be a very important factor for some of our peers. They care about something else. They have a lot of more customers that they need to switch the production sequence and production formula all the time. In such case, they may appreciate the value from Machina instead of from Hadrian.
+
+My opinion does not appear to be a very fair judgment for the overall industrial average comments. However, most of the similar customers who buy CNC machine agree with me that the performance, accuracy, yield rate are better from Hadrian over other similar suppliers.
+
+---
+
+**Client** [00:26:33]
+Okay. If you had to replace Hadrian tomorrow, how long do you think that would realistically take, and how does that compare to replacing competitors like the Machina Labs?
+
+**Expert** [00:26:44]
+If the general situation still remain the same, for example, our product mix, customer mix, and our requirements on the financial departments remain the same, for example, in my current production line, already one CNC machine reach its end-of-life because we have been using for too long, we decide to discontinue using it, we need to buy a new one, if such case, most likely I would still buy a new one from Hadrian to fit our current customer demand. We would need a machine who provide a better quality, stability, and also the same high-yield rate. Those are the most important factor.
+
+However, there's still some exception. For example, if we need a machine urgently, we need a supplier to deliver within, for example, three weeks or a month. Hadrian, they have a lot of purchasing orders. They have a lot of back orders. They cannot deliver. I need the machine urgently, and that could be an exception scenario that we will have to consider from other suppliers because Hadrian cannot supply in a more efficient way. If we need the machine urgently, then we'll consider to buy from someone else.
+
+---
+
+**Client** [00:27:56]
+I see. How much faster do you think Hadrian is versus a traditional shop for a comparable part? Would you say it's 2X, 5X something else, or would you say that they're actually slower?
+
+**Expert** [00:28:10]
+Yeah. Roughly, that's 3X or 4X. That's the typical number that we get from many years of utilization because we are buying from different suppliers, we know the technical difference and real operation difference through our factory people, then we can easily make a decision who we will buy from unless the utilization scenario change or there's something totally changed from our supplier side that we will make different decision. Otherwise, we already have something in our mind that which supplier can provide a better machinery in our production line.
+
+---
+
+**Client** [00:28:44]
+I see. Hadrian is about 3X-4X faster on a regular basis, but they're slower when it comes to being nimble. If you have to assign a number to how much slower they are when they need to be nimble, what number would you apply to that? Would you say that when they have to do something quickly, they're about 3X slower than Machina? What would you say for that?
+
+**Expert** [00:29:07]
+Yeah. We already have something in our factory. For example, what is their typical accuracy number, precision, also on the machine uptime, downtime, the formula change, how long does it take to finish that change, and their typical offering, for example, their quotation and payment term. We have those numbers in our database.
+
+Whenever we have a new requirement or the demand to purchase several more machinery for CNC purpose, then how many should we buy from Hadrian and how many should we buy from Machina because we already have those numbers in our database and also in our mind as well. It's very easy to make a judgment when is the best scenario that we purchase from Hadrian and when is the best scenario that we purchase from Machina.
+
+---
+
+**Client** [00:29:53]
+I see. Roughly, how often do you receive a part that requires rework or rejection from Hadrian? Would you say it's one in 100, one in 1,000, something like that? How does that compare to other suppliers that you've used?
+
+**Expert** [00:30:11]
+Okay. The typical production line reject rate is 100 DPPM-200 DPPM. For same production process, the number will reach 300 DPPM-400 DPPM. For example, we use from Machina. Even though they are within the DPPM level, we can still see the performance difference from different supplier for same CNC process.
+
+---
+
+**Client** [00:30:37]
+Sorry. If we could just explicitly say how does Hadrian stack up against the rework or rejection? Is their quality better generally? Is it middle tier? If they're not at the top, who is beating them and why in terms of quality?
+
+**Expert** [00:30:55]
+In terms of the performance, accuracy, and the reliability, apparently, Hadrian, it still performs better compared with their peers. That's why the accuracy is better, reliability is better, uptime is better. However, it's also slightly more expensive.
+
+In terms of ROI or payback, I think it's a pretty worthy investment. However, if we change the production sequence, we change the product more often in our production line, it just takes too long to finish such a change. We need to keep some limited quantity of equipment from Machina. That is because if our production is more like a high-mix, low-volume types of the frequent change from one single customer or from several different customers, then apparently, the uptime is much impacted.
+
+That's why we have to use some limited machine from Machina. That is because they still got its advantages that we have to consider them, even though the accuracy, the performance, and also the machine uptime is not as good as Hadrian.
+
+---
+
+**Client** [00:32:00]
+If Hadrian's quality were to slip or let's say Machina's or another competitor's were to match them or exceed them, would you look to switch from Hadrian?
+
+**Expert** [00:32:08]
+Yes. If the production line data from different vendor change a little bit, then we will have to adjust our purchasing decision. For example, if Hadrian is not as reliable as before or the price increased too much or the performance gap between those two is not as obvious as before, then we may change our decision because the scenario has been changed.
+
+---
+
+**Client** [00:32:30]
+Do you see any competitors catching up to Hadrian in terms of quality?
+
+**Expert** [00:32:34]
+Not really, even though we also compare with other similar supplier in the market. So far, we didn't find a very close one that can perform very similar performance. However, whenever there's a new one in the market, we're very interested to perform an earlier survey and also to do some trial run as well. Sometimes, some of our customers, they will very aggressively recommend another similar supplier that they consider provide better performance.
+
+For example, we also trial similar one recently from Protolabs, from Xometry, or from Barnes Group as well. We also did some earlier survey from similar supplier for CNC machinery or from 3D printing that we need to study the offering from similar company all the time because we still have some newer customers.
+
+For example, some of them focus on the aerospace or the military customers. Some of the medical customers, they have their own preference of what kind of a CNC machine they consider to be a better one, even better than Hadrian, so they may recommend their preferred CNC machinery supplier as well.
+
+---
+
+**Client** [00:33:43]
+Are most recommending Hadrian, or would you say it's a mixed bag?
+
+**Expert** [00:33:46]
+Yeah. We study several, for example, from Barnes Group, from Xometry, and also from Protolabs. Those are the new similar supplier that we just study recently.
+
+---
+
+**Client** [00:33:58]
+How do they compare with Hadrian? What are they doing better?
+
+**Expert** [00:34:05]
+Actually, we just finished the earlier survey. Also, we visit their company and production line. We understand the difference between them and our existing supplier. That could be perform better. For example, the production controlled by software or more driven by the networking. Some of the aerospace customer, they strongly recommend Barnes because they've been using that for a very long time. They understand that we may have at this moment to see.
+
+For example, later on, if we have so many customers from the aerospace field that we may consider to purchase several from Barnes. If a lot of the production is more rely on the software-based driven types of production, then we may consider to purchase some from Protolabs and Xometry.
+
+---
+
+**Client** [00:34:52]
+I see. If your end customer had a preference for Hadrian, would you have more of a bias to use Hadrian as well? Do you feel like Hadrian might need to work on the relationships with your end customers more so now?
+
+**Expert** [00:35:06]
+When any one of our customers recommend a specific machinery company or supplier, we will also have to ask many questions before we make such decision. For example, why they recommend a specific supplier, is that because of the better performance or the pricing or service or whatever reason? We need to understand a little bit more into details before we make a final decision. That is the typical way we work with our customers and our supplier. We need to understand into the details why they prefer to use it. Is that because of the relationship or because of any other reason? We would dig out into more details before we make the final judgment.
+
+---
+
+**Client** [00:35:48]
+I see. For aerospace, they tend to have stronger relationships with other suppliers.
+
+**Expert** [00:35:55]
+Exactly.
+
+---
+
+**Client** [00:35:56]
+I see. Just want to be cognizant of time. On a scale of 1-10, how would you rate Hadrian?
+
+**Expert** [00:36:03]
+You mean, for example, our internal scorecard is between 1-10, how will I rate Hadrian? Is that your question?
+
+---
+
+**Client** [00:36:12]
+Yes.
+
+**Expert** [00:36:13]
+I would give it nine.
+
+---
+
+**Client** [00:36:15]
+What would make it a 10?
+
+**Expert** [00:36:17]
+Yeah. That's because we still have some minor complaint from their customer service team. I cannot give them 10 at this moment.
+
+---
+
+**Client** [00:36:26]
+What product gaps do you think Hadrian has? Is there anybody else on the market that offers them today?
+
+**Expert** [00:36:33]
+Actually, if we just take a look at the product itself, the only difference will come from the machine uptime, the performance, and also the reliability and accuracy. Those are very important parameters for us to make the final decision. Also, we definitely will consider the pricing as well.
+
+---
+
+**Client** [00:36:53]
+Okay. It's not that there's somebody else that offers something else. It's just that you want to see the specs of their own capabilities improve. Is that correct to say then?
+
+**Expert** [00:37:05]
+That's correct.
+
+---
+
+**Client** [00:37:07]
+To help Hadrian grow or to dominate a market more, what do you wish that they had? Is there something that would make their product a lot better and give them another edge, something to explore?
+
+**Expert** [00:37:19]
+Yeah. For the future business, I think they may need to spend more efforts on, for example, the software-driven production. Apparently, they are not the best for this kind of niche application in the future. That is something we may consider to ask them to make some modification and improvement that the other new and emerging supplier may have this kind of function and feature. When we did the comparison, apparently, Hadrian does not have this kind of advantage over here. That is something we may consider to ask them to improve.
+
+---
+
+**Client** [00:37:53]
+Does somebody come to mind that they could acquire to gain that?
+
+**Expert** [00:37:56]
+Technically, it's not that difficult, but just not a priority from them because, for example, they have pretty high customer satisfaction rate and they have a pretty good customer loyalty. They may not consider to modify or totally adjust the product. They will not be very willing to adjust through my discussion with them.
+
+---
+
+**Client** [00:38:15]
+I see. You said there was one smaller player that's doing something different, and it could give them an edge if they had it. What company is that? What smaller player is that?
+
+**Expert** [00:38:28]
+Yeah. For example, we already did the earlier survey from either Barnes Group, from Xometry, and also from Protolabs. We understand some of the advantage are from those niche supplier, and our existing supplier may not have such advantages in this moment. We also feedback this kind of difference to existing supplier to see if they are willing to improve and modify a little bit. It really depends on the supplier's final decision, if they are willing to improve and increase their product scope, product offering range to meet different types of the customer requirements.
+
+---
+
+**Client** [00:39:03]
+I see. Just want to be cognizant of time. Can I ask you one last question?
+
+**Expert** [00:39:11]
+Sure.
+
+---
+
+**Client** [00:39:12]
+If the CEO were in front of you right now, what would you say to him?
+
+**Expert** [00:39:17]
+I'm sorry. Can you say that again?
+
+---
+
+**Client** [00:39:20]
+If the CEO were in front of you right now, what would you say to him in terms of where they're falling short, where they need more? Anything that you think isn't obvious?
+
+**Expert** [00:39:32]
+Definitely. We feedback several times already, but I really don't have the opportunity to talk to their top manager. If I can talk to their top manager, definitely will feedback what we are satisfied with them, what we are not satisfied with them, and what we strongly recommend them to modify and improve. I will.
+
+---
+
+**Client** [00:39:51]
+Sorry. What would that be?
+
+**Expert** [00:39:54]
+How can they improve in, for example, the pricing negotiation process, improve their customer service team's response time? How can they make their offering more flexible, more dynamic instead of a stubborn process? More to learn to see if they are willing to listen to their customers.
+
+---
+
+**Client** [00:40:13]
+Having more of an open door there. Thank you so much for your time. This has been very helpful.

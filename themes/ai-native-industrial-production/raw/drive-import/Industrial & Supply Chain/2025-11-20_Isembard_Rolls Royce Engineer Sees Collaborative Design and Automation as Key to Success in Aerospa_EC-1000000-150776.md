@@ -1,0 +1,208 @@
+---
+theme: "Industrial & Supply Chain"
+title: "Rolls Royce Engineer Sees Collaborative Design and Automation as Key to Success in Aerospace Manufacturing"
+doc_id: EC-1000000-150776
+source_line: "Isembard · Expert Call · Consultant · 20 Nov 25"
+date: 2025-11-20
+company: "Isembard"
+pages: 2 of 7
+saved: 2026-10-22T19:37:28.621Z
+url: https://research.alpha-sense.com/company/TEG1556769/summary?search_id=tmp-yxorzzyq66000nl70wo0691n00&sort=COMPANY_NAME&order=DESC&docid=EC-1000000-150776
+---
+# Rolls Royce Engineer Sees Collaborative Design and Automation as Key to Success in Aerospace Manufacturing
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+20 Nov 2025
+
+INTERVIEW DATE
+
+22 Aug 2025
+
+EXPERT PERSPECTIVE
+
+Consultant
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Isembard
+
+SMART SUMMARY
+
+Summary
+
+The interview covered the operational realities of CNC machining shops in the aerospace and defense supply chain, including workflow, bottlenecks, workforce challenges, and the importance of matching shop capabilities to market needs.
+
+EXPERT BACKGROUND
+
+- Over 32 years of experience in manufacturing engineering within the aerospace sector, including significant roles at both Tier one suppliers and a major OEM, with deep expertise in CNC-machined components, exotic alloys, and end-to-end responsibility for assemblies from raw material procurement to finished product delivery.
+
+EXPERT SENTIMENT
+
+- The expert believes that workforce development is a major challenge for the industry, with significant difficulties in finding and retaining qualified personnel, both on the engineering and shop floor sides.
+- The expert views the CNC machining sector as highly competitive, with many shops in both the U.S. and Europe, making it essential to have a clear business model and to target the right types of components for success.
+
+TAKEAWAYS
+
+- Collaborative design and design for manufacturing are critical, with OEMs often involving suppliers early to optimize manufacturability and cost.
+- Raw material procurement, especially for complex castings or forgings, is a major bottleneck and often dictated by the customer due to established supply chain relationships.
+- Effective planning and software tools that improve quoting, workflow, and machine utilization are valuable, as overall equipment effectiveness (OEE) is a key metric for shop efficiency.
+- Margins vary by complexity, with more complex, lower-throughput parts requiring higher margins; shops typically seek at least low double-digit margins on such work.
+- Specialization and matching shop capabilities to the right types of parts are crucial, especially in competitive and specialized sectors like defense.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction And Expert Background
+
+Design And Manufacturing Processes
+
+Software And Automation In Manufacturing
+
+Economic Considerations And Margins
+
+Industry Competition And Market Entry
+
+EXPERT BIO
+
+The expert is currently Manufacturing Engineer Technical Specialist Advanced Turbine Center at Rolls Royce. The expert can speak to the end-to-end manufacturing of high-precision aerospace components, with 30 years’ experience overseeing complex assemblies from raw material through final shipment.
+
+Manufacturing Engineer Technical Specialist Advanced Turbine Center at Rolls Royce Holding. The expert is a manufacturing research facility for guide vane technology.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Thanks for hopping on the call, I am interested in the high tech and defense industries, which have obviously had a big boost in the last year or so. One of the companies that has been on my radar is playing slightly down the value chain. It's a manufacturing franchise, it's a very young company. At the moment, they're focusing on CNC machine parts supplying basically critical industries, so a lot of defense, energy, aerospace. I'm primarily focused on Europe right now, although they've just kicked off a facility in the U.S. as well, in Texas, focusing on the same topics there.
+
+I am trying to understand how much value a company like that could create and then capture in turn. Just to understand, specifically focusing on these CNC machine parts for the time being, how important they are for the procurement process, is that a big bottleneck? To what degree is it viable to think that a distributed network of, call them, machine shops with like 10, 20 machines in there would be an important part of the value chain versus what the setup is today? Does that make sense?
+
+We could start with you just giving me a bit of background also of what your experience has been so I can then tailor a bit where the question go from here.
+
+**Expert** [00:01:13]
+My experience over the last 32 years or so, I came out of university with a degree in mechanical engineering. I went into manufacturing engineering. It's been in aerospace my entire career. I started my first 22 years with a company exactly like what you're talking about, what we call the Tier one supplier to the aerospace industry.
+
+When I say aerospace, my experience has been in supplying to jet engine manufacturers, but mainly gas turbine companies like Rolls-Royce, General Electric, Pratt & Whitney, HondaJet, those types of places. It has been heavily with CNC-machined components. Basically, in aerospace for the gas turbine industry, it's mainly exotic alloys like nickel-based alloys and stainless steels, and that type of thing.
+
+What I have mainly been responsible for, you call it a part owner. There'll be an assembly with X number of components going into an assembly. Be responsible for everything from procuring the raw material until the finished assembly goes out the door. Anything, everything in between would generally entail CNC machining, also welding, water jet, laser, coatings, anything that preps an assembly for the kind of environment you're going to get inside a gas turbine engine, which is very extreme conditions.
+
+I had to be well-versed in all the specifications that went into compliance for these parts. Some of the self-auditing you do inside the company to keep your ISO certifications, that type of thing, but you had to be a jack of all trades. You had to know welding and coatings, water jet lasers, this machining side of it, tool design, those types of things. I went from there to, I actually work with Rolls-Royce now. I have about the last 8.5 years. I'm actually involved in the manufacturing inside Rolls-Royce. I'm not really involved in procurement per se.
+
+I did, for a while, do capability acquisition where we went out to our Tier one suppliers and gave our blessing to the manufacturing processes that they were entailing, make sure they were robust, but not so much procurement activities as far as contracting, that type of thing, that's not really what I was doing.
+
+I've seen firsthand over long term what value the, I'm going to call it, Tier one supplier. If it's a machine shop and their customer is the OEM, then we consider that a Tier one supplier, if they're supplying right to the OEM person. We've been Tier two and Tier three, does help out other Tier one suppliers as well, but we were mainly Tier one suppliers. We were dealing with the designers and the procurement people, the OEM.
+
+---
+
+**Client** [00:03:45]
+That makes sense. How big was the company that you worked with before Rolls-Royce?
+
+**Expert** [00:03:50]
+It was a $50 million-$60 million a year company. There was three divisions. All combined, I think it was about 450, 500 employees. Large, it was a great place to work because all these processes I'm talking about were all under one roof. We did not have to have suppliers to us mainly. We could do about 95% of what we needed to do all in-house. The division I was in there was probably 20-30 CNC mills and lathes, up to five-axis, they're just gigantic five-axis mills.
+
+There's also welding, had our own lab, we had water jet, we had flame spray deposition, laser cutting, and welding, also manual TIG welding, that type of thing. Electron beam welding and forming, we had a large press department as well.
+
+---
+
+**Client** [00:04:37]
+Okay. This company that I'm describing is obviously just starting out, so over time the plan is to add also welding and extrusion, all these other types of manufacturing, but for the moment they're focused on CNC parts. Can you describe perhaps the process that you would follow from getting an order, and you mentioned you also worked with the designers, so the process from getting a design or a part order to actually shipping the finished product?
+
+In particular, I'm quite interested in understanding how much of the final machining specifications and design were done by you, producing the spec rather than producing to design. The second part of what I'm interested in is what were the main bottlenecks and pain points of running the operation that you had to contend with.
+
+**Expert** [00:05:24]
+Sure. There's a big push, the catchphrase is called collaborative design, in the last, say, 20 years, where now the catchphrase is design for manufacturing. A good company, I'll say, in my opinion, they're pretty forward planning, whereas they'll come up with a design on their own. They'll take that design, call somebody like myself in, and say, "This is what we've envisioned. Here's the material. We envision this type of casting or this type of forging raw material that you procure from a forging house or a casting house. Here's the end product and here's the tolerancing."
+
+We'll discuss how realistic it is or if there's things that can be adjusted to make my life easier, which in turn drop the cost and speed up production. As far as actual, somebody expecting me to do the mechanical design of it as it goes into purpose-built type of design, that's not really what your machining house will do. They will say, "Given these constraints, whatever your customer's design is to get to that point, here's what's going to make it easiest." It might be something like, "I need a little more tolerance on some of these features."
+
+When I say a feature, I say how tightly tolerance the hole is, or position of something, or if something's a contoured surface on a machined part, what kind of surface finish do they need? What kind of heat treatment is it going to need? In other words, can I machine this thing before it's hardened? You're going to take it and get it hardened, and then is it going to lose dimensions? It's easier to machine it before it's hardened. These types of things. You're not really changing design, but you may be changing how you get to that design, and what constitutes an acceptable part and what doesn't.
+
+You got to remember, if we're just doing a component for an engine, we're not really going to know how that component is going to interact with whatever it is, upstream or downstream of it, unless the company wants us to know that we can help. There's certain things that are just industry standards, like if it's a bolt pattern, there's a certain fit it needs to have, and that's usually just a specification where it's laid out for you.
+
+What you can expect out of your machine shop is a good knowledge of what they can expect out of their machines, their machine capacity. Capability is really the word I'm looking for. A good handle on the machine capability and also a good handle on capacity, obviously, but that's not really the engineering side of it. That's sales and procurement, that type of thing is planning. You'd want engineers, especially if you're talking about aerospace, with a good aerospace background before they come in. It's not a good place to learn on the job. You need those skills before you come in and take those kinds of jobs.
+
+You're asking about what kind of bottlenecks. Partly, that's going to depend on what you're making. Raw material can be a big bottleneck if you've got cast parts. I'm going to generalize this so it applies to a lot of different things. If it's a raw material when it comes in that takes a lot of design and a lot of complex tooling, that can be a very long lead time because not only will you see the first try at it, the first iteration of something like that, it just could be a forging or it can be a casting, something that has design to it before it even gets to the machine shop.
+
+There are times that it can possibly take multiple iterations before you get an acceptable design, and then you're going to have to ramp up to get the quantities you need. To give it a general feel, when I say raw material, all that really means is material that you're going to have to perform value-added operations to before you give it to the customer. If you have raw material that needs design and production considerations before it even gets to you, that can be one of the biggest bottlenecks, and it needs to be taken into account when you're doing your planning, and you need to be realistic about. You need to be very picky about who you choose for these types of raw material.
+
+In a lot of cases, your customer will dictate who that is going to be because they've done the same thing with the raw material people that they're doing with you. They've done a collaborative design, and they've come up with something.
+
+---
+
+**Client** [00:09:25]
+Your customer would say, "I need you to make this part, and I need you to buy your materials from this and this supplier." They'll go.
+
+**Expert** [00:09:33]
+That's not uncommon at all. They'll look at that as part of their supply chain. Larger companies are going to throw a lot of business at these raw material places, so they're going to have long-term relationships with these places, so a lot of times they'll dictate that.
+
+Right now, another biggest concern, I think, over the next 10 years, is workforce development. Even a company as large as Rolls-Royce, we're having real problems finding a qualified workforce. That's not just salaried engineering types, which we have difficulty there, but it's also skilled people on the floor, the hourly workers, people with their hands on the parts.
+
+Once you find somebody qualified, if you're going to be competitive with benefits and pay, then it's not a big turnover industry. You tend to have people stay for quite a while, as long as the benefits are there, it's finding the people that are skilled enough to earn those benefits. Some of the most successful shops I've seen have an eye on attracting people from the local schools, they'll set up apprenticeships, they'll do their own training in-house, they'll generate their own workforce as best they can. It's another expense, I think you probably can get.
+
+I'm not so sure about Europe. Here in the United States, sometimes local government will help fund some of these things because anything to do with job creation makes the government happy. You're going to procure an existing company or put one together from scratch?
+
+---
+
+**Client** [00:10:57]
+Basically, what they've developed is a relatively simple, for now, software that helps you automate all the things that may or may not be done manually, like order intakes and tracking inventory and tracking supplier relationships and all that stuff. They have developed a system where they can go and certify, let's say, like one of the first shops that they're working with used to make parts for Formula One. Basically, they said, there's a ton of now in the U.K., everywhere in Europe, there's a big push to spend on defense.
+
+They went to these guys and were like, "Hey, take an operating system. We can help you get, I think, AS9100 certified within whatever weeks, and you can start making parts." Actually, I think they're going to be making parts for a marine program for one of the big newer players, let's say, not yet the primes, and that's the proposition.
+
+They would go around in a franchise model, offering their engineering expertise, their certification expertise, their relationships with these government programs, and this software tool, which at the moment is very simplistic. I don't want to oversell it. Over time, it will be probably more sophisticated, but right now it's just a workflow that just makes it easier to do pricing in particular.
+
+**Expert** [00:12:14]
+Is it like an MRP, enterprise resource planning?
+
+---
+
+**Client** [00:12:17]
+I don't think yet an MRP. Yeah, a little bit of resource planning and just tracking orders, inventory, where it is, has been placed, what has been delivered. I think the main value-add right now is that it makes costing and pricing of elements much faster. When you have to come up with the actual price you want to charge for a certain part, it automatically takes into account set time, machine time, all of that stuff. You can create a quote in a minute. The end state will be a mix of existing shops that adopt that framework to be more efficient, get some help with utilization.
+
+I don't know whether this is your experience. What they claim is that the average utilization of some of these machines can be really, really quite low, like less than 30% in some cases, so up utilization and help with margins. There'll be a mix of shops that adopt their model and also their own shops, which would serve more as flagships where they do R&D and keep improving the system itself.
+
+**Expert** [00:13:20]
+The development shop, right. If you're talking about a bottleneck for planning, we call it P&IC. You get conflicting needs out of your machines. One machine might have an operation on it that takes, let's say, a full day, a full shift to complete the operation, whereas there are two machines downstream of that operation that only need an hour, but they'll sit for the whole day waiting on this other machine. That's where your planning comes in. We call it OEE, overall machine effectiveness or machine efficiency. That's basically how many hours of the day it is running and not running. That all needs to be planned out before you take the job.
+
+Before you agree to machining a part or bid on something, the better your software is at planning out the flow through the shop, obviously, the better off you're going to be. That's a very important part, and that's one thing that's overlooked by a lot of places.
+
+I would think, somebody who's done Formula One, unless you're just doing the same part over and over again that everybody's using, Formula One shop probably did a lot of development work. That's just me making an assumption. I don't know that, but I'm guessing that they're not a high-throughput type of shop.
+
+---
+
+**Client** [00:14:28]
+This is where they're getting started, it sounds like. It's more like these R&D type facilities, which makes sense. I don't think Rolls-Royce was all of a sudden a big part of their value chain to a brand new player. That makes sense. Can we talk a little bit about the margins on those shops? What kind of economics would a shop like this have, roughly speaking, if you can speak to that? What would be the COGS? What would be the typical profit you can expect from this type of.
+
+**Expert** [00:14:56]
+The idea was the more complex the part, the lower the throughput, the higher the margin needed to be. I've had parts that would take maybe a month to get to the shop. They wanted to see double-digit margin on those parts, which is a high margin, but we're putting out maybe 600 of these parts a year on a maybe $6-million contract over two, three years. They want to see higher margins. If you're doing something less complex, see margins as low as 7%, 8%, but then you're always trying to fight that and get a higher margin.
+
+This is the shop I was in. They didn't want to take anything they couldn't get at least a low double-digit margin out of, and something that fit into the workflow of the shop at the same time. There's two considerations. One is that you don't take capacity away simply to get this one part, make this one customer happy, because then that has a butterfly effect. You've wanted to get parts that fit the workflow that you already had in the shop. That can be subjective at times.
+
+This is where your engineering staff needs to really know their stuff because two different engineers can say, "I'm going to make it two different ways," and one might work better than the other, that you need to be able to depend on. "I think I can make it this way, and I need this much material to prove out the process and so forth." You need somebody to trust on that.
+
+Everybody needs to be in the same room at the same time when you're making a decision on whether these parts are going to fit into our business model. You need procurement, you need the people who do the floor planning, and you also need the engineering to say, "This is how we're going to make it." Everybody else can plan around that, and make decisions that this is a good part or a good fit or not.
+
+I think if it's just a machining shop, a lot of times they'll start to specialize. If you're getting a shop that's already got a certain set of machines, they're going to be based on whatever machines they have. They're going to be better suited for certain types of parts than other types.
+
+If they don't have a lot of grinding and heavy-duty machines, they might not do hardened parts. They might do just like stainless steels or aluminum, softer alloys, that type of thing. If they've got some of the heavier brace machines, they can do grinding and hardened parts. They can do the super alloys, the nickel-based alloys, which is a real staple in aerospace for hot sections of engines, that type of thing.
+
+Now, the defense, you got to be careful if you're going to do something like weapons, let's say guns. It's a highly specialized type of manufacturing, and there are a myriad of places with just a ton of intellectual knowledge on that already that you'd be competing with. I think you've got to be very careful when you're eyeing a shop to do a certain type of component that their machinery is, and their experience is set up for them for whatever it is you're wanting them to do in the defense side.
+
+---
+
+**Client** [00:17:43]
+I understand. It's very competitive already?
+
+**Expert** [00:17:46]
+It is very competitive, especially machining. Machining probably has the most trained people out there, you compare it to, say, assembly workers or sheet metal people or welders or laser operations, those type of things. They're more niche, they take more training. Machining is probably one of the more straightforward paths into the industry, and it takes the less. You don't have a lot of exotic controls on a machine. When I say controls, you don't have to have a specific environment or specialized building or anything like that.
+
+My point being is that, as that is one of the easier ways into the sector you're looking at, there are a myriad of machine shops in the United States. I'm sure that's the way it is in Europe as well. I know that is in the U.K. I do some work over there, and there's no shortage of machine shops. That's not to say it's not a good thing to get into, it's just if you've got a business model and you've got customers, and by all means, you just got to make sure that you're bidding on the right types of components that fits your model.
+
+---
+
+**Client** [00:18:47]
+Great. I think that was all that I wanted to cover today. Thank you very much for your time.

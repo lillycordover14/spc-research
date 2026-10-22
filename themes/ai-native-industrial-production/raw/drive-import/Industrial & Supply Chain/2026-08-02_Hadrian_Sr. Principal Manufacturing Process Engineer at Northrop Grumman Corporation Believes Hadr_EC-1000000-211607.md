@@ -1,0 +1,438 @@
+---
+theme: "Industrial & Supply Chain"
+title: "Sr. Principal Manufacturing Process Engineer at Northrop Grumman Corporation Believes Hadrian's AI-Driven Automation Enhances Efficiency in Defense Manufacturing"
+doc_id: EC-1000000-211607
+source_line: "Hadrian · Expert Call · Customer · 02 Aug 26"
+date: 2026-08-02
+company: "Hadrian"
+pages: 2 of 9
+saved: 2026-10-22T20:13:52.141Z
+url: https://research.alpha-sense.com/search?search_id=tmp-zrt1t2a4vvfkburx47q41n&sort=COMPANY_NAME&order=DESC&docid=EC-1000000-211607
+---
+# Sr. Principal Manufacturing Process Engineer at Northrop Grumman Corporation Believes Hadrian's AI-Driven Automation Enhances Efficiency in Defense Manufacturing
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+02 Aug 2026
+
+INTERVIEW DATE
+
+04 May 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Hadrian
+
+SMART SUMMARY
+
+Summary
+
+The interview covers the defense contract manufacturing market, focusing on supplier onboarding processes, the differentiation of new entrants like Hadrian versus traditional providers, and the evaluation criteria for selecting and scaling relationships with contract manufacturers.
+
+EXPERT BACKGROUND
+
+- Over 10 years of experience in defense manufacturing, including more than six years specifically in the defense sector.
+- Currently serves as a senior principal manufacturing process engineer, responsible for factory floor operations, manufacturing process development, and product development, with direct involvement in supplier evaluation and onboarding.
+
+EXPERT SENTIMENT
+
+- Views Hadrian as offering significant advantages in speed and efficiency over traditional machine shops, particularly due to its AI-driven automation and software integration.
+- Believes Hadrian's pricing is reasonable given the value in reduced lead times and risk mitigation, but would reconsider if costs doubled or if Hadrian could not demonstrate consistent repeatability and breadth of manufacturing processes.
+- Considers Hadrian's technology and process difficult to replicate organically by competitors, suggesting a high barrier to entry.
+
+TAKEAWAYS
+
+- The onboarding process for defense contract manufacturers is lengthy and rigorous, typically taking one to two years and involving multiple stages of technical, quality, and compliance evaluation.
+- Hadrian differentiates itself from legacy providers through its AI-powered factory operating system, automation in machining and inspection, and ability to scale and replicate factory operations efficiently.
+- Hadrian is currently engaged as an early-stage supplier, representing less than 10% of outsourced precision machining work, with expectations to increase to 10-20% in the future.
+- Hadrian's main limitations are its current focus on CNC machining and lack of capabilities in welding, coating, and other manufacturing processes, which sometimes necessitate using other suppliers.
+- If Hadrian were to shut down, it would take several months to a year to fully replace their capabilities due to the stringent qualification process in aerospace and defense.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Expert Background
+
+Contract Manufacturer Onboarding Process
+
+Hadrian's Differentiators and Capabilities
+
+Evaluation and Comparison of Providers
+
+Future Considerations and Industry Insights
+
+EXPERT BIO
+
+Sr. Principal Manufacturing Process Engineer at Northrop Grumman Corporation, the expert is a current customer of Hadrian and can speak in depth about the following solutions and use cases.
+
+Senior Principal Manufacturing Process Engineer at Northrop Grumman. Reporting to the Manufacturing Engineering Manager, the expert is responsible for the timely resolution of manufacturing problems related to materials, designs, equipment, and personnel. They lead the development and maintenance of manufacturing processes with a dedicated focus on affordability and quality, while creating and executing comprehensive project plans that include task management, resource allocation, and scheduling. Furthermore, the expert supports capital equipment projects from procurement through to production release, provides Return on Investment justification for process improvements, and develops automatic equipment programs alongside optimised process parameters and work instructions.
+
+Prior to Northrop Grumman, the expert was the Process Engineer Welding - Expert at Saft, leaving in February 2022. Reporting to the Technical Director, the expert was responsible for leading process specification development and revision, machine setup, troubleshooting, and manufacturing support for Space and Defence Lithium-ion cells and batteries.
+
+The expert is a customer of LimitlessCNC and can speak to the evaluation and management of AI-driven Computer Numerical Control programming and Computer-Aided Manufacturing automation vendors. They have significant experience assessing technical fit and expected programming efficiency gains for machining operations, particularly regarding how AI-assisted workflows compare to traditional programming. Additionally, the expert can consult on reducing programming time to scale capacity for high-complexity parts and evaluating the delivery reliability of early-stage production technology providers.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+I will just kick things off. We're trying to get smarter on the defense contract manufacturing market. More specifically, trying to understand who the main players are, how they differentiate, and what's really driving the emergence in companies like Hadrian. Just to get started, we want to know a little bit more about you and your background. Are you able to walk us through your role and what your team is responsible for?
+
+**Expert** [00:00:26]
+Absolutely, yes. Let me give a short introduction of myself. I'm currently working as a senior principal manufacturing process engineer at Northrop Grumman. As you may know, Northrop Grumman is a major aerospace and defense company. My job is just like my job title. My job is to support manufacturing.
+
+For example, like daily factory support to make sure manufacturing is moving smoothly. Also at the same time, I'm also doing a lot of manufacturing process development and product development. I work closely with our internal team and also I'm working closely with some external team as well.
+
+Before this job, I also have more than six years of experience in defense. In total, more than 10 years of experience in defense manufacturing. I hope from today's discussion, I can give you a little bit insight into this field.
+
+---
+
+**Client** [00:01:26]
+I see. You're also responsible for the factory floor for manufacturing, correct?
+
+**Expert** [00:01:33]
+Yes.
+
+---
+
+**Client** [00:01:35]
+Great. Are you able to walk us through how your team actually sources and works with contract manufacturers on a day-to-day basis?
+
+**Expert** [00:01:44]
+You mean how to onboard the manufacturing providers?
+
+---
+
+**Client** [00:01:48]
+Your contract manufacturers, yes.
+
+**Expert** [00:01:51]
+Yes. You probably know, defense industry is going to be different from some other industry. Onboarding with the contractors, for example, for the Tier one contractors first, is going to be different. It's going to be different from some other manufacturing industry. Defense manufacturing qualification is going to be much longer than some other ones, because most of the defense manufacturing, we need to supply all the contractors you mentioned about.
+
+They need to prove out not only they have the manufacturing capability, but also they have the quality system maturity, they have the documentation discipline, and also they have the item handling. Also repeatability over compute. Regarding to all the detailed process, I would say yes. The first process would be yes. Always, they will come with the initial engagement and also capability review.
+
+We go to this company such as Hadrian or some other ones. We know the capability. For example, whether Hadrian's software-defined CNC manufacturing model fits for our product families or our defense program need. This is the first step to understand their technical ability, capacity, their quality system, and also they are able to deal with the defense project with us. That is the first one.
+
+I would say after the first one, we will probably do some of the NDA, non-disclosure agreement. Before we send some sensitive drawings or models to them, to these contractors, they need to confirm they have the data control.
+
+Before we need any meaningful technical package, we need to make sure they have a proper data handling and also they have the ITAR control and also all the requirements are understood. This is a very key step before we do the supplier quality pre-screening.
+
+Phase II is NDA, non-disclosure agreement. We want to make sure the data handling, the ITAR or export control and the cybersecurity requirement are understood by the contractor. This is a very key step before we are moving from discussion to actual prototype work. This is the stage two.
+
+After stage two, it will be supplier quality pre-screening. In this step, we want to check whether the contractor can become an approved supplier. For example, we want to make sure they have the supplier quality baseline, they have the AS9100 certification review. They also have the calibration system review or material traceability review.
+
+This is a very key stage for us. We need to verify that the supplier may complete aerospace production requirement. This include traceability, inspection, discipline, and also they have the corrective actions if something goes wrong, or they have the documentation for their calibration for their equipment or testing equipment. Also, of course, for the first-article documentation. This is a supply-quality screening step.
+
+After this, we probably get in some key step, for example, like a RFQ and a technical package review. In this step, we're going to send the supplier, for example CAD model, and also in the CAD model, we need to specify what's the material property requirement, and also what's the quality requirement, and also we need to communicate with them about what's the lead time we need, what's the inspection, testing, and documentation requirement.
+
+In this step, we started with a controlled RFQ on the selected part. We want to qualify them. We want to make sure they are able to understand what we need, and also they can meet the requirement. This is stage four.
+
+After stage four, since we send them the requirement, we send them the drawing, for example, CAD model, so we are going to have the prototype making. They probably make like about five to 10 components, parts for us, depending on part complexity. They will do some trial build.
+
+The purpose for this step is that we want to validate whether the contractor can deliver the part correctly. For example, like the dimension, accuracy and also like the material property, we meeting. We want to make sure also, they can provide the requirement documentation, not just the good physical part. This is normally for stage five.
+
+After this, once they're making a prototype for us, we'll do some first article inspection. For example, Northrop Grumman will do a bunch of testing to make sure that they meet the requirement. Regarding to material property, regarding to the process certification.
+
+I would say, once the material, if they meet everything, we probably make some decision regarding to, okay, this supplier is going to work. We have a pool for new supplier. This supplier has showed great capability, and also they can make the components we ask.
+
+Yes. After the prototype making and after the supply approval decision-making, we are going to have some low rate, which is also limited production. We want to make sure that they can start on some limited production or selected part families. We can take this opportunity to monitor their quality, their delivery schedule, and also the cost and documentation or limit the production.
+
+For example, a few hundred or a few thousand of production instead of mass production. After low rate production, once everything is okay, we are going to move to some broad production approval. We probably consider them as a strong performance and also the relationship can be expanded from development to production.
+
+Which means we can add more part family, we can set up more PO or some long-term agreement with them. This is the most likely the last step of the onboarding process with the Tier one or Tier two defense contractors. Does it make sense to you?
+
+---
+
+**Client** [00:08:09]
+Sorry, I really didn't understand the last part. Can you just say it again in a different way. We're not defense contract manufacturer experts. We're trying to learn a little bit more about the space, so excuse our questions.
+
+**Expert** [00:08:23]
+Don't worry about that. The last part is after the contractor has done a beautiful job and low-risk and limited production, we can expand the relationship with them. Which means they are able to get big orders from them. We can put them as preferred suppliers. Which means they can, instead of doing just one selected job, we can add more part family into with them. Also, we can have more PO, a purchase order or long-term agreement with them.
+
+Also, we can potentially use them for some overflow or some strategic, for example, like manufacturing capacity. Which means that they could be considered for broad production work in aerospace and defense. The whole process can take about one to two years, depending on how critical is the part, what's the program requirement, and also what's the qualification findings. That make sense to you?
+
+---
+
+**Client** [00:09:22]
+Yes, that makes sense. In terms of Hadrian versus its incumbents, what does Hadrian do that a traditional machine shop doesn't? What's the practical difference between the two?
+
+**Expert** [00:09:36]
+You mean Hadrian difference with the competitor?
+
+---
+
+**Client** [00:09:39]
+Versus its incumbents. Yes, versus its incumbents, like the legacy providers, if you will.
+
+**Expert** [00:09:47]
+For example, legacy providers normally, we are talking about for example, some traditional machine shop or something with that. Definitely Hadrian is going to be very different from them, and I would say Hadrian has a great advantage over them regarding to speed and efficiency. For example, regarding to speed is that Hadrian's primary value proposition against some legacy manufacturing is that the speed is going to be much higher.
+
+In a lot of documentation or public information, we are talking about a 10 times increase in speed and over 40% improvement in efficiency when producing some precision metal parts. They claim that if you want something made, make them make it for us, for high quality and faster and cheaper. This is what the core pitch, regarding to Hadrian, speed and efficiency.
+
+Why they have better speed and also better efficiency because they have a AI-driving software stack that can automate the entire production life cycle. For example, from analyzing the CAD drawing, like a blueprint, to generate a machine code to the shop floor workflow, which means everything integrated from CAD drawing to manufacturing process flow.
+
+This will a single worker to operate, for example, traditionally, operator, they only operate one machine, but now they can operate 10 machines at the same time. This can boost the productivity greatly compared to traditional shops. This is the biggest, speed and efficiency advantage.
+
+---
+
+**Client** [00:11:21]
+How much of what Hadrian does relating to the AI and automated footprint genuinely feels automated versus requiring a lot of human involvement? The end product that they give you, does it genuinely seem like it was mostly automated, or do you see more human interaction in the thing afterwards?
+
+**Expert** [00:11:38]
+That's a very good question. This is the key advantage Hadrian can provide. It has various joint software-defined manufacturing which can lead to strong automation. What Hadrian did is that they're using their strong hardware system and also their software system to provide better automation compared to other ones. Regarding to the software and automation, it has a factory operating system. They call it Atlas. This is a full stack and also AI-powered platform.
+
+---
+
+**Client** [00:12:11]
+Sorry. Are you using the factory as a service as well to their individual products?
+
+**Expert** [00:12:17]
+No, we do not use the service. Currently are still in the early stage supply engagement with Hadrian and also for preliminary technical evaluation with them. We're not in a full production yet. For us, this is the internal system from Hadrian. They use the system. Hadrian, they use this AI-powered platform to improve the factory efficiency, not us.
+
+---
+
+**Client** [00:12:45]
+It's Hadrian improving their own factory efficiency. You haven't implemented their factory as a service model yet.
+
+**Expert** [00:12:52]
+Yeah.
+
+---
+
+**Client** [00:12:53]
+Continue what you were saying before.
+
+**Expert** [00:12:55]
+As a customer, we do not need to know how their system work. What we need to provide is that we provide them the drawing and also requirement. They do the job for us no matter what kind of system they use. They have a factory operating system, which is their key advantage over some other ones.
+
+Another thing is that they do have computer-aided manufacturing and also tool path automation. This is very related with the machining. One of the biggest manual bottleneck in machining, traditional machining is that from drawing to computer and the manufacturing programming and machine setup.
+
+Hadrian, why they make it faster? Because they can reduce the manual engineering burden and including automation of the parts manufacturing, planning and the inspection. This is one of the key advantage as well. Another thing is that they do have automation regarding to inspection.
+
+In traditional manufacturing, inspection normally done manually. Hadrian can use the system to automate manufacturing inspection, which can suggest the system platform is not just doing the machining faster, but also they can check the parts, they can get the quality data, and also they can standardize the inspection workflow.
+
+Another thing would be their factory scale up and replication. They are designed online, so their software can standardize how new production and the new field are deployed. Rather than building each factory of one of the manual operations. For the traditional manufacturing, if you wanted to set up a new production line, you probably need a very long time to make that happen. Hadrian has some capability regarding to the scale up and also replication.
+
+Another thing would be robot, robotic automation and also machine tending. They are using a lot of automation and robotics for manufacturing operations. For example, each person can operate about 10 robots and also this can supporting the higher output with saving them traditional manufacturer.
+
+---
+
+**Client** [00:15:10]
+Just want to pause there, but I want to ask a little bit more about how you evaluated Hadrian. What were you using before Hadrian, first of all, and what made you look for something different? Was it just the pricing, speed, and quality that stood out, or was there anything outside of that?
+
+**Expert** [00:15:27]
+I would say the reason we get with Hadrian in the first place is that we do have some other companies which can do the same job, for example, Xometry or some other ones. We interact with Hadrian because they are trying to solve a real problem in aerospace and defense manufacturing. For example, like a precision machined part capacity, like a long lead time we have and also we have limited qualified domestic suppliers regarding to that.
+
+We mentioned Xometry earlier. Yes, they can do pretty much everything for different customer, but they are not defense focused. For a company like Northrop Grumman, even we have established suppliers, but we still need to evaluate some new manufacturing capability that can support our prototype, like our overflow work, and also we have some future production program. That is the reason we interact with Hadrian in the first place.
+
+---
+
+**Client** [00:16:27]
+If you didn't pick Hadrian, who was your second choice?
+
+**Expert** [00:16:30]
+Who is the second choice?
+
+---
+
+**Client** [00:16:33]
+Yes, if you weren't going to pick Hadrian, who was your second choice?
+
+**Expert** [00:16:37]
+That's a very good question. Regarding to the second choice, we do have some other providers in this market, for example, some new players in this market which has very similar job like Hadrian. For example, have you heard about Anduril?
+
+---
+
+**Client** [00:16:53]
+Yes.
+
+**Expert** [00:16:54]
+Or SpaceX.
+
+---
+
+**Client** [00:16:57]
+They're a customer of Hadrian?
+
+**Expert** [00:16:59]
+They work with Hadrian, and also they are doing some similar things like Hadrian. They can be customer with each other, also they can be competitors as well.
+
+---
+
+**Client** [00:17:10]
+In terms of your manufacturing process, how do you choose your manufacturing process? Is there an RFP process? In one to two sentences, what does that look like?
+
+**Expert** [00:17:22]
+How do we choose the manufacturing process?
+
+---
+
+**Client** [00:17:25]
+Yes.
+
+**Expert** [00:17:27]
+Normally, a lot of times we do not have too much choice regarding to how to choose manufacturing process. For example, if we need some of the precision run parts, a lot of times we need some machining. We probably need to go get some precision machining provider.
+
+A lot of times, if you want to join two methods together, same thing, a machine is not going to help you, so you probably need some welding manufacturing process to get with. Similar to some other ones, you probably need some surface finishing, you can do machining, and also you can use some chemical coating process.
+
+I would say that to select, to choose which manufacturing process it most likely will start with starting from the part requirement. In a part joint, we probably will provide information regarding to geometry, regarding to material tolerance, production volume. This kind of information will help us to choose which manufacturing process to choose.
+
+---
+
+**Client** [00:18:27]
+I see. How much has your spend changed with Hadrian since you signed with them?
+
+**Expert** [00:18:33]
+Currently, we are still in the early stage with them. Early stage supplier engagement with them. The spending I would say it's going to mid six digits with them. Because we mentioned earlier, the qualification process for defense primes most likely it's going to take some years instead of few weeks. With the time, I would say the spending once we qualify Hadrian as our preferred supplier in the future, I would say the spending is going to be increase a lot.
+
+Company spending with Hadrian is limited because we are still in the supplier evaluation and qualification stage. Any spend would like to be tied to, for example, RFQ, a prototype build, and also some trial orders. It's not in full production volume yet.
+
+---
+
+**Client** [00:19:22]
+I see. How do you feel about their pricing right now? Like, has it changed? At what point would you start looking elsewhere? For example, if they were to increase their pricing by 2X, would you churn or would you stay?
+
+**Expert** [00:19:38]
+Currently, our spending with them is minimal. We are not in a mature recurring production spending yet. Overall, I think the pricing is reasonable. Currently, I think the pricing is reasonable.
+
+Overall, it can be expensive and unit price, but it's still worth it if they can help us to reduce the lead time, the supplier bottleneck, and also the program schedule risk. This can be justified easily with the current pricing with Hadrian. I would say that in aerospace and defense, even if it's going to be about 20%-40% more expensive, it will still be acceptable if we can avoid a major program delay.
+
+For example, like a traditional machine shops, it may come with a longer lead time and also the part is very critical for us to have domestic capacity safety. The cost of delay is much higher than the product cost. That's why I'm talking about if talking about a 20%-40% more expensive is still acceptable.
+
+When it become too expensive, if, for example, if we are talking about 2X, I would say that it's going to be too expensive. Also, if the party is high volume and also price-sensitive, we probably go with some other providers as well regarding for our safety.
+
+---
+
+**Client** [00:20:58]
+Is there anything that Hadrian can't do that forces you to look elsewhere to fill that gap?
+
+**Expert** [00:21:04]
+Yes.
+
+---
+
+**Client** [00:21:06]
+What would that be?
+
+**Expert** [00:21:08]
+What Hadrian cannot do, and we switch to some other ones? There's some particular situation. Yes. We mentioned earlier that Hadrian has a very strong technical capability regarding to CNC machining. Hadrian has very strong focus regarding to machining. As far as I know, they have strong focus in precision machining, especially for metals. They do not have too much capability regarding to some other manufacturing process.
+
+For example, we mentioned earlier about welding, about coating. In those situations, I don't think that Hadrian could be the best choice regarding to us. Maybe they will expand this solution in the future, but so far, for those situations, we probably go with some other suppliers instead of Hadrian.
+
+If they cannot provide proof, some long-term production repeatability, for us. We mentioned earlier, Hadrian is new company compared with some other ones. They need to show it can consistently deliver, repeat a lot, not just successful first article or some prototypes. This will be very important for aerospace and defense primes. We wanted to make sure they have the capability to consistently deliver products with a consistent quality. Those situations, if Hadrian is not able to meet those situations, we probably would want to work with some other providers, even the price is going to higher than Hadrian. That make sense to you?
+
+---
+
+**Client** [00:22:44]
+Yes. In terms of retention and churn, if you're second choice to Hadrian, let's say price is the same, lead time similar, what is something that would make you churn from Hadrian that is maybe more realistic today? If they are second choice and everything that you like the same, what is something that would make you churn from Hadrian?
+
+**Expert** [00:23:07]
+What situation that we would, typically, stay with Hadrian instead of some other ones?
+
+---
+
+**Client** [00:23:12]
+That you would churn from Hadrian. Yes. Pick your second choice over Hadrian. Is there anything like that that exists today?
+
+**Expert** [00:23:23]
+Yes. Definitely, the biggest reason that we will probably return to Hadrian is that yes, it has a very strong aerospace and defense presence, unlike some other providers in this market. If you work with them, you probably will save a lot of hassle regarding to, for example, compliance, aerospace and defense capability. Those would be very important.
+
+Some other situations if we have a very tight schedule to deliver our part and we do not have too much capability internally, we probably will go with Hadrian because the lead time from Hadrian is going to be much better than some other providers in this market. This is the reason we probably we need to go with them instead of some other ones.
+
+Some other situations that if we do not have any concern or have any consideration regarding to pricing per unit, we probably will prioritize to use Hadrian as our provider for aerospace and defense components.
+
+---
+
+**Client** [00:24:19]
+If you could just give me the first thing that comes to mind. If Hadrian shut down tomorrow, how long would it take your team to replace what they do?
+
+**Expert** [00:24:28]
+If Hadrian shut down tomorrow?
+
+---
+
+**Client** [00:24:30]
+In terms of months, days, timeline.
+
+**Expert** [00:24:35]
+I would say it is going to be a few months to a year to find a new provider. The reason I'm talking about a few months is that for aerospace and defense to qualify another one would be very difficult, very time-consuming and also very costly, so it may take a few months to make that happen.
+
+The reason I'm not talking about a few years is that, yes, normally in aerospace and defense, we are not using a single sourcing, so normally we come up with some multi-sourcing. Even Hadrian is closed tomorrow, it will hurt us a little bit, but it won't hurt us badly. Does it make sense to you?
+
+---
+
+**Client** [00:25:13]
+I see. If you had to put a number on it, how much faster is Hadrian's turnaround versus a traditional shop for a comparable part? Would you say it's two times faster, five times faster or something else?
+
+**Expert** [00:25:26]
+I would say it's going to be about at least two or three times faster than some traditional ones.
+
+---
+
+**Client** [00:25:33]
+Of all the precision machining work your team outsources, what percentage would you estimate goes to Hadrian today versus other suppliers? Would you say that all of your contract manufacturing goes to Hadrian or 50%?
+
+**Expert** [00:25:47]
+Hadrian currently, we are still in the early stage, so I would say that less than 10% we are getting with Hadrian right now.
+
+---
+
+**Client** [00:25:55]
+In a year's time, do you estimate that that 10% stays the same or would that go up to 20%, 25%?
+
+**Expert** [00:26:03]
+In the future, I would say it is expected to go, for example, about 10%-20%.
+
+---
+
+**Client** [00:26:09]
+Roughly, how often do you receive a part from Hadrian that requires rework or rejection? Would you say it's one in 100, one in 1,000? How does that compare to your traditional suppliers?
+
+**Expert** [00:26:21]
+That's a great thing about Hadrian. I would say that it's going to be compared to some other ones, the product quality, we do not have any concern regarding to that.
+
+---
+
+**Client** [00:26:32]
+On a scale of 1-10, how would you rate Hadrian, and why?
+
+**Expert** [00:26:36]
+I'm going to give 8/10 regarding to about the rating. The reason I'm give eight high score because all the benefit we talk about at Hadrian, it has a very great efficiency and great capability regarding to high-precision machining. The reason I'm not give 10 is that compared to some other traditional manufacturers, especially for manufacturing, it has a limited breadth of service compared to some other ones.
+
+For example, so far it doesn't have too much capability regarding to welding, some other joining technologies, some chemical coating. Those manufacturing process are widely used in aerospace and defense. This is something it can be improved.
+
+Another thing is that definitely it come with some risk. Compared to some other ones, it has a much shorter history and also it doesn't have too much time to prove that it can provide some known repeatability and also long capability of its components. It will take some time. That's the reason I'm rating it 8/10 regarding to Hadrian.
+
+---
+
+**Client** [00:27:45]
+If Hadrian offered you a job, would you take it?
+
+**Expert** [00:27:49]
+Probably not. Probably not. The reason is that, yes, a job in Hadrian for this fast-growing company, it may take more effort. Also, it's going to come with less work and life balance. Which means it's going to be more stressful. I would say it's going to be more rewarding.
+
+For my current situation that I have worked in a big prime, a defense prime for more than four years, and I'm comfortable with the steps and also comfortable with the work-life balance. Most likely I'm not going to. I'm not 20 years anymore, so I probably would not take it.
+
+---
+
+**Client** [00:28:28]
+Do you think that competitors could build their own Hadrian organically, or do you think Hadrian really does have proprietary technology or process that would have to be acquired?
+
+**Expert** [00:28:38]
+That is a very, very good question. I do not think they can copy the system or they can develop the same system easily. It is going to take a lot of effort. The reason I am talking about is because we are talking about both hardware and also software. This can be very difficult for new company to do that. In order to make that happen, they probably need to acquire Hadrian to get all the capability.
+
+I would say that it might be very difficult to acquire Hadrian as well because for example, like some national security consideration, government dependency, and also some control of supply chain. I would say either way it's going to be difficult.
+
+---
+
+**Client** [00:29:21]
+This has been great. Thank you for your time.

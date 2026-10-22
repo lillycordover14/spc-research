@@ -1,0 +1,485 @@
+---
+theme: "Industrial & Supply Chain"
+title: "Former VP at Xometry Believes Marketplace Model Outshines Vertically Integrated Competitors in Manufacturing"
+doc_id: EC-1000000-213001
+source_line: "Hadrian · Expert Call · Competitor · 08 Aug 26"
+date: 2026-08-08
+company: "Hadrian"
+pages: 2 of 14
+saved: 2026-10-22T20:13:20.985Z
+url: https://research.alpha-sense.com/search?search_id=tmp-zrt1t2a4vvfkburx47q41n&sort=COMPANY_NAME&order=DESC&docid=EC-1000000-213001
+---
+# Former VP at Xometry Believes Marketplace Model Outshines Vertically Integrated Competitors in Manufacturing
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+08 Aug 2026
+
+INTERVIEW DATE
+
+10 May 2026
+
+EXPERT PERSPECTIVE
+
+Competitor
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Hadrian
+
+SMART SUMMARY
+
+Summary
+
+The conversation covered the competitive dynamics between marketplace and vertically integrated models in precision contract manufacturing, with a focus on market fragmentation, product differentiation, and the challenges of scaling in aerospace and defense. The discussion also addressed marketing strategies, technology adoption, and perceptions of key players in the space.
+
+EXPERT BACKGROUND
+
+- Former Vice President of User Experience and Product at a leading digital manufacturing marketplace from 2018 to 2024, overseeing product development, user experience, and projects across customer, operational, and supplier sides of the marketplace.
+
+EXPERT SENTIMENT
+
+- Believes the manufacturing market remains highly fragmented with significant addressable market, making existential threats from competitors unlikely in the near term.
+- Views the marketplace model as more resilient and flexible compared to vertically integrated, factory-owned models, especially outside of aerospace and defense.
+- Expresses skepticism about the long-term viability and scalability of heavily VC-backed, vertically integrated competitors due to slow deal cycles and high capital requirements.
+
+TAKEAWAYS
+
+- The expert perceives the competitive landscape as fragmented, with both marketplace and vertically integrated models able to coexist and succeed in different segments.
+- Hadrian is seen as highly focused on aerospace and defense, with a business model requiring deep customer integration and significant capital investment, which may limit its flexibility and scalability.
+- The marketplace model, exemplified by the expert's former company, is considered more adaptable across industries and better suited for handling diverse customer needs and legacy data formats.
+- Key product differentiators for the marketplace include the Instant Quoting Engine and a robust supplier network, both of which are difficult for competitors to replicate at scale.
+- There is industry skepticism regarding claims of speed and automation from vertically integrated players, with many waiting for tangible proof of sustained revenue growth and customer adoption.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Competitive Landscape
+
+Hadrian's Market Focus and Strategy
+
+Competitive Dynamics and Challenges
+
+Xometry's Brand and Product Strategy
+
+Quality and Manufacturing Models
+
+EXPERT BIO
+
+Former Vice President Of User Experience And Product at Xometry Inc., a direct competitor of Hadrian. Expert can speak to key industry trends and differentiation strategies in the manufacturing space, having been VP of UX and Product at Xometry, a direct competitor of Hadrian.
+
+Expert is currently working as Co-Founder at Purchaser, within the manufacturing industry.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Great to speak with you. We are researching the precision contract manufacturing space. I've done a fair bit of research on a number of customers so far across aerospace, defense, automotive and energy. I'd love your perspective from the other side, how Xometry thinks about the competitive landscape, how they think about competitors such as Hadrian, and generally where you see the market going. To jump in, if you could just tell me a bit about what your role was and what you did on a day-to-day basis when you were at Xometry.
+
+**Expert** [00:00:33]
+Yeah. I was at Xometry from 2018 to 2024. In that period of time, I was on the product management and user experience side, so very heavily involved with the product development. From like 2019 on, I was the head of user experience, and I was also one of the product leaders there as well. I worked on a lot of projects related to all parts of Xometry's marketplace, both the customer side, the operational side, and the supplier side.
+
+---
+
+**Client** [00:01:05]
+When you were at Xometry, how seriously did the team take competitive threats from Hadrian, from Machina Labs? Was it a regular topic in strategy and product conversations, or was it barely on the radar?
+
+**Expert** [00:01:19]
+It was not very much on the radar for us. Part of that, I think there are a couple answers to this. The big one is that manufacturing as a whole is so fragmented that there was a pretty strong belief at Xometry that there is so much of the market to capture that no one other competitor could be an existential threat. That was the underlying belief at Xometry, and I think that was pretty much true. Our closest competitors were companies like Protolabs and Fictiv of the world. There was so much work to go around that our focus was more on growth and less on the competitive landscape.
+
+---
+
+**Client** [00:01:56]
+Do you still think that that's the case or do you think that the competitive landscape has evolved to be more competitive in the sense that people are going after the same contracts now?
+
+**Expert** [00:02:07]
+I think it is still the case that there is a lot of addressable market to capture. Using Hadrian as an example, Hadrian is a company that if you are going to work with them, you buy into their whole philosophy and you are putting a huge capital investment in that. I think Xometry's approach of more land and expand, being able to work on a part and then expanding that out and being able to do that in a capital efficient way, I think continues to give it a leg up.
+
+I think what will become interesting is to see as Xometry starts to expand more into corporate partnerships, more long-term, production-level deals with these much bigger firms, how that will interact with what Hadrian's doing. I think the scale is pretty different. Hadrian needs 10 factories to be considered successful, and Xometry, it wants 10,000 customers. That highlights how big of a market it is that both of those can be true at the same time. Both companies can achieve both of those goals at the same time.
+
+---
+
+**Client** [00:03:09]
+Hadrian's philosophy of customers have to be immersed and adapt their philosophy, why do you think that that's a shortcoming, especially compared to Xometry or other competitors?
+
+**Expert** [00:03:20]
+I think it's maybe just a little bit of my bias, just coming from marketplaces and seeing the benefit of marketplaces and what it's able to do. I think there are certainly for certain situations and for certain types of projects where that can be really powerful, but it's a really big investment upfront that you have to commit to. I think it assumes, and maybe it's a fair assumption, it assumes that every administration in every era of government is going to want to increase military spend. They are very tied to basically government funding wanting to do that. Xometry, just being able to pick at a lot of different verticals, at a lot of different industries and different types of companies gives it more resilience towards these types of shifts.
+
+---
+
+**Client** [00:04:04]
+Do you think that Hadrian is more so focused on the defense market, and with that comes shortcomings? Is that fair to say?
+
+**Expert** [00:04:13]
+I think that's my understanding of what Hadrian is trying to achieve. Obviously, there's a lot of money in that. I am not trying to say that there's not. I would be surprised if Xometry considers Hadrian a competitor.
+
+---
+
+**Client** [00:04:29]
+What is Hadrian's presence in other verticals besides defense then or do you think that they have a large presence and growing? Do they seem to be quite small and they're really keen on defense? How did you interpret where Hadrian actually sits in the competitive field?
+
+**Expert** [00:04:48]
+It's my understanding that Hadrian is almost solely focused on aerospace and defense. I could be wrong. They want to compare themselves to the Anduril of the world. I think Xometry just has a much broader view. I think it's reflective in their marketing. It's definitely true at the time that I was at Xometry that aerospace and defense was an important part of the work that we did, but there were plenty of teams, both from a sales perspective, from a product perspective, that never interfaced with any of the aerospace and defense projects at Xometry.
+
+---
+
+**Client** [00:05:25]
+Was there ever an instance where Hadrian and Xometry were competing head-to-head?
+
+**Expert** [00:05:30]
+I would not know from a deal perspective. I do know that former Xometry employees now work at Hadrian, so there is some overlap. My understanding of some of the technologies that Hadrian is building right now, with a thing called Atlas, attempts to address that style of manufacturing marketplace and having a supplier network and things like that. I think it's entirely possible they could be competing for some of the same deals. I wouldn't have visibility into that. I don't know of that happening while I was at Xometry.
+
+---
+
+**Client** [00:06:05]
+No problem. From your perspective then, let's say we assume that Hadrian and Xometry were going head-to-head for a deal or competing directly, where do you think Xometry would see Hadrian winning where Xometry could not? What's the vice versa where Xometry would beat out Hadrian?
+
+**Expert** [00:06:26]
+That's a good question. I think if it was a project where the number of manufacturing technologies was really tightly scoped, it was for a project where you maybe either needed or where it was just beneficial to the deal, where having a single source manufacturing this, having super tight control over the manufacturing process from end-to-end. Hadrian could deploy a facility inside of, say, a Lockheed facility, and Lockheed would have total visibility into that, and it would operate exactly the way they wanted to. It was something that could be end-to-end automated. It's CNC machining. It doesn't have a lot of complex additional processes to it. The supply chain for the material that you needed was pretty well defined. I think Hadrian could win a deal like that, where it's going end-to-end.
+
+I think with Xometry, what I would look at is the Siemens deal that Xometry did, where it was deploy Xometry across Siemens, both for Siemens customers and then Siemens internal team. Where the breadth of manufacturing need is there in terms of the number of processes, and you've got a lot of different types of needs, a lot of different types of stakeholders.
+
+Hadrian, because of the sophistication of their software strategy, it means that if your data makes sense for Hadrian to capture, it will capture all of it, and you get so many benefits from that. There is a lot of manufacturing, there is a lot of aerospace and defense, there is a lot of parts that don't have that information quality where you are still going to be working with legacy companies, legacy systems, legacy data that at least from what I can tell, it does not seem like Hadrian is equipped for that.
+
+They want to be fully integrated end-to-end data. They want to be able to say, "We know exactly where everything is. We can automate the whole thing end-to-end," which means that their data needs to be really, really good. I think Xometry just has more flexibility in that regard to say, "Oh, if you just have technical drawings and our supplier network can manufacture all these things, and then you need us to ship this to these finishing facilities in Canada and then coordinate the logistics back to your location in Texas." Xometry would have that flexibility to be able to manage that work.
+
+---
+
+**Client** [00:08:48]
+Do you think that Hadrian then misses out on key verticals because they don't have that flexibility?
+
+**Expert** [00:08:54]
+I think so. I do think that that's perhaps intentional with what they're trying to achieve. I don't necessarily see a Siemens-level company wanting to work with Hadrian because it seems to have to work very specifically. I think I read something where Hadrian's CEO is involved with every deal because there are so few, and they are so big and so important. If that's required to close every deal, then to me that points to maybe a scaling issue where it's feast or famine.
+
+---
+
+**Client** [00:09:25]
+Because they do a lot within aerospace and defense, if they're working with large government organizations who might not have up-to-speed data, do you think that that would cause them to lose contracts, or is that really a non-factor?
+
+**Expert** [00:09:37]
+I think that would be a big discussion as part of that, is how they would handle that kind of information, that data quality. It's possible that they have technologies to turn legacy data, old data systems and convert them into something that's more transferable to their systems, where that is something that in the industry is becoming more and more possible with a lot of the advancements in AI.
+
+It's possible that they are trying to solve that problem. I don't know that they have talked about that yet. I got to imagine that if they were doing that, they would be talking pretty loudly about that. One of the things at Xometry that we talked about was, at the time, this was back in 2018, 2019, but 50%, 60% of parts being manufactured still don't have a 3D model.
+
+Much of manufacturing is still reliant on technical drawings and PDFs and things like that, and the conversion from that into a 3D model isn't there for a lot of people. For a lot of legacy companies that have relied on those technical drawings for decades and historical supplier relationships, they don't have a need for the lights-out automation that Hadrian is trying to go for.
+
+---
+
+**Client** [00:10:49]
+I see what you're saying. I actually want to ask a bit about Xometry's product and overall brand strategy. How did Xometry build its brand presence? Does it happen organically through word of mouth, or was it through active sales and marketing efforts?
+
+**Expert** [00:11:07]
+Oh, very active sales and marketing efforts, for sure. Some more context, prior to 2018, I worked at a company called MakeTime from 2016-2018, MakeTime was acquired by Xometry in 2018. Something that was really interesting that we noticed at MakeTime was how big of a presence digital marketing was to the growth of our company, then when we joined Xometry, it's the same thing. Digital marketing and sales were massive in terms of building brand presence at the time. What's really interesting is you would go to manufacturing conferences and, at least back then, most people wouldn't know that we existed.
+
+Word of mouth starts to develop more effectively within a company, then over time, as those companies grow. By the time I was leaving Xometry, more of the shift was being put on sales and outbound sales. Digital marketing was really about deriving into a sales conversation through the Instant Quoting Engine. That became a huge thing. Xometry has a huge sales arm, and it's still really important in this space to be very sales-driven. We tried referrals, we tried all sorts of silly things, and they just don't matter in this space.
+
+---
+
+**Client** [00:12:25]
+I know that Hadrian maybe is going more for the defense, from our conversation, defense angle. Do you think that sales and marketing should be as big of a focus for them as well for that vertical or do you think their strategy's a bit different?
+
+**Expert** [00:12:38]
+I think their strategy is pretty different. If you want to work with Northrop Grumman, the first thing you have to do is become an approved supplier for them. You have to go through all of these qualifications, you have to fill out a bunch of forms, you have to become an approved supplier, and then maybe they will start working with you. That just gets you to the point where you can give a demo up to one of the sites at Northrop Grumman.
+
+If you are trying to win a deal with a prime, you typically are going through whatever supplier qualification process that prime is asking for. In that sense, the marketing doesn't really matter. The timeline for these deals are so long that you might bring awareness once, but you very quickly have to move past marketing into can you satisfy all of these certifications, all of these qualifications, all of these needs. I don't think Hadrian needs a big marketing presence.
+
+---
+
+**Client** [00:13:37]
+If they wanted to expand their footprints in other verticals, do you think that they would then need more investment there?
+
+**Expert** [00:13:44]
+Possibly. Though, given the way that they've chosen to build their company, I suspect they would first move towards corporate partnerships first and trying to go that angle before pure marketing. I could be wrong. The reason why it works so well for Xometry to focus on digital marketing is because you could get a prototype done in a week, and for 3D printing, that's awesome. A lot of engineers who had p-cards or had some level of spend that they could do without going through a traditional procurement process could just use Xometry. I don't think Hadrian has that mindset.
+
+One, CNC machining is a little bit more intensive than 3D printing. You can still do prototyping with CNC machining, for sure. It's a little bit more intensive than 3D printing. The size of deal that they seem to be going after, what it would suggest to me is that whatever their go-to-market strategy would be very much geared towards contract values in the millions. Suddenly, trying to expand into trying to get after a much smaller average order value, I think that would be a hard shift for Hadrian to do.
+
+---
+
+**Client** [00:14:57]
+I see. Just in terms of product roadmaps and stuff like that now, because they have a small presence in these other verticals, are they present at all? Do you feel like your customers would only have heard about them through word of mouth as well?
+
+**Expert** [00:15:12]
+Something that Hadrian is doing is they are very present in industry marketing or industry news and things like that. I do think that people are aware of Hadrian because they tend to be part of this new wave. The way that they talk about themselves to VCs and to the broader market, I think gives them a pretty big presence. Their revenue size is actually surprisingly small based off of how much investment that they've taken on.
+
+I think this happened after I left Xometry. What I suspect happened is when Hadrian bought Datum Source and started talking about having a supplier network and being able to do that thing, that made Xometry take a hard look at, "What does that mean for us?" I think their response to that was to push harder into enterprise, to push harder into the deals like the Siemens deal that just happened. If they did see it as a threat, I think they came up with a strategy that seems to be working in a completely different space.
+
+---
+
+**Client** [00:16:10]
+Last one on marketing, just want to ask a little bit about Xometry. What specifically did Xometry invest in on the product and digital experience side that competitors have struggled to match or can't really replicate? How long would that take to build?
+
+**Expert** [00:16:27]
+I think the Instant Quoting Engine was a huge thing. At the time, it was incredibly powerful. The salespeople would always joke like, "Oh, this thing sells itself. I just got to point them to the Instant Quoting Engine, and then they place an order." Our salespeople loved it, which generally means that it was pretty well working. MakeTime didn't have an Instant Quoting Engine, and we struggled to close deals and bring in despite our marketing. We had a supplier network, and the combination of our supplier network and Xometry's go-to-market strategy with the Instant Quoting Engine turned to be a really powerful combination.
+
+The question then becomes, can somebody else replicate the Instant Quoting Engine? So far, people have tried. Fictiv has one. Protolabs or 3D Hubs, they had one. A lot of precision manufacturers are starting to try to build their own. I think it's possible to replicate that technology. I think, at this point, there's a certain level of momentum in terms of the trust in Xometry's quoting engine. Now they can say, "Our Instant Quoting Engine has been tested against millions of parts, and you are getting the price you need." I think that will get you to where Xometry was five years ago.
+
+I think Xometry is starting to expand into things that are maybe Hadrian Light or more managed service type stuff, and these long-term corporate partnerships to grow. I do think that the biggest moat that Xometry has continues to be its supplier network. It is really hard to replicate that. Theoretically, you could go scrape every machine shop's contact information and say you have a supplier network, but you run into the chicken and egg problem of having the demand to feed those people.
+
+Xometry works pretty hard to establish relationships with those suppliers and spread work across their approved suppliers. I think that the volume of that is hard to replicate. There could be more people that come in that also have a supplier network, but they are not going to have as many orders as Xometry does. In a marketplace, you really need a lot of orders, and you are generally going to see a lower AOV, but a much higher number of orders coming through because you have so many suppliers that want work from you. The conditions to create a marketplace that's sticky and can grow like that are actually pretty challenging.
+
+I think there aren't that many people trying to do what Xometry did again. There was a generation of manufacturing technology that was very marketplace-focused. I think what I've noticed is that the tech companies that are focused on manufacturing in the last five years are not trying to do marketplaces. They're trying to do what Hadrian's doing, or they're trying to create a new manufacturing process, or they're trying to go into enterprise SaaS, just because it's really hard to do manufacturing marketplaces.
+
+---
+
+**Client** [00:19:29]
+I see. If I could just speak a bit about the quality of it, how would you describe the quality difference between the marketplace model and an owned factory model? Is it meaningful to customers, or do you think it is overstated?
+
+**Expert** [00:19:45]
+I think it depends. The reality of manufacturing is you are never going to get 100% quality. I think Xometry's quality score was surprisingly high given how little control they had over the overall process. Part of it was because Xometry, had their own quality control looking at parts. That helped. It was a known threat to Xometry's business model of delivering bad parts. Part of the operational workflow of Xometry was also ensuring a certain level of quality from their suppliers.
+
+It's not like Etsy, where it is just a place where you go buy something, and then your total relationship is with the person you buy it from. Xometry was pretty heavily involved with orders, making sure that they were happening on time. If a supplier did mess up, there were mechanisms in place to say, route any future parts to Xometry first for inspection before sending it to the customer," things like that.
+
+For any longer-term engagements with customers, you would start to expose who the suppliers were that were working on those parts, and that would also typically help with quality conversations. If it's any supplier relationship, there is a risk of quality. I don't think it gets detrimentally reduced working with a company like Xometry because Xometry's full of manufacturing people that also care about that quality, and they understand that you can only really mess up a couple of times before you lose a customer. A lot of the operations within Xometry felt a lot like a traditional manufacturing company because it had to care about things like quality.
+
+That worked on both ends. You weren't just getting customer designs and sending it to the supplier without looking at those designs. That's why the DFM part of the Instant Quoting Engine, where it was actually looking for manufacturability issues was so important. For anything over a certain complexity, an engineer was also assessing that design for manufacturability issues because it is not always the supplier's fault. Sometimes it is a design issue. Being able to catch those before sending it to the supplier network was sometimes something that Xometry had to do. I think we did a really good job of addressing quality concerns and being proactive about that.
+
+---
+
+**Client** [00:21:59]
+Sorry, I just want to ask, do you think that Hadrian would have a competitive advantage from owning its own factory or not really?
+
+**Expert** [00:22:06]
+It's a good question. I go back and forth on that. You read all of the marketing and you read all of the reports about what Hadrian is doing, and it feels like it should be a competitive advantage. It sounds like a competitive advantage. I was just expecting more revenue from that, and maybe that's an unfair expectation in aerospace and defense. Something that was interesting at Xometry was when it first started, it wasn't even a marketplace. It was just an advanced manufacturing company that used technology.
+
+Where it really started to grow was when they went from being, I think at the time they were called NextLine Manufacturing, then saying, "Oh, maybe we shouldn't have all of these machines." They grew like crazy. There could be a competitive advantage in owning the factory and having all of that data. It could create the intended effect by saying, "We can automate this whole process, and it's great." If it's a competitive advantage, it's not a competitive advantage against companies like Xometry. It would be a competitive advantage for other precision manufacturers that are trying to go after those deals or if Hadrian starts winning DoD contracts themselves. Now it's a competitive advantage because now you're really competing with other neo-primes.
+
+That's how I look at it. Maybe a different way of looking at it is, in their vertical, in aerospace and defense, they have a competitive advantage against traditional manufacturing. They have a competitive advantage against older, more legacy manufacturing companies that typically service aerospace and defense, but I don't think they have a competitive advantage in verticals outside of aerospace and defense.
+
+---
+
+**Client** [00:23:56]
+In general, for the competitive field for AI, who do you think is genuinely building something different, and who do you think is just riding the AI tailwind right now, especially in terms of software-driven production?
+
+**Expert** [00:24:10]
+Can you give some examples of companies that you're thinking about?
+
+---
+
+**Client** [00:24:15]
+I'm trying to learn more about the space in general, though, so I hear different names floating around, like Hadrian being one and then Machina Labs has been referenced as a competitor. Right now, it just seems like everything has AI on it, and everyone is trying to automate. Who do you think is actually building something that is going to last, and who do you think is just riding the AI wave?
+
+**Expert** [00:24:41]
+That's a good question. I would say Hadrian, I don't know how heavily they're pushing on the AI stuff, but I think they're more focused on automation. I think that's real, for sure. I suspect the way Hadrian is approaching AI might be similar to the way that we look at it, which is just like it has a purpose, but they are not going to put a chatbot on everything. The way I look at it is, if your primary selling point about your AI is a chatbot that's giving you status updates on an order, you are just riding the wave.
+
+Something I always found really interesting is that Xometry really did a lot of, at the time we were calling it machine learning, but our Instant Quoting Engine is a form of AI. It's just not like a generative LLM thing, and those are still pretty hard to replicate. That still requires a lot of hard work. What's the company? There's a company called CoLab. That is a company that I think is doing something very powerful, but it's baked into a deeply understood and deeply painful process around engineering collaboration.
+
+There's a company called CADDi that I think is also doing the hard work of taking something really challenging, like technical drawings, and being able to digitize that and turn that into structured data that could be used in a lot of different ways. To me, those are the ones.
+
+---
+
+**Client** [00:26:05]
+Do you think that there is any benefit to Hadrian to try to acquire any of these companies?
+
+**Expert** [00:26:12]
+A CADDi, probably. If they wanted to get really serious about working with legacy companies that are not in a position where they can create digital twins of old parts and things like that, CADDi, to me, makes sense for that. The number of different types of software that Hadrian it has to build to do what they're trying to do, there's going to be a point where they're like going to look at somebody doing something really interesting and say, "Oh, it's going to take us two years to do that, so we'll just acquire them." I think that's what they did with Datum Source.
+
+---
+
+**Client** [00:26:46]
+From your interpretation, do you think Hadrian has any product gaps, and to sell those product gaps, do any other companies like CADDi come to mind, to sell them?
+
+**Expert** [00:26:56]
+To sell them? Oh, them productizing something and then just selling it as SaaS?
+
+---
+
+**Client** [00:27:02]
+Potentially. If there's any gap to what their offering is, or one thing I was hearing from customers is that the manual inspection is a real bottleneck sometimes across anybody in this space. If they were to acquire somebody or if there's something adjacent to Hadrian that would just enhance their overall offering, does anyone come to mind?
+
+**Expert** [00:27:24]
+Manual inspection, not that I know of. I think Hadrian is very interested in building as much in-house as possible. I think it would be more likely that they look at those companies, see what they are doing, and then choose to build it instead of buying that company. That seems to be the approach they're taking to everything software related. They'll use hardware from other companies, and that's all fine, but they're going to build as much software as they can themselves. Unless it's something where they truly look at it and go, "Oh, there's no way we can build this," I think they would just spend their energy looking at how to solve that problem themselves.
+
+---
+
+**Client** [00:28:04]
+Where do you think the market's going to go in five years? Do you think one player pulls away from the pack? Do you think it eventually consolidates? Does it stay fragmented? What are your thoughts?
+
+**Expert** [00:28:22]
+I think it stays fragmented in five years. I worked really closely with somebody that now works for the Association for Manufacturing Technology, and something he saw would say is that manufacturing is on a five- to 10-year technology adoption curve. I think in this space, there's still so much just green space for technology to move in that I don't think you'll see a consolidation. I think people are just more focused on their own growth.I think it's going to be a long time before the answer to growth is, "Let's just start to consolidate."
+
+---
+
+**Client** [00:28:57]
+As of right now, who do you think is going to win in the market?
+
+**Expert** [00:29:00]
+Can you define win?
+
+---
+
+**Client** [00:29:02]
+Who's going to be the top three players, let's say, in the space who are going to win on contract, on quality? Right now, you said it's a really big green space. Eventually, when it does consolidate, who do you think right now is best positioned to win or really reap the benefits of becoming that top player, and why? What are they doing?
+
+**Expert** [00:29:24]
+It's my bias showing a little bit. I think Xometry is in a really good position to win because everything we talked about being a Hadrian capability is true, and Xometry could strike a deal with Hadrian and say, "Hadrian's one of our suppliers now." Selling Hadrian as a manufacturing process on Xometry, where Xometry is your go-to-market arm, basically as a supplier, no matter how complex your capabilities are. There's something really powerful about being able to do that. Xometry's already proven it doesn't need to build any factory or machine shop to suddenly be able to support that new technology and or manufacturing process.
+
+I think they've released a new 3D printing technology every two weeks or released a new offering every two weeks for over a year now. That shows to me that eventually, if Hadrian wants to step outside of aerospace and defense, they are either going to have to learn how to talk to all of these other companies, or they are going to partner with somebody that is already talking to these companies to do the hard work that Hadrian is trying to solve.
+
+---
+
+**Client** [00:30:30]
+How do you see the exit landscape playing out? Do you think that independent players are going to get acquired? Do you think that incumbents will try to recreate their own Hadrians or Xometrys, if you will? How do you think the exit looks for these companies?
+
+**Expert** [00:30:49]
+That's a good question. In my time in manufacturing, what I saw was a lot of really old school people trying to solve manufacturing in an old school way, and there was always friction between that mentality and this new school, this very technology-enabled mentality. I think acquisitions are hard. I was at Xometry when multiple acquisitions happened. I was part of an acquisition, and it was not all rosy. It was not easy. It was not as effective as people thought. I think it's more tied to the vertical that they are primarily serving. If Hadrian gets acquired, they are going to get acquired by Anduril.
+
+---
+
+**Client** [00:31:35]
+Do you think it's more difficult in the defense and aerospace vertical to be acquired, just if there's any regulatory barriers in place or do you think it's fairly easy as long as it's somebody in that same vertical?
+
+**Expert** [00:31:47]
+I think it's probably pretty difficult. I think the structure of those deals, the level of investment, it would be pretty difficult to pull off an acquisition. A way to think about it is, let's say Hadrian wants to get acquired. They probably can't get acquired by any company that is doing meaningful work in China. That's doing the volume of work in China where the Chinese government is now somewhat involved in the commercial aspects of your company as they operate in that country. That would be a real concern. In aerospace and defense where there's sensitive information is baked into all of the work that you're doing.
+
+Unless there was very heavy overlap, let's say, it's five years from now and 80% of Hadrian's revenue is coming from deals with primarily Lockheed Martin, that could work. I think it gets really dicey, once you get to a certain size, as a company to be acquired by a bigger one if you're doing a significant amount of aerospace and defense work.
+
+---
+
+**Client** [00:32:48]
+On a scale of 1-10, how would you rank Hadrian?
+
+**Expert** [00:32:52]
+What is one and what is 10?
+
+---
+
+**Client** [00:32:55]
+One is the lowest, 10 is the highest.
+
+**Expert** [00:32:59]
+Okay. Just in terms of how well they operate as a company, their chances of succeeding?
+
+---
+
+**Client** [00:33:06]
+All of it. If it is not a 10, why would they not be a 10?
+
+**Expert** [00:33:11]
+I think they are a six to me. They are doing some really interesting things. I'm personally a little alarmed by how much investment they have taken on compared to how much revenue they have actually earned. You compare their revenue to Xometry's revenue, compare their revenue to Anduril's revenue, and you wonder, are they doing something that we do not know about, that they are just waiting for a shoe to drop, and then it is going to work? It doesn't feel obvious to me how the return on that will work.
+
+---
+
+**Client** [00:33:41]
+What do you mean by that?
+
+**Expert** [00:33:44]
+They've taken on a lot of investment.
+
+---
+
+**Client** [00:33:47]
+You mean from the Series C round?
+
+**Expert** [00:33:49]
+Just overall for where they are. I'm not an investor, so there could be things about that deal or about the structure of that deal or about that space that I don't understand, which is totally possible because I'm more on the product side than I'm on the VC side of things. I think if you're an engineer, you're probably excited to be working at Hadrian doing some really interesting things. If you're the finance guy at Hadrian, you're like, "I don't know how we're supposed to make this work 10 years from now."
+
+---
+
+**Client** [00:34:23]
+Why do you not think it would work 10 years from now? Is it just that from what they have invested in, factory-wise, they should just be putting out more revenue? What's the biggest flag there? Why do you say that?
+
+**Expert** [00:34:37]
+Do I think they can win this space? Where I get concerned is how slow it takes for them to win a deal. I don't think they've been around long enough to know whether they can truly expand within one of their customers to the point where it's lights out. That's where I get the most concerned, where it's just like they are undoubtedly building very, very cool things, but can they capture enough of the market with such a focus on building these end-to-end factory automation as a core strategy for them? That's the part where I'm really not sure.
+
+---
+
+**Client** [00:35:12]
+Do you think anyone else is doing that better today in their vertical?
+
+**Expert** [00:35:17]
+I don't think so. There are some newer ones that are in there. Atomic Industries is a newer one that's in there. The problem with assessing a company like this is that what they're actually doing is so opaque because they're working on probably some top secret stuff in there. They're probably working on stuff they can't disclose. From the outside looking in, I can only assess it based off of marketing. I think from my experience, the marketing tells a rosy picture of the truth. Manufacturing is a lot messier than that. What I'm curious about, and it's something that I will probably never gain true visibility into, is how messy it is in there.
+
+What I learned about Protolabs, who did a lot of their manufacturing in-house, they did not have a marketplace strategy. They really just had 10, 15 supposedly very high-tech factories. They got constrained by that pretty heavily at some point. Then the question for Hadrian is like at what point do they get constrained by that?
+
+---
+
+**Client** [00:36:21]
+What's the market's perception of Hadrian from your perspective?
+
+**Expert** [00:36:26]
+That they are a precision manufacturer for aerospace and defense with really, really good optics.
+
+---
+
+**Client** [00:36:33]
+From what you've heard, does their product match the optics, or have you heard of shortcomings for the company?
+
+**Expert** [00:36:39]
+I haven't heard of any specific shortcomings about their product. What I see when people talk about Hadrian is that they're being propped up by VC money more than creating a viable long-term business, is the impression I get. Admittedly, manufacturers and machinists and engineers are very cynical people and have very cynical reads on the industry, and especially some, these newcomers coming in touting this end-to-end automation stuff. I think everybody's waiting to see if it actually is going to work.
+
+---
+
+**Client** [00:37:12]
+If they actually turn a profit is what you mean by that?
+
+**Expert** [00:37:16]
+Yeah.
+
+---
+
+**Client** [00:37:17]
+What do you think Hadrian would have to do strategically to not be perceived as somebody who is just propped up by VC money? What strategically do you think they need to do that they are not doing that would make them 10X better? I'll leave that one open because it could be any facet that you think is a huge miss right now for them.
+
+**Expert** [00:37:37]
+I think if they suddenly accelerate the number of deals that they close, then I would start to go, "Oh, okay, they figured this out. They figured something out." If they start growing their revenue and start month over month, 20%, 30% growth, that would suggest that they figured something out, and then I think everybody would say, "Okay, there's something actually happening here."
+
+They're taking one deal at a time. Those deals take a long time to negotiate. They're for really big dollar amounts, so you're not going to see that with what they're doing now. You're more looking at it annually and seeing how much they're growing annually. The problem is you have to then evaluate them on a three-to five-year timescale because the nature of the deals that they're doing, it wouldn't show up month-to-month.
+
+---
+
+**Client** [00:38:25]
+Also, when you say that we are all waiting to see what they do, is this something that you have spoken about with other experts in the space or is this something that your peers are saying, customers are saying? Where is the reputation also coming from? Who else is saying this?
+
+**Expert** [00:38:45]
+Not customers. No direct interaction with customers. I know people that work at Lockheed Martin and Northrop Grumman, but I wouldn't say that they are Hadrian customers. It's more of peers in this space, people that I would consider experts in manufacturing from an industry perspective. That's who I am more referring to, and then, random people on the internet in these subreddits about manufacturing and whenever there is a big Hadrian press release or Hadrian is in the news for something, just seeing what the reaction is from the engineering community or from the manufacturing community.
+
+---
+
+**Client** [00:39:23]
+Is there anything else that I haven't asked you that you think would be important for me to know as it relates to Hadrian's strategy, and where they might have blind spots?
+
+**Expert** [00:39:31]
+I don't think so.
+
+---
+
+**Client** [00:39:33]
+Great. I think I've gotten what I've needed. Just doing a flip through. The last thing I would like to ask, has pricing ever come up in a conversation where Hadrian's name was mentioned in a positively or a negative way?
+
+**Expert** [00:39:50]
+No.
+
+---
+
+**Client** [00:39:51]
+Okay. Does everybody have similar prices?
+
+**Expert** [00:39:56]
+Yeah. The nature of the nature of what they're trying to do, it's they are getting a super complex proposal with the big contracts and things like that. Their focus is honestly doesn't seem to be about pricing either. It seems to be about being able to do things 10X faster and having all of the data. I think they don't seem to be focused on pricing at all.
+
+---
+
+**Client** [00:40:21]
+Do you think that from what you know or have heard that they actually are mostly 10X faster on speed, or have you heard of anyone not having that same perspective?
+
+**Expert** [00:40:31]
+I think people are skeptical of that. A way that I would look at it is when you market something, that's what people are going to criticize you for. If you are going to market being 10X faster, people are going to criticize you for saying that because they won't believe you. When that feels more real is when you have more customers or when enough customers come out and say, "Yep, that actually happened." I generally look at any of those claims with a grain of salt.
+
+---
+
+**Client** [00:41:01]
+Okay. Can I ask one last question? I know we are at time, actually. Have any customers turned from Hadrian to you or to Xometry? If so, why?
+
+**Expert** [00:41:18]
+I wouldn't know about that.
+
+---
+
+**Client** [00:41:19]
+Awesome. That wraps up my questions. This has been really helpful. Appreciate your time and insights.

@@ -1,0 +1,225 @@
+---
+theme: "Energy & Grid"
+title: "Senior Enterprise GIS Architect at National Grid Plc Sees Potential in Emerald AI for Grid Modernization Amid Scalability and Latency Concerns"
+doc_id: EC-1000000-232688
+source_line: "Emerald Ai · Expert Call · Customer · 14 Oct 26"
+date: 2026-10-14
+company: "Emerald AI"
+pages: 2 of 2
+saved: 2026-10-19T16:45:12.431Z
+url: https://research.alpha-sense.com/search?search_id=tmp-0pnbg1kc8uodovl7vbczkp&sort=RELEVANCE&order=DESC&docid=EC-1000000-232688
+---
+# Senior Enterprise GIS Architect at National Grid Plc Sees Potential in Emerald AI for Grid Modernization Amid Scalability and Latency Concerns
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+14 Oct 2026
+
+INTERVIEW DATE
+
+16 Jul 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Emerald AI
+
+SMART SUMMARY
+
+Summary
+
+The interview discusses a utility's pilot project with Emerald AI to manage electricity distribution and AI workload scheduling between the grid and data centers. Topics include vendor selection, technical challenges, scalability, and the potential impact of partnerships on grid modernization and operational efficiency.
+
+EXPERT BACKGROUND
+
+- Senior Enterprise GIS Architect with 24 years of experience in the utility industry, leading enterprise architecture initiatives focused on grid modernization, integration of digital technologies, and evaluation of third-party solutions for business and customer needs.
+
+EXPERT SENTIMENT
+
+- Cautiously optimistic about Emerald AI's potential to address utility-data center integration needs, but concerned about latency, scalability, and regulatory compliance.
+- Believes that while Emerald AI currently stands out due to its agility and focus, long-term adoption depends on resolving technical and operational challenges, especially as customer scale increases.
+- Views partnerships (e.g., with NVIDIA) as important for addressing performance and reliability requirements, but requires more proof of scalability and stability before full deployment.
+
+TAKEAWAYS
+
+- The utility is piloting Emerald AI's Conductor software to optimize electricity distribution between the grid and data centers, focusing on demand response during grid stress events and off-peak utilization.
+- Two main use cases are being tested: curtailing data center power usage during grid events (e.g., lightning) and shifting AI training workloads to optimize grid capacity.
+- The vendor selection process took eight months, with Emerald AI chosen over larger incumbents (e.g., Schneider Electric, Siemens, ABB) due to its unique focus on bridging utilities and data centers, though concerns remain about cybersecurity, latency, and integration with legacy systems.
+- Latency, especially in spatial flexibility (moving workloads between data centers), remains a key challenge, with even millisecond delays impacting critical utility applications and field operations.
+- The utility is considering phased expansion from 100,000 to potentially 8 million customers, but full deployment depends on resolving latency, scalability, and data ownership issues; partnerships like NVIDIA are seen as potentially beneficial for performance, reliability, and sustainability goals.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Expert Background
+
+Pilot Project Overview and Use Cases
+
+Vendor Evaluation and Selection Process
+
+Latency Challenges and Grid Modernization
+
+Utility and Data Center Interactions
+
+EXPERT BIO
+
+Senior Enterprise GIS Architect at National Grid Plc. Expert can speak to the evaluation and integration of third-party technology solutions within the utility sector, aligning with the project's focus on customer and partner insights regarding Emerald AI's offerings.
+
+Senior Enterprise GIS Architect at National Grid. The expert is responsible for leading technology initiatives and evaluating 3rd party technology providers. The expert ensures all 3rd party software solutions continue to meet business needs. The expert is also responsible for technical review and licensing agreements with 3rd party software providers.
+
+The expert has worked in the energy and utilities space for over 20 years and can speak to energy and utility software solutions.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Hi. Thanks for taking the time to talk with me. I am interested in learning more about Emerald AI. Can you share a brief overview of your background?
+
+**Expert** [00:00:11]
+First, my background is I have 24 years of experience in the utility industry. Currently, I am enterprise architect lead where we need to satisfy business needs and the customer complaints. To satisfy those, we are adopting the third-party resources, whoever is providing the solution, services, softwares and systems to the utility company and that's how we see whether that particular software solution, services or systems is able to meet the business needs or satisfy the customer complaints or not.
+
+As we are moving towards the grid modernization, because our aging infrastructure is converting into a lot of assets, where are going to be the RFID sensors, IoT devices. All these are going to move into the digital twin model which is a part of a grid modernization and we are supplying the power to the data centers also. That's the reason, I come across with Emerald AI company which is a fusion between the utility company and the data centers for us. That's a technology called pilot project with them and we are working with them from last five months. This is a pilot project with them.
+
+---
+
+**Client** [00:01:22]
+Could you just help me understand what that pilot project looks like? What are you guys working together to solve and what is the value from National Grid's perspective?
+
+**Expert** [00:01:33]
+We had two business needs. First, we need to understand that distribution and transmission lines, we are sending the electric currents to the customer end. There are lot of capacities remaining. That's the reason we are supplying those kind of electricity to the data centers because during the off-hours, we are not utilizing our system in a maximized way. That's why we decided to send the power to the different data centers. When I say pilot project, those pilot projects turned because we had two use cases. One of the use cases is, we had the heavy lightning going in the Northeast region near the Boston area, suburban area, and heavy lightning was there.
+
+We wanted to send the signal to the data center that, can we stop using the 30 MW electricity for 90 minutes or so because that's what the projection was showing for the lightning in that area. In order to tackle this, we came to know about Emerald AI in the Gartner presentations and they were working on this solution. Emerald AI is also sufficient enough to know whether the system needs to slow down some of the AI training jobs in the data centers or not, just because the grid is getting the lightning event. To satisfy that business need, we hired them on the pilot project. There was another use case where we were seeing a very heavy use from the customers. We have eight million customers what we have. The heavy use during the summer days.
+
+During the daytime also there are heavy use, but during the off-hours and the winter seasons, we don't see that much usability of the grid network. That's why we saw the second use case, whether we can send a signal to reduce that 30 MW in 90 minutes, I'm just giving an example, to reduce that peak load during those hours, so that whatever the training jobs, whether we can remove that GPU clusters from the Kubernetes or we can move those to some other data center. Even though we are getting the output after some latency but we are getting the output after moving those AI training jobs to some other data center.
+
+These are the two use cases we presented in front of them and they were already doing some work with other utility companies for these use cases. We are going good with them. There is no concrete contract yet but the management is working behind the scene for a concrete contract so that we can introduce large number of grid into the system so that whenever the grid is not used or whether the grid meet with an event, we need to send the signal so that the system get optimally used from the both sides.
+
+---
+
+**Client** [00:04:07]
+Got it. When you were going through the evaluation process, it sounds like you're still in a pilot program. How long did this take? Was it a several-month-long process to select a vendor? Did you look at the existing vendors that you were using? Why did you have to go with Emerald rather than someone else that you already use for demand forecasting or something like that?
+
+**Expert** [00:04:34]
+We invited other people also, like NVIDIA and then the EPRI, those consultants also and Nebius, something like that. That research itself took eight months for us, because we asked Schneider Electric, we asked Siemens also but they were more interested in building the data center, more focusing on the data center, not the bridge gap between the utility and the data centers. This company we come across during the RFP process with other four companies, and this stands out based on our business needs, which I explained to you earlier, we need to try this out, and we are trying them out from past five months now.
+
+The process took eight months because we were trying to understand a lot of limitations, because there are no regulatory compliances, because a lot of cybersecurity as the grid is connected to the internet, with Emerald AI, because they are sending the signals, they are using the internet and APIs. As the cybersecurity people, they are very reluctant to send those signals through an API to an outside firm which we are still working with on the pilot project. That is one of the implementation challenge we had. There are other implementation challenge, like the flexibility because there are a lot of apps are there. Customer-facing application, outage management systems are there.
+
+The critical workload app requires continuous operation. How their system is deciding which AI training job, on their side when we upload them into data center that needs to shut down with their respective GPUs, how they will come to know. Whether we need to let them know or not. All this information took a lot of time to go back and forth with them. Another implementation challenge was when they were using a term which I remember quietly now, the temporal and the spatial flexibility. That is what I recall from the presentation. Temporally is fine. Temporarily, they are reducing the GPU usage of any AI training job. When they are moving to another data center, then what is the trust and control ownership of moving those AI training agents from one data center to another data center? What is the latency pattern we will find?
+
+There were no reports like that. They were just saying that the AI workload scheduling is not always designed for real-time grid operation, but they were expecting a latency. There was no homework done behind the scene. In order to send that to the management, because in this utility industry, reducing the latency and optimizing the latency for any movement from one place to another or any deployment in the production environment, we definitely need the grid events may require a smaller response. Within seconds of moving, it should respond. That is what utility company were. That latency requirement and the data insights were not there also. I am telling you all these things just because why it took eight months for us. Work with them.
+
+Right now, we were only trying with them with 100,000 customers. Down the road, we will have around eight million customers. We heard that from other utility companies, they are also working with the pilot project. Pilot project only have 100,000 customers but once they move to eight million customers, is Emerald AI, that Conductor software, that is what they call, that is what I remember now, the Conductor software is able to scale this kind of complexity of the grid or not. That is also very important for us to figure it out whether they are ready or not. I think this company is one year or 1.5 years old. They do not have enough explanation whether this Conductor software will be able to handle that scale complexity of the grid.
+
+Apart from the grid, we also have the other enterprise system like legacy utility systems. Those legacy utility systems were not designed for dynamic digital loads and all. Like SAP, Salesforce, IBM Maximo. It requires modernization of the grid architecture. When we move to the grid modernization of these legacy utility systems which I named them, are they ready for the integration with the existing infrastructure and the new infrastructure or not? Those questions and a lot of measurement and verification questions we have asked, those were on the borderline. The baseline calculations were there but not enough results behind the scene. If you are aware that existing demand response program may not cover the AI compute loads.
+
+Utilities do not have the regulatory framework and traffic structures for this kind of framework to involve them in a longer contract. We were very worried about this kind of whole structure. Slowly, we moved into that direction because we wanted to see how that particular Conductor software is responding. Most of our electricity is not useful also sometimes and we wanted to use them in a better way so that the customers, we need to provide electricity, that is must. The electricity provided to the other asset which is AI data centers and all the GPU powers and all those things, those are a secondary thing for us. We need to have some mechanism where we can send the signal and turn off, turn on. They can turn off the non-used apps for those AI training jobs.
+
+---
+
+**Client** [00:09:57]
+Can I just jump in here for one second? This is super helpful. I just want to make sure I do not forget any of the questions that have come up. Going backwards, one of the things that you had said was, during your evaluation and part of the process was trying to figure out what the latency looked like on their spatial flexibility product. Now that you have been using Emerald's Conductor for the past few months, have you seen what that latency looks like? Are you able to move workloads and still see a latency that is not violating anyone's service level agreements? Has that come up at all? Do you have any data points on that?
+
+**Expert** [00:10:37]
+We gathered the data points on that. First of all, temporal flexibility is fine because they are just turning some apps down on the AI training job. The spatial one, when they are taking our AI training job to fulfill the business needs from one location to another location, then we were getting some problems. We were not able to get connected with those AI training jobs for that particular app. We were trying to figure it out why it is not working. Once it was working, then it was a delay also and it was in millisecond but in the internet world, millisecond is a big deal because we have a lot of our investor portal also on that AI training job. We were seeing some latency on the results when we were clicking those results on the browser, we were seeing those results.
+
+However, when we had the closest data center, where we are regularly supplying electricity, at that point, we did not find any latency on the temporal side but on the spatial side, we found the latency. We discussed those with Emerald AI and they are working on it. They are trying to figure it out and let them know because it was keep going back and forth and they were saying there is some error in the app or AI training job. We were discussing with them like, "If the app is running fine in the on-premise and in the closest data center, then it should run on yours also." There is a latency observed but it is in millisecond, but we were able to operate the job which was placed in the other data center and spatial flexibility environment.
+
+---
+
+**Client** [00:12:11]
+Maybe you do not know, but was that an issue, that millisecond latency? Would you think that would be a really big issue for those data center operators as well? Is that a big issue for workloads that are super latency-sensitive, like any of those inference workloads?
+
+**Expert** [00:12:28]
+Down the road because when we are moving to the grid modernization. Right now, the grid is supplied by one source of energy. Now down the road, we are going to distribute our grids to 10,000 customer. I'm just giving you an example so that we can understand better but 10,000 per grid and each grid will going to have their own renewable energy resources. If the current or the voltage is down for one grid and the renewable energy source is not producing enough power to that grid particularly, it gets connected to the other renewable energy sources. Through the network tracing algorithm, they will be able to find out which one is the closest one. We were telling them, these milliseconds they were talking about.
+
+This millisecond for the grid modernization, it will take the frustrating result for the customer side and we will not be able to present once the regulatory compliances will come into the picture for this kind of adjustment, then it will be difficult for us to show the rate case increase, because we are not able to rejuvenate the power in that particular grid within few minutes. Down the road, we are seeing some repercussion. When we discussed, there are benefits when they presented, and those benefits are very good, like when we see the grid modernization four, five years down the road, because as I said, our aging infrastructure is going to move to AMI meters, IoT sensors data, RFIDs data.
+
+All are connected to the internet then. Even one millisecond will reduce the calculation of other IoT devices. That will be challenging thing for us. Our discussion with them and all these concerns will come up when we increase the number of grid infrastructure introduced to the Emerald AI or the number of customers introduced to the Emerald AI. That will help us to understand what is the latency if we increase the number of customers.
+
+---
+
+**Client** [00:14:22]
+Would be helpful to get your perspective from the other side, because obviously Emerald is serving both utilities and data center operators. These big interconnection queues and environments where it is really hard to get grid interconnection, if you were looking at a data center operator in a constrained environment, does the utility view someone that is using Emerald and is willing to curtail their power demand, is that a more attractive customer? Are they able to skip the queue in any context? Are the economics better for a utility provider? Is there any speed to power, ability to get online and get a grid interconnection faster by using Emerald?
+
+**Expert** [00:15:03]
+I know you explained it all, everything but I just wanted to try to understand which one is the question. What is the question here?
+
+---
+
+**Client** [00:15:12]
+The question is from your perspective, if there is a data center that is trying to go online with 100 MW and they're willing to curtail their power each year, during grid stress environments versus another data center that says, "Hey, I need 100% uptime or 99.999% uptime." Does the data center that's willing to curtail their power demand, is that a more attractive customer for a utility? Are they more willing to bring that person online faster for a new data center build?
+
+**Expert** [00:15:44]
+Definitely yes, because the data which resides in the high power, high GPUs data center, if that is there but I'm sure that interaction, the interconnection of the grid with them will be more. I don't know whether it will be very cost-effective or not, but they will be the first priority to connect to the grid.
+
+---
+
+**Client** [00:16:01]
+Got it. When you're looking at these service level agreements, are most data centers willing to curtail their power or are you seeing that most of them need the 99.99% uptime?
+
+**Expert** [00:16:12]
+That is their first requirement. They have always wanted their data center up for all the time. Customer is our priority. We have just on electric side, eight million customers. Those are our priority. We always ask the data centers for the emergency because if something happens on the ground, the repair and maintenance, we are not able to repair that in 24-48 hours. Those rate case increase will going to affect us. If we give all the power to the data center, then the rate case for these eight million customers to the state regulatory compliances will not going to get approved. That is our main priority.
+
+That is why we ask data centers, wherever the jobs are not necessary, based on the usability, they should determine which jobs can be the training jobs, the AI training jobs can be reduced from the GPU perspective. As soon as the peak load goes off or the event goes off, then you can use the full load on the data center from the grid. That is always back and forth with lot of documentation needs to be filled from grid center to the data centers and all those things. Data centers sometimes are very aggressive in terms of, "We need the power." Also nowadays, there is in the Massachusetts example I am giving, regulatory compliances are set up for this back-and-forth activity with the utility company and the data center directly. That customer is a priority and secondary is to fulfill the data centers interconnection with the grid.
+
+That is my take from that because I have seen the tussle between the utility and the data center and as an architecture lead, we are always into that discussion because utility company also wants to make the money from the data center and that is why they are creating 10 MW of electricity from this grid modernization so that they can support multiple data centers on the 10 GW, the power plant capacity thing.
+
+---
+
+**Client** [00:18:11]
+Got it. You talked about the fact that the pilot right now is about 100,000 customers. What would that expansion look like and what would need to go right in order for you all to feel like you would move past a pilot and into a full deployment of Emerald?
+
+**Expert** [00:18:29]
+Next is the 500,000 and then the third stage is the one million customer. As this goes smoothly and without any latency and millisecond is tolerable. If we are seeing that it is the spatial flexibility and we are not able to run those high demanding apps like the outage management, the investor relationship management app, those apps and we have to do a lot of troubleshooting on doing that then we need to take some action from that point, why these are taking a long time.
+
+If we fix this one at one point, because there was a case which I wanted to tell you that there was a training job for the investor relationship management and there was another training job for inspection reports. That the field service representative can get the inspection report from that data center training jobs. We have several thousand inspection reports. In order to get that particular inspection report for that particular point in the construction and maintenance work, that is a task. Once it got moved to the different data center, even though that was a high-powered one, still we were seeing the latency line because these ground staffs are not that educated, they are not having that much patience because they are working in the ground and they want quick result.
+
+Even a fraction of seconds delayed uploading all the data on their iPad, they were raising the ticket on the Jira tickets like, "This app is not working, that app is not working," and all and then because behind the system, they are not able to understand what is going on, that is what we are putting a lot of efforts, if we fix the transition of one app from one data center to another data center, as they are quoting the spatial flexibility, once we fix that, why other data apps were not able to smoothly transition to the other data center and why we are seeing the latency.
+
+We have several apps, we have a lot of apps in the utility company to satisfy a lot of reports, like the filing reports, regulatory filing reports, and all those things from several years, because a utility company keeps those records from the decades also. That latency was affecting us but hopefully their team is also working behind the scene why this latency is happening. We have the cybersecurity people from our company also involved in it because they are always reluctant to move the document from one data center to other. That was, as I mentioned earlier, that was our one of the implementation challenges for the trust and ownership of the data.
+
+---
+
+**Client** [00:20:57]
+Got it. Last couple of questions for me here. If you were to roll this out and everything continues to improve, are you replacing another vendor in this space? Is this a new type of solution? Is there anything else that this overlaps with, that you think someone else can compete in this space against them longer term?
+
+**Expert** [00:21:19]
+There are companies who are working, like ABB is working on the similar type of solution because we are changing our AMI meters also. That will also fall into the Internet space because it will get connected to the Internet. They are working on this solution where the signal can be sent to the one mediator platform, and then it gets to the data center. As I said, we also evaluated four other companies apart from Emerald AI. In the utility space, when some companies entered like this, the AI companies, then either they get bought by the bigger player or they build the solution like this. Right now, there is no one who is promisingly telling us that they can optimize the electricity workload between the data center and the utility company.
+
+That is the reason, at this stage, nobody is able to replace them. Down the road, I have seen the companies were getting wiped out from the utility company contract because some other bigger player has developed that kind of a solution because they have a massive manpower and all. These kind of solutions, we have not seen any ABB, Siemens or other companies like the Schneider Electric and all. They are not able to develop this solution. Whenever we were in the meetings and all, we always tell them, "This is the solution, is getting developed." They are also aware of that. For bigger companies, it has to go through a lot of protocols, policies, permissions, and all those things.
+
+Before hiring Emerald AI, before going through them for eight months of due diligence with them, we have presented this kind of a business need to these big companies. None of them had the answer because they had to go through a lot of protocols, policies in the company, and then the solution will get developed in two years timeframe. We didn't want to wait for two years, that is why this company came into the picture, where this is a small company and where all these protocols can be overcome, and they can directly focus on satisfying the business needs.
+
+The business need was, down the road for five years, grid modernization will be very strong and we need to prepare for that kind of heavy load on the grid based on the dataset or the electricity requirement for the different data center which we want to power up or the number of customers. Footprint will go to increase after the merger and acquisition process as well.
+
+---
+
+**Client** [00:23:46]
+Got it. Last thing for me is just getting an understanding of the NVIDIA partnership. Do you have any perspective on that? It seems like they are working really closely with NVIDIA. NVIDIA is also invested. Does that carry any weight from the utility perspective? Does that matter? I know that matters for the data center side.
+
+**Expert** [00:24:10]
+Yes, for us it does matter because we know that there is a partnership between Emerald AI and NVIDIA. In order to remove the latency in their spatial flexibility approach, they need to increase the GPU power. When they are moving that temporarily, that AI training job to the other data center, the GPU power needs to be increased. That is the reason we were also very thoughtful. All this latency what we are receiving, just the fewer number of customers this latency happens. Let us imagine if we load them with eight million customer footprint grid, then how much latency will go to happen? That partnership increases the GPU power and the GPU hopefully, will go to help us to take that application live on the internet without any latency. That was our presumption with them.
+
+We have also explained the NVIDIA also, because we wanted to have the grid reliability improvements because whatever the partnership they are working with, it should reduce the risk of overloads and improve the system stability. That is where the eight million customers will jump into the system for their full contract, then we wanted to have some sort of stability. We needed that kind of proof from the NVIDIA and the Emerald AI that we need some sort of study done whether are you able to sustain those eight million customers. Can you create eight million example customers and create the data for them and see whether you are facing that kind of latency or not.
+
+NVIDIA also needs to improve the system stability. That will help us force shutdown of any apps into other data center. Also, we were expecting from this partnership the faster data center interconnection which allows utilities to connect large AI loads with less immediate infrastructure expansion. That really helps and it also reduces the pressure on transmission and substation upgrades because if you want to fulfill their requirement, then we have to increase our transmission capacity and the substation upgrades. That will not going to happen right away. It takes four or five years for these kind of things to happen. Faster data center connection will reduce the pressure on the transmission distribution lines and the substation upgrades.
+
+We also requested their partnership to give us the demand response capability. The AI algorithms working behind the scenes can be adjusted for the utility signal. As soon as we send the signal, the utility sends the signals, so their algorithm needs to be adjusted based on whichever data center they are taking the AI training job from one data center to another. It creates a new flexible demand resource for them. The data center can participate in grid programs and receive incentives for removing these latencies. When we spoke to them, their partnership, we also focused on carbon reduction. With the carbon reduction which helps run the workload, like when cleaner energy is available because we are using different renewable resources for energy production.
+
+Whenever the clean energy is available, then we are able to send those to those data centers. This approach will support the decarbonization goal. If you read all those things, the decarbonization goals will also be supported and we will be able to get that kind of an incentive from the state regulatory compliances when we file the rate case. That helps this decarbonization. It also helps meet the sustainability target for the longer run for the grid to send signals to the data center. Also, there is another factor we discussed with their partnership, like energy cost optimization because we needed that report from them which Emerald AI did not have when we were doing the pilot project because the real-time pricing signals for optimized consumption will be very important down the line for the incentives.
+
+It also improves, when this approach will be converted into some sort of a market, then it improves the market efficiency by reducing the operating cost. I already told you about the peak load reduction because that will help shift non-critical loads away from the peak period. Their partnership in this sense will also reduce expensive peak generation requirements. It will provide low electricity cost because if we send all this power to the data centers, then eventually the cost will going to affect on the customers also. Without affecting the customer cost and satisfy the regulatory compliances, it will help us to further rate case increase down the road. We discussed with their partnership with NVIDIA, for the grid reliability and reducing the operating cost and also their sustainability, working with the grid and the data centers.
+
+---
+
+**Client** [00:28:59]
+Got it. This was a really insightful call. Thanks so much for taking the time to walk me through everything. I really appreciate it.

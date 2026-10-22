@@ -1,0 +1,276 @@
+---
+theme: "Energy & Grid"
+title: "DIB Chief Architect at Microsoft Sees Sustainable Energy and Partnerships as Key to Azure's Future Data Center Strategy"
+doc_id: EC-1000000-146812
+source_line: "Crusoe · Expert Call · Customer · 29 Oct 25"
+date: 2025-10-29
+company: "Crusoe Energy Systems"
+pages: 2 of 2
+saved: 2026-10-19T16:58:21.382Z
+url: https://research.alpha-sense.com/search?search_id=tmp-0pnbg1kc8uodovl7vbczkp&sort=RELEVANCE&order=DESC&docid=EC-1000000-146812
+---
+# DIB Chief Architect at Microsoft Sees Sustainable Energy and Partnerships as Key to Azure's Future Data Center Strategy
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+29 Oct 2025
+
+INTERVIEW DATE
+
+31 Jul 2025
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Crusoe Energy Systems
+
+SMART SUMMARY
+
+Summary
+
+The interview covers the challenges and strategies around data center energy sourcing, sustainability, and partnerships, with a focus on the evolving landscape for hyperscalers. Topics include power constraints, renewable energy initiatives, the role of new entrants like Crusoe, and the exploration of nuclear power solutions.
+
+EXPERT BACKGROUND
+
+- Chief architect at a major cloud provider with nearly seven years of experience, focused on AI data center strategy, procurement, energy strategy, and sustainability initiatives since 2021.
+
+EXPERT SENTIMENT
+
+- The expert is optimistic about the industry's ability to innovate and address energy and sustainability challenges, but acknowledges significant ongoing constraints, particularly around power availability and equipment lead times.
+- They believe the power shortage for data centers will persist for at least the next four to five years, requiring continued multipronged strategies and partnerships.
+
+TAKEAWAYS
+
+- Energy availability is the primary constraint for data center expansion, with grid connectivity often taking 8-9 months and significant investments in on-site generation (solar, wind, hydrogen, geothermal, microgrids, and battery storage) to bridge gaps.
+- Sustainability is a core goal, with commitments to be carbon negative and water positive by 2030, driving the adoption of renewable energy sources, water recycling, and innovative cooling methods.
+- The company employs a multipronged approach to energy sourcing, including direct and indirect power purchase agreements, on-site generation, and microgrids, to ensure reliability and price stability.
+- Crusoe, a former crypto mining company, has successfully pivoted to AI data centers by leveraging stranded natural gas and vertical integration, making them an attractive partner for hyperscalers due to their speed and direct power access.
+- Nuclear energy is being explored as a future power source, but regulatory and supply chain challenges remain; partnerships and investments are ongoing, but adoption is still in early stages.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction And Expert Background
+
+Data Center Challenges And Solutions
+
+Data Center Construction And Power
+
+Partnerships And Energy Strategies
+
+Future Of Power And Nuclear Strategy
+
+EXPERT BIO
+
+DIB Chief Architect at Microsoft, a customer of Crusoe Energy. The expert can speak to Crusoe Energy at a high level due to having a close partner relationship with them.
+
+DIB Chief Architect at Microsoft. Reporting to the Chief Technology Officer, the expert is responsible for driving innovation and strategic adoption of emerging technologies, overseeing solution architecture across the Defense Industrial Base sector, and ensuring alignment with security, compliance, and identity standards. The expert leads cross-functional teams on cloud and multi-cloud projects, working closely with government clients to deliver scalable, secure, and compliant solutions. The expert plays a key role in AI data center strategy, including gray and white space power design, procurement coordination with EPCs, and maintaining grid reliability and capacity for large-scale infrastructure.
+
+The expert has implemented and can speak to a broad range of technologies including Azure, AWS, Office 365, SharePoint, Dynamics, Logic Apps, BizTalk, Business Activity Monitoring (BAM), cloud infrastructure, security compliance, identity management, and enterprise integration patterns.
+
+Additionally, the expert has extensive experience evaluating and piloting security and data management solutions such as Filigran for triage, incident response, and threat hunting workflows; Netskope One platform with deep integrations into Microsoft security tools like Purview, Sentinel, Entra, and Security Copilot; and is familiar with IBEX’s AI and automation initiatives across regulated industries.
+
+The expert has worked with developer and cloud collaboration tools including Gitpod, CodeSandbox, Replit, and Codenvy, evaluating and implementing these solutions internally and with customers, focusing on integration, language support, and collaboration capabilities.
+
+On AI security, the expert uses and evaluates tools like Lakera, ProtectAI, and HiddenLayer to address challenges around large language models, including fine-tuning, prompt injection prevention, and model drift, having deployed these tools extensively over the past three years.
+
+The expert is also experienced in large-scale data center power infrastructure design and procurement, working with substations, microgrids, and energy storage systems, supporting Microsoft’s ESG goals, and ensuring operational excellence in data center environments.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Really excited to get to chat with you. Would love to hear more about your work and background. Where are we coming from? I am just wanting to talk to more folks, especially at the big clouds. I feel like a lot has changed in the world of data centers and energy and AI. Would love to pick your brain about a bunch of different things. Maybe we just start with your background. What do you do? Who are you?
+
+**Expert** [00:00:24]
+Yeah. I'm a chief architect at Microsoft. I've been here for six and a half years. It'll be seven years in November. Originally brought on board as a principal cloud solution architect focused on Azure infrastructure, and then I was promoted to chief architect back in March of 2021.
+
+What chief architects do, we are the complex problem solvers. Anytime that Satya or Amy or Mark or Kevin or Judson or any of those folks really have a question about what's our vision for this space, what's our strategy for this space, our job is to figure out what that vision and strategy should be and then build a plan around it, orchestrate on that plan and then decide how to work within Microsoft or work with our partners or our vendors to make sure that we've got services in place. We get to tackle the very complex problems, which is very fun. It's rewarding. Every day, I get something new on my plate.
+
+I would say since March of 2021, been really focused on AI, our AI data centers, our AI data center strategy build-out. I work through procurement. I write a lot of the RFIs and RFPs, and then I work with teams like energy strategy, energy operations, our ESG office, work with compliance and things like that to solve some of these problems. Definitely could talk about energy and all the constraints that we have with data centers and some of the stuff we're doing to address it as well.
+
+---
+
+**Client** [00:01:55]
+Awesome. Maybe a good start would be at a high level, what are your number one, number two priorities? What do you see as the biggest goals, bottlenecks, whatever? What's top of mind as it relates to data centers and data center strategy at Azure?
+
+**Expert** [00:02:10]
+I would say probably the number one constraint is energy is what it comes down to. Majority of the cost of operating a data center is power. When it comes down to it, we just can't simply get power fast enough. Average time to get connectivity to the grid is about nine months for most of our projects, and that can be we're building 115 data centers a year, which is basically one data center every three days. When it comes down to eight months, nine months to get connectivity to the grid, that can be a huge thing that really slows you up.
+
+We've built out projects that do on-site energy generation. We've got solar, we've got wind, we've got hydrogen fuel cells, we've got nat gas turbines, we've got geothermal, and then we've got microgrids. We also have BESS, backup energy storage system. What we're able to do is really we can generate enough electricity. We generate basically about 80 MW-90 MW of power on site while we're waiting for connectivity to the grid, and then that connectivity to the grid gets us to 350 MW, 400 MW, whatever it is that we need to power that individual building.
+
+I'd say the second biggest challenge would probably be, man, there's a lot of other challenges, I would say the lead time with equipment when it comes down to substations, when it comes time to transformers, when it comes down to any of the power equipment. Power equipment usually has a significant lead time. GPUs are obviously still in high demand, but just a lot of that stuff.
+
+Honestly, the industry is doing a lot to address all that. You've seen more advances in fiber optic technology in the last five years than I've seen in the last 15 years. I've seen a lot of advances in power and liquid cooling to address the thermal dissipation and things like that. It's exciting time to be building data centers, but there's a lot of challenges when it comes to building data centers.
+
+---
+
+**Client** [00:04:05]
+How are you approaching the power problem? What's your thinking? What are you trying to solve in-house? If you're looking to partners, who's top of mind? Tell us about maybe the proposed solutions.
+
+**Expert** [00:04:19]
+Yeah. We've got a multipronged effect. By 2030, we've got a goal to be carbon negative and water positive from a sustainability standpoint. All the data centers we've been building since 2020 have really been aligned with those goals because frankly, it's the right thing to do. As Brad, our president says, there's no sense in building data centers that are going to warm up the planet and cause natural disasters, which will kill our customer base, because then we would have no customers. It's all about what we can do to help be water positive and carbon negative and really make sure that we are good citizens.
+
+A lot of the energy strategy is multipronged. We negotiate power purchasing agreements with a lot of independent power producers or IPPs, and we've got both direct and indirect PPAs and we keep signing those. You definitely can get some grid reliability and get grid sustainability, but you also get pricing stability too. As power rates fluctuate as they are in many areas of the country this summer, we're locked in at different percentages.
+
+All of those energy technologies that I was talking about, all of our new data centers have solar panels on the roof, and we've got agreements with cooperatives to build wind farms and things like that. We're invested heavily in wind energy. As a lot of those turbines go up, we have their ability to buy that renewable energy directly from them at a pre-agreed price.
+
+With regards to geothermal, a lot of our data centers too are near water supplies and water. If you go underneath the Earth, the Earth is naturally about 52°C, 53°C if you go 100 ft down. What we can do is use geothermal energy to cool our data centers, and therefore we don't have to run a lot of electricity. We just basically pump the hot air down and then it gets naturally cooled and then it gets pumped back up as cool air.
+
+We also have water. We used to do refrigerants, but now we've gone to a lot more water. If we have the ability to, we'll use groundwater or we'll use wastewater and then we can run it through our data centers and use that for liquid cooling. As it heats up, it will evaporate, we recapture that, we clean the water, and then we return that clean water back to the water supply. We're functioning as water treatment plants in many of our data centers too, which helps us to reduce our energy consumption there.
+
+The other stuff too, building out microgrids, that's really a great way to build small independent power grids at our data center site so that in the event that the grid actually goes down, the larger electric grid, we still have the ability to operate at a limited capacity and provide data center capabilities even though the customers might be without power. Therefore, we're not hogging the grid and we're not being bad corporate citizens.
+
+Those BESS, energy storage systems, those are gigantic batteries. One of the reasons that's really important is that in the past we had diesel generators that would heat the planet. Even though we didn't use them, we would have to test them every week, and then you have to keep diesel fuel nearby and you got to ship diesel fuel in and take care of it and things like that.
+
+With a lot of these BESS systems, what we're able to do is at night, when power is cheap from the grid, we can charge them up and then during the day, we cannot really go off the grid, we can just discharge those BESS systems. Therefore, we're doing price hedging and making sure that we're able to guarantee longevity through just having massive battery packs. The next part is all that stuff is tied in the microgrid to those BESS systems. We can go three full days without power connectivity to the grid before it becomes an issue.
+
+Like I said, a multipronged approach, but then a lot of the companies that we're partnering with in data center construction, that's part of the agreement is from a sustainability standpoint, we're only building data centers that use sustainable energy, use sustainable technology, and things like that. As we progress and continue to build data centers for the next four or five years, it's making it so that we're able to leverage a lot of our lessons learned and grow much more rapidly than our competitors.
+
+---
+
+**Client** [00:08:39]
+Maybe tell me about who in the industry is doing a good job of securing power or winning these data center construction contracts.
+
+**Expert** [00:08:46]
+There are three buckets typically when we build the data center. There's construction of the actual physical facility, and that's the powered shell. That's your actual building and build-out. The next bucket is basically all things power. That is your connectivity to the grid, that's your substations, that's your transformers. That's also your HVAC and things like that. The third bucket is typically what we call furnishing, so any of the equipment, any of the GPUs, any of the AI clusters inside. Which of those three buckets did you want to know about?
+
+---
+
+**Client** [00:09:19]
+Sorry, could you just summarize the three buckets again?
+
+**Expert** [00:09:22]
+One is construction of the building. The next one is all things power. The other one's all things power, HVAC, and plumbing. It's actually mechanical, electrical, and plumbing. The third bucket is furnishing, so all of your racks, all your AI clusters, all your HPC clusters, things like that.
+
+---
+
+**Client** [00:09:44]
+I think interested in the first two, power and the actual construction. One thing I'm trying to learn more about is we've come across this burgeoning company called Crusoe, which seems to be partnering notably with Oracle, but maybe with other folks. I'm trying to understand, if you are a major hyperscaler, would you consider working with a company like that and what is the existing landscape of needs? I'm just trying to understand why that works in a sense.
+
+**Expert** [00:10:11]
+Yeah. Crusoe's model is to use flared natural gas to power AI data centers, and that really aligns with our broader goals of carbon reduction and energy innovation. When it comes down to sustainability, they are really leading the way to use nat gas to spin turbines. As soon as you do that, you're able to generate many, many hundreds of megawatts of power off of clean natural gas. Crusoe, the facility they're building down in Abilene, it'll be leased to Oracle and it's going to be fueled in such a way that it meets our carbon capture, and it meets our sustainability goals.
+
+---
+
+**Client** [00:10:45]
+How are you working with them today?
+
+**Expert** [00:10:48]
+Well I can say Peter Thiel has put $500 million into an investment with Crusoe to build that, and they've got a number of other funding, what is it, a $3.4-billion joint venture with Blue Owl Capital. Once they build that, it's going to be leased to Oracle and then it may or may not be subleased to Microsoft and OpenAI as part of the Stargate project.
+
+---
+
+**Client** [00:11:11]
+Right. Microsoft is actually involved in that project also.
+
+**Expert** [00:11:15]
+We've committed to the Stargate Initiative with the U.S. government, and Oracle is part of that, OpenAI is part of that. Really, what it seeks to do is provide ubiquitous AI for the United States and whatnot. As I said, as part of sustainability commitments, what we want to make sure is that if we are in a relationship where we are a tenant in one of their data centers, we want to make sure that it aligns with our sustainability goals.
+
+---
+
+**Client** [00:11:41]
+I see. Why would both Oracle and Microsoft need to be involved in the same project? Don't they do the same thing for these data centers?
+
+**Expert** [00:11:50]
+We have different approaches. We definitely compete with Oracle on some aspects, but we're also partners with Oracle. While we compete with them from a cloud standpoint and we compete with them at the database standpoint, we don't compete with them on financials, we don't compete with them on HR software, things like that. We partner with them on a lot of that stuff.
+
+What it comes down to is, and originally, when we announced our partnership with OpenAI too, Oracle said they were never going to really get into the AI market and they were never going to spend the capital and CapEx that we're spending, which is $88 billion a year, to build data centers. Since then, they've changed their tunes and they decided to start building more data centers. I will say that AI data centers, they're a lot more expensive than your traditional heterogeneous data centers. They've gotten into that business, and they realize the power of the cloud and then the power of AI.
+
+Our partnership with OpenAI is still strong, but what we really did is pivoted and realized we were investing a lot of money in OpenAI for intellectual property, and we were also building them data centers. What we decided to do is say, "You can either have one or the other, you can have the money or we can build data centers for you, but we're not going to give you both," because they're really focused on those frontier models.
+
+They picked the money. Now we're not really building data centers for OpenAI. We're giving them money so that they can choose to work with Oracle to build those data centers with Crusoe, and then we would take the access to the IP and still be able to use our partnership with OpenAI in those data centers.
+
+---
+
+**Client** [00:13:32]
+In some sense, on a super rational level, it doesn't make sense to me that Crusoe should even exist as a company here. What have they done that's given them opportunity, that each of the largest hyperscalers in the world are happy to work with them, despite this also being their bread and butter and main focus?
+
+**Expert** [00:13:52]
+That's a great question. I would say Crusoe was originally a crypto mining start-up. I don't know how much you study crypto coins, crypto mining and things like that. Those are incredibly power-hungry operations, just like AI is, but really that has a finite business model. Once you find all the Bitcoins out there, once they've all been discovered and the more Bitcoins you find, the higher the value of Bitcoins go, there's no more Bitcoins to mine.
+
+At some point, you as a crypto miner are going to go out of business versus AI has the opposite growth trajectory where the more you put AI out there, the more data it generates and then the more data you have to generate more data. With quite the opposite, it has a better growth potential.
+
+We've been working with a number of those crypto miners out there who have just realized as the cost of power has gone up and as the cost of maintaining those GPU rigs has gone up, they're making less money and they're being squeezed from a top and a bottom line. For Crusoe, it's a strategic pivot to decide, "Hey, let's not really do crypto mining anymore, let's actually build AI data centers and then make sure that we've got a steady revenue stream that will continue to grow over time."
+
+---
+
+**Client** [00:15:07]
+Is that pivot challenging? Is that a trivial thing to do and everyone's figured it out or is that super hard to do? What's your sense?
+
+**Expert** [00:15:15]
+I would say it is definitely challenging. I would also say that there have been several companies that we've worked with to do it. We definitely have a strategy and we've got a playbook for doing it. It's not easy, but it definitely involves investments in, there's financial and CapEx improvements, there's investments in liquid cooling, there's investments in sustainable energy, things like that. A lot of those crypto miners didn't negotiate PPAs. They really didn't understand the need to update equipment and keep it relevant. It's challenging, but you can pivot from it and it will definitely move from a finite business model to one where it's a growth-based one.
+
+---
+
+**Client** [00:15:53]
+Is that a compelling proposition? If Crusoe comes to you and they're like, "We have this, whatever, we've found 500 MW of power in Texas," is that a no-brainer or how do you think about that decision process?
+
+**Expert** [00:16:06]
+Yeah. We will take power wherever we can get it, but it has to be sustainable energy too. In the state of Maryland, the cost of electricity has gone up significantly because the state has turned off a number of coal-based power plants. There's less supply out there, which has driven up the cost of energy. People are really complaining about how these data centers are coming here and they're eating up all the grid. When you look at it, if you're a data center operator and you can say, "Hey, we're only using sustainable energy," it definitely makes less the case that you're being a grid consumer, that you're paying your fair share as well.
+
+We do take power wherever we can get it. That's why we have been investing in alternatives to coal and to carbon-emitting sources for quite some time. Honestly, there's only so much coal that you can mine and there's only so much other carbon-emitting sources that you can pull from the ground like oil and things like that to burn, and then you'll run out of it. Sustainable energy is just that. Yes, the wind will stop blowing at some point. You can use that and the sun will go down, but then you also have geothermal and things like that. Having a multipronged approach allows you to get energy from multiple sources.
+
+---
+
+**Client** [00:17:19]
+Is there a particular reason why a company, be it Crusoe or others, have better access? How are they able to find power better than other people? That also doesn't make sense to me.
+
+**Expert** [00:17:31]
+What do you mean that they're able to find it easier?
+
+---
+
+**Client** [00:17:33]
+It just seems like in some way, they're creating these opportunities in which they're going to hyperscalers and saying, "Oh, we have this much power in this site and why don't we work together on a data center?"
+
+**Expert** [00:17:46]
+Okay. From a power sourcing standpoint, they do stranded energy utilization, so flared natural gas at oil sites and they convert that to usable electricity for flared natural gas. They're not actually burning oil, it's natural gas, which has much lower carbon emissions. They have on-site power plants. Rather than building a power plant looking through like an IPP, they build their own power plants on site, and they operate those power plants adjacent to the data centers. Therefore, you can do what's called behind the meter and you get direct access to the power generation. You don't have to pay to go across the grid.
+
+They have a partnership with GE Vernova and they do aero-derivative gas turbines. With each one of those, you get one GW of low emission power. They also have a very fast ramp-up capability. If the grid goes down, those turbines could be up and running in five minutes, which is great. They also use a technique called selective catalytic reduction that reduces emissions by 90% compared to a diesel generator or a traditional oil. Again, very environmentally efficient.
+
+Also, they are vertically integrated, so they control the full stack. They control energy generation, they control data center construction and cloud services. They know exactly how to build for exactly what the energies needs to be consumed in the data center. Therefore, they don't really have to go for permits, they don't have to work with multiple different organizations. It's all one fell swoop. That's why hyperscalers like Microsoft, it comes down to it is that they can work fast and that we're guaranteed power on site.
+
+We have a nuclear program that we're working on right now and that's because we want to generate power on-site using small to midsize nuclear react. Existing nuclear facilities, we've got the Three Mile Island plant, but it takes on average 18 years to build a nuclear plant. If you can have a company that's generating power on site at your data center and you're the exclusive consumer of it, that's a huge win.
+
+---
+
+**Client** [00:19:47]
+What is your nuclear strategy? How do you think about what the likely future is there in the U.S.?
+
+**Expert** [00:19:53]
+It's been coming along for some time. Really, the interesting part is working with the Department of Energy and some of that where they've got procedures for companies to build nuclear power plants, but it's like, "Hey, I want a small to midsize nuclear reactor to run. I'm not going to provide power to the grid, I just want to run it. I want to have a micro reactor that I'm doing for my data centers." They've got no playbook for that, they've got no regulations. They're trying to figure out what they're going to do with that.
+
+We've been partnered with Constellation Energy in the Three Mile Island one. We buy clean energy credits from Ontario Power Generation, and we've also invested in Helium Energy for a fusion power plant for our data centers through fusion-based. We've been really keen on what the Chinese government has been doing with salt-based nuclear reactors because they're safer. You basically will never have a meltdown. Honestly, the other part with nuclear is that those SMR reactors can be deployed on site or nearby and so you're not dependent upon the grid. The challenge you have though are uranium.
+
+If you ever need to get your hands on uranium, it's not exactly easy. Regulatory complexity, it's just like working through Department of Energy and working through the regulatory bodies is tough and all those people. If you think people don't like data centers, wait until you tell them like, "Hey, we're going to put a nuclear reactor there too." That's one of those not-in-my-backyard approaches. The cost of them are still emerging. There's usually cost overruns and things like that too. That program is going along pretty well and we've been working on some good developments, but again, that's just one prong in a multipronged approach for providing power.
+
+---
+
+**Client** [00:21:38]
+Right. Should we assume that Microsoft will naturally work with TerraPower given the Bill Gates connection, or is it an open field and you'll try anything and everything? How do you see the market evolving?
+
+**Expert** [00:21:49]
+We don't work with TerraPower now, even though it is strong ties to Bill Gates at the same time. We have no commercial relationship with them. Even though he founded TerraPower, things like that, it is something where they have been working on molten salt and high-energy storage. Right now, we've taken a look at their nuclear reactor in Wyoming that they've been working on and that's supposed to come online by 2030. If that is something where that does tend to work out well, or if it's commercially viable and scalable, then it is something that we would work with them in the future. Right now, they have to prove it out.
+
+---
+
+**Client** [00:22:26]
+Going back to the data center thing, maybe three years from now or something like that, is your expectation that this power shortage will continue or how do you think the landscape evolves here in terms of where there's shortage, where there will continue to be shortage? How should we think about the hyperscalers' demand for in-housing things versus working with partners?
+
+**Expert** [00:22:47]
+It's going to definitely continue. It's getting better. I will tell you it's going to continue for the foreseeable future, for the next four or five years until we can get more sustainable energy, until we can get nuclear power reactors, until we can get access to broader forms of power as well.
+
+---
+
+**Client** [00:23:03]
+Awesome. Thanks for the call. Have a good one.

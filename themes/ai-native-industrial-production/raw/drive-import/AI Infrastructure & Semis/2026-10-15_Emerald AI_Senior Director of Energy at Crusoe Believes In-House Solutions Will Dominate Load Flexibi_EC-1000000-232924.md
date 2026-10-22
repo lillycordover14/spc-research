@@ -1,0 +1,297 @@
+---
+theme: "AI Infrastructure & Semis"
+title: "Senior Director of Energy at Crusoe Believes In-House Solutions Will Dominate Load Flexibility Market for Data Centers"
+doc_id: EC-1000000-232924
+source_line: "Emerald Ai · Expert Call · Customer · 15 Oct 26"
+date: 2026-10-15
+company: "Emerald AI"
+pages: 2 of 2
+saved: 2026-10-19T16:43:54.574Z
+url: https://research.alpha-sense.com/search?search_id=tmp-0pnbg1kc8uodovl7vbczkp&sort=RELEVANCE&order=DESC&docid=EC-1000000-232924
+---
+# Senior Director of Energy at Crusoe Believes In-House Solutions Will Dominate Load Flexibility Market for Data Centers
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+15 Oct 2026
+
+INTERVIEW DATE
+
+17 Jul 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Emerald AI
+
+SMART SUMMARY
+
+Summary
+
+The conversation focused on the challenges and opportunities for data center operators in securing power and managing load flexibility, particularly in the context of third-party solutions like Emerald and the dynamics of buy versus build decisions. Topics included technical feasibility, market timing, data sensitivity, and the impact of industry partnerships on adoption.
+
+EXPERT BACKGROUND
+
+- Senior Director of Energy at a leading data center operator with direct experience in energy procurement, grid interconnection, and operational optimization for AI and cloud workloads, including evaluation of third-party and in-house software solutions for load flexibility.
+
+EXPERT SENTIMENT
+
+- Believes that while third-party solutions like Emerald offer value, most large data center operators and hyperscalers are likely to build their own in-house solutions due to data sensitivity and operational control.
+- Views the current market window for third-party solutions as limited (6-12 months), after which in-house development will become the norm as grid constraints intensify.
+- Sees partnerships with major chip providers (e.g., NVIDIA) as a potential differentiator for third-party solutions, but not a guarantee of long-term market dominance.
+
+TAKEAWAYS
+
+- Inference workloads have less flexibility for curtailment than training, but some flexibility is still possible, especially for AI labs willing to accept lower availability in exchange for lower costs.
+- Spatial flexibility (moving workloads between regions) is technically feasible but complex and costly; most AI labs will likely accept some curtailment rather than rely on this approach.
+- Data sensitivity and the need for access to GPU and workload data are major barriers to adopting third-party solutions like Emerald, making in-house solutions more attractive for large operators.
+- The market for load flexibility solutions is expected to grow rapidly as grid bottlenecks worsen, but this will also drive more operators to develop their own software rather than rely on third parties.
+- Partnerships with chip providers (e.g., NVIDIA) could provide a distribution advantage for third-party solutions if embedded at the hardware level, but the long-term customer base may shift to smaller operators and AI labs if hyperscalers build in-house.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Initial Discussion
+
+Build vs Buy Considerations
+
+Utility and Market Dynamics
+
+Emerald AI's Market Position
+
+Future Outlook and Closing Remarks
+
+EXPERT BIO
+
+Senior Director, Energy at Crusoe The expert is partnered with Emerald Ai and knowledgable of the software.
+
+Senior Director, Energy at Crusoe. The expert is responsible for overseeing deal structuring and M&A deal flow management, project management, with energy developers, sellers, and buyers, mostly focused within the US. The expert reports to the VP of Energy & Infrastructure Development, 2 levels removed from the C-suite.
+
+The expert can speak about Applied Digital and other competitors: Meta, Microsoft, Google, Amazon, Apple (the hyperscalers), OEMs like Nvidia, AI companies like OpenAI and Anthropic, and traditional data centers like Vantage. The expert has deep expertise in fuel cells, SOFC, nuclear tech, SMRs, power demand from data centers, etc.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Hi. Thanks for taking the time to talk with me. I am interested in learning more about how data center operators get faster speed to power, and Emerald specifically, including whether service level agreements allow curtailing demand for latency-sensitive workloads like inference. Could you start by walking me through your background and where Emerald sits in the market?
+
+**Expert** [00:00:22]
+Let's dive in. I think to your first question, I think you are right, or you are spot on. It's definitely inference is going to have less flexibility by definition. Training is much more suited for that flexible workload. However, I have done work even for inference-based data centers where there is a certain level of flexibility the off-taker can accommodate, and especially true with AI labs. When I talk to hyperscalers, they still want at least three nines, four nines, and so this action model does not work for them.
+
+It's also super sensitive. We can talk about that, how sensitive it is to give access to this data and this access to a company, to a third party like Emerald, and that will drive the future I see for the company, for their company. Just to stay on this topic, the first question, AI labs can accept 99% of availability, and that is enough to accommodate the 1% of peak events where you are going to shed your load. You could do that with a software like Emerald AI. You could do also with in-house solutions, potentially. I wouldn't fully discard flexibility even with inference.
+
+I think those companies are more focused right now, especially Anthropic and OpenAI, more focused on unlocking more compute capacity than a full, super reliable service. To be honest, if you have used Claude, then you probably have noticed that the availability of Claude is not 100%, but I think they just favor expansion rather than super reliable service. If it comes at a lower price overall, they are going to go for it. They are pretty sensitive to pricing currently in terms of because they need so much compute. That's the gist of it, and you will have to remind me your other questions, but that's the status on the appetite for flexibility, even for inference workloads.
+
+---
+
+**Client** [00:02:24]
+Just double-clicking there then. On the flexibility side, what they say they can also do, instead of curtailing they will say, "We will have spatial flexibility, so if you are calling upon a data center in Northern Virginia, we will move that down to ERCOT during those grid stress environments." I can't tell if that is a real solution or if that causes a ton of latency. Do you think that works instead of curtailing power, especially for those more latency-sensitive workloads?
+
+**Expert** [00:02:52]
+Google is doing so, it works. It's just very complex. Google has been doing that for some of their loads where it can manage to have this flexibility. They are doing that pre-AI. For workloads that were more latency sensitive than inference. If you look at the regular cloud, it's even more latency sensitive than even an inference. You don't want to wait even one second for your streaming or whatever. Google has been doing that. It's proven, it works. It's just more complicated, drives up cost, and so I don't think that is really a viable solution for a company like Anthropic, which in my eyes is probably the more suitable.
+
+The AI labs will probably embrace a solution like Emerald AI faster than the hypers. There are a couple of reasons. NVIDIA is very tied to Emerald AI, and there are some partnerships-driven things here. I think ultimately, instead of over-optimizing from a spatial basis, they are just going to accept some curtailment for some of their inference workloads. They are going to try first, obviously on their training campuses. That's what I see happening in the near term.
+
+---
+
+**Client** [00:04:14]
+The other thing that we are definitely thinking about is all the hyperscalers, even Crusoe as well, you guys all have the talent to build this in-house. You very much could if you wanted to. What is the buy versus build perspective for you guys? How have you been thinking about it? It would be great to get your perspective there.
+
+**Expert** [00:04:37]
+It's a great point. I think that's probably one of the reasons why you have not seen a Crusoe-Emerald AI partnership. I like the company. I think those are really smart people. When I talk to my cloud team, I'm very involved from an energy perspective because, obviously what you are trying to solve is just power. It's not a highly differentiated solution. I would say the Emerald AI knows that. They know, yes, you could develop it. It's like Paces. We talked also about differentiation. You could build your own Paces. The difference here is that you are actually highly incentivized to develop your own solution because this was a problem we ran into last year with Emerald.
+
+If you want them to provide this service, they really need to access your GPUs. They need to see the profile data. They need to see a ton of information that's actually pretty sensitive. The pushback I'm having with my own cloud team is, I definitely prefer to build this in-house, and I can, because at the end of the day it's just an operational optimization software that you're going to see that you have a workload that can be shut off, and you're approaching a peak event on the grid, and then let's turn down the GPUs for a couple of hours. It's nothing like rocket science.
+
+I would say the only thing that can play in their favor is the Emerald-NVIDIA potential partnership is if NVIDIA buys Emerald. If they buy Emerald, then the same way they want to integrate cooling batteries within their rack-level infrastructure, if they end up selling a fully integrated product that at the GPU and rack-level has this solution already embedded in, then you don't have a third party anymore. It's like NVIDIA, like an AMD, and then you have that service.
+
+If that doesn't happen, the only other option I could see, because of the sensitivity, is an AI lab also buying Emerald because they want the solution for them like an Anthropic, and then it would be just a solution of Anthropic. Probably what you're going to see with other Neo clouds and hyperscalers is they would develop their own solution. That's likely what's going to happen.
+
+---
+
+**Client** [00:07:00]
+Got it. These are the two things that I was thinking of as the pushback against the build in-house versus third party. One is what you just talked about, which is the NVIDIA partnership. My understanding is that they're also being very much built into the Vera Rubin DSX Flex reference design that's going to come out. Emerald's Conductor product becomes the embedded solution. That's one, and then two is their two-sided, I don't know if marketplace is the right term, but their two-sided business in that they serve the utilities as well.
+
+**Expert** [00:07:33]
+Can I chime in?
+
+---
+
+**Client** [00:07:36]
+Go ahead.
+
+**Expert** [00:07:37]
+I think it's extremely hard. I actually caught up with the commercial head at Emerald AI a couple of weeks ago, and he pitched me. It was not the case. This is a new thing on their playbook. Last year, they were only focusing on NeoCloud like hypers and AI labs, and now they opened utility door. For me, it's an extremely bad idea. I told him, because selling software to utilities, I come from the utility world, and I can tell you it's extremely hard.
+
+If you look at companies like Splice, GridX, and other grid capacity enables solutions, it's a pain. It's a pain to sell software like this to utilities. You should check. You should do your own research. Those guys are extremely slow. They don't have a lot of money.
+
+---
+
+**Client** [00:08:33]
+Super long sales cycles.
+
+**Expert** [00:08:36]
+To get them over the line on an innovative product, it is so painful. I told him, "You are going to start a two-year process to sign a contract, and for a proof of concept, it is great. You get your anchor, and then you get the ball rolling, but you do not need that. You already have your anchor. You already have this Arizona partnership with NVIDIA and Oracle. You don't need really to go to utilities." Actually, the utilities are not going to be your end customer. It may be going to be an enabling party, but I told him, you should sell to AI labs and NeoCloud.
+
+The NeoCloud, whether it's like me, I'm going to bring the utility in the mix myself. Let's take an example. We're working on a project in the Midwest where utility is telling me, "You're asking for a gig. I don't have a gig for 50 hours a year. Otherwise, I'm long on energy, I can serve you. No problem. Just for 50 hours a year, I don't have the power." I have two solutions. I either deploy batteries to bridge the gap, or I go through an Emerald AI, or I go in-house. I have a couple of solutions.
+
+If I go Emerald AI, and I'm like, "Hey, Emerald, I'm trying to solve for these 50 hours. The end customers don't want to deploy batteries because they're sensitive to CapEx. Let's work on a solution together." They don't need to talk to the utility for that. I'm going to bring the utility in the mix, and we're going to have a three-party conversation. Maybe we're going to end up negotiating a particular ESA. It's like a custom-built electric service agreement that accounts for the flexibility's basically customer committing to curtailing 50 hours a year.
+
+In exchange of that, the utility is going to guarantee firm service. Emerald AI doesn't need to reach out to the utility. Who are they providing value to? Not the utility. At the end of the day, the utility doesn't care. It's a data center. I told him, "You don't need to do that." Go ahead.
+
+---
+
+**Client** [00:10:55]
+Keep going. I'll follow up at the end.
+
+**Expert** [00:10:59]
+I was basically done. I think they should focus on NeoCloud and AI labs, because the pain points they're solving are pain points on my side. I'm going to accept an interruptible service. There is a company called Mercury. Mercury’s business model, you should check Mercury. Their business model is different. They want to go to a NeoCloud and tell them, “Hey, shut off those GPUs,” and then I can credit that in demand response credits, and then I can sell that to the utility. It's a different business model. Either you provide a demand response program or value service to the utility, and the utility is going to be the one paying you, or your business model is to unlock more grid capacity for data center operators.
+
+I think the latter is much more interesting because that's where the money is, and that's where the industry is moving fast. Selling DR programs is painful as well. I'm going to stop here, but that's the difference in business model that matters, and why I think Emerald AI should not be talking to utilities, actually.
+
+---
+
+**Client** [00:12:09]
+It's almost like they should be giving it to the utility for free or something. I think they are aware that the monetization on that side of the business is bad. I think the value that they are trying to provide is this idea that bringing a very large 100-megawatt, 500-megawatt data center online, you would know better than me, but this is my understanding, is bringing those large data centers online is a huge burden on the grid. There are these really long interconnection queues, and by having this orchestration as the data center operator, the utility can agree to bring them on.
+
+**Expert** [00:12:45]
+The thing is because this value is ultimately consumed, I get the value of flexibility that you provide to the grid. That's going to be offset and consumed by the load that you're going to add, for example Crusoe is going to then consume that flexibility service directly. Who's going to pay? They're providing a value to the utility, but then the utility is providing that to me. The end customer, the paying customer is Crusoe or whatever is consuming the service.
+
+---
+
+**Client** [00:13:15]
+It's still you guys.
+
+**Expert** [00:13:18]
+Exactly. Why would you go through the intermediary party that's slower while you could go to the end user that's moving much faster? That's the takeaway.
+
+---
+
+**Client** [00:13:30]
+Just going back to the NVIDIA partnership, how are you reading that? Do you think that is a big advantage for them? We haven't talked about anybody else in the market. I think really all we've talked about is the build versus buy. Do you think that puts them in a really strong position? Is there anything that I'm not thinking about that is a differentiator or not for them?
+
+**Expert** [00:13:53]
+I think it's definitely a plus. The CEO, Varun, this guy is super smart and super well-connected. At the end of the day, it's a relationship thing, and he definitely knows Jensen. I think this is a partnership that definitely puts them in a separate league with respect to other provider. It can only help. I don't think it's going to unlock infinite business opportunities. I think it opens a path for a potential integration or at least embedded integration in their product, at least they're probably going to have more visibility into the next designs and products. It can only be a good news for the company.
+
+I would just caveat that NVIDIA hasn't been particularly selective either. They're partnering with everyone at this stage. Investing in pretty much every company in the IC, not every company. It's a benefit, but not really a unique thing as I look at the industry today.
+
+---
+
+**Client** [00:14:53]
+What would need to go right in order for you to feel like we are not going to build this in-house, Emerald's a great partner? What would you need to see?
+
+**Expert** [00:15:01]
+This is something I discussed as well. If they can make their solution work with limited access or if they can provide a service that results ultimately of still me handling the operation, maybe it's just a sale of a software license where there is some protection in terms of access to data and access to the compute. I think that will make my cloud team, because I don't care at the end of the day. This is a cloud team decision, how they want to handle this. They have been the one pushing the most against letting a company like Emerald AI do this stuff.
+
+This is a concern, data sensitivity. If they can show that they can operate without having full access on the data. Obviously, the feedback they gave me is, "We can, but then our solution is going to be a bit less efficient." That's fine. Probably we have other priorities in building this software today, so that's probably a six-month window where we don't have time to build this. We're raising and focusing on the expansion of our cloud, and that's the case of a lot of new clouds.
+
+We don't have time to build this software in-house today. I think you're going to arrive in a world where six, 12 months from now, you're going to see so much grid bottleneck, and unless you want a fully gas-islanded project, or if you want to be on the coast, which sucks. At that point, your only option will be to accommodate load flexibility if you want power in the next two years. At this point, people will not have a choice. I think that's where you're going to see a lot of companies developing those in-house solutions.
+
+I think Emerald has really this six to 12 months window in my opinion, where they should really capture as much market as they can today and establish themselves as the solution. Otherwise, I feel like, yes, we're going to start developing our own in-house solution in 2027 and beyond.
+
+---
+
+**Client** [00:17:05]
+Is that because this six to 12 months window, is that because there's just such a backlog of interconnection where you're like, this just helps us get online faster? Is the value of Emerald right now getting interconnection faster?
+
+**Expert** [00:17:18]
+It depends the way you see it. Today, I can still get firm service. I can still go to the utility. There are some pockets in the U.S., especially the Midwest, where I can still go to the utility, and they're going to tell me we can study you, and we can serve you probably in two, three years, which is totally fair. Two, three years is super reasonable, but you have to go in the middle of nowhere to be honest. Still, it's power, it's buildable, it's great. I think what's going to happen in 2027, as I look forward in the market, power-wise, I think the capacity bottleneck is going to be so binary, that it's going to be impossible or nearly impossible to find firm service.
+
+Everything you're going to be able to find at that point is, the grid is still long on energy, which means there's still a lot of excess generation, just not at certain points in time. This is the 50 hours a year I gave you an example. You're going to be able to find grid power, but you're going to have to curtail like 50, 100 hours a year. That's what I see for the future of the grid. I don't think supply will catch up with demand anytime soon, just because it takes six years to add new generation to the grid. I think the gap will last beyond 2030+. That's why I see solutions like storage.
+
+You could either go hardware or software. I think it's important to remember you have two solutions. If hardware is more, it's slower obviously, it's a bit more costly. If you go software then, that's why I think the market will grow tremendously in terms of load flexibility to firm what we call interruptible service. If this becomes the norm, if everyone is seeing that in the market, then it becomes like super binaries. Either you go flexible or you don't get power at all, like grid power. Gas is not a silver bullet at all. It has its own risk. A lot of people will start realizing, I need a load flexibility software in addition to the hardware solution.
+
+If everyone thinks that way, then I think there's going to be a lot of desire at every company level to have their own solution because you control your own destiny and you have more room to grow and you're not relying on a not-credit-worthy company. That's why I think Emerald AI has probably a six to 12-month window here to capture the market as it stands today.
+
+---
+
+**Client** [00:19:55]
+Do you mind just, I know you have explained this, but just one more time, explaining why specifically there's a six to 12-month window right now, and why do they need to capture it right now? I'm still a little confused there.
+
+**Expert** [00:20:08]
+Still today, in the next 12 months probably, you can still find firm service. Starting in 2027, the grid capacity market is closing rapidly. What you're going to see in 2027 is it's not going to be possible to find firm service. The load flexibility discussion today is still not a really big topic. It's not a priority. To be honest, I rarely discuss load flexibility with my customers because you can still find firm service. A year from now, I think the ability to find firm service is going to be so thin that probably load flexibility will be part of 80% of the discussions with AI labs and hyperscalers.
+
+---
+
+**Client** [00:20:53]
+Wouldn't that be net good for Emerald? Wouldn't that be good that the market is shifting toward that? Wouldn't that mean that more people are looking for load flexibility and wanting a solution like Emerald?
+
+**Expert** [00:21:06]
+That was my point, that means also people would want their own solution.
+
+---
+
+**Client** [00:21:11]
+The build in-house part.
+
+**Expert** [00:21:12]
+They will want to build in-house. I get it is contradicting, but I think what is going to happen 12 months from now is people will want to build their in-house solutions because it's going to be so critical and so urgent that then they are going to spin up cloud resources. Cloud software engineers are going to start working on that. Right now, it's not the focus because, for example me on the power team I haven't told my cloud team, "This is the thing we need to work on." A year from now, I'm going to tell.
+
+The way it works in a company like a Neo Cloud is the cloud team is like, "This is our capacity plan. We need a gigawatt IT in 2028. Can you find the power?" Today I'm like, "Yeah, I can find the power. Let me check." A year from now, they're going to ask me, "Hey, this is a roadmap. Can you find sites for me?"
+
+I'm going to tell them, "I have a site here, but this is interruptible service. Can we curtail?" The feedback I'm going to tell them is, "Guys, we need a software to curtail our GPUs to accommodate that service if you want to deploy the capacity in 2028." That conversation hasn't happened yet because it's not actual yet, but I think a year from now it will be.
+
+---
+
+**Client** [00:22:34]
+Got it. It seems like there is also some regulation that is flipping that way as well, where it's rewarding flexibility. Do you think that will also be a big part of this in 2027, 2028?
+
+**Expert** [00:22:47]
+Definitely. You see that already at the FERC level. FERC is the federal body of the grid. They're already telling every ISO and RTO, these are the grid operators in the U.S., what they told them, the guidance is they need to accommodate AI data center loads by building appropriate programs to enable load growth. This includes, obviously making sure we pay our fair share, but also enabling flexible tariffs. That's why two years ago, if I were to talk to utilities, they would not necessarily tell me that they're long on energy and they can serve me more if I'm willing to curtail. Now today, I see this narrative.
+
+I see increasingly this with utilities where they open up a little bit and they share, "This is our profile actually. If you're willing to curtail 50 hours in the winter, then I can get you a gig and even more." They are much more receptive. They're much more open to discuss and to find a solution, and it's a win-win I think.
+
+---
+
+**Client** [00:23:55]
+That makes sense. Let's say that they are able to, in the next six to 12 months, capture a bit more market share. If we were to play out the very optimistic everything goes right scenario, they capture some substantial market share in the next six to 12 months. People start building with the new reference design for the Vera Rubin reference from NVIDIA. Do you think that becomes a big distribution advantage for them if you want to build with a large data center with those new racks that's like Emerald's already embedded in there? My understanding that would be a good distribution engine for them, or how would you view that?
+
+**Expert** [00:24:33]
+Definitely. I think that is probably the best scenario for them. Obviously it depends on the terms of the acquisition. These are obvious discussions or questions to have, but I don't see Emerald being the industry standard solution for everyone if they remain a private company or a standalone company. I see maybe them being acquired by an Anthropic for example, where Anthropic, we don't care. We are not going to spend time. Our focus is to develop Claude. It's not to develop a software solution to enable more efficiency. I could see an AI lab making that purchase or acquisition.
+
+I think the case where they are acquired by a chip provider, like a chip OEM, is probably the best scenario for them in terms of market share. If you are a shareholder in Emerald AI, it's probably the best scenario in terms of growth opportunity because if this is embedded in NVIDIA, you will have to deploy that solution, and you will probably opt-in. It is the same with this Fluence-NVIDIA partnership. If NVIDIA successfully designed this rack-level infrastructure with embedded batteries, I think it's going to displace a lot of batteries at the data center level campus or the data center campus level.
+
+You are going to have already that embedded. It's probably going to be more efficient because, at the end of the day, NVIDIA has extreme leverage. The way they can design this rack-level infrastructure is to make it the obvious choice, and they still will offer you optionality for optics, but most of the clients and the buyers will go for the fully embedded solution because I think it's going to make more sense. Instead of trying to assemble a puzzle on your own. If Emerald AI happens to be embedded within the GPUs as a software layer, NVIDIA is already doing that.
+
+They have multiple software that optimize the operation of the GPUs, and that's actually what makes them highly differentiated. They have a much better product than an AMD or an Intel, such as other GPUs providers. I think that's going to be another layer they can add on top that can make the product even better. It's going to be an obvious choice then to opt it.
+
+---
+
+**Client** [00:26:58]
+The downside for you is that, everyone is just going to build this in-house and then if that's the case for the really large Neo labs, hyperscalers, etc., who becomes the customer then in that case? Maybe smaller, mid-sized Neo labs that maybe don't have the capacity to build this in-house, and then that becomes less attractive?
+
+**Expert** [00:27:21]
+I think that's right. I think as long as you can carve out some resources and to develop this in-house solution, a lot of Neo clouds like Nebulous, CoreWeave, FleetStack, Crusoe will end up probably develop their own solution. TBD on the AI lab side. I could see an OpenAI doing it. I could see an Anthropic not doing it just because these guys are much more focused on their core mission. That's why I could see them getting comfortable with the solution, or even more ideally for them acquiring it. If they acquire it, then they're going to be the sole customer.
+
+---
+
+**Client** [00:28:00]
+In a case where Emerald AI is not acquired, I think you're right. I think that the small companies will be customers and then maybe an AI lab, but I could not see hyperscalers. I think hyperscalers would never get comfortable with that. Is this a technically easy challenge to solve for? We can spin this up in six months, or this takes us a year to build in-house type problem?
+
+**Expert** [00:28:25]
+It's probably a couple of months, to be honest. When I talk to my core team, obviously, they are optimistic, and their brain works on a week basis, whereas my brain works more in the month and year basis, just because I work in infrastructure and energy, and they work on product version release every week. In their mind, it is more like a couple of months problem to solve. Again, whether they are too optimistic, but it's not going to be a five-year thing. That's for sure. It's maybe going to be a six-month roadmap to build this in-house and then iterate from there.
+
+Obviously, you are building something that is not going to be perfect, and then you iterate. Emerald itself, Emerald is a super young company, and they spun up the product in a relatively short timeframe, and now they are doing a lot of BD. I think that is probably right. It's probably like a six-month roadmap and maybe a bit more, if you want to have a product as good as Emerald's.
+
+---
+
+**Client** [00:29:29]
+Is there anything that we haven't talked about that you think is worth thinking about that we haven't discussed?
+
+**Expert** [00:29:34]
+I think you asked a lot of the right questions. It's a tricky company to look at. I like the team, and I think they are super smart. I think they have potential to really have an impact. It is just that it is not extremely hard to rebuild. The difference with a software like Basis, where it is fine to have Basis do that for you because who cares? Here, it is access to the most valuable piece of equipment within your facility, and just having access to the data holds is so sensitive.
+
+That's really the problem they have to solve for. I spent a big chunk of 2025 working with their team, and it was just too high of a hill to climb to get Oracle team and some of our customers just comfortable with the solution. We covered pretty much everything, so we can wrap up here, but that's the gist of it.
+
+---
+
+**Client** [00:30:30]
+That covers all my questions. Thanks for your time today. Take care.

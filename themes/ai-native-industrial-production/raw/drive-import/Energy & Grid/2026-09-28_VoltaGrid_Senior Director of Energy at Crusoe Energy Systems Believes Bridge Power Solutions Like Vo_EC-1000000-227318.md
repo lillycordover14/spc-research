@@ -1,0 +1,401 @@
+---
+theme: "Energy & Grid"
+title: "Senior Director of Energy at Crusoe Energy Systems Believes Bridge Power Solutions Like VoltaGrid Are Valuable for Temporary Deployment in Data Centers"
+doc_id: EC-1000000-227318
+source_line: "Voltagrid · Expert Call · Customer · 28 Sep 26"
+date: 2026-09-28
+company: "VoltaGrid"
+pages: 2 of 2
+saved: 2026-10-19T16:48:42.803Z
+url: https://research.alpha-sense.com/search?search_id=tmp-0pnbg1kc8uodovl7vbczkp&sort=RELEVANCE&order=DESC&docid=EC-1000000-227318
+---
+# Senior Director of Energy at Crusoe Energy Systems Believes Bridge Power Solutions Like VoltaGrid Are Valuable for Temporary Deployment in Data Centers
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+28 Sep 2026
+
+INTERVIEW DATE
+
+30 Jun 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+VoltaGrid
+
+SMART SUMMARY
+
+Summary
+
+The interview covered the deployment and evaluation of behind-the-meter power solutions for large data centers, focusing on temporary bridge power, technology preferences, and the execution capabilities of providers like VoltaGrid. Discussion included operational learnings, technology rankings, and the dynamics of provider selection in a rapidly growing market.
+
+EXPERT BACKGROUND
+
+- Senior Director of Energy at a leading data center infrastructure company, with direct experience in evaluating, deploying, and operating behind-the-meter (BTM) power solutions for large-scale data centers, including turbines, reciprocating engines, fuel cells, and bridge power solutions.
+
+EXPERT SENTIMENT
+
+- Views bridge power solutions like VoltaGrid as valuable for temporary, fast deployment needs but not as attractive for long-term, permanent power due to higher costs.
+- Believes the market for bridge and temporary power solutions will continue to grow due to increasing demand and execution risks with permanent solutions, but sees limited differentiation among providers beyond track record and speed.
+- Does not see significant risk of hyperscalers or large cloud companies internalizing BTM power deployment, as it is not their core business or focus.
+
+TAKEAWAYS
+
+- VoltaGrid was used as a temporary bridge power solution at a large data center site due to delays in permanent power infrastructure, with modules that were quick to deploy and effective for short-term needs.
+- Turbines, while previously favored for BTM prime power, have become less attractive due to increased lead times and costs; reciprocating engines and fuel cells are now preferred for new deployments.
+- All BTM power solutions for data centers, including turbines, recips, and fuel cells, require on-site battery energy storage systems (BESS) to handle rapid load swings from AI workloads.
+- VoltaGrid's main advantage is speed of deployment and existing track record, but their solution is not cost-competitive for long-term use; differentiation among providers is mainly based on experience, relationships, and proximity to sites.
+- The selection of bridge power providers is opportunistic and driven by lead times, pricing, and proven ability to execute, with cost sensitivity lower than expected due to contractual structures with OEMs.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Abilene Site Overview
+
+Discussion on BTM Technologies
+
+Turbines and Load Management Insights
+
+VoltaGrid's Capabilities and Comparisons
+
+Future Outlook and Industry Trends
+
+EXPERT BIO
+
+Senior Director, Energy at Crusoe Energy Systems. The expert leads power supply at Crusoe and is responsible for all power agreement structuring, including grid power, BTM power, and other onsite deployments such as BESS and gen sets. The expert is very familiar with Voltagrid and deployed Voltagrid gens at the Stargate Abilene data center campus.
+
+Senior Director, Energy at Crusoe. The expert is responsible for overseeing deal structuring and M&A deal flow management, project management, with energy developers, sellers, and buyers, mostly focused within the US. The expert reports to the VP of Energy & Infrastructure Development, 2 levels removed from the C-suite.
+
+The expert can speak about Applied Digital and other competitors: Meta, Microsoft, Google, Amazon, Apple (the hyperscalers), OEMs like Nvidia, AI companies like OpenAI and Anthropic, and traditional data centers like Vantage. The expert has deep expertise in fuel cells, SOFC, nuclear tech, SMRs, power demand from data centers, etc.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Great, I think if we could just get started. We're spending a lot of time on just behind the meter in general, like who has the best technology, who's the best EPC in terms of executing these projects. If we could start off, you mentioned that Crusoe, VoltaGrid was involved at the Abilene site. I'm just curious to hear what they were actually doing at the Abilene site, and how they came to be involved in that project. We can just go from there.
+
+**Expert** [00:00:28]
+Sure. Is your question specifically about Abilene or in general, because obviously, I cannot share all the details of what's going on in Abilene?
+
+---
+
+**Client** [00:00:37]
+Yeah, of course. Not asking you to disclose anything that you're not allowed to, but if you could just give me the high level of what they've done at Abilene or at your sites at large, would be curious to hear all of it.
+
+**Expert** [00:00:48]
+We're using VoltaGrid for bridge power, so it's not meant to be a long-term solution. If I recall directly, we've been using VoltaGrid for a couple of months now. We're about to switch because the site now is going to fully energize, and it was meant to be end of Q2. It's going to be energized and flipped to the tenants, which is Oracle, in the next couple of weeks. The need for VoltaGrid on site was because some of the turbines were not going to be there to energize in time. Abilene is a 1.2 GW data center, and there's a phase one, which was 200, and then the phase two, which was four GW of grid power.
+
+The way our design works is the first two buildings that we built were for 300 MW. There was a small gap between what phase one could provide and what phase two could provide, and we had to bridge for roughly 100 MW. This gas plan was meant also to bridge, but also to switch to backup long-term, but was not going to make it in time. There was also some power needs from a construction standpoint.
+
+VoltaGrid was a pretty interesting solution because they were almost turnkey. They're on racks. I know you're not going to come on site, but if you come on site and see a photo of what it looks like, each module is roughly, I think two to three meg. We had almost 100 VoltaGrid modules, and it was pretty impressive to see that on site. It's meant to be temporary bridge.
+
+I haven't really explored VoltaGrid from a full-time, permanent power solution perspective because last time we really analyzed their LCOE and their competitiveness against other power solutions, I don't think it was the most interesting. To answer your question, the need was really temp power, fast delivery on site, which to be honest, they met. The modules were delivered on site. It's just operating cost of operating those assets is pretty expensive. Not a super good fit for full-time permanent power, that was the niche need for Abilene.
+
+---
+
+**Client** [00:02:52]
+Got it. If we were to take a step back, maybe I shouldn't have dove right into the deals right away, but I'd love to hear your take on, generally, I know it's very site specific, to the extent you can, we could discuss your favorite BTM technologies and what would be your go-to or your first choice. We can run through the first few things, then we can go from there.
+
+**Expert** [00:03:16]
+You are particularly interested in behind the meter with gas? Is that your core interest?
+
+---
+
+**Client** [00:03:22]
+Not particularly. Behind the meter, anything that would be a strong candidate for prime power specifically, not necessarily just gas.
+
+**Expert** [00:03:31]
+You are more interested in prime power, not grid power.
+
+---
+
+**Client** [00:03:34]
+Correct. For the sake of this.
+
+**Expert** [00:03:37]
+You must know that Abilene was a mix of GE Vernova, LM2500, and that was the ideal solution for a couple of reasons. Lead times were good back then, so we are talking about two years ago when we started ordering those turbines. Lead times were roughly a year. The pricing was also pretty good. The total CapEx cost of ownership was roughly seven figures per megawatt including labor. Pretty good pricing, in terms of sizing, we actually realized when due diligence those technologies that the larger you go, obviously, you have more economics of scale. Every generation equipment has to have its balance of plants. If you take a 30-MW turbine, for that turbine, you have a cooling system, you have a gas feeding system, you have power electronics.
+
+Obviously, if you are going with a three-MW gas recip, the reciprocating engine is the same. Every equipment has its own cooling system, gas feeding system, power electronics. If you want to deploy a 30-MW campus, let us say a very small campus, if you go with a single turbine of 30 MW and 10 recips of three MW, obviously, with the latter, you have 10 different cooling systems, 10 different gas feeding systems. If you go with a turbine, you have a single balance of plant. That's why I am telling you the higher you go in scale, the better from that perspective. That's the advantage.
+
+When you go too high, then you start losing in redundancy perspectives. I don't know how familiar you are, for example, with the Bloom fuel cells. The reason why people say you need a 10% overbuild for redundancy for fuel cells, and you need a 25% overbuild for turbines, that is exactly because of the redundancy and the N+one reliability requirements. If I am powering a data center of 30 MW with a single turbine of 30 MW, if that turbine fails, I lose 100% of my power.
+
+When you go through the design, the reliability of design requirements with your customers, and I am in constant discussion with the hyperscalers on what they accept in terms of number of nines of reliability and so on, they will want an N+one. That means if the first turbine fails, you have a second one. That means in that case, in that very simple example, you have 100% of overbuild. You need to add a second turbine for redundancy. Obviously, that is a very specific scenario.
+
+If you are building a 300-megawatt campus, you are going to have 10 turbines, and the rule of thumb really is to have N+one or N+two. That means on 10 turbines, you would add two turbines, and that means you have 20% overbuild. I can keep going like that, but the takeaway here is that the larger the equipment is, the more overbuild in terms of percentage you need to have. That is why, on one hand, if you go too big, you have too much overbuild, but if you go too small, you are losing out the economics of scale. Basically, your cost of balance of plant is too high.
+
+That was an explanation to show that why in the campus sizes that we see today, the demand that we see today, the sweet spot for behind the meter sizing is roughly between 25 MW and 50 MW. Bloom fuel cells are very interesting from an emission perspective. They are really interesting from a redundancy perspective because the overbuild, again, is roughly 10%, but they end up being a bit more expensive because the balance of plant has to be replicated on each module. Do you have a question?
+
+---
+
+**Client** [00:07:26]
+Yeah. Can I ask you a question on the turbines? As we know, turbines can't really load follow well, or it takes a long time to start. It needs a lot of batteries to buffer the AI workloads. What do you think about that?
+
+**Expert** [00:07:42]
+That's definitely true. Those are asynchronous machines and they are not just meant to handle load fluctuations. Most of the turbines are implemented today and then deployed for data center deployments. They are jet turbines. They are aeroderivatives. They can handle takeoff, so large increase of power consumption in a short amount of time, but then they are meant to run baseload, like cruise mode. That is why you need batteries. You need definitely batteries to handle load shocks between GPUs and turbines. I would say you also need batteries between the fuel cells and GPUs.
+
+You need batteries for two reasons. You need batteries to handle also the load swings, because if you would subject the fuel cells to load swings, you would degrade your fuel cells pretty quickly. Also something that is not necessarily known outside of the industry is that fuel cells are actually.
+
+---
+
+**Client** [00:08:39]
+Sorry, going back to the turbines. Has there been any learning from, obviously, deploying the turbine and seeing how it operates, has there been any learning from that process so far?
+
+**Expert** [00:08:51]
+You're saying learning?
+
+---
+
+**Client** [00:08:53]
+Yes. Learnings in terms of how to deploy these turbines, but obviously, they cannot load follow well, so any learnings like, "Hey, maybe we need more batteries. Maybe we need to set up the balance of the plant a certain way," etc.
+
+**Expert** [00:09:07]
+Definitely, learnings, yes. People have learned, actually, unfortunately, after deploying those turbines at data center campuses. I have seen a few campuses deploy in Texas where they started energizing the data center with turbines and then realized just the asset is not meant to be connected directly to the GPU. There was some energization delays because of that. People trying to energize as quickly as possible, deploying turbines as quickly as possible, and then when it comes to operation, then realizing it actually does not work, and then they have to order batteries to act as a buffer.
+
+Learnings on that side, learning that actually does not work, but also in terms of better operation, having batteries as a buffer is one of the learnings that, if you want to operate your turbines well, you need a buffer. That is the main learning on the turbine side.
+
+---
+
+**Client** [00:09:59]
+That makes sense. After they realize, "Hey, it does not really work out that well with the existing AI data centers," what do they do with it? Do they continue using it, just add more batteries, or do they just put it to the side and you see something else?
+
+**Expert** [00:10:15]
+I think there are two scenarios. That is one source of project delays and energization delays because, again, if you are directly behind meter with no batteries, that is going to basically wreck your turbine fairly quickly because, again, those synchronous machines are not designed to handle load swings of 60 MW in one second.
+
+I have seen either delays or even worse, but the most standard way to respond to those scenarios is to deploy on-site batteries. That is why you have these massive orders of, for example, CATL batteries, because, whether you are grid connected or behind meter, you are going to need an on-site BESS deployment. We can talk about that, but that is why for whether you are connected to turbines fuel cells, you are going to need batteries on site.
+
+---
+
+**Client** [00:11:05]
+Got you. I'm just curious to hear, for the specific campuses that you're aware of, was it too late? Did the turbines get wrecked, or were they able to be salvaged and you could just plug batteries in and then there was still useful life in those assets?
+
+**Expert** [00:11:20]
+That's really the job of the operations team. How that would be handled in real-time is you try to run the GPUs, then you see that the operation of the turbine is not optimal at all. You have an operations team on site. Obviously, whichever OEM you're working with or you procure the turbines from, usually what happens is you buy the turbines, you sign a long-term services agreement, and it's like OEM support because they know the equipment better than you.
+
+The operations team would notice something is going wrong while the GPUs are running, and they would contact whatever team it is, like the GE team or the Siemens team or the Mitsui team, and report those problems with the operation of the turbine and then you would have a fault analysis, and then they would identify that "Yeah, it's just a voltage variation." What you see on the GPU side is what we call voltage ride through. It's high fluctuations of voltage across that propagate on the turbine and that is really bad for the turbine itself.
+
+They would identify the problem, they would identify the cause that lies with the GPUs, and then one of the solutions is either to run specific models or inference workloads on the GPUs, because training is worse. You would switch to inference, some types of inference or some types of, for example, standard, conventional cloud workloads while you are deploying on-site BESS, because otherwise you are going to destroy your turbine. Those are like mitigation measures you could implement. If you want to go back to your normal training workload scenario, you would need BESS. Otherwise, it would not work.
+
+---
+
+**Client** [00:13:02]
+Got it. Quick follow-up, just curious to hear. Thanks for clarifying that training is a little bit more intense with the load swings. Is the load swing profile that dramatically different to the extent that it would really impact the balance of plant thinking around how much BESS you would need around your turbines or your recips or your fuel cells?
+
+**Expert** [00:13:22]
+Usually, the BESS is sized to the nameplate. If I were to build a 200-MW campus, I would deploy a 200-MW BESS. That's usually how the BESS system is sized, and the rationale is you want to handle the worst-case load swing. For example, if I lose all the power at once, for example, if the GPUs go idle at once, I want my BESS to handle the 200-Mw drop. Usually the on-site BESS is sized to the nameplate.
+
+---
+
+**Client** [00:13:53]
+Got it. That's for both inference and training?
+
+**Expert** [00:13:57]
+Yes.
+
+---
+
+**Client** [00:13:58]
+Got it. Just super quick, that would be for turbines, fuel cells. I'm also just curious to hear, because it was my impression that some recips, like we were discussing VoltaGrid earlier, it seemed like their packaging solution is able to handle these load swings a little bit better. I'm just curious if that's the case for VoltaGrid as well.
+
+**Expert** [00:14:21]
+Recips is also synchronous, so you're going to see the same thing. Depending if you're high speed or low speed, the higher the speed the worst. Even if you're in a low-speed recips, you're probably going to see also the same technical issues. I think there's not much difference between how we operate turbines and recips. It's still rotation equipment. The only difference I would caveat with Bloom is since it's not synchronous, it's an electrochemical reaction.
+
+You could argue that Bloom is going to be a bit less worse. Something the industry realized is that Bloom is actually a grid-following equipment, and it's specifically because it doesn't have any rotational equipment. If you want Bloom to supply power to a load, you need a voltage, and it gets a bit technical, but trying to simplify, you need a voltage that the fuel cell can attach itself to. That's why one of the solutions is to actually deploy BESS so that the fuel cell can follow the voltage of the BESS.
+
+If you do not have BESS, it is actually very hard to connect and deploy a fuel cell behind meter with a data center load. It is probably maybe the first time you are hearing this, but the thing is no one has actually deployed fuel cells behind meter with an AI workload yet. Even the first deployments that are going to happen with AP, for example, obviously the data center is not yet functioning.
+
+Those are feedback from actually analyzing the electrical infrastructure of connecting a behind-meter fuel cell with a data center load. At the end of the day, even though the load swings are probably not as worse for a fuel cell as it is for a turbine, you still need BESS for the load following. The short answer is you need BESS for any data center deployment.
+
+---
+
+**Client** [00:16:11]
+Got it. Considering that, going back to your overall technology preference, and we're talking about today, not necessarily two years ago, if you could just run through that real quick, and then we can move on to other topics. It sounds like turbines were your favorite. What is your stack ranking of BTM solutions if you stand up a campus, like a BTM campus today?
+
+**Expert** [00:16:34]
+Yeah. If the question is today, because turbines lead times have gone up dramatically, pricing also. Today, probably my response to your question is recips first, because I see the lead times are better, then I would say probably fuel cells and linear generators, and then turbines. That would probably be my ranking today. My only concern with linear generators, like, for example, the Mainspring solution, is it hasn't really been deployed at scale, so it's a less bankable solution today.
+
+Again, my feedback might be different in three to six months because it depends on the pricing and the lead times. For now, the turbines are just not really attractive, so that is why I would put recips, and then fuel cells are still very attractive. Also, from an environmental perspective, you can deploy much more while remaining under a minor source threshold, which just simplifies the permitting process a lot.
+
+---
+
+**Client** [00:17:34]
+That's all clear. Just moving on, I'm curious to hear your thoughts on VoltaGrid's ability to execute. From what you've heard, from what you've seen, are they able to do what they say they can do when you bring them on the job? Do you have to really worry about their ability to get things done? I'm curious to hear how that compares to alternatives, other EPC energy as a service organizations that you would bring in to do the same job.
+
+**Expert** [00:18:00]
+When we run a LCOE analysis, as I told you, VoltaGrid seems to us and my team more like an in-room solution. I think that is where we are putting them for now. Obviously, their positioning might change in the near term, but the way we look at their solution is more like a quick to deploy solution. The LCOE is not as attractive as the other solution that I just mentioned. For now, we are just seeing them as a bridge.
+
+We might deploy them at other sites in the future if we have a specific need. For now, if we are talking about a behind the meter solution, long-term, we prefer, for example, the equipment that we have announced recently. We have announced Bergen. Those are a recip solution. We are talking to other recip providers. We might go the route of linear generators or fuel cells. That is what we were considering for now.
+
+In terms of specific performance tied to how we have worked together with VoltaGrid in the past, I think I only have good things to say. They pretty on time. It is just the LCOE, the Levelized Cost of Electricity, is not as interesting as other solutions.
+
+---
+
+**Client** [00:19:11]
+Got it. Among these organizations, and we can try to ignore the specifics of what technology that they have used. If you were to bring in a partner like VoltaGrid essentially as the EPC, I am curious to hear what you think of the unique challenges, if there is really a moat that these, like VoltaGrid and another company that I know is Solaris. They have done some of these BTM projects. They have gotten some contracts recently. If you really think that there is a moat that these companies can execute where others cannot and your thoughts on if they are going to continue to be leaders in the long term.
+
+**Expert** [00:19:49]
+Today, the industry is relying on diesel gens for construction power. The way you could combine construction power with bridge power while the grid comes online, there are actually a lot of advantages with deploying gas recips and other solutions like modular solutions on racks, on trails, like VoltaGrid, because it is all about fast deployment. If you can combine the use case on the construction power side, the commissioning side, and the early power with a single solution like the VoltaGrid, I think there is a lot of appetite for that. It is also feedback we receive from our general contractors and electrical and mechanical contractors. It is just easier for us.
+
+Rather than if you go with gen sets, you run gen sets, then you have to find another bridge solution, and running diesel on bridge power would be so expensive. I think the fuel flexibility and the fact that you can run the VoltaGrid with gas makes just a ton of sense. That is something that is valuable with the VoltaGrid style solution.
+
+---
+
+**Client** [00:20:52]
+If you were to assume that other EPCs had access to the same technology that VoltaGrid does in a hypothetical world, is there real differentiation between if you were to hypothetically bring on another partner to provide bridge power to the Abilene site instead of VoltaGrid? If you were to do it all over again, I'm just curious to hear who really stands out in terms of their ability to get things done, if at all, if that really was a consideration that was top of mind.
+
+**Expert** [00:21:17]
+Another player than VoltaGrid?
+
+---
+
+**Client** [00:21:20]
+I'm asking, is VoltaGrid differentiated in their ability to reliably complete these projects or would you be more worried versus another contractor?
+
+**Expert** [00:21:30]
+The differentiation aspect among different gas recip providers is pretty narrow. At the end of the day, it is a very opportunistic approach. For example, if I were to deploy, and we are doing it, but if I were to develop a site that is close to, for example, Abilene, the ability to quickly remobilize gas equipment from one site to the other is an advantage that, for example, VoltaGrid has because of the proximity to the Abilene site.
+
+Otherwise, if I am talking about a completely different site, I have effectively the choice between multiple gas solutions. Obviously, there is a desire to stick with the same provider because you know them and you build the relationships. Like with contractors, you tend to stick with the same ones, instead of just building a diversified portfolio with everyone. I think that is one aspect.
+
+We have experience with VoltaGrid. We might reiterate on other projects. At the end of the day, it is a very competitive environment, and it is driven mostly by lead times and pricing. That is the dumb side of VoltaGrid. It is not the most cost-efficient, but it is good on lead times and quick deployment. They might have had an edge on deployments around the Abilene area because they are already there, but otherwise, to your point, it is not highly differentiated versus like a fuel cell or a linear generator that is probably less mature, but has probably the most optimal LCOE among the different gas solutions for that.
+
+---
+
+**Client** [00:23:00]
+Can I ask you a question? Based on the work by working with them, how's their execution ability in terms of setting up all the power equipment and everything on site? I assume your job responsibility involves a large portion of what VoltaGrid does. Is the execution of that really hard, or is it as simple as, "Hey, just put a bunch of recip engines on the ground and have it start running"? How difficult is it? I know these are two questions, but they are related.
+
+**Expert** [00:23:30]
+The deployment of the VoltaGrid units was definitely much easier and straightforward than the deployment of the 10 turbines that we have on site. That's not a debate. The turbines have to be delivered, and then they have to be built. It's like a whole separate agreement to deploy these versus the VoltaGrid. It's almost like a plug-and-play.
+
+It's more expensive, but then for a quick deployment, that's why I keep going back to the great niche application for us that we see in temp power and in bridge power, because they're really quick to deploy. That's why our construction team went for that solution, because the execution risk is pretty low. Those modules are ready to go. They just have to be delivered and then installed, and it's a pretty easy process. The execution risk on site is pretty low for the VoltaGrid solution.
+
+---
+
+**Client** [00:24:22]
+My question is more if you were to buy these Jenbacher machines from INNIO yourself and then build out the balance of plant for everything, for example, Abilene or another site. If you were to do that yourself with the Crusoe internal team, is that an easy task, or is that a pretty complicated task that it's not easily replaceable, i.e. I'm asking is what VoltaGrid is doing easily replaceable?
+
+**Expert** [00:24:46]
+It is not extremely hard to do, but we just don't have the resources. It is the same as on the software layer, there is a ton of software that we could develop ourselves, but we are not doing so because it is just not our business. We could also operate gas turbines ourselves. Do we really want to hire five full-time equivalent or more to do that? No, we would just prefer to sign a long-term service agreement with the OEM. I think most of the neoclouds and the data center developers do not really want to enter that business.
+
+I think the other side of your question, though, is, are other people interested to enter that side of the business because it is not highly differentiated? Maybe. I do not think we are aiming to do that, to be honest, in-house. I think it is a service that we would definitely contract to someone else on a side-by-side basis. If your question is more about how differentiated is VoltaGrid, then that is another question, and it is not a highly differentiated business. Again, it is driven mostly by relationships and early deployments, and there they have some advantage.
+
+---
+
+**Client** [00:25:54]
+You mentioned the software layer. Is that something a little special about VoltaGrid or pretty much the same as other providers?
+
+**Expert** [00:26:01]
+No, my example was something actually completely different, like when we talk about site selection software. The same, we could build that in-house, but we're not going to do it because you have to socialize that. The job of VoltaGrid is to do that for multiple customers, and they can probably amortize their cost better than if I were to do so and they can quickly remobilize some units to other sites nearby, and they have different customers they can do that with.
+
+If I were just Crusoe and wanted to do that myself, then I'm not building all my sites in the same 100-mile radius. I would have to remobilize those units from Texas to the Midwest to PJM. The efficiencies and the synergies would be much lower than letting VoltaGrid do that on a portfolio approach. That's where they're able to get synergies, cut costs, and that's where the business makes sense. If I were to do that myself, it would probably be a less efficient business model.
+
+---
+
+**Client** [00:27:00]
+In terms of execution so far, are there any red flags?
+
+**Expert** [00:27:05]
+No. In terms of what, sorry?
+
+---
+
+**Client** [00:27:09]
+In terms of execution, how they've performed so far.
+
+**Expert** [00:27:14]
+At least from my perspective, what I care about is energization timelines, and for that we're on track. The power has been constantly on track and effectively bridging the two phases. On that, I don't have really anything to share.
+
+---
+
+**Client** [00:27:29]
+Got it. How did you guys select VoltaGrid?
+
+**Expert** [00:27:34]
+It was very opportunistic, like inbound, and then we took it from there. We analyzed, we assessed their solution. To be honest with you, it's not like we did a full market scoping. We don't have time to do that. Very opportunistic, inbound, assessed the solution. We had one very small deployment before that, and then we went with them, and that was the process.
+
+---
+
+**Client** [00:28:00]
+It sounds like a pretty quick process. I would have thought that usually with these large data center deals, you pan beforehand. Is there some need that emerged out of nowhere? That's why it sounds like there's not an RFP, there's no formal evaluation process.
+
+**Expert** [00:28:20]
+A full RFP, I'm not saying you could not do that. To put things back into perspective, Abilene, the first phase was a 12-month process. It was the fastest data center to be ever built. An RFP takes three months. You just have to put things back into perspective. Obviously, it was not like we received an email, and then a week later we signed a contract. It would be oversimplifying. It was a pretty quick process. It was not the first time that VoltaGrid was doing this. Maybe not at this scale. There was a diligence process.
+
+---
+
+**Client** [00:28:59]
+I was just asking why was that. It sounds like it's a one-off situation. Why was that the case? Are you guys planning to use VoltaGrid in a future deployment?
+
+**Expert** [00:29:12]
+They are meeting a very specific need in the industry, which is fast power, but not meant to be long-term supply. That is where their expertise lies. I will only say that there is a need for that in the industry. Think about all the data center projects that are getting built. There is a need for construction power. There is a need for someone to bring those modules rapidly on site. Even if they do not have a proprietary technology, there is a need for someone that can take on these contracts.
+
+Also, there is a lot of projects where grid power could be delayed, or even other behind-meter solutions could be delayed. I could see a project where Bloom is meant to be the primary power solution, and with their order book fully stacked, I could see them not be able to execute on time.
+
+Just a parenthesis here, in case this is helpful. Whenever you structure a contract with, let's say, an OEM like Bloom, obviously, you're facing execution risk, because Bloom has never deployed at that scale. Something you negotiate often in those types of agreements is called replacement costs, which basically means, "Hey, Bloom, you have to deliver by X date. Obviously, you have some buffer. If you're not able to deliver by X date, I have to find a replacement. Otherwise, I have a $30 billion asset stranded." Usually, what you come up with in those agreements is whatever solution you have to go for instead of what you were promised, if the extra cost of that, the OEM has to make you whole.
+
+For example, if let us say Bloom does not deliver by 2028, they were supposed to, you could go to VoltaGrid and say, "Hey, I need power for six months because my Blooms were delayed." You go to Bloom, and you use your contract as a way for Bloom to make you whole on those replacement costs. This is just one example where those fast-to-deploy solutions could have a purpose. There are other examples. But I can just point to some examples where VoltaGrid could be helpful for other deployments.
+
+---
+
+**Client** [00:31:17]
+Got you. That is helpful context, one of the things that we are trying to figure out is, like you said, it sounds like VoltaGrid has really been advantaged so far just by their relationships and just having those early deployments. Curious to hear what you think about your outlook for them in terms of will they still be the go-to provider if we look three years out, then if we take a longer lens, longer term lens of things, and think about five, six years out. Do you think that they are still going to be as compelling of an option compared to all the rest?
+
+**Expert** [00:31:49]
+The bottleneck that they're trying to solve for is probably not going to disappear anytime soon, because you have such a high demand for behind-the-meter power, and people tend to see behind-the-meter power as the silver bullet. It's not really. Every time you deploy behind-the-meter power, you're introducing a third-party risk. The risk that those OEMs fail to perform, to deliver on time, I think is pretty significant.
+
+For all the scenarios where behind-the-meter equipment will be delayed because the demand is so high, obviously, those OEMs will never refuse business. They will always try to make it work. I think that the amount of business opportunities where long-term power solutions are delayed and you need a bridge to satisfy your obligations under your own contract, because at the end of the day, you're facing a tenant or you're facing an AI lab, like an end user.
+
+Obviously, you need to meet your obligations under that contract. If you have to rely on a bridge power solution, that could be a VoltaGrid, that could be others, but at least it gives you an indication on where the market is heading. I think the markets for those types of opportunities will continue to grow. Whether VoltaGrid will remain a leader. Whether I'm going to continue to use VoltaGrid. I think the markets for those types of solution is meant to grow in the future because again, the execution risk on the other permanent gas solutions is meant to increase.
+
+---
+
+**Client** [00:33:15]
+Another way to ask that question, I totally hear you on the opportunity is only going to grow, but if we really try to zoom in on their points of differentiation today and what they do well today compared to everybody else, how enduring is the value of their early deployments? How much do you think future clients will care about finding a partner that has actually done these deployments before successfully? The value of those relationships, is that something that we can think will have enduring value or is there really, like you said earlier, it basically all comes down to speed to power and price and that is it?
+
+**Expert** [00:33:51]
+The fact that they have a large deployment for in the hyperscaler, for example, in the case of Abilene, is definitely a big selling point. Let us take an example. If you have two VoltaGrid style companies, and even if one is slightly less expensive, but the other one is VoltaGrid, but has experience deploying almost 300 MW of recip modules successfully on time, even if it is slightly more expensive, if I talk to my contractor, you probably would go with them.
+
+It is going to be a trade-off ultimately versus pricing versus the risk you are willing to take. I go back to the provisions. Most hyperscalers and co-locs negotiate when they sign PPAs or buy gas generation equipment. Usually, the replacement cost is held by the supplier.
+
+On the developer's perspective, you are probably less sensitive to exact pricing on those bridging solutions because ultimately that cost is handled by your supplier. Obviously, your supplier will want to put a cap. Sometimes you can get away without a cap. The pricing sensitivity on bridging power solutions is actually lower than you think of. The provider selection comes down to experience and bankability and track record. The second item is the lead times. Again, I think they have successfully deployed in Texas.
+
+You can form your own opinion on this, but I do think they are well-positioned. I think that track record is extremely helpful when it comes to those deployments, especially since what they are trying to meet is temporary power and bridge power solutions, where being able to execute on time is extremely critical because you are trying to solve what another solution cannot do. That is exactly what you are trying to solve for. Does that help?
+
+---
+
+**Client** [00:35:44]
+You were saying if you have two options, one has the experience of VoltaGrid, one does not. You are inclined to pick the one with experience, and then I lost you after that. Could I just get your quick take of what you ended up with?
+
+**Expert** [00:35:59]
+What I said is, what you're trying to do with bridge power is because another solution didn't come on time. If you go back to what I said about how these behind the meter power agreements are usually structured, the replacement cost is usually you try to put that on the supplier. For example, a GE Vernova or a Bloom is not able to deliver on time, then you negotiate a replacement cost, and they're on the hook for that. In most instances, in my experience, what I've been able to negotiate for, usually you get away without a cap because again, that's fully in their control.
+
+What you argue commercially is, "You guys, if you cannot deliver on time, I cannot be on the hook for any delay." Usually you get away without putting a cap on that replacement cost, which means your cost sensitivity on whatever VoltaGrid or another player ultimately costs you, you're going to pass that cost through your supplier.
+
+I'm not saying it's the case in every scenario. Abilene is different. Every project is different, but probably the cost sensitivity for a VoltaGrid type solution is probably not as high as you could think. Then the selection, whether you go VoltaGrid or someone else, will probably come down to two parameters. Mainly is going to be when they have capacity, so lead times. I know the VoltaGrid team, they're expanding quickly. They have a footprint in Texas, and I think the supply and the availability looks good.
+
+The other one is obviously the track record and them having successfully helped in neocloud and hyperscaler deploy bridge power to enable the build-out of one of the largest campuses. Track record are critical in this industry, especially as you move fast and you're trying to build things and limit execution risk. To respond to your question, I cannot tell you, "Yes, I'm going to use VoltaGrid" or "No, I'm not going to do it." What I can tell you is, I think VoltaGrid is decently positioned to capture a lot of the growth that the market will see in terms of bridge power and temporary power.
+
+---
+
+**Client** [00:38:08]
+Got it. That makes perfect sense. How much should people worry about hyperscalers bringing the ability to stand up BTM power in-house in the next couple of years?
+
+**Expert** [00:38:19]
+To be honest, I am talking to Hyperscaler where they do not want to expand their team to do site selection and energy development in-house because they just do not want to first maybe over-hire or just manage all of this internally, and they just do not have the resources right now. It is a bit funny, this back and forth between, "Oh, we are going to fire people, then we have to hire because we fired too many."
+
+Neocloud definitely, I can tell you it is very unlikely they try to internalize this because it is just not their business model. Again, I definitely cannot see in the future, but I would be surprised if Hyperscaler are heavily interested in trying to internalize this. I think there is still a strong case for companies like VoltaGrid for this to be handled externally.
+
+To be honest with you, I do not see a big risk. It is the same feedback from a lot of things in the industry. You always think like, "Oh, what if Hyperscaler do that themselves?" It is the same with data center development. Why is not data center developer like Applied Digital or like Vantage or Core Scientific? Why cannot the Hyperscaler do that themselves? They have so many priorities. It is a lack of resources. It is also a lack of experience and focus. Other people just do that, and they do that well, and they are just better suited to do that. The risk ultimately is fairly low.
+
+---
+
+**Client** [00:39:49]
+All good. Thanks for your time right now. Have a great rest of your day.

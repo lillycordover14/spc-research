@@ -1,0 +1,563 @@
+---
+theme: "Industrial & Supply Chain"
+title: "Global Director for AI/ML and Engineering at Ford Motor Company Sees RealWear Devices Driving Significant Operational and Safety Improvements in Manufacturing"
+doc_id: EC-1000000-245021
+source_line: "Realwear · Expert Call · Customer · 01 Sep 26"
+date: 2026-09-01
+company: "RealWear"
+pages: 2 of 17
+saved: 2026-10-19T17:46:14.412Z
+url: https://research.alpha-sense.com/search?search_id=tmp-dpwh5s830wf1fshuzdr6bp&sort=DATE&order=DESC&docid=EC-1000000-245021
+---
+# Global Director for AI/ML and Engineering at Ford Motor Company Sees RealWear Devices Driving Significant Operational and Safety Improvements in Manufacturing
+
+Voice of Customer
+
+DATE PUBLISHED
+
+01 Sep 2026
+
+INTERVIEW DATE
+
+27 Aug 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+AI Interviewer
+
+PRIMARY COMPANY
+
+RealWear
+
+SMART SUMMARY
+
+Summary
+
+The interview covers the deployment, impact, and evaluation of RealWear devices in a large automotive manufacturing environment, including operational benefits, competitive landscape, adoption drivers, and areas for improvement.
+
+EXPERT BACKGROUND
+
+- Global technology leader in AI/ML and engineering at a major automotive manufacturer, responsible for building technical capabilities and leading both strategic purchasing and hands-on deployment of RealWear devices in manufacturing environments.
+
+EXPERT SENTIMENT
+
+- Views RealWear as delivering exceptional operational and financial value, with a strong ROI and significant improvements in safety and efficiency.
+- Believes RealWear's competitive advantages are widening due to industry focus, ruggedness, and integration, making switching unlikely unless a competitor can surpass on safety and ease of use.
+- Expects continued growth in RealWear adoption and spend, driven by positive user experience, safety, and increasing familiarity among staff.
+
+TAKEAWAYS
+
+- RealWear devices (HMT-1 and Navigator series) are deployed to 1,500-2,000 users (5% of the manufacturing team) and have been in use for nearly four years, primarily for remote expert guidance and digital inspections.
+- Deployment led to a 35% improvement in safety, 40%-75% reduction in machine downtime, 90%-95% reduction in response/travel time, and a 233% ROI with payback in 3-4 months.
+- Key decision factors included hands-free voice control in noisy environments, safety (peripheral vision), ruggedness, hot-swappable batteries, and seamless enterprise software integration.
+- Switching costs are high due to hardware, accessory, software, and retraining investments; a price increase of 70%-120% would be required to consider alternatives.
+- The expert rates RealWear highly (NPS 9/10) for product robustness, reliability, and usability, but suggests improvements in AI-driven predictive maintenance, display ergonomics, and enterprise integration.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Role Overview
+
+RealWear Usage and Deployment
+
+Use Cases and Impact Analysis
+
+Competitive Landscape and Market Adoption
+
+Growth, Support, and Future Outlook
+
+EXPERT BIO
+
+Global Director For Ai / Ml And Engineering at Ford Motor Company. Expert can speak to their experience in implementing RealWear, and is very familiar with its use case.
+
+Global Director for Artificial Intelligence, Machine Learning, and Engineering at Ford Motor Company. The expert is responsible for connected vehicle technology, leading the company's AI and machine learning initiatives, overseeing fleet management systems, and driving robotics-led AI engagements. The expert defined and executed data and AI strategy for a Ford business line, established AI and data governance and a center of excellence, and led deployment of predictive maintenance and connected-vehicle platforms using cloud, IoT, and machine learning.
+
+Prior to Ford, the expert was the Engineering Manager for Asia Pacific Automotive (Navigation and Mobility) at Nokia Location & Commerce, leaving August 2013. The expert led engineering and product delivery for navigation and smart mobility initiatives across the Asia Pacific region and contributed to platform modernization and scaling of B2C mobility services. Earlier, the expert served as Software Head for India at Tokheim (left December 2010), Technical Project Manager at Sys Eng Pte—Continental Automotive (left April 2009), and held senior automotive software engineering roles at WABCO and Harita TVS Technology Limited.
+
+The expert can speak to physical AI and connected-vehicle data strategy, AI and machine-learning program leadership and governance, fleet training data governance and monetization, data strategy, data management and quality, cloud and enterprise architecture, IIoT and industrial automation, and technology roadmapping and budgeting, including building AI/data centers of excellence and innovation labs.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**AI Interviewer** [00:00:00]
+Thanks for joining today. The goal of our conversation is to understand your experience as a customer of RealWear, how you use it, the value it brings, how it compares to alternatives, and your overall perspective on the product and the market. We're aiming for a pretty in-depth conversation, so I really appreciate your time. To kick things off, could you tell me a bit about your organization and what it does?
+
+**Expert** [00:00:27]
+My organization is in automotive domain, and they do manufacturing.
+
+---
+
+**AI Interviewer** [00:00:32]
+Got it. Automotive manufacturing. What's your role within the organization, and how does it relate to your use of RealWear?
+
+**Expert** [00:00:41]
+Basically, I am a technology leader who is responsible for building up the technical capability in the space of RealWear.
+
+---
+
+**AI Interviewer** [00:00:48]
+Interesting. You're leading the technical capability building around RealWear. Would you say you are more of a decision-maker in terms of purchasing and strategy, or more of a hands-on power user, or both?
+
+**Expert** [00:01:01]
+Both.
+
+---
+
+**AI Interviewer** [00:01:04]
+Got it. Which specific RealWear products or modules is your organization using?
+
+**Expert** [00:01:10]
+HMT-1 and Navigator series.
+
+---
+
+**AI Interviewer** [00:01:14]
+Great. Which teams within your organization are actually using these devices?
+
+**Expert** [00:01:20]
+Basically, the manufacturing team.
+
+---
+
+**AI Interviewer** [00:01:24]
+Roughly, how many people on the manufacturing team are using RealWear? Do you have a sense of what percentage of that team that represents?
+
+**Expert** [00:01:34]
+Basically, 1,500-2,000 people are using this.
+
+---
+
+**AI Interviewer** [00:01:38]
+That's a significant deployment. Of the overall manufacturing team, do you have a rough sense of what percentage of the team that 1,500-2,000 users represents?
+
+**Expert** [00:01:50]
+They represent 5%.
+
+---
+
+**AI Interviewer** [00:01:52]
+Interesting. There's still quite a large portion of the manufacturing team not yet on the platform. You've been with RealWear for a few years. How long exactly has your organization had a relationship with RealWear?
+
+**Expert** [00:02:08]
+It is almost four years.
+
+---
+
+**AI Interviewer** [00:02:11]
+That's a solid relationship. Moving on, I'd love to understand how your organization actually uses RealWear day to day. What are the main use cases and pain points it's solving for you?
+
+**Expert** [00:02:24]
+I can start with the use cases. Primary use case would be the remote expert guidance and maintenance. Here, there is something called on-site manufacturing engineers and plant technicians, stream live high-definition video directly to centralized OEM subject matter experts during the equipment downtime, tooling maintenance, or plant commissioning. Second use case was guided digital workforce and inspections, so step-by-step assembly instructions, quality checks, maintenance logs displayed directly in the user's field of view without holding a tablet or paper manual.
+
+---
+
+**AI Interviewer** [00:02:59]
+Those are really compelling use cases. On the remote expert guidance side specifically, what was the pain point before RealWear, and how significant was the downtime problem?
+
+**Expert** [00:03:10]
+Before that, one of the biggest drawbacks with the downtime, basically, there were basically the operational pain points. While RealWear hardware is the industry benchmark for microdisplay realism, deploying it on the active manufacturing lines highlights specific physical, technical, and operational friction points. I can understand that there is a downtime. That time, the remote experts were able to help us make the situation much better from the safety point of view, and also making sure that the right decisions are taken when it is required. Many times, even the proactive steps can be taken to prevent certain hazards during the maintenance time. This is something which the RealWear is able to help. This was something not there earlier. That time, it was more of manual way of monitoring and taking a call in the maintenance phase.
+
+---
+
+**AI Interviewer** [00:04:01]
+That's really helpful context. Before RealWear, it was more manual monitoring and decision-making during downtime. RealWear brought in real-time remote expert guidance that improved both safety and decision quality. How significant was the impact in terms of, say, reduction in downtime duration or improvement in safety incidents?
+
+**Expert** [00:04:23]
+It was able to improve the safety by almost 35%.
+
+---
+
+**AI Interviewer** [00:04:27]
+That's a meaningful improvement. On the downtime reduction side, did you see a similar kind of impact there?
+
+**Expert** [00:04:36]
+Very much.
+
+---
+
+**AI Interviewer** [00:04:38]
+Can you give me a rough sense of the magnitude of that downtime reduction?
+
+**Expert** [00:04:44]
+Can you please repeat the question, in what context?
+
+---
+
+**AI Interviewer** [00:04:48]
+Sure. In terms of downtime reduction, roughly, how much did RealWear help reduce the duration or frequency of equipment downtime on your manufacturing lines?
+
+**Expert** [00:04:59]
+I can just talk in terms of different metrics which the RealWear was able to do. Typically, the remote expert support was able to bring the reduction to almost 40%-75% in overall machine downtime. When you look at the other metrics which we were also looking at, I can always talk about, for example, response or travel time. Before the pre-RealWear metric, it was somewhere around 12-48 hours. After the post-RealWear, it became five to 15 minutes. That means there was actually the significant 90%-95% improvement on the reduction magnitude.
+
+Second time would be mean time to repair. Initially, it used to take, in pre-RealWear metric, it was four to eight hours, but post-RealWear metric, it was around 1.5 to three hours. Basically, the reduction is almost 40%-60%. Now, coming back to the first-time fix rate thing. Initially, pre-RealWear metric, it was -60% to -70%, but after post-RealWear metric, it improved from 85% to approximately 95%, so almost 20%-30% improvement in that space.
+
+Also, on overall line downtime, if you look at the pre-RealWear metric, the baseline, and then the post-RealWear metric reduced by almost 50%, it was the reduction of almost 40%-75% overall. Basically, if you look at it, the reasons behind that was the key operational drivers behind the reduction was the elimination of transit latency. When I say the transit latency, the largest share of unplanned downtime cost is spent waiting for the subject matter expert to arrive on the site. Connecting on OEM specialist via Microsoft Teams or Zoom in under five minutes shifts the bottleneck from logistics to the actual repair.
+
+Number two, the key operational drivers behind the reduction was parallel engineering troubleshooting. Here, there were multiple experts like PLC programmer, mechanical engineers, and OEM suppliers. These were the multiple experts. They can join a single call simultaneously. They can resolve multi-discipline fault in one session rather than back and forth visits. Third way I can think of is the way it was able to improve the thing was based upon the hands-free visual verification. Because the operator keeps both hands on tools while streaming video, active diagnostic steps, measuring the voltage, checking air pressure, gauges, tracing wire harness, etc., they occur 2X-3X faster than with handheld tablets or the phone cameras. Basically, this is the way that this RealWear metrics was able to reduce a lot of time.
+
+---
+
+**AI Interviewer** [00:07:44]
+Those are really striking numbers. 90%-95% reduction in response time, 40%-75% reduction in overall line downtime. That's a substantial operational impact. Given all of that value, how do you think about the return on investment for RealWear? Does the spend feel justified relative to those gains?
+
+**Expert** [00:08:09]
+If I have to think about it, this number which I've been talking about is really very significant. Let me be a little bit in detail. The return on investment of deploying the RealWear over legacy methods such as phone calls, paper manuals, for example, handheld tablets, this is measurable financial and operational returns within three to six months. The primary return of investment drivers, they were able to focus across three financial budgets. That's number one, avoiding the travel expenses, reducing the line downtime, and labor productivity gain.
+
+If I have to think about it, the return of investment, I will like to talk definitely on these three things. Number one would be the travel avoidance. Here, a primary cost metric could be the hard travel expense. Here, the financial was that every trip here normally used to cost between $3,000-$10,000, and that you can actually save, basically. That could be actually replaced by the OEM visits remotely. Remotely, it can be done through the video sessions and all. Also, replacing the OEM field visits with immediate see with that.
+
+Second thing I can categorize accordingly could be that I can see that the downtime cost, the cost per minute, per hour, if you look at it, that was $2,000 to around $50,000 per hour recovered. I could think of the mechanism through which it was achieved was accelerating the diagnosis of MTTR, bringing the high-cost assembly lines back online almost 40%-75% faster. Third was the category of tech utilization. In the tech utilization, there was actually the primary cost metric was labor rate efficiency.
+
+If you look at the financial or the metric impact, it was 20%-30% increase in the wrench time. The mechanism, the way it was able to achieve was actually the hands-free voice command that eliminates stopping work to handle manual tablets or phone screen. The last, not the least, it could be even the first time fix, where the repeat repair rate, there was actually 15%-25% improvement in FTFR, where the elimination of the secondary downtime caused by the incorrect initial diagnostic was the return of the mechanism.
+
+The net year gain, you will be at least able to get around 233%. Basically, this you will be able to get it back in three to four months time. The total cost ownership advantage basically would be lower device failure rates.
+
+For example, VDC, the research has also been indicated that the industrial-grade RealWear headsets have annual failure rate of around 1% compared to 15%-20% for non-rugged handheld devices. Second, also, the five-year total cost of ownership, if you look at it, is estimated almost 44% less than the handheld tablets or 70%. It could be even less than the consumer smartphone when factoring in. This is the overall thing which comes on the tops of return on investment.
+
+---
+
+**AI Interviewer** [00:11:13]
+That's an incredibly detailed breakdown. A 233% net return in year one, with payback in three to four months. That's a very compelling ROI story. Moving on to a new topic, I would love to understand the competitive landscape. What other solutions did your organization evaluate before or alongside RealWear?
+
+**Expert** [00:11:37]
+I think we had actually tried to evaluate, before choosing the RealWear, at least we went ahead and tried to have some more. Some of them at this moment. I can go one by one. For example, if I have to talk about it, there were the vendors, the Microsoft HoloLens two. The hardware category was on the mixed reality, that binocular 3D. That was on the superior 3D AR spatial thing. They were having the limitations of battery lifetime.
+
+The other one we had evaluated was Vuzix M400/M4000, which was the assisted reality monocular. The primary strength of this was having extremely light weight, that was approximately 100 g, and comfortable for full-shift wear. That was the second one. The third one, we were able to do was the Magic Leap two. The hardware category was the spatial computing or AR. It has the primary strength, if I have to look at it, it was unmatched optical quality and a wide field of view, almost 70% for complex spatial rendering.
+
+We also evaluated something called Iristick.G2, Iristick.H1. The hardware category was the assisted reality. One of the primary strengths of this was strong ATEX certification for hazardous environment. These were some of those things which we have done and taken into consideration. The core driver for choosing the RealWear over alternatives was driven by the safety and situational awareness. For example, full-screen HD AR headset like HoloLens or Magic Leap, occluded vision.
+
+The RealWear microdisplay sits below or above the line of sight. That way, it was allowing the technicians to step around active machinery without trip hazards. Second thing was the plant noise performance. The RealWear's hardware-level noise, canceling microphone array, they were able to outperform the competitors, allowing the voice commands to function reliably next to high decibel stamping presses. The third one I could think of as a core driver for choosing the RealWear over alternative was the drop protection and helmet integration. The clip-in hard hat compatibility and two-m drop resistance survived daily floor abuse better than the fragile mixed reality visors. These were some of the core drivers for choosing the RealWear over the other alternatives which I just mentioned.
+
+---
+
+**AI Interviewer** [00:14:00]
+That's really helpful. Safety, noise performance, and ruggedness were the key differentiators for RealWear in your evaluation. Where do you think RealWear falls short compared to those alternatives? What are its weaknesses?
+
+**Expert** [00:14:18]
+Okay. I will always say that, basically, while we were evaluating the RealWear headsets like HMT-1 and Navigator series, which was across the industrial deployment, they revealed some of the operational, technical, and ergonomic shortcomings. Maybe I can go one after the other for that. First one, I'm going to talk about the display and visual limitations. The monocular 2D screen, which is having no spatial AR, the microdisplay provides a flat 2D screen experience, which is equivalent to looking at a seven" tablet held at arm's length. It cannot project or system 3D spatial graphics, digital twins, or CAD overlays, which are pinned to real-world machinery like binocular mixed reality devices like Magic Leap.
+
+Second thing within the display and visual limitations I can think of would be the focal shift and visual fatigue, wherein if I have to think about it, you have technicians, they must constantly shift the focus between their physical tasks and the tiny near-eye display. Over extended troubleshooting sessions, almost like 1.5 hours, this way, that led to the strain in the eyes, even led to the headache and visual fatigue.
+
+Third thing under the display and visual limitation I can think of would be the camera misalignment. Because the camera is mounted on the device housing rather than in the user's exact optical center, the remote expert's field of view often misses what the technician is looking at, that way, requiring the manual boom adjustment. This was the camera misalignment thing. These are three things under the display and visual limitations.
+
+Now, coming back to hardware and ergonomic constraints, I can think of the first thing would be the weight distribution and long-term comfort. If it is weighing around 370 g-490 g, depending on the model and the hard hat clips, the asymmetrical weight on one side of the hard hat causes neck strain during almost eight hours of shift.
+
+The second thing under hardware and ergonomic constraints I can think of would be the battery life under heavy streaming. While hot-swappable batteries may prevent absolute downtime, continuous high-definition video calls, they were combined with active Wi-Fi streaming, drain batteries within two to three hours, that way, requiring the technicians to carry the spare packs on the plant floor. These are the two things which I can think of from the hardware and ergonomics constraint.
+
+Now, coming back to the voice control and environmental friction, I can think of the first thing would be the voice command failure in extreme noise. Although hardware noise cancellation functions up to -90 dB, sudden high decibel impulse sound, for example, the stamping presses or horn checks, they misinterpret or block voice input, thereby forcing the reliance on manual button pushes.
+
+The second thing under the voice control and environmental friction is the multilingual and heavy accent sensitivity. Here, the voice recognition can struggle with non-native accents or heavy regional dialects in multinational manufacturing facilities unless custom voice profiles are meticulously configured. These are the two things under the voice control and environment frictions which occurs within the RealWear. Coming back to the network and software dependencies, here, the high bandwidth dependency.
+
+The live see what I see, the HD video calls, they freeze or drop in areas of the plant with poor Wi-Fi coverage or high electromagnetic interference near heavy machinery. Also, I can think of basically the complex enterprise IT onboarding. You have headless Android setup without a physical touch keyboard or mouse makes initial enterprise Wi-Fi and MDM enrollment cumbersome for plant technicians without dedicated IT support. Basically, if I have to think of it, these were the challenges having the RealWear team.
+
+---
+
+**AI Interviewer** [00:18:13]
+That's a really thorough breakdown of the limitations. Given all those weaknesses you've described, display limitations, ergonomics, voice control issues, network dependencies, do you think RealWear's advantages over its competitors are getting stronger over time, or are they starting to erode?
+
+**Expert** [00:18:33]
+If I have to think of that, I can always think of, while general XR and spatial computing competitors like Apple Vision Pro, HoloLens, and consumer smart market, they attempt to solve the complex 3D mixed reality, RealWear's single-minded focus on pragmatic hands-free assisted reality for hard visual environment has widened its advantage over time. I can talk a little bit more about it in this manner, what advantages are becoming more and more in favor of RealWear, the widening competitor divergence and market abandonment.
+
+What is happening is the competitors are abandoning the industrial MR. The major competitors that pushed the heavy binocular 3D headsets have actually stepped back or shifted their focus. For example, think of Microsoft has halted the HoloLens hardware production while Apple scaled back the Vision Pro hardware initiative due to high friction in enterprise manufacturing space. The second thing, in terms of widening the competitor divergence in market abandonment, the other thing I can think of is the assisted reality mode. The competitors, they try to make the complex 3D visual engine.
+
+Basically, what happens is the RealWear stuck to microdisplay 2D headset info over time. Enterprise buyers, they realized that 90% of their frontline downtime task fully required was a basic document and viewing and see what I see video streaming, not floating 3D holograms that block the peripheral vision. That's the other part of it, which is under the widening competitive divergence and market abandonment.
+
+Coming back to the deepening industrial ruggedness and certification gaps, if you look at the intrinsic safety, for example, ATEX leadership, developing explosive-proof intrinsically safe hardware requires a very, very deep multi-year regular engineering. As the light duty competitors like Vuzix or consumer pivoting brands cannot easily retrofit consumer chases for heavy hazardous or heavy automotive plant zone.
+
+The other thing I can think of in deepening industrial ruggedness gap is the hard hat and PPE ecosystem lock-in. RealWear has refined the drop testing, two-m drop onto concrete, and modular clip-on compatibility across hundreds of industrial hard hat and clean room brands. Third, I can think of edge AI and hardware-level voicing processing. If you look at it, the superior noise cancellation in modern chips, so basically, what is happening, the early voice control was sensitive to factory noise.
+
+RealWear's newer chips, basically, I can think of the Navigator series. They were able to incorporate the dedicated neural processing units, which were trained with success to filter out the industrial impulse noises up to 100 dB. Competitors were relying on the standard cloud-based voice processing freezer when factory Wi-Fi degrades. The other thing under edge AI and hardware-level voice processing, which the gap is widening, is on the on-device multi-modal AI.
+
+Recent platform updates, they allow the frontline workers to run local low-latency computer vision routines. Basically, it could be thermal hotspot detection, directly on the device without requiring the full cloud bandwidth. This is the thing which is actually widening the gap between the RealWear and others. Also, the other thing I can think of is the ecosystem, the ecosystem integration and modular longevity.
+
+This is basically nothing but modular upgrades. RealWear introduced the modular hardware architecture, where it was able to have a swappable camera module. Also, it can also have a thermal cameras, hot swappable battery pack. Competitors, they continue to force enterprises to rebuy entire $3,000+ headsets when camera resolution or processor change, whereas the RealWear customers can upgrade just the camera head on existing chases.
+
+These are the advantage which RealWear customers have. Also, the turnkey enterprise software partnerships, in this way, I can think of RealWear has locked down the deep native Android OS integration with key frontline tools like Microsoft Teams, Zoom, etc. Instead of competing with software vendors, they engineer their OS to turn standard mobile applications into voice navigable interfaces without extra developer code. Overall, if I have to say, these are the ways why RealWear is doing better than their competitors. The gap is increasing, and RealWear is getting better and better with the competitors with the time.
+
+---
+
+**AI Interviewer** [00:23:10]
+That's a really comprehensive view. RealWear’s advantages are actually widening, driven by competitor retreat from the industrial space, deeper ruggedness certifications, edge AI capabilities, and ecosystem lock-in. Is there anything a competitor could offer that would actually compel you to switch away from RealWear?
+
+**Expert** [00:23:32]
+No, not at this moment.
+
+---
+
+**AI Interviewer** [00:23:34]
+Interesting. Is there a specific reason why nothing a competitor could offer would compel you to switch right now?
+
+**Expert** [00:23:43]
+Safety is a primary concern. As I told you, also, the ease of working with the device is the other thing. These two play a very vital role when it comes to the heavy industry scenario. These two things, for the competitor, they should be able to do this better, then only it is possible for the switch, not if they are not able to do that.
+
+---
+
+**AI Interviewer** [00:24:03]
+That makes a lot of sense. Safety and ease of use are the two non-negotiables. Moving on to a new topic around the broader market, how widespread do you think adoption of solutions like RealWear is across the automotive manufacturing industry? Is it fairly common, or do you see it as still largely untapped?
+
+**Expert** [00:24:26]
+I think industry-wise, there is a very good adoption, basically. What has happened is that RealWear has achieved a widespread, nearly standard adoption across the global automotive sector, spanning both the smart manufacturing assembly plant and after-sales dealer service network as well. Rather than remaining a niche pilot technology, RealWear is actively deployed across significant portion of the top-tier original equipment manufacturers, the Tier one suppliers, and commercial parts manufacturers.
+
+If you look at it, the primary adoption vectors in automotive, for example, the key automotive OEMs and suppliers deploy RealWear. For example, we have BMW Group. One of the largest public enterprise deployments. They scaled RealWear devices running TeamViewer across 347+ BMW centers and many dealerships in North America to accelerate the vehicle diagnostics and technical escalation. The other company, like Volkswagen Group in U.K., they deployed RealWear devices, which was integrated with the Atheer AR across its van centers and authorized repairs, reporting up to 93% increase in repair efficiency and eliminating the regional engineer travel.
+
+The third company where it is used is the Toyota Lexus. They have implemented RealWear devices across the European and German dealer networks, such as Lexus Germany, for real-time remote master technician support during complex diagnostic issues. Ford Motors have also utilized assisted reality devices within advanced manufacturing and plant operations for remote maintenance, line commissioning, and global expert collaboration.
+
+Volvo, I can think of, they have deployed for after-sales service and dealer workshop diagnostics, thereby reducing manual reliance on paper schematics. Also, talking about the Tier one and component suppliers like Michelin, they are using the RealWear for remote tire inspections, R&D testing, and quality autopsies across global workshops, then you have Hirschmann Automotive. They have deployed RealWear with Cisco Webex expert on-demand across the international harness or connector manufacturing plants to manage cross-border plant maintenance.
+
+I can think of even Goodyear. They have integrated RealWear with Microsoft Teams for plant audit and remote equipment troubleshooting. When you look at overall, if I have to think of it, the primary adoption vectors in automotive. Basically, the after-sales dealership services and repairs, OEMs use the RealWear access to connect to the dealership repair technician directly with the regional technical assistance centers and also the smart manufacturing assembly line uptime. The plant technicians they use see what I see is aiming to bring the central machinery expert into assembly line and the audit part.
+
+These are the things which actually help the industry-wide adoption of RealWear. At the scale and depth of market penetration, the industry dominance is among hands-free assisted reality, like the monocular microdisplay devices. The RealWear holds a dominant market share in automotive operations compared to the competitors. Deployment size, individual automotive deployments, they typically range from 100 to over 1,500 units per OEM network, scaling primarily through the software partners like TeamViewer, Frontline or Microsoft Teams, etc. Overall, the RealWear is actually very widely accepted across the automotive industry.
+
+---
+
+**AI Interviewer** [00:27:59]
+That's a really comprehensive picture of the market. It sounds like RealWear has moved well beyond the pilot phase and is genuinely mainstream in automotive manufacturing and after-sales. Given that level of adoption, what do you think the growth outlook is for RealWear going forward, and what's driving that outlook?
+
+**Expert** [00:28:19]
+If I have to think about the coming year, the way the RealWear is getting adopted, if I have to look at it, the growth outlook for the RealWear is exceptionally strong. They are characterized by the steady double-digit compound annual growth, which I can think of 15%-25% within the enterprise smart glasses and industrial wearable sector, which I have read somewhere. That is there.
+
+Also, while consumer-facing XR devices like Apple Vision Pro or Meta Quest, they face adoption cycles and high friction in heavy industry. RealWear’s pragmatic focus on monocular, hands-free assisted reality positions it to capture sustainable enterprise expansion. If I have to look at the key growth drivers for it, then I can think of some six or seven points. Basically, the one I can think of is the industrial AI and multimodal copilot integration. Under that, I can think of the context-aware field assistant.
+
+Modern RealWear platforms are evolving into hardware hosts for enterprise AI copilots, and then zero-touch analytics, where technicians can look at complex industrial control panel or gauge and on-device computer vision automatically. They transcribe the values and then they flag the anomalies without manual query input. One of them is the industrial AI and multimodal copilot integration. The second one is scaling from pilots to the fleet-wide standardization. It's like mass commercial rollouts. It's like early-stage deployments, five to 20 units for testing. They have largely concluded.
+
+The major automotive OEMs like BMW, Volkswagen, and energy giants and Tier one suppliers are really shifting towards enterprise-wide standardization. They are procuring hundreds to thousands of units across global assembly line and dealer service networks. I can also think of under this standard issue with PPE integration. RealWear is intrinsically treated not as a specialized tech gadget, but as standard-issue personal protective equipment for field service engineers and plant maintenance crews.
+
+The third point which I can think of, which is a key growth driver, would be the macro-level shortages and the aging workforce. If I have to think of it, it could be the skill level deficit. The manufacturing and the field services, they face massive demographic shift as senior technicians retire. Also, the knowledge capture and the fast onboarding. Here, RealWear is able to enable one-to-many expert guidance and allowing a single veteran engineer to support five to 10 junior technicians remotely. This guided teaching workflows reduce the onboarding and training cycle for new hires by almost 30%-50%. That way, I think RealWear is able to support this thing.
+
+Number four key growth driver is the 5G private networks and edge computing adoption and the latency upgrade. As automotive and manufacturing facilities, they upgrade to private 5G networks, the historical friction of Wi-Fi dead zones on factory floors diminishes. An ultra-low latency allows the seamless high-resolution video streaming and cloud-based CAD viewing. This is the thing under the 5G private network and edge computing adoption, which is a key growth driver. Last but not the least I can think of is that the competitors are retreating from the heavy industrial niche.
+
+The favorable competitive landscape, as binocular mixed reality competitors like HoloLens, they pivot away from rugged full-shift manufacturing. Here, RealWear holds an almost uncontested position in high noise, high hazard production environment. In strategic summary, I can think of, at the end, when I talk about the market expansion, the driver impact could be driven by global Industry 4.0 adoption, connected worker initiatives, and rising maintenance costs. The strategic outcome would be the strong demand shift from North America, Europe into rapid adoption across APAC.
+
+The other thing is that the software ARR shift, think of it more like hardware sales that trigger recurring SaaS revenue via software partner ecosystem. The strategic outcome would be high customer retention and expendable lifetime value per deployed devices. Third is the hardware evolution, where the modular cameras, thermal imaging additions, and lightweight ergonomics would be the driver in driving the impact. The strategic outcome of that would be it expands beyond the maintenance into quality assurance, safety audits, and logistics. This is how RealWear is really expected driving the things almost 15%-25% compound annual growth. These are the key growth drivers which I mentioned above.
+
+---
+
+**AI Interviewer** [00:32:59]
+That's a very thorough and insightful analysis of RealWear's growth outlook, driven by industrial AI integration, scaling deployments, addressing labor shortages, 5G adoption, and a favorable competitive landscape. It sounds like a very positive trajectory. Now, I'd like to shift our focus a bit to the sales and selection process. Were you personally involved in the buying process and the decision to bring RealWear into your organization?
+
+**Expert** [00:33:28]
+Yes, I was one of them.
+
+---
+
+**AI Interviewer** [00:33:30]
+What was your specific role in that buying process?
+
+**Expert** [00:33:33]
+Basically, providing what could be the technical capability we will be able to build by using the RealWear, doing the technology and the performance of the RealWear product, evaluating that.
+
+---
+
+**AI Interviewer** [00:33:45]
+Got it. You were primarily responsible for the technical evaluation and assessing what capabilities RealWear could enable. What were the key decision factors that ultimately led to choosing RealWear over the alternatives?
+
+**Expert** [00:34:01]
+As I told you earlier, there were few of them. For example, I can talk about selecting the RealWear over competitors like Vuzix or Microsoft or the Magic Leap, comes down to specific additional factors, which is rooted in heavy manufacturing and plant floor operations. For example, the 100% hands-free voice control in extreme noise. Here, the factor is the plant technicians, they must keep both hands on tool, parts, or machinery at all times.
+
+The RealWear advantage was that the features, the hardware-level active noise cancellation, up to almost 95 dB-100 dB, using the multi-microphone array. When I compare it with competitors, the competitors they had was the touch pads or physical buttons on devices like Vuzix. They require removing heavy work gloves. Voice engines in generic headsets fail when heavy stamping presses or pneumatic tools operate nearby. This was one of the things, 100% hands-free voice control in extreme noise.
+
+The second one I can think of would be the safety first, the microdisplay versus spatial occlusion. Also, the factor was that preserving the full peripheral vision and situational awareness around active assembly lines, forklift traffic, and high voltage gear. Here, the RealWear advantage over the competitor was that using the monocular microdisplay positioned below or above the primary line of sight, it acts like a dashboard screen. Information is visible when looked at, but transparent when looking straight ahead versus competitors, they had full binocular that covered both eyes. That presented new trip hazards that also blocked the peripheral vision and causes the visual fatigue over full shift. This one was part of the safety-first microdisplay versus spatial occlusion.
+
+Third I can think of was the industrial ruggedness and certification. When it comes to that, the factor was that the hardware survival in aggressive manufacturing environment with the dust, oil, coolant, high drops, and explosive hazard zones. When you have these factors, then the RealWear advantage was that you have that IP67 water and dust ratings. The two-m drop resistance onto the concrete and available ATEX intrinsic safety certification.
+
+While competitors, they had more like a consumer or commercial-grade smart glasses. For example, Vuzix Blade or MR. They were under daily factory floor abuse. Fourth one was that the full-shift battery management, hot-swappable. The factor was the unplanned plant downtime and long maintenance cycles. They require continuous uptime without stopping to charge. Here, the RealWear advantage was that it includes hot-swappable batteries that allow technicians to swap a dead battery for a fresh one mid-call without losing power or disconnecting the software session. While the competitors, they had a fixed internal battery, that forced the workers off the line to recharge, thereby creating the operational friction.
+
+The sixth criteria would be the 10 key enterprise software partnerships. Here, the factor was just the rapid IT deployment without writing the custom code or building dedicated native apps. In RealWear, advantage was that an NC voice optimized integration with existing enterprise communication platforms. While competitors, their specialized platform often required custom SDK app development or proprietary software licenses to enable the basic remote video call.
+
+Basically, when you look at it, I can summarize it by saying that the key decision metrics would look like this. For example, the criteria could be the primary display, where RealWear had monocular microdisplay, while the others, they had binocular holographic or monocular display. The second criteria was the noise cancellation, where RealWear had almost 95% 100% dB noise cancellation, whereas for others, it was more moderate.
+
+Third was the ruggedness rating, which RealWear had, while others, they had only IP50. The battery strategy, which RealWear had hot-swappable full shift, while others, they had, for example, replaceable or built-in two-hour battery. The last but not the least would be the target use case, which was heavy manufacturing maintenance. For RealWear, it was used for the RealWear, but Microsoft, for example, others, they were using the spatial design or training. These were the key decision metrics which were used to take RealWear over others.
+
+---
+
+**AI Interviewer** [00:38:36]
+That's a very comprehensive breakdown of the decision criteria. How is RealWear priced? Is it per device, per user, or usage-based? Roughly, what range does your organization spend?
+
+**Expert** [00:38:51]
+Actually, I can bring it down to different ways. At this moment, RealWear pricing is structured around hybrid hardware plus recurring software or service model with enterprise volume discounting applied for the large-scale deployment. For example, upfront hardware cost, the CapEx part. Here, the commercial pricing was per unit, which varied based on the device tier and intrinsic safety rating. For example, we had a RealWear Navigator 500, it was costing around $2,500-$3,150 per unit. The RealWear Navigator Z1, it's costing around $5,000-$6,000 per unit. Industrial accessories and mounts, it was around $200-$500 per unit. That was as part of upfront hardware cost, which was under CapEx.
+
+The software licensing platform cost, RealWear operates on an open Android environment, that way, it was requiring the software for device management and remote expert functionality. Here, the device management, RealWear Cloud, the essential cloud, the Pro Ultra workspace, it required $120-$240 per device per year. Remote collaboration software, that was based on per user per seat licensing.
+
+Here, for example, Microsoft Teams cover under this existing enterprise at Microsoft, so it's where they are. I can think of the support and service packages were also used. Service and support packages were $300-$500 per device per year. If you really look at it, basically, I think if I have to classify that into hardware, the expense category, there was actually hardware and PPE accessories.
+
+---
+
+**AI Interviewer** [00:40:33]
+What did RealWear replace in your organization? Was there a prior solution, or was this a net new capability?
+
+**Expert** [00:40:43]
+That was a new capability.
+
+---
+
+**AI Interviewer** [00:40:46]
+Interesting. It was a net new capability rather than a replacement. When RealWear was first deployed in your organization, was there a formal implementation process, and if so, were you involved in it?
+
+**Expert** [00:41:02]
+Initially, yes.
+
+---
+
+**AI Interviewer** [00:41:04]
+Roughly, how long did the implementation process take?
+
+**Expert** [00:41:08]
+How long it took was approximately around nine months.
+
+---
+
+**AI Interviewer** [00:41:12]
+That's a substantial implementation. What kinds of resources were required during that process, things like change management, technical resources, training, or third-party integrators?
+
+**Expert** [00:41:25]
+Yes, all of the things which you mentioned. The way it was implemented was, first, the initial pilot to global rollout of RealWear happened, and there was a phased manner approach. Wherein in the phase I, it was the proof of concept and safety. It took almost one to two months time, where the testing took almost 60-90 days on high priority assembly lines to validate the safety, PPE compatibility, and microdisplay optics and noise cancellation in 90% dB zone.
+
+While in phase II, the IT infrastructure and MDM integration, it took almost three to five months, where integrating the devices into the enterprise security, Wi-Fi certifications and software suites. In phase III, it was basically the targeted rollout and training, which actually took extra three to four months' time. Initial, the plant deployment and dealership technical assistance center rollouts were completed, thereby establishing the champion trainers on plant floor. At the end of the 11th month, the global enterprise scale happened, where it was expanded across dozens of global facilities and broad dealer service network, to stabilize and standardize the operational procedure. That took an extra six months' time.
+
+---
+
+**AI Interviewer** [00:42:39]
+That's a really well-structured phased rollout, proof of concept, IT integration, targeted training, and then global scale. Moving on to a new topic, how would you describe the quality of service and support you have received from RealWear as a vendor?
+
+**Expert** [00:42:55]
+Okay. If I have to look at the service quality and support, I can just explain what are the areas of service quality we were talking about, then I can go ahead and I can give my rating according to that. Basically, it is very important, the service quality and the reliability profile, basically, the high volume manufacturing environment. The service quality spans the hardware reliability, software ecosystem stability, the customer support, and the field maintainability.
+
+RealWear is able to perform exceptionally well in industrial durability and partner integration, but has specific friction points around the enterprise onboarding and software updates. Basically, if I have to think of the hardware reliability and the build quality, here, the hardware failure rate. Under 1% annual failure rate in production environment, outperforming the handheld rugged tablets. It is also having the industrial durability, and it also has the modular maintainability.
+
+Now, coming back to the software and eco support, I can think of OS stability, and also the firmware update. Third thing of quality is the support responsiveness and account management. We are talking about 24/7 support. If I have to look and rate them, the metric is hardware reliability, I would rate five out of five, because extremely low failure rate, which is built, then voice recognition quality, I would rate around 4.5 out of five, which is excellent active noise cancellation up to 100 dB. Sometimes there is a struggle with heavy regional accents.
+
+Third, software maintenance, I can rate around 3.5 out of five, where we're talking about the headless Android OS updates can complicate centralized MDM management. Number four is enterprise resilience support, four out of five. The robust advanced replacement warranty through dependent on channel partner execution. This is how I would rate their quality and support.
+
+---
+
+**AI Interviewer** [00:44:53]
+That's a very detailed assessment. Strong on hardware reliability and voice recognition, with some room for improvement on software maintenance and enterprise onboarding. What specifically could RealWear do to improve their service and get closer to a perfect score from you?
+
+**Expert** [00:45:10]
+There are few things they can do, which I just want to highlight. Number one is that RealWear, actually, they have to address certain operational and technical limitations. They can by implementing the continuous update across software, hardware, ecosystem, and enterprise support and core AI capabilities. What happens is that they can do something like AI and voice assistant thing they can do. Mainly, they can make use of natural language processing, where we are introduced shifting from the rigid voice command to natural language comprehension.
+
+They can actually do enhanced industrial noise filtering. They can also add multimodal context. They can streamline the enterprise MDM, and they can also come up with a kiosk mode and custom home screen. That can enable the administrator. They can lock down the headset to specific operational applications. They can also do simplifying the authentication process, basically, more like a password and a single sign-on entry, traditionally difficult without a touch interface. It can be done better.
+
+They can also do the more improved visual comfort, by adding more device features like wider microdisplays. Thereby, it can minimize the focal strain and visual fatigue. They can also continue to do better on the high-resolution optics. Coming back to the remote collaboration and partner integration, they can do it more better so that there is a seamless, unified cross-device context. There is dedicated mobile and desktop apps, which easily could be integrated with the systems. They can also get more better using the direct cloud remote assistant services. These are the things, if they're able to add, I think then they will be able to do more better services than before.
+
+---
+
+**AI Interviewer** [00:47:00]
+That's really helpful. The key improvements would be around natural language processing, streamlined MDM and authentication, improved display ergonomics, and better cross-platform collaboration integration. Moving on to a new topic around renewal, has your organization renewed its agreement with RealWear? If so, what drove that decision?
+
+**Expert** [00:47:24]
+Yes. Actually, our organization has renewed that, because as I told you, the advantage RealWear already has, the competitors are not close to that service which is being offered by RealWear at this moment.
+
+---
+
+**AI Interviewer** [00:47:36]
+Got it. Has your spend with RealWear changed since the initial deployment? Has it grown, stayed flat, or decreased?
+
+**Expert** [00:47:46]
+It has grown.
+
+---
+
+**AI Interviewer** [00:47:47]
+What has been driving that growth in spend?
+
+**Expert** [00:47:51]
+The growth is now the people are getting more used to using these particular devices offered by RealWear. People are getting more accustomed to using it. People are actually aware about the tools and the familiarity with the software, the familiarity with the usage of the product. The safety and the ruggedness, which comes along with the product, has actually given a positive mindset to the people. It's actually impacting the positive side of the moral boosting for the people to use this. These are few of the things which I can think of as part of this.
+
+---
+
+**AI Interviewer** [00:48:24]
+That makes sense. Growing familiarity, positive user experience, and the safety and ruggedness factors are all driving expanded adoption. Looking ahead, do you expect your spend with RealWear to continue growing over the next two to three years?
+
+**Expert** [00:48:40]
+Definitely, yes.
+
+---
+
+**AI Interviewer** [00:48:43]
+Is there anything RealWear should be selling you that they aren't currently offering today?
+
+**Expert** [00:48:49]
+At this moment, I would think RealWear should involve more AI-based solutions, where they can make their devices smarter, so that there could be even, for example, if you have a device which is there and there should be an AI system which should be part of that, which could actually predict whether this particular hardware is being used, whether it requires maintenance or it is going to fail, if this kind of services are being added to the RealWear for the future, it will really help.
+
+That way, the predictive maintenance and it can actually bring down, all of a sudden, the device failure can be reduced. People would be more prepared for this kind of events where the RealWear devices are actually failing. That way, what's going to happen, the safety norms which are set and the safety team will not get impacted because of this. That way, I will say enabling more of AI features and also adding those solutions, if they are able to add, then I think it will be more beneficial.
+
+---
+
+**AI Interviewer** [00:49:42]
+That's a really interesting point. AI-driven predictive maintenance for the devices themselves, so you can anticipate failures before they happen and maintain safety standards. Moving on to a new topic around product stickiness, what would it actually take for your organization to switch away from RealWear to a competing solution?
+
+**Expert** [00:50:04]
+There are basically few things which I can think of. Switching an established fleet from RealWear to a competitor involves overcoming the technical, operational, and financial friction points. I can think of the first thing like hardware and physical accessories sunk cost. Basically, the CapEx replacement, the RealWear hardware must be fully written off or recycled. Basically, we are talking about $2,500-$6,000 per unit, depending on standard thing.
+
+PPE mount and component incompatibility, so mounting the clips, specialized hard hat adapters, hot-swappable batteries, and multi-bay charging dock engineered for RealWear will not fit into competitor's frame, requiring a total accessory ecosystem refresh. That was from the hardware and physical accessory sunk cost. I can think of the software and device management migration. Here, the MDM and provisioning re-architecture, transitioning from RealWear cloud or custom Android MDM profiles to competitor device management frameworks will require re-enrolling the devices, pushing new security certificates, and building zero touch deployment pipelines.
+
+Also, the application UX or UI redesign, the standard remote assist tools, they run across most platforms in RealWear, but custom workflows built for RealWear's strict voice command structure must be recorded or reconfigured for touch pads, eye tracking, or facial hand gestures. That was as part of the software and device management migration. The third one I can think of would be the operational and environmental adaptations, so here, the noise cancellation validation, basically. RealWear's hardware level noise cancellation functions reliably in almost 90 dB-100 dB plant zones.
+
+Switching to a competitor will require very extensive on-site testing to ensure voice navigation doesn't drop near heavy stamping presses or pneumatic lines. The other thing I can think of is the safety and vision retraining. Moving from RealWear's monocular microdisplay to binocular mixed reality requires safety reevaluation regarding the floor visibility, trip hazards, and focalized training during the long shift. This is coming from the operational and environmental adaptations.
+
+Number four could be the change management and the frontline retraining. The operators have the habit. These technicians are accustomed to RealWear's voice-driven UI, must unlearn muscle memory and adapt to new navigation paradigm. SOP and knowledge base update has to happen. All digital standard operating procedures, onboarding manuals, and plant troubleshooting guides featuring RealWear screenshot prompts must be revised. That was from the change management and the frontline retraining.
+
+When I have to think about the switch-over effort summary, I would probably look at the migration axis could be capital and accessories because effort would be very high, and the key bottleneck would be that while we were scrapping the existing docks, batteries, ATEX units, and PPE clip mounts. Second thing will be the software application. The effort level would be low or moderate here. The key bottleneck could be easy if you are using standard things, high effort if running the custom offline.
+
+Third is IT and device management. There, the effort level for switching would be moderate. Here, the key bottleneck could be provisioning new network certificates and enterprise MDM enrollment. Last but not the least, the plant floor adoption. Here, the effort level would be high. That means the key bottleneck could be retraining the full-time technicians and validating the noise cancellation safety on active lines. This is something which I wanted to talk as part of switching effort from RealWear to the competitors.
+
+---
+
+**AI Interviewer** [00:54:00]
+That's a really comprehensive picture of the switching costs, capital write-offs, accessory ecosystem replacement, MDM migration, safety revalidation, and frontline retraining. It sounds like switching would be a very significant undertaking. At what price increase, roughly what percentage, would your organization start seriously considering an alternative solution?
+
+**Expert** [00:54:24]
+Switching may involve more than just swapping the hardware costs. There are several hidden ecosystem replacement expenses.
+
+Third, I can think of basically the software porting and custom deployments. The high cost will be there if we are migrating the custom voice workload or converting the 2D instruction cards into 3D spatial holograms. The fourth would be IT provisioning and retraining downtime. Basically, if I have to figure it out, that would be like down switching. It can actually result in almost 70%-120%+ increase in total spending, which will be across hardware, software, custom, spatial content, which is difficult to specify. I'm looking for a change of almost 70%-120% change in the price.
+
+---
+
+**AI Interviewer** [00:55:13]
+A price increase of 70%-120% would be the threshold where switching starts to make economic sense, given all of those hidden costs. That's a very high bar, which speaks to how deeply embedded RealWear is in your operations. Now, I have just a few more questions to wrap up. On a scale of 1-10, how would you score RealWear on a net promoter score basis? Meaning, how likely are you to recommend them to a peer or colleague?
+
+**Expert** [00:55:45]
+Nine.
+
+---
+
+**AI Interviewer** [00:55:46]
+A nine. That's a strong score. What are the top three reasons behind that score?
+
+**Expert** [00:55:54]
+Basically, the product, the reliability, and the usage.
+
+---
+
+**AI Interviewer** [00:55:58]
+Those are solid reasons. Could you expand a bit more on each of those? What specifically about the product, reliability, and usage drives that nine for you?
+
+**Expert** [00:56:12]
+Basically, when it comes to the product itself, first of all, the product is having all the features which is required within the manufacturing plant setup or the environment. The product is a very robust one. It caters to the needs of the people there in order to sustain as well as preventing the hazards. That is there.
+
+Reliability, even if the product is falling on the ground, it is not breaking. That means it's very reliable for the product where normally, you see the workers, they handle it in a very rough way. These particular devices can be handled without failure. Third is the usage itself. They have that thing where you don't require both of your hands to hold the devices while you are using. Basically, the usability part of it is very easier compared to any other competitor products available at this moment.
+
+---
+
+**AI Interviewer** [00:57:04]
+That's a great summary. A robust feature set for manufacturing environments, exceptional physical reliability, and the hands-free usability that sets it apart. What would RealWear need to do to get that score from a nine to a 10 for you?
+
+**Expert** [00:57:20]
+Basically, if the RealWear has to bring it nine to 10, I would always think of introducing the smart AI solutions, which can help the product to where the predictive maintenance can be taken into care, where the product itself, if it is about to fail, we know that. Number two, it can also help if you are able to add some more features which covers the other environmental challenges within plant floor system, if they can identify those, and they can bring that. Third, if they can integrate that particular product in enterprise way, in a very seamless way, that can bring the whole thing from nine to 10.
+
+---
+
+**AI Interviewer** [00:57:55]
+AI-driven predictive maintenance for the devices themselves, broader environmental sensing for Industry 4.0 scenarios, and more seamless enterprise integration. Those three things would take you from a nine to a 10. That's really clear and actionable feedback. Just the last couple of questions to wrap up, are you excited about your future with RealWear?
+
+**Expert** [00:58:19]
+Yes. I am.
+
+---
+
+**AI Interviewer** [00:58:23]
+That's great to hear, and I really appreciate your openness to further discussions. Thanks for your insights today. Have a great rest of your day. Goodbye.

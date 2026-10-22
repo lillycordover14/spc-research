@@ -1,0 +1,639 @@
+---
+theme: "Industrial & Supply Chain"
+title: "Foods Digital Transformation & Decarbonization Manager at Unilever PLC Is Highly Positive About Laminar's Inline Spectrophotometer Technology for CIP Optimization and Broader Applications"
+doc_id: EC-1000000-234723
+source_line: "Laminar · Expert Call · Customer · 21 Oct 26"
+date: 2026-10-21
+company: "Laminar"
+pages: 2 of 2
+saved: 2026-10-21T15:46:52.834Z
+url: https://research.alpha-sense.com/search?search_id=tmp-l5q00vjpbwvf9aw6o2hl&sort=DATE&order=DESC&docid=EC-1000000-234723
+---
+# Foods Digital Transformation & Decarbonization Manager at Unilever PLC Is Highly Positive About Laminar's Inline Spectrophotometer Technology for CIP Optimization and Broader Applications
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+21 Oct 2026
+
+INTERVIEW DATE
+
+23 Jul 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Laminar
+
+SMART SUMMARY
+
+Summary
+
+The interview discusses the deployment, ROI, and scalability of Laminar's inline spectrophotometer technology in global food manufacturing, focusing on its application for CIP optimization and potential for additional use cases. The conversation also covers competitive landscape, cost structure, and the technology's applicability to both large and mid-market manufacturers.
+
+EXPERT BACKGROUND
+
+- Expert has 19-20 years of experience in process automation, digital transformation, and utilities management for a major global FMCG company, overseeing automation and advanced solutions for 45+ food manufacturing factories worldwide, with prior roles at GSK, Nestlé, and Rockwell Automation.
+
+EXPERT SENTIMENT
+
+- Expert is highly positive about the ROI and potential of Laminar's inline spectrophotometer technology, citing significant operational savings and multiple future use cases.
+- Expert believes the technology is mature, scalable, and applicable to both large and mid-market manufacturers, with strong confidence in its continued adoption and value creation.
+- Expert expresses willingness to personally invest in the company due to the technology's potential and proven results.
+
+TAKEAWAYS
+
+- Laminar's inline spectrophotometer technology has been piloted and rolled out across 60 loops in 13-14 factories globally, with plans to expand to 120 more loops, primarily for clean-in-place (CIP) optimization.
+- The technology delivers a first-year ROI of under €45,000 per loop against a CapEx of €60,000-€70,000, with ongoing OpEx of over €7,500 per year per loop after the first year.
+- Savings are primarily from reduced cleaning time and energy costs (10-15% reduction in CIP time, ~20% in energy), with additional value in quality control and regulatory compliance for other use cases.
+- The technology can support multiple use cases (e.g., crystallized fat detection, fermentation, wastewater treatment), but each use case typically requires dedicated hardware due to different factory locations and processes.
+- Competition exists from companies like Ecolab, but Laminar's unique combination of spectrophotometry and AI-driven analytics is seen as a differentiator, with no comparable offerings from major automation or system integrators to date.
+
+Introduction and Background
+
+Major Industry Players
+
+Laminar Technology Overview
+
+Implementation and ROI Analysis
+
+Use Cases and Applications
+
+EXPERT BIO
+
+Foods Digital Transformation & Decarbonization Manager at Unilever PLC
+
+Foods Digital Transformation & Decarbonization Manager at Unilever PLC. Expert can speak to their leadership in implementing advanced digital and AI-enabled manufacturing solutions within Unilever's Foods Business Group, aligning with the project's focus on automation technologies in process manufacturing.
+
+Foods Digital Transformation & Decarbonization Manager at Unilever Foods Business Group. The expert is responsible for foods global digital transformation and for energy, utilities, and decarbonization across 52 factories, bringing advanced digital solutions to foods factories and leading development of AI-enabled manufacturing solutions for mayonnaise, savoury, and noodle production in digitally mature sites. The expert also drives energy-efficiency improvements and transitions to biofuels and alternative technologies such as heat pumps and thermal electrification through capital expenditure interventions to support Unilever’s Scope 1 and 2 zero by 2030 goal.
+
+The expert can speak to factory digital transformation across varying maturity levels, AI-enabled process automation for food manufacturing, deployment of digital solutions in mayonnaise, savoury, and noodle lines, energy-efficiency measures, transitions to biofuels and alternative heating/electrification technologies, utilities management, and capex-driven decarbonization strategies.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Thanks for taking the time in the afternoon. We are looking currently into technologies that are used within process manufacturing. More specifically, we're looking at a company based in the States that produce a sort of inline measurement device which allows you to understand what molecules are within the pipe that you're looking at. Maybe you could start by giving me a quick one- or two-minute intro on yourself and how that might overlap with what I'm trying to figure out, and then that will hopefully set the scene, and we can then jump to a few questions from there.
+
+**Expert** [00:00:30]
+I think you might have gone through my screening questions about it, probably. I work for one of the largest FMCG company. I'm based in the Netherlands, and I'm responsible for automation, digital transformation, and utilities for 45-odd factories across the globe. I represent the foods business group. There are multiple business groups like home care, personal care, beauty and wellbeing.
+
+I'm from the central engineering team of foods, and my responsibility is process automation, end-of-line automation, warehouse automation, bringing AI and advanced solutions into the factories, specifically on manufacturing only. Something out of the four walls of the factory. That's out of my purview. On second part, I'm responsible for bringing in advanced solutions for energy efficiencies and biofuels into the factories. I've been in industry for 19, 20 years now. I've worked with companies like GSK, Nestlé, Rockwell Automation. This is, in a nutshell, a brief about me.
+
+---
+
+**Client** [00:01:37]
+Makes sense. When you say foods, can you give me an example of what type of foods?
+
+**Expert** [00:01:43]
+Primarily, we make two or three different kinds of foods. One is when we say wet food, this is like mayonnaise, ketchups, soups, doypacks, and those stuff. There is savory part of it, which is like chicken bouillons, dry soups, seasonings, and then the noodles part of it, where we have noodles and as we call them as mini meals.
+
+---
+
+**Client** [00:02:05]
+Brilliant. Particularly with the sauces, these are manufactured in typical process manufacturing pipes, mixers, filtration, and then eventually, you get to an end product.
+
+**Expert** [00:02:15]
+Yes.
+
+---
+
+**Client** [00:02:17]
+Makes sense. Just out of curiosity, what are the major players in the space right now for the process manufacturing side of things around using technology to improve efficiency and increase automation? You mentioned Rockwell Automation.
+
+**Expert** [00:02:33]
+I've worked with Rockwell. I've been an employee of Rockwell. I worked all across the globe. There is a huge division across different parts of the globe, which primarily factories work around with. If I talk about North America and Latin America, it is dominated by Rockwell Automation. Allen-Bradley, this is the main player in that part of the globe. If we shift towards something in the middle of the map, in Europe, being Germany over here, it's dominated by Siemens.
+
+If we go towards right-hand side of the map in Australia, Southeast Asia, Asia, that's where a combination works. Rockwell is also there, Siemens is also there, then third one is OMRON is there, then ABB is also there. If you talk about 70% of the total footprint, that would be between Rockwell Automation, Siemens, ABB, and OMRON. There are other smaller players. If I say around 70%, if I take data of my company as well, that holds good.
+
+---
+
+**Client** [00:03:38]
+Got it. 70% of the automation is dealt by the larger players, and then maybe another 30% is the smaller ones.
+
+**Expert** [00:03:47]
+Very, very small players. There are some local players as well, which are there. Specifically, if you go to China, it's majorly all local players.
+
+---
+
+**Client** [00:03:58]
+Very clear. You haven't, in your role, heard of a company called Laminar, have you?
+
+**Expert** [00:04:04]
+Yes. I think I'm the biggest customer of Laminar, and we were the first one to pilot, and I'm piloting it for 60 loops. We are the biggest customer of Laminar across the globe.
+
+---
+
+**Client** [00:04:16]
+Wow. I didn't know that. That's great. Perfect. This is the company that we're looking at. Maybe we can talk a little bit more about this.
+
+**Expert** [00:04:29]
+Absolutely.
+
+---
+
+**Client** [00:04:30]
+Maybe first question, you said you're piloting on 60 loops. Does that mean 60 different lines, or does that just mean there might be several loops within a line?
+
+**Expert** [00:04:41]
+We piloted on one loop, just to make it more clear, in one of our factories in Poland. When I say one loop, one line can have multiple loops associated with it.
+
+---
+
+**Client** [00:04:51]
+Got it.
+
+**Expert** [00:04:53]
+This 60 loops is across 13 different factories, 13 or 14 different factories. It could be that one line has one loop of cleaning. Usually, it would be divided into one loop for your filling and packing line cleaning, while one, it could be possible there are two loops in the process. As you need to change the SKU, the product keeps on moving, you stop feeding from behind, and the products keep on moving towards the last vessel, towards the filling and packing line. We start the CIP to make it ready for the next loop. Usually, we divide between filling and packing and end process. If I put an average, there would be two loops per line.
+
+---
+
+**Client** [00:05:38]
+Makes sense. You said you're across 60 loops across, I don't know, you said 13-14 factories.
+
+**Expert** [00:05:45]
+Yes.
+
+---
+
+**Client** [00:05:47]
+Is that all in Europe?
+
+**Expert** [00:05:51]
+No, it's across the globe. Across the globe. You might have heard about Kilbourn in States and Independence. We do have factories over there. Kilbourn, we have on two loops. It's everywhere. Wherever it makes business sense. Everywhere it does not make business sense to install Laminar. It really depends upon the size of the loop, the complexity of the line because there is a cost associated with implementing Laminar on a line.
+
+If it is a highly complex line where we are running number of loops and the number of CIPs are really high, it absolutely makes sense. The difference which we have seen is, we have been able to bring down the CIP time by at least 10%-15%, and the energy costing by close to 20% by implementing on a particular loop. That is where we did pilot. We establish it. Now, we are implementing all across.
+
+---
+
+**Client** [00:06:52]
+Got it. A couple of questions based on this. That's very clear. Thank you for explaining that. Let me just dive in and be very specific about certain things. First things first, you piloted it, you found that you were generating savings both on materials and time. More reduced cleaning time, more uptime. How would you categorize the ROI? Let's just talk about where you're installing it, first of all. Let's, for the moment, ignore the loops where it doesn't make sense. Let's just talk about the loops where it does make sense. What sort of ROI are you generating on those?
+
+**Expert** [00:07:36]
+I'll give you straightaway a number. It's very recent. I remember it because we just validated it couple of days back. It was under €45,000 per line, or per loop, I would put it as. While the CapEx of implementing, I can put that number also, was somewhere around €60,000, €70,000 per line.
+
+---
+
+**Client** [00:08:00]
+Okay. Hold on one second. This is interesting. It costs you under €70,000 to put it in a line. Maybe there are two cameras.
+
+**Expert** [00:08:11]
+Two advanced spectrophotometers.
+
+---
+
+**Client** [00:08:14]
+Exactly, or at least four.
+
+**Expert** [00:08:17]
+No, it's two. One loop will have two. One forward, one return.
+
+---
+
+**Client** [00:08:24]
+Okay. One loop has two. There are two loops per line, so maybe there are four. That's the CapEx.
+
+**Expert** [00:08:34]
+Yeah, this is on the process side of it, majorly. This was the process reduction. You're right. There are two loops, one on process side, one on filling and packing line. You're right.
+
+---
+
+**Client** [00:08:48]
+Okay, but you didn't use it on both. You only used it on one, or you only use it on one?
+
+**Expert** [00:08:55]
+No. When I say one line, we call it as kitchen, plus filling and packing line, where we cook and where we pack. This is one combination of one line.
+
+---
+
+**Client** [00:09:07]
+Okay. To go back, there are two loops, which means there are four devices?
+
+**Expert** [00:09:15]
+Yes.
+
+---
+
+**Client** [00:09:16]
+They charge, you said under €65,000 for that line, for that a year?
+
+**Expert** [00:09:22]
+Yeah.
+
+---
+
+**Client** [00:09:23]
+Do they split out the hardware cost and the recurring cost that they charge, or is it all just a one fee of under €65,000?
+
+**Expert** [00:09:32]
+There is split, but I'll have to really check it out because it is divided into your hardware cost, then you have their platform cost, where they take data. They are basically on AWS, Amazon Web Services. They charge because whenever you have a cloud, there is traffic. They need to charge money for it. That is not free. There is model development cost, which is one-time cost of it, which is during the commissioning. Initially, when we start, there is a model training time. When they start capturing data in real time once your line is up and running, and then based this, this model is tuned. These are three components out of it.
+
+---
+
+**Client** [00:10:14]
+Does the price go down after year one? Maybe there's a big hardware cost in year one, but then they don't charge you for that afterwards?
+
+**Expert** [00:10:24]
+Truly. We divide it into CapEx and OpEx, capital expenditure and operational expenditure. Capital expenditure is one time, which is like when you buy it and it depreciates over a 10-year period of time, how we do it in factories. Operational expenditure is to keep that model up and running, there is a yearly subscription cost.
+
+---
+
+**Client** [00:10:45]
+In the first year, you pay under €65,000. In the next year, what do you think that roughly goes to?
+
+**Expert** [00:10:53]
+I believe that is over €7,500, if I'm not wrong.
+
+---
+
+**Client** [00:10:58]
+Got it.
+
+**Expert** [00:11:00]
+It should not be more than that.
+
+---
+
+**Client** [00:11:02]
+Over €7,500, that's fine. That makes sense. That's, broadly speaking, what I thought it would be. We're in the same ballpark there. That's good. Sorry, what did you say you estimated the value that you generated was per year on the line?
+
+**Expert** [00:11:23]
+Under €45,000.
+
+---
+
+**Client** [00:11:25]
+Got it. For the first year, obviously, it's not that great. Once it's paid back, then the next year, it's a lot better.
+
+**Expert** [00:11:35]
+That is free. It really generates some number. That's one application. I don't know if you just want to know about CIP or where all we are exploring this technology.
+
+---
+
+**Client** [00:11:47]
+Okay, so you use it only for CIP right now?
+
+**Expert** [00:11:52]
+As of now, just CIP, but we have already lined up three to four use cases where these advanced spectrophotometers will work.
+
+---
+
+**Client** [00:12:00]
+Okay. Can you just explain one or two of them?
+
+**Expert** [00:12:04]
+I can. I'll give you an example. In one of our products, which is bouillons. We make bouillons. In that, we put palm oil in a crystallized form. It's not purely liquid, it's not very viscous, but it has crystals of palm oil in it. We call it crystallized palm oil. The level of crystallization is very important to maintain the quality of the product. Earlier, what used to happen was, as we used to heat it up, it used to be fully liquid, and it was hitting our right first time quality.
+
+With this, we did some trials. This advanced spectrophotometer gives you the signature, a visual signature, what's there inside the pipe, which we did not know earlier. Now, with this, we know the exact signature for the spectrophotometer, which is good crystallized fat. Now, the moment we put it, we see it that this is the right crystallization when we are into recirculation. The moment it tells us, we will forward it to our mixer. The idea is to have right first time, less wastage, less giveaway, which is a problem for us. That's the idea. I think this would be bit bigger than the CIP itself.
+
+---
+
+**Client** [00:13:19]
+Got it. The spectral imaging tools that Laminar provided you, you already installed them on the lines, for example. This is hypothetical because I appreciate it might not be the case with the stuff that you have in mind. It might be a different product. Hypothetically, could you run two or three different use cases with one set of cameras, or do you need more cameras for each different use case?
+
+**Expert** [00:13:43]
+No. For CIP, you need two because you have a forward when you are sending in the liquid to clean your vessels, and then you send it return. Now, in return, when you see that it is almost equal to the forward thing, that means whatever it had to clean has been cleaned. Now, exactly same thing is coming back, what you are sending forward. It tells that to you. Now, in other applications, you might not need it. Like I'm talking about palm, this is more of a forward application where you just need to detect and send it forward.
+
+---
+
+**Client** [00:14:16]
+Hypothetically, just on that one, you fit one on the forward, you fit one on the return. You're doing CIP on that. Hypothetically, at the same time, would you be able to do this yield optimization with the crystals on the forward camera? I'm trying to understand if you could run multiple use cases with one set of camera.
+
+**Expert** [00:14:40]
+It's not one set of camera. CIP is a different application. This is a different application. In a single factory, there could be. That advanced spectrophotometer, if it's running on CIP, will stay over there. We will buy another set of spectrophotometers for this application in this. I'm saying, with this technology, we can have multiple use cases, which we have lined up.
+
+---
+
+**Client** [00:15:07]
+This bit I understand. Because it is a different part of the factory and a different vat and a different tank, you need a new camera, but it's the same camera. It does the same thing.
+
+**Expert** [00:15:20]
+Type is same.
+
+---
+
+**Client** [00:15:22]
+Okay. What I'm trying to understand is, is there any reason why when you install one camera in the future, it happens to be in the right place, you couldn't do a second use case or a third use case on the same camera?
+
+**Expert** [00:15:36]
+I did not get that because if one spectrophotometer is already installed and up and running, we will not remove it because it's a regular thing.
+
+---
+
+**Client** [00:15:45]
+No, of course you won't remove it. This is a hypothetical. Maybe it just doesn't work in a factory, but imagine, and this is all just imaginary, you put one camera in one place to do one use case. It just so happens that that camera in that place, there's maybe a second or a third use case you can run off it because it is in the right place. Is the technology capable of just using that same camera? It's more like a fundamental hardware bottleneck constraint.
+
+**Expert** [00:16:16]
+No. I think that technology is so matured in my 20 years of career. This technology has been on that maturity level, that same advanced spectrometer can work on multiple use cases. You don't need something else, if I got your question right. This has the capability or the visibility which it brings. It brings In haze, color, suspended solids, and everything, which has the capacity to fit in multiple use cases.
+
+---
+
+**Client** [00:16:46]
+That's actually not my question, but that is good to confirm as well. Let me give you an example. I have my phone, and on my phone, I can run a game, or my computer or whatever, and I can run one program on it. At some point, it maxes out the hardware capacity of that because there's a chip inside it which is running at full capacity.
+
+I can't run two programs on it, or three programs on it, or four programs on it. Their camera senses the liquid or what is going through a pipe. My question is, is there enough? I don't know if they need computation. I know a lot of it is processed in the cloud, but I don't know how much is processed on edge within there. There'll be some processing that happens on the edge.
+
+**Expert** [00:17:39]
+If it is related to the capacity, how you select advanced spectrophotometer is based certain parameters which we tell them. There are end connections which are changed. More or less, there are transmitters, and there are two, receiver and transmitter. That remains the same. It has that computation power, if I try to explain in that language or something, that it can cater to the bigger pipes and bigger things also with over a high variety of fluids that you don't need.
+
+They don't have multiple different, like a phone which is having 128 GB versus 256 GB or 512 GB. It's not the case. That's not the case. That single capacity of sensor can operate across various line size. We call them as line size because it needs to be put on pipelines. It could be a two-inch line, three-inch line, five-inch line, or six-inch line. Only the fitting changes. This has the capacity to look at a wide variety of line sizes.
+
+---
+
+**Client** [00:18:45]
+That's also not exactly what I'm asking. Let me try and rephrase it. Let's imagine you're making ketchup in a vat and you introduce the spectrometer to do one thing, which is to measure the viscosity of the ketchup. This is just a hypothetical because I don't know what they can do. This is just one example. Right now, because they're telling you exactly when it's viscous enough, you generate an ROI with that one device.
+
+You paid under €70,000 upfront, and then every year you're paying over €7,500, and you're measuring the viscosity of the ketchup, and you let the vat empty just when it hits the right viscosity, and that way, you're increasing your first pass yield on ketchup that's leaving that vat. That makes sense. You with me so far?
+
+**Expert** [00:19:39]
+Yeah.
+
+---
+
+**Client** [00:19:40]
+This is hypothetical, but imagine you want to run another use case on that vat. For example, after you let the ketchup out, you then run water through that vat, and you want to check that it's clean.
+
+**Expert** [00:19:52]
+You mean multiple SKUs, yeah.
+
+---
+
+**Client** [00:19:55]
+Exactly. Now, can I use that same camera? The reason why it's important is because the hardware cost gets amortized over multiple different values. You create value multiple different times with one camera. That's what I'm trying to understand.
+
+**Expert** [00:20:12]
+We have these applications. When I say crystallized fat, there are multiple different palm oil grades which will be coming in. That comes down to your teaching. Your camera remains the same while you teach them on multiple fluids. I don't need to bring in multiple cameras. With same cameras, I can run ketchup, mustard, mayonnaise, or let's say plain mayonnaise or any mayonnaise, which is crystallistically very different, but I don't need to change the camera.
+
+---
+
+**Client** [00:20:44]
+Got it. I'm with you now. Very clear. We're on the same page. That's very interesting. You're generating a strong ROI. Let's talk about two, three different things that I have left. One is about rolling it out across the factory, and you actually brought this up by saying there are some use cases where it makes sense and some that it doesn't. Can you explain to me why it doesn't make sense?
+
+**Expert** [00:21:14]
+I'll give you example of CIP because that's their primary selling point. In factories, how it happens is, there are smaller loops. How it runs a CIP, CIP is spread across different phases. We call them as phases. One, you send in water, water flushes out the loose material, then you send in a caustic, which is like detergent. It cleans out things. In the end, you send another 80° water phase for a certain period of time to flush out caustic or detergent. Those are cleaned. We call them as three-phase CIP. Similarly, there is five-phase and seven-phase where you use nitric and those things.
+
+Now, there are certain loops where you will just run water. You won't run caustic or pre-rinse. The opportunity of optimization is one single phase. It's just the water. While if we have a larger loop where there is more cleaning, which requires caustics, probably nitric, and there are certain CIPs which runs into hours over where the size or the duration of liquid or the duration of that phase is pretty big. That means if we cut short 10% over there, it will generate more impact rather than where I am running just water.
+
+---
+
+**Client** [00:22:32]
+Got it.
+
+**Expert** [00:22:34]
+That's one part. The second part is length of your loop from your CIP station to the vessel which you want to clean. Suppose that's very near, so the volume which will go into the pipes is very small if they are sitting very next to each other. The CIP station and the line. These kind of scenarios, we check with the factories, what's the total spending when I do one CIP? What is the cost per CIP which I'm generating currently?
+
+If I cut short by 10%, given my use case earlier, which has already been proven, what is the cost in terms of caustic, energy, steam, water cost, which we are getting from the municipality, then the improvement in OE. Whatever extra uptime I get, that translates into more product. That saving, we do not take. We only take the utilities saving, which is there.
+
+---
+
+**Client** [00:23:28]
+Actually, sorry. Just to make sure I understand that. When you calculate the ROI, you don't think about increased uptime and more product?
+
+**Expert** [00:23:38]
+We don't. That's a soft saving, which sits in our business case because, is CIP a bottleneck to you delivering volume to the factory? If it is, it adds to your gross margin. Let's say you have a factory which runs for five days. Six days is completely off, then you have a whole day to do the CIP. In fact, that CIP, if it runs for three hours on an off day, it is of no use to me. It's not giving me anything.
+
+If CIP is becoming a hindrance to me to deliver volume to the market, that's where we put this as a soft saving in the factory. In certain companies, like I worked for Nestlé, they consider this as hard savings. We don't consider this as a hard saving because that's an additional gross margin. As and when it will sell, it will bring me value. In many of our factories, CIP is done on an off day, that can run for hours also. Am I making it clear?
+
+---
+
+**Client** [00:24:32]
+Yes. Very clear. It depends a little bit on how things are manufactured. For example, you do it on an off day, it's an off day. You're not making more, you are just saving materials, basically.
+
+**Expert** [00:24:48]
+Absolutely. Even if it runs for three hours, it is not impacting my volume delivery to the market.
+
+---
+
+**Client** [00:24:55]
+Of course. That makes sense. Maybe there are some processes where it does, but that's why it is a soft saving.
+
+**Expert** [00:25:06]
+Absolutely.
+
+---
+
+**Client** [00:25:07]
+Fine. I'm with you. I understand. This is going to be a very, very odd question or difficult to answer, but maybe if you can try your best with it. Let's imagine the giants. You have Nestlé, Unilever, Procter & Gamble, General Mills, Kraft Heinz, these guys. It very much depends on what they're making. I appreciate that, but where they do these kinds of processes, what percentage, just on the cleaning, do you think ultimately is addressable? Are we talking about 5%? Are we talking about 50%? Are we talking about 75%? I'm trying to get a sense of the addressable market just for cleaning.
+
+**Expert** [00:25:53]
+If you ask me, I worked across many factories across the globe. I'll give you a physical scenario. Your CIP station, they are in the utilities. Usually, that's kept separate from your process area because that's unhygienic area, and the foods are hygienic area while we put it in. I'll take example of my organization also. How many loops we'll be able to address? That's broadly in the range of 75%-80%. That's a very clear data point I have. This is which we started doing this.
+
+20%, 25% are the loops which are flushed with one single, which are very small in nature, where the line does not run so much, and that line runs once a week or twice a week. That's not a priority for me. Those are 20%, 25% of the cases. If you ask me, 70%-80%, this is something which makes. Even in Nestlé's also, I've been a Nestlé guy. Wherever there is food safety, absolutely it makes sense to go ahead and implement it.
+
+---
+
+**Client** [00:27:02]
+Makes sense. A couple last questions then. One, when you guys complete the rollout, however long that takes? Just a rough ballpark? What I want to know is, are we talking like we're cleaning out hundreds of thousands? Hundreds of thousands, are we talking €one million-€five million, €five million-€10 million, €10 million-€50 million, €50 million-€100 million? I do not know. Just on the CIP use case, what do you expect your contract size to look like with Laminar, or could it look like with Laminar?
+
+Imagine you roll it out everywhere it needs to be rolled out, just for the clean-in-place use case. What's the total contract that you're paying them a year, roughly? Are we talking about €one million? Are we talking about €five million? Are we talking about tens of millions? Are we talking about hundreds of millions? I'm trying to get a rough sense of this.
+
+**Expert** [00:28:09]
+I'm trying to do a quick math. I have around 120 loops more identified, so you can multiply it by over €50,000 to €70,000. Probably, we will get a better pricing when we renegotiate it. I do expect to come down to under €50,000. You can do that, €45,000 into 120 more loops.
+
+---
+
+**Client** [00:28:34]
+Actually, what I'm more interested in, the hardware is the hardware, obviously. You're only paying per line, it's like over €7,500, roughly, after the first year.
+
+**Expert** [00:28:47]
+That's OpEx. Yes. The operational expenditure.
+
+---
+
+**Client** [00:28:51]
+The OpEx contract ends up more like €one million-€five million. You're in that range?
+
+**Expert** [00:28:59]
+I would put it as, for 120 loop, it would become €1 million to €3 million from next year, once we roll out to every line.
+
+---
+
+**Client** [00:29:09]
+There's a big spike in the first year where you do the CapEx for the hardware, but then afterwards, you're paying a much lower?
+
+**Expert** [00:29:16]
+That's always the case with any machinery or anything we buy. Always the upfront cost is really high, and then there is more of a maintenance cost. We call it as operational expenditure.
+
+---
+
+**Client** [00:29:28]
+Yeah. I'm respectful about that.
+
+**Expert** [00:29:32]
+We keep it under €100,000, though.
+
+---
+
+**Client** [00:29:35]
+I don't see this very often where you make a big upfront per line, and then suddenly it goes down to over €7,500 after year one.
+
+**Expert** [00:29:43]
+Because there is hardware cost. You're not buying the hardware cost in next year.
+
+---
+
+**Client** [00:29:49]
+Yeah, of course. I get that. I'm just not used to it because, let me tell you, when a company will pitch you, they'll say, "Look, we're making over €30,000 per line on these guys," and then you do the math, and you do over €30,000 per year per line, and then it's big number. If it's going to be 25% of that in year two, in year three, and year four, then that's different.
+
+**Expert** [00:30:16]
+The 120 loops will not come in one single shot. It would be divided upon three, four years. As we keep on adding more lines, as the volume also increases, the volume of their business also keeps on increasing. We also keep on adding, it's not much, but at least six, seven lines per year in the business. That's an additional business which will run to them. Plus, as I mentioned, there are three, four use cases which we are running. That's additionally I see that there's a potential where we will be collaborating with them.
+
+---
+
+**Client** [00:30:49]
+Actually, that leads me on to the second question. It comes in two parts. Part number one, how many more use cases do you think over the next five to 10 years you'll end up using Laminar for? Is it just one more, do you think, or is it more, three or four?
+
+**Expert** [00:31:08]
+No. There are three to four use cases which we have already lined up with them.
+
+---
+
+**Client** [00:31:14]
+Got it. There could be another one or two after that, maybe on an upside?
+
+**Expert** [00:31:20]
+Yeah. Look, the point is, wherever we do not have a visibility inside the pipe, that's where we are looking at, can we use this technology? We are looking at fermentation as one of the wastewater treatment, which is more of regulatory thing. That regulatory thing is a big shot. We cannot falter over it.
+
+---
+
+**Client** [00:31:40]
+Got it.
+
+**Expert** [00:31:41]
+That's an application.
+
+---
+
+**Client** [00:31:43]
+This is a very concrete question. I've forgotten how many you have right now, loops. You said there were 120. Let's just do round numbers. Let's just say 150 loops you put the Laminar on, and you do this cleaning in place, then you start going to the next use case and the next use case.
+
+**Expert** [00:32:04]
+No. It's not in series, it's in parallel.
+
+---
+
+**Client** [00:32:07]
+It's in parallel. That's fine, but just for the purpose of this, let's just imagine it's in series. What proportion of the existing 150 looped cameras will you use to do the second use case?
+
+**Expert** [00:32:22]
+It's new hardware.
+
+---
+
+**Client** [00:32:24]
+It's all new hardware. The third one, again, let's imagine it's in series. Do you think there is any overlap between one and two, or again, do you think it's all new hardware?
+
+**Expert** [00:32:37]
+No. These are very individual use case. Let's say something is running in wastewater treatment. One is running on a bouillon line, third is running on a fermentation line. These are very individual, very specific use cases with no overlap amongst each other.
+
+---
+
+**Client** [00:32:55]
+Super, super clear. Do you think the ROI on the other use cases will be similar or better?
+
+**Expert** [00:33:04]
+No, it would be better because in one, I mentioned it is more of a regulatory thing. There is no ROI. It's just that we want to maintain regulatory thing because organization like us, we cannot falter on our reputation towards sustainability or environment. That's more of our commitment, and there is no ROI, but we will invest on it.
+
+---
+
+**Client** [00:33:25]
+Super clear. Final couple of questions. Sorry, I've kept you a lot. Competition. When these guys explained it to me, I was very confused because I would have thought a bunch of things. One, the system integrators have a solution that they would have already tried to sell you. Two, that other people like Rockwell, these guys aren't already trying to sell you this. How should I think about this?
+
+**Expert** [00:33:54]
+I'll tell you their competitor. I take care of utilities across the globe. There is one company named Ecolab. I don't know, you might have heard about it.
+
+---
+
+**Client** [00:34:05]
+Yeah. They're big. They're very, very big.
+
+**Expert** [00:34:10]
+They are very big into wastewater treatment and those things, and I work very closely with them. Now, they have a solution, but they don't bring in additional hardware or something. What they try to do is they try to do it, they take the values from your existing control system, which could be of Rockwell or anything, which is running this CIP. What the solution they are delivering is they are just bringing in a visualization, that your phase had to start at this time, finish this time. It was meant to be 10 minutes, it ran for 20 minutes. That means you wasted 10 minutes. Why it ran extra for 10 minutes, it won't tell you. What should I do?
+
+---
+
+**Client** [00:34:53]
+Why would the CIP automatically run for 10 more minutes?
+
+**Expert** [00:34:58]
+Let me explain to you how CIP is done. CIP works on four Ts. We call it as four Ts, time, titration, temperature, and turbulence. Time, time is time. Temperature is temperature. Turbulence is the flow rate, cubic meter per hour. There is titration, which is your conductivity of caustic. When all these things match, time runs. While the CIP is running, any of these goes down, your time stops over there.
+
+The contact time should be with all these three validated things. Let's say flow rate needs to be 10 m^3/h, temperature needs to be 85°C. Conductivity needs to be 45 ms. If, let's say, it dropped to 40 ms, one of the parameter, it keeps on pushing the fluid, but the time stops. The 10 minutes should be when all these three things are matching.
+
+---
+
+**Client** [00:35:56]
+Got it.
+
+**Expert** [00:35:57]
+You with me?
+
+---
+
+**Client** [00:36:00]
+Yep.
+
+**Expert** [00:36:01]
+What happens in factory is sometimes due to some variation in steam or something, your temperature suddenly drops from 85°C to 80°C. That's where the time will keep on running while you keep on pushing the fluid, but your time has stopped. Your contact time is done. You would see instead of 10 minutes, probably, your whole phase finished in 20 minutes. It took double the time. That's the reason.
+
+---
+
+**Client** [00:36:30]
+Got it. Just so I understand, this makes sense to me. These guys, Ecolab, produce the visualization that just says that, but it doesn't really help you that much. Whereas what Laminar is saying is, "Instead of even relying on any of that, we'll stick the camera in, we'll tell you what exactly is going through."
+
+**Expert** [00:36:52]
+In the pipe.
+
+---
+
+**Client** [00:36:54]
+Exactly. The moment, I don't know, it's all clean, for example, you're done. That's it. You can shut it off. You don't even have to worry about the four Ts.
+
+**Expert** [00:37:08]
+Absolutely. You take it as, you're sending in clear fluid at a certain conductivity, and then with this, debris is coming back. This is in form of suspended solids. Their sensor sends out light, it gets reflected, and it goes to the receiver. Now, if there is less debris or the clean or the signature is same as the forward and return, they say it is clean. We don't need to run CIP now. Instead, you were meant to clean it in 10 minutes, you already cleaned it in seven minutes, let's go to the next phase. Those three minutes are additional savings for me.
+
+---
+
+**Client** [00:37:47]
+Got it. I'm with you. Ecolab produced the visualization. Why isn't anyone else producing these cameras and saying, "We'll do the same thing"? Particularly the big guys?
+
+**Expert** [00:37:59]
+If you ask me, our spectrophotometers are there in the industry. Yes, we have it. There are many things here, but their combination of this solution and the quality, or let's say this spectrophotometers, and how they are using that signature, spectral signature, and combine it with AI, that's their USP. That's the main point. Spectrophotometers are there, every nook and corner of the industry. It's that tied-up solution which makes the difference.
+
+---
+
+**Client** [00:38:31]
+You haven't seen anyone approach you so far with a similar type of offering?
+
+**Expert** [00:38:36]
+Absolutely not. I have been approached by every other solution provider, many big ETP suppliers, but haven't seen that. I can very confidently say that we have proven this. We have proven this use, and I think we were the first to prove this in industry. We picked up from somewhere, but on a large scale, we were the ones who proved it.
+
+---
+
+**Client** [00:38:58]
+Super clear. Last one or two questions from me then. We always ask this, it's quite cheeky, but it encapsulates quite a lot. Would you invest your own personal money in this company?
+
+**Expert** [00:39:13]
+Absolutely. I would invest because I'm a technology guy. Firstly, I love this technology, and the things which you can do, keep on doing it wherever there are liquids or flowing liquids is immense. Potential is immense.
+
+---
+
+**Client** [00:39:31]
+You guys are one of the bigger guys. The big guys, obviously, probably similar, will also get a lot of value out of this. I see them spreading like that. Tha's fine. What about the mid-market? Do you think this is applicable to mid-market manufacturers as well, or do you think it's less applicable?
+
+**Expert** [00:39:51]
+I think given their cost and given the solution which they have put or the problem they are trying to solve, this would appeal to a larger market. Over €30,000 per line, a line which produces millions of parts per month, I think that's manageable. If I have a line and I'm a mid-level producer, I think I will go ahead with that. That's my confidence in the technology. That's why I'm saying this.
+
+---
+
+**Client** [00:40:17]
+Super clear. Okay, that's been extremely useful. Thank you very much. I really appreciate it.

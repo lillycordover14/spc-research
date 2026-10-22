@@ -1,0 +1,512 @@
+---
+theme: "Industrial & Supply Chain"
+title: "IT Technology Director at NextEra Energy Inc. Strongly Endorses Cognite Data Fusion and Atlas AI for Industrial Data Integration and Efficiency Gains"
+doc_id: EC-1000000-185390
+source_line: "Cognite · Expert Call · Customer · 20 Oct 26"
+date: 2026-10-20
+company: "Cognite"
+pages: 2 of 2
+saved: 2026-10-21T15:55:52.234Z
+url: https://research.alpha-sense.com/search?search_id=tmp-l5q00vjpbwvf9aw6o2hl&sort=DATE&order=DESC&docid=EC-1000000-185390
+---
+# IT Technology Director at NextEra Energy Inc. Strongly Endorses Cognite Data Fusion and Atlas AI for Industrial Data Integration and Efficiency Gains
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+20 Oct 2026
+
+INTERVIEW DATE
+
+23 Jan 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Cognite
+
+OTHER COMPANIES
+
+Aveva Group
+
+PLTR
+
+SMART SUMMARY
+
+Summary
+
+The conversation covered the organization's approach to industrial data infrastructure and AI platforms, focusing on the selection, implementation, and impact of Cognite Data Fusion and Atlas AI. Discussion included vendor evaluation, integration challenges, cost considerations, and the operational benefits realized from these platforms.
+
+EXPERT BACKGROUND
+
+- Over 20 years of experience in IT and OT within the energy sector, spanning oil & gas (upstream, midstream, downstream), renewables, and electric utilities.
+- Primary decision maker for technology vendor selection, digital transformation, and integration of industrial data infrastructure and AI platforms across multiple business units.
+
+EXPERT SENTIMENT
+
+- Strongly positive on the value and differentiation of Cognite Data Fusion (CDF) and Atlas AI, rating them a 10/10 for recommendation.
+- Believes CDF and Atlas AI are likely to become the primary consolidated platform for the organization, with phased expansion planned based on current success.
+- Views vendor consolidation and integration capabilities as critical, with CDF/Atlas AI outperforming competitors in these areas.
+
+TAKEAWAYS
+
+- The organization is undergoing a digital transformation focused on vendor consolidation, operational efficiency, and cost savings, with a strong emphasis on integrating OT, IT, and engineering data.
+- Cognite Data Fusion (CDF) was selected after a rigorous RFP process due to its superior integration capabilities, cost structure, and ability to serve as a single source of truth across disparate data sources.
+- Atlas AI, integrated with CDF, is being used for root cause analysis and predictive/preventative maintenance, leveraging out-of-the-box templates and enabling significant efficiency gains and potential cost avoidance.
+- Implementation is live in production across select business units (midstream, renewables, electric utilities), with plans for phased expansion based on ongoing results.
+- CDF's integration mechanisms (APIs, connectors, extractors) and ease of deployment are seen as major differentiators, enabling rapid scaling and reducing reliance on multiple analytics vendors.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Expert Background
+
+Technology Stack and Organizational Overview
+
+Vendor Selection and Evaluation Process
+
+Implementation and Initial Deployment
+
+Insights, Benefits, and Future Plans
+
+EXPERT BIO
+
+IT Technology Director (Oil & Gas) at NextEra Energy Inc. The expert is a current customer of Cognite.
+
+IT Technology Director (Oil & Gas) at NextEra Energy, a customer of Gorilla. The expert is the key decision maker when deciding which vendor to collaborate and partner with. The expert closely evaluates and thoroughly vets these vendors based on the Request for Procedure and Request for Information (RFP's and RFI's) that the expert sends out and evaluates diligently based on the responses received. The expert has a set of selection criteria used to carefully examine these vendors and closely determine the functionalities, products, and offerings that they bring to the table. Based on how they stand out and score given the use cases and scenarios we present these vendors with, is how the expert chooses to select them.
+
+The expert can speak to using and evaluating satellite imagery providers including Woolpert, SAM Geospatial, NV5, Barr, Eagle, PHB, AECOM, ESRI GIS, TRC Companies, Terracon, Intertek and DNV.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+To give you a little bit of a background, we're doing some research on industrial data infrastructure and AI platforms, really understanding how these platforms are used particularly in very asset intensive industries. Based on your background and the myriad of tools that your organization seems to be using, we felt like you would be a great profile and helpful for us to talk to.
+
+**Expert** [00:00:22]
+That context is very helpful and it's definitely something that I, in my space, and what I've been doing not only within my current organization, but also over the course of about 20 years of my experience within the energy industry, of course back in the days, didn't really have access to platforms such as these that are available today.
+
+All of the use cases and the needs that have built on over the last so many years have definitely brought us to this stage with the use of such platforms which now simplify our lives from an operational and also from a functional perspective. Happy to talk about it and happy to give you a brief on where I come from and what I do and how it ties into the context of this call as well.
+
+---
+
+**Client** [00:01:05]
+Perfect. Maybe just starting there, would you be able to give like a one to two background on your role at your current firm, how you interact with these tools?
+
+**Expert** [00:01:16]
+I've been in the energy industry within the information technology and operations technology domain for the last 20+ years now. Primarily started out focusing on the OT domain across multiple different industries, namely oil and gas, upstream, midstream, downstream and then renewable energy and power and electric utilities. The company I'm with today, they are primarily into all of these three major sectors.
+
+We have our subsidiaries that are divided across oil and gas, we have the renewable side and then we also have the power and electric utility side. More focus on the power and electric utility side. As you can imagine within the energy industry, it's all about our operational assets that we have out in the field. Everything that is now connected via IoT and the sensors that we have out in the field, the real time data that we collect from them, the historical data that we collect from these devices.
+
+Back in the days, even like five to 10 years ago, where everything was more of a reactive mode wherein if equipment fails out in the field, we go replace the equipment as and how the equipment fails versus now it's more like, "Well, why wait until the equipment fails? Why can't we find out about it beforehand and be more proactive about it so that we don't have to run into unexpected shutdowns, unexpected outages." It's a whole series of things that follow after that.
+
+My role is basically over the course of these years with the familiarity around the different OT systems and IT systems and today of course with the engineering systems as well is really started out with how do I capture the data and that's really where a lot of the SCADA systems came in, meaning how do I capture real time data? That's all energy companies cared about. Meaning I just want real time information from my plant operations. No one really cared as much about the maintenance related data or anything.
+
+Today, it's about no, we need OT, we need IT and also the engineering data to be able to combine these different data sources so that I can work with players like the Schneider Electrics of the world, the AVEVA, the C3 AI, the CDF, there's ton of these players today and how they now form that top layer, I call it the intelligence layer. This intelligence layer then helps me drive my efficiency, helps me drive my revenue, it improves my forecasting for example, a lot of advantages.
+
+My role comes in as today, I'm being groomed into that CTO type of a position. I do act as the primary decision maker when it comes to evaluating these different vendors that are out there, have a ton of selection criteria that I go through. I run RFPs to make sure that the different vendors are evaluated against the selection criteria that we have and then determine which partner would be really effective in collaborating with and working along with. I can speak about OT, IT, cybersecurity, how all of that ties in with these different data sources, etc. That's just a brief on my background.
+
+---
+
+**Client** [00:04:15]
+Really appreciate that, very fulfilled. I think this would be a great conversation for us. Maybe just get started. What tools are in your primary tech stack and is this inclusive of the daily work. I see you have Cognite, Palantir, C3 AI, SymphonyAI, Seeq, AVEVA and AspenTech.
+
+**Expert** [00:04:39]
+Yes, that's correct. Those are all vendors and one may ask, "Why do you work with so many different vendors?" That's a question that we ourselves wrestle with today. That's also why we have a program in place as part of our digital transformation journey where by the end of this year, I would like to do like a vendor consolidation. I'm in the process of that. It's all the more interesting today, especially because vendors are now coming up with the AI models that sit on top of their intelligence layers, machine learning built into it. You name it.
+
+It's becoming all the more competitive, but at the same time, the Cognite Data Fusion was something that we acquired organically. There are a few, such as AVEVA, AspenTech, that actually came with some of the mergers and acquisitions that we did, wherein we retained the working relationships with them and also retain the licenses. That's also why we don't necessarily need 10 different solutions to do the same thing.
+
+Our overall organizational philosophy is if we've got 10 different use cases, I rather work with one or two vendors that are able to fulfill those 10 different use cases as opposed to go out and work with 10 different vendors. I am trying to consolidate that. I'm looking at the overall picture of what these different vendors do, how do they differentiate themselves, and at the end of the day, how can I consolidate it?
+
+I still wouldn't go to just one vendor for the entire organization only because I have three distinct business units. Although they fall under the larger company umbrella, they still operate independently because of the nature of the business and also the regulatory requirements and also the regulatory bodies.
+
+---
+
+**Client** [00:06:23]
+Not to cut you off there, that makes sense to us. We'll definitely want to dig deeper into that later. I think would love to first start off with one of your products you mentioned that you did organically, the CDF. Before we do that, can you give me a sense of how large your organization is, maybe the number of sites, assets, however you think about it?
+
+**Expert** [00:06:48]
+Absolutely. The organization itself is 16,000 employees with about $20-ish billion in revenue. We have about 275 operational sites and facilities across the United States and Canada. Primarily North America is where we're based out of and operating out of.
+
+---
+
+**Client** [00:07:06]
+Very helpful. You mentioned you were the decision maker for Cognite. Is that additional committee or were you the primary decision maker?
+
+**Expert** [00:07:16]
+The way it works is I was the primary decision maker only because my role and my responsibilities are being shaped and driven by being groomed into the CTO position. For every such selection that runs into, say, has a CapEx of a few million dollars or whatnot, and has a larger OpEx, we do have a steering committee or a deciding committee, so to speak. It's 12 different members that comprise of the CTO, the CIO, the CFO, and then we have the chief AI officer now. It just depends upon what type of product are we talking in a situation like this, which is more technology and operations. It's a close connection between the COO and the CTO.
+
+---
+
+**Client** [00:07:57]
+Great. Would you be able to walk through when and how you first heard about Cognite?
+
+**Expert** [00:08:04]
+Yes. It was a part of the RFP process that we started in January of 2025. Prior to that, I had experience with them, but our formal RFP was beginning of last year where we started actively partnering with them and have been actively partnering with them.
+
+---
+
+**Client** [00:08:19]
+How had you heard of them before? Was this a peer, a vendor intro, an internal initiative? What led you to start looking for Cognite specifically?
+
+**Expert** [00:08:31]
+A mix of multiple different things. One would be the overall word of mouth with several of my peers in the industry that had already been moving to CDF and also to the Atlas AI that they now have. Second was I have been in webinars and conferences and seminars where I've heard of them, been approached by them. Third was where I personally had used them. They've been around for, I want to say about nine, eight or nine years now.
+
+I've had experience using them at other places and so did several of the team members on the operations side that had really good experience using them at other firms and other organizations. Combining all of that is really what led to them being a part of the RFP.
+
+---
+
+**Client** [00:09:14]
+Makes sense. Who else was a part? What other companies were part of the RFP?
+
+**Expert** [00:09:21]
+Cognite, Palantir, Seeq was a part of it, AVEVA, because we have a relationship with Schneider Electric and then they spun off, AVEVA was a part of it, AspenTech was a part of it. There was this product Ignition, which is by Inductive Automation. They were a part of it.
+
+Now, at a smaller level, products such as Databricks and Snowflake, they don't really have the full overarching picture like what Cognite does, but we wanted to explore, so they were also in the mix of whether or not they would come close to it. One other vendor was Hitachi. Hitachi has this product called Lumada, and Hitachi was also a part of it.
+
+---
+
+**Client** [00:09:59]
+Got it. What were you trying to solve for? What was the trigger point to conduct this RFP?
+
+**Expert** [00:10:07]
+Two main drivers. One really from a cost perspective, because we had, as I started out saying that 10 different vendors, use cases are not 10 different ones. The use cases are something that could be combined essentially into one platform at the end of the day with the technology, the way things are. Cost was number one, because we did notice that with these 10 or so vendors that we have, we were basically spending a significant amount of OpEx as part of the cost towards what we were trying to achieve.
+
+Number two was vendor consolidation, more from a liability perspective, meaning we go through M&As, but at the same time we go through divestitures as well. As part of divestitures, when we're segregating a business unit, we want to make sure that it's not five different vendors that we're held liable for, have it all consolidated under one larger umbrella. It was more from an operational efficiency perspective and also from a cost savings perspective. Those were the two factors that were the main drivers behind the digital transformation initiative that we were on.
+
+The digital transformation initiative itself started back in 2022, and we've been doing that at multiple fronts. This is just one portion of the digital transformation. We started out doing, for example, our ERP system was upgraded to SAP S/4HANA and those sorts of things. We started out in multiple fronts, and we started approaching different layers. We started looking at the rock bottom, the SCADA layer. We looked at where are we with an enterprise asset management perspective, just multiple verticals. This was one of the verticals.
+
+---
+
+**Client** [00:11:47]
+Vendor consolidation, the cost of multiple vendors, digital transformation, organization wide. What was the main thing you were trying to solve for that led you to get Cognite or select Cognite?
+
+**Expert** [00:12:01]
+That's a great one. With Cognite, the main reason why it stood out was basically with several of these other vendors, AVEVA, that we worked with and some of the other vendors, we kept running into integration issues with the energy business as you have various types of PLCs and equipment out in the field. These equipments could have probably been operational for 30 or 50 years. Energy companies, they don't really go change out every single PLC out in the field. They let it run up until the life of the product.
+
+Integrating with those end devices is a huge challenge, but with CDF, with the way you create those models, they have a generic API and then they have these built-in OPC UA connectors which connect across, I want to say, roughly around 47 different connectors that they provide that that easily integrates with all of the different data operational assets that we have out in the field. That is not something that we saw readily available as part of some of the other vendors that we evaluated. That was top of the list.
+
+Integration within our existing ecosystem because the whole goal was at the end of the day, to be able to ingest data from multiple different data sources and to be able to gather all of that data and break the data silo. If we can't even connect out to the operational assets, then that's a failure. With this, we have the ability to go read data from multiple different types and models and protocols that these PLCs were communicating, and we were able to effectively read it. That was number one.
+
+Number two was we conducted a large discovery phase wherein we basically brought the vendor in and we had a set of requirements from a roadmap perspective as to where we wanted to be with speed, with efficiency, with connections, with what we tried to read. They basically came in with their set of like, "Here's our set of products, here's our set of features that will actually help you to transform." We did that for multiple different vendors. CDF was one of them. They bore the cost on the discovery phase. They actually absorbed that cost quite a bit.
+
+It showed a strength from a cost perspective and a partnership perspective that they were wanting to be more of a partner as opposed to just a vendor. That's another thing that I was looking at. I would say integration, I'd say cost. They looked at volume discounts because it wasn't just a one price fits all. Here's our API cost per API. It was more of let's look at your overall picture, let's look at the volume that you bring to the table and we're willing to work with you on the price.
+
+Pricing was a huge factor, their reputation and credibility in the market, with the peers with use cases, I actually visited several of facilities and talked to several of my peers that had real time examples of how now with the help of Atlas AI and the agents that they were building out, everything from root cause analysis to predictive maintenance, etc., I was able to see real time how it was providing value. CDF themselves, they were able to provide real time use cases and case studies that demonstrated how their product was actually helping save dollars as opposed to leaving dollars on the table.
+
+Real-world examples was another thing. Their support was top notch all the way throughout the demo process and throughout the discovery process. I have access to a dedicated SLA with tier one, tier two type of support because this is a live environment and it was kind of like a hand holding process that we did need because we had to get the data ingested from multiple different layers. That was top notch. Several different criteria buckets that we looked at where CDF stood out for us.
+
+---
+
+**Client** [00:15:37]
+Got it. What were the closest two competitors or the two closest companies you were looking at?
+
+**Expert** [00:15:44]
+I would say C3 AI with the technology, I would say they were very close. Closer than that I would say would be Ignition by Inductive Automation. Ignition works in the sense that they have the SCADA layer, which is the underlying foundation to go acquire the real-time data, but then they also have the intelligence layer on top.
+
+Ignition actually comes in right from the bottom layer versus CDF comes in one layer above that. Ignition stood out as a really good competitor. We are actually partnering with Ignition as well from a SCADA system perspective in several of our sites. They're still a good partner for us. We just haven't gone full blown with them yet from a data ingestion perspective.
+
+---
+
+**Client** [00:16:28]
+Got it. That's helpful background. What about like a Palantir? How did they compare? Where were they involved in the process?
+
+**Expert** [00:16:39]
+With them, they are a strong competitor, but overall from an energy industry perspective, I want to say they lacked significantly when it came to integration abilities and their abilities to connect with some of the PLCs that we had, some of the legacy type of equipment that we had out in the field. Now, Palantir, the way I look at it is there are more broader, say like an enterprise wide application or a cross domain data modeling type of thing.
+
+I would consider Palantir to be more geared towards IT and engineering data, but CDF is where I see them to be more heavily focused on the industrial side. Today, the world is talking about IT, OT convergence and the unification of IT, OT data. That's exactly where CDF fits in. We need that because one of the things that we have been doing as, as our peers as well is with some of the regulations in the industry, we are mandated to have physical layers of separation between the IT data layer and the OT data layer.
+
+There are some instances where you still have to get the data at the top and reporting visualization and all of that. That can only be done really well with someone like CDF because they play at that foundational OT layer and then come all the way to the top with the IT/OT convergence. That's not something Palantir does as well as what Cognite does. I look at them as connecting these different OT data sources and looking at industrial AI sort of things. Those are the areas where they stand out to me.
+
+---
+
+**Client** [00:18:07]
+Got it. Cognite had more of an industrial domain expertise compared to Palantir.
+
+**Expert** [00:18:15]
+Correct.
+
+---
+
+**Client** [00:18:16]
+Got it. When you mentioned this Ignition by Inductive Automation, how did they differ? I understand that they were in the data layer. Were they able to connect to other sources of data like historians? Did they have those same type of integrations?
+
+**Expert** [00:18:36]
+They do. I look at them at that data layer, at that HMI, SCADA type of layer, IIoT when you want to monitor the data and you want to control the data. It's that SCADA layer. Again, not similar to Palantir because Palantir comes at that enterprise wide layer where it's more like an application. You're connecting and weaving the threads together at that top layer. Ignition is primarily at that super rock bottom layer which is just HMI, SCADA, IIoT where you've got real-time data monitoring and real time data control. Cognite just sits in as your overarching umbrella on top of that.
+
+Ignition, I don't see it as well versed when it comes to being a platform that contextualizes the data or now starts analyzing data from different OT systems, IT systems and enabling your AI to run in the background. They're not there yet. They are definitely talking about it. They have applications and modules that run on the web, etc., but they're not there yet.
+
+I look at them as that umbrella that sits on top of Ignition. Ignition is just one piece in the puzzle, whereas Cognite can now go and connect with hundred different sources if need be. Ignition could be just one of them is really the differentiating factor between the two.
+
+---
+
+**Client** [00:19:58]
+That's very helpful. We'll definitely go deeper into all these different companies. I want to talk a little bit about the implementation of this. When did you first purchase Cognite and decide to go forward with it and is it fully live right now? What did that initial scope look like at go live?
+
+**Expert** [00:20:17]
+We started definitely during that Jan timeframe. By the time we were operational, June of last year is when we were well into it, because we had to go through a very extensive discovery phase and things like that. Ideally speaking, we've been with them, although I personally have past experience and others do. Within the organization itself, what we did is we picked subsidiaries that were unique to each of the three segments, meaning within oil and gas, we picked midstream.
+
+We picked a couple of different midstream units. Within renewable, we picked a couple of different units in the wind and the solar asset side. Within power and electric utilities, same thing. We picked a few subsidiaries which were relatively smaller to be able to test this out and go into production, live with it. We are live in production on I want to say, like for example, on the midstream side I have about 350 or 400 miles of pipeline that is actively monitored, which is one full business unit itself.
+
+On the renewable asset side, I want to say I have close to about 200 MW of generation capacity that is being monitored and looked at overall. Same on the electric utility side. The end goal is by the end of this year to really make that decision whether or not CDF would be the primary vendor or would it be somebody else. These live production results that we have from these different vendors is really what's going to help us make that decision. Today, small piece of the puzzle, yet live in production and being actively monitored as a live production system.
+
+---
+
+**Client** [00:21:51]
+Got it. Are you currently still in the pilot or have you expanded and done more of maybe additional sites, additional assets over time?
+
+**Expert** [00:22:01]
+Yeah. We did additional assets. This is not pilot, this is actually live in production. When I say live, this is the monitoring system. Meaning we don't have another system monitoring from an intelligence layer perspective. Ignition sits at the bottom, for example, in the midstream section. Ignition sits at the bottom and CDF sits on the top with 10+ miles. It's a live production system that we have. It's no longer a test bench per se.
+
+---
+
+**Client** [00:22:34]
+That makes sense. When did you first start paying for Cognite?
+
+**Expert** [00:22:39]
+What we did is we actually had a one-year annual subscription sort of a thing that we purchased with them. The way we broke it down into is starting June of last year. There was some cost that we negotiated up front. Starting June of last year is when we basically said that we're going to break it down into two buckets.
+
+One is your initial capital expenditure, which is going to be your project costs, your implementation costs, subscription costs, all of that and then there's a one-year annual operating expense. I'm happy to dive into the financial details too. There was a one-year annual operating expense that we paid up front and we capitalized that as well.
+
+It was June of last year when we did it. We extended it with the program that we want to make sure that we have until the end of this year. We extended that as well. We're not into like a full-blown three-year contract like we usually do with some of our other vendors. When we do work with a brand-new vendor, this is also part of our exit strategy if you make because we haven't really worked full on production with them.
+
+Now, we are. With CDF, we are. That's also why we're in a live environment. As we go, as part of our exit strategy, say like there's a breach of data or there's a violation of contract or deliverables are not met, whatever the reason may be and we need to exit out, then this is really part of our exit strategy. So far, things have been working out okay. If it goes in the same rhythm, then we basically do like a three-year type of a contract where we look at what the annual cost would be and either pay that three-year contract upfront or something along those lines.
+
+---
+
+**Client** [00:24:21]
+Got it. How much have you spent approximately on the software versus on the services side and in total?
+
+**Expert** [00:24:29]
+Just on the implementation side across all of the different vendors we ran into, I want to say it was roughly around mid six digits in project management, deployment, getting the product rolled out, getting everything installed. That was a one-time capital expenditure across these different assets that I talked about. The annual maintenance cost itself is roughly around low six digits that we paid in annual operating expense. That's a one-time expense.
+
+Just looking at from a production perspective, how much are you monitoring? At end of the day, it'll be like a per megawatt or per gigawatt type of a cost or like per mile of pipeline is what it might come down to when we get into the three-year contract. For now, it was more like, "Okay. Let's look at the cumulative business. You've got a few hundred megawatts that you're monitoring on the renewable side, on the power and electric utility side. Here's what your comprehensive annual operating expense looks like." That's where the low six digits in operating expense comes in.
+
+---
+
+**Client** [00:25:31]
+If I'm understanding this correctly, what would your annual cost be then? The low six digits?
+
+**Expert** [00:25:38]
+Correct. That would be the annual cost. Going forward, as we expand and as we move to say for example, all of oil and gas is going to be on CDF or all of renewables is going to be on CDF, then that cost is going to exponentially increase from how much power are you controlling, how many miles of pipeline do you have deployed live right now, and that cost will exponentially increase at that point.
+
+---
+
+**Client** [00:26:03]
+Got it. You haven't expanded yet how much your organization is using it. You're still on that initial go live amount?
+
+**Expert** [00:26:12]
+Correct, because otherwise, it'd be a little too much of a risk type of a situation. Only because these are for us to even take this step to where we've actually gone live and we're live on our production systems was a huge step of trust and faith.
+
+---
+
+**Client** [00:26:28]
+Another question. I know you've mentioned Atlas AI, I believe that's their AI product. Do you use that? Is that part of your license today?
+
+**Expert** [00:26:41]
+Yes. We did add Atlas AI as part of it and in fact, starting this year because they were relatively new, we started playing with it especially because they came out I want to say towards the end of 2024, somewhere around there. We did start with it, but we're only using Atlas AI in a very limited capacity because again we want to test it out.
+
+We have a couple of strong use cases that we have identified just for our industry, primarily being one is root cause analysis and second is the predictive and preventative maintenance. Those are the areas in which we're using them. A smaller portion of these live assets is where we have deployed and we're using these active live agents.
+
+---
+
+**Client** [00:27:24]
+Got it. Would you be able to walk me through those? What are your thoughts on it thus far? Were these agents that your organization built or were these agents that Cognite had out of the box?
+
+**Expert** [00:27:38]
+They do have a really good structure. That's another thing as part of your very first question around why CDF along with the integration abilities that I talked about where they integrate really well with multiple different data sources, etc. This was another huge plus is the templatized version of models and how they've got their different templates built inside of the system to where for example, you want to connect out and build an APM model or you want to build an RCA model depending upon the industry you're in.
+
+Straight out of the box, there's a ton and variety of different templates that are ready to be used. For example, you start getting into the nitty gritty and the details of what sort of power consumption or what sort of variables are you looking at, it'll pull industry-wide parameters. For example, just for power consumption. There could be like 50 different parameters that it'll go pull and then you can narrow it down or expand it to say that I don't want to look at 50 different parameters. These are the self-defined parameters that I want to look at, and you can do that.
+
+A huge plus for us is we don't have to go manually build out because for someone like Palantir for example, or for someone like Ignition for example, we would have had to build out the parameters and these templates inside of them as opposed to CDF where these templates are pre-built and saves a ton of time for our engineers to go start working on agents and things like that. That's number one.
+
+The second part of your question would be, as part of the discovery phase, they did help us understand and leverage how we could use these AI agents as part of RCA and predictive maintenance. We also have an in-house set of data scientists and also an IT DevOps and DevSecOps team that is able to now pull in the data and do a lot of the work in house as well. Huge combination of these three different parameters.
+
+Number one being the templates that are inbuilt inside of the product itself. Number two, what they as a vendor provided to us as part of the discovery phase. Three, because of the RESTful API architecture, how our internal team is now empowered and enabled to go build out these which it's easy to just go build these agents and it's not a lot of work because a lot of the customizations have already been done in the background. It makes it super easy and simple to be able to do that.
+
+---
+
+**Client** [00:29:55]
+Got it. Very interesting, this is very helpful. Would you be able to talk through what about CDF? What are the strengths of that? What felt like it was differentiated? Do you have any value prop in Cognite Data Fusion on its own or is the value in the Atlas AI agents on top?
+
+**Expert** [00:30:16]
+I would think that CDF itself has a huge value proposition because what we're looking for essentially when it comes to the different models that we build and when we look at the different data silos that we have within the company, it's a huge problem area because our OT department itself might have the maintenance techs, the field engineers, the reliability engineers that are using different systems
+
+Just don't have a single way of looking at even connecting between their work orders and how those work orders are tied to a single piece of equipment and how that then ties into SAP or how can they look at the cost associated with the replacement of those equipment. There's just no way to do that. What CDF does is when I say it forms that intelligence layer on top of someone like an Ignition or something, it serves as we expand more, it'll serve as the single source of truth for us.
+
+Meaning it'll be like that single glass pane of window where we can now as we're looking at our digital transformation, as we're looking at how do we reduce our maintenance costs and increase our production efficiency, CDF is that layer. Atlas AI to me it's more like it's an enabler of everything that is built inside of CDF. I see Atlas AI as more of a nice to have. Today, of course, as you plug it into your ops, it does become a must have over the course of time, but CDF in itself is really a necessity for me when I look at the platform and Atlas AI becomes more of an enabler for me.
+
+---
+
+**Client** [00:31:45]
+That is a very helpful description. Do you see any other solutions? Is there another solution out there that can do what CDF does? That's my biggest question because it seems like everything relies on CDF. CDF is how you bring everything together, all of your disparate data sources into one function. They have the digital twin where you can see your entire organization. Are there other competing solutions that can do that?
+
+**Expert** [00:32:15]
+There are. For example, let's look at GE Vernova, for example, has a great tool that helps you build digital twins and helps you like visualize all of your real-time data, operational assets and things like that. Do they have what CDF does with like building a contextualized graph that can connect out to multi-data sources? Not in a manner that CDF does.
+
+Can I make it work? Yes, I can make it work. Meaning I'll have to get my DevOps and DevSecOps teams to work in the background, make the API connections, connect out to different data sources and I can make it work, but the amount of time that it'll take and the total cost of ownership in that case would increase significantly. That's just one example.
+
+AVEVA, same thing. They have a really strong now that they purchased OSI PI. We had OSI PI, and we were working very strongly with them. OSI PI is more of a historian, in my mind. OSI PI is a smart historian. You collect all the maintenance data and then you run intelligence on top of it. Now, you have a smart historian in OSI PI.
+
+CDF, relatively speaking, it becomes that overarching umbrella where, you know, you're now creating AI agents. You're not only looking at the maintenance data, but you're also running programs inside of your maintenance data by looking at what sort of data is coming in, what should be the normal operating range for that particular piece of data? How do I define thresholds for that piece of data?
+
+What CDF can then do is with the help of AI, the way it contextualizes the data is it'll then say with the help of algorithms running in the background that "Oh, wait a minute, this particular piece of data is outside of the scope of its normal operating range." That's how it flags the operators and lets them know that "You know what, there's something wrong with this piece of data and you need to go look at it like there's something off about it." It'll look at a maintenance data and it'll basically say that if a particular pump is operating at X amount of vibrations per second, for example, and say there's a normal operating range of zero to 20 on it.
+
+As you define what the parameters are, CDF will then have the ability to scan through multiple hundreds of thousands of such data points and be able to flag any abnormality that it sees in this operation and immediately highlight or send a report or send an email, whatever sort of notification you pick, to the field engineer or to the reliability engineer or to a plan operator and tell them that "Hey, by the way, your motor out in the field or your pump out in the field does need some person to just go take a look at it, because apparently it's not working properly."
+
+That then gives me as a company the ability to say that "Okay, well, if I hadn't caught that abnormality in due time, it would have failed on me." If it would have failed on me, then that means operationally that particular plant and that particular site would have been down, which means that I wouldn't have been able to meet my financial commitments of making supplies to my third-party customers, which is a huge financial loss. From an operational perspective, it's a huge delivery loss as well. All of those is really where the intelligence that someone like a CDF comes in and builds inside the package.
+
+---
+
+**Client** [00:35:39]
+Wow, that's very impressive. Seems like a very valuable solution. Just to clarify, all of these notifications, things like that that are happening, is that from CDF or is that from Atlas AI?
+
+**Expert** [00:35:54]
+Think of Atlas AI as the AI portion that you are building on top of CDF. Meaning they go hand in hand with one another. Meaning with all the CDF data that you have now collected, you built all these into intelligence with the help of all the data points that are coming in. It's because of those data points and because of all the data that you have now collected is where Atlas AI then comes into the picture.
+
+The algorithms that I just talked about running those algorithms in the background, that's really where Atlas AI comes in with its smartness to be like, "Oh, okay, let me look at the data, let me scan through millions of data points and now tell you whether or not your system is operating in the right manner or not." The way to think about it would be CDF is that data layer that kind of builds all this intelligence and then AI comes in and as that smart layer that is plugged inside directly a CDF and gives you the smarts behind it.
+
+---
+
+**Client** [00:36:48]
+Got it. You can't have Atlas AI perform at the level it does without CDF because it has all this contextualized data. It knows how everything typically runs and what is connected. Atlas AI is what actually notifies me and says, "This is outside of the normal range, this could fail."
+
+**Expert** [00:37:09]
+Absolutely. That's the simplest way to put it right. Atlas AI cannot function without CDF because Atlas AI is designed specifically to work with CDF. It's an extension of CDF wherein all of your industrial AI agents that you build, they rely on the data that's stored inside of the CDF knowledge graph.
+
+---
+
+**Client** [00:37:31]
+That is very helpful. Maybe talking a little bit like it seems like it's a very valuable tool. Has your organization seen any key metrics moving? Do you have a sense of any qualitative or quantitative impact you found with Cognite and CDF and Atlas AI?
+
+**Expert** [00:37:51]
+With Atlas AI, absolutely. Every time we had the two areas that we're looking at, and that's the preventative and the predictive maintenance is what I touched upon earlier with the pump, the motor and the vibrations per second, etc. Same thing with like RCA. We looked at what are historically speaking annual like 2024, 2025. What sort of shutdowns did we have if we did not have someone like a CDF sitting on top of it, someone like an Atlas AI that then you can use to run RCAs, for example?
+
+The way to look at it would be without someone like an Atlas AI. If you were to get a complete picture of you want to run a root cause analysis, for example, you've got the entire contextualized graph of how the different things are looking. Whether or not those graph data points are in line with your company's documented best practices for analysis and all of that, imagine the amount of time that one of your data engineers would have to go through scanning through hundreds of different documents, look at best policies.
+
+How do I run root cause analysis on these graphs and these models? None of that has to be done. You basically build a model, you put in a command. It's like a ChatGPT command prompt where you put in a command that says, "Run a root cause analysis on this entire graph where go leverage the company's documented best practices around maintenance data and historical information," and boom, it gives you a step by step RCA analysis of what could have gone wrong and where could you have prevented it or how could you have prevented it, those sort of things.
+
+There's a lot of intangible ones there, but the tangible ones would be the number of man hours that could be saved in a data engineer that would have actually had to browse through hundreds of different documents to even come up with the context behind where do I even start on the RCA analysis versus now you build an agent that scans through all these documents. Hours and hours of human intervention can actually be saved. Efficiency can be increased way much.
+
+Not only that, the direct tangible impact would be like in the case of predictive maintenance, if I have a shutdown and say, for example, I'm actually delivering to a third-party customer. That in itself could be millions of barrels of oil per day and my third-party connection I need to shut down that plant because one of my operational equipment just failed on me, then that means that your financial loss could very well be in the millions of dollars, just depending upon what operational asset did this failure happening.
+
+Now, if we go backwards and imagine that, no, I didn't let that motor run to failure. I caught it beforehand. I send a technician out there to be able to look at what was going on and say, for some reason, that motor was actually going to fail over time. I can now procure a different motor. I can make sure that I have everything ready. I've got inventory on site and I can swap it out. The amount of tangible production loss that could be saved, that is also huge.
+
+---
+
+**Client** [00:40:56]
+That makes sense. For your question, has your company done any of that analysis yet?
+
+**Expert** [00:41:02]
+It's also difficult to say in the sense that, for example, right now we've got this midstream company where we're running CDF. We also have Atlas AI running, which is plugged into it and it's building it. Thankfully, you never want to run into a leak or you never want to run into a shutdown. We looked at historical data, we looked at shutdown, if a shutdown were to happen. If that shutdown happens, we've seen it to where it could be a week before we're able to repair the piece of equipment and before we can get the operations back online.
+
+That week itself could be about $1.5 million-$2 million in financial loss that we've had to incur back in the past. This was years ago. You never want something like that to happen, ideally speaking. It's hard to tell. If something were to fail, we went through our historical records and we looked at if something were to fail, what would it be? We were able to easily tie the ROI to say that if a production actually failed, we've actually seen instances of closer to $1.5 million-$2 million in production loss that we would have had to suffer.
+
+---
+
+**Client** [00:42:13]
+That makes sense and very helpful. When you think about it, do you think your organization will replicate this across your organization to different use cases?
+
+**Expert** [00:42:24]
+Honestly, with the way CDF is performing and especially with the introduction of Atlas AI, I do see CDF and Atlas AI to be, and in all honesty, the number one contender when it comes to our vendor consolidation program. What that translates to is yes, we would then essentially expand, but we would do it in phases, meaning we wouldn't just go to the entire organization. Now that we did a pipeline, about a few hundred miles of pipeline on the midstream unit. We have roughly about 3,700 miles of pipeline. We would then expand it to our entire midstream business unit for example.
+
+If that goes successful, then we will look at the larger oil and gas business where we would look at doing something similar for our upstream business and then our midstream business. It would be in phases. What that does for us is we're not putting all eggs in one basket or we might just do we just have our midstream business unit completely on CDF and stop it at that, and then go to the renewable side and have our entire wind turbine business or maybe the solar business completely on CDF. We would do it in phases. There is a very high probability that we would expand.
+
+---
+
+**Client** [00:43:38]
+Got it. On a scale of 0-10, how likely are you to recommend CDF and Cognite and Atlas AI to appear in the field?
+
+**Expert** [00:43:47]
+With everything that I have experienced and my current working experience with them, I wouldn't hesitate to give them a 10 only because I would look at multiple different areas of where they have succeeded, whether or not they've met the business use cases and the business needs of my organization from a technological perspective. If I'm able to check those boxes, then it's a 10.
+
+Number one, my goal, as we discussed earlier, was vendor consolidation, which automatically helps me save a ton of cost where I don't have to spend a million dollars or so on 10 different vendors and I can just go with one. That's a huge plus. I would say I wouldn't hesitate to give them a 10 today.
+
+---
+
+**Client** [00:44:27]
+Got it. What other vendors do you think you could consolidate? Let's say Cognite proves itself you're going to expand it across your entire organization in phases, maybe five years from now that's completely done, I don't know how long that would take. What do you think you would be able to get rid of?
+
+**Expert** [00:44:46]
+We would be able to get rid of Seeq, we would be able to get rid of Palantir, we would be able to get rid of AVEVA. Someone like Ignition would stay because we need the data layer. We need someone. That's also why I initially stated that I think Ignition goes head on head against CDF only because they form the foundation layer, which makes them irreplaceable if you may. That gives them a stronger value proposition of, "Well, you absolutely need us because we're at this bottom layer. Without us, you don't really have data."
+
+They would stay, but anything that sits above them, they could essentially be replaced. Anything like Seeq, Palantir, anything that's an enterprise wide application that is only strictly looking at IT or engineering data and not really looking at a comprehensive thing could be potentially replaced.
+
+---
+
+**Client** [00:45:36]
+Got it. How does Seeq's analysis compare to Cognite's? Is it running on top of CDF? How does it work if it doesn't have the contextualized data?
+
+**Expert** [00:45:49]
+When it comes to Seeq, it's a little different because overall when I look at Seeq, advanced analytics, same thing. They also look at a more time series type of data visualization. When I look at the differences from a Seeq perspective, it's more like they rely on data coming in from someone like an OSI PI, for example, because they are looking at larger volumes of time series data. It needs someone like a smart historian to be able to provide it that data, and then it'll sit on top of someone like an OSI PI to then form like your intelligence data.
+
+In a sense, if you think about it, it's already becoming a redundant layer because OSI PI today with everything that it does is very capable. OSI PI itself is capable of doing a ton of stuff, and then you have Seeq that wants to now come and sit on top of OSI PI and also with some IT systems like SAP or some documentation systems and things like that. I don't see them going deeper. They still sit at a very top layer and these top layer ones are really where a lot of competition is coming into being because it's easier, because technology is readily available.
+
+You've already got all these, for example, with the different cloud providers with Azure OpenAI or with Google Gemini or with the AWS cloud, you've got built-in AI features and abilities that a third party vendor can come in and they can easily just be able to plug in the technology and give you more advanced type of data and analytics. I feel like a lot of these vendors, they play at that very top layer.
+
+They each have their own strengths, of course, with how they integrate, with how they aggregate, with how they structure the data. If you feed them unstructured data, like P&ID drawings for example, and how they take that unstructured data and make it into like a more structured type of a data format. They each have their own strengths, but again the point being, they operate at that topmost layer as opposed to CDF which is like way below. As you go deeper into the tech stack is really what makes your relevance and it also makes your stay within a company more stronger, meaning you become more irreplaceable as you get deeper into the tech stack.
+
+---
+
+**Client** [00:48:01]
+Got it, and because Cognite is able to consolidate across all of your irreplaceable data sources, they're hard to replace and replicate.
+
+**Expert** [00:48:10]
+Exactly.
+
+---
+
+**Client** [00:48:11]
+Got it. Did you have to integrate all of your different systems yourself? Was that something that was easy to do out of the box? How productized out of the box is CDF versus requiring a lot of setup?
+
+**Expert** [00:48:28]
+With CDF, the integrations specifically with them, they have multiple different things. Number one is they have the APIs. They do follow what we call as an open RESTful API architecture, which means it makes them very generic. You have Python, JavaScript, whatever else, you can easily make that. They have two other ways of integration which is one is connectors and two-way connectors which give you a bidirectional data sync between your external systems and CDF.
+
+If you think about someone like SAP where you're gathering enterprise data, but not every system gives you a connector. You can't have two-way system where you write back into someone like SAP and update SAP. CDF lets you do that. They have a two-way connector that'll let you right back into SAP. That's a huge plus. Not a lot of systems out there. I don't even know another system that actually does that two-way connector.
+
+They have what's called as an extractor. These are the three mechanisms with which CDF comes in and integrates. With an extractor, that's a one-way extractor. What that'll do is it'll take the data in an unstructured format or like in a raw format and it'll put it inside the CDF, what we call as a staging model. A huge plus with that is if you think about the digital twin, for example, for digital twins, you have to have gigabytes and gigabytes of data models that are stored. You got to take that in the raw format and you got to process it.
+
+It's not easy to process it on the cloud if you don't take it in its raw format. With the help of extractor inside a CDF, you can actually take it in that raw format, take it directly, move it to the cloud, store it as it is because it compresses it, it gets stored as it is and now you can utilize it.
+
+This integration with these different mechanisms that it has with the extractor, the connector and the APIs, that gives CDF that upper hand in which it can connect with multiple different systems, be it historians, be it ERP systems or like your CMMS type of systems or your IoT systems, just multiple different systems. These three mechanisms give it that wide range of connecting out to multiple different data sources.
+
+---
+
+**Client** [00:50:45]
+Got it. Did you have to do those integrations yourself? How difficult was that?
+
+**Expert** [00:50:51]
+Not too difficult. That's also why when we ran the discovery phase, this is really what we wanted to do because that integration was a very big part of our discovery phase. When they came in winning CDF and they came in to do the discovery phase, this was a huge part of whether or not we can make these integrations happen. They actually helped us show how some of these things work.
+
+For example, something as simple as we have Snowflake that we use or we have Tableau from a data science perspective, where we work with Tableau, we work with Power BI, CDF with their open API structure or the RESTful API architecture, they can connect easily just straight out of the box with Tableau, with Snowflake or even with our geospatial systems like Esri. We work with Esri and GIS type of systems, it connects out straight out of the box.
+
+If it's a standard system, meaning like your SAP or like your AVEVA, Autodesk, if you want 3D drawings and you want just 3D models or documents, in today's modern world of OT, all of your standard OT connections, protocols, models, simulations, those are all pre built inside of CDF.
+
+---
+
+**Client** [00:52:03]
+Got it. It's all pre-built. How long these integrate and go live? Say you wanted to expand tomorrow to another 100 miles of pipeline. How long would that take and would that require your organization or would it be more external, like services driven from Cognite with Cognite's help?
+
+**Expert** [00:52:25]
+The latter part of your question, I'll address that first. It would be easier in our case because we do have an in-house set of SCADA engineers, data engineers and data science folks, etc., who already know the structure. They work with the system day in and day out. They work with SCADA systems. They know the protocols and all of that. Relatively easier for us because our IT and OT groups are structured that way. That might not be the case for a small to medium-sized company. That's the second part of the question.
+
+For the first part of the question, if I were to expand, the only caveat would be the operational devices that are out in the field. Say like today, we have about 150 or so miles of pipeline, but these 150 miles of pipeline, they have a standard Schneider Electric PLC that they use out in the field. The protocol that they use to transmit the data is what we call as Modbus TCP/IP protocol. It's an easy protocol.
+
+You don't have to translate it, you don't have to have a translator in between, etc. It makes it relatively easy. Some of our other assets, for example, as we go into some of the recent acquisitions that we did where equipment is these could be like Siemens or Honeywell type of systems where it's a different OPC. It's not OPC UA, it's OPC DA. What CDF has built inside is called an OPC UA translator. Conceptually speaking, it should be straightforward. We've tested it, the connection works, but it'd just be a matter of, these are different systems. These are older PLCs.
+
+Just because we're expanding the usage of CDF does not mean that now we would go replace all of the PLCs in our field because that's a very capital-intensive program. It really depends upon, do you have a generic operational asset landscape, or are your PLCs just completely different? You've got maybe 10 different Schneiders, five different Siemens, four different Honeywells. What does your operational landscape look like?
+
+Most companies today, they are standardizing their SCADA system, they're standardizing their PLCs. In that case, it becomes easier. It's like, "Oh, you want to expand. Okay, well, let's just import the libraries. You just want to import 100 more meters or 100 more PLCs. What are their IPs put in their connections?" It's not time consuming at all. It's super, super easy to do that. If the landscape is more diverse is where the problems with integration and successful connection, reading the data, all of that could potentially become a problem area.
+
+---
+
+**Client** [00:55:15]
+Got it. This has been a very helpful call and really appreciate all of your time today.

@@ -1,0 +1,261 @@
+---
+theme: "Healthcare & Life Sciences"
+title: "Associate Director at GSK Believes Proprietary Data and Integration Are Key for AI Drug Discovery Platforms"
+doc_id: EC-1000000-233520
+source_line: "Boltz Bio · Expert Call · Customer · 18 Oct 26"
+date: 2026-10-18
+company: "Boltz"
+pages: 2 of 2
+saved: 2026-10-19T14:54:15.801Z
+url: https://research.alpha-sense.com/search?search_id=tmp-eukhj5xq27lojzryvjdyi&sort=DATE&order=DESC&docid=EC-1000000-233520
+---
+# Associate Director at GSK Believes Proprietary Data and Integration Are Key for AI Drug Discovery Platforms
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+18 Oct 2026
+
+INTERVIEW DATE
+
+20 Jul 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Boltz
+
+SMART SUMMARY
+
+Summary
+
+The interview covered the evaluation and use of AI-enabled platforms for drug discovery, comparing general-purpose AI tools with specialized drug discovery platforms, and discussing the criteria for selecting and integrating these tools into pharmaceutical R&D workflows.
+
+EXPERT BACKGROUND
+
+- Translational scientist with over 10 years of experience in biotech, pharma, and academic research, focusing on translational medicine, biomarker strategy, asset development, and integration of preclinical data to support drug development; experienced in evaluating and implementing AI-enabled research platforms and collaborating with computational biology teams and external technology providers.
+
+EXPERT SENTIMENT
+
+- Believes that the long-term differentiation for AI drug discovery platforms lies in proprietary biological data, experimental validation, and deep integration into pharmaceutical R&D workflows, rather than just model performance or workflow integration.
+- Views Bolt Bio as a valuable platform due to its ease of integration and ability to improve scientific decision-making, but is cautious about declaring any company a clear long-term winner given the competitive landscape and the rapid evolution of foundation models.
+- Sees the market as highly competitive, with both specialized platforms and general AI companies like Anthropic moving into life sciences, making defensibility dependent on assets that are hard to replicate.
+
+TAKEAWAYS
+
+- AI tools are evaluated based on scientific accuracy, relevance, ease of integration, usability, validation data, technical support, and fit with existing workflows; no single platform covers all needs, and multiple tools are used in combination.
+- General AI platforms (e.g., Claude, ChatGPT) are used for literature review and hypothesis generation, while specialized platforms (e.g., Bolt Bio, AlphaFold, Schrödinger) are used for biological prediction, protein modeling, and molecular design.
+- Bolt Bio was selected for its ability to integrate biological data, generate predictions to prioritize candidates, and its ease of integration into pharmaceutical workflows; its value is in improving decision quality before experimental validation.
+- The defensibility of AI drug discovery platforms is seen as coming from proprietary datasets, continuous feedback from real-world projects, and deep integration into R&D workflows, rather than just the AI model itself.
+- Other vendors (Chai Discovery, Isomorphic Labs, Converge Bio) are being evaluated, with decisions based on specific scientific use cases and departmental needs; no clear winner has emerged yet.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Expert Background
+
+AI Tools in Drug Discovery
+
+Specialized Platforms and Their Roles
+
+Investment Perspectives on AI Platforms
+
+Evaluation of Competing Platforms
+
+EXPERT BIO
+
+Associate Director, Serology/Translational & Clinical Assay Development at GSK. Expert can speak to their direct experience at GSK, a major pharmaceutical company, providing insights into customer interactions and operational perspectives relevant to the project.
+
+Associate Director, Serology/Translational & Clinical Assay Development at GSK. Reporting to senior leadership, the expert is responsible for leading a global team of Principal and Associate Scientists, mentoring staff, driving assay development across multiple vaccine programs, designing and optimizing serological and high-throughput neutralization assays (MAPS Pneumo, Gonorrhea, COVID, MMR IgG), delivering robust, GxP-compliant clinical data on accelerated timelines, transitioning key assays to automated platforms to increase throughput and efficiency, partnering cross-functionally with Process Development, Manufacturing, QA, Regulatory, CROs, and biorepositories to ensure operational alignment and compliance, managing global sample logistics and CRO/vendor contracts within multi-million-dollar budgets.
+
+Prior to GSK, the expert was the Lead/Senior Scientist – Serological Assay Development at Affinivax Inc., leaving November 2022. Reporting to the Executive Director, the expert was responsible for leading serological assay development (Luminex/MSD) for high-priority vaccine programs including Pneumo Next Gen (AFX3772), Klebsiella pneumoniae, and Pseudomonas aeruginosa, spearheading assay design and optimization using high-throughput Luminex-based solutions.
+
+The expert can speak to/has implemented translational and clinical assay development, serology, high-throughput neutralization assays, MSD and Luminex platforms, ELISA, molecular and cell biology techniques, high-content imaging, NGS, multi-omics platforms (transcriptomics, genomics, proteomics, spatial genomics), assay automation, GxP compliance, regulatory submissions, CRO oversight, cross-functional team leadership, project management, strategic planning, and global sample logistics.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Hi. Thanks for taking the time to talk with me. I am interested in learning more about yourself, your position within the company, and we can dive deeper.
+
+**Expert** [00:00:10]
+Let me give my brief intro. I'm a translational scientist with over more than 10 years of experience across biotech, pharma, and academic research, most recently serving as AD at GSK. My work has been focused on translational medicine, biomarker strategy, asset development, and integrating the preclinical data to support drug development. I've worked closely with computational biology teams, external technology providers, CROs, and AI-enabled research platforms to evaluate how these tools can accelerate our target discovery, biomarker stratification, and candidate prioritization. My perspective today is primarily from the end user and scientific evaluation side rather than software development. Make sense?
+
+---
+
+**Client** [00:00:58]
+That's exactly what we were looking for. Someone who is using those tools and can share the comparison between the different tools and why you picked one versus others. I think that's a good perspective. Maybe help me understand, when you were looking to implement tools to help you with drug discovery, what's the landscape that you saw in front of you? What were the different solutions that you considered?
+
+**Expert** [00:01:23]
+When it is coming to drug discovery, our evaluation was not simply comparing one vendor against another. It is about determining which tools were best suited for different stages of the discovery workflow. We looked at the general-purpose AI tools for literature synthesis, scientific reasoning, scientific foundation models for protein structure and sequence analysis, and more specialized drug discovery platforms for biological prediction and candidate prioritization. Rather than expecting one platform to do everything, we considered how they can complement one another.
+
+The landscape we discussed included general AI platforms such as Claude, ChatGPT for knowledge synthesis, protein modeling tools such as AlphaFold, ESM, and specialized drug discovery platforms like Bolt Bio, Chai Discovery, Isomorphic Labs. Each addresses a different part of the workflow. The comparison was not always one to one.If you ask me how you evaluate them, the main criteria were scientific accuracy, relevance to our biological questions, ease of integration into the existing workflows, usability for bench scientists, availability of validation data, technical support, and how well the platform fit into our existing computational and experimental process.
+
+---
+
+**Client** [00:02:45]
+That makes a lot of sense. Maybe we can double-click. I think you mentioned the general AI companies like Anthropic and OpenAI, and you also mentioned the specialized companies, like Bolt, for instance. I am interested, when you say Anthropic and OpenAI, do you mean by developing it internally or by using just your platforms?
+
+**Expert** [00:03:07]
+I was not referring to Anthropic or OpenAI as direct competitors to both, but we primarily viewed them as general-purpose AI technologies that could support the scientists with literature review, summarizing the publication, general hypothesis coding, and data interpretation. In practice, operations often build internal applications on top of those foundation models to address specific research workflows.
+
+---
+
+**Client** [00:03:32]
+Got it. Today, Anthropic, they had a big announcement a couple of weeks ago, and it's pretty clear at this point that they're moving into the direction of actually developing more discovery platforms and doubling down on life sciences and biology. Is this something that you're seeing from an end-user perspective, that they're essentially moving towards becoming a specialized platform as well?
+
+**Expert** [00:03:53]
+I think we are starting to see that evolution for sure. From an end-user perspective, companies like Anthropic are moving beyond being purely general-purpose language models. They are adding capabilities that are increasingly relevant in scientific research, whether that's reasoning over complex biological data coding, literature analysis, or integrating with research workflows. The boundary between a general AI platform and a life science platform is becoming less distinct. That said, I still see a meaningful difference today. A foundation model provides a very powerful reasoning engine, whereas a specialized platform brings domain-specific models, curated biological datasets, validated prediction pipelines, and workflows designed specifically for drug discovery. As a scientist, that's often what determines whether I can use a tool in a real project rather as a general assistant. If you ask me whether Anthropic could become a direct competitor, I would say potentially yes.
+
+If foundation model companies continue investing in life sciences, they will likely compete more directly with specialized platforms. The question then becomes whether these specialized companies can maintain an advantage through proprietary biological data, experimental validation, and deep integration into pharmaceutical R&D workflows. In my view, that's where the long-term differentiation lies, not just in having a strong AI model.
+
+---
+
+**Client** [00:05:23]
+Can you double-click on that? Where exactly do you see the differentiation in the workflow integration? You said it's not about the model, the strength of the model. It's about, what was the thing that you mentioned?
+
+**Expert** [00:05:37]
+I think the distinction is narrowing, especially after Anthropic's recent announcement. Historically, I would have said that specialized platforms differentiated themselves through workflow integration, but Anthropic is now clearly moving in that direction with Claude for Life Sciences and Claude Science, which are basically designed to connect literature, lab notebooks, analysis platforms, and computational tools into a single workplace, rather than just providing a chatbot. Where I still see the differentiation today is less in the user interface and more in the scientific layer. For example, if I am working on an antibody engineering or protein optimization, a specialized platform may include the proprietary biological datasets, prediction models that have been benchmarked for a particular application, experimentally validated workflows, and outputs tailored to decisions that discovery teams actually make. Now, those are the assets that are built over years through biological data generation and customer collaboration.
+
+Now from the investor perspective, if I were evaluating these companies today, I wouldn't say that workflow integration alone is a durable moat anymore. Anthropic is clearly investing there. The more defensible differentiators are proprietary biological data, experimentally validated prediction performance, and deep integration into pharmaceutical and R&D processes, where scientists can demonstrate that using the platform leads to better candidates or faster decisions, and that's much a harder capability to replicate than simply providing an AI interface.
+
+---
+
+**Client** [00:07:13]
+Thank you so much for clarifying. That's super helpful. I think the two main topics I'd love to discuss in the next 15 minutes that we have, I'd love to cover a deep dive into each of the specialized platform that you mentioned. Bolt Bio, Isomorphic Labs, all the other ones, Converge Bio, maybe if you know them, Chai Discovery, group and understand where each fits, because you mentioned that for different use cases, we have different solutions. I would love to understand that. Maybe we'll have a chance to also, I'll have some additional follow-up questions, but maybe we'll start with this, and we can dive deeper on other topics as well. Maybe you can help me understand, what are the vendors that you're using today, both you mentioned other vendors that you're using and how each fits within the landscape?
+
+**Expert** [00:08:01]
+Sure. As I mentioned before, we are using different vendors. We are actually evaluating different vendors, and there are different vendors we are using. From my perspective, we do not rely, as I said, on a single AI platform. Different tools have served us different purposes across the discovery workflow. For general scientific reasoning and knowledge work, tools like Claude or ChatGPT are very useful for literature review, summarizing the publication, brainstorming hypotheses, coding support, and drafting documentation. For structural biology and protein prediction, researchers use specialized models such as AlphaFold or ESM to understand protein structure and sequence relationships. For computational chemistry and molecular modeling platforms like Schrödinger or similar physics-based tools are very much used for molecular design, docking, and simulation.
+
+For specialized AI drug discovery platforms, we use the Bolt Bio. The news is also there. We have already developed a contract with them, and we focus Bolts Bio on integrating the biological data, then generating the predictions that help to prioritize the targets or the candidates before we start our experimental validations. These are actually not necessarily the competing products. They are actually very complementary to each other. Being a discovery scientist or any discovery scientist might use a general AI assistant to understand the literature, a structure prediction model to evaluate a protein, and specialized platform to prioritize the candidates.
+
+The outputs from all of those ultimately feed into an experimental work. If you ask which is more valuable, I would say it depends on the scientific questions. For productivity and scientific reasoning, general AI has become indispensable. For biological-specific decisions, such as predicting the protein behavior or prioritizing the therapeutic candidate, specialized platforms still provide additional value because they are built around the domain-specific data and the models. That is all I can say.
+
+---
+
+**Client** [00:10:12]
+Are there vendors that you evaluated and decided not to move forward with?
+
+**Expert** [00:10:17]
+In our big biopharma, there are very limitation in doing these things. It is not necessarily we have not selected the platform that was poor. It is more about the strategic fit, regulatory. We assess factors such as alignment with our scientific use cases and prediction performance and all those. There is none as such company we have evaluated, and we have not moved forward, because big pharma is very careful about choosing the platforms. Those that have huge marketing and those are very popular, we usually move with them.
+
+---
+
+**Client** [00:10:50]
+Is there anything special about Bolt Bio? Why was Bolt Bio selected as a vendor? I know that they have open source, and they have the enterprise bio proposition. What is really the difference? Were you using it as open source and then expanded into enterprise? What was the case with Bolt Bio?
+
+**Expert** [00:11:09]
+Bolt Bio, as I said, different AI platforms has different things. I can say that how I would evaluate a platform like Bolt Bio, but I cannot accurately speak to the specific commercial decision or whether our organization transitioned from one open source version to the enterprise offering if I was not directly involved in those discussions. From a scientific perspective, the appeal of a platform like a Bolt Bio is focused on biological prediction rather than a general AI, and the value it is in helping the researchers prioritize the experiments and candidate more efficiently. In general, open source models are valuable for researchers who want to experiment, benchmark models, or build their own workflows, and enterprise offerings typically become attractive when an organization needs capabilities beyond the model itself.
+
+For example, secure handling of proprietary research data and IP, scalable infrastructure and reliable performance, administrative controls and user management, and integration with existing R&D systems and pipelines. Comes the vendor support, SLAs, updates, and validation documentation. Those are often the reasons organizations move to an enterprise license rather than because the underlying model is fundamentally different. If you ask was that experience with Bolt Bio. I cannot confirm that as that was a path our organization took, but my involvement was on the scientific evaluation side rather than the commercial contracting side. I can describe the types of considerations that typically influence those decisions.
+
+---
+
+**Client** [00:12:46]
+I get it. Listen, as I mentioned, we are looking at this space from an investor perspective, and beyond what exists today, part of our job is to try to predict where the market is going. Why do you think it makes sense to invest in a company like Bolt Bio, given all the competitive landscape that exists today? Is there something special? Is there something differentiated? As you mentioned, it is all about the data moat and the ability to have differentiated data. Is this something that they really have today?
+
+**Expert** [00:13:19]
+I would say definitely they have those beautiful things with which it is helping the scientists like us to understand which of the experiments we need to do, and it is also preventing us to do a lot of experiments. If I think the investment case for a company like Bolt Bio, it depends less on having another AI model and more on whether it can consistently improve the scientific decisions in drug discovery. Model performance alone is unlikely to be a durable advantage because foundation models are advancing rapidly. The long-term differentiation would come from three things. First is the proprietary biological datasets that are difficult for competitors to reproduce. Number two is continuous feedback from the real-world customer projects so that the models could improve based on the experiment outcomes.
+
+The third is the integration into the pharmaceutical R&D workflows, where scientists rely on the platform for important go-no-go decisions. I would say yes. For these purposes, I would say yes, I would be interested to invest the money on Bolt Bio because the platform has really these type of values, and it is helping many of the organization. The beautiful part of Bolt Bio is that it very easily can be integrated into our pharmaceuticals workflow patterns. Some companies are great, but it is extremely difficult to put it into our already existed workflow, which in Bolt Bio, it is super easy. For that reason, we are always in favor of Bolt Bio.
+
+---
+
+**Client** [00:14:51]
+Is this a long-term differentiator? For instance, if tomorrow another team comes with a 100 million-size round. Is there something special that makes it defensible for them? Because we have talked about there is Chai Discovery, there is Converge Bio, there is Isomorphic Labs, there is Anthropic. Let us put aside for a second that today it is not there yet, but what prevents someone else from being able to. I understand the value. I do not think there is any questions about the value proposition that you are getting today from Bolt. My question is, whether this value proposition can be easily being created by some other player as well. What defends Bolt from being replaced easily?
+
+**Expert** [00:15:36]
+I think that is the key question for every AI drug discovery company today. From my perspective, I do not think the model architecture by itself is a durable moat anymore. With enough capital and talent, another company can often build a comparable model over the time. Where I think defensibility can emerge is through the assets that are difficult to replicate. That includes the proprietary biological datasets, a continuous feedback loop between computational predictions and experiment validation. Long-term partnerships with the pharmaceutical companies and deep integration into the customer's R&D workflows. Those capabilities, I think, take years to build and are not something a new entrant can acquire overnight.
+
+---
+
+**Client** [00:16:21]
+Bolt exists less than a year. Do you think they have the data differentiation, that they were able to collect differentiated data that others do not have access to, or is this something that happens naturally by being partner of large pharma companies like yours? Do you think it even exists? If so, where does it come from?
+
+**Expert** [00:16:44]
+I would be cautious about assuming they already have a substantial proprietary data advantage, but building a truly differentiated biological dataset usually takes years of customer collaboration, experimental validation, and iterative model improvement. Early on, many companies are likely leveraging a combination of public datasets, published biological data, and internally generated methods. That's a very reasonable way to get started. By itself, it doesn't create a durable moat. From an investor's perspective, I think the more important question is whether they are building the mechanism to create proprietary data over the time. For example, are pharmaceutical customers using the platform in ways that generate unique experimental feedback?
+
+Are those data being incorporated to improve the future predictions? If so, the moat can strengthen over the time. If not, then it can become much easier for competitors actually to catch up. If you ask, do you think they have differentiated data today? I don't have the first-hand visibility into their internal data sets, so I cannot say completely like that. Given their stage, I would assume they are still in the process of building that advantage rather than already having an accessible data moat.
+
+---
+
+**Client** [00:18:01]
+Got it. You didn't mention Chai Discovery, Cradle, Isomorphic Labs, Converge Bio. At some point, were you able to evaluate them? Any interaction with those competitors?
+
+**Expert** [00:18:15]
+Absolutely. Again, I cannot be on the commercial side, but I'm always on the scientific side. My experience was always broader, understanding the different categories of AI-enabled drug discovery platforms, speaking to our translation and discovery researcher, not at a very high level, I would say they have different areas of emphasis. For example, I have seen that some are focused more on the protein engineering, others at antibody design, generative biology, or foundation models for the drug discoveries.
+
+While there is a lot, but they are not all solving exactly the same problem. The evaluation depends heavily on the scientific use case. I did from my side, my area of expertise of the disease, different oncology team did different, also evaluated, and then we all come to know, see which one is helping which division of our R&D sector. In this way, we have selected the AI platforms.
+
+---
+
+**Client** [00:19:13]
+I think I got a little bit confused. You did evaluate all the names that I mentioned, Chai Discovery, Bolt Bio, which is, of course, you are a customer of Isomorphic Labs and Converge Bio also? Essentially, you decided that in addition to Anthropic, you will work with the specialized vendors you are going to work with is Bolt Bio. It is head-to-head competitors, because of the use cases they use, specifically your department needs.
+
+**Expert** [00:19:40]
+Yeah. We have been evaluating all these companies. Still, many of the companies are still left over to develop the contract. We are still evaluating them. Now, from our company, every division has been asked to evaluate these platforms. As of now, all the platforms have finished the Bolt Bio one, and we developed the contract with them. Many of them are still the ones that you have said we are still evaluating, and we are pretty much soon, in next few quarters, we are going to say we are developing the contract or not. Yes, I have been involved in evaluating all of them.
+
+---
+
+**Client** [00:20:18]
+I see. Just again, to clarify, is there anything special about Bolt Bio in terms of the model capabilities, platform features and capabilities that stood out?
+
+**Expert** [00:20:28]
+I would say from a scientific perspective that would stand out are less, but having the more sophisticated AI model and more about how well the platform supports the real discovery decisions. I would be looking at prediction quality for the biological problem of interest, the ability to integrate the multi-data types, ease of interpreting the results, and how easily scientists can incorporate the outputs into their experimental planning. The impression I had was that Bolt Bio was positioning itself as a biology-focused platform rather than a general AI assistant, and the emphasis was on helping prioritize the candidates and generate biologically meaningful predictions that could guide laboratory work.
+
+Ultimately, those predictions still need experiment validations, but the value is in improving the quality of decisions before you commit resources to the lab. At the end of the day, I don't think scientists choose these platforms because one model scores a few percentage points better on a benchmark. They choose them because the platform consistently helps them to make better, faster decisions in their own programs, and that is the capability actually ultimately determines the adoption.
+
+---
+
+**Client** [00:21:38]
+Do you think those platforms, let's talk Bolt Bio for a second. They have the right to exist in five years from now. What do you think going to happen? Threats can come from the Anthropic of the world. Just one more thing. Even internally, I think you have large data science teams, and building platforms became much easier than it used to be. What is the end goal? Do you think that your company essentially is going to develop these things internally and own it? Do you think that Anthropic will be the vendor? What do you think the end goal is here?
+
+**Expert** [00:22:15]
+My company will not start building anything from scratch like this, because it is a lot of work to develop something from scratch, like these types of platforms. Large pharmaceuticals who have very strong computational biology and AI teams will likely build more internal applications on top of foundation models because they have proprietary data, experienced scientists, and the resources to customize the models for their own pipelines. The small, mid-size biotech companies are less likely to build everything by themselves, so they will continue to rely on the external platforms. I also do not think that Anthropic, OpenAI, or any other foundation model company will own the entire stack. They will likely become the underlying intelligence layer, much like the cloud providers today. On top of that, there will still be companies that build the life science-specific applications, workflows, and domain expertise.
+
+I think we will see something similar to cloud computing. Most companies do not build their own cloud infrastructure. They build the applications on AWS or Azure or Google Cloud. Likewise, many life science companies may build on top of the foundation models with specialized vendors, provided the biology-specific workflows, validation, compliance, and integration. From an end-user perspective, scientists do not choose a platform because it is powered by a particular model. We choose it because it helps us to answer the biological questions more effectively and fits naturally into how they conduct research. The underlying model matters, but it is only about the component of the overall value proposition.
+
+---
+
+**Client** [00:23:59]
+That makes a lot of sense. Do you think that essentially with everything that we discussed, do you think Bolt has the potential to become a market leader around drug discovery and become a multibillion-dollar company in five years from now?
+
+**Expert** [00:24:12]
+I would say Bolt can have the potential, actually. I think it's possible, but I don't think it's something I would say with confidence. The opportunity in AI-enabled drug discovery is certainly very large. Whether any individual company becomes a multibillion-dollar business depends on the execution and not just the technology. From my perspective, three things that will determine whether a company can become a market leader. First, it can consistently demonstrate the scientific value by improving the discovery decisions. Second, can it build long-term partnerships with pharmaceutical companies that lead to repeat uses and become embedded in R&D workflows? Third, can it continue developing differentiated assets, whether that's proprietary biological data, validated prediction performance, or unique workflows that competitors can easily replicate. I think Bolt is operating in a very attractive space, but it's also a very competitive one.
+
+They are competing not only with other AI discovery companies, but increasingly with foundation model companies that are investing heavily in life sciences. I think the market opportunity is real, but I wouldn't say today that any company is a clear winner. If Bolt can become a platform that scientists rely on every day because it measurably has improved decision-making and accelerates discovery, then yes, it has the potential to become a very significant company. I think it's too early to conclude that outcome.
+
+I want to see the evidence of sustained customer adoption, strong retention, and demonstrated scientific impact before making that prediction because Bolt, not only with GSK, but many other companies are also now developing the contract with Bolt. I think in the next few years, their platform will become much more stronger since they have been able to develop the contracts with these big pharmas. I think it can make it, but again, it's highly unpredictable to say now.
+
+---
+
+**Client** [00:26:11]
+That's very helpful. Is there any other vendor, not around discovery but maybe later in the drug development phases, even clinical trials or something like this, that you recently were impressed by or even implemented that we should be aware of?
+
+**Expert** [00:26:25]
+Right now, we haven't done any new type of vendors. The ones which you have mentioned, those are the ones we are doing, but one thing which we are trying to integrate is AI in clinical trial as well. Companies like Medidata, IQVIA are incorporating AI into their protocol optimization, site selection, patient recruitment, and operational analytics. Those are the meaningful use cases, because even small improvement can reduce the clinical trial timelines and cost. Another area can be the multi-nodal, I would say, clinical data companies like Tempus or, and I think it is Flatiron, have built platforms that combine the clinical molecular real-world data to support the biomarker discovery and patient stratification. As precision medicine expands, I think those data platforms become increasingly valuable.
+
+I have also been impressed by companies which are focused on automating the clinical operations and data capture, such as the Research Grid and similar workflow platforms. They do not get as much as attention as AI drug discovery companies, but reducing the administrative burden and improving the trial execution is also a very tangible impact. If I were looking across the value chain, I would not only focus on discovery. Discovery, of course, is exciting, but clinical development, where most of the cost and time are incurred, companies that can improve the patient identification, biomarker-driven trial design, site operation, or data quality may ultimately create just as much as values as company focused solely on molecule design.
+
+Whatever the goals do it, you have to do those experiments. You cannot both design a drug and you just cannot say the patients to take those drugs. You have to prove through experiments, and the experiments should be preclinical and then into the clinical. All about the human patients, this stuff, the AI stuff they can handle, that would be of great value also.
+
+---
+
+**Client** [00:28:30]
+Very interesting. You mentioned for the clinical trial and the data for the. Have you evaluated a company named Phase V?
+
+**Expert** [00:28:39]
+No. I haven't evaluated them. We, the big pharmas, we don't do these clinical trial things, everything in-house. We do hybrid thing. We usually go to the external partners, to the CROs. These companies like the IQVIA, PPD, then there are other companies also, CROs. They are our partners. It is not now, it is from a long time. They are the partners with our companies. We mostly focus on the AI platforms they are using or they are trying to integrate.
+
+---
+
+**Client** [00:29:16]
+Thank you for taking the time to speak with me. Have a nice day.

@@ -1,0 +1,293 @@
+---
+theme: "Other"
+title: "Senior Research Engineer at ElevenLabs Believes Security and Compliance Are Key in Selecting Inference Providers for Text-Based AI Applications"
+doc_id: EC-1000000-234287
+source_line: "Fireworks Ai · Expert Call · Customer · 20 Oct 26"
+date: 2026-10-20
+company: "fireworks.ai"
+pages: 2 of 2
+saved: 2026-10-21T15:56:08.329Z
+url: https://research.alpha-sense.com/search?search_id=tmp-l5q00vjpbwvf9aw6o2hl&sort=DATE&order=DESC&docid=EC-1000000-234287
+---
+# Senior Research Engineer at ElevenLabs Believes Security and Compliance Are Key in Selecting Inference Providers for Text-Based AI Applications
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+20 Oct 2026
+
+INTERVIEW DATE
+
+22 Jul 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+fireworks.ai
+
+SMART SUMMARY
+
+Summary
+
+The conversation covered the expert's approach to evaluating and integrating inference providers for text-based AI use cases, including technical and compliance criteria, provider selection, and operational strategies for optimizing latency and throughput.
+
+EXPERT BACKGROUND
+
+- Principal engineer with experience in building and maintaining voice agent platforms, REST APIs, and model training, with direct responsibility for evaluating and integrating inference providers for text-based AI use cases.
+
+EXPERT SENTIMENT
+
+- Security, compliance, and reliability are the top priorities when selecting inference providers, followed by uptime and latency.
+- The expert expects the use of inference providers to grow, with a likely expansion in the number of providers used, as long as they meet technical and compliance requirements.
+- Inference providers are viewed as largely interchangeable commodities, with differentiation coming mainly from execution and enterprise features.
+
+TAKEAWAYS
+
+- Inference providers are used primarily for text model use cases such as user input preprocessing and content moderation, while voice models are run in-house.
+- Evaluation of inference providers is based on a comprehensive checklist, with security/compliance, uptime, and latency as the most critical factors.
+- Fireworks AI and Baseten were chosen as primary providers due to their feature completeness, model availability, and reliability; DeepInfra and Together AI were considered but lacked some features and had higher latency.
+- Providers are used in parallel, with a custom gateway routing requests based on real-time performance metrics to optimize latency and throughput.
+- Switching between providers is technically straightforward, and the company is open to adding more providers if they meet requirements and improve performance.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction and Use Cases
+
+Evaluation Criteria for Providers
+
+DeepInfra and Provider Comparison
+
+Provider Usage and Routing Strategies
+
+Market Trends and Future Insights
+
+EXPERT BIO
+
+Senior Research Engineer at ElevenLabs. Expert can speak to the evaluation and selection of AI platforms, leveraging their experience in assessing competitive AI solutions and implementing advanced AI infrastructures.
+
+Senior Research Engineer at ElevenLabs. The expert reports to an unspecified executive and is responsible for leading critical engineering and AI safety initiatives. Key achievements include building the Voice Designer and Voice Isolator products. The expert leads all safety and moderation efforts, having developed "No-go" voices, classifiers for scams and political misinformation, and automated moderation systems. Technically, the expert specializes in building low-latency APIs (FastAPI, gRPC) and managing large-scale LLM operations, including sharded training of Llama 3 using DeepSpeed/FSDP and efficient inference through TensorRT, llama.cpp, and quantization.
+
+The expert can speak to and has implemented Generative AI Safety and Moderation Systems, Low-Latency AI API Architecture (gRPC, Protobuf, Async IO), Large-Scale Model Training (Distributed training, FSDP, DeepSpeed), High-Performance Inference Optimization (TensorRT, Quantization, Batching), Computer Vision and NLP Production Services, and Vector Search and Recommendation Engines. The expert possesses deep expertise in the full lifecycle of AI products, from startup founding and acquisition to enterprise-scale infrastructure at a leading AI audio company.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Hi. Thanks for taking the time to talk with me. I am interested in learning more about the inference space and the companies you have vetted in that area. Could you start by walking me through your role and how you interact with inference in your position?
+
+**Expert** [00:00:14]
+My role is principal engineer on the AVI voice agents platform. Earlier, I have worked on many other products as well in the company, the REST API side, on the model training. Right now, on the voice agent side. We use the inference providers for many purposes throughout the company. For example, for user input preprocessing.
+
+User input can contain, for example, some weird characters, weird symbols, and then we preprocess it before we send it to our agent or into our own models. We might use it for content moderation. We just check all the user inputs, and then to a model that evaluates are they permissible. Basically, those kinds of use cases, there's a plethora of them. We also use both the Fireworks and Baseten, but we also use the closed models, so like OpenAI, Anthropic as well for some other use cases.
+
+---
+
+**Client** [00:01:10]
+Got it. Obviously, since you're a voice AI company, and you mentioned there are also some other use cases, I'm just wondering what's the split on the inference providers between the text use cases where you use an LLM, versus other use cases where you use your speech-to-text and text-to-speech models. Would assume probably they live in different inference providers. Is that correct?
+
+**Expert** [00:01:35]
+We basically only use inference providers for the text models. We run the voice models ourselves. We have our own inference stack.
+
+---
+
+**Client** [00:01:46]
+Got it. You mentioned the main use case then for the text models with the inference providers is user input preprocessing and content moderation being the big two ones.
+
+**Expert** [00:01:57]
+Yes.
+
+---
+
+**Client** [00:01:59]
+Got it. When you looked to the different inference providers, you mentioned obviously that you work currently with Fireworks and Baseten. How did you go about evaluating the different providers? I would assume there was probably a process that happened in the background where you selected some of them and compared them with certain technical requirements. Curious on the process, but also on which kind of criteria mattered for you the most.
+
+**Expert** [00:02:26]
+We had a quite extensive checklist. Starting from the qualitative side, we needed a provider that is secure, both on their actual product, and this means, for example, secure API keys, secure logins, having the process to manage access to specific features, role-based access controls. Also, secure in the sense of being enterprise compliant, having all the right SOC two compliance completed, having a respectable background, having people we can trust.
+
+On the quantitative side, we looked at things like time to first token throughput uptime. Also, uptime or slowing down at the moments of peak usage throughout the day. We looked at things like what features they support. By features, I mean the model features. Do they support function calling? Do they support thinking tokens? Do they support structured inputs, structured outputs? We also looked at how precise the model is. What I mean here is some of those inference providers, they do a lot of optimizations on the model. You might have a model like a Kimi models or the GLM models, and they might over-optimize it. We also check that they actually haven't lost the reasoning capability.
+
+---
+
+**Client** [00:03:46]
+Yeah. For instance, pruning the model too much and thereby you lose some of the performance.
+
+**Expert** [00:03:53]
+Exactly.
+
+---
+
+**Client** [00:03:54]
+Got it. These are a bunch of different technical criteria. If you had to rank them in terms of priority, which would be the first one or two that you are looking for when you were comparing different providers?
+
+**Expert** [00:04:06]
+The security and compliance probably are the first one, or just having a reliable platform. Second one is uptime. It needs to be high uptime. It's a critical infrastructure. The third one is time to first token. After that, I think it is token throughput.
+
+---
+
+**Client** [00:04:27]
+Got it. A lot of time to first token just because of the voice setup, so latency matters a lot. It is probably why it's higher than throughput.
+
+**Expert** [00:04:37]
+Exactly.
+
+---
+
+**Client** [00:04:39]
+Got it. When you looked into the different providers, we are particularly interested in the company DeepInfra. Would be curious how the comparison went between DeepInfra and other providers, if you can still recall that.
+
+**Expert** [00:04:54]
+We looked at quite a number of them. We basically had two categories of what we finally ended up on. Baseten and Fireworks were in the first category, maybe we had actually three categories. Baseten and Fireworks AI were probably the leaders that had the most complete platforms. They had most models available, and all the models were properly implemented. The second category were enterprise usable solutions that maybe had a little bit less features or didn't really fill the full checklist. These were DeepInfra and Together AI. The last bucket was products we would probably never use, these were actually Replicate and RunPod.
+
+The reasoning there was for the ones we would never use, probably Replicate and RunPod, they were lacking even the most basic compliance or most basic uptime requirements. They were slowing down extensively, just bad products. With the middle bucket, I would say DeepInfra and Together, on DeepInfra, their models were pretty decent. They had a smaller selection of models available than Fireworks AI and Baseten. At least at the time we looked at it, they were lacking some features that we would like to use, for example, limiting API key permissions or having service account API keys or having better logging, tracing, what has happened or seeing who has accessed the platform.
+
+The lower amount of models and also their latency was slightly higher. It's not critical for all applications, but as a whole, low latency is very important for us, like I said. The things that excluded them from the final thing were the lower amount of models available and then lack of some developer features.
+
+---
+
+**Client** [00:06:43]
+Got it. When this evaluation took place, was that in December 2025 or earlier?
+
+**Expert** [00:06:49]
+Yes. December 2025.
+
+---
+
+**Client** [00:06:52]
+Thanks. If we were to assume that DeepInfra would have the same amount of models and the same developer features, would that have changed the outcome of the evaluation? Were they good enough on latency and good enough on throughput to be considered as also an alternative provider compared to Fireworks AI or Baseten, or would it then also not have been enough?
+
+**Expert** [00:07:14]
+It's hard to say, but I think we might have gone with them. We might have chosen them.
+
+---
+
+**Client** [00:07:20]
+If we look at how you're using Fireworks and Baseten at the moment, are they both being used in parallel, or is Baseten used for a certain use case and Fireworks for a certain use case? Curious to understand about the rationale of going with two providers over one provider and how they are being used at the moment.
+
+**Expert** [00:07:40]
+They are used in parallel, and we have a gateway. We were using a gateway called Portkey, but now we have our own implementation because it's easier to maintain. This gateway, it's a relatively simple piece of code. It just does a measurement over the last half an hour and sees which provider has been more better in terms of time to first token and throughput. It sends most of the requests to the better provider, then keeps pinging the slower one with a few requests. It might switch. We find throughout the day, one is better, then the other is better, so we achieve optimal throughput to our latency.
+
+---
+
+**Client** [00:08:19]
+Got it. If you look at the providers that you currently have, one being Fireworks and being Baseten, how do you suspect that to develop over time? The reason why I'm asking is because I'm curious to understand if you believe that the number of providers will expand over time for you guys, or if they will consolidate more to one provider, or if you think of hosting everything yourself on the tech side at some point. Curious how that looks like.
+
+**Expert** [00:08:46]
+We have started hosting some of the models ourselves. Mainly these are smaller models that can be hosted maybe with a single GPU. We use the inference provider for a mixture of experts models or models that require many GPUs. I think this will continue. The new open source models are still very large, and as things like Kimi K3 come available, I think, it even gets bigger and harder to serve. We would even use them more. I think our usage of inference providers probably will grow.
+
+In terms of the number of providers, I think we would probably expand it. For us, the end goal is to have the fastest responses to users. A scenario where we would add another provider is, first of all, if it fits all the checklists or the minimum requirements, and then if it can, at least during some time of the day, offer a better latency or better availability. We would just plug it into that. In terms of effort, it's very easy, actually, to add another provider. It's more of an evaluation or compliance steps of just getting it done.
+
+---
+
+**Client** [00:09:59]
+Maybe even a very naive question to that because it sounds a bit like ultimately the ideal state for you guys would be to have a portfolio of inference providers and then do the routing yourself. Why would you not use something like OpenRouter? Does it also lack the inference requirements for that?
+
+**Expert** [00:10:18]
+We could use something like OpenRouter. One is that they add a 5% fee, and the second one is it's not actually very hard code. It's simple code for us. OpenRouter would add another vendor, and actually getting a vendor approval at our stage is probably the hardest piece in the whole process.
+
+---
+
+**Client** [00:10:39]
+Maybe one more on the provider side. One of the common themes is also the fact that there's a limitation on compute capacity. Obviously, for you guys, given that you're a household name in the industry, I would assume that you would never have an issue with any capacity. Is that something that also plays into choosing inference providers where you would say someone like a Fireworks or Baseten is a bit larger, they might have more capacity, so you need that, whereas someone like maybe a DeepInfra is a bit more nascent and has maybe less capacity? Is that a consideration overall as well?
+
+**Expert** [00:11:18]
+Do you here mean that, are we afraid that our volume is too big for the provider?
+
+---
+
+**Client** [00:11:24]
+Yeah. In a way that if capacity is also part of the selection process where someone like a Baseten or a Fireworks who clearly have more capacity than a DeepInfra, if that is also part of the rationale for choosing them or if that's not really an issue for you guys?
+
+**Expert** [00:11:41]
+I think it's not really an issue. Although, our volume is decent in the number of tokens, it's still quite small in the total. The capacity, of course, it plays very much into the availability, and what we have noticed is the answer could actually be yes to your question because we monitor the availability of the model very much, and by that I mean, does it return errors or slow down? I think most of the providers today, they are sneaky in the sense that they don't like canceled client requests, API requests, but they will slow it down. We look very much at that. Is it slowing down? I explained the router already.
+
+---
+
+**Client** [00:12:23]
+Got it. Indirectly affecting whether a vendor is being chosen through the router that you already have.
+
+**Expert** [00:12:32]
+Yes. If they frequently or if we do a test with them and they don't serve their answers very quickly, then I don't think we would use them.
+
+---
+
+**Client** [00:12:43]
+Got it. How hard would it be for you guys to switch out or take off one vendor and onboard a new one, just purely from a tech standpoint, disregarding the procurement side of things? Is that technically very hard? Would you say there's high switching costs or is that fairly straightforward?
+
+**Expert** [00:13:03]
+Technically, it's very straightforward. I could probably do it alone in one day.
+
+---
+
+**Client** [00:13:10]
+Got it. Let me maybe one other big question that we're having because we're wondering what's happening in the market more broadly. We're curious if you have some thoughts on the market as well with the different inference providers. We are seeing, obviously, some of them moving up the stack. Someone like Fireworks, Baseten, adding services around fine-tuning, for instance, or sandboxes. We're just wondering where the inference space is heading and what will matter in the future. Curious if you have any thoughts on the space more broadly.
+
+**Expert** [00:13:42]
+First of all, in my opinion, sandboxes are quite a different product. It might use underlying technology, might actually be relatively similar to a serverless GPU model, but as a product, it is quite different. We do use a lot of sandboxes as well, but we use them for AI agents to have its own space where it works. The inference fields, probably today, what the providers compete on is who can get the model out fastest. If there is like a Kimi K3, I would probably expect Baseten or Fireworks AI to get it out in 48 hours on their platform once the weights are released.
+
+Since there are so many models coming out, we also switch them very frequently. That's one place. Of course, reducing the latency to first token and increasing token throughput is what they always compete on and what we also take as very key improvements. Also, it's a bit qualitative, but becoming more enterprise-grade platforms. I talked about the role-based access controls, stuff like that.
+
+Probably today, there are also competitors from AWS and Google Cloud, like Vertex and Bedrock. A lot of companies I have actually talked to use those, not because they have any better product, but just because it's more secure or more enterprise, which actually matters increasingly for us, knowing where our user requests go. Having, for example, zero data retention mode matters for us. In terms of the technology, offering features that Anthropic and OpenAI offer, for example, prompt caching, caching the prompts, continuing your requests, so you save tokens and also it's lower latency. Having reasoning groups inside the API included, having different levels of reasoning for also the open source models, I think, these are actually pretty useful features and especially the prompt caching.
+
+---
+
+**Client** [00:15:40]
+A slightly different question, but again, thinking of the macro, obviously, this is a very fast-growing space at the moment. Do you feel that we will get to a place where inference providers will commoditize and they will all score highly on some of the criteria that we just talked about, or do you think that there's actually an advantage to be had in the long term and a lot of differentiation?
+
+**Expert** [00:16:04]
+I think they're looking as a whole. I think their only mode is executional mode. Their models are open source, so they don't have a differentiator in that. I can literally use the same model everywhere. Their execution is a mode. As I have said, we already use two providers as interchangeable. They are a commodity.
+
+---
+
+**Client** [00:16:29]
+Maybe one more follow-up on that. How large do you see the threat of teams building or hosting models in-house as you guys are doing? The reason I'm asking is because we see someone like Inferact, who's the company now behind vLLM, or someone like LMSYS, who is the company behind SGLang. These are very famous serving frameworks that got a lot of money from funding. They are probably getting better and better over time. How much do you see the threat of the frontier companies increasingly doing the model hosting and the inference themselves in the future, and that you only need bare metal provisioning of GPUs, and the rest is just by yourself?
+
+**Expert** [00:17:12]
+I see slightly maybe. I think actually serving it as an endpoint or serving it as a platform has a lot of value. The thing that plays with any AI company today, it's not just your revenue side, it's also the cost side. Basically, self-hosting or using a smaller provider, it's quite expensive if you don't have a huge load of requests because you have to keep the GPU warm always, versus bigger players like Fireworks, Baseten, DeepInfra.
+
+They get so many requests that they can batch a lot of user requests together and return the response to the user still very fast. Versus if you have your own, you can do batching, but then you have to wait, and you wait few hundred milliseconds to batch the user requests. You add latency. You still don't really get the cost benefit. Self-hosting, I see it more of a threat for smaller models, like models that run on a single GPU, but not really the leading edge models that inference providers compete on.
+
+---
+
+**Client** [00:18:16]
+Got it. Also, because they're just too complex to host. Like a Kimi, for instance, with a 64-node would be just complex.
+
+**Expert** [00:18:27]
+Of course. The human capital is a separate lever, and it's very hard to hire people who would even run the models on multiple GPUs. It's not really economical under $1 million a year, probably.
+
+---
+
+**Client** [00:18:40]
+Do you see any difference in using inference providers only for internal experimentation versus production environments?
+
+**Expert** [00:18:47]
+Definitely. Especially for a bulk load. I think for developing the main platform or testing AI agents, the costs are not really very big. Actually, it might be easier to use a closed source. Where I see it very much, and we also use it, is internal huge amount, like just bulk data processing, where it could be training data preparation. For our training data, we have, for example, movie subtitles. Sometimes, movie subtitles, they might be either broken, or they might have no grammar, or they might have some weird characters, and we want to pre-process it while keeping them. Let's say they might have emojis, we want to turn emoji into a human language. We have hundreds of billions of tokens needed, then we would use something like the inference providers.
+
+---
+
+**Client** [00:19:38]
+For that, for the internal, you would use some of the inference providers.
+
+**Expert** [00:19:42]
+There we would use an open source model from the inference provider probably.
+
+---
+
+**Client** [00:19:47]
+Great. Last thing, is there anything we haven't touched upon that in your experience we should be thinking?
+
+**Expert** [00:19:54]
+At least what I have seen Baseten do quite a lot is also deploying people's custom models. Let's say we train our own model and then we look for a place to deploy it, and Baseten really tries to offer that very much as a service, I think, that's an interesting place where they also can provide a lot of value. I'm not sure about others, whether they do it or DeepInfra, whether it does it, but this is also a pretty important use case. This could be a moat because if you deploy on one platform, then it's very hard to move. You're locked in. You have lock.
+
+---
+
+**Client** [00:20:32]
+Great. Thank you so much for your time and for sharing this insight. Have a nice day.

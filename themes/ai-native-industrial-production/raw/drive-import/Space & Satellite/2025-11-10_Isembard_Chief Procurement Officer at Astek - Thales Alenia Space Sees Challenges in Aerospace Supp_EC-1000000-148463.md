@@ -1,0 +1,240 @@
+---
+theme: "Space & Satellite"
+title: "Chief Procurement Officer at Astek - Thales Alenia Space Sees Challenges in Aerospace Supply Chain and Hesitates on Isembard's Suitability"
+doc_id: EC-1000000-148463
+source_line: "Isembard · Expert Call · Consultant · 10 Nov 25"
+date: 2025-11-10
+company: "Isembard"
+pages: 2 of 7
+saved: 2026-10-22T19:29:56.747Z
+url: https://research.alpha-sense.com/company/TEG1556769/summary?search_id=tmp-yxorzzyq66000nl70wo0691n00&sort=COMPANY_NAME&order=DESC&docid=EC-1000000-148463
+---
+# Chief Procurement Officer at Astek - Thales Alenia Space Sees Challenges in Aerospace Supply Chain and Hesitates on Isembard's Suitability
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+10 Nov 2025
+
+INTERVIEW DATE
+
+12 Aug 2025
+
+EXPERT PERSPECTIVE
+
+Consultant
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Isembard
+
+SMART SUMMARY
+
+Summary
+
+The conversation focused on the challenges and requirements of sourcing CNC machined parts in the aerospace and defense sectors, and evaluated the potential fit of a software-first contract manufacturing network like Isembard within this context.
+
+EXPERT BACKGROUND
+
+- Chief Procurement Officer at a leading European space company with extensive experience overseeing procurement and supply chain management for mechanical and CNC parts in the aerospace, defense, and space sectors, including prior responsibility for all mechanical parts at a major high-tech manufacturing group.
+
+EXPERT SENTIMENT
+
+- Skeptical about adopting early-stage, software-first contract manufacturing networks like Isembard for critical aerospace, space, and defense applications due to stringent requirements for traceability, qualification, and supply chain risk management.
+- Open to considering such platforms in the future if they mature, demonstrate a strong track record, and can assume responsibility for quality assurance and supply chain audits, particularly for less critical or smaller companies initially.
+
+TAKEAWAYS
+
+- The primary pain points in the current CNC parts supply chain are market capacity constraints, increasing lead times, and compliance with regulations such as REACH, rather than quality or technical capability.
+- The expert's organization outsources most CNC manufacturing, retaining in-house capability mainly for rapid prototyping or urgent needs, with additive layer manufacturing (ALM) playing a small but growing role.
+- A key barrier to adopting platforms like Isembard is the need for direct qualification and visibility of production locations, which is critical for aerospace, space, and defense industries.
+- The expert sees potential for Isembard's model to address supply base fragmentation and tail spend management if the company matures and can provide robust audit and quality management systems.
+- There is significant value in suppliers offering build-to-spec and engineering capabilities, and the expert would be willing to pay a premium for such integrated services.
+
+AlphaSense Smart Summaries are AI Generated
+
+Introduction And Overview Of Isembard
+
+Current Supply Chain Pain Points
+
+Evaluation Of Isembard's Potential
+
+Opportunities For Smaller Companies
+
+Considerations For Supply Chain Maturity
+
+EXPERT BIO
+
+Chief Procurement Officer at Astek - Thales Alenia Space. The expert can speak to strategic procurement in the defense and aerospace sectors, with deep knowledge of the global supply base and capacity management.
+
+Chief Procurement Officer at Thales Alenia Space. The expert is currently leading the procurement function for TAS. The expert oversees spend and 265 team members across Europe and the US in the space industry. The expert has experience in strategic BoM and NPR purchasing & sourcing and is the key account manager overseeing suppliers. The expert has focused on supply base optimization, commodity management, cost reductions (design for costs), risk management, and value engineering. The expert is currently evaluating Loft Orbital as a potential customer.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Hi. Thank you so much for taking the time to speak with me. I am conducting some research on the aerospace and defense supply chain, especially around manufacturing of high-precision mechanical parts, especially CNC parts. In that context, we came across a company called Isembard. They're building a software-first contract manufacturing network focused on faster and also more scalable CNC production. I don't know if you had time to look into what they're building.
+
+**Expert** [00:00:29]
+Yeah, I've looked indeed, but they're still in a very early stage. They're more or less in the start-up mode. Obviously, it will not surprise you that we are not using them. If you share a little bit more on your insights, I can share my thoughts on if we would be able to use them in the future or not. To give you already a little bit of heads-up, I'm a little bit skeptical for aerospace and defense and especially for space, but we'll talk about that.
+
+---
+
+**Client** [00:00:55]
+I'm excited to hear more about your view. Currently, they have signed customers like Helsing, Anduril, also other smaller start-ups so to say, and they're focusing on critical industries only, as you mentioned, aerospace, defense and also energy, stuff like that. What we really like to understand today is where in the value chain a company like Isembard fits in and what pain points you have, and if you could imagine in the future, if Isembard is able to scale, has opportunity to also play a role in your company.
+
+Maybe I'll dive right into the questions, and then we can come back to if you overall see Isembard as a relevant player. First of all, we would like to understand how does the supply chain for CNC machine metal parts work today, from design release to delivery in rockets, satellites, or even defense systems, and what percentage of these parts you typically buy in versus manufacture even in-house, and if you have amount of CNC machine parts or other machined items. That would be the first question.
+
+**Expert** [00:01:56]
+I'm the end responsible guy, chief procurement officer for Thales Alenia Space. This is only focusing on space. We are the largest European space industry, basically sharing the market with Airbus. I also have still a lot of experience and a lot of links with Thales Group, who's a high-tech manufacturing company based in basically France, but we are based everywhere in Europe. I was responsible for all the mechanical parts in Thales Group, so I know a little bit what you are asking at this moment. Roughly, we are spending.
+
+What you. of course, our main strategy is to outsource it because we are a defense, aerospace, and space company. We are not a mechanical make industry. I would say a portion of our total volume is outsourced, but we do have also capabilities and assets in-house. Indeed, we have CNC machines in-house.
+
+Our in-source part is smaller. We do have CNC capabilities and also the assets on board, but this is purely for rapid prototyping or maybe some industrial needs on very small scale, which we are unable to source at a moment in time because the lead times are too short on our end. That's the only motivation because we have CNC machines ourselves.
+
+One of the interesting things also because we talk about mechanical components, the ALM, let's say, side of the story is also becoming more and more prominent. It's still quite a small part, the added layer manufacturing, but that is taking over a small part of the rapid prototyping and also of the more complex CNC parts that we are using. I don't know if you want to talk about that, but that's still, as I said, relatively small. To be honest, due to all the complexities, we also do not foresee that the hype that was created a couple of years ago will go on, so it will stay on a very small level at this moment in time.
+
+---
+
+**Client** [00:03:48]
+That's super interesting. You spoke about lead times. What are the main pain points currently? Is it speed, quality, cost, reliability? What would you say is your.
+
+**Expert** [00:04:00]
+All of that is important, but I would say the main issue I have right now on the mechanical components is the capacity in the market. Since defense and also aerospace had quite a strong rebound over the last couple of years, the volumes on the demand side are growing so hard.
+
+Especially during COVID, when there was a lot of, let's say, sudden drops in demand, especially in Europe and in France where the industrial supply base was very strong, we saw a lot of capabilities and capacity also ending in the market due to bankruptcies and other operational issues. Currently, the market is very tight in terms of demand and available capabilities in the market. That would be my first pain point.
+
+We still have a little bit of, let's say, issues in the supply base on the REACH issues. Chrome VI, as you probably know, surface treatment part has been banned since the end of 2024. The restrictions and also the general ESG topics became much more stringent. That's a part.
+
+As I mentioned before, also this is why we have the own capability still. Also from a lead time point of view, which is actually linked to capacity and capabilities, is becoming more and more critical. The average lead times from, let's say, sourcing towards availability of the parts is becoming longer and longer, and of course, it depends a little bit on complexity and on what kind of parts you are sourcing. I think those are the three main topics, capacity, lead time and REACH compliancy.
+
+If you talk about what you said about the quality itself and the qualification topics, that is actually not so much of a problem. Of course, we are working with a global supply base. We have, let's say, relatively limited suppliers in North America. Our main base is in Europe, and as I said, France is one of the main markets, and we have some Asian partners as well. From a general quality point of view, of course they're all ISO 9001, they all have their AS9100 aerospace certifications. Also from a technical, let's say, capability point of view, our supply base is actually quite good. That is not the main points that we have worries about at this moment in time.
+
+---
+
+**Client** [00:06:11]
+Okay, understood your problems, but then I think Isembard could be a good solution. What do you think about them? Do you think it could become a supplier for aerospace at one point in time? What's your opinion on them?
+
+**Expert** [00:06:24]
+As I understood, but you had to help me there because they're still relatively new in the market, Isembard, they are working on a software-based platform, where they are getting demand, let's say, in a push mode in their centralized system. They more or less distribute the demand that is currently in their system towards multiple smaller factories that are located around the world, and they are not inside of their own asset management. If I understood well, they are subcontracting the demands from multiple customers via their platform towards the most logical players at that moment in time.
+
+---
+
+**Client** [00:06:56]
+Yes.
+
+**Expert** [00:06:57]
+That could bring solutions on the capacity part. The biggest pain point that we see right now is indeed that one. It could be working if they are able to get high volumes from the market and they distribute them to their partners. What is a little bit the problem for me is that in my supply chain, and this is maybe specifically for me very stringent for space but also for aerospace and for defense, I would like to have the full accessibility and visibility of the production locations. Especially on those three industries, I like to have a full visibility and I like to make the internal qualification efforts of the locations where my parts are manufactured.
+
+If I would go via a company like Isembard, they basically can send my parts all over the world without me having visibility over it. I don't think for aerospace, space, and defense that is the best solution. I think this model should work very well maybe for automotive, for energy, or for other, let's say, less restrictive industries. For the ones that we are talking about right now, I'm a little bit hesitating.
+
+---
+
+**Client** [00:08:02]
+Okay. Even though they would be cheaper, they would have more capacity, they would have shorter lead times, still the quality is a must, so you would rather not use Isembard for these supercritical industries. That's what I understood.
+
+**Expert** [00:08:16]
+The quality is, of course, a hygienic factor, but that's not the main worry for me because, as I said, in general the quality part itself is managed quite well by the current supply chain. It's more the traceability and the qualification of the actual production location. If I would put my part into, let's say, this Isembard system, the way I understand right now, I wouldn't know if my part would be produced at supplier A in France or supplier B in Asia or C in Mexico. I need to know where my parts are coming from.
+
+---
+
+**Client** [00:08:50]
+No, I think from that perspective actually, they have all the certifications that are required for aerospace and defense. I think it's AS9100 or something. I think the whole point is that they bring the production onshore. The idea is to have small manufacturers in the beginning in the U.K. and U.S. that can then be making things for you close by.
+
+Of course, the system is not like you send it blindly to Isembard and you have no idea where they distribute the order. I think the way it works now is that each kind of order is distributed to a particular factory, and you can have all the required certification and tracing in place. Otherwise, I think you wouldn't even be able to even meet your regulatory requirement if you didn't have these.
+
+**Expert** [00:09:33]
+That is something I also assume, that if they get on board in an aerospace part, it needs to be AS9100 certified where they're going to make it. The problem for me is, and this is not only Thales, this is with all the main primes in Europe at least, and I think also in U.S., if we onboard a manufacturer of CNC parts, we qualify that location and that manufacturer ourselves as well.
+
+Outside of the ISO 9001, outside of the AS9100, we qualify that production location with our own qualification team because we want to make sure that first of all we have the visibility, but also we want to exclude supply chain risks. This is why we take these, I would say, extraordinary steps.
+
+If I would go with a supplier like Isembard, I can of course qualify them, but then for me the Tier two, where it's actually going to be made, is not secured from a qualification point of view from our own system. That is an issue for aerospace, space, and also for defense parts. Again, as I said, there are other industries, I think, where they would be able to overcome these issues which are less critical.
+
+---
+
+**Client** [00:10:46]
+Okay. I don't know to what degree you would be familiar with the start-upy players in this space, like Helsing or Anduril, or some of the other smaller start-ups that are more playing in, let's say, autonomous vehicles or drones and so on, but do you have a sense of whether that's a more fruitful avenue for Isembard to expand? Would that be a different approach there, or do you think actually everyone in this industry has to go through the same level of scrutiny and qualifications?
+
+**Expert** [00:11:15]
+No. As I said, the large primes like Airbus, Safran, they learned their lessons in the past, and we are very, I would say, risk averse. For the larger ones, I think the concept is, at this moment in time, rather difficult. I think for smaller companies who are also active in aerospace or defense, this could be absolutely a way forward.
+
+This is the trick. Isembard needs to really guarantee quality aspects. They need to be then able to do the audits on-site with their own manufacturing base, and they need to make sure that everything stays on par. If they make sure that they come mature enough that the smaller companies can work with them, then over time I would be interested also to talk to them to see if we can put part of the responsibility that we take at this moment in time, if we could take and give that responsibility to them to secure the maturity of our supply base, then I would consider working with them.
+
+---
+
+**Client** [00:12:15]
+That's very interesting. It's like a value-add for you basically.
+
+**Expert** [00:12:18]
+That would be an interesting scenario for me because naturally, I'm of course not an audit company, so I do not like to do audits. At this moment in time, we simply do it because we want to avoid the risk. If there is a company who would be really specialized in those mechanical parts and they have built a track record in aerospace, space, and defense with bringing the right capabilities, capacity, flexibility, and they have a secure system on board that we can trust in terms of their, let's say, audit capabilities and their structural quality management system, then I would absolutely be happy to work with them.
+
+We are not yet there. The company is too small for me right now to go into this stage. I would indeed suggest to ramp up with smaller companies who have less strict requirements, make, let's say, a name in the industries, and then slowly move forward. Once they have reached that level, things could go relatively fast.
+
+---
+
+**Client** [00:13:12]
+Okay. which size would be big enough for you to considering them?
+
+**Expert** [00:13:16]
+What do you mean which size?
+
+---
+
+**Client** [00:13:18]
+You mentioned, they're too small right now for you to be relevant.
+
+**Expert** [00:13:22]
+Of course, I would also start small with them. I would not share my total basket at once with them. If they would, let's say, be on a structural level, $30 million-$40 million revenue and they have a track record of good quality, no incidents, etc., then I would definitely be able to share certain parts of my needs.
+
+I'm not looking for super big companies because we also see the traditional, let's say, mechanical supply base manufacturing. Most of them, they are also quite small. A lot of them are still family owned. I'm quite used in this industry to work with companies who have a revenue of $20 million, $30 million, $40 million, so that is not blocking point.
+
+---
+
+**Client** [00:14:04]
+That makes sense. That's also what we've observed. It is pretty fragmented and not very.
+
+**Expert** [00:14:11]
+Again, thinking out loud, that would be another benefit of company like Isembard. Big primes like us, we do not like to work with a fragmented supply base because, let's say, the management cost of keeping that supply base alive, keeping track of them, managing them is quite high. The less fragmented I can put my orders, the more beneficial it will be for me and the more efficient it is to manage my supply base. Basically, if they are becoming, let's say, more mature, they could easily take away a lot of my tail spend.
+
+---
+
+**Client** [00:14:44]
+Yeah, that's the thing. I think this is why we got excited, and of course then we have to also consider that there is quite a lot of cost because what you are spending money on now, they would effectively have to spend money on themselves. The hope is that with this software that they've developed and a lot more visibility into exactly what goes into these factories, that should be less work intensive.
+
+Right now, they can track when things go into the machine, how long it actually takes, when things arrive, how quick are the turnarounds, all automatically with their software. It's super early stages, but you would hope that over time they can have and they can give you also a really good overview of like, "Here is where this part is," "They've just received the raw materials or whatever," "It's scheduled to start production on this day," etc. I think I'm sure currently it's pretty manual to try to do that, or I don't know if it's even feasible. That's the vision over time.
+
+**Expert** [00:15:38]
+What is actually also really important for us is that currently we are outsourcing parts in a mix of build-to-print and build-to-spec. I want to go more and more into build-to-spec. That means that the supplier itself, they need to have the capabilities to do the end design of the product, and they also have to do the manufacturing, let's say, files of the products.
+
+In the current supply base that I have, I would say all of the suppliers that I'm using, they have the engineering capabilities on board to make the production files, but sometimes also even to do it as a build-to-spec. They are making the designs for us, including the best way of manufacturability there. I'm not sure if Isembard or other companies, if they are only focusing, let's say, on distributing production capabilities or if they also actually are going to invest in design capabilities and engineering capabilities, which would make the picture more integral and thus more favorable.
+
+---
+
+**Client** [00:16:36]
+How valuable is this thing, the ability for them to finalize the design, and would you then be willing to pay more for this kind of service?
+
+**Expert** [00:16:44]
+Yeah, of course. First of all, it's very valuable because, bottom line, very simple, somebody needs to do it. Either we do it, and then it will cost money on our side because I need to pay my engineers, or the third party does it. It is also my belief, but this is also because I'm the CPO, that outsourced party, in principle, should be more capable of doing this for us and more efficient because they have multiple clients, they have experience, they have the capabilities, etc.
+
+This is very interesting for me. Actually, going towards the future, it will become more and more a must because I want to become as lean as possible in these kind of parts.
+
+---
+
+**Client** [00:17:24]
+That's super interesting. That is exactly what they're trying to do. In fact, I know that with their early clients, they're actually mostly working on some prototyping and so on and helping them reduce the cost of manufacturing He's assembled a really, really strong team, I have to say, which is interesting.
+
+This is super helpful. I think, from what I can hear, of course, they're way too small for you. That makes perfect sense. They've been around for like, I think, less than two years, so it's nothing that you would expect someone like Thales could really credibly work with. I think for sure, from what you're saying, they're quite aligned, it seems, with where the industry is going, which is super helpful to hear.
+
+**Expert** [00:18:05]
+Yes, if they work on the strategy, implement the points that we just mentioned, they could be quite an interesting party.
+
+---
+
+**Client** [00:18:12]
+Got it. Thank you so much. Have a good one.

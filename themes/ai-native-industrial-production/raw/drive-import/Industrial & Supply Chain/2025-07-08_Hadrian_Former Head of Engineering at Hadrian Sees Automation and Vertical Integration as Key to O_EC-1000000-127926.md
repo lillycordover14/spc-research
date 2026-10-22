@@ -1,0 +1,329 @@
+---
+theme: "Industrial & Supply Chain"
+title: "Former Head of Engineering at Hadrian Sees Automation and Vertical Integration as Key to Overcoming Competition in CNC Machining"
+doc_id: EC-1000000-127926
+source_line: "Hadrian · Expert Call · Former · 08 Jul 25"
+date: 2025-07-08
+company: "Hadrian"
+pages: 2 of 12
+saved: 2026-10-22T20:09:26.415Z
+url: https://research.alpha-sense.com/search?search_id=tmp-zrt1t2a4vvfkburx47q41n&sort=COMPANY_NAME&order=DESC&docid=EC-1000000-127926
+---
+# Former Head of Engineering at Hadrian Sees Automation and Vertical Integration as Key to Overcoming Competition in CNC Machining
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+08 Jul 2025
+
+INTERVIEW DATE
+
+09 Apr 2025
+
+EXPERT PERSPECTIVE
+
+Former
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+Hadrian
+
+SMART SUMMARY
+
+Summary
+
+The interview covers the evolution of automation in CNC machining, contrasting traditional mom-and-pop shops with a next-generation automated approach. Topics include process automation, market structure, scalability challenges, customer dynamics, and competitive threats from software advancements.
+
+EXPERT BACKGROUND
+
+- Former Head of Engineering for Manufacturing at an automated machining startup, with prior experience as the primary R&D machinist at another automation-focused machining startup, and extensive hands-on experience in both traditional and tech-driven machine shop environments.
+
+EXPERT SENTIMENT
+
+- Optimistic about the company's future, citing strong business and technical leadership and effective market targeting.
+- Believes the company's main risk is rapid improvement in CAM software, which could enable traditional mom-and-pop shops to become more competitive.
+- Notes some internal culture challenges, particularly high turnover among early employees, but attributes this partly to the nature of early-stage startups.
+
+TAKEAWAYS
+
+- The company differentiates itself from traditional machine shops by automating up to 80% of non-creative, ancillary tasks around machining, such as paperwork, file management, and quoting, allowing skilled personnel to focus on high-value work.
+- Lead times for parts can be reduced by approximately 50% compared to traditional shops, primarily through process automation rather than changes to the core machining process.
+- The market for ITAR-compliant machining is highly fragmented, with most work done by small shops; large customers like SpaceX intentionally avoid over-concentrating spend with any single supplier, typically limiting exposure to about 1/3 of a shop's revenue.
+- Scalability is constrained by the availability of skilled personnel, the need for geographic diversity, and customer preferences for supplier fragmentation to avoid risk.
+- The biggest threat to the company's competitive edge is the potential for CAM software vendors to enable smaller shops to automate more of their processes, narrowing the efficiency gap.
+
+AlphaSense Smart Summaries are AI Generated
+
+EXPERT BIO
+
+Former Head of Engineering at Hadrian
+
+Expert is currently at a stealth startup.
+
+Former Head of Engineering for Manufacturing at Hadrian, leaving in March 2023. The expert was the first manufacturing hire at the company, responsible for designing and building out the factories, purchasing hardware and equipment, leading the engineering and product design teams, and more. Hadrian performs machining and manufacturing automation primarily for the aerospace and defense industries.
+
+Former Head of Programming at Hadrian until May 2022.
+
+Former Programming Department Manager at Western Precision Products, leaving in February 2020. The expert was responsible for leading the production CNC programming department, overseeing 5 full time programmers and working to develop and improve workflows and company processes.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client**
+Thanks for reaching out today. We're really just trying to learn more about this next gen CNC machining space. I would say we're still relatively early in understanding this market and so really just want to get the foundation for the status quo in the market with your typical mom-and-pop shops versus what Hadrian and some of these other players. Maybe to start off, it'd be great to get the voiceover on your background and role with Hadrian, and then we can take it from there.
+
+**Expert**
+I was really interested in joining Hadrian specifically because of my previous experiences in the automated machining space. I was the primary R&D machinist at a different startup in San Francisco called Plethora a number of years earlier. Some of the pitch was the same, "Let's automate away a lot of the tedium of machining and free up skilled personnel to do the hard parts in an involved way without suffering through the trivial easy parts. Lets codify a lot of the basic steps into software so that we don't have to do them by hand anymore." The machining industry is very bespoke.
+
+The processes that shops go through to manufacture parts in general is very, very touch heavy, labor intensive and poorly automated and poorly codified into business logic, if you will. It's a very artisanal industry, which is especially weird considering how automated all the equipment is and how high-tech things are on the face of it. A number of companies have seen the opportunity for let's push and automate some of these tasks that people are doing by hand who are reasonably well paid, underpaid but reasonably well paid. Let's move a lot of these tasks into software. Labor savings, speed increases, which is a great competitive advantage, etc.
+
+Lower error rates, lower failure rates, lower scrap rates, everything benefits. Plethora did not succeed ultimately, although still lots of great lessons learned from that for me and it was the change that I wanted to see in my industry. I really wanted to stop doing the boring stuff, as does pretty much anybody. To that end, Plethora's pitch was very heavily leaning on we're going to automate the generation of toolpaths so that when you perform machining tasks, you don't have to sit there and click on tons and tons of stuff.
+
+You can make a couple early decisions about what direction you want to go in to manufacture a part, and then the software should perform some analysis on the part and then generate a bunch of tool paths and you should get a pretty good, finished part out of it. They focused very heavily on the complete chain, end-to-end manufacture, start to finish. Let's automate the whole thing and it proved to just be too big a bite to take. They could never connect all the dots and make the whole thing work end-to-end. They did eventually shut their doors. It was a really bold experiment, and Hadrian actually shared some investors in the early days.
+
+Traverse one folks specifically, who grilled me for a long time about, "How is Hadrian going to not make the same mistakes that Plethora did? We're interested in reinvesting, but how do we make sure that you guys don't blow it again?" Hadrian's approach was and is almost the inverse. Let's automate a huge amount of the tasks around machining so that the CAM programmers, who are these very skilled engineers basically can really focus on creating the tool paths in the way that they want to see them made without dealing with as much paperwork.
+
+Let's have the ERP track everything for them and let's not have them have to manage all their own files. Let's save a bunch of labor and effort. Let's not have them clock in and out of particular jobs. Let's just add time tracking into the ERP. By flipping that script and pushing the goal of free up the CAM programmer to perform their most sophisticated tasks, the maximum amount of time per day, that was where we were really realizing plans to realize the biggest time savings. Hadrian's early target was commercial spaceflight, which is a very logical one. They're extremely schedule sensitive and not terribly price sensitive.
+
+To a point everyone has a budget, but that was a really smart market fit plan on the CEO's part. We located ourselves right next to SpaceX almost. It's also an interesting time to be doing something in the machining world because post-World War II there was a huge amount of labor returning to the U.S. from soldiers coming home. Many of them had gained trade skills while in the military and opened machine shops. At the time there was very little technological difference between a high-end machine shop and an effectively garage shop. If you could afford a few pieces of equipment, you could be just as good as the next guy.
+
+Those machine shops prospered, grew, were taken over by the children of that generation. Those owners are now aging out and, in many cases, the following generation does not want to follow in their footsteps. You can look at statistics on the percentage of mom-and-pop machine shops in the U.S. versus extremely large companies or internal manufacturing facilities from defense contractors. Interestingly, the vast majority of America's machining base is very small companies. It's companies with $15 million a year revenue or less or $20 million a year revenue or less.
+
+I don't actually know the exact figures, but I was shocked to learn that it was something 80%+ of machine shop work in the United States is done by relatively small companies. With many closing or being priced out of other work other than defense by going overseas, it's both a tough industry to be in and an opportunity for companies that have very good efficiency to step in and make good money, potentially consolidate the industry somewhat.
+
+---
+
+**Client**
+Maybe just in terms of best place to start, it would be great to understand fundamentally what you guys were doing and what Hadrian is doing that's so much different from the status quo, your typical mom-and-pop shop and the benefit that gave you guys at Hadrian between, I think you mentioned before, lead time reduction and cost efficiency and accuracy improvements.
+
+**Expert**
+Your typical mom-and-pop machine shop, and I have worked for a number of them, hires a CAM programmer and pretty much says figure it out. They buy them some very expensive CAM software but there is very little support other than that to manage ancillary tasks around machining paperwork, quality control, tracking parts as they go through the shop, standardized processes. It's very free form and learn on the job rather than having formal training programs and that has led to everything about machining being effectively tribal knowledge. I am an example of that too. I started in the machine shop as a button pusher and as a teenager and just learned everything on the job.
+
+Learned about how to go about making parts all the way up to learning how to use CAM software, all the way up to learning how to try to manage human beings, which is much harder. Hadrian looked at that really chaotic system and said the work that the CAM programmer and machinist and quality control inspector are doing is very creative and very skilled but how did they learn it? What of that can be codified and automated and what cannot and how do we pay this person really well so that all the good ones come work for us and make their jobs easier by eliminating as much non-creative work from their day as possible.
+
+That's really what it boils down to is the toolpath algorithms are not yet automatable. Companies are just starting to try with some of the recent AI things that have been popping up. There is actually one that I think is actually just called Toolpath who are pushing really hard on the AI generated toolpath algorithm thing. That's something that was not possible even just a few years ago when we started Hadrian and may be becoming viable, but it's not quite ready for primetime yet from what I can tell. This creative labor is the key.
+
+You can't replace an artist, you can't replace a designer, you can't replace a writer and you can't replace a sculptor and you can't replace a machinist. They're all doing the same sort of creative work that is currently just not automatable. Let's look at all the surrounding tasks. Everyone hates paperwork. Let's try to automate as much paperwork as we can. Let's eliminate carrying USB sticks around the shop. Let's set up a network that automatically transfers files to the machine.
+
+Let's focus really hard on good work instructions because miscommunications are a tremendous source of error in a machine shop. Let's also try to build a company culture that's not the good old boys looking down on the new kid. Let's try and make it a very training heavy, friendly ego list to whatever extent we can make it environment so that everyone is encouraged to learn to admit mistakes and further the company goals as quickly as possible without getting into the hiding problems or trying to pass things off issues.
+
+---
+
+**Client**
+When you think about the process of going start to finish, get a spec from a potential customer all the way through delivering a part in their hands, how much of that is Hadrian able to automate or improve on to reduce lead time? I imagine it varies a ton depending on the part. Is there a ballpark that you guys thought about while you were there?
+
+**Expert**
+Yes, while trying to not reveal too much of the internal workings of the company, our tagline was let's try to automate 80% of the tasks. There need to be a lot of touch points with customers. Customers do not want your relationship with them to be automated. The fewer customers you have and the more sophisticated those customers are, the higher touch you need to be. Hadrian, rather than heavily leaning into automated status update emails or anything like that said, actually let's just hire an entire team of engineers who are going to be customer facing and prepared to discuss technical issues with customers at a moment's notice.
+
+The automation comes in in terms of processing documents, working to reformat information in as efficient and friendly a manner as possible so that when a part comes in for quote, it gets pre-processed for engineers to look at and not have to do any of the busy work of, "How big is this thing? How many holes are in it? How many different sides of it are we machining from?" By performing some geometry analysis on a CAD model, you can answer some questions about it. Fundamentally the question is how long is it going to take and what is the material cost and what is the scrap rate going to be?
+
+By answering some of those in an automated manner, you're saving the quoting employees in time and then performing similar tasks during CAM programming, can we analyze the CAD model and see whether the CAM programmer actually just missed something? Let's look at the state of this thing before and after they touch it so that we guarantee that we never send it to the machine half finished. The list of tasks goes on forever but excluding the actual CAM programming of the part, we really felt like you could automate away about 80% of the labor from pretty much all of those surrounding tasks.
+
+---
+
+**Client**
+If I say I'm a traditional mom-and-pop shop, it's going to take me two months to produce this component from start to finish. Am I in the right ballpark when I say maybe Hadrian can do that in a month and that's the big value add, higher ROI, maybe lower labor.
+
+**Expert**
+That ratio is about right but I would say Hadrian was trying real hard to cut it from about four weeks to about two weeks or from about six weeks to about three weeks, depending on the complexity of the project. Approximately 50%, email to shipping loop.
+
+---
+
+**Client**
+That makes sense. I assume the actual programming and machining component, there's not a huge change. It's all this other 80% around that that you guys were automating.
+
+**Expert**
+They are just in the past five years, really starting to evolve better automation tools within the CAM programming process itself and that's an accelerating process. We were starting off very slow with almost no tools to that end in summer 2020, when we started working on Hadrian to now there are decent, though not fantastic automation tools for some of the tasks within CAM programming. Rather than just not give you any specifics within that, having a really comprehensive CAD library of all of your cutting tools is an important automation step.
+
+If you don't know what you're using, then you have to build it from scratch every time you're like, "I got to go to the drawer and see what tools are here in the drawer that I have to work with." Just like a wrench, you know you have a complete set of wrenches, and therefore it doesn't matter what size the bolt is. You know that you'll be able to go find the right wrench for that bolt. Same thing with cutting tools. If you have a comprehensive digital library, then the inventory system can say, "Oh, this tool that you picked to cut isn't actually on site, so let's order one."
+
+The same goes with workholding. Most pieces of metal are clamped in a vise and so you need a whole bunch of vices of different sizes. Sometimes they need to be made out of different materials. If you're cutting very hard materials, if you're cutting very soft materials, they vary. Once parts are half made, they're generally clamped in or bolted to a custom-made fixture and surprisingly this goes for 80% of all machined parts that we made. First you have to make the fixture to fit the part and that can be a very substantial fraction of the overall work as well. If you can build some CAD tools to help automate the design process, then you can get some time savings there.
+
+Say you have a whole bunch of tapped holes in your party, a bunch of threaded holes. If you draw a fixture if the software knows what size all those threaded holes are, then you could say put a bolt in this hole and it knows what size bolt to use. Rather than you having to manually go dig through your whole library of bolt sizes, drag one into the CAD window, align it correctly in the hole, etc., and perform this very slow manual CAD modeling process.
+
+---
+
+**Client**
+In terms of the ICP that you guys thought about at Hadrian, I'm curious how extensible this is. It looks like just based on what I saw online selling most into aerospace and defense customers, ITAR-compliant focused customers, probably not competing with any of the offshore machining shops. How big is that market? How tough are those customers to win? Can you ever be a major supplier for a single customer? Do they like that fragmentation of having this long tail of mom-and-pop shops that they rely on?
+
+**Expert**
+In various conversations with SpaceX over the years, both within and without Hadrian, they told me that they almost never single source any component. Scrubbing a launch is one of the most expensive things they could possibly do. They are willing to source components from more than one vendor and just pay double in order to avoid a giant schedule snafu because they do a good job getting good parts from their suppliers.
+
+They prefer to not be more than about a 1/3 of any machine shop's overall revenue. That can be a little bit self-limiting with a business like Hadrian who wants to grow very quickly and will happily accept the vast majority of their business from SpaceX for example or it could be another supplier, and they don't want a dip in orders to kill their supplier. They want them to be there next time they need them to. Obviously the bigger the supplier is, the better as long as SpaceX is not getting in so deep that the relationship reverses and they're depending on a single vendor for way too much.
+
+---
+
+**Client**
+Is this $100 million here? Is this $5 million a year? It's more than 5%.
+
+**Expert**
+Whatever size business it was. I worked for a company up in Oregon called Western Precision. That actually where we did a little bit of work for SpaceX. We did a little bit of work for Facebook's satellite program actually before they were called Meta and before they sold that program to Amazon.
+
+They come to your shop, they make sure you're competent, they look at your processes, they make sure you have a reasonable chance of delivering good parts on time. They basically want to look at your books and say, "You guys are capable of supplying us," and we're just going to pick the number, we were a $15 million-$20 million a year shop, depending on the year, and said, "We're never going to give you more than $5 million in business unless you grow."
+
+---
+
+**Client**
+I was thinking in terms of SpaceX specifically, which it sounds like that's not the case, I assume they're one of the larger customers of ITAR-compliant CNC shops. Are they spending a $1 billion a year on machine components?
+
+**Expert**
+I honestly do not know. I was always deep enough in the trenches that I was not worried about the revenue we were not getting from them. My understanding of that was just they have infinite money, and they will do whatever needs to be done. One small thing to consider on that front too though is that SpaceX and Starlink are allegedly separate businesses. As far as I could tell, that was the way they structured it.
+
+Starlink, they were doing very high volume and because they're just launching so many satellites and SpaceX was doing more high value parts and SpaceX also put a little bit more internal manufacturing capability to work for them whereas Starlink did apparently very little internal manufacturing from what I could gather. I have been using Starlink and SpaceX a little bit interchangeably, but they are somewhat separate, and you can do the math on $1 million of satellite and they've launched a 1,000 satellites. That's billions of dollars in machine components over the past five years or what have you.
+
+---
+
+**Client**
+If you think about the Hadrian platform, I'm curious how big do you think this market actually is relative to how much Hadrian could capture and how scalable is the platform?
+
+**Expert**
+Despite doing a really good job automating away a lot of the boring stuff, there is very rapidly a limit in skilled personnel. That's the first major roadblock you hit. Hadrian has started pretty early on internal training programs. I think that that's really what allows them to grow rather than just shuffling people around within the industry the way any number of other machine shops might work.
+
+They did realize that you're going to have to pay people better than anyone else if you want to keep recruitment rates high. You're going to have to become known for paying people well and you're always going to have to keep pushing on the automation front to more directly answer. I would be very surprised if any one company could capture 1% of the ITAR-compliant machining business in the U.S. That would be an absolutely wild landmark.
+
+Geographical diversity machine. We are talking about physical objects that have to get shipped around and they need to be assembled, and they need to be test fit and they need to be mechanically tested. The process of building things is very hands on. If you can reduce delivery times by shortening shipping distances, then you've got to win. Which is not to say that Hadrian can't just build more facilities because they absolutely can in the longer term.
+
+You hit growth rates based on how quickly you can buy machine tools. Hadrian uses million-dollar machine tools from vendors who only build $500 million a year and they're all German. Imports are a challenge, shipping is a challenge, tariffs are a challenge. There's a lot of different constraints that might limit growth rate, but growth size I think is limited just through suppliers not wanting to depend too heavily on a single vendor. I think that the mom-and-pop high population works reasonably well for a lot of defense contractors who don't mind having a buying staff of 200 people who are making phone calls all day long.
+
+---
+
+**Client**
+When you say limited by suppliers, not wanting to have dependence, you mean by the customer. Not by a CNC machine factor. A house.
+
+**Expert**
+I mean, like Honeywell saying, "I don't really want to give you more than a percent of our entire manufacturing business."
+
+---
+
+**Client**
+You'd think they'd top I don't know, am making numbers up out but if you call the ITAR CNC machine market as like $50 billion or something do you think they top $500 million of revenue or something?
+
+**Expert**
+Something like that. Although my instinct tells me that the overall numbers are an order of magnitude higher than that. Which is still a very large business if you're still capturing 1% of that market.
+
+---
+
+**Client**
+I assume, to the extent Hadrian's factories are more efficient, turnaround times are much better. Is there a possibility that over time the larger primes choose to contract single OEM facilities? If a Raytheon was like, "Hey, here is me massive manufacturing plant or assembly plant, I want you to build a 50,000 sq. ft. facility on site for me." Is that something they'd be interested in or is it, again, too much concentration, too much single vendor risk for them?
+
+**Expert**
+It would, because I think that at that point they'd be so intertwined that you're almost building the facility for the customer and then probably being paid to run it but at that point, probably the customer would end up with all the capital equipment on their side, rather than Hadrian owning all the equipment. If you lost your relationship with Hadrian at that point, you'd be able to continue running the factory as it sits. You'd be able to continue running the machines, but you might lose Hadrian's really cool operations software.
+
+---
+
+**Client**
+It would almost be like paying a really, really good consultant to help you build and run your factory. Do you use that a more scalable model over time instead of just having a big Hadrian factory that manufactures for 20 different primes?
+
+**Expert**
+I think that there's a lot of room for both. You want the more specialized/dedicated your facility is, the higher the likelihood of downtime from a lack of demand from ebb and flow. If you undersize your on-site facility a little bit, then Hadrian's own factory can soak up the extra 20% or so of demand and also scale up to 150%. If you are Anduro or something and you've commissioned Hadrian to build this factory for you, then you don't have to start worrying until production requirements drop down below 80%. You're at 100% efficiency for this very wide band.
+
+You're probably going to pay more once your purpose-built facilities completely running 100% flat out. You'll probably pay more to have parts made at the Hadrian facility and then shipped rather than made on site for you. A little bit of give and take hedge your loss risk of idle machines by always paying a slightly higher margin on whatever structure, however you want. There's very good need for both sides of that coin, I think. I have moved on into the shipbuilding industry currently.
+
+Shipbuilding is a funny change from machining because rather than making very, very accurate things and then shipping them somewhere, you make very large inaccurate things and then they don't go anywhere, they get pushed into the water. Everything that we're going to be doing is on a customer site, 100% everything. I've been thinking about that side of the coin a lot recently over my last two years where, "How do we structure that colocation agreement or the partnership to ensure that everyone's getting what they want out of it?"
+
+---
+
+**Client**
+Theoretically, without giving it away too much, there's a scenario where I was looking at that Anduril video yesterday that they published. If they wanted to go into high scale manufacturing of subs or even surface vessels, they probably would just want a factory on site, assuming they're going to manufacture at scale?
+
+**Expert**
+Absolutely agreed.
+
+---
+
+**Client**
+What do you think the biggest barrier to Hadrian's success is going to be? If it's going to fail, why do you think that would be?
+
+**Expert**
+I think that one of the biggest threats to Hadrian is from the CAM software vendors actually doing such a good job improving their software that the mom-and-pop shops start having better automation capabilities themselves. I don't think they're going to get all the way there, but I, as a single individual, if I could talk the bank into giving me a loan, could make the exact same part that Hadrian is making literally in my garage.
+
+It's pretty hard to compete with the overhead of a guy in his garage. That is the level that some mom-and-pop shops are at. They are really tiny, and their infrastructure costs are near zero and their payroll is extremely low. The only thing that they're really worried about is just getting enough orders and not scrapping a bunch of parts because they don't necessarily have the cash to float a whole bunch of screwed up orders, especially if you're dealing with expensive materials like stainless steel or titanium.
+
+---
+
+**Client**
+Is there a world where Hadrian should just vertically integrate even more and build their own CNC machines and build a competitive edge from that standpoint?
+
+**Expert**
+I would bet that's pretty far away, but it is becoming a more viable option as time goes on. The state of motion control software is always improving, and the costs are always coming down. There's no replacement for the knowledge that a machine tool builder has gained over potentially 100 years of building tools, but you could definitely make a go of it and devote some research time to it and potentially make really good progress. Not every single machining operation is a super high precision operation.
+
+What if you actually own some lower precision but fully robotically integrated for loading and unloading machines that cost a fraction of the cost, but all they do is hog out material and then pass the not even half-finished part onto a higher precision machine? You're not spending machine time on your very, very valuable machine, just removing large amounts of material. It's definitely possible.
+
+Hadrian and many other shops definitely have tiers of machines for various purposes. Even machines that might share the same kinematic layout. It's a three-axis or its five-axis. They will have the really nice one that's accurate and then they'll have the really sturdy one that can just rip out material and then they'll also have the cheap one that can just make inaccurate parts day in and day out and they're good enough.
+
+---
+
+**Client**
+Back to your first point when you're talking about CAM software continues to get better maybe the mom-and-pops become more competitive over time. I assume hopefully you think that the moat around Hadrian would be that, one, they still automate all the other components of the process of going start to finish and probably two, that there's still this declining labor issue in the traditional mom-and-pop space where I don't want to inherit my dad's CNC machine shop no matter how good CAM software gets.
+
+**Expert**
+I've had my own regrets being in this trade and seeing the software engineer sitting next to me making triple what I'm making. It's not an attractive field to enter for most folks and for good reasons.
+
+---
+
+**Client**
+I'm sure when you were there, maybe this is still pretty far out, but is there a world where they can apply this into other fields? I imagine there's a ton of things. I was looking at Machine Labs that does sheet metal printing and there's, I think, a company doing wire harness. Do you think this process is replicable into other areas like PCBs and wire harnesses?
+
+**Expert**
+I think that the state of automation in PCBs specifically is light years ahead of machining but yes, you could look at wire harnesses, you could look at tube bending. What sets aerospace machining apart from some of these things is the volume versus level of precision versus unit cost. Cars are made to pretty darn accurate tolerances. Things are quite precise on consumer vehicles and the numbers are really high so it's worth spending an enormous amount of time on specific processes.
+
+Whereas in machining you can optimize general processes but unless you are manufacturing for automotive and doing insane quantity numbers, then you need to optimize your general process just to make it call it a good workflow and then stop because you're working on specific parts that are different every single day. I don't know what the aerospace wiring harness world looks like in terms of volume versus precision versus quantities of specific SKUs or whatnot. I would imagine that the automotive wiring harness world is a solved problem, but the aerospace less so. I bet that NASA's wiring harnesses are all still handmade.
+
+---
+
+**Client**
+From what we've heard that's the case for sure.
+
+**Expert**
+I think the approach should be applied to darn near anything you possibly can. Automate the boring stuff. Who doesn't like that? What a great concise statement for making your job suck less.
+
+---
+
+**Client**
+What's your general outlook and optimism or pessimism on Hadrian, the future of Hadrian?
+
+**Expert**
+Pretty optimistic. I have a tremendous amount of respect for the business and finance acumen of the CEO, and I think that they are a really smart crew who have targeted their market really well. I do think that they will continue to be successful. Like any company I'm sure that they have some blind spots where their operations could be working better or they're struggling with a particular technical problem or any number of things like that. In general, I believe that they have done a pretty darn good job of avoiding falling into the trap of misprioritizing and starting to sink large amounts of resources into low value projects.
+
+---
+
+**Client**
+You mentioned the CEO. What's your general take on them? Positives, negatives, seems like a very public figure. Maybe just more generally though, the rest of the workforce, how is culture, talent, ability to attract talent, both business side and technical? What was your experience there?
+
+**Expert**
+I have very little experience with the business side we'll call it, but they attracted really great customer facing engineers who I think were doing a really fantastic job and that is such an important part of the customer relationship when you only have 10 customers. That always felt like a huge positive.
+
+I know that this is also generally the case with start-ups, but a little bit ago I did learn that I think all but one of the first 12 or 15 employees are gone and the company is not especially old for that to have happened. There's definitely some frustrations there as well as some of us just really liking early-stage start-ups and wanting to go do it again, which is certainly a personality type. It's certainly what I enjoy. There's clear indication that there is some culture conflict somewhere in there. I really can't speak too much to what I think the root cause of that is.
+
+---
+
+**Client**
+Anything we didn't touch on that you think would be relevant for us as we continue to learn more about the space and Hadrian and some of the other companies?
+
+**Expert**
+Depending on what you are looking for or competing with Hadrian, I would recommend talking to potentially other ex-Plethora folks as well as ex-Hadrian and getting some other takes on the market. Hadrian has a competitor called Formlogic on the East Coast that a number of other Plethora folks went to. There's also the whole software side of Hadrian which also had some really brilliant engineers who will have a very different perspective from my largely blue collar take on a lot of it.
+
+In terms of seeking information, I also said ex-Plethora, not just ex-Hadrian. Plethora was trying to do a lot of the same things but in a slightly different way and with a much less mature software environment whatever it was 12 or 13 years ago at this point. Some of them have seen the industry and its potentials evolve with some very different perspectives than those of us inside Hadrian.
+
+---
+
+**Client**
+I'm trying to remember, was Plethora focused on non-ITAR as well?
+
+**Expert**
+Whether by design or by accident, Plethora ended up being focused on the San Francisco and Silicon Valley start-up customer base, both mechanical engineering start-ups who were doing consumer products as well as Facebook's Area 404 who were doing some other interesting work that turned into some satellite work in the longer term and internal machining for the internal mechanical engineering departments of tech companies who were doing some hardware tech.
+
+Engineers at Apple who needed a test fixture, and they needed it in three days, we could make it in three days and then courier it over to them and it got there the same day, and you didn't even lose a single day with shipping. Not necessarily ITAR, but prototype, super high dollar value, super short turnaround and a relationship that needed to be managed very closely because these prototype products, you sometimes discover that they're actually manufacturable after you've started manufacturing them.
+
+"Oh, this engineer designed this huge plate, but it's only 1/16 of an inch thick in the middle. It's going to fold it in half under its own weight. We can't do this." They email you the PDF, "Please make this in 48 hours," and you go, "We can't make this. It's not makeable, let's talk." There's a very heavy engineering design review that often just doesn't have time to happen within the company, but you get forced into it when you call your machine shop, and they say absolutely not. That's what led to Plethora's market folks.
+
+---
+
+**Client**
+Awesome. This has been super helpful. I know we're over time so appreciate all the time today.

@@ -1,0 +1,459 @@
+---
+theme: "Robotics & Physical AI"
+title: "Lead Robotics Engineer at Nike Believes Egocentric Data Is Key to Advancing Automation Despite Current Challenges"
+doc_id: EC-1000000-234393
+source_line: "Utilimarc · Expert Call · Customer · 20 Oct 26"
+date: 2026-10-20
+company: "xdof"
+pages: 2 of 2
+saved: 2026-10-21T15:54:12.042Z
+url: https://research.alpha-sense.com/search?search_id=tmp-l5q00vjpbwvf9aw6o2hl&sort=DATE&order=DESC&docid=EC-1000000-234393
+---
+# Lead Robotics Engineer at Nike Believes Egocentric Data Is Key to Advancing Automation Despite Current Challenges
+
+Company Deep-Dive
+
+DATE PUBLISHED
+
+20 Oct 2026
+
+INTERVIEW DATE
+
+22 Jul 2026
+
+EXPERT PERSPECTIVE
+
+Customer
+
+ANALYST PERSPECTIVE
+
+Investor-Led (Buy-Side)
+
+PRIMARY COMPANY
+
+xdof
+
+SMART SUMMARY
+
+Summary
+
+The conversation explored the current state and future direction of egocentric data collection and deployment in robotics, focusing on data types, vendor selection, cost structures, and the challenges of scaling automation in manufacturing and other settings.
+
+EXPERT BACKGROUND
+
+- Lead Robotics Engineer with over a decade of experience in robotics, specializing in algorithm development and deployment across various domains including industrial, humanoid, and application-specific robots, with significant recent focus on leveraging AI and egocentric data.
+
+EXPERT SENTIMENT
+
+- The expert believes the robotics and egocentric data market is rapidly evolving, with increasing demand for high-fidelity, application-specific data, but notes that costs and technological immaturity remain significant barriers to large-scale deployment.
+- They are optimistic about the value of solution providers and neo-integrators in expediting deployment and see ongoing experimentation as necessary until AI costs decrease and technology matures.
+
+TAKEAWAYS
+
+- The robotics industry has shifted from using generic, low-fidelity data to demanding high-fidelity, multi-modal, and application-specific egocentric data, which is more expensive but crucial for advanced tasks.
+- Data collection is increasingly outsourced to specialized vendors, especially for egocentric data, while teleoperation data often requires closer collaboration due to hardware specificity.
+- Vendors are selected based on their ability to meet data fidelity requirements, cost, and delivery timelines, with custom hardware sometimes provided by the manufacturer for task-specific data collection.
+- The volume and cost of data collection vary widely, with crowdsourced data costing as little as $5-$15 per hour and high-fidelity, sensor-rich data reaching $500-$800 per hour; fine-tuning typically requires 500-1,000 task instances.
+- Barriers to scaling include high costs of AI training and inference, power consumption, and the current immaturity and uncertainty of the technology, especially for complex tasks.
+
+Introduction and Expert Background
+
+Egocentric Data Market Trends
+
+Data Collection and Application
+
+Geography and Scene Diversity
+
+Automation Process and Future Outlook
+
+EXPERT BIO
+
+The expert is the Lead Robotics Engineer at Nike. The expert can speak to the competitive dynamics of egocentric data providers, hardware and sensor deployments, key players, and more. The expert can speak to these topics based on their current role as Lead Robotics Engineer at Nike and their former role as a Robotics Engineer at Agility Robotics, leaving in April 2022.
+
+The expert is the Lead Robotics Engineer at Nike. The expert is responsible for leading robotic innovation initiatives, including designing and utilizing robotics, integrating them into business processes, and evaluating third-party vendors. The expert is the key decision maker in evaluating and selecting which robotics vendors to leverage at Nike.
+
+Prior to this role, the expert was the Senior Robotics Engineer at OSARO.
+
+Additionally, the expert was previously a Robotics Engineer at Agility Robotics. Reporting to the VP of Software Engineering, he was responsible for software development and planning, as well as managing the company's product software stack, globally.
+He can speak about Agility Robotics and its competitors including Figure, Boston Dynamics, and Tesla, and ANYbotics.
+
+View More
+
+INTERVIEW TRANSCRIPT
+
+**Client** [00:00:00]
+Thanks for joining. To give you some context, we are doing research into the egocentric data market. We have been talking to lots of vendors, some other companies that are looking to deploy robotics, and just looking to get a deeper understanding of how end customers of robotics are thinking about egocentric data, how they are thinking about deployment, and where the data vendor fits into the market in the future. As a steady state. Could you maybe start off by telling us a bit about your role and your experience with egocentric data?
+
+**Expert** [00:00:32]
+Sure. My background is robotics. I am a generalist robotics, and I have the privilege to work on a bunch of different companies, wear multiple hats. I have worked across all domains of robotics and mostly on the algorithm side, with more than a decade experience. Even, in my first five to six years of experience, the algorithm development was more different. It was more based on having exact dynamic representation of your environment, more on the math-heavy side, where you are thinking about a flowing logic that could apply to given situations. In the last, 3-4 years, especially in the last couple of years, the robotics market, the AI market, has exploded, and it has shifted a lot.
+
+With the advent of these GPUs, compute engines, the way you solve these problems have changed. Like everyone, we are leveraging, I have leveraged in past as well, a lot of these foundational models or these vision language action models to replace some of the conventional way of developing robotics algorithms. The fundamental requirement of these new algorithms is data. Either create your own data, use synthetic data, or buy data. Data is a key requirement and need for a lot of robotics companies these days. I have been worked on a lot of different kinds of robots when it comes to deploying or developing AI models, be it industrial robots, humanoids, and some other application-specific robots.
+
+---
+
+**Client** [00:02:08]
+Awesome. Could you expand on just the general vision of how you are looking to deploy robots at Nike?
+
+**Expert** [00:02:15]
+I would say that, we work in the innovation team at Nike, our role is more on trying new things rather than deploying robots in the wild. Think about we are in a prototyping stage, or we are a team which does a lot of prototyping where the goal is not to get something perfect, but it is to prove that something is feasible. Thus, we leverage a lot more cutting-edge algorithms, technologies compared to something which has already been proven out. That is our approach at Nike.
+
+I would say that I have a lot more experience outside of Nike using, leveraging egocentric data while at Nike. I can also talk a lot more about things I have done outside Nike, which is more relevant to what we want to talk about. I am working on a few other projects with my friends in India. We are focusing on automation in warehouses.
+
+---
+
+**Client** [00:03:09]
+I am curious on the egocentric data front, and if you could dive deeper into that in terms of where the market is headed, collection and experience within that area.
+
+**Expert** [00:03:19]
+Sure. Basically, the need of egocentric data is to ensure that the robots can do tasks which humans can do, complex manipulation tasks specifically? The reasoning behind this is that if you see something, the way humans work is, you see someone doing something, you try to imitate them, it is more of imitation learning. That is why the need of these foundational models and these data. Egocentric data has been very, very interesting in the last two years. It has multiple tiers and is shifting dramatically, especially in the last six months, it has shifted even more with the release of these AI glasses, which is readily available to the mass market and not at a very, very high price point when you compare with some other sensors.
+
+The market is shifting, changing every day. There are multiple levels of quality or fidelity of different kinds of egocentric data you can get. The simplest one would be you are just using a smartphone or some basic cameras maybe to capture something that you are doing, or you are walking on the footpath, or let us say you are cooking something, or let us say you are cleaning a dish. You are just performing a simple activity. This data tier is, in my opinion, broken down by the fidelity of the data and the quality of the data. The number of sensors we use, the quality of sensors used directly commands how expensive or how easy to find the data is. A lot of these data could be very.
+
+---
+
+**Client** [00:04:55]
+If I can jump in here. I am curious, you said that egocentric data is not really the focus of your work in your current role. I am curious why that is and what areas you are.
+
+**Expert** [00:05:08]
+No, I would not say it is not the focus in my current role.
+
+---
+
+**Client** [00:05:12]
+Sounds good. Maybe you can tell us more about collection and how the market's headed in terms of vendors. If you use, what specific collection vendors are the most preferred?
+
+**Expert** [00:05:22]
+I can say that what I've been using a lot. I believe that to get very, very high fidelity, we want to use more of a kinematic than teleoperated data for a very specific application. I can talk about how much they cost, what kind of data they provide, where are they moving towards, what they were developing six months back. I can talk about all of that.
+
+---
+
+**Client** [00:05:47]
+Yeah, that's all helpful.
+
+**Expert** [00:05:49]
+I would say six or eight months back, maybe a year back. Earlier, in 2025, it was more about just finding any kind of data. Any kind of data would mean you can get any, let's say, the application is to fold clothes, or let's say the application is to inspect a given engine bay, let's say a paint protection has been applied to an engine bay or not, something like that. In that case, a year back, it was more about, can you get any kind of data and prove your algorithm? There were not very specific requirements on the input data that was needed. It was more about just to prove the algorithm. The data would be expensive, but it wouldn't be very clean.
+
+It wouldn't be fine-tuned. It would have some sensors. It wouldn't have multi-modal modalities. It wouldn't be synchronized with, let's say, an IMU. It would be a very, very hacky, rough data that you can use to prove out an algorithm. With these new models coming out every three months, these foundational models coming out every three months, they have proved that if you have access to very high-fidelity, multi-modal data specific to your application, the impact is exponential. Now you have a lot of companies which have expertise in generating data very specific to your application.
+
+For example, they have people just doing, let's say, loading the dishwasher again and again, with a bunch of sensors inside the dishwasher, outside the dishwasher, RGB sensors, vision sensors, tactile sensors, force sensors, IMUs, just to generate huge amount of dishwasher loading and unloading data. Even that, with specific dishwasher brands, or even with specific form factors. One more tricky thing in this space, what I have noticed was even the way you load the dishwasher is in an area which is very tight, that is way more important. How do you work around, how do you navigate around tight corners to still load the dishwashers correctly? On the other hand, when you have very open space to load the dishwashers.
+
+Now we are in a phase where we are trying to perfect the last 10%, and that is why having very application-specific data for these corner cases has become so important. There are a bunch of companies now who have the ability to support this. The downside is that when you want very, very fine-tuned data, it is very expensive.
+
+I would say that the trend has been more focusing on application-specific tuned data from generic unstructured data. Companies are moving towards, they have the infrastructure to develop these data. There have been a bunch of startups in and around USA, outside of USA, in Asia, to just generate data. There are people who have been freelancing to generate this data. I would say the trend is moving more towards expert teleoperated kinematic data in the last six months or so.
+
+---
+
+**Client** [00:09:00]
+That is really interesting. Would you say that the market is coalescing around certain modalities? Are tactile gloves becoming standard, wrist cams, stereo cams, depth? What would you say?
+
+**Expert** [00:09:14]
+To your point, all the things that you mentioned. One is having all of these sensors, that is torque sensors or tactile gloves. We get tactile feedback from the gloves. Let's say you have your RGB cameras with RGBD cameras with depth, and then you also have cameras looking at the human so that you can understand the joint trajectories, or you can measure how the human is changing their elbows, shoulders, wrists to perform manipulation tasks, like assembly, surgery, things like that. The key is in how synchronized these sensors are with each other. I would say it is also moving towards multi-modal synchronized data. This synchronization is very important.
+
+---
+
+**Client** [00:10:02]
+Got it. Could you maybe talk to us about the use case of egocentric data versus, I think you mentioned teleop. Do you guys use UMI? Where are things headed in terms of the type of data collection? Is egocentric fading out in favor of more embodied type data like UMI or teleop?
+
+**Expert** [00:10:23]
+I would say it depends on the application. A lot of times, for example, let's say you are vacuuming a floor. This is a very interesting example that sometimes I give people. The way you vacuum matters a lot. In teleoperation, the difference between teleoperation and egocentric data is that in egocentric data, a human is performing the task. The human itself is performing the task. On the other hand, on teleop, it is you using the robot or a device or a machine to perform a certain task. I think both are very different data. One is trying to generalize how a human would solve the problem and try to apply that on the robot.
+
+Two is trying to understand how a human would use a robot effectively to solve a problem, and then train the robot to do so. Talking about the vacuum cleaner example, let's say there was a company long back which was trying to develop a robot which can hold these Dyson vacuum cleaners and vacuum around the floor. The interesting thing that we saw was the way you vacuum, the way you use the vacuum was very important. There were some datasets in which the way to use the vacuum, the way you would turn with the vacuum was just so interesting that the robot would learn new behaviors, which we would have never thought we could have programmed just by using conventional models or just by using teleoperation.
+
+There are different levels of these two data streams, and it is totally dependent on the application. Teleoperated data is also very, very important. Let's say, take an example of surgical robots. They are very important. On the other hand, egocentric data is very important when you are trying to develop these general purpose humanoid robotics that are supposed to do everything that a humans is doing. Each of them have its own place. As in some cases, one can be added onto the others or can be improved by the other data. A lot of times, they are also parallel pipelines which don't meet. Both are really important even now, in my opinion.
+
+---
+
+**Client** [00:12:37]
+That makes sense. Is the stage of training a key differentiator? Is ego more so used for pre-training and teleop more for post-training, or you don't really view it that way?
+
+**Expert** [00:12:48]
+No. I have worked on these, and you are correct. Egocentric, more open source, open generic initial training, do a bunch of stuff, let's say you're training a foundational model. Teleop data at times are used to more of a transfer learning when you have a base foundational model and then you want to train a particular robot, then you use the teleop data. For example, dishwasher task, I've worked on this project where we have a bunch of data of just someone using the dishwasher.
+
+That's egocentric data used to fine-tune the foundational model, and then we use the teleop data, which was using the robot to load and unload dishwasher. That was more to help the model understand the limitations, the way the robot works, and add that constraint onto the foundational model.
+
+---
+
+**Client** [00:13:38]
+Got it. For a manufacturing type company that is trying to automate specific tasks in their factory line and so on, do you tend to see that it is more about teleop in those kinds of cases, or is there also cases where you would want to capture ego in those settings?
+
+**Expert** [00:13:54]
+More egocentric data in the current phase, depending on the applications that I am aware of. For example, if you are a skilled laborer, then the first thing is to understanding the intricacies of what you are doing. In that case, egocentric data right now is more helpful. To my previous point, in the current stage, when you are in the manufacturing setting, in manufacturing setting, your tolerances are way higher. Your accuracy, precision needs to be way higher. You need to be performing at 97%, 98% or above. Thus, you rely less on uncertainties. You rely more on technology, which is proven. That is why it little bit lags behind in a general purpose humanoid robotics.
+
+Given that, even now, using these kind of data in manufacturing state is a little bit behind other applications like general purpose humanoids. I would say, still they are focusing on egocentric data, just to understand if this is even possible, because the problem is, in some of these skilled applications, there are not matured humanoid robots or even robots which can perform these tasks, like sewing three things together or even, let us say, stitching a complex part. Things like that is still not being done by machines. They still need humans. In those cases, I would say, they are still behind. We do not have highly dexterous, manipulable hands that you can attach on the robot and perform these tasks.
+
+Right now, it is also about understanding, is it even possible to do these complex tasks by the robot? That is why you would use a lot of egocentric data. When the skilled task is not that complex, but needs much precision, accuracy, and needs a lot of coordination between, I would say, three multiple different things, then it is still possible to use multiple robots to do some teleoperated data, to use teleoperated data to train your models. It depends on the application.
+
+---
+
+**Client** [00:16:09]
+If you could also expand further into collection geography and scene diversity, dive deeper into where collection geography is headed and what are the preferred partners or stakeholders that are partnering with these different collectors, and where they are based in terms of geographies. Also in terms of preferred scenes and scene diversity, if you could explain that a little bit further.
+
+**Expert** [00:16:32]
+Sure. By collection geography, do you mean across the world where this data is generated?
+
+---
+
+**Client** [00:16:38]
+Exactly.
+
+**Expert** [00:16:40]
+Sure. Initially, the way it started was in research labs. The way this all egocentric data collection training all started was in these research lab across the U.S., U.K., and some other leading universities across the world. They've proved out, you can generate these kinds of data, you can train the models, they are helpful. They are the pioneers. Some of these labs are pioneers. They started doing this, and they are the one who define what's the next big thing when it comes to collecting data. As they prove out these technologies, you see the scale happening.
+
+You see some of these technologies of collecting data being deployed to warehouses, being deployed to special data collection centers across Asia, be it Southeast Asia, be it India, be it Latin America. The reason is because the cost of labor there is much lower when you compare it with some of the developing nations across the Western part of the world. Also, they have extreme environment. They have the tools and spatial variety when you compare it with the Western part of the world. You also have some regulations around it, like what kind of data can you use, what kind of data you cannot use. Some countries have their own regulations around data. China has its own regulations around data.
+
+I would say when you want to go for volume, when you want to go for scale, when you need a lot of data for a given application, people have been tending to go towards some of these Southeast Asian countries or Latin American countries, where the cost of this data is way lower. If you want very, very high-fidelity, specific data to prove out something, then people try to leverage some of these leading labs which create data. I would say East Asia is very, very, like Japan, South Korea, China, Vietnam, they are exploding. You would see a lot of people just doing repeatable task and collecting data. What was the second part of the question?
+
+---
+
+**Client** [00:18:51]
+The second part was asking about different scenes and what scenes are the most subscribed on to, or how that market is headed in terms of different scenes and scene diversity for collection. You gave the vacuuming example. I'm curious about the other scenes, too.
+
+**Expert** [00:19:08]
+Right now, the majority of the egocentric data generated right now is about humans doing day-to-day tasks. Right now, we are in a phase where we are trying to prove out General purpose foundational models. The majority of data that is being collected, egocentric data that is being collected right now, is just humans doing day-to-day tasks repeatedly. One, could be not changing their current lifestyle and collecting data. Two, doing the same thing again and again. That is the two ways the majority of data that is collected right now is for generic foundational models. It's also moving towards varied environment. You need it to be, again, the vacuuming example or dishwasher example. A dishwasher loading in U.S.A. might be completely different from what you might see in Asia.
+
+The dishes might look different, the frequency might look different, the size of dishwasher might look different, or even vacuuming might look different between different places. The scene variety is also very important. You want it to have different lighting conditions. You want to have the humans of different form factors. You want them to be doing at different speeds. The scene variety is very, very important in my opinion. That is what helps you generalize.
+
+---
+
+**Client** [00:20:34]
+Thanks for that. Coming back to the manufacturing settings, you had mentioned that right now, ego is probably more the standard rather than teleop, it sounds like, for collection in those settings. For the more complex tasks where you focus on Ego, like sewing, for example, what does that look like in practice? Is that giving the humans tactile gloves and then measuring that? For the simpler tasks, do you tend to use more teleop, and would that be for moving boxes, for example? Is that the right way to think about when you would use both?
+
+**Expert** [00:21:07]
+Yes. I would say rather than moving boxes might be way simpler. Maybe think about packing a box. How do you pack a box? Maybe think about how do you flatten a box, or how do you make a box out of flat cardboard? Maybe that is where you would use some of the teleoperation because you can still leverage. Right now you have these motion capture. Actually, there are three levels. One, there is a complete teleop where you are using a controller or something to drive the robot. One is egocentric data. Now these days, there is also something in between, which is you have motion capture.
+
+When you are in a lab, you have motion capture cameras, and they are tracking your whole human body, and you are wearing gloves or controllers. You are using things like these VR headsets with the controllers to actually perform some tasks. There are three different levels. I would say on the far end of egocentric data, like sewing, perfect example. In that case, what you are trying to monitor is exactly how the human is moving its fingers, what the human is looking at. How fast is it doing? Where is the needle moving? This is a very difficult example to choose, but that is egocentric data. Teleop, I would say, picking up, loading boxes, no, that is done and solved.
+
+That is like one and a half, two years old. Maybe now it is more about how do you open doorknobs, or how do you pull up a blind, or let us say, how do you lock something? Things like that is now more about. Little bit more fine manipulation where you need little more accuracy is where people are more interested in when it comes to teleoperation data rather than just moving the robot from point A to point B and picking up boxes. I think all of that is done and solved.
+
+---
+
+**Client** [00:23:15]
+In terms of the actual collection of this data in factories and so on, does that tend to be done in-house or do people contract with data vendors to do it?
+
+**Expert** [00:23:23]
+It is both, I would say. We have seen some videos by companies like Agility Robotics, where they are teleoperating the robot on their own, and they are performing some tasks. I would say it is both. Companies do have an installation within their facility for sure, just to understand how data is being collected, just to replicate how the data is being collected by their partners. A lot of time, it's not possible to generate data at scale in-house. In those situations, you rely on these labs, which will generate the data for you. It's both, but more depending on external partners rather than internal data generations. A lot of companies generate internal simulation data, synthetic data, but not actual physical data.
+
+---
+
+**Client** [00:24:13]
+When you need to generate data at scale and you partner with the vendors, would they come in and set up employees with cameras and show them how to capture data and so on, or is it more like they're generating synthetic data with simulation?
+
+**Expert** [00:24:26]
+Yes, they would do both, but they would also do one more thing. A lot of these companies have labs. They would generate data from their labs.
+
+---
+
+**Client** [00:24:37]
+You would tell them we need to do this specific task, and then they'll set it up in their lab to do that at scale?
+
+**Expert** [00:24:44]
+Yes, it depends. Let's say it is about using human and robots, then of course, they don't have access to these human and robots. They might do it on-site. Let's say it is about egocentric data, about humans performing some basic household activities.
+
+---
+
+**Client** [00:25:04]
+When you contract with vendors or just what you see generally, what types of tasks might be contracted out nowadays, lke sewing-type tasks, more of these complex things or what other tasks have you seen?
+
+**Expert** [00:25:16]
+All types of tasks. Data generation is a big activity. A lot of these companies, some of the companies would in-house, but the majority of data they would try to leverage on generating externally. Not simulation data, but egocentric data especially, a lot of these companies just rely on external partners to generate. When it comes about teleop data, it is more done in partnership with the company which wants the data and the company which provides the data, because in teleop data, the hardware becomes very specific.
+
+The reason to do that is because you want them to use your hardware, your robot, to perform these actions and then train the models that work on your robot. When you are doing these teleop data, there might be instances where the companies needing the data actually have a setup in their lab to do the teleoperation work and collect data as well.
+
+---
+
+**Client** [00:26:13]
+We really want to understand at the point where a big manufacturer is actually deploying these robots, what the process is, and I'm a bit confused of when you would use ego versus Teleop. I get that if the company has a specific robot that they want to use, then Teleop becomes more useful. What part of the stack does ego come in for that?
+
+**Expert** [00:26:35]
+Depending on the application, but let's say there is an application where you need both kinds of data, egocentric data and teleop data. In that case, what would happen would be, there are two ways to solve this problem. One, to throw the kitchen sink, like these foundational vision language action models in which you just throw them the videos and the models figure out what needs to be done or we use more of a layered approach. When you're using more of a layered approach, the first step is to understand the task, plan the task. When you are in the task, you need egocentric data. The first step would be to collect egocentric data. That is, I'm just cleaning dishes.
+
+With egocentric data, what I get is, how do you clean dishes? You pick up the soap, you pick up the sponge, you start rubbing the plate, you rinse it, and you put aside. These set of actions, this sequence of actions with some small details is what you get from egocentric data. It's more of a task planning.
+
+---
+
+**Client** [00:27:39]
+Sorry, if I can jump in and just clarify the question a bit. Let's say I'm a manufacturer of auto parts or something, I want to automate, there's a specific task on my line that I think can be automated by robotics. What is the process that you would go through to go from, this is currently being done to a human, to actually training the model and deploying the robots? Could you just take us through that?
+
+**Expert** [00:28:03]
+Understanding how much would it cost to automate it. Does it even make sense economically to automate it? Am I actually saving money by automating it? That's the first part for sure, always 100% of the time, or are you saving on something else? Are you getting away with all the problems that you have with skilled laborers, or are you not trying to depend on humans to perform manufacturing? That is the first question that comes into mind. That why are we doing this? Are there any cost benefits of doing this? The second is, how is this work being done right now in state-of-the-art facilities? Is it even possible, feasible to automate this? It's very difficult even now for a robot to perform.
+
+Second question is it even feasible to automate it? Third, what would it take to automate it? For example, can you do that with a general-purpose industrial six-DOF robot with a custom gripper? Do you want to build a specific hardware to just solve this problem? What's the scale? Because a lot of time what happens is that general-purpose robots are good of doing multiple things, but if you want to do a single thing, a very specific thing million times, then application-specific robots are the way to go. The decision becomes, do you want a general purpose robot or do you want very application-specific robots to do this. You think about, how are we going to do this?
+
+When you start thinking about how to do this, then data comes into picture. Once you have selected the robot, once you have understood the problem, then the question of data comes in where, if I am trying to solve this problem, how do I train a model? To train a model, what kind of data do I need? What kind of model am I using? Do I need egocentric data? Do I need simulation data? Do I need teleop data? Do I need just a camera in my robot cell, my manufacturing cell, capturing what a human is doing? The question comes about what kind of data do you need?
+
+I would say, that's how the process is, then you go back again. Does it even make sense? How much do you want to scale? How many numbers do you need? How long is this manufacturing pipeline? Is it going to be replaced every two years? Is it going to go defunct in six months? All of that comes into picture, I would say.
+
+---
+
+**Client** [00:30:52]
+Okay. At the step of identifying what type of data you need, can we take it from there? You say, we need this amount of ego data. We think we need this amount of teleop data. What happens then? Do you talk to a model provider, a data vendor?
+
+**Expert** [00:31:11]
+Correct. If there is not an internal data team, data governance. A lot of times, big companies, they have internal data governance team or data pipeline team, which have experience of collecting, storing, managing data. First step is going to them "Hey, do we have any logs? Do we have data captured from our cameras? What do we have right now?" is the question, the first thing that comes to the mind. The next thing is, how can we get data? You talk to vendors, you talk to suppliers, you ask them if they have data readily available for this application. If not, what would it take to build it? Do you need specific hardware? Do you need tactile gloves? Do you need specific depth cameras?
+
+Do you need force sensing? Do you need torque sensing? The question comes about the actual hardware, the actual data. You go to the vendors, you talk to multiple vendors, you choose one, maybe you partner with them, and that's how you go ahead.
+
+---
+
+**Client** [00:32:20]
+How do you determine which vendor to work with? What do you look for?
+
+**Expert** [00:32:25]
+Cost and performance. One, the vendor should have the ability to produce the data that we need with the fidelity that we need. That is the first thing. They should meet our requirements. Two is cost. How much does it cost to do this? Still in today's world, you can solve some of these problems with conventional robotics algorithms. Still people think about, the data right now is still very expensive. The sensors used to collect this data is going to be very expensive. Does it even make sense to go this way?
+
+That is how you do it. I would say cost and performance are the majority factors that impact vendor selection. Third comes timeline. Does the vendor have the capacity to deliver this as quickly as possible? How much we can rely on the vendors to also help us with future data collection. Because in some cases, you are setting up a small lab at a vendor’s warehouse or location, then you want that to be a more continuous process so that you can continue collecting data in the future as well without changing the setup, so all of those basics. Cost is definitely a huge factor
+
+---
+
+**Client** [00:33:42]
+On the hardware side, I'm assuming the vendor would be using their own hardware, maybe, either in their lab or coming to the manufacturing site and equipping employees with their own hardware. Is that right?
+
+**Expert** [00:33:54]
+Correct. Most of the time, the vendors have their own standard hardware, like RGBD cameras, tactile gloves, covering no occlusions. Things like that are very common. A lot of times, some of the applications need custom hardware. That also, vendors are also okay integrating some custom hardware if needed.
+
+---
+
+**Client** [00:34:19]
+Custom hardware would be applied by the manufacturer, or would the manufacturer tell the vendor the specs and then the vendor would go like?
+
+**Expert** [00:34:28]
+No. Usually, it's like, let's say you want to do a manufacturing task on a footbed, and that footbed or a footrest is very custom, and you want data to be collected on that footbed, thus, you would provide the vendor with your custom hardware so that the data is relevant to your application. Let's say you are doing paint spraying, and you have a very special nozzle that you want to use. You would provide that custom hardware to the vendor, so the data collected is using the nozzle you want to use.
+
+---
+
+**Client** [00:34:59]
+Okay. How long, typically, does that process take of the data collection? I know it varies by task, but in general, how much data is needed for this?
+
+**Expert** [00:35:10]
+Usually it's in stages. It's usually based on a statement of work, which has stages, which could be one in each of these validation phase, where you just want to ensure the data you are collecting actually makes sense, is correct, and is useful. Once you are past that validation stage, the second part is more about you delivering the data with a given decided timeline. If the hardware set-up to collect the data is very expensive, then it takes a lot more time to get that data. If it's very generic, we don't need a lot of custom hardware, then it's five to eight times faster. It totally depends on your application but it could take from months, couple of months to couple of weeks, in fact.
+
+I have been in some projects where you can just get data almost for free, like in three weeks, and then to five to six months. Usually what companies do is they want to go in stages. They have that, if we have these many hours of egocentric data with this fidelity, that's two months, then let's see what we can do with the data in two months, then let's go to the next step. They also add complexity slowly and slowly to the data if needed. It's usually based on stages, always. Unless it's a very known problem, and you want to just train a new model with something already existing.
+
+---
+
+**Client** [00:36:35]
+Could you give us an idea of the cost of working with data vendors like this? Even just ranges, how much typically it might cost for a certain automation project?
+
+**Expert** [00:36:46]
+Yes. It's a huge range, I would say. If you remember, I mentioned different kinds of data. One was very low fidelity data with just humans, crowdsourced data. On the top tier was data with synchronized data from multiple sensors. I would say if those two are the end of spectrums, the cheapest data would be somewhere around, I would say, $5-$15 an hour, where you're just crowdsourcing it. Up the highest tier could go as much as $500 an hour to $800 an hour, depending on the sensors you use.
+
+I would say, on an average, $50-$60 an hour is the range when you're using, let's say, standard cameras with multi-angle views, with some basic bounding boxes, let's say, post-processed data. You want more multi-modal data, it can go like $100, $130. That's based on the limited experience I have. It could have changed. It's still changing, but that's my rough answer for work based on my experience.
+
+---
+
+**Client** [00:37:56]
+In terms of the volume of data needed, you said there's some projects that take a few weeks, there's some that take 5-6 months. Could you say on either end of the extreme, what volume of data we're talking about, in terms of number of hours?
+
+**Expert** [00:38:11]
+I would say what happens is that rather than number of hours, it is more about number of instances. Think about, let us say you are loading and unloading the dishwasher 10X an hour, you calculate from instances. I would say, maybe I can talk about how many instances of that application task you need. The calculation becomes, it takes five minutes to do this task, and for an hour, these many hours you will need. The basic foundational pre-training models like GR00T or Ego Scale, they have been trained on 30,000 plus hours, which is converted to one million plus task episodes. Even more than that, I would say. When you are doing the last level of fine-tuning training, 200-250 hours is more than enough.
+
+For example, I have a foundational model, and I am doing some domain adaptation by using my custom robot. I would say, maybe let us not talk about hours. 500-1,000 instances are more than enough of doing the specific application.
+
+---
+
+**Client** [00:39:20]
+Sorry, you said 500,000 instances?
+
+**Expert** [00:39:24]
+500-1,000. Between 500 and 1,000, somewhere around there. As you go on fine-tuning more and more, the number of hours or instances reduces from. If you are training a foundational model, a completely new model, you need a lot more data. Think about a ChatGPT. If you need something, let's say you have an algorithm, which you are training on top of ChatGPT models, God models, and whatever models, then you need way less data when you are trying to specialize in domain.
+
+---
+
+**Client** [00:40:00]
+Okay, that is helpful. You collect all this data, you work with the data vendor, and now that you have the data, what do you do? Do larger companies tend to do the training themselves, like using open source models or models that they have trained themselves? Do you work with a robotics model provider that then does this fine-tuning for the model?
+
+**Expert** [00:40:22]
+Good question. I would say, a thing that people miss usually is data storage. These data needs to be stored in a very organized way. One interesting thing that is in between using the data and generating the data is how do you store the data, and how can you use it at maximum speed? How can you use it most efficiently? You have those data governance bodies in the organization who take care about this. Let's assume that, your data is stored in the most efficient way then it comes about training. Training is usually done internally. If you are training on top of an open source model, you have access to compute, and you just do it internally.
+
+When you say outsourcing training, people, what usually do is they outsource the compute. As in, they don't have the servers in-house. They might buy AWS subscriptions or Azure subscriptions and train on AWS machines rather than having that compute in-house. When outsourcing model training usually means outsourcing the computing, in most cases, I would say. There are times in which you actually outsource. For example, there are some companies which specialize in transfer learning.
+
+They would have some of these open source base models, and what they would need in order to make it application-specific would be they would have requirements. I need 500 hours of this application-specific data with these modalities, with this accuracy, with this resolution. Once you give me that, I can train this open source model to work for your application. There are some companies which do that, but usually people rely on implementing the training in-house.
+
+---
+
+**Client** [00:42:08]
+What about Pi and Generalist?
+
+**Expert** [00:42:11]
+That's a good question, so companies like Pi, Physical Intelligence, Generalist, Skild AI, they are more of solution providers, think of it. In those cases, you are working with them to solve a problem, so Physical Intelligence, the classic video they show of folding clothes. Let's say I want to apply it to my domain, then what they would need would be egocentric data for the clothes that we manufacture. Yeah, and then they would train on the top of their own models, so those are instances where you are working with a solution provider or you have a partnership with companies like Physical Intelligence.
+
+I think in these cases, they have, I wouldn't say they have the IT, but they are developing the core chunk algorithm. We are outsourcing the algorithm development. In those cases, of course, like these external partners, they have requirements on what kind of data they would need for this application to be working for your use cases.
+
+---
+
+**Client** [00:43:10]
+In what cases would a company choose to work with one of those partners rather than go through the internal process we talked about?
+
+**Expert** [00:43:16]
+It depends. Companies like Walmart, they don't have a huge robotics team within Walmart, so they might leverage going to external partners. On the other hand, companies like Amazon bought Kiva Systems in 2012, and it has its own huge robotics team within. They try to leverage their in-house resources. They believe in investing in developing these technologies in-house, upskilling their team. It depends on the companies. If a company has the capacity, bandwidth, and the team to do it in-house, they might do it in-house. If not, they don't want to reinvent the wheel, and they would just outsource it to someone externally and have a strategic partnership with them.
+
+---
+
+**Client** [00:44:01]
+Interesting. We've heard from several companies of this idea of a neo-integrator where the data vendor shifts into this role of actually deploying the robots, maybe working with several of these frontier lab companies, and several hardware providers. Actually going to the manufacturing site, deploying, running evals, fine-tuning. Have you heard of that concept, and do you have thoughts on that?
+
+**Expert** [00:44:26]
+I have heard about those. My thoughts are that if they are actually providing, actually cutting down the process. One reason why you outsource things outside is that you do not want to invest in the time it would take to develop it from scratch. If these companies are actually providing value and expediting the process, then yes, I think these companies would be super valuable even in the future, in my opinion.
+
+I think these companies can provide great value, and they would also develop the subject matter expertise eventually across multiple domains of doing this. The time it will take for them to implement or deploy these applications, which will be much more efficient compared to someone else doing it. I think, it is just like solutions integrators in robotics, but now at the software level, so I am pretty sure they have value.
+
+---
+
+**Client** [00:45:19]
+Interesting. Have you seen companies start to do that thing?
+
+**Expert** [00:45:24]
+I have heard about these, but I have not personally worked with companies like these. A lot of the companies also want to be vertically integrated. Companies like Amazon Robotics would want to be completely vertically integrated. On the other hand, some companies don't want to be. I have seen companies actually. What happens is, a lot of times, when you have these big data companies, you might see them being bought by some of these big giants like OpenAI. You see a lot of that as well.
+
+---
+
+**Client** [00:45:59]
+Interesting. Maybe also on tasks, I was curious on tasks and custom tasks. What tasks do you think would benefit the most from custom data collection today? It could be you mentioning sewing earlier. I wonder if you have any specific tasks in mind that would benefit from custom data collection. You mentioned earlier the difference between labs and how people go to labs versus the large scale players, but if you could dive deeper into specific tasks.
+
+**Expert** [00:46:29]
+I think manipulating soft objects, deformable objects, would benefit the most from egocentric data collection. The reason is, soft objects are difficult to model. They change their shape, size on contact, which is difficult to predict by leveraging conventional robotic algorithms. The only way to solve this is by training, by data. I think manipulating soft objects, clothes, plastic wrappers, or packages without boxes that we get from Amazon, things like that would benefit the most from egocentric data. Even doing some of the coordination tasks like loading the dishwasher or cooking, I would say.
+
+---
+
+**Client** [00:47:10]
+In terms of evals and benchmarking, you mentioned, when you work with the data vendors, you do so in different stages and see the progress along the way. What does that look like? Is the data vendor themselves heavily involved in the eval process? Would the manufacturing company take that data, run their own evals, see how things are going?
+
+**Expert** [00:47:31]
+It's both. The data vendors do have an internal pipeline of validation, most of them have. The clients also have their own evaluation criteria. They would try to apply that model onto their robot and see, or they would have specific algorithms to understand how synchronized the data is, what the quality of data is, how noisy the data is. It's both. There are very well-defined requirements from the client on what the data should look like. Using that model, using that requirements, the vendors develop their evaluation pipeline, and then the clients just develop their application evaluation pipeline based for the data.
+
+---
+
+**Client** [00:48:14]
+You mentioned at the beginning of the call that this is still quite early, at least for your company. What do you see as the barriers to scaling this technology? What has to happen to actually prove out the ROI and roll this out at scale?
+
+**Expert** [00:48:30]
+The cost of using AI is expensive.
+
+---
+
+**Client** [00:48:33]
+Basically the inference cost models?
+
+**Expert** [00:48:37]
+Yeah. Training cost, inference cost, both. Cheaper GPUs, cheaper power.
+
+---
+
+**Client** [00:48:44]
+Would it also be token cost?
+
+**Expert** [00:48:47]
+Exactly, token cost. Cost of using AI is high. The power consumption is high. That's it. Plus the technology is there, but not very mature. It's still uncertain. The problem in robotics is uncertainty, and there is still high uncertainty in a lot of these cases. We don't get that precision or accuracy or repeatability you want for some of these complex tasks. I would say yes, token cost, and also the technology is a little bit immature. It's growing exponentially, but it's still not there yet. Self-driving cars they should be deployed 10 years back, but they are still not there yet.
+
+---
+
+**Client** [00:49:37]
+The strategy for a lot of these players, is it just to be in a position for when these AI costs come down, when the technology's more proven out, be ready for that point where it makes sense to scale? Is that where we are right now, still experimenting and just being ready?
+
+**Expert** [00:49:54]
+Correct. I would agree. I would also add that some of these companies, they don't want to be lagging behind. They don't want to miss out on the AI wave. There are also a lot of these companies are also doing this because they don't want to miss out. A lot of places, AI is used as a marketing term.
+
+---
+
+**Client** [00:50:17]
+Got you. I think you have answered all of our questions, and this has been super helpful. Thank you so much.

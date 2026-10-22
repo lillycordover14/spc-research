@@ -64,7 +64,7 @@ Edit `themes/energy/taxonomy.yml` (the layers from that slide), `watchlist/*.yml
 
 ## Storage and limits
 - A source card is 5-200 KB of text. 10,000 sources is roughly 0.5-1 GB, fine for a git repo. Beyond that, split themes into separate repos (same scaffold).
-- Originals under `raw/` go through Git LFS (`.gitattributes`): PDFs and office files do not bloat history. GitHub LFS includes 1 GB free; after that, either buy a data pack or point `raw_file` at a bucket (Cloudflare R2 or SharePoint) and keep only the text in git. Audio/video is never committed; transcribe it (`scripts/transcribe.md`).
+- Originals under `raw/` are plain git files for now (fine up to a few hundred MB). When they get large, turn on Git LFS for PDFs (two lines in `.gitattributes`, already written there) or point `raw_file` at a bucket (Cloudflare R2 or SharePoint) and keep only the text in git. Audio/video is never committed; transcribe it (`scripts/transcribe.md`).
 - Nothing in the repo is a server. Backups are the git history; every change is a commit by a named author or bot.
 
 ## Statuses, in plain words

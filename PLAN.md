@@ -15,7 +15,7 @@ Goal: by the group decision next week, have every useful desktop source (AlphaSe
 - **GrokBot-efficient writes**: one small file per record, append-friendly logs, auto-created company stubs, generated `index/QUEUE.md` to-do list, `index/VALIDATION.md` error report; three write paths (shell, GitHub API, web editor).
 
 ## 1. Setup (15 minutes)
-1. **Get it on GitHub** (private repo `spc-research`). Either link GitHub to Claude once (claude.ai → Settings → Connectors → GitHub) and tell Claude "push it", or locally: `cd spc-research && gh repo create lillycordover14/spc-research --private --source=. --push` (needs `git lfs install` first for the PDFs under raw/; if LFS is a hassle, delete `.gitattributes` and push plain).
+1. **Get it on GitHub** (private repo `spc-research`). Either link GitHub to Claude once (claude.ai → Settings → Connectors → GitHub) and tell Claude "push it", or locally: `cd spc-research && gh repo create lillycordover14/spc-research --private --source=. --push` (no LFS needed; originals are plain files until raw/ gets large, see HOW-IT-WORKS.md).
 2. **Turn on Actions**: Settings → Actions → "Allow all actions", and Settings → Actions → General → Workflow permissions → "Read and write". Then Actions tab → `sweep` → Run workflow (days=30, sites=true) for the first fill. Check `themes/anip/index/SWEEP-LOG.md` and `QUEUE.md` after.
 3. **Give GrokBot the repo**: repo URL + `GROKBOT-PROMPT.md` pasted as its instructions. If GrokBot has GitHub access, it writes cards directly; if not, it returns JSON and you (or Claude) run `scripts/add_source.py`.
 4. Local use: `pip install -r requirements.txt`, then `make validate && make index`.

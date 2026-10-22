@@ -3,6 +3,12 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-10-22 — Comments: SendCutSend customer asked for certs/CofCs; Belosic: certs already offered, "CoC is coming soon for billet parts"; next sites GA/AL/SC pending incentives; Reno 160k sq ft operational, Pittston 170k in equipment ramp (commenter) [src-20261020-1d0bbb]
+- 2026-10-22 — Comments: Xometry Head of Corp Dev (Anthony Yamson) flags Xometry as missing from Lynch manufacturing-tech map [src-20261012-539c82]
+- 2026-10-22 — Comments: DoD IBAS director Adele Ratcliff publicly endorses Slodov "American Shenzhen" blueprint ("all Manufactung matters") [src-20261022-9367ca]
+- 2026-10-22 — Comments: ACMI says its 1,100-acre National Security Industrial Hub (Indiana) has ~$600M private Phase 1; Prometheus Energetics building HQ there [src-20261022-9367ca]
+- 2026-10-22 — Comments: Lee Cronin (Chemify) says only "one or two" AI-materials startups on the Starodubtsev list ship verifiable matter to customers today [src-20260814-b77f2d]
+- 2026-10-22 — Comments: Bender CCP $35-45/hr machinist post (358K views) draws overwhelming "underpaid" pushback; labor-gap signal [src-20261018-2b4a22]
 - 2026-10-22 — CuspAI: ~30 industry partners (3M, AMD, Applied Materials, Lam, TEL, Kioxia, Samsung, Hyundai, Merck) and ~15 lab partners; synthesis/testing is a partner role, not owned [src-20261022-37a0ea]
 - 2026-10-22 — 1872: website claims 99% first-pass yield, 70% arc-on time, 85% weld cost reduction (no baseline); products are frames, skids, enclosures, modular infrastructure for energy/utility/industrial [src-20261022-fdbf29]
 - 2026-10-22 — Periodic Labs: business model stated as custom AI agents deployed to clients' engineers (first: semiconductor heat dissipation) [src-20261022-682e62]

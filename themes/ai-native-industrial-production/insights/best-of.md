@@ -61,6 +61,8 @@ Also SPC's own framing: RoY 2026 priorities deck, slide 8 [src-20261022-80fd75].
 
 Maps whose count reads "not captured" are LinkedIn posts that blocked fetch. Only their links are filed.
 
+**Comments on the maps, aggregated:** [comments-aggregate.md](comments-aggregate.md): missing companies, who comments, pushback themes, expert leads (raw in `raw/comments/`).
+
 ## (d) Incumbents scoreboard
 
 - **Reliance**: Q3 2026: record sales $5.21B (+42.8% y/y), 1.87M tons, GM 27.9% LIFO, non-GAAP EPS $8.02. Best: [src-20261021-16bb64](https://www.sec.gov/Archives/edgar/data/861884/000117184326006744/exh_991.htm)

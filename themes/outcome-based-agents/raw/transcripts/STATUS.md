@@ -10,3 +10,4 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20250225-e9f1be | YouTube auto captions (en-orig) via yt-dlp | done | 7406 | Accel Spotlight On S3E3: Decagon's Jesse Zhang, How to Win the Agentic |
 | src-20260401-e0ba89 | YouTube auto captions (en-orig) via yt-dlp | done | 8147 | Omni Talk Retail: The Retail Leader's Guide to Agentic AI, Process Map |
 | src-20260611-8fe850 | YouTube auto captions (en-orig) via yt-dlp | done | 1956 | Omni Talk Retail 5IM: The Biggest AI Mistake Is Waiting for Perfect Da |
+| src-20260929-334bba | YouTube auto captions (en-orig) via yt-dlp | done | 2497 | theCUBE: Victor Jakubiuk, Shiv Agarwal and Sri Viswanath at Dell Techn |

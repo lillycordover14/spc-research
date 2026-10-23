@@ -20,3 +20,6 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20260408-5408bb | YouTube auto captions (en-orig) via yt-dlp | done | 3856 | nasscom Conversations: Why Most AI Projects Fail in Enterprises? Rohan |
 | src-20260710-e2a61b | YouTube auto captions (en-orig) via yt-dlp | done | 8080 | From the Horse's Mouth: Phil pods with Rohan Narayana Murty, Founder a |
 | src-20250116-3adb6a | YouTube auto captions via yt-dlp | done | 2867 | PwC India Intelligent Automation Bytes: Process data and automation fu |
+| src-20260813-09fcee | YouTube auto captions via yt-dlp | done | 5103 | Sequoia Capital: When to Build Your Own Agent Harness (Harrison Chase, |
+| src-20260506-041ecf | YouTube auto captions via yt-dlp | done | 5797 | NVIDIA AI Podcast Ep. 297: Harrison Chase of LangChain on Deep Agents, |
+| src-20260629-015aae | YouTube auto captions via yt-dlp | done | 6904 | Why Enterprise AI Adoption Is Slower Than You Think: Aaron Levie (Box) |

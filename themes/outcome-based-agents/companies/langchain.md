@@ -40,6 +40,9 @@ sources:
 - src-20261018-7e9c72
 - src-20261013-1dcd15
 - src-20250514-093b59
+- src-20260813-09fcee
+- src-20260506-041ecf
+- src-20260629-015aae
 data_quality: Benchmark card for the harness layer, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -57,6 +60,9 @@ Benchmark for an independent harness / agent-infrastructure company.
 - 2026-10-21 | langchain: Google Agents CLI first-party LangChain extension [src-20261021-16f218]
 - 2026-10-17 | langchain: Chase: ~30% of LangChain eng salary goes to coding tools; routing belongs in harness [src-20261017-d3bed0]
 - 2026-10-13 | langchain: DXC licenses LangSmith for OASIS [src-20261013-1dcd15]
+- 2026-08-13 | langchain: LangSmith Engine: agent that mines traces into issue boards and proposes harness fixes; Harbor cited as emerging eval standard [src-20260813-09fcee]
+- 2026-06-29 | langchain: Chase hosts Levie at LangChain event; Levie endorses coding-harness backbone (Deep Agents) [src-20260629-015aae]
+- 2026-05-06 | langchain: Joined NVIDIA Nemotron coalition; names agent identity and async sub-agents as next [src-20260506-041ecf]
 
 
 ## Economics (what we know)

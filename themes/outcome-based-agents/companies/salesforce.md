@@ -50,6 +50,7 @@ sources:
 - src-20261017-be23bc
 - src-20250514-093b59
 - src-20250918-7e3ad0
+- src-20260629-015aae
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -65,6 +66,7 @@ Benchmark. Track launches, pricing and customer counts.
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-26 | salesforce: Agentforce Help Agent $2 per resolution pricing [src-20260926-ff7125]
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
+- 2026-06-29 | salesforce: Levie cites Salesforce headless APIs/MCP as symbolic endorsement of headless SaaS [src-20260629-015aae]
 - 2026-06-15 | salesforce: Acquired Fin ~$3.6B, closed 2026-09-10 [src-20260615-74b583]
 - 2026-05-27 | salesforce: Q1 FY27: Agentforce ARR $1.2B +205%, 3.8B Agentic Work Units [src-20260527-478f91]
 - 2026-03-12 | salesforce: Fin (acquired by Salesforce) priced at $0.99 per outcome [src-20260312-1f35f8]

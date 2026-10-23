@@ -180,3 +180,12 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | Charge Robotics | owner-operator | Portable robotic factories assembling solar-farm sections | $22M, Mar 2025 [src-20250312-4ee5bc] | grokbot
 - 2026-10-23 | Tensr | owner-operator | Own 12k sq ft robotic factory building robots/humanoids to order | YC S26 [src-20261023-4f030a] | grokbot
 - 2026-10-23 | Applied Kinetics | owner-operator | AI-native maker of transformers/switchgear/cooling for DCs | YC F26 [src-20261023-dff610] | grokbot
+
+## 1872-like owner-operators, 2026-10-23
+- 2026-10-23 | Hybron | owner-operator | Carbon-fiber composite parts (155mm shells, jet compressor blades), high-pressure molding, own El Segundo plant | Seed $25M, Apr 2026; Marque Ventures [src-20260413-abc797] | grokbot
+- 2026-10-23 | Layup Parts | owner-operator | Software-driven custom carbon-fiber/fiberglass parts, own Huntington Beach factory | Series A $42M, Jun 2026 (seed $9M); Marlinspike (Founders Fund, Lux existing) [src-20260602-a7b79e] | grokbot
+- 2026-10-23 | Foundational Industries | owner-operator | Owns/operates AI-orchestrated factories; first: data-center equipment (racks, power, cooling) | Seed $25M, Aug 2026; BoxGroup, Zigg Capital [src-20260805-ef2085] | grokbot
+- 2026-10-23 | Atlas Motors | owner-operator | Motors/actuators for drones and robots; AI-native design platform tied to own plant | Seed $11.5M, 2026; Greycroft, Also Capital [src-20260801-2041ff] | grokbot
+- 2026-10-23 | Furientis | owner-operator | Mass-producible low-cost interceptor missiles, 1,000 units/factory/yr target | Seed $25M, Oct 2026; Benchmark [src-20261006-410f77] | grokbot
+- 2026-10-23 | Olympus Foundry | owner-operator | Software/simulation-driven low-pressure sand casting of Mg/Al parts for A&D (Rangeview peer), Utah | n/d (founded 2025); n/d [src-20261023-347e7c] | grokbot
+- 2026-10-23 | Sinter | owner-operator | Fast plastics prototype-to-production parts pipeline, El Segundo | YC F26; YC [src-20261022-559ff7] | grokbot

@@ -2,6 +2,8 @@
 
 Curated guide to the strongest sources in this theme. Every flagged source carries the `must-read` tag (filter: `grep -l 'must-read' sources/*/*.md`). Facts below come only from records in this repo; nothing on this page has been checked beyond them. Updated 2026-10-22.
 
+- [Producers comparison: 15 deep dives + long tail](producers-comparison.md)
+
 ## (a) Must-listen podcasts, ranked
 
 1. **Relentless: How to Dominate Manufacturing in the US | Chris Power, Hadrian**: [src-20260921-876080](https://www.youtube.com/watch?v=hmOLr_h7zTk). Power lays out the Hadrian playbook: six factories since 2022, 80% of capex reusable across programs.

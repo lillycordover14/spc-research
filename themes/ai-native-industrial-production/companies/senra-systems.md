@@ -68,8 +68,10 @@ sources:
 - src-20260701-027c1b
 - src-20260715-821445
 - src-20261022-6a57a7
+- src-20260715-9d48e0
+- src-20260128-a16c79
 data_quality: Series B $65M (Jul 2026), total >$112M per press; Harmonic showed $107M total and $493M post (valuation not in press). Headcount ~190 per Wiring Harness News (Jul 2026) vs Harmonic 116. 'US Air Force / Space Force (contracts)' in investors is legacy from the seed file, not confirmed by 2026 sources. Wiring Harness News profile date is July 2026, exact day not shown (recorded as 2026-07-01).
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 ## What they do
@@ -112,3 +114,11 @@ Caveat: the physical build is manual with standard strip/crimp equipment, so tod
 - Ben Shanahan, co-founder, Head of AI & Robotics; wrote Starlink production application software at SpaceX [src-20260715-821445]
 - Ken Venner, CTPO since Jul 2026; ex-SpaceX CIO (Warp Drive), ex-Broadcom [src-20260715-fb79c2][src-20260715-821445]
 - Investors quoted: Caie Kelley (Lowercarbon), Achal Upadhyaya (Interlagos) [src-20260715-fb79c2]
+
+## Deep dive (grokbot, 2026-10-23)
+
+- **Raise:** $65M Series B (Lowercarbon, Interlagos), >$112M total [src-20260715-9d48e0](https://www.senrasystems.us/media/announcing-our-series-b).
+- **Orders:** Anduril, L3Harris, Northrop [src-20260128-a16c79](https://www.assemblymag.com/articles/99817-senra-systems-opens-new-wire-harness-assembly-facility); growth mostly from existing customers and engineers bringing Senra to new employers; repeat runs are 'copy and paste the work order' [src](https://wiringharnessnews.com/company-profile-senra-systems/) - best repeat-order evidence in set.
+- **Right to win:** Amp software turns harness tribal knowledge into data; lead times 6 months to 2 weeks. Compounds as library of builds grows.
+- **Risks:** still manual labor; low-mid volume niche; competition from large harness CMs.
+- **Experts:** Anduril/L3Harris harness buyers; ex-Senra technicians.

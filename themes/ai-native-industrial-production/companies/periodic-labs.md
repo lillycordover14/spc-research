@@ -72,7 +72,7 @@ sources:
 - src-20261001-aafb71
 - src-20250930-d8be97
 data_quality: 'Slide 8: $300M seed. Harmonic: $1.1B raised at $7.5B (2026-06-03). Press: $300M seed at $1.3B (Sep 2025, Felicis lead) then $500M+ at $7.5B led by AMP reported as ''advanced talks'' May 2026 [src-20260514-5796ab]; round amount and lead not confirmed post-close. HQ: Harmonic says Menlo Park, press says San Francisco. Out of SPC range; benchmark only.'
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 ## What they do
@@ -111,3 +111,8 @@ Periodic builds AI scientists and the autonomous labs they operate in: robotic a
 - Named team incl. Dzmitry Bahdanau, Rishabh Agarwal, Muratahan Aykol, Janosh Riebesell, Joe Checkelsky (MIT), Eric Toberer [src-20261022-682e62]
 - Scientific advisory board: Carolyn Bertozzi, Mercouri Kanatzidis, Steve Kivelson, Zhi-Xun Shen, Chris Wolverton [src-20261022-682e62]
 - Investors to ask: Felicis (Peter Deng led seed) [src-20251022-8eb7c0]; NVentures is the one industrial-adjacent strategic.
+
+## Deep dive (grokbot, 2026-10-23)
+
+- ~$1.1B raised incl. $300M seed; autonomous materials labs; first revenue from unnamed semiconductor maker. Not a producer yet; competes for talent with DeepMind.
+- **Experts:** ex-GNoME/DeepMind researchers; semiconductor materials R&D buyers.

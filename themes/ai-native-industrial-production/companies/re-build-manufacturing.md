@@ -34,8 +34,10 @@ sources:
 - src-20241001-28c2aa
 - src-20261022-f423ef
 - src-20250506-249be3
+- src-20240814-7216e5
+- src-20261006-1212f9
 data_quality: ''
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 ## What they do
@@ -54,4 +56,10 @@ Benchmark / incumbent, not a target.
 - 
 
 ## People
-- 
+-
+
+## Deep dive (grokbot, 2026-10-23)
+
+- GC $120M (2024), ~1,200 staff, 12 sites; Rock Hill SC $20M composites plant online Nov 2026 [src-20240814-7216e5](https://www.generalcatalyst.com/stories/our-investment-in-re-build) [src-20261006-1212f9](https://www.sccommerce.com/newsroom/rebuild-expands-york-county-operations).
+- Roll-up comp for Amca, but less AI-native; thermoplastics unit ~$10M revenue (GC job post).
+- **Experts:** former acquired-company owners; A&D composites buyers.

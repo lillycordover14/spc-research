@@ -125,7 +125,7 @@ sources:
 - src-20261014-015327
 - src-20261020-24e35c
 data_quality: Slide 8 shows ~$1.6B Series C; TNW says valuation was ~$1.6B in Jan 2026 and Series C was $260M in Jul 2025 (equity+MS loan), so the $1.6B mark may be a Jan 2026 extension; unresolved. Series D $1.37B at $7.87B (Aug 2026) plus $360M revolver (Aug 17 2026). Headcount 643 from Harmonic; TNW says target 2,000 within a year. Casting/forging/additive claim in the old file is unsourced; sources only evidence CNC machining, inspection, scheduling and submarine assemblies. total_raised_usd from Harmonic, likely includes debt. Founded 2020 (Wikipedia) vs 2021 (TNW).
-updated: '2026-10-22'
+updated: '2026-10-23'
 news_query: '"Hadrian" (factory OR manufacturing OR machining OR Lockheed OR "Chris Power" OR aerospace) -cyber -cybersecurity -testnet -wall'
 match_context:
 - factory
@@ -206,3 +206,9 @@ Hadrian builds and runs highly automated factories that make precision metal com
 ## People
 - Chris Power (Founder, CEO & CPO), Australian [src-20261022-de170d]
 - Thomas Cobbs (co-founder, ex-SpaceX supply chain) per prior file; not confirmed in sources reviewed
+
+## Deep dive (grokbot, 2026-10-23)
+
+- **Orders:** 7-yr Lockheed deal embedding Hadrian cells in a Lockheed missile plant (see insights/incumbents-vs-ai-native.md); Navy sub programs; Series C podcast: Torrance 100k sq ft 'basically filled in a year'.
+- **Right to win:** own factories + Opus software + trained workforce pipeline; compounds via part-library and throughput data. Risk: $7.9B valuation prices in execution; capex intensity; primes could insource.
+- **Expert targets:** Lockheed missiles supply-chain lead; former Hadrian factory ops managers; Navy SUBSAFE supplier quality.

@@ -1,10 +1,10 @@
 # Index stats — AI-native industrial production — 2026-10-23
 
-- sources: 531  | companies: 66 | people: 16
+- sources: 549  | companies: 71 | people: 16
 
 ## Sources by type
 - alphasense: 1
-- article: 285
+- article: 303
 - dataset: 6
 - expert-call: 49
 - filing: 30
@@ -15,8 +15,8 @@
 
 ## Sources by status
 - reviewed: 1
-- summarized: 227
-- unread: 303
+- summarized: 249
+- unread: 299
 
 ## Sources by layer
 - precision-parts: 112
@@ -27,23 +27,23 @@
 - adjacent: 26
 
 ## Companies by layer / status
-- adjacent: 3
+- adjacent: 5
 - fabrication: 7
 - factory-ai: 21
 - materials-rd: 14
-- metals-supply: 10
-- precision-parts: 11
+- metals-supply: 11
+- precision-parts: 13
 
-- status=candidate: 18
+- status=candidate: 23
 - status=competitor: 1
 - status=incumbent: 31
 - status=passed: 1
 - status=tracking: 15
 
 ## Most-mentioned companies
-- hadrian: 60
+- hadrian: 61
+- divergent: 29
 - machina-labs: 28
-- divergent: 26
 - sendcutsend: 24
 - arda: 21
 - periodic-labs: 20

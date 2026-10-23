@@ -84,8 +84,11 @@ sources:
 - src-20250924-22c5ee
 - src-20261022-8629b9
 - src-20260601-976843
+- src-20250915-262bfd
+- src-20261023-e02543
+- src-20261013-eda149
 data_quality: 'Harmonic entity_lookup returned the wrong ''Divergent Technologies'' (a semiconductor test distributor); resolve by domain divergent3d.com. Series E (Sep 2025) confirmed at $290M/$2.3B led by Rochefort; stage set to growth since Series E is not in the stages vocabulary. CEO is now Lukas Czinger (press release Sep 2025); Kevin Czinger''s current title unknown. total_raised_usd not summed: known rounds are $230M Series D (2023) and $290M Series E (2025); earlier rounds unsourced.'
-updated: '2026-10-22'
+updated: '2026-10-23'
 news_query: '"Divergent Technologies" OR Czinger OR ("Divergent" (munitions OR "additive manufacturing" OR L3Harris))'
 match_context:
 - czinger
@@ -141,3 +144,11 @@ Divergent runs DAPS, a production system that pairs in-house AI generative desig
 - Lukas Czinger (Co-founder, CEO as of Sep 2025; previously President & COO) [src-20250915-311606][src-20231115-5d0589]
 - Kevin Czinger (Founder, lead inventor; CEO through Nov 2023) [src-20231115-5d0589]
 - George Biggs (Chief Communications Officer) [src-20250915-311606]
+
+## Deep dive (grokbot, 2026-10-23)
+
+- **Raise:** Series E $290M at $2.3B (Rochefort) [src-20250915-262bfd](https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html). Revenue >5x in 2025; 600+ part numbers.
+- **Orders:** Raytheon Tomahawk midbody is largest contract; CoAspire/FAMM; Long Beach plant for 30k airframes/yr [src-20261023-e02543](https://lbpost.com/news/business/weapons-builder-to-open-missile-frame-factory-in-long-beach/); L3Harris teaming Oct 2026 [src-20261013-eda149](https://investors.l3harris.com/news/news-details/2026/L3Harris-and-Divergent-Sign-Teaming-Agreement-to-Increase-Production-of-Affordable-Mass-Munitions/default.aspx). Strong repeat signal: A&D now ~80% of revenue.
+- **Right to win:** DAPS (gen design + AM + fixtureless assembly) collapses tooling; per-unit pricing, no licensing. Compounds via design library.
+- **Risks:** late-stage (beyond D); AM unit cost at volume; customer concentration on munitions surge.
+- **Experts:** Raytheon Tomahawk supply-chain; ex-Divergent program managers; Triumph buyer.

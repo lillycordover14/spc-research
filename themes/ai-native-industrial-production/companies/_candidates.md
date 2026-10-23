@@ -163,3 +163,7 @@ source: comments. See insights/comments-aggregate.md.
 - **Lila Sciences**: AI Science Factories, $550M raised incl. NVentures [src-20251014-e9c02b]; Series B talks reported (Bloomberg Law, unconfirmed). Stage: Series A.
 - **Orbital Industries**: CurieOS AI materials platform licensed by BASF ECMS [src-20261022-edad3e]; stage unknown.
 - **Fabri**: automated investment casting, $13.5M incl. RTX Ventures and Lockheed Martin Ventures [src-20260630-cc821c]; early stage.
+- 2026-10-23 | Mach Industries | defense-production | Flexible unmanned-systems/munitions manufacturing in own factories | $600M Series C continuation Sep 2026 (Infinite, Ribbit, Bedrock) [src-20261023-45cc33] | https://newmarketpitch.com/blogs/news/defense-tech-top-startups-fundraising | grokbot
+- 2026-10-23 | Castelion | defense-production | Mass-produced hypersonic missiles, vertically integrated | $800M Series C Aug 2026 (JPMorgan, a16z, Carlyle) [src-20261023-45cc33] | https://newmarketpitch.com/blogs/news/defense-tech-top-startups-fundraising | grokbot
+- 2026-10-23 | Saronic | shipbuilding | Autonomous vessels built in own Port Alpha shipyard | $1.75B Series D at $9.25B Mar 2026 [src-20261023-45cc33] | https://tools.prnewswire.com/en-us/live/20823/release/20260331EN21888 | grokbot
+- 2026-10-23 | Radian Forge | shipbuilding (parts) | Large-format WAAM naval components, Portsmouth VA | $2.5M seed Sep 2026 (Veteran Ventures) [src-20260915-b6482a] | https://radianforge.com | grokbot

@@ -63,7 +63,7 @@ sources:
 - src-20261009-404b9b
 - src-20260910-4d6c06
 data_quality: 'Harmonic best match (urn:harmonic:company:62395481) is a DIFFERENT company (Bitterroot Valley fab shop); resolve by domain noxmetals.co. Headcount conflict: YC page says 52, Built In LA says 11 (Oct 2026). Daily Detroit (Jun 2026) says company is ~7 months old, which conflicts with YC S25 launch (Aug 2025); treat founded as 2025. Total raised = $4.6M pre-seed (Michigan Enjoyer) + $11.5M seed; Seedtable date 2026-06 matches YC news item 2026-06-14. $1.5B etc. not applicable.'
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 ## What they do
@@ -110,3 +110,7 @@ Nox Metals is a Detroit (YC S25) metals service center rebuilt as an owner-opera
 - Zane Hengsperger, founder and CEO; UMich 2022, from Windsor, Ontario; father owned a machine shop; Lilly met Sep 2026 [src-20251110-b1acae] [src-20261022-2aabbe]
 - YC partner: Jared Friedman [src-20261022-2aabbe]
 - Lead investor: Hyperion (NYC) [src-20260616-1cf7cb]
+
+## Deep dive (grokbot, 2026-10-23)
+
+- Seed $11.5M (Hyperion, Jun 2026), $16.1M total; automated aluminum cut-to-size service center; quotes in minutes. Customers undisclosed. Early but clear wedge vs Ryerson/Reliance.

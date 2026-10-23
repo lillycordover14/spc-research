@@ -65,7 +65,7 @@ sources:
 - src-20260728-c48435
 - src-20260909-524e7c
 data_quality: 'Identity: this is TerraFirma Inc (terrafirma.inc), Austin robotic earthworks, founded 2024 per its own PR (Harmonic had 2023). Searched for a metals/refining/manufacturing ''Terrafirma'' an investor might mean instead; none found. Other name collisions: TerraFirma Health (Harmonic), Terra Firma Capital Partners (UK PE firm), neither relevant. Valuation: Harmonic estimated $500M post; not disclosed, left null. Anduril/Hadrian/SpaceX/Base Power are angel individuals from those companies per the PR, not corporate investors [src-20260714-976329]. Headcount 38 is Harmonic.'
-updated: '2026-10-22'
+updated: '2026-10-23'
 news_query: '"TerraFirma" (construction OR excavator OR autonomous OR robotics OR earthmoving) -PBA -basketball'
 match_context:
 - construction
@@ -112,3 +112,8 @@ TerraFirma is a contractor, not an equipment vendor. It converts off-the-shelf e
 - Noah Schochet, co-founder & CEO (ex-SpaceX Starlink/Starshield/Starship; Princeton) [src-20260714-976329]
 - Noah McGuinness, co-founder & CTO (ex-SpaceX; Princeton) [src-20260714-976329]
 - Josh Coyne, Kleiner Perkins partner, led the Series A [src-20260714-976329]
+
+## Deep dive (grokbot, 2026-10-23)
+
+- $100M (Kleiner, Jul 2026), $115M total; remote/autonomous earthmoving it self-performs. Customers: Texas commercial sites and unnamed USG infrastructure.
+- Adjacent to factories; right to win is operator productivity. Risk: construction cyclicality.

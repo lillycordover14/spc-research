@@ -66,7 +66,7 @@ sources:
 - src-20261021-da5fb5
 - src-20260107-c03729
 data_quality: Slide 8 shows $67M Series A; TechCrunch (Feb 2026) calls the $67M a Series B and Harmonic shows Series B at $179M valuation. Legal name Freeform Future Corp. Headcount 66 from Harmonic; TechCrunch says up to 100 hires planned. DIU award value undisclosed.
-updated: '2026-10-22'
+updated: '2026-10-23'
 news_query: '"Freeform" ("metal 3D printing" OR "additive manufacturing" OR Palitsch OR "metal parts" OR laser) -TV -series -episode'
 match_context:
 - additive
@@ -116,3 +116,9 @@ Freeform designs and builds its own laser powder-bed metal printers and operates
 - Erik Palitsch (Founder & CEO; SpaceX propulsion, ran Merlin and Raptor programs) [src-20261022-81b3ed][src-20260219-2125d7]
 - T.J. (Thomas) Ronacher (Co-founder, President; departed by Feb 2026) [src-20260219-2125d7]
 - Cameron Kay (Head of Talent) [src-20260219-2125d7]
+
+## Deep dive (grokbot, 2026-10-23)
+
+- $67M (Feb 2026), $126M total; DIU OTA Jul 2026. Owns its multi-laser AM machines with real-time ML melt control.
+- **Right to win:** machine + process data loop vendor printers lack. Risk: AM qualification time; customers mostly unnamed.
+- **Experts:** DIU program office; rocket-engine propulsion buyers.

@@ -71,7 +71,7 @@ sources:
 - src-20260504-36655f
 - src-20251022-2dba44
 data_quality: 'Slide 8: $450M Series B. Harmonic: $980M total at $2.6B (2026-07); Dealroom profile says $580M total ($30M seed + $100M+ Series A Sep 2025 + $450M Series B), which reconciles with press, so $580M used here [src-20260720-02f3fe]. NVIDIA/Samsung/Hyundai appear in Harmonic as investors and on cusp.ai as Foundry partners; investor status unconfirmed in press. Founders'' prior roles from Harmonic, not re-sourced.'
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 ## What they do
@@ -110,3 +110,8 @@ CuspAI pairs generative AI with molecular simulation to design new materials and
 - Max Welling, co-founder [src-20260720-840ae3]
 - Board: Yann LeCun, Geoffrey Hinton [src-20260720-840ae3]
 - Partner execs on record: Ian Buck (Nvidia), Rob Fergus (Meta FAIR), Yu Cao (Applied Materials), David Fried (Lam), Sumie Segawa (Tokyo Electron), Patrick Vandenameele (imec) [src-20261022-37a0ea]
+
+## Deep dive (grokbot, 2026-10-23)
+
+- $580M raised; AI Materials Foundry with 45+ partners (Applied, Lam, TEL, Samsung, 3M). Software-first; lacks owned production - partner-funded validation.
+- **Experts:** foundry consortium member R&D leads.

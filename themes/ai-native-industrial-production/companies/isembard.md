@@ -78,7 +78,7 @@ sources:
 - src-20260310-cdfd82
 - src-20260909-b547c7
 data_quality: Headcount 66 per Tech.eu Aug 2026 vs 76 per Harmonic; total raised $59M = $9M seed + $50M A plus undisclosed debt for owned factories; Series A valuation not disclosed (Harmonic estimates ~$250M); seed investor 'Foreword Fund' appears as 'Forward Fund' in Resilience Media; owned vs franchised split of the 14 factories not disclosed.
-updated: '2026-10-22'
+updated: '2026-10-23'
 ---
 
 ## What they do
@@ -128,3 +128,9 @@ Isembard runs a network of small precision-machining factories (CNC milling and 
 - Alexander Fitzgerald, Founder & CEO: age 33, sole founder; Cuckoo broadband founder (sold to Octopus 2022), HM Treasury, Hanbury Strategies, Army reservist [src-20260810-f0371c]
 - Shawn Rowcliffe, first franchisee, ex-Babcock machine operator [src-20260810-f0371c]
 - Investors on record: Rebecca Kaden (USV), Stephen Millard (Notion Capital) [src-20260310-45bab3] [src-20260810-f0371c]
+
+## Deep dive (grokbot, 2026-10-23)
+
+- Series A $50M (USV lead, Mar 2026); customers Anduril, Tekever, ARX, UK Gov. Podcast: primes 'not ordering in large enough orders that you can sort of predict forward' - weak repeat visibility.
+- **Right to win:** sovereign UK/EU capacity, software-defined machining network. Risk: smaller defense budgets; order lumpiness.
+- **Experts:** BAE/Rolls-Royce supply-chain buyers; Tekever procurement.

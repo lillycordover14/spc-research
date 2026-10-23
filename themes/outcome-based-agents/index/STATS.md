@@ -1,54 +1,55 @@
 # Index stats — Outcome-based agents and agentic orchestration — 2026-10-23
 
-- sources: 290  | companies: 19 | people: 0
+- sources: 341  | companies: 44 | people: 0
 
 ## Sources by type
 - alphasense: 4
-- article: 197
+- article: 213
 - dataset: 2
 - filing: 11
-- market-research: 17
+- market-research: 34
+- other: 11
 - podcast: 45
-- website: 14
+- website: 21
 
 ## Sources by status
-- summarized: 255
+- summarized: 306
 - unread: 35
 
 ## Sources by layer
-- vertical-outcome: 116
-- harness-infra: 76
-- model-labs: 65
-- orchestration: 57
-- work-context: 41
-- services: 37
+- vertical-outcome: 140
+- harness-infra: 77
+- orchestration: 69
+- model-labs: 66
+- services: 53
+- work-context: 45
 - adjacent: 23
 
 ## Companies by layer / status
 - harness-infra: 1
 - model-labs: 5
-- orchestration: 6
-- services: 2
-- vertical-outcome: 3
-- work-context: 2
+- orchestration: 10
+- services: 11
+- vertical-outcome: 13
+- work-context: 4
 
 - status=competitor: 3
-- status=incumbent: 13
+- status=incumbent: 38
 - status=tracking: 3
 
 ## Most-mentioned companies
-- anthropic: 35
-- openai: 33
-- salesforce: 28
+- anthropic: 36
+- openai: 34
+- salesforce: 30
 - microsoft: 20
-- sierra: 19
-- servicenow: 15
-- langchain: 14
+- sierra: 20
+- servicenow: 17
+- langchain: 15
 - decagon: 13
 - duvo: 12
+- accenture: 11
 - aws: 8
-- accenture: 8
 - deloitte: 8
+- uipath: 5
 - sycamore: 4
 - google: 4
-- uipath: 4

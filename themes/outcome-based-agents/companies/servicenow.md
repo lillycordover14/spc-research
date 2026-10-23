@@ -46,6 +46,8 @@ sources:
 - src-20260417-a917fe
 - src-20260506-9d785e
 - src-20260507-e6c2cd
+- src-20260826-580137
+- src-20260925-e06e0a
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -59,6 +61,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-08-26 | servicenow: Salesforce says Agentforce IT Service has 450+ customers including conversions from ServiceNow [src-20260826-580137]
 - 2026-10-21 | servicenow: Arc personal agent GA with Nvidia; AI Passport and Control Tower [src-20261021-bf34b8]
 - 2026-10-21 | servicenow: ServiceNow Arc GA on Nvidia OpenShell [src-20261021-4e9ddf]
 - 2026-10-13 | servicenow: Reported early talks to buy Decagon; ServiceNow says not ongoing [src-20261013-6d4b75]

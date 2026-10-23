@@ -59,6 +59,8 @@ sources:
 - src-20260908-2d6352
 - src-20250626-7b75cf
 - src-20260915-68c6ef
+- src-20260826-0b53e8
+- src-20260826-580137
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -72,6 +74,8 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-08-26 | salesforce: Q2 FY27: Agentforce ARR $1.5B+ (+240%, now incl. Slackbot and Headless 360); Agentforce plus Data 360 ARR ~$3.9B; 3.2B AWUs in quarter [src-20260826-0b53e8]
+- 2026-08-26 | salesforce: 2,000 paying customers added into production (+70% QoQ); 50% of bookings are Flex Credit refills; $40M customer offered outcome deal or ILA; Claudeforce with Anthropic [src-20260826-580137]
 - 2026-09-26 | salesforce: Agentforce Help Agent $2 per resolution pricing [src-20260926-ff7125]
 - 2026-09-18 | salesforce: Dreamforce 2026: headless platform, ZDR with Anthropic/OpenAI, Slack as control plane [src-20260918-ddaf3a]
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
@@ -86,6 +90,8 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->
+- Q2 FY27 update: 50% of bookings from Flex Credit refills; outcome deals offered case by case (a $40M customer offered outcome deal or ILA) [src-20260826-580137]
+- Unit options per Benioff: user, agent, consumption, transaction outcome or business outcome; verification, audit, renewal and gross margin after inference n/v [src-20260826-580137]
 - Pricing unit: Flex Credits, per conversation, or per user; sales agents moving to qualified leads or booked orders [src-20260527-478f91] [src-20260909-c1900d]
 - Price points: Agentforce 1 Edition $550 per seat vs ~$1,300 point-solution spend; premium SKUs 60-80% uplift, ~5% of base [src-20260909-c1900d]
 - Fin (acquired, ~$3.6B): $0.99 per outcome, 50/month minimum, $19 helpdesk seat, Copilot $35/user [src-20260312-1f35f8] [src-20260615-74b583]

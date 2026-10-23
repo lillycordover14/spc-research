@@ -54,6 +54,10 @@ sources:
 - src-20260921-f28021
 - src-20251001-78dba6
 - src-20260918-ddaf3a
+- src-20241218-3282c7
+- src-20260507-e6c2cd
+- src-20260915-68c6ef
+- src-20250918-6feaa4
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---

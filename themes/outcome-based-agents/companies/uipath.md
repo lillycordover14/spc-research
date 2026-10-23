@@ -34,6 +34,7 @@ sources:
 - src-20260526-3c3aa7
 - src-20260921-f28021
 - src-20251001-78dba6
+- src-20241218-3282c7
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -49,6 +50,7 @@ Benchmark. Track launches, pricing and customer counts.
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-21 | uipath: Launching cartography discipline and cartographer agent; Gartner BOAT leader; ~1.6B revenue growing ~14% [src-20260921-f28021]
 - 2025-10-01 | uipath: Considering outcome-based deals; claims bake-off wins vs Salesforce/ServiceNow/Microsoft [src-20251001-78dba6]
+- 2024-12-18 | uipath: CEO Daniel Dines says agent builder launched in private preview and UiPath will orchestrate third-party agents [src-20241218-3282c7]
 
 
 ## Economics (what we know)

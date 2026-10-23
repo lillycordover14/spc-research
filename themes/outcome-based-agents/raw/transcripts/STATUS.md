@@ -26,3 +26,14 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20251001-78dba6 | YouTube auto captions via yt-dlp | done | 3163 | theCUBE: Daniel Dines, UiPath, at UiPath Fusion 2025 |
 | src-20260417-a917fe | YouTube auto captions via yt-dlp | done | 9597 | No Priors: Scaling Global Organizations in the Age of AI with ServiceN |
 | src-20260918-ddaf3a | YouTube auto captions via yt-dlp | done | 7375 | Marc Benioff with the Hosts of All-In, Dreamforce 2026 |
+| src-20241218-3282c7 | YouTube auto captions (en-orig) via yt-dlp | done | 9832 | 20VC E1240: Daniel Dines, UiPath CEO and Founder: Why Agents Do Not Me |
+| src-20260908-2d6352 | YouTube auto captions (en-orig) via yt-dlp | done | 6047 | Six Five Media: Marc Benioff, The Next AI Shift Is Bigger Than Agents |
+| src-20250626-7b75cf | YouTube auto captions (en-orig) via yt-dlp | done | 4397 | Bloomberg Originals, The Circuit: Marc Benioff's Race to One Billion A |
+| src-20260506-9d785e | YouTube auto captions (en-orig) via yt-dlp | done | 351 | CNBC: ServiceNow CEO on AI, agents have picked up work that would have |
+| src-20260507-e6c2cd | YouTube auto captions (en-orig) via yt-dlp | done | 11941 | ServiceNow Knowledge 2026 Opening Keynote: Welcome to Agentic Business |
+| src-20260615-6e3dba | YouTube auto captions (en-orig) via yt-dlp | done | 10662 | CXOTalk: Aaron Levie, Box CEO, Advice for CIOs on AI Agents |
+| src-20260915-68c6ef | YouTube auto captions (en-orig) via yt-dlp | done | 14846 | Sequoia Capital: Box's Aaron Levie on Reinventing Yourself in the AI A |
+| src-20250918-6feaa4 | YouTube auto captions (en-orig) via yt-dlp | done | 9220 | Big Technology Podcast: Are 95% of Businesses Really Getting No Return |
+| src-20260504-0c7955 | YouTube auto captions (en-orig) via yt-dlp | done | 8793 | The Deep View: Alexander Rinke, Why process intelligence is the missin |
+| src-20251105-fde118 | YouTube auto captions (en-orig) via yt-dlp | done | 3298 | theCUBE: Alex Rinke, Celonis, at Celosphere 2025 |
+| (not filed) RrWPyj-Xlh4 | YouTube auto captions (en-orig) via yt-dlp | skipped | 6821 | MAD Podcast: Bootstrapping a Decacorn on $15k with Celonis CEO Alex Rinke (2024-02-08); founder story, no agent, pricing or harness facts not already filed |

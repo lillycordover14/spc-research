@@ -47,6 +47,7 @@ sources:
 - src-20261021-7532a5
 - src-20261021-776c89
 - src-20261022-d0a3a2
+- src-20260909-c1900d
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -60,6 +61,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
 
 
 ## Economics (what we know)

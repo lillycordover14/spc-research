@@ -34,6 +34,7 @@ sources:
 - src-20260422-d312c6
 - src-20260422-1f1ec3
 - src-20260929-2fdd0f
+- src-20260402-8d84cb
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -47,6 +48,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-04-02 | servicenow: Wawa CIO (expert call) rates Now Assist poorly, testing Moveworks add-on, questions long-term need for ServiceNow [src-20260402-8d84cb]
 
 
 ## Economics (what we know)

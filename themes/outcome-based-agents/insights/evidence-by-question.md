@@ -10,12 +10,15 @@ Questions are defined in `questions.md`.
 - 2026-06-28 | HP, a Frontier launch adopter, was still moving 'from pilots toward production' in Jun 2026 with use cases being refined [src-20260628-930f51]
 - 2026-06-16 | Over half of the Fortune 500 using Cowork is a vendor-reported breadth signal for long-running agents in knowledge work [src-20260616-28211f]
 - 2026-04-22 | Customer counts like 800 to 1,000+ agents at a single enterprise and 40% QoQ paid MAU growth are vendor-reported adoption data points for agent deployment breadth [src-20260422-d312c6]
+- 2026-04-02 | Wawa CIO (AlphaSense, interview 2026-04-02): 30-50% of ITSM work agent-addressable today; still testing ServiceNow plus Moveworks, not in production [src-20260402-8d84cb]
 - 2026-02-05 | Frontier first adopters HP, Intuit, Oracle, State Farm, Thermo Fisher and Uber; BBVA, Cisco and T-Mobile piloted; OpenAI says the blocker is how agents are built and run, not model intelligence [src-20260205-ea19f4]
 
 ## Q2. Outcome pricing, real or rhetoric
 - 2026-10-22 | Agent payments via x402 and wallets suggests hyperscalers expect agents to transact per task, an enabling rail for per-outcome or per-task pricing [src-20261022-a0f852]
 - 2026-10-21 | Bundling Duet into existing Pro and Max limits shows labs pricing agent labor inside subscriptions, making standalone per-task pricing harder for SMB-focused startups [src-20261021-7532a5]
 - 2026-10-08 | SDR agent billed in Copilot credits is consumption pricing for digital labor, closer to per-task than per-seat, but still not per-outcome [src-20261008-5bb82b]
+- 2026-10-07 | Gamma Communications markets AI Concierge (FAQ, intake, booking agents) as 'outcome-based agents' with no outcome pricing disclosed: the term is being used loosely [src-20261007-fc84b0]
+- 2026-09-09 | Salesforce (GS Communacopia, 2026-09-09): premium agentic SKUs ~5% of installed base at 60-80% uplift; sales agents moving to paying for qualified leads or booked orders [src-20260909-c1900d]
 - 2026-08-26 | Google is moving agent pricing from seats toward consumption (PAYG, pooled quotas, off-peak batch at half price), but not to outcomes; outcome-based pricing remains an app-layer opportunity on top of usage-priced labs [src-20260826-c6c4b5]
 - 2026-06-16 | Microsoft layered consumption pricing (credits metered on model use, tool calls and runtime) on top of a seat, a hybrid that shows the shift from seats toward usage-based agent labor but not to per-outcome pricing [src-20260616-28211f]
 - 2026-05-19 | A rubric-plus-grader 'outcomes' primitive makes it technically easy to define and verify a unit of completed work, the precondition for outcome-based pricing by apps built on the lab [src-20260519-55cca6]
@@ -27,14 +30,18 @@ Questions are defined in `questions.md`.
 - 2026-10-14 | Graduated access based on trace review is a lab-endorsed answer to the trust blocker for production agents [src-20261014-2e6208]
 - 2026-10-08 | Google naming governance and affordability as the two gating factors is a lab-side read on production blockers [src-20261008-d5cbe2]
 - 2026-10-02 | Treating FDE talent as the scaling constraint confirms deployment skill, not model capability, is the main blocker to production [src-20261002-8d9e4f]
+- 2026-05-07 | Rackspace (TFiR, 2026-05-07) names data aggregation from legacy systems and standing up the AI ecosystem as the main production blockers; regulated healthcare customers refuse public cloud [src-20260507-288237]
+- 2026-04-02 | Wawa CIO: only ~20% of IT issues are ever logged as tickets, so the ticket system itself limits what agents can see [src-20260402-8d84cb]
 - 2026-03-12 | Services capacity, not model access, is treated as the bottleneck to production, consistent with pilot-to-production being the main blocker [src-20260312-73c25c]
 - 2026-03-09 | OpenAI calls evaluation, security and compliance 'foundational requirements' for AI coworkers in real workflows [src-20260309-b2ac14]
 
 ## Q4. Whose budget
 - 2026-10-22 | Letting Managed Agents and the full agent toolkit draw down Google Cloud commitments removes the procurement friction that favored hyperscaler-native harnesses, extending the lab's harness into cloud budgets [src-20261022-d0a3a2]
 - 2026-10-21 | Budget for these agents likely comes from existing managed-services and BPO contracts rather than new IT software lines [src-20261021-776c89]
+- 2026-09-09 | Salesforce says outcome deals are funded either from the savings themselves or from revenue-line metrics (qualified leads, booked orders) [src-20260909-c1900d]
 - 2026-08-26 | Explicit 'never pay for empty seats' language signals seat compression pressure even at the platform layer, and per-project caps let agent spend be charged back to departments rather than central IT [src-20260826-c6c4b5]
 - 2026-05-01 | Per-user licensing for agent governance keeps agent spend inside IT and security budgets [src-20260501-fc687c]
+- 2026-04-02 | Wawa CIO sizes AI add-ons at ~20% of core ITSM platform cost, from IT budget, under pressure from rising SaaS costs [src-20260402-8d84cb]
 - 2026-03-09 | Budget for agent governance lands in the IT and security line via the M365 agreement, not in BPO or headcount budgets [src-20260309-f391cf]
 
 ## Q5. Who builds the harness
@@ -44,12 +51,15 @@ Questions are defined in `questions.md`.
 - 2026-10-21 | FDE-staffed sandboxes on client systems show the SI is the harness builder for regulated enterprises, with the lab supplying models and agent runtime [src-20261021-776c89]
 - 2026-10-02 | The lab is industrializing the forward-deployed engineer role and seeding it into SIs and large enterprises (Morgan Stanley, CBA, Novo Nordisk), so in-house teams and SIs, not startups, become the default harness builders [src-20261002-8d9e4f]
 - 2026-09-29 | OpenAI is integrating specialist dots into Microsoft Agent 365 governance and shipping OpenAI agents inside Bedrock, splitting the harness between lab (agent) and platform owner (governance, cloud) [src-20260929-2fdd0f]
+- 2026-09-09 | Salesforce partners with Anthropic (Claudeforce) and positions Agentforce as orchestrator of specialized agents (Fin, Piper), i.e. system of record as harness [src-20260909-c1900d]
 - 2026-06-28 | HP picked OpenAI Frontier as its unified agent control plane (what runs, context, governance, evaluation) after a Feb to Jun 2026 evaluation [src-20260628-930f51]
 - 2026-05-12 | Law firms co-developing workflows directly with Anthropic (Freshfields, Quinn Emanuel) show the enterprise and the lab building the harness together without a vertical vendor in between [src-20260512-5c6e2d]
+- 2026-05-07 | Rackspace sells FDE pods plus private cloud with Palantir and Uniphore as 'AI outcome platforms', a services-led harness model [src-20260507-288237]
 - 2026-05-05 | Shipping the same template as a Cowork plugin and as a Managed Agents cookbook shows the lab wants to own both the end-user surface and the programmatic harness for back-office agents [src-20260505-1c452a]
 - 2026-04-22 | Google is positioning the cloud provider, not the enterprise or the SI, as the default orchestration and governance harness, with the employee app as the distribution surface [src-20260422-1f1ec3]
 - 2026-04-22 | Google's answer to who builds the harness is lab FDE teams embedded inside the big SIs (Accenture, Deloitte, PwC, TCS and others), confirming the lab-plus-SI deployment model [src-20260422-d312c6]
 - 2026-04-08 | With the harness priced at $0.08 per session-hour on top of tokens, the lab is the default harness builder for app companies like Notion, Asana and Atlassian; independent harness vendors must win on multi-model neutrality or on-prem control [src-20260408-e5d37b]
+- 2026-04-02 | Wawa CIO prefers multiple vendors' agents over a single platform and keeps architects in-house, i.e. the enterprise assembles the harness [src-20260402-8d84cb]
 - 2026-03-12 | Anthropic is subsidizing SIs ($100M, 5x partner engineers) to do the last-mile deployment rather than building a large in-house services arm, so the harness for most enterprises will be assembled by Accenture, Deloitte, Cognizant and Infosys on lab primitives [src-20260312-73c25c]
 - 2026-02-24 | Department templates for HR, sales (Apollo, Clay, Outreach connectors) and legal (Harvey, LegalZoom, Docusign) mean the lab plus SaaS vendors' own plugins are building the departmental harness, leaving room mainly for vendors who own the data or the outcome [src-20260224-a28ce9]
 - 2026-02-23 | OpenAI Frontier Alliances (BCG, McKinsey, Accenture, Capgemini) pair certified SI practice groups with OpenAI FDEs, so the large-enterprise harness is lab platform plus SI delivery [src-20260223-9272a6]
@@ -102,18 +112,22 @@ Questions are defined in `questions.md`.
 - 2026-10-08 | An AI-driven migration tool aimed at legacy CRM (Comcast's quote references Salesforce) shows agents being used as a wedge to displace incumbent systems of record, not just sit on top of them [src-20261008-5bb82b]
 - 2026-10-08 | Giving agents their own Workspace identity and mailbox makes the productivity suite owner the natural home for 'digital coworker' agents, a strong position for incumbents holding identity and documents [src-20261008-d5cbe2]
 - 2026-09-29 | OpenAI Marketplace lets enterprises spend OpenAI commitments on 32 partners including Salesforce, ServiceNow, Sierra and Decagon, so labs distribute systems of record and vertical apps rather than displace them [src-20260929-2fdd0f]
+- 2026-09-09 | Salesforce rejects the headless-CRM bear case: CRM metadata encodes company knowledge; work shifting to Slack and Claude still increases CRM work volume [src-20260909-c1900d]
 - 2026-06-16 | A system-of-work incumbent wrapping Anthropic's models and Cowork pattern, then undercutting Claude Cowork on price by 30 to 40% with its own fine-tuned model, shows the harness owner with the data (Work IQ) can commoditize the model lab [src-20260616-28211f]
 - 2026-05-05 | FIS embedding Claude so its clients need not build infrastructure suggests the system of record plus lab combination, not a standalone vertical agent, captures many bank deployments [src-20260505-1c452a]
 - 2026-04-22 | Systems of record (Salesforce, ServiceNow, Workday, Oracle) are partners distributing agents into Gemini Enterprise rather than being displaced [src-20260422-d312c6]
+- 2026-04-02 | Wawa CIO calls ServiceNow 'just a bunch of data' and asks whether agents could replace it; rates Now Assist as not doing the job [src-20260402-8d84cb]
 - 2026-02-24 | Systems of record (Salesforce via Slack, FactSet, S&P, LSEG) chose to ship as plugins inside Claude rather than resist, suggesting the defensible asset is proprietary data access, not the agent shell [src-20260224-a28ce9]
 
 ## Q9. Horizontal players, investable
 
 ## Q10. Vertical players, investable
 
+- 2026-10-07 | Telecom channels (Gamma) now bundle SMB booking and intake agents, commoditizing SMB front-desk agent startups [src-20261007-fc84b0]
 ## Q11. Unit economics
 - 2026-10-02 | FDE-heavy agent startups face a lab-trained talent pool at their customers, which compresses the services premium and pushes them toward product-led, outcome-priced models [src-20261002-8d9e4f]
 - 2026-09-10 | The lab prices its managed harness at zero (tokens and tools only), so standalone harness vendors cannot charge for the agent loop itself [src-20260910-014b24]
+- 2026-09-09 | Agentforce 1 Edition $550 per seat consolidates ~$1,300 of US sales-rep point-solution spend [src-20260909-c1900d]
 - 2026-08-26 | Off-peak deferred execution at up to half the inference cost lowers COGS for async back-office agents, improving gross margins for outcome-priced vertical players [src-20260826-c6c4b5]
 
 ## Q12. Exit paths
@@ -122,6 +136,7 @@ Questions are defined in `questions.md`.
 - 2026-03-09 | Promptfoo sold to OpenAI after raising $23M at an $86M valuation (Jul 2025, PitchBook via TechCrunch): lab tuck-in is the exit for harness-infra point tools [src-20260309-b2ac14]
 ## Q13. F500 heads of AI / automation (calls)
 
+- 2026-04-02 | Wawa CIO call shows the F500 buyer questions to ask: unlogged-issue share, add-on AI budget as % of platform, satisfaction with incumbent agents [src-20260402-8d84cb]
 ## Q14. SI practice leads (calls)
 
 - 2026-02-23 | Each of the four Frontier Alliance SIs is building a dedicated, OpenAI-certified practice group, the natural pool for SI practice-lead calls [src-20260223-9272a6]

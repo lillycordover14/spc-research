@@ -29,8 +29,11 @@ For every source and call, note which world the evidence points to. The readout 
 <!-- one line per source or call, newest first: `<date> <source> -> world N because ... [src-id]` -->
 - 2026-09-29 OpenAI DevDay 2026 -> world 1 because OpenAI offers always-on agents plus specialist role agents with identity, positioning itself as the enterprise agent provider, while delegating governance to Microsoft [src-20260929-2fdd0f]
 - 2026-09-10 OpenAI Agents API -> world 1 because OpenAI gives away its production harness to developers, making the harness a lab feature [src-20260910-014b24]
+- 2026-09-09 Salesforce GS Communacopia (AlphaSense) -> world 2 because Salesforce runs agents on its own CRM data and Slack context, partnering with Anthropic for models and orchestrating Fin and Piper [src-20260909-c1900d]
 - 2026-07-22 OpenAI Presence -> world 1 because the lab ships a complete vertical CX agent with its own harness, deployed by its FDEs and SIs [src-20260722-a3993b]
 - 2026-06-28 HP Frontier partnership -> world 1 because HP standardizes agent governance and evaluation on the lab platform [src-20260628-930f51]
+- 2026-05-07 Rackspace TFiR (AlphaSense) -> world 4 because a managed-services provider embeds FDE pods and runs the agent stack for regulated customers [src-20260507-288237]
+- 2026-04-02 Wawa CIO expert call (AlphaSense) -> world 3 because the CIO wants to combine multiple vendors' agents himself and questions whether the ITSM system of record is needed [src-20260402-8d84cb]
 - 2026-02-23 OpenAI Frontier Alliances -> world 4 because OpenAI relies on McKinsey, BCG, Accenture and Capgemini to assemble Frontier deployments per client, with the lab owning the platform (worlds 1 and 4 combined) [src-20260223-9272a6]
 - 2026-02-05 OpenAI Frontier launch -> world 1 because OpenAI positions Frontier as the one platform that runs and governs every agent, including third-party ones [src-20260205-ea19f4]
 

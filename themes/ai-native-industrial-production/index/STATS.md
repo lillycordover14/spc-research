@@ -15,8 +15,8 @@
 
 ## Sources by status
 - reviewed: 1
-- summarized: 223
-- unread: 307
+- summarized: 227
+- unread: 303
 
 ## Sources by layer
 - precision-parts: 112

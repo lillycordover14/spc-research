@@ -28,3 +28,5 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20250821-666ad1 | YouTube auto captions via yt-dlp | done | 14378 | Lenny's Podcast: How Intercom rose from the ashes by betting everythin |
 | src-20260921-f28021 | YouTube auto captions via yt-dlp | done | 12486 | 20VC: Daniel Dines on Why AI Can't Replace Humans in Enterprise & Why  |
 | src-20251001-78dba6 | YouTube auto captions via yt-dlp | done | 3163 | theCUBE: Daniel Dines, UiPath, at UiPath Fusion 2025 |
+| src-20260417-a917fe | YouTube auto captions via yt-dlp | done | 9597 | No Priors: Scaling Global Organizations in the Age of AI with ServiceN |
+| src-20260918-ddaf3a | YouTube auto captions via yt-dlp | done | 7375 | Marc Benioff with the Hosts of All-In, Dreamforce 2026 |

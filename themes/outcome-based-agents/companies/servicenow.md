@@ -43,6 +43,7 @@ sources:
 - src-20260722-d4586c
 - src-20250514-093b59
 - src-20251001-78dba6
+- src-20260417-a917fe
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -62,6 +63,7 @@ Benchmark. Track launches, pricing and customer counts.
 - 2026-10-13 | servicenow: Zavery: no interest in buying Decagon; no major gaps needing large M&A [src-20261013-d7909a]
 - 2026-10-13 | servicenow: DXC OASIS orchestrates over ServiceNow rather than replacing it [src-20261013-1dcd15]
 - 2026-07-22 | servicenow: AI ACV >$1B in Q2 2026; Q3 results 2026-10-28 [src-20260722-d4586c]
+- 2026-04-17 | servicenow: 90% of internal CS cases by agents; control tower pitch; 10x rebuild-cost claim; consumption model [src-20260417-a917fe]
 - 2026-04-02 | servicenow: Wawa CIO (expert call) rates Now Assist poorly, testing Moveworks add-on, questions long-term need for ServiceNow [src-20260402-8d84cb]
 - 2025-10-01 | servicenow: Named as bake-off rival by UiPath [src-20251001-78dba6]
 

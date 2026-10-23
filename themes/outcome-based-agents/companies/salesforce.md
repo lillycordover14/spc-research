@@ -54,6 +54,7 @@ sources:
 - src-20250821-666ad1
 - src-20260921-f28021
 - src-20251001-78dba6
+- src-20260918-ddaf3a
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -68,6 +69,7 @@ Benchmark. Track launches, pricing and customer counts.
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-26 | salesforce: Agentforce Help Agent $2 per resolution pricing [src-20260926-ff7125]
+- 2026-09-18 | salesforce: Dreamforce 2026: headless platform, ZDR with Anthropic/OpenAI, Slack as control plane [src-20260918-ddaf3a]
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
 - 2026-06-29 | salesforce: Levie cites Salesforce headless APIs/MCP as symbolic endorsement of headless SaaS [src-20260629-015aae]
 - 2026-06-15 | salesforce: Acquired Fin ~$3.6B, closed 2026-09-10 [src-20260615-74b583]

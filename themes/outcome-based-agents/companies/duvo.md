@@ -61,7 +61,13 @@ sources:
 - src-20261014-79938e
 - src-20261014-1d5d80
 - src-20261014-475b47
-data_quality: Funding from Harmonic and swept headlines (src-20261014-475b47, src-20261014-1d5d80); article text pending refetch. Customers, pricing and production use unverified. Third co-founder Martin Pecha listed as co-founder until 2026-05.
+- src-20261014-38fb61
+- src-20261014-1b4ac8
+- src-20261014-525645
+- src-20261016-00158b
+- src-20261015-1423cf
+- src-20261014-06a078
+data_quality: Seed card from Harmonic, pulled 2026-10-23. Round size is a Harmonic estimate; customers, pricing and production use unverified. Third co-founder Martin Pecha listed as co-founder until 2026-05.
 updated: '2026-10-23'
 ---
 

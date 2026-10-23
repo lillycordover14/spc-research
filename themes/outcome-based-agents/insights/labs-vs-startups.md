@@ -6,6 +6,7 @@ Answers Q6 and feeds Q5 and Q7. One row per launch, newest first, each with a so
 |---|---|---|---|---|---|
 | 2026-10-22 | Anthropic | Full Claude Platform (incl. Managed Agents) on Google Cloud, Anthropic-managed | harness-infra | Agent runtimes, hosted agent infra sold via cloud marketplaces | [src-20261022-d0a3a2] |
 | 2026-10-22 | AWS | Bedrock AgentCore 2026 build-out: Harness (managed loop), Policy GA, Registry, Payments, Gateway LLM routing, Evaluations, Memory | harness-infra, orchestration | Agent runtimes, AI gateways/routers, evals, agent identity, agent memory, agent payments | [src-20261022-a0f852] |
+| 2026-10-21 | Oracle | AI Agent Studio for Industry Applications (no-code, MCP, AI-unit metering; within 12 months) | orchestration, vertical-outcome | Vertical agent builders on industry systems of record | [src-20261021-a5c3e0] |
 | 2026-10-21 | Anthropic | HCLTech Global Premier partner: FDE sandboxes, AI Force IT agents, HCLSoftware ISV | services | Agent deployment boutiques, AI-native IT-ops/managed services | [src-20261021-776c89] |
 | 2026-10-21 | Anthropic | Claude Duet proactive always-on agent (research preview) | vertical-outcome (SMB), adjacent | SMB back-office agents, AI executive assistants, computer-use agents | [src-20261021-7532a5] |
 | 2026-10-14 | Anthropic | Native OpenTelemetry agent tracing on Claude Platform | harness-infra | LLM observability (instrumentation layer), agent tracing | [src-20261014-2e6208] |
@@ -21,10 +22,13 @@ Answers Q6 and feeds Q5 and Q7. One row per launch, newest first, each with a so
 | 2026-06-16 | Microsoft | Copilot Cowork GA (Anthropic models, credit-metered) | harness-infra, work-context | Horizontal long-running work agents, knowledge-work copilots | [src-20260616-28211f] |
 | 2026-05-26 | Microsoft | Copilot Studio computer-using agents GA, workflows, A2A GA, voice agents GA | orchestration, harness-infra | RPA/agentic process automation, computer-use agents, voice CX agents | [src-20260526-3c3aa7] |
 | 2026-05-19 | Anthropic | Managed Agents: outcomes (rubric grader), multiagent orchestration, dreaming memory, webhooks | harness-infra, orchestration | Multi-agent frameworks, agent evals/graders, agent memory | [src-20260519-55cca6] |
+| 2026-05-14 | AWS | Transform Agent Toolkit GA: SIs package migration runbooks as agents on AgentCore | services | Migration and modernization agent startups, SI tooling | [src-20260731-3ca28d] |
 | 2026-05-12 | Anthropic | Claude for the legal industry: 12 practice plugins, 20+ legal connectors | vertical-outcome, work-context | Legal AI apps (contract review, litigation, legal research) | [src-20260512-5c6e2d] |
 | 2026-05-05 | IBM | Next-gen watsonx Orchestrate (private preview): cross-vendor agentic control plane | orchestration (governance) | Neutral agent OS and agent governance platforms | [src-20260505-92dfe0] |
 | 2026-05-05 | Anthropic | Agents for financial services: 10 templates (close, recon, audit, KYC, pitch, research) | vertical-outcome, work-context | Finance-ops agents (close, recon), KYC/AML, banking analyst copilots | [src-20260505-1c452a] |
 | 2026-05-01 | Microsoft | Agent 365 GA: agent registry, cross-cloud sync, shadow-agent discovery, $15/user | orchestration (governance), adjacent | Agent governance, agent identity, AI security posture | [src-20260501-fc687c] |
+| 2026-04-29 | AWS | Bedrock Managed Agents (OpenAI), managed agent harness, Agent Registry, Quick desktop | harness-infra, work-context | Agent runtimes, registries, desktop work agents | [src-20260429-aec36c] |
+| 2026-04-22 | Google | Gemini Enterprise Agent Platform and $750M partner fund | harness-infra, orchestration, services | Agent governance platforms, FDE-led deployment shops | [src-20260422-dadfed] |
 | 2026-04-22 | Google | Next '26: agentic enterprise stack, CX and security domain agents, FDEs with SIs | harness-infra, vertical-outcome, services | AI CX agents, AI SOC agents, agent marketplaces, deployment services | [src-20260422-d312c6] |
 | 2026-04-22 | Google | Gemini Enterprise Agent Platform (Vertex AI evolution) | harness-infra, orchestration | Agent builders, orchestration, agent memory, identity, simulation/evals, observability | [src-20260422-1f1ec3] |
 | 2026-04-22 | OpenAI | Workspace agents in ChatGPT (Codex-powered shared agents, schedules, MCP, Slack; credit pricing from 2026-05-06) | harness-infra, vertical-outcome | No-code agent builders, departmental workflow agents | [src-20260422-75a0a8] |
@@ -40,6 +44,8 @@ Answers Q6 and feeds Q5 and Q7. One row per launch, newest first, each with a so
 | 2026-02-05 | OpenAI | Frontier enterprise agent platform: business context semantic layer, execution, memory, evals, agent identity, FDEs | harness-infra, orchestration, work-context | Agent platforms, enterprise agent OS, work-context/semantic layers, agent identity | [src-20260205-ea19f4] |
 | 2026-01-30 | Anthropic | Cowork plugins (11 open-source department plugins) | harness-infra, vertical-outcome | Department copilots (sales, legal, support, finance, marketing) | [src-20260130-79791d] |
 | 2026-01-11 | Anthropic | Claude for Healthcare (prior auth, claims, CMS/ICD-10/NPI connectors) | vertical-outcome, work-context | Healthcare RCM, prior authorization and claims-appeal agents | [src-20260111-f1affc] |
+| 2025-12-02 | AWS | Frontier agents: Kiro autonomous agent, Security Agent, DevOps Agent | adjacent (coding, IT ops, security) | AI SRE, AI SOC and autonomous coding startups | [src-20251202-2f7e92] |
+| 2025-11-18 | Microsoft | Fabric IQ ontology plus Operations Agent, no new licensing | work-context | Context-on-work and ontology startups | [src-20251118-fd81d9] |
 
 
 ## Read-across

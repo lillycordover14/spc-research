@@ -48,6 +48,9 @@ sources:
 - src-20260309-a3fd3a
 - src-20260429-8a8712
 - src-20260729-8b3c16
+- src-20251118-9f6adf
+- src-20251118-fd81d9
+- src-20260409-775851
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -61,10 +64,11 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-21 | microsoft: Contact Center Intelligence public preview; Siemens Healthineers, Thomas Jefferson [src-20261021-e45563]
 - 2026-07-29 | microsoft: 100,000 Foundry customers; Agent 365 ~40M agents; 30M+ M365 Copilot seats; seat plus usage pricing [src-20260729-8b3c16]
 - 2026-04-29 | microsoft: 20M+ Copilot seats; Copilot Credits ~2x QoQ; LinkedIn agentic hiring $450M run rate [src-20260429-8a8712]
 - 2026-03-09 | microsoft: E7 at $99/user, Agent 365 at $15/user [src-20260309-a3fd3a]
-- 2026-10-21 | microsoft: Contact Center Intelligence public preview; Siemens Healthineers, Thomas Jefferson [src-20261021-e45563]
+- 2025-11-18 | microsoft: Agent 365 and Fabric IQ introduced at Ignite [src-20251118-9f6adf] [src-20251118-fd81d9]
 
 
 ## Economics (what we know)

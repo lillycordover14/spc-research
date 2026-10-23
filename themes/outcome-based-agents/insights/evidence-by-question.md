@@ -13,6 +13,7 @@ Questions are defined in `questions.md`.
 - 2026-10-13 | Camunda ProcessOS: Nordic bank process redesign 96% faster, 94% cheaper per process [src-20261013-eebc5e]
 - 2026-10-12 | Gravitee survey (n=750 execs/tech leaders, Apr 2026, vendor): modal agent count 26-50 to 76-100 in one quarter [src-20261012-fb5063]
 - 2026-10-12 | Gartner 2026 CIO survey (via Technology Org): 17% have agents in production [src-20261012-11ce4a]
+- 2026-10-08 | AWS CEO Garman: the agents most enterprises have built are relatively simple and mostly non-autonomous, with people in the loop [src-20261008-3ac60a]
 - 2026-10-08 | Adoption claims (nearly 90% of the Fortune 100 on Gemini Enterprise; SOMPO with 10,000+ custom agents) are vendor-reported breadth data [src-20261008-d5cbe2]
 - 2026-10-08 | KPMG Q3 AI Pulse (n=314 US $1B+ C-suite, Jul-Aug 2026): 62% building/deploying/developing agents vs 53%; 25% multi-agent vs 6% [src-20261008-1ab8b8]
 - 2026-10-05 | VB Pulse: 53% say a quarter or fewer deployed agents are true multi-agent workflows [src-20261005-66e092]
@@ -28,6 +29,8 @@ Questions are defined in `questions.md`.
 - 2026-06-24 | Coval (Hopkins, Jun 2026): enterprises deploy voice agents at massive scale faster than other agent types; start in support then expand; some F500s have 100+ people on Coval [src-20260624-eb13a6]
 - 2026-06-16 | Over half of the Fortune 500 using Cowork is a vendor-reported breadth signal for long-running agents in knowledge work [src-20260616-28211f]
 - 2026-06-03 | a16z Lassie memo: dental back-office agents, 700+ practices, $10M+ annualized revenue, 250,000 labor hours/yr; 'unit of value from software to labor' [src-20260603-ce0e80]
+- 2026-04-29 | AWS: AgentCore used to deploy an agent as often as every 10 seconds; AI revenue run rate over $15B [src-20260429-aec36c] [src-20260429-825321]
+- 2026-04-29 | Alphabet: 330 customers each processed over 1T tokens in 12 months; gen AI product revenue up nearly 800% YoY (usage, not production agents) [src-20260429-981fcf]
 - 2026-04-29 | Microsoft: nearly 90% of the Fortune 500 have active agents built with low-code tools (definition: any active Copilot Studio agent) [src-20260429-8a8712]
 - 2026-04-22 | Customer counts like 800 to 1,000+ agents at a single enterprise and 40% QoQ paid MAU growth are vendor-reported adoption data points for agent deployment breadth [src-20260422-d312c6]
 - 2026-04-15 | Gartner Hype Cycle (2026-04-15): 17% of orgs have deployed agents per 2026 CIO survey; >60% within 2 years [src-20260415-f936e3]
@@ -45,6 +48,7 @@ Questions are defined in `questions.md`.
 
 ## Q2. Outcome pricing, real or rhetoric
 - 2026-10-22 | Agent payments via x402 and wallets suggests hyperscalers expect agents to transact per task, an enabling rail for per-outcome or per-task pricing [src-20261022-a0f852]
+- 2026-10-21 | Oracle AI Agent Studio for Industry Applications meters agents in AI-unit consumption, not outcomes [src-20261021-a5c3e0]
 - 2026-10-21 | Bundling Duet into existing Pro and Max limits shows labs pricing agent labor inside subscriptions, making standalone per-task pricing harder for SMB-focused startups [src-20261021-7532a5]
 - 2026-10-21 | Constellation CRTV 141 (2026-10-21): outcome pricing hinges on attribution and baselines; buyers may prefer predictable cost [src-20261021-9ae079]
 - 2026-10-20 | Sierra plus Stripe: Cedar's agent converts 71.3% of started payments in-call (TNW, 2026-10-20), an attributable outcome unit [src-20261020-28bcd0]
@@ -81,6 +85,7 @@ Questions are defined in `questions.md`.
 - 2026-05-19 | Zendesk (2026-05-19): bills only 'verified' resolutions, checked by an independent AI evaluation model [src-20260519-747ae3]
 - 2026-05-12 | Futurum 1H 2026 decision-maker survey: 43% prefer consumption, 27% outcome-based, under 20% per-user (n not stated) [src-20260512-1280a6]
 - 2026-05-07 | ServiceNow Knowledge 2026: AI value shown as hours saved times hourly rate; claims 95% of enterprises cannot measure AI value [src-20260507-e6c2cd]
+- 2026-04-29 | Google: Gemini Enterprise growth reported as paid monthly active users (+40% QoQ), a seat metric [src-20260429-981fcf]
 - 2026-04-29 | Microsoft: Copilot Credit consumption up nearly 2x QoQ as customers extend Copilot with custom agents [src-20260429-8a8712]
 - 2026-04-27 | Akkiraju: budgets shifting from per-seat SaaS to agentic tools; cites Goldman Sachs that enterprises burn a year of AI budget in 3 months; Insight pricing team frames agents as a fractional FTE [src-20260427-1a7ad0]
 - 2026-04-22 | OpenAI moved workspace agents to credit-based (usage) pricing on 2026-05-06, not seats or outcomes [src-20260422-75a0a8]
@@ -110,6 +115,7 @@ Questions are defined in `questions.md`.
 - 2026-10-17 | LangChain: a runaway plugin loop burned ~$40K in a week; fix was LangSmith visibility, $5-per-task budget caps and harness optimization [src-20261017-d3bed0]
 - 2026-10-14 | Graduated access based on trace review is a lab-endorsed answer to the trust blocker for production agents [src-20261014-2e6208]
 - 2026-10-12 | Gravitee: monitoring coverage ~52%; 54% had an experienced or suspected agent security incident in 12 months [src-20261012-fb5063]
+- 2026-10-08 | Garman: evals and measuring agents in production are what enterprises do not know how to do, the reason FDE teams exist [src-20261008-3ac60a]
 - 2026-10-08 | Google naming governance and affordability as the two gating factors is a lab-side read on production blockers [src-20261008-d5cbe2]
 - 2026-10-07 | SailPoint-cited research (Oct 2026, n not stated): 79% run agents in production, 2% have agent-specific identity security [src-20261007-1a5e2f]
 - 2026-10-02 | Treating FDE talent as the scaling constraint confirms deployment skill, not model capability, is the main blocker to production [src-20261002-8d9e4f]
@@ -171,6 +177,7 @@ Questions are defined in `questions.md`.
 - 2026-10-21 | FDE-staffed sandboxes on client systems show the SI is the harness builder for regulated enterprises, with the lab supplying models and agent runtime [src-20261021-776c89]
 - 2026-10-13 | DXC OASIS on LangGraph/LangSmith (2026-10-13): SI-built harness for IT ops, scaling to 125 customer environments [src-20261013-1dcd15]
 - 2026-10-09 | Deloitte Open Model Engineering practice (2026-09-09): Zora AI harness on Nemotron; hiring FDEs through FY27 [src-20261009-4138dc]
+- 2026-10-08 | Garman: AWS and partners lean into FDE, but aim to teach customers to build evals and own agents in about 45 days, not run a consulting business [src-20261008-3ac60a]
 - 2026-10-02 | The lab is industrializing the forward-deployed engineer role and seeding it into SIs and large enterprises (Morgan Stanley, CBA, Novo Nordisk), so in-house teams and SIs, not startups, become the default harness builders [src-20261002-8d9e4f]
 - 2026-09-29 | OpenAI is integrating specialist dots into Microsoft Agent 365 governance and shipping OpenAI agents inside Bedrock, splitting the harness between lab (agent) and platform owner (governance, cloud) [src-20260929-2fdd0f]
 - 2026-09-21 | UiPath: predicts 90% of enterprise flow on cost-efficient models, open-source backup to avoid lock-in [src-20260921-f28021]
@@ -178,6 +185,7 @@ Questions are defined in `questions.md`.
 - 2026-09-09 | Salesforce partners with Anthropic (Claudeforce) and positions Agentforce as orchestrator of specialized agents (Fin, Piper), i.e. system of record as harness [src-20260909-c1900d]
 - 2026-08-25 | McKinsey 2026: 32% decided against buying a software product because they could build it with agentic coding tools [src-20260825-e5c5c1]
 - 2026-08-13 | LangChain CEO (Sequoia, 2026-08-13): off-the-shelf harnesses (Claude Code, Codex) win in distribution; custom harnesses for out-of-distribution or controlled FS use cases [src-20260813-09fcee]
+- 2026-07-31 | AWS Transform Agent Toolkit (GA 2026-05-14) lets consulting firms turn runbooks into custom agents on AgentCore [src-20260731-3ca28d]
 - 2026-07-31 | Decagon: FDEs must productize or 'you're just building a glorified consulting truck'; a customer left Sierra's FDE-led model and built 7 journeys in a month vs 3 in a year [src-20260731-a07321]
 - 2026-07-30 | AWS: $1B to create AWS Forward Deployed Engineering; early customers Allen Institute, Cox Automotive, NBA, NFL, Ricoh, Southwest [src-20260730-e4cc74]
 - 2026-07-29 | Microsoft FDE teams built a clinical-data agent with Novo Nordisk; Levi's runs 1,000+ domain agents on Foundry [src-20260729-8b3c16]
@@ -190,7 +198,9 @@ Questions are defined in `questions.md`.
 - 2026-05-07 | Rackspace sells FDE pods plus private cloud with Palantir and Uniphore as 'AI outcome platforms', a services-led harness model [src-20260507-288237]
 - 2026-05-06 | LangChain: open models now able to drive harnesses; always-on agents make frontier-model cost prohibitive; joined NVIDIA Nemotron coalition [src-20260506-041ecf]
 - 2026-05-05 | Shipping the same template as a Cowork plugin and as a Managed Agents cookbook shows the lab wants to own both the end-user surface and the programmatic harness for back-office agents [src-20260505-1c452a]
+- 2026-04-29 | Google: seats sold with partners and partners using Gemini Enterprise internally both up 9x YoY [src-20260429-981fcf]
 - 2026-04-29 | Bayer built its own in-house agent platform on Foundry, 20,000+ monthly active users [src-20260429-8a8712]
+- 2026-04-22 | Google Cloud: $750M partner fund incl. embedded FDEs; 330,000 SI experts trained; Deloitte library of 1,000+ prebuilt agents [src-20260422-72407e]
 - 2026-04-22 | Google is positioning the cloud provider, not the enterprise or the SI, as the default orchestration and governance harness, with the employee app as the distribution surface [src-20260422-1f1ec3]
 - 2026-04-22 | Google's answer to who builds the harness is lab FDE teams embedded inside the big SIs (Accenture, Deloitte, PwC, TCS and others), confirming the lab-plus-SI deployment model [src-20260422-d312c6]
 - 2026-04-16 | Capital One (Shetty, Apr 2026): internal enterprise agent platform supplies SDKs, frameworks, MCP or native tool abstraction, evals, sandboxes and model risk controls; Chat Concierge multi-agent app in production [src-20260416-e6896d]
@@ -204,11 +214,13 @@ Questions are defined in `questions.md`.
 - 2026-01-30 | Because plugins are portable files the enterprise owns, Anthropic is making the customer (or its SI) the author of the harness configuration, with the lab owning the runtime [src-20260130-79791d]
 - 2026-01-21 | Deloitte: 85% expect to customize agents rather than use off the shelf [src-20260121-231aaa]
 - 2026-01-11 | The lab ships a 'sample' prior auth skill and relies on Accenture, Deloitte, KPMG and PwC for deployment, so the production harness for regulated payer and provider workflows is still being built by SIs and vertical apps on top of the lab primitives [src-20260111-f1affc]
+- 2025-11-30 | AWS adds Agentic AI Consulting Services, Applications and Tools categories to its AI Competency, with extra MDF in 2026 [src-20251130-95bb98]
 - 2025-10-18 | CamundaCon 2025: Cognizant's process orchestration practice and EY FS AI lead present as Camunda delivery partners [src-20251018-229dda]
 - 2025-07-01 | MIT NANDA: vendor-bought tools reach deployment ~67% vs ~33% for internal builds [src-20250701-e3ae84]
 
 ## Q6. What the labs shipped (last 6-9 months) and what it absorbed
 - 2026-10-22 | AWS added a managed agent loop (Harness), policy, registry, evaluations, memory, identity and an LLM gateway with routing and fallback in 2026, overlapping agent-runtime, AI gateway, eval and agent-identity startups in one hyperscaler service [src-20261022-a0f852]
+- 2026-10-21 | Oracle: AI Agent Studio for Industry Applications, no-code industry agents with MCP, within 12 months [src-20261021-a5c3e0]
 - 2026-10-21 | An always-on agent with a cloud browser, 6,000+ connectors and payment rails, bundled free into consumer plans, pressures SMB back-office agent startups (bookkeeping, scheduling, admin assistants) and personal executive-assistant agents [src-20261021-7532a5]
 - 2026-10-21 | Anthropic previews Claude Duet, an always-on workplace agent for SMBs and professionals (CNBC, 2026-10-21), against OpenAI dots and Meta Muse [src-20261021-d5280b]
 - 2026-10-21 | Microsoft Contact Center Intelligence preview (Constellation, 2026-10-21): CX agent overlay with conversation harness, 1,700+ connectors, A365 governance [src-20261021-e45563]
@@ -236,6 +248,8 @@ Questions are defined in `questions.md`.
 - 2026-05-05 | IBM: next-gen watsonx Orchestrate in private preview as agentic control plane for agents from any source [src-20260505-92dfe0]
 - 2026-05-05 | Month-end close, GL reconciliation, statement audit and KYC screening templates go straight at finance-ops and compliance agent startups (close automation, recon, KYC/AML) with a free template on an existing seat [src-20260505-1c452a]
 - 2026-05-01 | A cross-cloud agent registry, shadow-agent discovery and network controls priced per user absorb the agent inventory and agent security posture category that several startups target [src-20260501-fc687c]
+- 2026-04-29 | AWS: Bedrock Managed Agents powered by OpenAI (preview), managed agent harness, Agent Registry, AgentCore Policy and Evaluations GA; Quick desktop app [src-20260429-aec36c]
+- 2026-04-22 | Google: Gemini Enterprise Agent Platform launched as mission control to build, govern and optimize agents [src-20260422-dadfed]
 - 2026-04-22 | Agent Simulation, Agent Observability, Agent Identity, Gateway and Memory Bank in one hyperscaler platform absorb large parts of the evals, observability, agent identity and agent memory tooling categories [src-20260422-1f1ec3]
 - 2026-04-22 | Google shipped first-party domain agents for CX (Gemini Enterprise for Customer Experience with support agents, Agent Assist, voice) and security operations (triage, threat hunting, detection engineering), hitting AI CX startups and AI SOC startups directly [src-20260422-d312c6]
 - 2026-04-22 | ChatGPT workspace agents (shared, scheduled, MCP-connected, Slack-native, credit-metered from 2026-05-06) put a lab-built department agent builder in every Enterprise workspace [src-20260422-75a0a8]
@@ -250,6 +264,8 @@ Questions are defined in `questions.md`.
 - 2026-02-05 | OpenAI Frontier bundles business context, agent execution, memory, evals and per-agent identity in one enterprise platform, absorbing agent platform, agent identity, eval and memory startup categories [src-20260205-ea19f4]
 - 2026-01-30 | Free, open-source Sales, Legal, Customer support and Finance plugins put a lab-built 'department agent' in front of every paid Claude seat, pressuring thin horizontal copilots for those functions [src-20260130-79791d]
 - 2026-01-11 | Anthropic shipped prior authorization and claims-appeal templates plus CMS, ICD-10 and NPI connectors as free add-ons to Claude subscriptions, which directly overlaps the first workflow many healthcare RCM and prior-auth agent startups sell [src-20260111-f1affc]
+- 2025-12-02 | AWS re:Invent: frontier agents (Kiro autonomous agent, Security Agent, DevOps Agent) that work for hours or days [src-20251202-2f7e92]
+- 2025-11-18 | Microsoft Ignite: Agent 365 control plane, Sales Development Agent, Work IQ; Fabric IQ ontology and Operations Agent [src-20251118-9f6adf] [src-20251118-fd81d9]
 - 2025-05-14 | Bret Taylor: the tooling market 'can really be threatened by the foundation model companies' [src-20250514-093b59]
 
 ## Q7. Orchestration vs context vs vertical vs services
@@ -279,6 +295,7 @@ Questions are defined in `questions.md`.
 - 2026-05-04 | Rinke (May 2026): 'the atomic unit of an agent is really a process'; Celonis pitches its process intelligence graph as agents' context, execution and cross-process observability layer [src-20260504-0c7955]
 - 2026-05-01 | Microsoft positions itself as the governance plane over agents built anywhere (Bedrock, Google Agent Platform, n8n, Zendesk), making the control plane rather than the harness its defensible layer [src-20260501-fc687c]
 - 2026-04-22 | Orchestration as a standalone layer gets squeezed between hyperscaler platforms and systems of record that ship their own agents into the same gallery [src-20260422-1f1ec3]
+- 2026-04-09 | A2A has 150+ supporting orgs with deep integration in Google, Microsoft and AWS platforms; v1.0 released [src-20260409-775851]
 - 2026-04-08 | Workfabric founder: IT services (not BPO) shifts 'from writing code to microprocessors to shipping context to models' [src-20260408-5408bb]
 - 2026-04-01 | Duvo (Omni Talk, 2026-04-01): Duvo Clarity voice agents map hundreds of people's processes in under a week, replacing consultant process mapping [src-20260401-e0ba89]
 - 2026-03-30 | Sycamore CEO (Lightspeed, 2026-03-30): targets the $400-500B SaaS market and the trillion-dollar consulting and SI market; SaaS plus consultants who 'shoehorn' and leave is broken [src-20260330-2b99a8]
@@ -287,8 +304,10 @@ Questions are defined in `questions.md`.
 - 2026-02-05 | Frontier claims the enterprise semantic layer ('how information flows, where decisions happen'), the same work-context asset Workfabric and Celonis sell [src-20260205-ea19f4]
 - 2026-01-30 | Value for startups moves to proprietary data, system-of-record write access and measured outcomes, since prompts plus skills plus connectors is now a free file format [src-20260130-79791d]
 - 2026-01-11 | Defensibility for vertical healthcare-admin players shifts toward proprietary payer rules, EHR write-back and outcome guarantees, since public coding and coverage data is now a commodity connector [src-20260111-f1affc]
+- 2025-11-18 | Microsoft Fabric IQ gives a no-code business ontology at no new licence cost, seeded from 30M+ Power BI models [src-20251118-fd81d9]
 - 2025-11-05 | Celosphere 2025: Vinmar names Microsoft, SAP and Celonis its three strategic platforms; supply chain team 40% more productive; Uniper runs Microsoft agents on Celonis process intelligence [src-20251105-fde118]
 - 2025-10-18 | CamundaCon 2025: Camunda pitches agentic BPMN engine blending deterministic and dynamic orchestration with multi-agent and MCP support; vendor cases cite 94% shorter caller times (healthcare), 90% faster RM onboarding (bank) [src-20251018-229dda]
+- 2025-07-16 | AWS Marketplace AI Agents and Tools: hundreds of agents at launch, MCP and A2A listings, co-sell eligible [src-20250716-fef900]
 - 2024-12-18 | UiPath's Dines positions UiPath as agnostic 'Switzerland' orchestration that calls Salesforce and other platform agents as APIs [src-20241218-3282c7]
 
 ## Q8. Systems of record
@@ -388,6 +407,7 @@ Questions are defined in `questions.md`.
 
 - 2026-09-29 | OpenAI Marketplace is a new distribution channel for vertical agent startups (Sierra, Decagon, Harvey, Legora) via enterprise OpenAI commitments [src-20260929-2fdd0f]
 - 2026-03-09 | Promptfoo sold to OpenAI after raising $23M at an $86M valuation (Jul 2025, PitchBook via TechCrunch): lab tuck-in is the exit for harness-infra point tools [src-20260309-b2ac14]
+- 2025-07-16 | AWS Marketplace API-based agent listings are eligible for the SaaS Co-Sell Benefit, pulling hyperscaler field reps into agent startup deals [src-20250716-fef900]
 ## Q13. F500 heads of AI / automation (calls)
 
 - 2026-04-02 | Wawa CIO call shows the F500 buyer questions to ask: unlogged-issue share, add-on AI budget as % of platform, satisfaction with incumbent agents [src-20260402-8d84cb]

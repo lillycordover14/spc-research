@@ -189,3 +189,13 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | Furientis | owner-operator | Mass-producible low-cost interceptor missiles, 1,000 units/factory/yr target | Seed $25M, Oct 2026; Benchmark [src-20261006-410f77] | grokbot
 - 2026-10-23 | Olympus Foundry | owner-operator | Software/simulation-driven low-pressure sand casting of Mg/Al parts for A&D (Rangeview peer), Utah | n/d (founded 2025); n/d [src-20261023-347e7c] | grokbot
 - 2026-10-23 | Sinter | owner-operator | Fast plastics prototype-to-production parts pipeline, El Segundo | YC F26; YC [src-20261022-559ff7] | grokbot
+
+## Materials and semis, 2026-10-23
+- 2026-10-23 | Mitra Chem | materials-producer | AI-in-loop LFP cathode producer, pass | [src-20261023-6e0642] | grokbot
+- 2026-10-23 | Chemix | materials-producer | GenAI battery lab + cells, partial | [src-20240424-486875] | grokbot
+- 2026-10-23 | Fab2 (fka Atomic Semi) | semis-fab | own compact fabs, borderline | [src-20260909-fe4189] | grokbot
+- 2026-10-23 | Substrate | semis-fab | planned foundry 2028, watch | [src-20251028-2779b7] | grokbot
+- 2026-10-23 | Mosaic Microsystems | semis-substrate | glass substrate cleanroom, no AI | [src-20231114-46f480] | grokbot
+- 2026-10-23 | Lux Semiconductors | semis-packaging | pilot only | [src-20230228-ac0ba6] | grokbot
+- 2026-10-23 | Chipletz | excluded | fabless design only | [src-20261001-a53a74] | grokbot
+- 2026-10-23 | Dunia Innovations | excluded | R&D only | [src-20241023-6c52d3] | grokbot

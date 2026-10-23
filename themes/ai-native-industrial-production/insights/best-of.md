@@ -292,3 +292,5 @@ Tracked companies have a card in `companies/`. Candidates come from `companies/_
 - [Repeat-order evidence (USAspending)](repeat-orders-evidence.md)
 - [Unit economics: A vs B vs job shops](unit-economics.md)
 - [Failures and pivots](failures-and-pivots.md)
+
+- [AI-native materials and semiconductor producers](materials-science-semis.md): 2 materials producers; no semis fab clearly passes (Fab2 closest)

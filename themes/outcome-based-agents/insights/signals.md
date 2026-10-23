@@ -32,6 +32,7 @@ Agent appends here on every run; weekly synthesis rolls these up. Lines marked [
 - 2026-09-30 | sierra: OpenAI Marketplace launch partner; customers draw down OpenAI commits [src-20260930-9b1413]
 - 2026-09-29 | openai: DevDay: dots and specialist dots (back-office roles, pilots), Agents API computer use, Bedrock Managed Agents powered by OpenAI, Marketplace with 32 partners [src-20260929-2fdd0f]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
+- 2026-09-26 | salesforce: Agentforce Help Agent $2 per resolution pricing [src-20260926-ff7125]
 - 2026-09-10 | openai: Agents API public beta: Codex harness as managed service, no extra fee [src-20260910-014b24]
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
 - 2026-08-26 | lab: FinOps for the AI era: New flexible billing and cost controls for agents [src-20260826-c6c4b5]

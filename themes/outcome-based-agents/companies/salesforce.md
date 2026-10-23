@@ -41,6 +41,10 @@ sources:
 - src-20260615-74b583
 - src-20261005-66e092
 - src-20261014-aad5c8
+- src-20260924-1b6619
+- src-20261013-7d8358
+- src-20260926-ff7125
+- src-20261016-9f1777
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -54,6 +58,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-26 | salesforce: Agentforce Help Agent $2 per resolution pricing [src-20260926-ff7125]
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
 - 2026-06-15 | salesforce: Acquired Fin ~$3.6B, closed 2026-09-10 [src-20260615-74b583]
 - 2026-05-27 | salesforce: Q1 FY27: Agentforce ARR $1.2B +205%, 3.8B Agentic Work Units [src-20260527-478f91]

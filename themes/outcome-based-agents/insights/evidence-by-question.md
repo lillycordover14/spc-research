@@ -33,12 +33,18 @@ Questions are defined in `questions.md`.
 - 2026-10-21 | Bundling Duet into existing Pro and Max limits shows labs pricing agent labor inside subscriptions, making standalone per-task pricing harder for SMB-focused startups [src-20261021-7532a5]
 - 2026-10-21 | Constellation CRTV 141 (2026-10-21): outcome pricing hinges on attribution and baselines; buyers may prefer predictable cost [src-20261021-9ae079]
 - 2026-10-20 | Sierra plus Stripe: Cedar's agent converts 71.3% of started payments in-call (TNW, 2026-10-20), an attributable outcome unit [src-20261020-28bcd0]
+- 2026-10-19 | Exotel's Bhatia (ET, 2026-10-19): voice AI per-minute pricing at Rs 2.50-3 is commoditizing; outcome pricing on leads and collections is the future [src-20261019-d96d4c]
 - 2026-10-17 | Chase: value from verification accrues to domain experts who can write evaluators, the precondition for outcome pricing [src-20261017-d3bed0]
+- 2026-10-16 | SAP CEO Klein (Q2 2026 call): AI lets SAP reset to outcome value pricing; not yet GA [src-20261016-9f1777]
+- 2026-10-13 | Tech Insider (2026-10-13): Fin $0.99/resolution (76% avg claimed), Zendesk from $1.50, Agentforce $0.10/action via Flex Credits [src-20261013-7d8358]
 - 2026-10-08 | SDR agent billed in Copilot credits is consumption pricing for digital labor, closer to per-task than per-seat, but still not per-outcome [src-20261008-5bb82b]
 - 2026-10-08 | KPMG Q3: 74% run AI cost reviews and 43% set token budgets, a buyer push for predictable agent spend [src-20261008-1ab8b8]
 - 2026-10-08 | Vida adds outcome pricing verified via customer CRM data (Telecom Reseller, 2026-10-08); HubSpot Breeze $0.50/resolution, $1/lead; Fin $9.99/qualified prospect [src-20261008-fb6a3d]
 - 2026-10-07 | Gamma Communications markets AI Concierge (FAQ, intake, booking agents) as 'outcome-based agents' with no outcome pricing disclosed: the term is being used loosely [src-20261007-fc84b0]
+- 2026-10-03 | Startup Fortune (2026-10-03): Devin bills compute regardless of success, Sierra only on resolution; outcome billing needs a predefined checkpoint [src-20261003-6d97c0]
 - 2026-09-30 | Sierra outcome units: loan refinanced, claim paid, sale closed, customer retained (Futurum) [src-20260930-9b1413]
+- 2026-09-26 | Agentforce Help Agent: $2 per resolution, nothing on escalation or negative feedback (CX Today, 2026-09-26) [src-20260926-ff7125]
+- 2026-09-24 | ICONIQ 2026 (n~305 software execs, via HackerNoon): 18% price on outcomes vs 2% before; 58% subscription, 35% consumption [src-20260924-1b6619]
 - 2026-09-09 | Salesforce (GS Communacopia, 2026-09-09): premium agentic SKUs ~5% of installed base at 60-80% uplift; sales agents moving to paying for qualified leads or booked orders [src-20260909-c1900d]
 - 2026-08-26 | Google is moving agent pricing from seats toward consumption (PAYG, pooled quotas, off-peak batch at half price), but not to outcomes; outcome-based pricing remains an app-layer opportunity on top of usage-priced labs [src-20260826-c6c4b5]
 - 2026-06-16 | Microsoft layered consumption pricing (credits metered on model use, tool calls and runtime) on top of a seat, a hybrid that shows the shift from seats toward usage-based agent labor but not to per-outcome pricing [src-20260616-28211f]
@@ -57,6 +63,7 @@ Questions are defined in `questions.md`.
 
 ## Q3. What blocks production
 - 2026-10-20 | Collibra/VB (2026-10-20): >75% hit a production wall going from 1 copilot to 10-15 agents; ~30% caught agents accessing unpermitted data (Harris Poll); 5% fully trust evals (VB, n=157) [src-20261020-7922f1]
+- 2026-10-19 | Exotel: buyers fail to budget evaluation and process owners; realistic ramp is 2% to 5% to 10% automation [src-20261019-d96d4c]
 - 2026-10-17 | LangChain: a runaway plugin loop burned ~$40K in a week; fix was LangSmith visibility, $5-per-task budget caps and harness optimization [src-20261017-d3bed0]
 - 2026-10-14 | Graduated access based on trace review is a lab-endorsed answer to the trust blocker for production agents [src-20261014-2e6208]
 - 2026-10-08 | Google naming governance and affordability as the two gating factors is a lab-side read on production blockers [src-20261008-d5cbe2]
@@ -80,6 +87,7 @@ Questions are defined in `questions.md`.
 - 2025-01-12 | 11x prices digital workers at 20-35% of a human FTE (Growth Unhinged) [src-20250112-39b9ba]
 
 ## Q5. Who builds the harness
+- 2026-10-23 | Google Public Sector RISE (Constellation, 2026-10-23): 2-person prototype teams hand off to on-site FDEs for last-mile deployment [src-20261023-5b3495]
 - 2026-10-22 | The lab harness now ships inside a rival hyperscaler, so independent agent-runtime startups compete with a lab runtime that is available on every major cloud marketplace [src-20261022-d0a3a2]
 - 2026-10-22 | Harness is model-agnostic (Bedrock, OpenAI, Gemini, LiteLLM), so AWS competes with the model labs' own managed harnesses on neutrality, making the harness a contested layer between labs and clouds rather than a startup-owned one [src-20261022-a0f852]
 - 2026-10-22 | Ramp built its Laminar agent harness in-house in six weeks (The New Stack, 2026-10-22), rejecting managed agent APIs and third-party platforms [src-20261022-ae18f2]
@@ -113,6 +121,7 @@ Questions are defined in `questions.md`.
 - 2026-10-21 | An always-on agent with a cloud browser, 6,000+ connectors and payment rails, bundled free into consumer plans, pressures SMB back-office agent startups (bookkeeping, scheduling, admin assistants) and personal executive-assistant agents [src-20261021-7532a5]
 - 2026-10-21 | Anthropic previews Claude Duet, an always-on workplace agent for SMBs and professionals (CNBC, 2026-10-21), against OpenAI dots and Meta Muse [src-20261021-d5280b]
 - 2026-10-21 | Microsoft Contact Center Intelligence preview (Constellation, 2026-10-21): CX agent overlay with conversation harness, 1,700+ connectors, A365 governance [src-20261021-e45563]
+- 2026-10-21 | Meta Q3 2026 call (2026-10-21): Meta Enterprise Platform near-term = model API, Muse Code, business agents; aims for a 'business network of Muse agents' [src-20261021-f65653]
 - 2026-10-14 | By emitting standard OTel traces, the lab commoditizes trace capture, leaving LLM observability startups (Langfuse, Braintrust, Arize, LangSmith) to compete on analysis and evals rather than instrumentation [src-20261014-2e6208]
 - 2026-10-08 | A first-party AI SDR agent and a service agent inside Dynamics and Teams hit AI SDR/outbound startups and CX support agent startups (Sierra, Decagon tier) within Microsoft accounts [src-20261008-5bb82b]
 - 2026-10-08 | A single objective-driven universal agent with Financial Services and Legal specializations competes with both horizontal work-agent startups and vertical finance and legal agent apps [src-20261008-d5cbe2]
@@ -162,11 +171,13 @@ Questions are defined in `questions.md`.
 
 ## Q8. Systems of record
 - 2026-10-21 | ServiceNow and Nvidia ship Arc GA (ZDNET, 2026-10-21) with Control Tower policies enforced by Nvidia OpenShell and BlueField, ServiceNow as agent governance plane [src-20261021-bf34b8]
+- 2026-10-16 | Gartner (2026-07-01, via PYMNTS): $234B of enterprise software spend exposed to agentic arbitrage by 2030 [src-20261016-9f1777]
 - 2026-10-14 | Agentforce named deployments: L'Oreal 300+ advisers, Air India refunds 14 days to 4 hours [src-20261014-aad5c8]
 - 2026-10-08 | An AI-driven migration tool aimed at legacy CRM (Comcast's quote references Salesforce) shows agents being used as a wedge to displace incumbent systems of record, not just sit on top of them [src-20261008-5bb82b]
 - 2026-10-08 | Giving agents their own Workspace identity and mailbox makes the productivity suite owner the natural home for 'digital coworker' agents, a strong position for incumbents holding identity and documents [src-20261008-d5cbe2]
 - 2026-10-05 | Mastek (2026-10-05) replaces its own legacy CRM with an AI-built CRM and sells 'services as software' outcomes to cut clients' SaaS costs [src-20261005-ed6751]
 - 2026-09-29 | OpenAI Marketplace lets enterprises spend OpenAI commitments on 32 partners including Salesforce, ServiceNow, Sierra and Decagon, so labs distribute systems of record and vertical apps rather than displace them [src-20260929-2fdd0f]
+- 2026-09-26 | Agentforce routes every action through Flow; 4.3M Help-site inquiries, 70% resolved (self-reported) [src-20260926-ff7125]
 - 2026-09-09 | Salesforce rejects the headless-CRM bear case: CRM metadata encodes company knowledge; work shifting to Slack and Claude still increases CRM work volume [src-20260909-c1900d]
 - 2026-06-16 | A system-of-work incumbent wrapping Anthropic's models and Cowork pattern, then undercutting Claude Cowork on price by 30 to 40% with its own fine-tuned model, shows the harness owner with the data (Work IQ) can commoditize the model lab [src-20260616-28211f]
 - 2026-06-15 | Salesforce agreed to buy Fin (ex-Intercom) for ~$3.6B on 2026-06-15, closed 2026-09-10 [src-20260615-74b583]
@@ -199,6 +210,7 @@ Questions are defined in `questions.md`.
 - 2026-10-13 | Decagon runs ~90% of workloads on fine-tuned open-source models (PYMNTS recap of Zhang, 2026-10-13), cheaper than frontier [src-20261013-d7909a]
 - 2026-10-08 | Outcome price points: $0.50-$0.99 per resolution, $1-$9.99 per lead (HubSpot, Fin, via Vida coverage) [src-20261008-fb6a3d]
 - 2026-10-02 | FDE-heavy agent startups face a lab-trained talent pool at their customers, which compresses the services premium and pushes them toward product-led, outcome-priced models [src-20261002-8d9e4f]
+- 2026-09-24 | ICONIQ: AI product gross margins 45% (2025), 53% (2026E), 59% (2027E) [src-20260924-1b6619]
 - 2026-09-10 | The lab prices its managed harness at zero (tokens and tools only), so standalone harness vendors cannot charge for the agent loop itself [src-20260910-014b24]
 - 2026-09-09 | Agentforce 1 Edition $550 per seat consolidates ~$1,300 of US sales-rep point-solution spend [src-20260909-c1900d]
 - 2026-08-26 | Off-peak deferred execution at up to half the inference cost lowers COGS for async back-office agents, improving gross margins for outcome-priced vertical players [src-20260826-c6c4b5]
@@ -207,6 +219,7 @@ Questions are defined in `questions.md`.
 
 ## Q12. Exit paths
 - 2026-10-13 | Decagon ($4.5B) hired a bank to explore a sale; early ServiceNow talks, now denied (Business Insider, 2026-10-13) [src-20261013-6d4b75]
+- 2026-09-24 | Salesforce agreed to acquire Fin (formerly Intercom) for about $3.6B in June 2026 (HackerNoon) [src-20260924-1b6619]
 - 2026-06-15 | Fin deal ~$3.6B is the reference exit for CX outcome-priced agents [src-20260615-74b583]
 
 - 2026-09-29 | OpenAI Marketplace is a new distribution channel for vertical agent startups (Sierra, Decagon, Harvey, Legora) via enterprise OpenAI commitments [src-20260929-2fdd0f]

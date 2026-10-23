@@ -27,12 +27,15 @@ For every source and call, note which world the evidence points to. The readout 
 
 ### World tally
 <!-- one line per source or call, newest first: `<date> <source> -> world N because ... [src-id]` -->
+- 2026-10-23  -> world 1 because Google deploys agents in public sector via its own RISE prototypers and FDEs [src-20261023-5b3495]
 - 2026-10-22  -> world 3 because Ramp builds its own agent harness (Laminar) instead of buying [src-20261022-ae18f2]
 - 2026-10-22  -> world 4 because Cognizant builds an 18,000-engineer Gemini agent deployment group [src-20261022-d5ad54]
 - 2026-10-22  -> world 1 because Google channels agent deployment through Cognizant FDE bench [src-20261022-d5ad54]
 - 2026-10-21  -> world 1 because Anthropic ships Claude Duet, a lab-owned always-on work agent [src-20261021-d5280b]
 - 2026-10-21  -> world 2 because ServiceNow governs desktop agents through its Control Tower [src-20261021-bf34b8]
 - 2026-10-21  -> world 1 because Microsoft ships a CX agent overlay on existing contact centers [src-20261021-e45563]
+- 2026-10-21  -> world 1 because Meta pushes Muse business agents and enterprise platform [src-20261021-f65653]
+- 2026-10-16  -> world 2 because SAP signals outcome-based reset pricing [src-20261016-9f1777]
 - 2026-10-13  -> world 4 because DXC runs its own LangChain-based harness (OASIS) for customers' IT operations [src-20261013-1dcd15]
 - 2026-10-05  -> world 3 because 67% of enterprises expect a hybrid, external or in-house agent control plane (VB Pulse) [src-20261005-66e092]
 - 2026-10-05  -> world 4 because Mastek sells AI-built replacements for SaaS as services-as-software [src-20261005-ed6751]

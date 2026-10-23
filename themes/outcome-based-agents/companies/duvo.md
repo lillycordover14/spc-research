@@ -17,10 +17,10 @@ stage: series-a
 total_raised_usd: 47000000
 last_round:
   date: '2026-10-14'
-  amount_usd: null
-  lead: null
+  amount_usd: 32000000
+  lead: Balderton Capital
   valuation_usd: null
-  source: '[Harmonic, pulled 2026-10-23] Series A; Harmonic estimates a $32M round, valuation estimate not disclosed'
+  source: 'src-20261014-475b47 (headline); Harmonic: $47M total'
 investors:
 - Index Ventures
 - Balderton
@@ -61,7 +61,7 @@ sources:
 - src-20261014-79938e
 - src-20261014-1d5d80
 - src-20261014-475b47
-data_quality: Seed card from Harmonic, pulled 2026-10-23. Round size is a Harmonic estimate; customers, pricing and production use unverified. Third co-founder Martin Pecha listed as co-founder until 2026-05.
+data_quality: Funding from Harmonic and swept headlines (src-20261014-475b47, src-20261014-1d5d80); article text pending refetch. Customers, pricing and production use unverified. Third co-founder Martin Pecha listed as co-founder until 2026-05.
 updated: '2026-10-23'
 ---
 
@@ -74,7 +74,7 @@ Candidate tests to verify: in-production (Rohlik as design partner?), measurable
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
-- 2026-10-14 — Series A closed; $47M raised to date; Index Ventures, Balderton, Credo, Northzone [Harmonic]
+- 2026-10-14 — $32M Series A led by Balderton Capital [src-20261014-475b47]; $47M raised to date, with Index Ventures, Credo, Northzone [Harmonic]
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->

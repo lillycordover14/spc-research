@@ -70,6 +70,7 @@ Benchmark. Track launches, pricing and customer counts.
 - 2026-06-15 | salesforce: Acquired Fin ~$3.6B, closed 2026-09-10 [src-20260615-74b583]
 - 2026-05-27 | salesforce: Q1 FY27: Agentforce ARR $1.2B +205%, 3.8B Agentic Work Units [src-20260527-478f91]
 - 2026-03-12 | salesforce: Fin (acquired by Salesforce) priced at $0.99 per outcome [src-20260312-1f35f8]
+- 2026-01-14 | salesforce: Intercom Fin runs on top of Salesforce Service Cloud [src-20260114-5bb0dc]
 
 
 ## Economics (what we know)

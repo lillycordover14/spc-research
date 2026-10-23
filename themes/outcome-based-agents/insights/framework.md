@@ -63,6 +63,8 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-02-24  -> world 1 because Anthropic ships function plugins for enterprise agents [src-20260224-7eb23d]
 - 2026-02-23 OpenAI Frontier Alliances -> world 4 because OpenAI relies on McKinsey, BCG, Accenture and Capgemini to assemble Frontier deployments per client, with the lab owning the platform (worlds 1 and 4 combined) [src-20260223-9272a6]
 - 2026-02-05 OpenAI Frontier launch -> world 1 because OpenAI positions Frontier as the one platform that runs and governs every agent, including third-party ones [src-20260205-ea19f4]
+- 2026-01-14 Pigment Traynor -> world 5 because Fin sells outcomes on top of rival systems of record (Zendesk, Service Cloud) [src-20260114-5bb0dc]
+- 2025-10-02 Zapier Intercom Fin -> world 5 because Intercom Fin sells per-resolution outcomes on top of its own helpdesk, cannibalizing seats deliberately [src-20251002-0b85b2]
 - 2025-05-14  -> world 5 because Sierra CEO argues applied vertical agents capture the value and business-model change favors startups over incumbents [src-20250514-093b59]
 
 ## 3. Outcome pricing test

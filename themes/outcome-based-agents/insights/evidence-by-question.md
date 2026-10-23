@@ -68,6 +68,8 @@ Questions are defined in `questions.md`.
 - 2026-03-12 | Intercom Fin (2026-03-12): moves to $0.99 per outcome (50/month minimum), 76% average resolution, 12,000+ teams [src-20260312-1f35f8]
 - 2026-03-10 | Bret Taylor (Cheeky Pint, 2026-03-10): Sierra charges a pre-negotiated rate per autonomous resolution; escalations to humans are free [src-20260310-ad2c26]
 - 2026-03-09 | Microsoft prices agent governance per human user ($15) and bundles it into a $99 seat, the opposite of per-agent or per-outcome pricing, which signals the largest incumbent is defending seat economics rather than moving to outcomes [src-20260309-f391cf]
+- 2026-01-14 | Intercom: 20-30% resolution is easy and 'not worth deploying'; value is at 65-80% [src-20260114-5bb0dc]
+- 2025-10-02 | Intercom: Fin resolution 24-25% at launch to 65%, +~1 point/month; low resolution would make margins 'horrendous' [src-20251002-0b85b2]
 - 2025-09-18 | Decagon (No Priors, 2025-09-18): prices per conversation, or per conversation without a human, sold as a prepaid allotment burned down over the term [src-20250918-7e3ad0]
 - 2025-05-14 | Bret Taylor (Training Data, 2025-05-14): Sierra's median customer pays a pre-negotiated rate per autonomous resolution; escalation is free [src-20250514-093b59]
 - 2025-02-25 | Decagon CEO: agent value benchmarked to labor (tickets resolved, CSAT); labor costs 'an order of magnitude or two more' than software, enlarging contracts [src-20250225-e9f1be]
@@ -95,6 +97,7 @@ Questions are defined in `questions.md`.
 - 2026-04-02 | Wawa CIO: only ~20% of IT issues are ever logged as tickets, so the ticket system itself limits what agents can see [src-20260402-8d84cb]
 - 2026-03-12 | Services capacity, not model access, is treated as the bottleneck to production, consistent with pilot-to-production being the main blocker [src-20260312-73c25c]
 - 2026-03-09 | OpenAI calls evaluation, security and compliance 'foundational requirements' for AI coworkers in real workflows [src-20260309-b2ac14]
+- 2025-10-02 | Intercom: cites a study that 95% of AI spend results in dead-end pilots; revenue not backed by usage will churn [src-20251002-0b85b2]
 - 2025-02-25 | Decagon CEO (Accel, 2025-02-25): customers fear a black box and require tooling to audit, QA and change agent logic [src-20250225-e9f1be]
 
 ## Q4. Whose budget
@@ -241,6 +244,7 @@ Questions are defined in `questions.md`.
 - 2026-04-01 | Duvo CEO: recommendations are constrained to not 'ripping and replacing the core ERP'; agents work around legacy portals without APIs [src-20260401-e0ba89]
 - 2026-02-24 | Systems of record (Salesforce via Slack, FactSet, S&P, LSEG) chose to ship as plugins inside Claude rather than resist, suggesting the defensible asset is proprietary data access, not the agent shell [src-20260224-a28ce9]
 - 2026-01-19 | Mayfield: 56% moving budget away from incumbent vendors toward agents [src-20260119-2b35fb]
+- 2026-01-14 | Intercom: running Fin on Zendesk and Service Cloud drove adoption; at 60-70% automation helpdesk migrations become easier [src-20260114-5bb0dc]
 
 ## Q9. Horizontal players, investable
 
@@ -282,6 +286,8 @@ Questions are defined in `questions.md`.
 - 2026-04-04 | Sycamore CEO (Venture with Grace, 2026-04-04): per seat 'generally doesn't work' for autonomous agents; moving toward value or outcome-based, varying by department [src-20260404-029771]
 - 2026-03-12 | Fin pricing: $0.99 per outcome plus $19 helpdesk seat and $35 Copilot seat, a hybrid outcome plus seat model [src-20260312-1f35f8]
 - 2026-03-10 | Sierra customers automate 70-90% of cases; residual human cases get longer handle times [src-20260310-ad2c26]
+- 2026-01-14 | Intercom (Pigment, 2026-01-14): Fin at 99 cents per resolution, 7,000 customers, 1M+ resolutions/week; competitors charging per conversation have 'not as pure' incentives; zero revenue on late handoffs [src-20260114-5bb0dc]
+- 2025-10-02 | Intercom (Zapier, 2025-10-02): $1 then 99 cents per resolution chosen by trading an $80 seat for ~150 resolutions; complexity not reflected in price [src-20251002-0b85b2]
 - 2025-09-18 | Decagon CEO: case studies cut contact-center cost 60-70% (vendor claim) [src-20250918-7e3ad0]
 - 2025-05-14 | Bret Taylor: cost-savings pricing is 'a temporary drug' as agents get compared to other agents, not labor [src-20250514-093b59]
 

@@ -45,6 +45,7 @@ sources:
 - src-20260731-a07321
 - src-20250918-7e3ad0
 - src-20250225-e9f1be
+- src-20251002-0b85b2
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -62,6 +63,8 @@ Benchmark for CX agents in production.
 - 2026-10-13 | decagon: $100M ARR; 90% of workloads on fine-tuned open models [src-20261013-d7909a]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]
+- 2026-01-14 | decagon: Intercom's Traynor criticizes competitors pricing on total conversation volume, the model Decagon describes [src-20260114-5bb0dc]
+- 2025-10-02 | sierra, decagon: Competitor Intercom Fin: 65% resolution, 6,000+ customers, $1M performance guarantee, per-resolution pricing [src-20251002-0b85b2]
 - 2025-09-18 | decagon: CEO details per-conversation allotment pricing and up-market move into banks, airlines, telcos [src-20250918-7e3ad0]
 - 2025-02-25 | decagon: CEO on early discovery: 500-person support orgs pulled Decagon into CX [src-20250225-e9f1be]
 - 2024-12-10 | decagon: Pricing post: most customers pick per-conversation [src-20241210-0d932d]

@@ -41,6 +41,7 @@ Agent appends here on every run; weekly synthesis rolls these up. Lines marked [
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
 - 2026-08-26 | lab: FinOps for the AI era: New flexible billing and cost controls for agents [src-20260826-c6c4b5]
 - 2026-07-22 | openai: Launched Presence (voice and chat CX agents), limited GA via FDEs and SIs; 75% autonomous resolution on OpenAI's own line [src-20260722-a3993b]
+- 2026-07-22 | servicenow: AI ACV >$1B in Q2 2026; Q3 results 2026-10-28 [src-20260722-d4586c]
 - 2026-06-28 | openai: HP Inc. scales Frontier strategic partnership after Feb to Jun 2026 pilots [src-20260628-930f51]
 - 2026-06-16 | microsoft, anthropic, openai, accenture: Copilot Cowork is now generally available [src-20260616-28211f]
 - 2026-06-15 | salesforce: Acquired Fin ~$3.6B, closed 2026-09-10 [src-20260615-74b583]

@@ -202,6 +202,7 @@ Questions are defined in `questions.md`.
 - 2026-09-29 | OpenAI Marketplace lets enterprises spend OpenAI commitments on 32 partners including Salesforce, ServiceNow, Sierra and Decagon, so labs distribute systems of record and vertical apps rather than displace them [src-20260929-2fdd0f]
 - 2026-09-26 | Agentforce routes every action through Flow; 4.3M Help-site inquiries, 70% resolved (self-reported) [src-20260926-ff7125]
 - 2026-09-09 | Salesforce rejects the headless-CRM bear case: CRM metadata encodes company knowledge; work shifting to Slack and Claude still increases CRM work volume [src-20260909-c1900d]
+- 2026-07-22 | ServiceNow Q2 2026 (2026-07-22): AI ACV crossed $1B; Otto unifies Now Assist and Moveworks [src-20260722-d4586c]
 - 2026-06-16 | A system-of-work incumbent wrapping Anthropic's models and Cowork pattern, then undercutting Claude Cowork on price by 30 to 40% with its own fine-tuned model, shows the harness owner with the data (Work IQ) can commoditize the model lab [src-20260616-28211f]
 - 2026-06-15 | Salesforce agreed to buy Fin (ex-Intercom) for ~$3.6B on 2026-06-15, closed 2026-09-10 [src-20260615-74b583]
 - 2026-05-27 | Salesforce Q1 FY27 (2026-05-27): Agentforce ARR $1.2B (+205%); >50% of bookings from existing customers [src-20260527-478f91]
@@ -228,6 +229,7 @@ Questions are defined in `questions.md`.
 - 2026-10-07 | Telecom channels (Gamma) now bundle SMB booking and intake agents, commoditizing SMB front-desk agent startups [src-20261007-fc84b0]
 - 2026-10-06 | Sierra and Meta launch the Personal Agent Protocol with Stripe and Walmart (SiliconANGLE, 2026-10-06), Sierra as business-agent endpoint for consumer agents [src-20261006-7bb9f8]
 - 2026-05-19 | Zendesk launches Agent Builder and cites ~20B ticket interactions, incumbent closing on CX agent startups [src-20260519-747ae3]
+- 2026-03-05 | Sequoia (Bek, 2026-03-05): sell the work, start where work is already outsourced; $6 of services per $1 of software [src-20260305-abed56]
 ## Q11. Unit economics
 - 2026-10-22 | LangChain harness-level routing cut median LLM cost per thread $2.61 to $0.94 (-64%) over 973 threads, no significant quality loss [src-20261022-ae18f2]
 - 2026-10-22 | FDE job postings >7,300 in 9 months of 2026 vs <200 in 2023 (Lightcast); Gartner warns of rebranded consulting at FDE premiums [src-20261022-d5ad54]

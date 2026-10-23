@@ -11,3 +11,10 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20260401-e0ba89 | YouTube auto captions (en-orig) via yt-dlp | done | 8147 | Omni Talk Retail: The Retail Leader's Guide to Agentic AI, Process Map |
 | src-20260611-8fe850 | YouTube auto captions (en-orig) via yt-dlp | done | 1956 | Omni Talk Retail 5IM: The Biggest AI Mistake Is Waiting for Perfect Da |
 | src-20260929-334bba | YouTube auto captions (en-orig) via yt-dlp | done | 2497 | theCUBE: Victor Jakubiuk, Shiv Agarwal and Sri Viswanath at Dell Techn |
+| hMr1_Gl6qgc | YouTube captions | captions fetched, queued (not yet read in full) | 10155 | https://www.youtube.com/watch?v=hMr1_Gl6qgc |
+| VmiwMUa_wpA | YouTube captions | captions fetched, queued (not yet read in full) | 5095 | https://www.youtube.com/watch?v=VmiwMUa_wpA |
+| 4EzuDcuVBik | YouTube captions | captions fetched, queued (not yet read in full) | 8080 | https://www.youtube.com/watch?v=4EzuDcuVBik |
+| LzEij6IU6kU | YouTube captions | captions fetched, queued (not yet read in full) | 3856 | https://www.youtube.com/watch?v=LzEij6IU6kU |
+| VgEBUSC15jE | YouTube captions | captions fetched, queued (not yet read in full) | 7406 | https://www.youtube.com/watch?v=VgEBUSC15jE |
+| cO1f2wOxSH4 | YouTube captions | captions fetched, queued (not yet read in full) | 16675 | https://www.youtube.com/watch?v=cO1f2wOxSH4 |
+| emaSFP7y7Ko | YouTube captions | captions fetched, queued (not yet read in full) | 7529 | https://www.youtube.com/watch?v=emaSFP7y7Ko |

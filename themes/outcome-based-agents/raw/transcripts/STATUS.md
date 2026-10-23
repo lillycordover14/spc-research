@@ -15,6 +15,6 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | VmiwMUa_wpA | YouTube captions | captions fetched, queued (not yet read in full) | 5095 | https://www.youtube.com/watch?v=VmiwMUa_wpA |
 | 4EzuDcuVBik | YouTube captions | captions fetched, queued (not yet read in full) | 8080 | https://www.youtube.com/watch?v=4EzuDcuVBik |
 | LzEij6IU6kU | YouTube captions | captions fetched, queued (not yet read in full) | 3856 | https://www.youtube.com/watch?v=LzEij6IU6kU |
-| VgEBUSC15jE | YouTube captions | captions fetched, queued (not yet read in full) | 7406 | https://www.youtube.com/watch?v=VgEBUSC15jE |
-| cO1f2wOxSH4 | YouTube captions | captions fetched, queued (not yet read in full) | 16675 | https://www.youtube.com/watch?v=cO1f2wOxSH4 |
-| emaSFP7y7Ko | YouTube captions | captions fetched, queued (not yet read in full) | 7529 | https://www.youtube.com/watch?v=emaSFP7y7Ko |
+| src-20260330-2b99a8 | YouTube auto captions (en-orig) via yt-dlp | done | 5095 | Lightspeed Investment Memo: How AI Can Make Every Employee a Builder ( |
+| src-20260404-029771 | YouTube auto captions (en-orig) via yt-dlp; captions skip 0:25:35 to 0:27:59 | done | 10155 | Venture with Grace: Sri Viswanath, Sycamore Founder and ex-Atlassian C |
+| src-20260408-5408bb | YouTube auto captions (en-orig) via yt-dlp | done | 3856 | nasscom Conversations: Why Most AI Projects Fail in Enterprises? Rohan |

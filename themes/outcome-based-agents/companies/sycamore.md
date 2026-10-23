@@ -60,6 +60,8 @@ match_context:
 sources:
 - src-20260330-8d6266
 - src-20260929-334bba
+- src-20260330-2b99a8
+- src-20260404-029771
 data_quality: 'Seed card from Harmonic, pulled 2026-10-23. Funding round detail (lead) not available; pricing model, customers and production deployments unverified. Name collides with Sycamore Partners (PE) and others: resolve by domain sycamore.so.'
 updated: '2026-10-23'
 ---
@@ -74,8 +76,10 @@ Candidate tests to verify: multi-agent-governance, system-of-action, investable-
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-29 | sycamore: CEO on theCUBE: in-VPC agent deployment demand from CIOs; Dell venture group named as funder [src-20260929-334bba]
+- 2026-04-04 | sycamore: CEO says pricing is moving from per seat toward value or outcome-based; named investors include Coatue, Lightspeed, Dell, 8VC [src-20260404-029771]
 - 2026-03-30 — $65M seed at $420M valuation; Coatue, Lightspeed, 8VC, Dell Technologies Capital; angels include Ali Ghodsi (Databricks) and Bob McGrew [Harmonic]
 - 2026-03-30 | sycamore: $65M seed (Coatue, Lightspeed), CEO Sri Viswanath [src-20260330-8d6266]
+- 2026-03-30 | sycamore: $65M raise co-led by Coatue and Lightspeed; agent OS with adaptive factory and continual-improvement kernel [src-20260330-2b99a8]
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->

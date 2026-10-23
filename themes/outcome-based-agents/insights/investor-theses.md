@@ -13,5 +13,5 @@ Julien Bek, Sequoia Capital, 2026-03-05. https://sequoiacap.com/article/services
 ## AI leads a service as software paradigm shift
 Joanne Chen and Jaya Gupta, Foundation Capital, 2024-04-18. https://foundationcapital.com/ai-leads-a-service-as-software-paradigm-shift/ [src-20240418-4dfe9a]
 > AI companies are leading a transition from software as a service to service as software, turning the table on the very essence of SaaS.
-> The upside of this change is huge—a $4.6 trillion opportunity, since the global services market dwarfs the software market in size.
+> a $4.6 trillion opportunity, since the global services market dwarfs the software market in size.
 > Rather than charging customers per seat ... software vendors instead charge based on the number of qualified opportunities or signed customers their software delivers.

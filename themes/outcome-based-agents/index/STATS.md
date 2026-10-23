@@ -20,9 +20,8 @@
 - harness-infra: 26
 - orchestration: 19
 - adjacent: 16
-- work-context: 12
+- work-context: 14
 - services: 10
-- system-of-record: 2
 
 ## Companies by layer / status
 - harness-infra: 1

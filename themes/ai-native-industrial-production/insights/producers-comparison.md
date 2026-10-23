@@ -189,5 +189,3 @@ YC manufacturing directory + web/news. Already-in-repo passes (Hadrian, Machina,
 | Charge Robotics | chargerobotics.com | A | Portable robotic factories assembling solar-farm sections | $22M, Mar 2025 | n/a | Commercial deployment funded | src-20250312-4ee5bc |
 | Tensr | ycombinator.com/companies/tensr | A | Own 12k sq ft robotic factory building robots/humanoids to order | YC S26 | YC | Customer orders from large US robotics cos; ISS/NASA JSC partnership | src-20261023-4f030a |
 | Applied Kinetics | appliedkinetics.ai | A (unverified plant) | AI-native maker of transformers/switchgear/cooling for DCs | YC F26 | YC | none named | src-20261023-dff610 |
-| Retrocausal | retrocausal.ai | B | Camera copilot guiding/verifying assembly workers; video to line balancing | $5.3M (Glasswing) | Glasswing | 3M, Forvia, Stellantis, Stryker, Boston Scientific, Carrier | src-20260115-7343a1 |
-| DEEP.FINE | n/a | B | Smart glasses + vision AI giving workers real-time floor guidance | Series B $6.6M, Aug 2026 | n/a | n/a | src-20260818-d7f738 |

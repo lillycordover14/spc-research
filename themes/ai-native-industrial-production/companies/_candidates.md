@@ -180,5 +180,3 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | Charge Robotics | owner-operator | Portable robotic factories assembling solar-farm sections | $22M, Mar 2025 [src-20250312-4ee5bc] | grokbot
 - 2026-10-23 | Tensr | owner-operator | Own 12k sq ft robotic factory building robots/humanoids to order | YC S26 [src-20261023-4f030a] | grokbot
 - 2026-10-23 | Applied Kinetics | owner-operator | AI-native maker of transformers/switchgear/cooling for DCs | YC F26 [src-20261023-dff610] | grokbot
-- 2026-10-23 | Retrocausal | software-first | Camera copilot guiding/verifying assembly workers; video to line balancing | $5.3M (Glasswing) [src-20260115-7343a1] | grokbot
-- 2026-10-23 | DEEP.FINE | software-first | Smart glasses + vision AI giving workers real-time floor guidance | Series B $6.6M, Aug 2026 [src-20260818-d7f738] | grokbot

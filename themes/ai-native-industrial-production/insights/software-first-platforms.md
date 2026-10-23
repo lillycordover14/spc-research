@@ -22,8 +22,6 @@ Sells AI into plants owned by others. Stages, leads and customers only as stated
 ## New B passes 2026-10-23
 | Company | URL | Type | What it makes / runs | Stage | Leads | Customers / orders | Src |
 |---|---|---|---|---|---|---|---|
-| Retrocausal | retrocausal.ai | B | Camera copilot guiding/verifying assembly workers; video to line balancing | $5.3M (Glasswing) | Glasswing | 3M, Forvia, Stellantis, Stryker, Boston Scientific, Carrier | src-20260115-7343a1 |
-| DEEP.FINE | n/a | B | Smart glasses + vision AI giving workers real-time floor guidance | Series B $6.6M, Aug 2026 | n/a | n/a | src-20260818-d7f738 |
 
 ## Excluded (fail the inclusion test; source records kept)
 - Atlas: design-to-manufacturing engineering software
@@ -72,3 +70,4 @@ Sells AI into plants owned by others. Stages, leads and customers only as stated
 - Voxel: safety vision tool, doesn't coordinate production
 - microagi: robot-training data, not production (Lilly)
 - xdof: robot-training data
+- Retrocausal, DEEP.FINE: worker-guidance copilots, not running production (Lilly, 2026-10-23)

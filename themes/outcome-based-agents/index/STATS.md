@@ -1,10 +1,10 @@
 # Index stats — Outcome-based agents and agentic orchestration — 2026-10-23
 
-- sources: 121  | companies: 15 | people: 0
+- sources: 120  | companies: 15 | people: 0
 
 ## Sources by type
 - alphasense: 4
-- article: 96
+- article: 95
 - dataset: 1
 - filing: 1
 - market-research: 11
@@ -12,7 +12,7 @@
 
 ## Sources by status
 - summarized: 112
-- unread: 9
+- unread: 8
 
 ## Sources by layer
 - model-labs: 44
@@ -42,9 +42,9 @@
 - microsoft: 10
 - sierra: 10
 - servicenow: 9
-- langchain: 8
 - accenture: 7
 - deloitte: 7
+- langchain: 7
 - decagon: 6
 - duvo: 2
 - sycamore: 1

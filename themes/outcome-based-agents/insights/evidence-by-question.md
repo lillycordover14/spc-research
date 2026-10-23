@@ -101,6 +101,7 @@ Questions are defined in `questions.md`.
 - 2026-08-31 | Gartner: agentic AI funding up 31.8% vs IT budgets up 3.7% for 2027, implying reallocation from existing software [src-20260831-2bda07]
 - 2026-08-26 | Explicit 'never pay for empty seats' language signals seat compression pressure even at the platform layer, and per-project caps let agent spend be charged back to departments rather than central IT [src-20260826-c6c4b5]
 - 2026-07-31 | Decagon: some customers 'use their BPOS a lot less or don't need the BO anymore' [src-20260731-a07321]
+- 2026-07-10 | Workfabric (Horse's Mouth, 2026-07-10): agents need team-level tacit context; captured as consented edge 'human attention data' in a work graph, not interviews [src-20260710-e2a61b]
 - 2026-05-01 | Per-user licensing for agent governance keeps agent spend inside IT and security budgets [src-20260501-fc687c]
 - 2026-04-08 | Workfabric founder (nasscom, 2026-04-08): agents succeed only in code and a little legal; models lack organizational context; Context Fabric captures it via edge models [src-20260408-5408bb]
 - 2026-04-02 | Wawa CIO sizes AI add-ons at ~20% of core ITSM platform cost, from IT budget, under pressure from rising SaaS costs [src-20260402-8d84cb]
@@ -108,6 +109,7 @@ Questions are defined in `questions.md`.
 - 2026-03-09 | Budget for agent governance lands in the IT and security line via the M365 agreement, not in BPO or headcount budgets [src-20260309-f391cf]
 - 2026-01-19 | Mayfield: 46% of agent buying decisions made by line-of-business leaders [src-20260119-2b35fb]
 - 2025-09-18 | Decagon CEO: enterprise AI buying is now top-down from C-suite and board; CX is the lowest hanging fruit [src-20250918-7e3ad0]
+- 2025-01-16 | Soroco CTO Rohan Murty (PwC India, 2025-01-16): interaction data is 'the system of record that drives or will drive all agents'; Scout model diagnoses why copilots lack adoption [src-20250116-3adb6a]
 - 2025-01-12 | 11x prices digital workers at 20-35% of a human FTE (Growth Unhinged) [src-20250112-39b9ba]
 
 ## Q5. Who builds the harness
@@ -237,6 +239,7 @@ Questions are defined in `questions.md`.
 - 2026-10-14 | Duvo $32M Series A (Balderton, 2026-10-14); total $48M; Notino reconciliation 70 to 15 days [src-20261014-1d5d80]
 - 2026-10-14 | Duvo $32M Series A (Balderton, 2026-10-14); total $48M; Notino reconciliation 70 to 15 days [src-20261014-79938e]
 - 2026-09-29 | Runlayer ($42M raised; Instacart, Gusto, Opendoor, dbt Labs) is the commercial agent control-plane comp to OCE [src-20260929-247cd8]
+- 2026-07-10 | Workfabric CEO: FDE is 'services play but with probably with more expensive engineers' [src-20260710-e2a61b]
 - 2026-03-30 | Sycamore $65M seed led by Coatue and Lightspeed (2026-03-30); no named customers; peers Isara, Airia, Port, Maisa [src-20260330-8d6266]
 - 2025-06-25 | Gartner: only ~130 of thousands of 'agentic' vendors are real (agent-washing) [src-20250625-8a6cff]
 - 2025-05-14 | Bret Taylor: 'I am fairly skeptical of horizontal AI platforms', with open-source LangChain an exception [src-20250514-093b59]
@@ -266,6 +269,7 @@ Questions are defined in `questions.md`.
 - 2026-09-09 | Agentforce 1 Edition $550 per seat consolidates ~$1,300 of US sales-rep point-solution spend [src-20260909-c1900d]
 - 2026-08-26 | Off-peak deferred execution at up to half the inference cost lowers COGS for async back-office agents, improving gross margins for outcome-priced vertical players [src-20260826-c6c4b5]
 - 2026-07-31 | Decagon (a16z, 2026-07-31): 90% of workflow on fine-tuned open-source models; tokens per conversation rising as it adds quality checks [src-20260731-a07321]
+- 2026-07-10 | Workfabric CEO: services firms are built on billing incentives; suggests capturing value on both hours and a non-hours metric [src-20260710-e2a61b]
 - 2026-06-03 | Sierra: S&P up ~30% vs WCLD down ~15% since Dec 2024, seat SaaS under pressure [src-20260603-7bd160]
 - 2026-04-04 | Sycamore CEO (Venture with Grace, 2026-04-04): per seat 'generally doesn't work' for autonomous agents; moving toward value or outcome-based, varying by department [src-20260404-029771]
 - 2026-03-12 | Fin pricing: $0.99 per outcome plus $19 helpdesk seat and $35 Copilot seat, a hybrid outcome plus seat model [src-20260312-1f35f8]

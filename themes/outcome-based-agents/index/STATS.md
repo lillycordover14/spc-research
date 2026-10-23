@@ -1,6 +1,6 @@
 # Index stats — Outcome-based agents and agentic orchestration — 2026-10-23
 
-- sources: 134  | companies: 15 | people: 0
+- sources: 136  | companies: 15 | people: 0
 
 ## Sources by type
 - alphasense: 4
@@ -8,11 +8,11 @@
 - dataset: 1
 - filing: 2
 - market-research: 11
-- podcast: 11
+- podcast: 13
 - website: 8
 
 ## Sources by status
-- summarized: 126
+- summarized: 128
 - unread: 8
 
 ## Sources by layer
@@ -20,8 +20,8 @@
 - model-labs: 46
 - harness-infra: 37
 - orchestration: 29
-- work-context: 20
-- services: 17
+- work-context: 22
+- services: 19
 - adjacent: 17
 
 ## Companies by layer / status
@@ -49,6 +49,6 @@
 - deloitte: 7
 - sycamore: 4
 - duvo: 4
-- workfabric: 2
+- workfabric: 3
 - celonis: 1
 - uipath: 1

@@ -18,3 +18,5 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20260330-2b99a8 | YouTube auto captions (en-orig) via yt-dlp | done | 5095 | Lightspeed Investment Memo: How AI Can Make Every Employee a Builder ( |
 | src-20260404-029771 | YouTube auto captions (en-orig) via yt-dlp; captions skip 0:25:35 to 0:27:59 | done | 10155 | Venture with Grace: Sri Viswanath, Sycamore Founder and ex-Atlassian C |
 | src-20260408-5408bb | YouTube auto captions (en-orig) via yt-dlp | done | 3856 | nasscom Conversations: Why Most AI Projects Fail in Enterprises? Rohan |
+| src-20260710-e2a61b | YouTube auto captions (en-orig) via yt-dlp | done | 8080 | From the Horse's Mouth: Phil pods with Rohan Narayana Murty, Founder a |
+| src-20250116-3adb6a | YouTube auto captions via yt-dlp | done | 2867 | PwC India Intelligent Automation Bytes: Process data and automation fu |

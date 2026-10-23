@@ -18,3 +18,4 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-10-17 | Fidiora | vertical-outcome | AI support desk billing only per resolution ($0.69, $0.45 above 1,000/mo), no seats | src-20261017-be23bc | grokbot
 - 2026-10-13 | Camunda | orchestration | Agentic process orchestration platform; 750+ orgs, 9 of top 10 US banks; $1M+ ARR cohort +87% | src-20261013-eebc5e | grokbot
 - 2026-10-20 | FlowX.AI | orchestration | Agent platform for regulated industries with 220+ agents; Sutherland GTM partner | src-20261020-a21f1d | grokbot
+- 2025-01-16 | Soroco | work-context | Rohan Murty's prior company; Scout model on human-software interaction data | src-20250116-3adb6a | grokbot

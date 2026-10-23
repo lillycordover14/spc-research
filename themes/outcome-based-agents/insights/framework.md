@@ -49,6 +49,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-08-25  -> world 3 because 32% of enterprises now build software in-house with coding agents instead of buying (McKinsey) [src-20260825-e5c5c1]
 - 2026-07-31 a16z Decagon -> world 5 because Decagon argues application-layer vertical agents keep business logic, testing and compliance tooling the labs will not build [src-20260731-a07321]
 - 2026-07-22 OpenAI Presence -> world 1 because the lab ships a complete vertical CX agent with its own harness, deployed by its FDEs and SIs [src-20260722-a3993b]
+- 2026-07-10 Horse's Mouth Workfabric -> world 7 because Workfabric pitches SIs like Cognizant as context engineers for models, a services-led path [src-20260710-e2a61b]
 - 2026-06-28 HP Frontier partnership -> world 1 because HP standardizes agent governance and evaluation on the lab platform [src-20260628-930f51]
 - 2026-06-15  -> world 2 because Salesforce acquires Fin to own the CX agent inside its harness [src-20260615-74b583]
 - 2026-05-27  -> world 2 because Agentforce $1.2B ARR sold mainly into Salesforce's installed base [src-20260527-478f91]

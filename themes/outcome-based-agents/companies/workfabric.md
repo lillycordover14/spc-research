@@ -49,6 +49,7 @@ match_context:
 sources:
 - src-20261023-21a6d6
 - src-20260408-5408bb
+- src-20260710-e2a61b
 data_quality: Seed card from Harmonic, pulled 2026-10-23. No funding recorded in Harmonic; relationship to Soroco (spinout vs new company) unverified.
 updated: '2026-10-23'
 ---
@@ -63,6 +64,7 @@ Candidate tests to verify: owns-work-context (the core claim), lab-resistant, in
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-23 | workfabric: Site snapshot: missions and employee twins; no customers or funding disclosed [src-20261023-21a6d6]
+- 2026-07-10 | workfabric: Names Cognizant as a partner for pooled customer context; argues SIs should pivot to context engineering [src-20260710-e2a61b]
 - 2026-04-08 | workfabric: Founder describes Context Fabric: edge models capture employee device interactions, assembled in cloud [src-20260408-5408bb]
 
 

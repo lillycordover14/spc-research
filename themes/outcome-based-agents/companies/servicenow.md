@@ -35,6 +35,9 @@ sources:
 - src-20260422-1f1ec3
 - src-20260929-2fdd0f
 - src-20260402-8d84cb
+- src-20261013-6d4b75
+- src-20261013-d7909a
+- src-20261021-bf34b8
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -48,6 +51,9 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-21 | servicenow: Arc personal agent GA with Nvidia; AI Passport and Control Tower [src-20261021-bf34b8]
+- 2026-10-13 | servicenow: Reported early talks to buy Decagon; ServiceNow says not ongoing [src-20261013-6d4b75]
+- 2026-10-13 | servicenow: Zavery: no interest in buying Decagon; no major gaps needing large M&A [src-20261013-d7909a]
 - 2026-04-02 | servicenow: Wawa CIO (expert call) rates Now Assist poorly, testing Moveworks add-on, questions long-term need for ServiceNow [src-20260402-8d84cb]
 
 

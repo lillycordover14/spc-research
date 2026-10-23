@@ -42,6 +42,9 @@ sources:
 - src-20260929-2fdd0f
 - src-20260628-930f51
 - src-20260411-60f7c8
+- src-20261021-d5280b
+- src-20261005-66e092
+- src-20260929-247cd8
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -55,6 +58,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-05 | openai: VB Pulse: 45% use Agents SDK/Responses, 34% of primary picks [src-20261005-66e092]
 - 2026-09-29 | openai: DevDay: dots and specialist dots (back-office roles, pilots), Agents API computer use, Bedrock Managed Agents powered by OpenAI, Marketplace with 32 partners [src-20260929-2fdd0f]
 - 2026-09-10 | openai: Agents API public beta: Codex harness as managed service, no extra fee [src-20260910-014b24]
 - 2026-07-22 | openai: Launched Presence (voice and chat CX agents), limited GA via FDEs and SIs; 75% autonomous resolution on OpenAI's own line [src-20260722-a3993b]

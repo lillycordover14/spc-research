@@ -41,9 +41,6 @@ sources:
 - src-20261013-d7909a
 - src-20261013-6d4b75
 - src-20261001-194468
-- src-20261013-a7899e
-- src-20261013-e6d9fb
-- src-20261013-1dbc5b
 - src-20241210-0d932d
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
@@ -58,6 +55,8 @@ Benchmark for CX agents in production.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-13 | decagon: Hired bank to explore sale; early ServiceNow talks (BI 2026-10-13) [src-20261013-6d4b75]
+- 2026-10-13 | decagon: $100M ARR; 90% of workloads on fine-tuned open models [src-20261013-d7909a]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2024-12-10 | decagon: Pricing post: most customers pick per-conversation [src-20241210-0d932d]
 

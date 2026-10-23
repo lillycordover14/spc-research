@@ -45,11 +45,11 @@ sources:
 - src-20261006-7bb9f8
 - src-20261016-e06470
 - src-20260930-9b1413
-- src-20261020-5cc99d
 - src-20261009-e43698
 - src-20261021-f65653
 - src-20260603-7bd160
 - src-20241201-958c00
+- src-20261013-6d4b75
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---
@@ -63,6 +63,8 @@ Benchmark for outcome-priced vertical agents in CX.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-20 | sierra: Stripe partnership for in-call payments; Cedar 71.3% payment completion [src-20261020-28bcd0]
+- 2026-10-06 | sierra: Personal Agent Protocol with Meta, Stripe, Walmart (2026-10-06) [src-20261006-7bb9f8]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-06-03 | sierra: Outcomemaxxing post restates outcome pricing thesis (2026-06-03) [src-20260603-7bd160]
 

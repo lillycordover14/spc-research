@@ -9,3 +9,5 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-04-02 | Moveworks | vertical-outcome | AI agent add-on for IT and employee service on top of ServiceNow; named by Wawa CIO as best combination with ServiceNow (verify ownership status) | src-20260402-8d84cb | grokbot
 - 2026-03-30 | Airia | orchestration | Enterprise agent platform, $100M raised (TechCrunch 2026-03-30) | src-20260330-8d6266 | grokbot
 - 2026-03-30 | Maisa AI | orchestration | Agentic process automation startup named as Sycamore competitor | src-20260330-8d6266 | grokbot
+- 2026-10-08 | Vida | vertical-outcome | AI agent OS (Austin) with outcome-based pricing for qualified leads and transfers, sold via channel | src-20261008-fb6a3d | grokbot
+- 2026-09-29 | Runlayer | harness-infra | Enterprise AI control plane and MCP gateway; $30M Series A Jun 2026 (Felicis, Khosla), $42M total; Instacart, Gusto, Opendoor, dbt Labs | src-20260929-247cd8 | grokbot

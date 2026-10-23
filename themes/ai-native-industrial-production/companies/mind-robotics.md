@@ -76,6 +76,14 @@ sources:
 - src-20261023-ad8c59
 - src-20260926-acffb6
 - src-20260615-ca223d
+- src-20261023-6564de
+- src-20261013-58de15
+- src-20261013-9c3d35
+- src-20261014-976c4d
+- src-20261013-d60e77
+- src-20261013-796f2e
+- src-20261015-c95bf4
+- src-20261013-ce9551
 data_quality: 'Slide 8: >$1B raised, Series A+; Harmonic: Series B 2026-05 at $3.4B. HQ conflict: website footer says Palo Alto, Harmonic says Sunnyvale. Headcount 91 is Harmonic, not press. Bessemer appears in Harmonic investor list but not in any press source. Seed reported as $115M (TechCrunch) and ~$110M (eWeek teaser). No CEO named in any source; Scaringe is chair, Doug Field is President from Oct 2026.'
 updated: '2026-10-22'
 ---

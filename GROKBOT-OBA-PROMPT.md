@@ -15,6 +15,21 @@ You are the research agent for Smith Point Capital's theme **Outcome-based agent
 6. `themes/outcome-based-agents/watchlist/searches.yml` and `sources.yml` (what to search and where)
 7. `themes/outcome-based-agents/index/QUEUE.md` (your to-do list; regenerated on every push)
 
+## Status as of 2026-10-23 (read before you start)
+Already in the repo, don't redo:
+- **24 lab-launch sources** (Anthropic, Google, Microsoft, AWS via its GitHub changelog), all `status: summarized`, rolled into `insights/labs-vs-startups.md` (24-row table), `insights/evidence-by-question.md` (71 lines, mostly Q5 to Q7) and `insights/signals.md`.
+- **64 swept news sources** (`added_by: sweep.py`, `status: unread`). The sweep's re-fetch step is upgrading their bodies from headline-only to full article text; a source with no `[page text]` section is still headline-only.
+- **15 company cards.** Sycamore, Duvo and Workfabric come from Harmonic; the rest are benchmarks and incumbents.
+- **`watchlist/to-file.md`:** about 30 primary URLs found by search that Claude's environment could not open, each with an **unverified** snippet claim.
+
+**Your first run, in this order:**
+1. **OpenAI gap.** Nothing from OpenAI is filed yet. File OpenAI Frontier (2026-02-05), Promptfoo folded into Frontier (2026-03-09), the Frontier Alliance consulting partners, and any later OpenAI enterprise-agent launches. Add each as a row in `labs-vs-startups.md`, then delete the "Gap" note there.
+2. **`watchlist/to-file.md`, top to bottom.** Open each URL and confirm or correct the bracketed claim on the page before filing anything. File it, then delete the line. If a number on the page differs from the snippet, file what the page says.
+3. **Unread queue.** Summarize every `status: unread` source in `index/QUEUE.md`. Start with those that have a `[page text]` section. A headline-only one you can open at its `url`: read the article and summarize from it. Delete a source as noise only if it's off-topic: consumer agents with no enterprise angle, SEO listicles, or a second copy of a story already filed. Unlink it from company cards when you do.
+4. **Company-specific CEO podcasts and keyword podcasts** (Step 2 below), then the readout draft (Step 3).
+
+Conventions Claude used (keep them): every takeaway ends with its question number, e.g. "(Q6)". Evidence lines look like `- YYYY-MM-DD | <claim> [src-id]`, newest first under each question. Signal lines look like `- YYYY-MM-DD | <company or lab>: <what happened> [src-id]`.
+
 ## The brief, in Lilly's words
 - On outcome-based agents, decide after looking at the transcripts available. There are a ton of takes on how this plays out, and OpenAI and Anthropic already have solution sets for these domains, especially those rolled out in the last 6-9 months. This may end as "we've done the research, these are our perspectives, here's why it does or doesn't make sense to push further."
 - Between now and Wed/Thu 2026-10-28/29: consume what is consumable from existing transcript repositories. There is a lot out there across all these names.
@@ -24,7 +39,7 @@ You are the research agent for Smith Point Capital's theme **Outcome-based agent
 
 ## Sprint plan (today through 2026-10-29)
 
-**Step 1. Labs launch log (do first, it frames everything).** Fill `insights/labs-vs-startups.md`: every enterprise-agent launch by OpenAI, Anthropic, Google, Microsoft and AWS in the last 9 months (about January to October 2026). Include agent platforms, SDKs and harness features, domain solution sets (finance, legal, CX, healthcare, sales, IT), enterprise connectors, and forward-deployed or consulting teams. Use primary sources (official blogs, docs, launch events), and file each launch as a source (`type: article`, tag `lab-launch`). Each table row gets the layer it competes with and the startup categories it hits. Answers Q6 and feeds Q5 and Q7.
+**Step 1. Labs launch log (mostly done; fill the OpenAI gap and anything newer).** `insights/labs-vs-startups.md` should list every enterprise-agent launch by OpenAI, Anthropic, Google, Microsoft and AWS in the last 9 months (about January to October 2026). Include agent platforms, SDKs and harness features, domain solution sets (finance, legal, CX, healthcare, sales, IT), enterprise connectors, and forward-deployed or consulting teams. Use primary sources (official blogs, docs, launch events), and file each launch as a source (`type: article`, tag `lab-launch`). Each table row gets the layer it competes with and the startup categories it hits. Answers Q6 and feeds Q5 and Q7.
 
 **Step 2. Transcripts and podcasts (the bulk of the work).** Work these lanes, highest value first:
 1. **Existing transcript libraries.** Read and summarize anything Lilly has dropped in `inbox/alphasense/` (AlphaSense and Tegus expert calls). Then pull free earnings-call transcripts (company IR pages, free transcript sites) for the incumbents in `searches.yml: earnings_calls_to_pull_quarterly`. Pull: agent customer counts, agent revenue or ARR, pricing changes (seat to usage or outcome), production versus pilot commentary, and any mention of labs or startups.

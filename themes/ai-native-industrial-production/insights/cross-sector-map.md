@@ -45,6 +45,35 @@ Columns: Company | URL | Produces | Own plant + in-house stack evidence | Stage 
 ### Electronics / PCBs
 | CircuitHub, Axal, Tenet Industries, ProvenMetal | — | — | in repo | — | — | — | cards |
 
+
+## A2. Owner-operator sweep #2 (YC, VC portfolios, X/LinkedIn terms; 2026-10-23)
+Search terms covered: 'autonomous factory', 'software-defined manufacturing', 'robotic refinery', 'AI-native foundry'. Every row passes the test (own plant + in-house stack, sells parts/material) unless marked.
+| Company | Sector | Produces | Own plant + in-house stack | Stage / round | Leads | Customers / orders | Src |
+|---|---|---|---|---|---|---|---|
+| RMFG (NEW, YC S21) | Fabrication | Sheet/tube/CNC metal assemblies | Own Fort Worth factory; in-house CV models, AI agents, quoting/DFM/scheduling/machine control | Not disclosed; team 9 | YC | Robotics, autonomous farms, PCB factories, rockets | src-20261023-d1ffe2 |
+| Podium Automation (NEW) | Fabrication / electrical | Industrial control panels | Software-enabled panel manufacturing (plant detail thin) | Series A $18M | Construct | n/a | src-20261023-86a9bf |
+| Volund Manufacturing (NEW) | Defense propulsion | Attritable turbojets | Vertically integrated plant, in-house MES digital thread | Seed $12M, Jun 2026 | Root Ventures, Squadra | Production early 2027 | src-20260610-efdda3 |
+| Hyperion Robotics (NEW) | Construction | Low-carbon concrete elements | Robotic microfactories; UK factory with LKAB | Seed EUR6.4M | Course Corrected, EIC Fund | LKAB partnership | src-20261023-a50be4 |
+| Andean Inc. (NEW, stealth) | Refining / e-waste | Recovered critical metals | Modular robotic/ML refineries, AndeanOS planned (R&D stage) | Stealth | n/a | none | src-20261023-776a65 |
+| Yieldara (NEW, unverified stage) | Refining / recycling | Battery-grade Li/Ni/Co/Cu/graphite | AI-guided robotic disassembly + hydromet, digital twin (site claims) | n/a | n/a | none | src-20261023-d1416d |
+| Antropi Robotics (in repo) | Machining | Inspected CNC parts | Own dark-factory cell since 2026, robots load, cameras inspect, Factory OS | YC F26 | YC | 2,000+ parts shipped (site) | src-20261023-248b5f |
+| Westmag (in repo) | Motors | Drone motors, actuators | Factory 01 SSF, stamping + magnet finishing in-house | Seed $11M | a16z AD | Committed orders for 100,000s of units | src-20261023-24f6d0 |
+
+### Lead investors filled in (in-repo companies)
+| Company | Latest round | Leads | Src |
+|---|---|---|---|
+| Hadrian | Series D $1.37B, Aug 2026, $7.87B val | WCM, Washington Harbour, Valor, 137 Ventures, Baillie Gifford; JPMorgan anchor | src-20260806-bac1bf |
+| Machina Labs | Series C $124M, Feb 2026 | Woven Capital, Lockheed Martin Ventures, Balerion, SDF (no single lead named) | src-20260204-20e10c |
+| VulcanForms | Series D $220M, Jan 2026 | 1789 Capital, Eclipse | src-20260130-67307c |
+| Isembard | Series A $50M, Mar 2026 | Union Square Ventures | src-20260309-c919b9 |
+| CircuitHub | $28M, 2026 | Plural | src-20260601-ee7132 |
+| Senra Systems | Series B $65M, Jul 2026 | Lowercarbon, Interlagos | src from cross-sector search (TFN) |
+| Mariana Minerals | Series B $310M, Aug 2026 | Khosla | in repo |
+| Divergent | Series E $290M, Sep 2025 | Rochefort Asset Management | search only (not filed) |
+
+### Failure flag
+- Daedalus (Karlsruhe AI precision-parts factory; $21M Series A Feb 2024, NGP) entered insolvency Aug 2026 [src-20260801-4532f6]. Relevant to the "does the edge compound" question.
+
 ## B. Software-first platforms (AI running production in plants owned by others)
 Reference: Arda (arda.ai): turns CAD/PLM into a build plan, work instructions and station layout, keeps the line current on design changes, moving toward robot execution [src-20261023-ddfbcb].
 | Company | URL | What it does on the floor | Evidence | Stage | Leads | Customers | Src |

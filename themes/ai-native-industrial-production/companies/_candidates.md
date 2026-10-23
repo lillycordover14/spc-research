@@ -212,3 +212,9 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | Flexxbotics | factory-ai (software-first) | Robot-to-machine orchestration in machining cells | ~$15M total; $7.7M Aug 2026 (PitchBook via search); eCoast Angels (2024) [src-20260301-cfb19b] | https://flexxbotics.com | grokbot
 - 2026-10-23 | Vention | factory-ai (software-first) | Cloud automation design + modular cells | Series D $110M, Jan 2026; Investissement Québec, NVentures [src-20260128-1dca36] | https://vention.com | grokbot
 - 2026-10-23 | Mujin | factory-ai (software-first) | MujinOS: robot planning, digital twin, orchestration | Series D $233M (incl. $100M debt), Dec 2025; NTT, QIA [src-20251202-7a9942] | https://mujin-corp.com | grokbot
+- 2026-10-23 | RMFG | owner-operator | Software-defined metal assembly factory, Fort Worth (YC S21) | [src-20261023-d1ffe2] | grokbot
+- 2026-10-23 | Podium Automation | owner-operator | Control-panel manufacturing; $18M Series A (Construct) | [src-20261023-86a9bf] | grokbot
+- 2026-10-23 | Volund Manufacturing | owner-operator | Attritable turbojets, in-house MES; $12M seed (Root, Squadra) | [src-20260610-efdda3] | grokbot
+- 2026-10-23 | Hyperion Robotics | owner-operator | Robotic concrete microfactories; EUR6.4M seed | [src-20261023-a50be4] | grokbot
+- 2026-10-23 | Andean Inc. | owner-operator (stealth) | Robotic e-waste metal refineries | [src-20261023-776a65] | grokbot
+- 2026-10-23 | Yieldara | owner-operator (unverified) | AI-robotic battery recycling refinery | [src-20261023-d1416d] | grokbot

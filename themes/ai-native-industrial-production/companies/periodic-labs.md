@@ -70,6 +70,7 @@ sources:
 - src-20260929-ca6d19
 - src-20261008-83dc1b
 - src-20261001-aafb71
+- src-20250930-d8be97
 data_quality: 'Slide 8: $300M seed. Harmonic: $1.1B raised at $7.5B (2026-06-03). Press: $300M seed at $1.3B (Sep 2025, Felicis lead) then $500M+ at $7.5B led by AMP reported as ''advanced talks'' May 2026 [src-20260514-5796ab]; round amount and lead not confirmed post-close. HQ: Harmonic says Menlo Park, press says San Francisco. Out of SPC range; benchmark only.'
 updated: '2026-10-22'
 ---

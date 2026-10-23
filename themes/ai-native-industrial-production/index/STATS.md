@@ -1,57 +1,58 @@
 # Index stats — AI-native industrial production — 2026-10-22
 
-- sources: 436  | companies: 43 | people: 16
+- sources: 479  | companies: 66 | people: 16
 
 ## Sources by type
 - alphasense: 1
-- article: 192
+- article: 233
 - dataset: 6
 - expert-call: 49
-- filing: 29
+- filing: 30
 - market-research: 25
 - other: 11
-- podcast: 101
+- podcast: 102
 - website: 22
 
 ## Sources by status
 - reviewed: 1
-- summarized: 162
+- summarized: 205
 - unread: 273
 
 ## Sources by layer
-- precision-parts: 106
-- metals-supply: 61
-- fabrication: 60
-- factory-ai: 54
-- materials-rd: 41
-- adjacent: 23
+- precision-parts: 112
+- fabrication: 67
+- metals-supply: 64
+- factory-ai: 63
+- materials-rd: 58
+- adjacent: 26
 
 ## Companies by layer / status
-- adjacent: 1
-- fabrication: 5
-- factory-ai: 15
-- materials-rd: 5
-- metals-supply: 8
-- precision-parts: 9
+- adjacent: 3
+- fabrication: 7
+- factory-ai: 21
+- materials-rd: 14
+- metals-supply: 10
+- precision-parts: 11
 
-- status=candidate: 16
-- status=incumbent: 11
+- status=candidate: 18
+- status=competitor: 1
+- status=incumbent: 31
 - status=passed: 1
 - status=tracking: 15
 
 ## Most-mentioned companies
-- hadrian: 58
-- machina-labs: 26
-- divergent: 24
+- hadrian: 60
+- machina-labs: 28
+- divergent: 26
 - sendcutsend: 22
-- periodic-labs: 19
+- periodic-labs: 20
+- arda: 20
 - mind-robotics: 19
-- arda: 19
-- mariana-minerals: 18
-- radical-ai: 13
+- mariana-minerals: 19
+- radical-ai: 15
 - nox-metals: 12
 - freeform: 11
 - isembard: 11
 - cuspai: 10
+- nvidia: 8
 - xometry: 6
-- senra-systems: 6

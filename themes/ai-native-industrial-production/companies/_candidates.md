@@ -157,3 +157,9 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-22 | Acclaim Aerospace | precision-parts | Aerospace machine shop; owner active in reindustrialize X threads | source: comments [src-20261018-2b4a22] [src-20261018-c4b4cf] | Jason Premo | grokbot
 - 2026-10-22 | Gigaton | factory-ai | Factory AI | source: comments [src-20261012-539c82] | Chris James (Quadri) | grokbot
 - 2026-10-22 | Matterloop | materials-rd | Named as missing from AI-materials map; no detail | source: comments [src-20260814-b77f2d] | Ivan Grudinin | grokbot
+
+
+## Added 2026-10-22 from incumbents-vs-ai-native research
+- **Lila Sciences**: AI Science Factories, $550M raised incl. NVentures [src-20251014-e9c02b]; Series B talks reported (Bloomberg Law, unconfirmed). Stage: Series A.
+- **Orbital Industries**: CurieOS AI materials platform licensed by BASF ECMS [src-20261022-edad3e]; stage unknown.
+- **Fabri**: automated investment casting, $13.5M incl. RTX Ventures and Lockheed Martin Ventures [src-20260630-cc821c]; early stage.

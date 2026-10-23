@@ -3,6 +3,13 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-10-22 — Incumbents map: Lockheed–Hadrian 7-yr embedded automated cells at Grand Prairie (PAC-3/THAAD/PrSM/GMLRS), commissioning early 2027 [src-20261014-015327]
+- 2026-10-22 — Incumbents map: Anduril is Arda's first design partner (ArsenalOS) [src-20261020-bbfb1c]
+- 2026-10-22 — Incumbents map: Microsoft $60M DOE Genesis Mission; Discovery plugged into PNNL lab automation, JHU APL autonomous labs w/ MatterGen [src-20260722-9cba8e]
+- 2026-10-22 — Incumbents map: Lockheed Martin Ventures fund raised $400M→$1B (Apr 2026) [src-20260401-073d24]
+- 2026-10-22 — Incumbents map: Foxconn MoMClaw agent claims −80% root-cause time, +15% labor productivity [src-20261022-89d710]
+- 2026-10-22 — Incumbents map: Siemens+NVIDIA Industrial AI OS (Erlangen blueprint) [src-20260106-60b745]
+- 2026-10-22 — Incumbents map: Google DeepMind automated UK materials lab slated 2026, opening not yet confirmed [src-20251211-cb7237]
 - 2026-10-22 — Comments: SendCutSend customer asked for certs/CofCs; Belosic: certs already offered, "CoC is coming soon for billet parts"; next sites GA/AL/SC pending incentives; Reno 160k sq ft operational, Pittston 170k in equipment ramp (commenter) [src-20261020-1d0bbb]
 - 2026-10-22 — Comments: Xometry Head of Corp Dev (Anthony Yamson) flags Xometry as missing from Lynch manufacturing-tech map [src-20261012-539c82]
 - 2026-10-22 — Comments: DoD IBAS director Adele Ratcliff publicly endorses Slodov "American Shenzhen" blueprint ("all Manufactung matters") [src-20261022-9367ca]

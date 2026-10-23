@@ -17,6 +17,10 @@ Curated guide to the strongest sources in this theme. Every flagged source carri
 11. **Core Memory : The Crisis Facing American Manufacturing**: [src-20260926-70087f](https://www.youtube.com/watch?v=NpvYyx2OUTc). Core Memory cross-company episode on the crisis in American manufacturing (Hadrian, Machina).
 12. **EO: Joseph Krause, Radical AI**: [src-20251121-0117c9](https://www.youtube.com/watch?v=zwXz30EYyfQ). Joseph Krause on Radical AI self-driving lab.
 
+## (a2) Incumbents vs AI-native
+
+- **[incumbents-vs-ai-native.md](incumbents-vs-ai-native.md)**: hyperscalers (DeepMind, Microsoft, Meta, NVIDIA), conglomerates (Siemens, Foxconn), primes (Lockheed, RTX, Anduril), miners and forgers vs AI-native producers: player table, deal log, synthesis, expert-call questions.
+
 ## (b) Investor takes and theses
 
 The full verbatim text of every thesis is in [investor-theses.md](investor-theses.md).

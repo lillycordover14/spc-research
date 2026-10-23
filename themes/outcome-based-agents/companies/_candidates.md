@@ -21,3 +21,5 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2025-01-16 | Soroco | work-context | Rohan Murty's prior company; Scout model on human-software interaction data | src-20250116-3adb6a | grokbot
 - 2026-06-29 | Box | work-context | Aaron Levie's company; horizontal enterprise content layer exposed to agents via MCP | src-20260629-015aae | grokbot
 - 2025-10-02 | Intercom (Fin) | vertical-outcome | AI customer service agent priced per resolution; incumbent helpdesk turned outcome vendor | src-20251002-0b85b2 | grokbot
+- 2026-06-03 | Lassie | vertical-outcome | AI agents running dental practice financial admin; a16z-led $35M Series A (2026-06) | src-20260603-ce0e80 | grokbot
+- 2026-02-10 | Leena AI | vertical-outcome | Back-office agents priced on tickets closed, moved from consumption to outcome pricing (per Bessemer) | src-20260210-496d37 | grokbot

@@ -65,6 +65,7 @@ Questions are defined in `questions.md`.
 - 2026-04-22 | OpenAI moved workspace agents to credit-based (usage) pricing on 2026-05-06, not seats or outcomes [src-20260422-75a0a8]
 - 2026-04-08 | Session-hour pricing is a lab-level unit price for agent labor, a step toward time- or outcome-based units rather than seats [src-20260408-e5d37b]
 - 2026-03-12 | Intercom Fin (2026-03-12): moves to $0.99 per outcome (50/month minimum), 76% average resolution, 12,000+ teams [src-20260312-1f35f8]
+- 2026-03-10 | Bret Taylor (Cheeky Pint, 2026-03-10): Sierra charges a pre-negotiated rate per autonomous resolution; escalations to humans are free [src-20260310-ad2c26]
 - 2026-03-09 | Microsoft prices agent governance per human user ($15) and bundles it into a $99 seat, the opposite of per-agent or per-outcome pricing, which signals the largest incumbent is defending seat economics rather than moving to outcomes [src-20260309-f391cf]
 - 2025-01-12 | Growth Unhinged (2025-01-12, 2024 data): 54% of AI products monetized beyond seats; 7% outcome-based [src-20250112-39b9ba]
 - 2024-12-10 | Decagon (2024-12-10): most customers choose per-conversation over per-resolution pricing [src-20241210-0d932d]
@@ -244,6 +245,7 @@ Questions are defined in `questions.md`.
 - 2026-08-26 | Off-peak deferred execution at up to half the inference cost lowers COGS for async back-office agents, improving gross margins for outcome-priced vertical players [src-20260826-c6c4b5]
 - 2026-06-03 | Sierra: S&P up ~30% vs WCLD down ~15% since Dec 2024, seat SaaS under pressure [src-20260603-7bd160]
 - 2026-03-12 | Fin pricing: $0.99 per outcome plus $19 helpdesk seat and $35 Copilot seat, a hybrid outcome plus seat model [src-20260312-1f35f8]
+- 2026-03-10 | Sierra customers automate 70-90% of cases; residual human cases get longer handle times [src-20260310-ad2c26]
 
 ## Q12. Exit paths
 - 2026-10-13 | Decagon ($4.5B) hired a bank to explore a sale; early ServiceNow talks, now denied (Business Insider, 2026-10-13) [src-20261013-6d4b75]

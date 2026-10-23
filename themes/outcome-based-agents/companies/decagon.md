@@ -44,6 +44,7 @@ sources:
 - src-20241210-0d932d
 - src-20260731-a07321
 - src-20250918-7e3ad0
+- src-20250225-e9f1be
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -62,6 +63,7 @@ Benchmark for CX agents in production.
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]
 - 2025-09-18 | decagon: CEO details per-conversation allotment pricing and up-market move into banks, airlines, telcos [src-20250918-7e3ad0]
+- 2025-02-25 | decagon: CEO on early discovery: 500-person support orgs pulled Decagon into CX [src-20250225-e9f1be]
 - 2024-12-10 | decagon: Pricing post: most customers pick per-conversation [src-20241210-0d932d]
 
 

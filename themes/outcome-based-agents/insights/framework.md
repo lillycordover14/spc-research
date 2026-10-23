@@ -54,6 +54,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-05-27  -> world 2 because Agentforce $1.2B ARR sold mainly into Salesforce's installed base [src-20260527-478f91]
 - 2026-05-07 Rackspace TFiR (AlphaSense) -> world 4 because a managed-services provider embeds FDE pods and runs the agent stack for regulated customers [src-20260507-288237]
 - 2026-04-02 Wawa CIO expert call (AlphaSense) -> world 3 because the CIO wants to combine multiple vendors' agents himself and questions whether the ITSM system of record is needed [src-20260402-8d84cb]
+- 2026-04-01 Omni Talk Duvo -> world 5 because Duvo runs retail back-office processes itself on top of legacy systems, displacing consultant process work [src-20260401-e0ba89]
 - 2026-02-24  -> world 1 because Anthropic ships function plugins for enterprise agents [src-20260224-7eb23d]
 - 2026-02-23 OpenAI Frontier Alliances -> world 4 because OpenAI relies on McKinsey, BCG, Accenture and Capgemini to assemble Frontier deployments per client, with the lab owning the platform (worlds 1 and 4 combined) [src-20260223-9272a6]
 - 2026-02-05 OpenAI Frontier launch -> world 1 because OpenAI positions Frontier as the one platform that runs and governs every agent, including third-party ones [src-20260205-ea19f4]

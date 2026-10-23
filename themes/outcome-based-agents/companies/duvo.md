@@ -60,6 +60,8 @@ match_context:
 sources:
 - src-20261014-79938e
 - src-20261014-1d5d80
+- src-20260401-e0ba89
+- src-20260611-8fe850
 data_quality: Seed card from Harmonic, pulled 2026-10-23. Round size is a Harmonic estimate; customers, pricing and production use unverified. Third co-founder Martin Pecha listed as co-founder until 2026-05.
 updated: '2026-10-23'
 ---
@@ -76,6 +78,8 @@ Candidate tests to verify: in-production (Rohlik as design partner?), measurable
 - 2026-10-14 — $32M Series A led by Balderton Capital [src-20261014-475b47]; $47M raised to date, with Index Ventures, Credo, Northzone [Harmonic]
 - 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-1d5d80]
 - 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-79938e]
+- 2026-06-11 | duvo: CEO pitches 3-4 week automation of a prospect's messiest process at Shoptalk Europe [src-20260611-8fe850]
+- 2026-04-01 | duvo: CEO details Duvo Clarity process mapping and supplier-call and should-cost agents [src-20260401-e0ba89]
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->

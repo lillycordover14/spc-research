@@ -57,6 +57,7 @@ Questions are defined in `questions.md`.
 - 2026-09-09 | Salesforce (GS Communacopia, 2026-09-09): premium agentic SKUs ~5% of installed base at 60-80% uplift; sales agents moving to paying for qualified leads or booked orders [src-20260909-c1900d]
 - 2026-08-26 | Google is moving agent pricing from seats toward consumption (PAYG, pooled quotas, off-peak batch at half price), but not to outcomes; outcome-based pricing remains an app-layer opportunity on top of usage-priced labs [src-20260826-c6c4b5]
 - 2026-06-16 | Microsoft layered consumption pricing (credits metered on model use, tool calls and runtime) on top of a seat, a hybrid that shows the shift from seats toward usage-based agent labor but not to per-outcome pricing [src-20260616-28211f]
+- 2026-06-11 | Duvo CEO: ROI on headcount savings is 'a false pretense' in thin-margin retail [src-20260611-8fe850]
 - 2026-06-03 | Sierra (2026-06-03): outcome pricing works only where work is highly autonomous and attributable [src-20260603-7bd160]
 - 2026-05-27 | Salesforce Agentforce pricing: Flex Credits, per-conversation or per-user, a hybrid menu [src-20260527-478f91]
 - 2026-05-19 | A rubric-plus-grader 'outcomes' primitive makes it technically easy to define and verify a unit of completed work, the precondition for outcome-based pricing by apps built on the lab [src-20260519-55cca6]
@@ -69,6 +70,7 @@ Questions are defined in `questions.md`.
 - 2026-03-09 | Microsoft prices agent governance per human user ($15) and bundles it into a $99 seat, the opposite of per-agent or per-outcome pricing, which signals the largest incumbent is defending seat economics rather than moving to outcomes [src-20260309-f391cf]
 - 2025-09-18 | Decagon (No Priors, 2025-09-18): prices per conversation, or per conversation without a human, sold as a prepaid allotment burned down over the term [src-20250918-7e3ad0]
 - 2025-05-14 | Bret Taylor (Training Data, 2025-05-14): Sierra's median customer pays a pre-negotiated rate per autonomous resolution; escalation is free [src-20250514-093b59]
+- 2025-02-25 | Decagon CEO: agent value benchmarked to labor (tickets resolved, CSAT); labor costs 'an order of magnitude or two more' than software, enlarging contracts [src-20250225-e9f1be]
 - 2025-01-12 | Growth Unhinged (2025-01-12, 2024 data): 54% of AI products monetized beyond seats; 7% outcome-based [src-20250112-39b9ba]
 - 2024-12-10 | Decagon (2024-12-10): most customers choose per-conversation over per-resolution pricing [src-20241210-0d932d]
 - 2024-12-01 | Sierra (Dec 2024): introduces outcome-based pricing for agents, charging only when agreed outcomes are achieved [src-20241201-958c00]
@@ -84,10 +86,12 @@ Questions are defined in `questions.md`.
 - 2026-10-07 | SailPoint-cited research (Oct 2026, n not stated): 79% run agents in production, 2% have agent-specific identity security [src-20261007-1a5e2f]
 - 2026-10-02 | Treating FDE talent as the scaling constraint confirms deployment skill, not model capability, is the main blocker to production [src-20261002-8d9e4f]
 - 2026-08-25 | McKinsey 2026: ~20% say AI operating costs including tokens constrained use [src-20260825-e5c5c1]
+- 2026-06-11 | Duvo CEO (Shoptalk Europe, 2026-06-11): POC posture is the market norm; critical agents must run 10,000 times a day for years; data cleanups are the biggest mistake [src-20260611-8fe850]
 - 2026-05-07 | Rackspace (TFiR, 2026-05-07) names data aggregation from legacy systems and standing up the AI ecosystem as the main production blockers; regulated healthcare customers refuse public cloud [src-20260507-288237]
 - 2026-04-02 | Wawa CIO: only ~20% of IT issues are ever logged as tickets, so the ticket system itself limits what agents can see [src-20260402-8d84cb]
 - 2026-03-12 | Services capacity, not model access, is treated as the bottleneck to production, consistent with pilot-to-production being the main blocker [src-20260312-73c25c]
 - 2026-03-09 | OpenAI calls evaluation, security and compliance 'foundational requirements' for AI coworkers in real workflows [src-20260309-b2ac14]
+- 2025-02-25 | Decagon CEO (Accel, 2025-02-25): customers fear a black box and require tooling to audit, QA and change agent logic [src-20250225-e9f1be]
 
 ## Q4. Whose budget
 - 2026-10-22 | Letting Managed Agents and the full agent toolkit draw down Google Cloud commitments removes the procurement friction that favored hyperscaler-native harnesses, extending the lab's harness into cloud budgets [src-20261022-d0a3a2]
@@ -191,6 +195,7 @@ Questions are defined in `questions.md`.
 - 2026-05-12 | Defensibility in legal shifts to proprietary content and workflow systems (Thomson Reuters, iManage, Relativity) and to outcome accountability, since general drafting and redlining is now lab-provided [src-20260512-5c6e2d]
 - 2026-05-01 | Microsoft positions itself as the governance plane over agents built anywhere (Bedrock, Google Agent Platform, n8n, Zendesk), making the control plane rather than the harness its defensible layer [src-20260501-fc687c]
 - 2026-04-22 | Orchestration as a standalone layer gets squeezed between hyperscaler platforms and systems of record that ship their own agents into the same gallery [src-20260422-1f1ec3]
+- 2026-04-01 | Duvo (Omni Talk, 2026-04-01): Duvo Clarity voice agents map hundreds of people's processes in under a week, replacing consultant process mapping [src-20260401-e0ba89]
 - 2026-03-12 | Boutique agent-deployment services startups now compete with lab-funded global SIs carrying lab certifications [src-20260312-73c25c]
 - 2026-02-24 | The finance data incumbents (FactSet, S&P, LSEG, MSCI) are distributing through Claude as connectors, so the work-context moat sits with licensed data owners rather than with agent wrappers [src-20260224-11d529]
 - 2026-02-05 | Frontier claims the enterprise semantic layer ('how information flows, where decisions happen'), the same work-context asset Workfabric and Celonis sell [src-20260205-ea19f4]
@@ -217,6 +222,7 @@ Questions are defined in `questions.md`.
 - 2026-05-05 | FIS embedding Claude so its clients need not build infrastructure suggests the system of record plus lab combination, not a standalone vertical agent, captures many bank deployments [src-20260505-1c452a]
 - 2026-04-22 | Systems of record (Salesforce, ServiceNow, Workday, Oracle) are partners distributing agents into Gemini Enterprise rather than being displaced [src-20260422-d312c6]
 - 2026-04-02 | Wawa CIO calls ServiceNow 'just a bunch of data' and asks whether agents could replace it; rates Now Assist as not doing the job [src-20260402-8d84cb]
+- 2026-04-01 | Duvo CEO: recommendations are constrained to not 'ripping and replacing the core ERP'; agents work around legacy portals without APIs [src-20260401-e0ba89]
 - 2026-02-24 | Systems of record (Salesforce via Slack, FactSet, S&P, LSEG) chose to ship as plugins inside Claude rather than resist, suggesting the defensible asset is proprietary data access, not the agent shell [src-20260224-a28ce9]
 - 2026-01-19 | Mayfield: 56% moving budget away from incumbent vendors toward agents [src-20260119-2b35fb]
 
@@ -238,6 +244,7 @@ Questions are defined in `questions.md`.
 - 2026-10-07 | Telecom channels (Gamma) now bundle SMB booking and intake agents, commoditizing SMB front-desk agent startups [src-20261007-fc84b0]
 - 2026-10-06 | Sierra and Meta launch the Personal Agent Protocol with Stripe and Walmart (SiliconANGLE, 2026-10-06), Sierra as business-agent endpoint for consumer agents [src-20261006-7bb9f8]
 - 2026-05-19 | Zendesk launches Agent Builder and cites ~20B ticket interactions, incumbent closing on CX agent startups [src-20260519-747ae3]
+- 2026-04-01 | Duvo: agents call suppliers after missed delivery windows and run should-cost analysis on every price increase, processes most retailers never staffed [src-20260401-e0ba89]
 - 2026-03-05 | Sequoia (Bek, 2026-03-05): sell the work, start where work is already outsourced; $6 of services per $1 of software [src-20260305-abed56]
 ## Q11. Unit economics
 - 2026-10-22 | LangChain harness-level routing cut median LLM cost per thread $2.61 to $0.94 (-64%) over 973 threads, no significant quality loss [src-20261022-ae18f2]

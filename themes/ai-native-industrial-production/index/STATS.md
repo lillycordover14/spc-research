@@ -1,21 +1,21 @@
 # Index stats — AI-native industrial production — 2026-10-23
 
-- sources: 576  | companies: 92 | people: 16
+- sources: 596  | companies: 92 | people: 16
 
 ## Sources by type
 - alphasense: 1
-- article: 330
+- article: 349
 - dataset: 6
 - expert-call: 49
 - filing: 30
 - market-research: 25
 - other: 11
 - podcast: 102
-- website: 22
+- website: 23
 
 ## Sources by status
 - reviewed: 1
-- summarized: 277
+- summarized: 297
 - unread: 298
 
 ## Sources by layer

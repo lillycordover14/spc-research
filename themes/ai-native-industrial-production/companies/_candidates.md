@@ -182,3 +182,15 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | ProvenMetal | early-stage producer | Fast domestic PCB assembly, SF | YC S26; YC [src-20261023-b79be1] | https://provenmetal.com | grokbot
 - 2026-10-23 | Tenet Industries | early-stage producer | AI/robotic PCBA factory, Munich | YC Sp26; YC [src-20261023-2925da] | https://www.ycombinator.com/companies/tenet-industries | grokbot
 - 2026-10-23 | Axal | early-stage producer | Quick-turn PCB assembly <48h, SF | YC W25; YC [src-20261023-401290] | https://www.axal.ai | grokbot
+- 2026-10-23 | Ethereal Machines | owner-operator | Own CNC machines + Vesper factory OS, Bengaluru; Series B $28.5M | [src-20260611-f67aff] | grokbot
+- 2026-10-23 | BatX Energies | owner-operator | Battery recycling/refining plants India; Series A ~$11M | [src-20260702-10b647] | grokbot
+- 2026-10-23 | Foundation Alloy | owner-operator (borderline) | Solid-state alloys, MA plant; Series A $22M | [src-20260616-fb5e38] | grokbot
+- 2026-10-23 | Reframe Systems | owner-operator | Robotic home microfactories; Series B $40M | [src-20260801-e54188] | grokbot
+- 2026-10-23 | Unspun | owner-operator | 3D-weaving apparel factories | [src-20260406-67dc95] | grokbot
+- 2026-10-23 | Hippo Harvest | owner-operator | Robotic greenhouses; Series C $30M | [src-20260101-1566af] | grokbot
+- 2026-10-23 | Noveon Magnetics | owner-operator (borderline) | Rare-earth magnets; Series C $215M | [src-20260101-1badc2] | grokbot
+- 2026-10-23 | Tandem PV | owner-operator (borderline) | Automated perovskite line | [src-20260401-c8b296] | grokbot
+- 2026-10-23 | Redwood Materials | owner-operator (borderline) | Battery materials; Series E $425M | [src-20260128-7545d8] | grokbot
+- 2026-10-23 | Multiply Labs | robotic biomanufacturing | Series B $75M | [src-20261001-74df84] | grokbot
+- 2026-10-23 | Almetra | software-first platform | Factory video to live data; Series A EUR16.3M | [src-20260625-940831] | grokbot
+- 2026-10-23 | microagi | enabler | Worker video to train factory robots; $55M seed | [src-20260716-017398] | grokbot

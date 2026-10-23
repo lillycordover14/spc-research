@@ -137,3 +137,11 @@ Arda emerged from stealth on 20 Oct 2026 with an agent for manufacturing enginee
 - Augustus Odena, Chief AI Officer: Adept co-founder, Google Brain, Meta [src-20261020-914a64]
 - Alex Mark, CTO: led engineering at Palantir, IRS Direct File [src-20261020-914a64]
 - Investor voices: Apoorv Agrawal (Altimeter); customer voice: Matt Grimm (Anduril co-founder/COO) [src-20261020-914a64]
+
+## What arda.ai says (fetched 2026-10-23) [src-20261023-ddfbcb]
+- Website: https://arda.ai/ (resolves the open domain question above). Legal name Arda Industries, Inc.
+- Product: AI "single source of truth for manufacturing". Four steps: Translate (CAD, PDFs, PLM, requirements into one product model mapped to a process), Plan (full build plan: operations, tools, quality checks, fixtures, stations, visual work instructions; MEs review), Optimize (supports supply chain, schedulers, technicians; feeds production insights back), Adapt (design revisions propagate to parts, stations, instructions; reallocates resources across lines as demand shifts).
+- Proof claimed: "running across multiple lines at a large US manufacturer"; key engineering tasks 5-10x faster. Customer quote: Matt Grimm (Anduril co-founder/COO), "We would be behind on our production goals without Arda."
+- Next: "From AI-powered planning to robotic execution" using existing robot hardware plus new AI models.
+- Positioning: software-first platform (approach B) running in plants owned by others; team from OpenAI, Palantir (forward-deployed model), Adept.
+- Note: the homepage does NOT mention learning from factory video; the video angle comes from press coverage only.

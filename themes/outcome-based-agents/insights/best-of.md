@@ -6,7 +6,14 @@ Curated guide to the strongest sources in this theme. Every flagged source carri
 
 1. ★ Cheeky Pint, Bret Taylor of Sierra (2026-03-10): per-resolution pricing with free escalation; 70-90% automation; "process, not a person" [src-20260310-ad2c26]
 2. Salesforce at Goldman Sachs Communacopia (2026-09-09): how outcome deals get funded from savings or revenue metrics [src-20260909-c1900d]
-3. AlphaSense expert call, Wawa CIO on ITSM agents (2026-04-02) [src-20260402-8d84cb]
+3. a16z, Decagon on open-source models (2026-07-31): 90% of workflow on open source, Sierra switch [src-20260731-a07321]
+4. Agents of Scale, Des Traynor (2025-10-02): origin of $1 per resolution [src-20251002-0b85b2]
+5. Sequoia, Harrison Chase on when to build your own harness (2026-08-13) [src-20260813-09fcee]
+6. Aaron Levie and Harrison Chase (2026-06-29): slow diffusion, headless, cost as the 3-year story [src-20260629-015aae]
+7. No Priors, Bill McDermott (2026-04-17): AI control tower, consumption on top of seats [src-20260417-a917fe]
+8. 20VC, Daniel Dines (2026-09-21): map of work [src-20260921-f28021]
+9. From the Horse's Mouth, Rohan Narayana Murty (2026-07-10): FDE as services [src-20260710-e2a61b]
+10. AlphaSense expert call, Wawa CIO on ITSM agents (2026-04-02) [src-20260402-8d84cb]
 
 ## (b) Must-read reports and surveys
 
@@ -29,14 +36,19 @@ Curated guide to the strongest sources in this theme. Every flagged source carri
 ## (d) Investor theses and market maps
 
 - ★ Sequoia, Services: The New Software (2026-03-05) [src-20260305-abed56]
+- ★ a16z, You are not a model. Don't price per token. (2026-08-27) [src-20260827-fb556f]
+- ★ Bessemer, The AI pricing and monetization playbook (2026-02-10) [src-20260210-496d37]
+- a16z, Investing in Lassie (2026-06-03) [src-20260603-ce0e80]
 - Foundation Capital, AI leads a service as software paradigm shift (2024-04-18) [src-20240418-4dfe9a]
 - Excerpts in [investor-theses](investor-theses.md)
 
 ## (e) Startups and their best sources
 
 - Sierra: Cheeky Pint [src-20260310-ad2c26]; $15.8B valuation [src-20261020-28bcd0]
-- Decagon: $100M annualized revenue, $4.5B [src-20261013-d7909a]; sale exploration [src-20261013-6d4b75]
-- Duvo: $32M Series A, Notino [src-20261014-1d5d80]
-- Sycamore: $65M seed [src-20260330-8d6266]
-- Workfabric: site [src-20261023-21a6d6]
+- Decagon: $100M annualized revenue, $4.5B [src-20261013-d7909a]; sale exploration [src-20261013-6d4b75]; a16z podcast [src-20260731-a07321]; No Priors [src-20250918-7e3ad0]; Accel [src-20250225-e9f1be]
+- Duvo: $32M Series A, Notino [src-20261014-1d5d80]; Omni Talk Retail [src-20260401-e0ba89, src-20260611-8fe850]
+- Sycamore: $65M seed [src-20260330-8d6266]; Venture with Grace [src-20260404-029771]; theCUBE [src-20260929-334bba]
+- Workfabric: site [src-20261023-21a6d6]; Murty podcast [src-20260710-e2a61b]
+- Intercom Fin (candidate): Traynor [src-20251002-0b85b2, src-20260114-5bb0dc]; McCabe [src-20250821-666ad1]
+- Lassie (candidate): a16z memo [src-20260603-ce0e80]
 - Candidates: Camunda [src-20261013-eebc5e], Exotel [src-20261019-d96d4c], Cygrid [src-20261023-aec496], FlowX.AI [src-20261020-a21f1d]

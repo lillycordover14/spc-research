@@ -15,6 +15,7 @@ Agent appends here on every run; weekly synthesis rolls these up. Lines marked [
 - 2026-10-21 | servicenow: ServiceNow Arc GA on Nvidia OpenShell [src-20261021-4e9ddf]
 - 2026-10-20 | sierra: Stripe partnership for in-call payments; Cedar 71.3% payment completion [src-20261020-28bcd0]
 - 2026-10-17 | langchain: Chase: ~30% of LangChain eng salary goes to coding tools; routing belongs in harness [src-20261017-d3bed0]
+- 2026-10-16 | sierra: Genesys joins Personal Agent Protocol [src-20261016-e06470]
 - 2026-10-14 | anthropic, langchain: Agent observability on the Claude Platform [src-20261014-2e6208]
 - 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-1d5d80]
 - 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-79938e]

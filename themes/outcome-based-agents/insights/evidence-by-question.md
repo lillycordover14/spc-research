@@ -6,9 +6,11 @@ Questions are defined in `questions.md`.
 
 ## Q1. Production, not pilots
 - 2026-10-21 | Metrigy via Constellation: 66-68% of organizations still run non-cloud or hybrid legacy contact centers [src-20261021-e45563]
+- 2026-10-20 | Modern Data Survey: 23.5% run agents in production in data workflows, 33.8% piloting [src-20261020-76881e]
 - 2026-10-19 | Gartner (n=2,002 CIOs, May-Jul 2026): only 13% report significant value from AI; ~1 in 5 use cases succeed; 51% expect higher TCO [src-20261019-a120c4]
 - 2026-10-19 | Gartner keynote (2,000+ CIOs, Q2 2026): 71% expect agentic AI deployment within 12 months; only 21% have agent governance [src-20261019-895f0b]
 - 2026-10-13 | DXC: across 500+ measured use cases, OASIS cut IT incident resolution time 95% with 92%+ diagnostic accuracy [src-20261013-1dcd15]
+- 2026-10-13 | Camunda ProcessOS: Nordic bank process redesign 96% faster, 94% cheaper per process [src-20261013-eebc5e]
 - 2026-10-08 | Adoption claims (nearly 90% of the Fortune 100 on Gemini Enterprise; SOMPO with 10,000+ custom agents) are vendor-reported breadth data [src-20261008-d5cbe2]
 - 2026-10-08 | KPMG Q3 AI Pulse (n=314 US $1B+ C-suite, Jul-Aug 2026): 62% building/deploying/developing agents vs 53%; 25% multi-agent vs 6% [src-20261008-1ab8b8]
 - 2026-10-05 | VB Pulse: 53% say a quarter or fewer deployed agents are true multi-agent workflows [src-20261005-66e092]
@@ -36,6 +38,8 @@ Questions are defined in `questions.md`.
 - 2026-10-20 | Sierra plus Stripe: Cedar's agent converts 71.3% of started payments in-call (TNW, 2026-10-20), an attributable outcome unit [src-20261020-28bcd0]
 - 2026-10-19 | Exotel's Bhatia (ET, 2026-10-19): voice AI per-minute pricing at Rs 2.50-3 is commoditizing; outcome pricing on leads and collections is the future [src-20261019-d96d4c]
 - 2026-10-17 | Chase: value from verification accrues to domain experts who can write evaluators, the precondition for outcome pricing [src-20261017-d3bed0]
+- 2026-10-17 | Growth Unhinged 2025 (n=240+, via Gupta): seat pricing 21% to 15%, hybrid 27% to 41% in a year [src-20261017-be23bc]
+- 2026-10-17 | HubSpot EMEA new customers moved to seats plus credits on 2026-10-01; resolved agent conversation = 50 credits [src-20261017-be23bc]
 - 2026-10-16 | SAP CEO Klein (Q2 2026 call): AI lets SAP reset to outcome value pricing; not yet GA [src-20261016-9f1777]
 - 2026-10-13 | Tech Insider (2026-10-13): Fin $0.99/resolution (76% avg claimed), Zendesk from $1.50, Agentforce $0.10/action via Flex Credits [src-20261013-7d8358]
 - 2026-10-08 | SDR agent billed in Copilot credits is consumption pricing for digital labor, closer to per-task than per-seat, but still not per-outcome [src-20261008-5bb82b]
@@ -64,6 +68,7 @@ Questions are defined in `questions.md`.
 
 ## Q3. What blocks production
 - 2026-10-20 | Collibra/VB (2026-10-20): >75% hit a production wall going from 1 copilot to 10-15 agents; ~30% caught agents accessing unpermitted data (Harris Poll); 5% fully trust evals (VB, n=157) [src-20261020-7922f1]
+- 2026-10-20 | Modern Data Survey interim (n=540+, data leaders, 66 countries, Aug 2026): data quality top-3 barrier for 75.9%; only 8.4% trust AI input data [src-20261020-76881e]
 - 2026-10-19 | Exotel: buyers fail to budget evaluation and process owners; realistic ramp is 2% to 5% to 10% automation [src-20261019-d96d4c]
 - 2026-10-17 | LangChain: a runaway plugin loop burned ~$40K in a week; fix was LangSmith visibility, $5-per-task budget caps and harness optimization [src-20261017-d3bed0]
 - 2026-10-14 | Graduated access based on trace review is a lab-endorsed answer to the trust blocker for production agents [src-20261014-2e6208]
@@ -160,8 +165,10 @@ Questions are defined in `questions.md`.
 - 2026-10-21 | Nvidia OpenShell Reference Architecture (2026-10-21): hardware-enforced agent runtime adopted by SAP, IBM, ServiceNow [src-20261021-4e9ddf]
 - 2026-10-20 | A lab analytics agent rose from ~30% to ~90% accuracy with business context, then fell to 60% in two months as context drifted [src-20261020-7922f1]
 - 2026-10-20 | Couchbase (2026-10-20): managed agent memory and MCP; claims 33-45% token savings (vendor benchmark) [src-20261020-b0b7df]
+- 2026-10-20 | Modern Data Survey: 60.9% say a context layer is necessary, 16.0% engineer one [src-20261020-76881e]
 - 2026-10-17 | Chase (20VC via BigGo, 2026-10-17): labs absorb harness hacks; what persists is proprietary data, API access and domain verifiers [src-20261017-d3bed0]
 - 2026-10-14 | The lab chose to partner with, not replace, observability vendors, suggesting cross-model observability and evaluation remains a defensible neutral layer [src-20261014-2e6208]
+- 2026-10-13 | Camunda (2026-10-13): $1M+ ARR customer ARR +87%, count +67%; regulated industries lead [src-20261013-eebc5e]
 - 2026-10-05 | VB Pulse (Aug 2026, n=166 self-selected, 100+ employee orgs): only 2% chose an agent platform for the model; 67% expect control plane at least partly outside provider-managed services [src-20261005-66e092]
 - 2026-09-24 | TechTarget (2026-09-24): Opus 5.5 and GPT-6 Sol/Luna push enterprises to multi-model routing; orchestration and evals become architecture [src-20260924-2caa15]
 - 2026-07-22 | Presence ships the full CX agent harness (SOPs, guardrails, simulations, graders, improvement loop), so vertical CX vendors must defend on outcomes, data and distribution rather than harness [src-20260722-a3993b]
@@ -208,6 +215,7 @@ Questions are defined in `questions.md`.
 
 - 2026-10-23 | Visa pilot with BILL and Billtrust (2026-10-21): AI agents pay approved B2B invoices end to end [src-20261023-89141c]
 - 2026-10-20 | Sierra valued at $15.8B after $950M raise (May 2026) [src-20261020-28bcd0]
+- 2026-10-16 | Genesys joins Sierra/Meta Personal Agent Protocol (Telecom Reseller, 2026-10-16); acquired Pinkfish [src-20261016-e06470]
 - 2026-10-13 | Decagon: $400M+ raised, customers Delta, Snapchat, Ticketmaster; Sierra valued at $15.8B [src-20261013-6d4b75]
 - 2026-10-13 | Decagon crossed $100M annualized revenue ~3 years after launch; $250M Series D at $4.5B [src-20261013-d7909a]
 - 2026-10-07 | Telecom channels (Gamma) now bundle SMB booking and intake agents, commoditizing SMB front-desk agent startups [src-20261007-fc84b0]

@@ -37,6 +37,8 @@ sources:
 - src-20261008-5bb82b
 - src-20260929-2fdd0f
 - src-20260909-c1900d
+- src-20260527-478f91
+- src-20260615-74b583
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -51,10 +53,18 @@ Benchmark. Track launches, pricing and customer counts.
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
+- 2026-06-15 | salesforce: Acquired Fin ~$3.6B, closed 2026-09-10 [src-20260615-74b583]
+- 2026-05-27 | salesforce: Q1 FY27: Agentforce ARR $1.2B +205%, 3.8B Agentic Work Units [src-20260527-478f91]
+- 2026-03-12 | salesforce: Fin (acquired by Salesforce) priced at $0.99 per outcome [src-20260312-1f35f8]
 
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->
+- Pricing unit: Flex Credits, per conversation, or per user; sales agents moving to qualified leads or booked orders [src-20260527-478f91] [src-20260909-c1900d]
+- Price points: Agentforce 1 Edition $550 per seat vs ~$1,300 point-solution spend; premium SKUs 60-80% uplift, ~5% of base [src-20260909-c1900d]
+- Fin (acquired, ~$3.6B): $0.99 per outcome, 50/month minimum, $19 helpdesk seat, Copilot $35/user [src-20260312-1f35f8] [src-20260615-74b583]
+- Scale: Agentforce ARR $1.2B (+205%), 3.8B Agentic Work Units [src-20260527-478f91]
+- Gross margin after inference: not disclosed
 
 ## Open questions
 - What did it ship for enterprise agents in the last 6-9 months, and which startup categories did that hit? (Q6)

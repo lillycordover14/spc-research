@@ -36,6 +36,8 @@ sources:
 - src-20260526-3c3aa7
 - src-20260616-28211f
 - src-20261008-5bb82b
+- src-20261014-1d5d80
+- src-20261014-79938e
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---

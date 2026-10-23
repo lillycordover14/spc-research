@@ -81,6 +81,8 @@ Candidate tests to verify: in-production (Rohlik as design partner?), measurable
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-14 — $32M Series A led by Balderton Capital [src-20261014-475b47]; $47M raised to date, with Index Ventures, Credo, Northzone [Harmonic]
+- 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-1d5d80]
+- 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-79938e]
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->

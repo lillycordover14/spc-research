@@ -46,7 +46,8 @@ match_context:
 - soroco
 - work
 - artificial intelligence
-sources: []
+sources:
+- src-20261023-21a6d6
 data_quality: Seed card from Harmonic, pulled 2026-10-23. No funding recorded in Harmonic; relationship to Soroco (spinout vs new company) unverified.
 updated: '2026-10-23'
 ---
@@ -60,6 +61,7 @@ Candidate tests to verify: owns-work-context (the core claim), lab-resistant, in
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-23 | workfabric: Site snapshot: missions and employee twins; no customers or funding disclosed [src-20261023-21a6d6]
 
 
 ## Economics (what we know)

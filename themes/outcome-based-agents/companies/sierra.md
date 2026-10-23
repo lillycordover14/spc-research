@@ -48,6 +48,8 @@ sources:
 - src-20261020-5cc99d
 - src-20261009-e43698
 - src-20261021-f65653
+- src-20260603-7bd160
+- src-20241201-958c00
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---
@@ -62,10 +64,16 @@ Benchmark for outcome-priced vertical agents in CX.
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
+- 2026-06-03 | sierra: Outcomemaxxing post restates outcome pricing thesis (2026-06-03) [src-20260603-7bd160]
 
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->
+- Pricing unit: outcome (agreed result such as resolved case or saved cancellation) [src-20241201-958c00]
+- Where it works: only highly autonomous and highly attributable work, per Sierra [src-20260603-7bd160]
+- Price points: not disclosed
+- Gross margin after inference: not disclosed
+- Services / FDE share: not disclosed
 
 ## Open questions
 - What is the pricing unit and does it hold at renewal?

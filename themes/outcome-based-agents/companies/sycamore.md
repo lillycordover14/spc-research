@@ -57,7 +57,8 @@ match_context:
 - coatue
 - enterprise ai
 - artificial intelligence
-sources: []
+sources:
+- src-20260330-8d6266
 data_quality: 'Seed card from Harmonic, pulled 2026-10-23. Funding round detail (lead) not available; pricing model, customers and production deployments unverified. Name collides with Sycamore Partners (PE) and others: resolve by domain sycamore.so.'
 updated: '2026-10-23'
 ---
@@ -72,6 +73,7 @@ Candidate tests to verify: multi-agent-governance, system-of-action, investable-
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-03-30 — $65M seed at $420M valuation; Coatue, Lightspeed, 8VC, Dell Technologies Capital; angels include Ali Ghodsi (Databricks) and Bob McGrew [Harmonic]
+- 2026-03-30 | sycamore: $65M seed (Coatue, Lightspeed), CEO Sri Viswanath [src-20260330-8d6266]
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->

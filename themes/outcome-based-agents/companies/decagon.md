@@ -44,6 +44,7 @@ sources:
 - src-20261013-a7899e
 - src-20261013-e6d9fb
 - src-20261013-1dbc5b
+- src-20241210-0d932d
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -58,10 +59,16 @@ Benchmark for CX agents in production.
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
+- 2024-12-10 | decagon: Pricing post: most customers pick per-conversation [src-20241210-0d932d]
 
 
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->
+- Pricing unit: per conversation or per resolution; majority of customers choose per conversation [src-20241210-0d932d]
+- Price points: not disclosed
+- Gross margin after inference: not disclosed
+- Services / FDE share: not disclosed
+- Renewal behavior: not disclosed
 
 ## Open questions
 - Pricing model (per conversation vs per resolution)?

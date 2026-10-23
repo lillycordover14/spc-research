@@ -22,6 +22,8 @@ Reading path for getting up to speed fast, Day 1 basics through Day 4 expert. Ev
 - Decagon on open-source models [src-20260731-a07321]: why an app keeps its own harness (Q6, Q11)
 - Murty on FDEs as a services play [src-20260710-e2a61b] (Q5)
 - McDermott on the AI control tower [src-20260417-a917fe] and Dines on the map of work [src-20260921-f28021] (Q8)
+- Katz on what survives in the harness: runtime, security, cost [src-20261019-54d838] (Q6, Q7, Q11)
+- Akkiraju on buy front end, build back end [src-20260427-1a7ad0] and Capital One's in-house platform [src-20260416-e6896d] (Q3, Q5)
 - ServiceNow Arc on Nvidia OpenShell [src-20261021-4e9ddf]: system of record as governance plane (Q8)
 
 ## 3. Outcome pricing and unit economics
@@ -31,6 +33,8 @@ Reading path for getting up to speed fast, Day 1 basics through Day 4 expert. Ev
 - (2h) ★ a16z, price the highest layer you can attribute [src-20260827-fb556f] (Q2, Q11)
 - ★ Bessemer pricing playbook [src-20260210-496d37]: margins and hybrids (Q2, Q11)
 - Traynor on how Intercom picked $1 per resolution [src-20251002-0b85b2] and McCabe on 99 cents vs $20-30 human cost [src-20250821-666ad1] (Q2)
+- Zendesk CEO on AI ARR and paid-if-solved [src-20260805-5a9fa7]; Intercom CFO on resolution rate and margin [src-20260522-b1dbe3] (Q2, Q11)
+- Taylor on FDE tied to outcome pricing [src-20260309-78d5a1] and Medina on the outcome bonus [src-20250422-de3b52] (Q2, Q5)
 - Agentforce $2 per resolution [src-20260926-ff7125] (Q2, Q8)
 - Exotel on budgeting and ramp [src-20261019-d96d4c] (Q3, Q4)
 - LangChain routing cut cost per thread 64% [src-20261022-ae18f2] (Q11)

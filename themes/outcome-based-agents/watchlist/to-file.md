@@ -3,8 +3,6 @@
 Found 2026-10-23 by search only; these pages could not be fetched from Claude's environment. Numbers in brackets are search-snippet claims, **unverified**: confirm on the page, then file with `add_source.py` and delete the line here. GrokBot: work this list top to bottom.
 
 ## Labs (Q6)
-- OpenAI Frontier launch, 2026-02-05: https://openai.com/index/introducing-openai-frontier/
-- OpenAI: Promptfoo folded into Frontier (2026-03-09) and the Frontier Alliance consulting partners (McKinsey, BCG, Accenture, Capgemini): search openai.com/index
 - Anthropic enterprise agents push, 2026-02-24 (press view): https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/
 
 ## Tipping point surveys (Q1, Q3)

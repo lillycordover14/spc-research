@@ -37,6 +37,7 @@ sources:
 - src-20260512-5c6e2d
 - src-20260616-28211f
 - src-20261002-8d9e4f
+- src-20260223-9272a6
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -50,6 +51,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-02-23 | openai, accenture: Frontier Alliances announced with BCG, McKinsey, Accenture, Capgemini; partners build OpenAI-certified practices [src-20260223-9272a6]
 
 
 ## Economics (what we know)

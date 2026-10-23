@@ -33,6 +33,14 @@ tags:
 sources:
 - src-20260616-28211f
 - src-20261022-a0f852
+- src-20260205-ea19f4
+- src-20260223-9272a6
+- src-20260309-b2ac14
+- src-20260422-75a0a8
+- src-20260722-a3993b
+- src-20260910-014b24
+- src-20260929-2fdd0f
+- src-20260628-930f51
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -46,6 +54,14 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-29 | openai: DevDay: dots and specialist dots (back-office roles, pilots), Agents API computer use, Bedrock Managed Agents powered by OpenAI, Marketplace with 32 partners [src-20260929-2fdd0f]
+- 2026-09-10 | openai: Agents API public beta: Codex harness as managed service, no extra fee [src-20260910-014b24]
+- 2026-07-22 | openai: Launched Presence (voice and chat CX agents), limited GA via FDEs and SIs; 75% autonomous resolution on OpenAI's own line [src-20260722-a3993b]
+- 2026-06-28 | openai: HP Inc. scales Frontier strategic partnership after Feb to Jun 2026 pilots [src-20260628-930f51]
+- 2026-04-22 | openai: Workspace agents in ChatGPT Business/Enterprise/Edu; credit pricing from 2026-05-06 [src-20260422-75a0a8]
+- 2026-03-09 | openai: Agreed to acquire Promptfoo (AI security and evals) to integrate into Frontier [src-20260309-b2ac14]
+- 2026-02-23 | openai, accenture: Frontier Alliances announced with BCG, McKinsey, Accenture, Capgemini; partners build OpenAI-certified practices [src-20260223-9272a6]
+- 2026-02-05 | openai: Launched Frontier enterprise agent platform; first adopters HP, Intuit, Oracle, State Farm, Thermo Fisher, Uber [src-20260205-ea19f4]
 
 
 ## Economics (what we know)

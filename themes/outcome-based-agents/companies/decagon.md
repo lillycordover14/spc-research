@@ -41,6 +41,8 @@ sources:
 - src-20261013-d7909a
 - src-20261013-6d4b75
 - src-20261001-194468
+- src-20260722-a3993b
+- src-20260929-2fdd0f
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -54,6 +56,7 @@ Benchmark for CX agents in production.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 
 
 ## Economics (what we know)

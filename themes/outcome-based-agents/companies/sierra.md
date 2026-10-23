@@ -45,6 +45,8 @@ sources:
 - src-20261006-7bb9f8
 - src-20261016-e06470
 - src-20260930-9b1413
+- src-20260722-a3993b
+- src-20260929-2fdd0f
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---
@@ -58,6 +60,7 @@ Benchmark for outcome-priced vertical agents in CX.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 
 
 ## Economics (what we know)

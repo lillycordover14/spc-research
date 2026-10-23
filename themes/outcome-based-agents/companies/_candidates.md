@@ -26,3 +26,49 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2025-11-05 | Bloomfilter | work-context | Process intelligence for the software development life cycle, built as an ISV on Celonis (theCUBE, Celosphere 2025) | src-20251105-fde118 | grokbot
 - 2026-06-24 | Coval (coval.dev) | harness-infra | Simulation, evaluation and observability for voice agents; 28.2M Series A led by Norwest (Jun 2026) | src-20260624-eb13a6 | grokbot
 - 2025-04-22 | Paid (paid.ai) | adjacent | Billing, pricing, invoicing and revenue recognition for AI agents incl. outcome-based models; CEO Manny Medina (ex-Outreach) | src-20250422-de3b52 | grokbot
+- 2026-10-08 | Rein (reinsec.io) | harness-infra | Runtime security for AI agents: traces actions, holds agents to roles, blocks harmful actions; $25M Series A, total $35M | src-20261008-418b1c | grokbot
+- 2026-10-16 | RapidCanvas (rapidcanvas.ai) | services | Managed AI execution: platform plus field AI engineers at subscription pricing; $29M Series B, total $52.5M | src-20261016-425bfa | grokbot
+- 2026-10-23 | Daytona | harness-infra | Agent cloud and sandbox infrastructure; $60M Series B at $1B, total $91M | src-20261023-3f4b4a | grokbot
+- 2026-03-25 | Adonis | vertical-outcome | AI orchestration platform for healthcare revenue cycle; 4x revenue growth 2025, NRR above 130%; $40M Series C, total $95M+ | src-20260325-9a969a | grokbot
+- 2026-07-22 | Candid Health | vertical-outcome | Autonomous RCM platform; ARR +190% YoY; valuation tripled vs Feb 2025; $120M Series D | src-20260722-e6a1e0 | grokbot
+- 2026-10-08 | GenHealth.ai | vertical-outcome | Agents for intake, eligibility, prior auth, billing and denials inside existing systems; $16.5M Series A, total $30M | src-20261008-50f3eb | grokbot
+- 2026-04-22 | Amperos Health (amperos.com) | vertical-outcome | Agentic workforce that works denied claims end to end: calls, portals, appeals; $16M Series A | src-20260422-d6ae9d | grokbot
+- 2026-07-28 | Procode | vertical-outcome | AI surgical coding plus acquired billing companies (rollup); $10M Series A, total $14M | src-20260728-5c2f73 | grokbot
+- 2026-02-24 | Basis (getbasis.ai) | vertical-outcome | End-to-end agents for accounting, tax and audit work; $100M Series B at $1.15B (per page title) | src-20260224-b6a4eb | grokbot
+- 2026-09-17 | Adaptive | vertical-outcome | Project accounting agents for job costing, AP, billing, WIP, payments; $30M Series B, total $57M | src-20260917-e6c847 | grokbot
+- 2025-07-21 | Xelix | vertical-outcome | Agentic AP: processes 115M+ invoices a year, audits $750B+ spend; $160M Series B | src-20250721-54e512 | grokbot
+- 2026-05-27 | Pace (withpace.com) | vertical-outcome | Agents replacing offshore insurance BPO work: claims, policy servicing, submissions; $46M Series B at $375M (Series A $10M Sequoia, Jan 2026) | src-20260527-cecfde | grokbot
+- 2026-03-25 | Notch (get-notch.co) | vertical-outcome | AI operating system for regulated industries, started from insurance operations; $30M Series A, total $45M | src-20260325-5584af | grokbot
+- 2026-05-13 | ClearRisk AI | vertical-outcome | AI platform to assist auto insurance claims adjusters; $15M Series A, total $22M | src-20260513-fb476a | grokbot
+- 2026-02-12 | Didero | vertical-outcome | Agents that run day-to-day procurement inside existing systems and email; $30M Series A | src-20260212-5fd1e0 | grokbot
+- 2026-03-05 | Lio (lio.ai) | vertical-outcome | Agents that complete the entire enterprise procurement process; $30M Series A, total $33M | src-20260305-fefcb3 | grokbot
+- 2026-09-17 | Magentic | vertical-outcome | Procurement and supply-chain agents across ERP data; $18M Series A, total $23.5M | src-20260917-25441c | grokbot
+- 2026-03-23 | Dash0 (dash0.com) | harness-infra | OpenTelemetry observability with Agent0 AI SRE agents; $110M Series B at $1B, total $155M | src-20260323-e76c06 | grokbot
+- 2026-04-16 | InsightFinder | harness-infra | Finds where AI agents and infrastructure fail; seven-figure Fortune 50 deal; $15M Series B, total $35M | src-20260416-dfa630 | grokbot
+- 2026-04-07 | NeuBird AI | vertical-outcome | Agentic AI SRE for cloud ops; 1M+ alerts automated, MTTR down up to 90%; $19.3M Series B | src-20260407-8cfa16 | grokbot
+- 2026-08-06 | Omilia | vertical-outcome | Voice-first CX automation since 2002; ARR $60M, up 10x; $67M Series B | src-20260806-53e2bf | grokbot
+- 2026-06-16 | respond.io (respond.io) | vertical-outcome | Customer conversation platform with AI agents; $35M ARR, +169% YoY; $62.5M Series B | src-20260616-8a0be8 | grokbot
+- 2026-09-30 | Ema | orchestration | Teams of AI agents automating HR, IT and finance processes; bookings $150M+; $77M Series B, total $140M | src-20260930-9ee545 | grokbot
+- 2026-01-20 | Ivo (ivo.ai) | vertical-outcome | Contract intelligence for in-house legal teams; $55M Series B | src-20260120-667118 | grokbot
+- 2026-06-03 | Wordsmith (wordsmith.ai) | vertical-outcome | Platform and agent inbox that runs in-house legal requests; $70M Series B, total $100M | src-20260603-a6ea11 | grokbot
+- 2026-03-31 | Crosby | vertical-outcome | AI-native contract firm that replaces billable hours; $60M Series B | src-20260331-50e583 | grokbot
+- 2026-02-11 | Take2 | vertical-outcome | AI agents for healthcare recruiting interviews and screening; $14M Series A | src-20260211-adbf96 | grokbot
+- 2026-06-14 | Orbio | vertical-outcome | Automates frontline hiring and onboarding; $21M Series A, total $26M | src-20260614-1eab1f | grokbot
+- 2026-09-22 | Spott (spott.io) | vertical-outcome | Agentic platform for recruitment agencies; placements up to 30%; $21M Series A, total $24.2M | src-20260922-e2fd03 | grokbot
+- 2026-06-23 | Tsuga (tsuga.com) | harness-infra | AI-native observability in customer environment with FDE tuning; $35M Series A | src-20260623-e97988 | grokbot
+- 2026-09-17 | Raindrop (raindrop.ai) | harness-infra | Production monitoring and simulations for AI agent failures; Series A, $50M total | src-20260917-29a2db | grokbot
+- 2026-08-12 | Skan AI (skan.ai) | work-context | Records how enterprise work gets done and feeds it to agents; 30 to 40% average ops savings; $63M Series C, total ~$120M | src-20260812-4cb1fc | grokbot
+- 2025-09-24 | Mimica | work-context | Process intelligence capturing repetitive tasks to train agents; ARR +570% in 18 months; $26.2M Series B | src-20250924-c1a4cf | grokbot
+- 2026-07-20 | Natural | harness-infra | Payment rails for agents; planned per-API-call billing (Charge); $30M Series A, total $40M+ | src-20260720-e50556 | grokbot
+- 2026-08-02 | Flexprice | harness-infra | Open-source usage billing for AI companies; $1.5M seed | src-20260802-db6422 | grokbot
+- 2026-03-31 | Kestra | orchestration | Open-source orchestration of data, AI agent and business workflows; enterprise revenue 25x since seed; $25M Series A, total $36M | src-20260331-83a5c4 | grokbot
+- 2026-05-05 | CopilotKit (copilotkit.ai) | harness-infra | Agent-user interaction framework and AG-UI standard; $27M Series A | src-20260505-826992 | grokbot
+- 2026-06-24 | Runlayer (runlayer.com) | harness-infra | Control layer governing employee use of AI agents across providers; $30M Series A, total $42M | src-20260624-0c6e18 | grokbot
+- 2026-04-28 | Actively AI (actively.ai) | vertical-outcome | Persistent agent per account that researches, drafts and advances deals; $45M Series B at $250M, total $67.5M | src-20260428-2d177a | grokbot
+- 2026-06-24 | Attention | vertical-outcome | AI platform that runs revenue team workflows; 20M agent actions a month, ARR 4x; $30M Series B | src-20260624-c59112 | grokbot
+- 2026-10-23 | Zomma | vertical-outcome | Computer-use agents for cross-border transaction alert investigations; YC (batch per page) | src-20261023-36cc4e | grokbot
+- 2026-10-23 | Definite (usedefinite.com) | vertical-outcome | Agents that run bank regulatory reporting from ledger to filed report; YC | src-20261023-12e7f6 | grokbot
+- 2026-10-23 | Walter | vertical-outcome | AI employee that logs into SAP, Dynamics or Oracle to enter POs and catch pricing errors; YC | src-20261023-aee4fa | grokbot
+- 2026-10-23 | Elimentary | vertical-outcome | Agents running ops for private credit managers; YC | src-20261023-c1d343 | grokbot
+- 2026-10-23 | Zolvo | vertical-outcome | Back-office automation for factoring and ABL lenders; YC | src-20261023-d2a134 | grokbot
+- 2026-10-23 | Prosper AI | vertical-outcome | AI-native healthcare services provider; n/v | src-20261023-cc2e6e | grokbot

@@ -1,0 +1,79 @@
+# Startup landscape: outcome-based agents
+
+Startups filed 2026-10-23 from funding announcements, grouped by taxonomy layer. n/v = not verified on the filed page. Investable flag: Seed to Series C, named enterprise customers, mission-critical work (security and pure back office only if notable), outcome or usage pricing preferred. Domains shown only where seen on the source; names resolve by domain when card is made.
+
+## harness-infra (11)
+
+| Company | Domain | One-liner | Vertical | Stage | Last round | Investors | Named customers | Pricing | Flag | Src |
+|---|---|---|---|---|---|---|---|---|---|---|
+| CopilotKit | copilotkit.ai | Agent-user interaction framework and AG-UI standard | agent UI framework | series-a | $27M Series A (2026-05-05) | Glilot Capital, NfX, SignalFire (leads) | DocuSign, S&P Global, Cisco, Deutsche Telekom, Function Health | n/v (open source) | screen | [src-20260505-826992] |
+| Coval | coval.dev | Simulation, evaluation and monitoring for voice agents | evals (voice) | series-a | $28M Series A, total $31M (2026-06-24) | Norwest (lead), Base10, Twilio Ventures, YC | Zoom, Deepgram; 60+ orgs | n/v | screen | [src-20260624-2cae61] |
+| Dash0 | dash0.com | OpenTelemetry observability with Agent0 AI SRE agents | IT ops / observability | series-b | $110M Series B at $1B, total $155M (2026-03-23) | Balderton Capital (lead), DTCP Growth | 600+ paying customers incl. Zalando, Taco Bell, The Telegraph | n/v | screen | [src-20260323-e76c06] |
+| Daytona | n/v | Agent cloud and sandbox infrastructure | agent sandboxes | series-b | $60M Series B at $1B, total $91M (2026-10-23) | FirstMark Growth (lead) | n/v | n/v | screen: no named customers | [src-20261023-3f4b4a] |
+| Flexprice | n/v | Open-source usage billing for AI companies | agent billing | seed | $1.5M seed (2026-08-02) | n/v | n/v | usage billing infra | screen: no named customers | [src-20260802-db6422] |
+| InsightFinder | n/v | Finds where AI agents and infrastructure fail; seven-figure Fortune 50 deal | IT ops / agent reliability | series-b | $15M Series B, total $35M (2026-04-16) | Yu Galaxy (lead) | UBS, NBCUniversal, Lenovo, Dell (partial list) | n/v | screen | [src-20260416-dfa630] |
+| Natural | n/v | Payment rails for agents; planned per-API-call billing (Charge) | agent payments and billing | series-a | $30M Series A, total $40M+ (2026-07-20) | Forerunner (lead) | n/v | n/v | screen: no named customers | [src-20260720-e50556] |
+| Raindrop | raindrop.ai | Production monitoring and simulations for AI agent failures | agent monitoring | series-a | Series A, $50M total (2026-09-17) | CRV (lead) | n/v | n/v | screen: no named customers | [src-20260917-29a2db] |
+| Rein | reinsec.io | Runtime security for AI agents: traces actions, holds agents to roles, blocks harmful actions | agent security | series-a | $25M Series A, total $35M (2026-10-08) | Glilot Capital, Sienna Venture Capital (co-leads), Corner Ventures | Lemonade, Dun & Bradstreet | n/v | out: security | [src-20261008-418b1c] |
+| Runlayer | runlayer.com | Control layer governing employee use of AI agents across providers | agent control plane / MCP gateway | series-a | $30M Series A, total $42M (2026-06-24) | Felicis (lead), Khosla Ventures | Instacart, Gusto, Opendoor, dbt Labs, AngelList; a Fortune 500 bank | n/v | screen | [src-20260624-0c6e18] |
+| Tsuga | tsuga.com | AI-native observability in customer environment with FDE tuning | observability | series-a | $35M Series A (2026-06-23) | Singular (lead), General Catalyst, DST Global Partners | Le Monde, Camunda, Buk, Black Forest Labs | usage (per GB) | screen | [src-20260623-e97988] |
+
+## orchestration (2)
+
+| Company | Domain | One-liner | Vertical | Stage | Last round | Investors | Named customers | Pricing | Flag | Src |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Ema | n/v | Teams of AI agents automating HR, IT and finance processes; bookings $150M+ | HR, IT, finance ops | series-b | $77M Series B, total $140M (2026-09-30) | Creaegis (lead), Accel, Section 32, Prosus | NTT DATA, Hitachi, ADP, PwC, Google, KPMG, Wipro, Microsoft | outcome (completed tasks and outcomes) | PICK: prices by completed tasks and outcomes, $150M+ bookings, F500 customers | [src-20260930-9ee545] |
+| Kestra | n/v | Open-source orchestration of data, AI agent and business workflows; enterprise revenue 25x since seed | workflow orchestration | series-a | $25M Series A, total $36M (2026-03-31) | RTP Global (lead), Alven | Apple, JPMorgan Chase, Toyota, Deutsche Telekom, BHP, Credit Agricole | usage (Kestra Cloud) | PICK: usage pricing, Apple, JPMorgan, Toyota; enterprise revenue 25x | [src-20260331-83a5c4] |
+
+## work-context (2)
+
+| Company | Domain | One-liner | Vertical | Stage | Last round | Investors | Named customers | Pricing | Flag | Src |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Mimica | n/v | Process intelligence capturing repetitive tasks to train agents; ARR +570% in 18 months | task mining | series-b | $26.2M Series B (2025-09-24) | Paladin Capital Group (lead) | 30+ large enterprises incl. Fortune 500s (unnamed) | n/v | screen: no named customers | [src-20250924-c1a4cf] |
+| Skan AI | skan.ai | Records how enterprise work gets done and feeds it to agents; 30 to 40% average ops savings | process intelligence | series-c | $63M Series C, total ~$120M (2026-08-12) | Cathay Innovation, Dell Technologies Capital (co-leads), Citi Ventures, State Farm Ventures, Wipro Ventures | a quarter of the Fortune 50 (unnamed) | n/v | PICK: work-context for agents, a quarter of the Fortune 50, Series C | [src-20260812-4cb1fc] |
+
+## vertical-outcome (31)
+
+| Company | Domain | One-liner | Vertical | Stage | Last round | Investors | Named customers | Pricing | Flag | Src |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Actively AI | actively.ai | Persistent agent per account that researches, drafts and advances deals | sales | series-b | $45M Series B at $250M, total $67.5M (2026-04-28) | TCV, First Harmonic (co-leads); Bain Capital Ventures (Series A) | Ramp (others listed on company site) | n/v | PICK: Ramp 23% higher close rate; revenue-generating not back office | [src-20260428-2d177a] |
+| Adaptive | n/v | Project accounting agents for job costing, AP, billing, WIP, payments | construction accounting | series-b | $30M Series B, total $57M (2026-09-17) | Tidemark (lead), Emergence Capital, Andreessen Horowitz | 750+ construction companies | n/v | screen | [src-20260917-e6c847] |
+| Adonis | n/v | AI orchestration platform for healthcare revenue cycle; 4x revenue growth 2025, NRR above 130% | healthcare RCM | series-c | $40M Series C, total $95M+ (2026-03-25) | General Catalyst, Point72 Ventures (prior backers) | provider groups and health systems (unnamed) | n/v | screen: no named customers | [src-20260325-9a969a] |
+| Amperos Health | amperos.com | Agentic workforce that works denied claims end to end: calls, portals, appeals | healthcare RCM | series-a | $16M Series A (2026-04-22) | Bessemer Venture Partners (lead) | clients across 3,000 clinical locations (unnamed) | n/v | PICK: denied-claim recovery is a measurable outcome; Bessemer; 3,000 locations | [src-20260422-d6ae9d] |
+| Attention | n/v | AI platform that runs revenue team workflows; 20M agent actions a month, ARR 4x | sales (revenue teams) | series-b | $30M Series B (2026-06-24) | RTP Global (lead), Eniac, Alven | Abridge, Scale, Lovable, Preply, BambooHR (500+) | n/v | screen | [src-20260624-c59112] |
+| Basis | getbasis.ai | End-to-end agents for accounting, tax and audit work | accounting firms | series-b | $100M Series B at $1.15B (per page title) (2026-02-24) | Accel (lead), GV | accounting firms (unnamed on page) | n/v | screen: no named customers | [src-20260224-b6a4eb] |
+| Candid Health | n/v | Autonomous RCM platform; ARR +190% YoY; valuation tripled vs Feb 2025 | healthcare RCM | series-d | $120M Series D (2026-07-22) | Sixth Street Growth (lead), Oak HC/FT | unnamed large provider organizations | n/v | out: stage series-d | [src-20260722-e6a1e0] |
+| ClearRisk AI | n/v | AI platform to assist auto insurance claims adjusters | auto insurance claims | series-a | $15M Series A, total $22M (2026-05-13) | Hudson Ventures (lead) | n/v | n/v | screen: no named customers | [src-20260513-fb476a] |
+| Crosby | n/v | AI-native contract firm that replaces billable hours | legal (AI-native law firm, contracts) | series-b | $60M Series B (2026-03-31) | Lux Capital (lead) | Cursor, Ramp, Tishman Speyer, Starwood (100+ customers) | outcome (bills on outcomes, not hours) | PICK: outcome billing, named enterprise customers (Cursor, Ramp, Tishman Speyer), replaces billable hours | [src-20260331-50e583] |
+| Definite | usedefinite.com | Agents that run bank regulatory reporting from ledger to filed report | bank regulatory reporting | seed | YC (2026-10-23) | Y Combinator | n/v | n/v | screen: no named customers | [src-20261023-12e7f6] |
+| Didero | n/v | Agents that run day-to-day procurement inside existing systems and email | procurement (manufacturers, distributors) | series-a | $30M Series A (2026-02-12) | n/v on page excerpt; Microsoft relationship cited | 30+ customers (unnamed) | n/v | PICK: 30+ customers in manufacturing procurement, Series A | [src-20260212-5fd1e0] |
+| Elimentary | n/v | Agents running ops for private credit managers | private capital middle and back office | seed | YC (2026-10-23) | Y Combinator | one unnamed customer (20h to 30 min) | n/v | screen: no named customers | [src-20261023-c1d343] |
+| GenHealth.ai | n/v | Agents for intake, eligibility, prior auth, billing and denials inside existing systems | healthcare back office | series-a | $16.5M Series A, total $30M (2026-10-08) | Flare Capital Partners (lead) | medical groups, DME suppliers, health plans (unnamed) | n/v | screen: no named customers | [src-20261008-50f3eb] |
+| Ivo | ivo.ai | Contract intelligence for in-house legal teams | legal (in-house contracts) | series-b | $55M Series B (2026-01-20) | Blackbird (lead) | Fortune 500 enterprises (unnamed) | n/v | screen: no named customers | [src-20260120-667118] |
+| Lio | lio.ai | Agents that complete the entire enterprise procurement process | enterprise procurement | series-a | $30M Series A, total $33M (2026-03-05) | Andreessen Horowitz (lead) | n/v | n/v | screen: no named customers | [src-20260305-fefcb3] |
+| Magentic | n/v | Procurement and supply-chain agents across ERP data | procurement (manufacturing) | series-a | $18M Series A, total $23.5M (2026-09-17) | Felicis (lead), Sequoia, Westly Group | unnamed manufacturer running 1M+ POs a year | n/v | PICK: 1M+ POs a year at one manufacturer, $4M savings; Felicis and Sequoia | [src-20260917-25441c] |
+| NeuBird AI | n/v | Agentic AI SRE for cloud ops; 1M+ alerts automated, MTTR down up to 90% | IT ops | series-b | $19.3M Series B (2026-04-07) | Xora Innovation (lead), Mayfield, StepStone, Prosperity7, M12 | unnamed | n/v | screen: no named customers | [src-20260407-8cfa16] |
+| Notch | get-notch.co | AI operating system for regulated industries, started from insurance operations | insurance and regulated ops | series-a | $30M Series A, total $45M (2026-03-25) | Headline (lead), Lightspeed, Jibe, Illuminate Financial, Phoenix Insurance | n/v | n/v | screen: no named customers | [src-20260325-5584af] |
+| Omilia | n/v | Voice-first CX automation since 2002; ARR $60M, up 10x | CX (voice) | series-b | $67M Series B (2026-08-06) | Expedition Growth Capital (lead) | Capital One, Discover, RBC, DWP, PSEG | n/v | PICK: $60M ARR, Capital One, Discover, RBC; voice CX is mission critical | [src-20260806-53e2bf] |
+| Orbio | n/v | Automates frontline hiring and onboarding | HR (frontline hiring) | series-a | $21M Series A, total $26M (2026-06-14) | Dawn Capital (lead), Visionaries, 2100 Ventures | Poke, YUM! | n/v | screen | [src-20260614-1eab1f] |
+| Pace | withpace.com | Agents replacing offshore insurance BPO work: claims, policy servicing, submissions | insurance BPO replacement | series-b | $46M Series B at $375M (Series A $10M Sequoia, Jan 2026) (2026-05-27) | Thrive Capital, Sequoia Capital (co-leads) | Ryze Claim Solutions | n/v | PICK: Sequoia and Thrive, replaces ~$70B insurance BPO spend, live claims customer | [src-20260527-cecfde] |
+| Procode | n/v | AI surgical coding plus acquired billing companies (rollup) | healthcare RCM (surgical billing) | series-a | $10M Series A, total $14M (2026-07-28) | Health Velocity Capital (lead) | 350+ plastic surgery and dermatology providers (via Auctus Group) | outcome (contingency billing) | screen | [src-20260728-5c2f73] |
+| Prosper AI | n/v | AI-native healthcare services provider | healthcare (prior auth, benefits verification) | n/v | n/v (2026-10-23) | Emergence Capital | n/v | hybrid: part resolution-based, part per-minute | out: stage n/v | [src-20261023-cc2e6e] |
+| respond.io | respond.io | Customer conversation platform with AI agents; $35M ARR, +169% YoY | CX (mid-market B2C conversations) | series-b | $62.5M Series B (2026-06-16) | Camber Partners (lead), Endeavor Catalyst | 10,000+ businesses (SMB/mid-market) | n/v | screen | [src-20260616-8a0be8] |
+| Spott | spott.io | Agentic platform for recruitment agencies; placements up to 30% | HR (recruitment agencies) | series-a | $21M Series A, total $24.2M (2026-09-22) | Balderton Capital (lead), Base10, Y Combinator | recruitment agencies (unnamed) | n/v | screen: no named customers | [src-20260922-e2fd03] |
+| Take2 | n/v | AI agents for healthcare recruiting interviews and screening | HR (healthcare recruiting) | series-a | $14M Series A (2026-02-11) | Human Capital (lead), Bertelsmann Healthcare, Reach, SemperVirens | large US health systems (unnamed) | n/v | screen: no named customers | [src-20260211-adbf96] |
+| Walter | n/v | AI employee that logs into SAP, Dynamics or Oracle to enter POs and catch pricing errors | manufacturing back office | seed | YC (2026-10-23) | Y Combinator | n/v | n/v | screen: no named customers | [src-20261023-aee4fa] |
+| Wordsmith | wordsmith.ai | Platform and agent inbox that runs in-house legal requests | legal (in-house ops) | series-b | $70M Series B, total $100M (2026-06-03) | n/v | n/v | n/v | screen: no named customers | [src-20260603-a6ea11] |
+| Xelix | n/v | Agentic AP: processes 115M+ invoices a year, audits $750B+ spend | accounts payable | series-b | $160M Series B (2025-07-21) | Insight Partners (lead) | 130+ global customers (unnamed) | n/v | screen: no named customers | [src-20250721-54e512] |
+| Zolvo | n/v | Back-office automation for factoring and ABL lenders | commercial lending back office | seed | YC (2026-10-23) | Y Combinator | n/v | n/v | screen: no named customers | [src-20261023-d2a134] |
+| Zomma | n/v | Computer-use agents for cross-border transaction alert investigations | financial services compliance ops (AI BPO) | seed | YC (batch per page) (2026-10-23) | Y Combinator | pilots with a US RIA and a $10B AUM wealth tech | n/v | screen | [src-20261023-36cc4e] |
+
+## services (1)
+
+| Company | Domain | One-liner | Vertical | Stage | Last round | Investors | Named customers | Pricing | Flag | Src |
+|---|---|---|---|---|---|---|---|---|---|---|
+| RapidCanvas | rapidcanvas.ai | Managed AI execution: platform plus field AI engineers at subscription pricing | managed AI execution | series-b | $29M Series B, total $52.5M (2026-10-16) | Vertex Ventures SEA & India (lead), Hitachi Ventures | none named; mid-market $100M to $10B revenue | subscription | screen: no named customers | [src-20261016-425bfa] |
+
+## Also named in maps, not yet filed as startups
+
+Temporal, Inngest, Restate, Braintrust, Helicone, AgentOps, LiteLLM, Portkey (harness-infra, Presenc map [src-20260515-76034a]); Crescendo, Giga, PolyAI (CX, CB Insights [src-20260226-87dd95]). Unverified: Stuut, Judgment Labs, Orkes (pages blocked or no funding facts).

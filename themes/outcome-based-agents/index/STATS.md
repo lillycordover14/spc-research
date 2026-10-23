@@ -11,17 +11,17 @@
 - website: 8
 
 ## Sources by status
-- summarized: 88
-- unread: 34
+- summarized: 98
+- unread: 24
 
 ## Sources by layer
-- model-labs: 41
+- model-labs: 43
 - vertical-outcome: 39
-- harness-infra: 26
-- orchestration: 19
-- adjacent: 16
-- work-context: 14
-- services: 10
+- harness-infra: 30
+- orchestration: 21
+- adjacent: 17
+- work-context: 15
+- services: 12
 
 ## Companies by layer / status
 - harness-infra: 1
@@ -36,16 +36,16 @@
 - status=tracking: 3
 
 ## Most-mentioned companies
-- anthropic: 21
-- openai: 15
-- salesforce: 14
+- anthropic: 22
+- salesforce: 16
+- openai: 16
 - sierra: 10
+- servicenow: 9
 - microsoft: 9
-- servicenow: 8
 - langchain: 8
 - accenture: 7
+- deloitte: 6
 - decagon: 6
-- deloitte: 5
 - duvo: 2
 - sycamore: 1
 - celonis: 1

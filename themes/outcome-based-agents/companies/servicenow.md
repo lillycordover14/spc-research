@@ -39,6 +39,7 @@ sources:
 - src-20261013-d7909a
 - src-20261021-bf34b8
 - src-20261013-1dcd15
+- src-20261021-4e9ddf
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -53,6 +54,7 @@ Benchmark. Track launches, pricing and customer counts.
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-21 | servicenow: Arc personal agent GA with Nvidia; AI Passport and Control Tower [src-20261021-bf34b8]
+- 2026-10-21 | servicenow: ServiceNow Arc GA on Nvidia OpenShell [src-20261021-4e9ddf]
 - 2026-10-13 | servicenow: Reported early talks to buy Decagon; ServiceNow says not ongoing [src-20261013-6d4b75]
 - 2026-10-13 | servicenow: Zavery: no interest in buying Decagon; no major gaps needing large M&A [src-20261013-d7909a]
 - 2026-10-13 | servicenow: DXC OASIS orchestrates over ServiceNow rather than replacing it [src-20261013-1dcd15]

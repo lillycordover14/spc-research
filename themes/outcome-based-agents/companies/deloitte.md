@@ -36,6 +36,7 @@ sources:
 - src-20260422-d312c6
 - src-20261002-8d9e4f
 - src-20261008-d5cbe2
+- src-20261009-4138dc
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -49,6 +50,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-09 | deloitte: Open Model Engineering practice; FDE hiring through FY27 [src-20261009-4138dc]
 
 
 ## Economics (what we know)

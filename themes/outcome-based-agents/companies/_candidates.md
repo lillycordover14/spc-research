@@ -14,3 +14,4 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-10-22 | AuxoAI | services | AI engineering services startup with 'forward deployed experts'; Series A led by NTTVC (Oct 2026) | src-20261022-d5ad54 | grokbot
 - 2026-10-19 | Exotel | vertical-outcome | Indian CPaaS and voice AI agent vendor moving toward outcome pricing | src-20261019-d96d4c | grokbot
 - 2026-10-16 | Ema | horizontal-orchestration | Agentic AI employee platform pitching outcome-based pricing | src-20261016-9f1777 | grokbot
+- 2026-10-23 | Cygrid | harness-infra | Berlin per-action identity enforcement for AI agents; EUR 2.66M pre-seed (Atlantic), 6 in production | src-20261023-aec496 | grokbot

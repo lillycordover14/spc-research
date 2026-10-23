@@ -12,6 +12,7 @@ Questions are defined in `questions.md`.
 - 2026-10-08 | Adoption claims (nearly 90% of the Fortune 100 on Gemini Enterprise; SOMPO with 10,000+ custom agents) are vendor-reported breadth data [src-20261008-d5cbe2]
 - 2026-10-08 | KPMG Q3 AI Pulse (n=314 US $1B+ C-suite, Jul-Aug 2026): 62% building/deploying/developing agents vs 53%; 25% multi-agent vs 6% [src-20261008-1ab8b8]
 - 2026-10-05 | VB Pulse: 53% say a quarter or fewer deployed agents are true multi-agent workflows [src-20261005-66e092]
+- 2026-10-03 | Cisco (Mar 2026, vendor-commissioned, n not stated): 85% experimenting with agents, 5% in production, 60% cite security [src-20261003-10d57c]
 - 2026-08-31 | Gartner CIO planning 2027 (2026-08-31): 37% have deployed agentic AI, 34% within 12 months (vs 17% deployed in Apr Hype Cycle; different survey) [src-20260831-2bda07]
 - 2026-08-25 | McKinsey State of AI 2026 (n=1,719, May-Jun 2026): 40% of $1B+ firms scaling agents vs 27% in 2025; small firms flat at 22%; EBIT impact flat at 37% [src-20260825-e5c5c1]
 - 2026-07-22 | OpenAI says Presence resolves 75% of inbound issues on its own phone support line without humans; launch customers BBVA, SoftBank, IAG are exploring or testing, not in production [src-20260722-a3993b]
@@ -95,6 +96,7 @@ Questions are defined in `questions.md`.
 - 2026-10-21 | An IT-services/BPO giant embedding Claude agents into its managed IT support and code remediation platform (AI Force) is the services-as-software model run by an incumbent SI, competing with agent-native IT-ops startups [src-20261021-776c89]
 - 2026-10-21 | FDE-staffed sandboxes on client systems show the SI is the harness builder for regulated enterprises, with the lab supplying models and agent runtime [src-20261021-776c89]
 - 2026-10-13 | DXC OASIS on LangGraph/LangSmith (2026-10-13): SI-built harness for IT ops, scaling to 125 customer environments [src-20261013-1dcd15]
+- 2026-10-09 | Deloitte Open Model Engineering practice (2026-09-09): Zora AI harness on Nemotron; hiring FDEs through FY27 [src-20261009-4138dc]
 - 2026-10-02 | The lab is industrializing the forward-deployed engineer role and seeding it into SIs and large enterprises (Morgan Stanley, CBA, Novo Nordisk), so in-house teams and SIs, not startups, become the default harness builders [src-20261002-8d9e4f]
 - 2026-09-29 | OpenAI is integrating specialist dots into Microsoft Agent 365 governance and shipping OpenAI agents inside Bedrock, splitting the harness between lab (agent) and platform owner (governance, cloud) [src-20260929-2fdd0f]
 - 2026-09-09 | Salesforce partners with Anthropic (Claudeforce) and positions Agentforce as orchestrator of specialized agents (Fin, Piper), i.e. system of record as harness [src-20260909-c1900d]
@@ -122,6 +124,7 @@ Questions are defined in `questions.md`.
 - 2026-10-21 | Anthropic previews Claude Duet, an always-on workplace agent for SMBs and professionals (CNBC, 2026-10-21), against OpenAI dots and Meta Muse [src-20261021-d5280b]
 - 2026-10-21 | Microsoft Contact Center Intelligence preview (Constellation, 2026-10-21): CX agent overlay with conversation harness, 1,700+ connectors, A365 governance [src-20261021-e45563]
 - 2026-10-21 | Meta Q3 2026 call (2026-10-21): Meta Enterprise Platform near-term = model API, Muse Code, business agents; aims for a 'business network of Muse agents' [src-20261021-f65653]
+- 2026-10-19 | Nvidia Nemotron 3.5 Super VL (2026-10-19): open 120B agent model; users include EY, Ramp, Salesforce [src-20261019-9d6d06]
 - 2026-10-14 | By emitting standard OTel traces, the lab commoditizes trace capture, leaving LLM observability startups (Langfuse, Braintrust, Arize, LangSmith) to compete on analysis and evals rather than instrumentation [src-20261014-2e6208]
 - 2026-10-08 | A first-party AI SDR agent and a service agent inside Dynamics and Teams hit AI SDR/outbound startups and CX support agent startups (Sierra, Decagon tier) within Microsoft accounts [src-20261008-5bb82b]
 - 2026-10-08 | A single objective-driven universal agent with Financial Services and Legal specializations competes with both horizontal work-agent startups and vertical finance and legal agent apps [src-20261008-d5cbe2]
@@ -153,10 +156,14 @@ Questions are defined in `questions.md`.
 
 ## Q7. Orchestration vs context vs vertical vs services
 - 2026-10-23 | Workfabric site (2026-10-23): agent 'missions' and employee 'twins' capturing how work is done; no customers named [src-20261023-21a6d6]
+- 2026-10-22 | VAST + Nvidia agent sandbox stack (2026-10-22): persistent state and audit for OpenShell sandboxes [src-20261022-58435b]
+- 2026-10-21 | Nvidia OpenShell Reference Architecture (2026-10-21): hardware-enforced agent runtime adopted by SAP, IBM, ServiceNow [src-20261021-4e9ddf]
 - 2026-10-20 | A lab analytics agent rose from ~30% to ~90% accuracy with business context, then fell to 60% in two months as context drifted [src-20261020-7922f1]
+- 2026-10-20 | Couchbase (2026-10-20): managed agent memory and MCP; claims 33-45% token savings (vendor benchmark) [src-20261020-b0b7df]
 - 2026-10-17 | Chase (20VC via BigGo, 2026-10-17): labs absorb harness hacks; what persists is proprietary data, API access and domain verifiers [src-20261017-d3bed0]
 - 2026-10-14 | The lab chose to partner with, not replace, observability vendors, suggesting cross-model observability and evaluation remains a defensible neutral layer [src-20261014-2e6208]
 - 2026-10-05 | VB Pulse (Aug 2026, n=166 self-selected, 100+ employee orgs): only 2% chose an agent platform for the model; 67% expect control plane at least partly outside provider-managed services [src-20261005-66e092]
+- 2026-09-24 | TechTarget (2026-09-24): Opus 5.5 and GPT-6 Sol/Luna push enterprises to multi-model routing; orchestration and evals become architecture [src-20260924-2caa15]
 - 2026-07-22 | Presence ships the full CX agent harness (SOPs, guardrails, simulations, graders, improvement loop), so vertical CX vendors must defend on outcomes, data and distribution rather than harness [src-20260722-a3993b]
 - 2026-05-26 | Microsoft's hybrid of deterministic workflows plus agent nodes suggests the orchestration layer is being absorbed into the platform that already owns identity and the desktop [src-20260526-3c3aa7]
 - 2026-05-19 | Vertical apps such as Harvey run their harness on the lab's managed orchestration, so their moat must sit in domain rubrics, data and distribution, not the agent loop [src-20260519-55cca6]
@@ -171,11 +178,13 @@ Questions are defined in `questions.md`.
 
 ## Q8. Systems of record
 - 2026-10-21 | ServiceNow and Nvidia ship Arc GA (ZDNET, 2026-10-21) with Control Tower policies enforced by Nvidia OpenShell and BlueField, ServiceNow as agent governance plane [src-20261021-bf34b8]
+- 2026-10-21 | ServiceNow Arc GA (2026-10-21), enforced by Nvidia OpenShell [src-20261021-4e9ddf]
 - 2026-10-16 | Gartner (2026-07-01, via PYMNTS): $234B of enterprise software spend exposed to agentic arbitrage by 2030 [src-20261016-9f1777]
 - 2026-10-14 | Agentforce named deployments: L'Oreal 300+ advisers, Air India refunds 14 days to 4 hours [src-20261014-aad5c8]
 - 2026-10-08 | An AI-driven migration tool aimed at legacy CRM (Comcast's quote references Salesforce) shows agents being used as a wedge to displace incumbent systems of record, not just sit on top of them [src-20261008-5bb82b]
 - 2026-10-08 | Giving agents their own Workspace identity and mailbox makes the productivity suite owner the natural home for 'digital coworker' agents, a strong position for incumbents holding identity and documents [src-20261008-d5cbe2]
 - 2026-10-05 | Mastek (2026-10-05) replaces its own legacy CRM with an AI-built CRM and sells 'services as software' outcomes to cut clients' SaaS costs [src-20261005-ed6751]
+- 2026-10-03 | Oracle Fusion Claw (Forbes, 2026-10-03): native ERP orchestration with deterministic validation; sold as paid AI units; 75 agentic apps [src-20261003-10d57c]
 - 2026-09-29 | OpenAI Marketplace lets enterprises spend OpenAI commitments on 32 partners including Salesforce, ServiceNow, Sierra and Decagon, so labs distribute systems of record and vertical apps rather than displace them [src-20260929-2fdd0f]
 - 2026-09-26 | Agentforce routes every action through Flow; 4.3M Help-site inquiries, 70% resolved (self-reported) [src-20260926-ff7125]
 - 2026-09-09 | Salesforce rejects the headless-CRM bear case: CRM metadata encodes company knowledge; work shifting to Slack and Claude still increases CRM work volume [src-20260909-c1900d]
@@ -197,6 +206,7 @@ Questions are defined in `questions.md`.
 - 2025-06-25 | Gartner: only ~130 of thousands of 'agentic' vendors are real (agent-washing) [src-20250625-8a6cff]
 ## Q10. Vertical players, investable
 
+- 2026-10-23 | Visa pilot with BILL and Billtrust (2026-10-21): AI agents pay approved B2B invoices end to end [src-20261023-89141c]
 - 2026-10-20 | Sierra valued at $15.8B after $950M raise (May 2026) [src-20261020-28bcd0]
 - 2026-10-13 | Decagon: $400M+ raised, customers Delta, Snapchat, Ticketmaster; Sierra valued at $15.8B [src-20261013-6d4b75]
 - 2026-10-13 | Decagon crossed $100M annualized revenue ~3 years after launch; $250M Series D at $4.5B [src-20261013-d7909a]

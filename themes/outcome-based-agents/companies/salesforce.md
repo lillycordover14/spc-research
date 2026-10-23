@@ -51,6 +51,9 @@ sources:
 - src-20250514-093b59
 - src-20250918-7e3ad0
 - src-20260629-015aae
+- src-20250821-666ad1
+- src-20260921-f28021
+- src-20251001-78dba6
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -71,6 +74,7 @@ Benchmark. Track launches, pricing and customer counts.
 - 2026-05-27 | salesforce: Q1 FY27: Agentforce ARR $1.2B +205%, 3.8B Agentic Work Units [src-20260527-478f91]
 - 2026-03-12 | salesforce: Fin (acquired by Salesforce) priced at $0.99 per outcome [src-20260312-1f35f8]
 - 2026-01-14 | salesforce: Intercom Fin runs on top of Salesforce Service Cloud [src-20260114-5bb0dc]
+- 2025-08-21 | salesforce: McCabe disagrees with Benioff's view that sales headcount is safe from agents [src-20250821-666ad1]
 
 
 ## Economics (what we know)

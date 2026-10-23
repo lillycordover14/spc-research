@@ -44,6 +44,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-10-03  -> world 2 because Oracle embeds native agent orchestration (Fusion Claw) in ERP [src-20261003-10d57c]
 - 2026-09-29 OpenAI DevDay 2026 -> world 1 because OpenAI offers always-on agents plus specialist role agents with identity, positioning itself as the enterprise agent provider, while delegating governance to Microsoft [src-20260929-2fdd0f]
 - 2026-09-29  -> world 1 because OpenAI seeds an open-source agent control plane (OpenClaw Enterprise) [src-20260929-247cd8]
+- 2026-09-21 20VC Dines 2026 -> world 4 because UiPath repositions from RPA to orchestration plus process-context capture ('map and rails') [src-20260921-f28021]
 - 2026-09-10 OpenAI Agents API -> world 1 because OpenAI gives away its production harness to developers, making the harness a lab feature [src-20260910-014b24]
 - 2026-09-09 Salesforce GS Communacopia (AlphaSense) -> world 2 because Salesforce runs agents on its own CRM data and Slack context, partnering with Anthropic for models and orchestrating Fin and Piper [src-20260909-c1900d]
 - 2026-08-25  -> world 3 because 32% of enterprises now build software in-house with coding agents instead of buying (McKinsey) [src-20260825-e5c5c1]
@@ -65,6 +66,8 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-02-05 OpenAI Frontier launch -> world 1 because OpenAI positions Frontier as the one platform that runs and governs every agent, including third-party ones [src-20260205-ea19f4]
 - 2026-01-14 Pigment Traynor -> world 5 because Fin sells outcomes on top of rival systems of record (Zendesk, Service Cloud) [src-20260114-5bb0dc]
 - 2025-10-02 Zapier Intercom Fin -> world 5 because Intercom Fin sells per-resolution outcomes on top of its own helpdesk, cannibalizing seats deliberately [src-20251002-0b85b2]
+- 2025-10-01 theCUBE Dines Fusion 2025 -> world 4 because UiPath pivots company to agentic orchestration; partnerships with OpenAI, Gemini, Snowflake, NVIDIA [src-20251001-78dba6]
+- 2025-08-21 Lenny McCabe -> world 5 because Intercom moved from seat SaaS to per-resolution Fin as its growth engine [src-20250821-666ad1]
 - 2025-05-14  -> world 5 because Sierra CEO argues applied vertical agents capture the value and business-model change favors startups over incumbents [src-20250514-093b59]
 
 ## 3. Outcome pricing test

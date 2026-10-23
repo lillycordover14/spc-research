@@ -25,3 +25,6 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20260629-015aae | YouTube auto captions via yt-dlp | done | 6904 | Why Enterprise AI Adoption Is Slower Than You Think: Aaron Levie (Box) |
 | src-20251002-0b85b2 | YouTube auto captions via yt-dlp | done | 11413 | Agents of Scale: The $50M Pricing Gamble and Intercom's AI Reinvention |
 | src-20260114-5bb0dc | YouTube auto captions via yt-dlp | done | 13477 | Pigment: Des Traynor (Intercom), How we rebuilt the company for the AI |
+| src-20250821-666ad1 | YouTube auto captions via yt-dlp | done | 14378 | Lenny's Podcast: How Intercom rose from the ashes by betting everythin |
+| src-20260921-f28021 | YouTube auto captions via yt-dlp | done | 12486 | 20VC: Daniel Dines on Why AI Can't Replace Humans in Enterprise & Why  |
+| src-20251001-78dba6 | YouTube auto captions via yt-dlp | done | 3163 | theCUBE: Daniel Dines, UiPath, at UiPath Fusion 2025 |

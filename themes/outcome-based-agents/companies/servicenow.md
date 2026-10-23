@@ -42,6 +42,7 @@ sources:
 - src-20261021-4e9ddf
 - src-20260722-d4586c
 - src-20250514-093b59
+- src-20251001-78dba6
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -62,6 +63,7 @@ Benchmark. Track launches, pricing and customer counts.
 - 2026-10-13 | servicenow: DXC OASIS orchestrates over ServiceNow rather than replacing it [src-20261013-1dcd15]
 - 2026-07-22 | servicenow: AI ACV >$1B in Q2 2026; Q3 results 2026-10-28 [src-20260722-d4586c]
 - 2026-04-02 | servicenow: Wawa CIO (expert call) rates Now Assist poorly, testing Moveworks add-on, questions long-term need for ServiceNow [src-20260402-8d84cb]
+- 2025-10-01 | servicenow: Named as bake-off rival by UiPath [src-20251001-78dba6]
 
 
 ## Economics (what we know)

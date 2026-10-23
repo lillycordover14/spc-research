@@ -168,3 +168,18 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 | xdof | factory-ai | Egocentric data for robot training; Nike call; 8VC portco | drive-import xdof call |  |
 | Xinterra | materials-rd | Singapore; says it discovered then commercialised a product (COzTERRA to TRL 7) (self-nominated) | source: comments [src-20260814-b77f2d] [src-20261022-83d2a8] |  |
 | Yonder | materials-rd | Automated lab platform; commenter claims highest throughput for materials discovery | source: comments [src-20261022-83d2a8] |  |
+
+## New finds 2026-10-23 (6)
+
+| Name | Layer | What | Stage / evidence | Link |
+|---|---|---|---|---|
+| TAR | energy hardware | Off-grid solar+battery power systems for AI DCs, own West Texas mfg | A; $120M @ $1B (Spark) — Utility-scale deployment with a large neocloud [src-20260908-e3a897] | https://www.businesswire.com/news/home/20260908553891/en/TAR-Raises-$120-Million-Series-A-at-a-$1-Billion-Valuation-Led-by-Spark-Capital-to-Build-Off-Grid-Power-for-AI |
+| Heron Power | energy hardware | Solid-state transformers (Heron Link), 40 GW/yr factory | B; $140M (a16z AD, Breakthrough) — >40 GW customer interest; pilot prod 2027 [src-20260218-71508c] | https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/ |
+| Sparkz | batteries | Integrated LFP cathode, cells, systems | A; $20.2M (Jack Abraham) — Shipping CAM to customers [src-20260206-c55546] | https://sparkz.energy/series-a-20m-raised/ |
+| CircuitHub | electronics | Fully automated PCBA 'Grid' factory, MA | A; $28M (Plural), profitable — 2M+ boards, 20k engineers [src-20260520-09ca24] | https://www.circuithub.com/post/circuithub-series-a |
+| Firestorm Labs | defense (expeditionary mfg) | xCell containerized AM drone factories | B; $82M (Washington Harbour, LMT Ventures, IQT) — $100M Air Force contract; AFRL, AFSOC units [src-20260429-0e00a4] | https://www.accessnewswire.com/newsroom/en/aerospace-and-defense/firestorm-labs-announces-82-million-series-b-to-accelerate-expeditionary-defe-1162253 |
+| Hermeus | aerospace OEM | High-Mach unmanned aircraft; Atlanta production | C; $350M @ $1B (Khosla, RTX Ventures) — Govt contracts; OEM not parts producer [src-20260407-a70de6] | https://www.prnewswire.com/news-releases/hermeus-reaches-1-billion-valuation-with-350-million-raise-to-build-todays-fastest-aircraft-for-the-american-warfighter-302735273.html |
+
+**Verified 'needs src' rows:** Vulcan Elements (Series A + $1.4B USG; src-20260923-c53c99); Atomic Industries ($25M Series A; src-20261023-a3bfe7); Rangeview (seed $4.2M, casting, Kratos/Navy work; src-20260923-3ab808; not confirmed as Hadrian-alumni).
+
+**Total producers tracked: 159** (15 deep dives + 138 long tail + 6 new).

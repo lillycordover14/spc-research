@@ -4,9 +4,9 @@ Format: `- YYYY-MM-DD | Name | layer | one line | evidence src ids | who flagged
 Promote with `make new-company name="..."` once there are 2 independent sources or a founder conversation.
 
 ## To verify first (from this session)
-- 2026-10-22 | Atomic Industries | fabrication (tooling) | AI-driven tool & die shop (Detroit); owner-operator pattern in tooling | needs src | claude
-- 2026-10-22 | Vulcan Elements | metals-supply | US rare-earth magnet manufacturing; DoD-backed | needs src | claude
-- 2026-10-22 | Rangeview / other Hadrian-alumni spinouts | precision-parts | check Harmonic scout "ex-Hadrian founders" | needs src | claude
+- 2026-10-22 | Atomic Industries | fabrication (tooling) | AI-driven tool & die shop (Detroit); owner-operator pattern in tooling | $25M Series A [src-20261023-a3bfe7] | claude
+- 2026-10-22 | Vulcan Elements | metals-supply | US rare-earth magnet manufacturing; DoD-backed | Series A + $1.4B USG [src-20260923-c53c99] | claude
+- 2026-10-22 | Rangeview | casting | Printed-mold autonomous investment-casting foundry, El Segundo; Kratos/Navy work | Seed $4.2M Dec 2022 [src-20260923-3ab808] | claude
 
 ## From sweeps
 - 2026-10-22 | Atomic Industries | fabrication | AI tool and die; "software-defined factory", ships production-grade parts to OEMs from its own Detroit shop; organizer of Reindustrialize | $25M Series A Sep 2025 (MaC, DTX) [src-20250301-a9888e] | https://pulse2.com/atomic-industries-25-million-secured-to-advance-ai-based-manufacturing | claude
@@ -167,3 +167,9 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | Castelion | defense-production | Mass-produced hypersonic missiles, vertically integrated | $800M Series C Aug 2026 (JPMorgan, a16z, Carlyle) [src-20261023-45cc33] | https://newmarketpitch.com/blogs/news/defense-tech-top-startups-fundraising | grokbot
 - 2026-10-23 | Saronic | shipbuilding | Autonomous vessels built in own Port Alpha shipyard | $1.75B Series D at $9.25B Mar 2026 [src-20261023-45cc33] | https://tools.prnewswire.com/en-us/live/20823/release/20260331EN21888 | grokbot
 - 2026-10-23 | Radian Forge | shipbuilding (parts) | Large-format WAAM naval components, Portsmouth VA | $2.5M seed Sep 2026 (Veteran Ventures) [src-20260915-b6482a] | https://radianforge.com | grokbot
+- 2026-10-23 | TAR | energy hardware | Off-grid solar+battery power systems for AI DCs, own West Texas mfg | A; $120M @ $1B (Spark); Utility-scale deployment with a large neocloud [src-20260908-e3a897] | https://www.businesswire.com/news/home/20260908553891/en/TAR-Raises-$120-Million-Series-A-at-a-$1-Billion-Valuation-Led-by-Spark-Capital-to-Build-Off-Grid-Power-for-AI | grokbot
+- 2026-10-23 | Heron Power | energy hardware | Solid-state transformers (Heron Link), 40 GW/yr factory | B; $140M (a16z AD, Breakthrough); >40 GW customer interest; pilot prod 2027 [src-20260218-71508c] | https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/ | grokbot
+- 2026-10-23 | Sparkz | batteries | Integrated LFP cathode, cells, systems | A; $20.2M (Jack Abraham); Shipping CAM to customers [src-20260206-c55546] | https://sparkz.energy/series-a-20m-raised/ | grokbot
+- 2026-10-23 | CircuitHub | electronics | Fully automated PCBA 'Grid' factory, MA | A; $28M (Plural), profitable; 2M+ boards, 20k engineers [src-20260520-09ca24] | https://www.circuithub.com/post/circuithub-series-a | grokbot
+- 2026-10-23 | Firestorm Labs | defense (expeditionary mfg) | xCell containerized AM drone factories | B; $82M (Washington Harbour, LMT Ventures, IQT); $100M Air Force contract; AFRL, AFSOC units [src-20260429-0e00a4] | https://www.accessnewswire.com/newsroom/en/aerospace-and-defense/firestorm-labs-announces-82-million-series-b-to-accelerate-expeditionary-defe-1162253 | grokbot
+- 2026-10-23 | Hermeus | aerospace OEM | High-Mach unmanned aircraft; Atlanta production | C; $350M @ $1B (Khosla, RTX Ventures); Govt contracts; OEM not parts producer [src-20260407-a70de6] | https://www.prnewswire.com/news-releases/hermeus-reaches-1-billion-valuation-with-350-million-raise-to-build-todays-fastest-aircraft-for-the-american-warfighter-302735273.html | grokbot

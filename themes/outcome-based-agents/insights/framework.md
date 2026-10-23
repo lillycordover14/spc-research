@@ -35,6 +35,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-10-21  -> world 2 because ServiceNow governs desktop agents through its Control Tower [src-20261021-bf34b8]
 - 2026-10-21  -> world 1 because Microsoft ships a CX agent overlay on existing contact centers [src-20261021-e45563]
 - 2026-10-21  -> world 1 because Meta pushes Muse business agents and enterprise platform [src-20261021-f65653]
+- 2026-10-20  -> world 4 because Sutherland (BPO) runs FlowX.AI agents on outcome pricing [src-20261020-a21f1d]
 - 2026-10-16  -> world 2 because SAP signals outcome-based reset pricing [src-20261016-9f1777]
 - 2026-10-13  -> world 4 because DXC runs its own LangChain-based harness (OASIS) for customers' IT operations [src-20261013-1dcd15]
 - 2026-10-09  -> world 4 because Deloitte builds open-model harness practice with FDEs [src-20261009-4138dc]

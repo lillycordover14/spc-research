@@ -54,6 +54,7 @@ Benchmark for an independent harness / agent-infrastructure company.
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-22 | langchain: CEO publicly endorses Ramp's in-house harness design, pitches Deep Agents as the alternative [src-20261022-ae18f2]
+- 2026-10-21 | langchain: Google Agents CLI first-party LangChain extension [src-20261021-16f218]
 - 2026-10-17 | langchain: Chase: ~30% of LangChain eng salary goes to coding tools; routing belongs in harness [src-20261017-d3bed0]
 - 2026-10-13 | langchain: DXC licenses LangSmith for OASIS [src-20261013-1dcd15]
 

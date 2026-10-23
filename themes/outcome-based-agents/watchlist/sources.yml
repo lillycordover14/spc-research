@@ -1,0 +1,92 @@
+# What we watch for this theme and how often. status: seed (unverified) | active | dropped.
+# The daily sweep reads rss_and_trade_press; everything else is worked by the agent (see GROKBOT-OBA-PROMPT.md).
+
+cadence: {daily: [google_news_queries, x_lists, rss], weekly: [podcasts, youtube_channels, transcript_libraries, earnings, harmonic_saved_searches], monthly: [reports, conferences]}
+
+rss_and_trade_press:          # daily; feedparser; keep only items matching watchlist/searches.yml keywords or a tracked company
+  - {name: TechCrunch AI, url: https://techcrunch.com/category/artificial-intelligence/, why: raises and launches, status: seed}
+  - {name: VentureBeat AI, url: https://venturebeat.com/category/ai/, why: enterprise agent deployments and vendor news, status: seed}
+  - {name: SiliconANGLE AI, url: https://siliconangle.com/category/ai/, why: enterprise software and agent platform coverage, status: seed}
+  - {name: CIO Dive, url: https://www.ciodive.com, why: CIO adoption and budget stories, status: seed}
+  - {name: Diginomica, url: https://diginomica.com, why: enterprise customer case studies, status: seed}
+  - {name: The Register AI, url: https://www.theregister.com/software/ai_ml/, why: skeptical enterprise coverage, status: seed}
+  - {name: Constellation Research, url: https://www.constellationr.com, why: analyst takes on agent platforms, status: seed}
+
+transcript_libraries:         # the main lane until 2026-10-29: consume what already exists
+  - {name: AlphaSense (incl. Tegus library), why: expert calls on Agentforce, ServiceNow, UiPath, SIs, BPOs; Lilly exports PDFs to inbox/alphasense/, status: seed}
+  - {name: Company IR earnings transcripts (free), why: Salesforce, ServiceNow, Microsoft, UiPath, Accenture, BPOs, status: seed}
+  - {name: YouTube auto-captions, why: podcasts and conference talks, status: seed}
+  - {name: Podcast publisher transcripts (Latent Space, Lenny's, Stratechery, Decoder, Dwarkesh), why: verbatim text without transcribing, status: seed}
+  - {name: Granola notes (SPC's own calls), why: any prior calls touching agents; Lilly shares, status: seed}
+
+newsletters_and_memos:        # weekly; paste into inbox/articles/
+  - {name: Latent Space (swyx), why: agent engineering and harness views, status: seed}
+  - {name: Stratechery (Ben Thompson), why: aggregation and lab strategy, status: seed}
+  - {name: Growth Unhinged (Kyle Poyar), why: AI pricing and outcome-based pricing data, status: seed}
+  - {name: Tomasz Tunguz, why: enterprise AI market data, status: seed}
+  - {name: SaaStr (Jason Lemkin), why: Agentforce and seat-to-outcome pricing debates, status: seed}
+  - {name: Menlo Ventures State of Generative AI in the Enterprise, why: annual adoption and spend data, status: seed}
+  - {name: a16z enterprise / CIO survey, why: buyer data, status: seed}
+  - {name: Foundation Capital (service-as-software), why: the outcome-pricing thesis, status: seed}
+  - {name: Sequoia / Benchmark / Conviction posts, why: agent stack and "sell the work" theses, status: seed}
+
+reports_and_surveys:          # monthly; store under sources/market-research
+  - {name: McKinsey State of AI, why: adoption and agent deployment rates, status: seed}
+  - {name: MIT NANDA "GenAI Divide", why: pilot-to-production failure data, status: seed}
+  - {name: KPMG AI Quarterly Pulse, why: agent deployment share among large enterprises, status: seed}
+  - {name: Gartner agentic AI press releases, why: predictions and hype-cycle positions (free press releases only), status: seed}
+  - {name: Deloitte State of GenAI in the Enterprise, why: enterprise adoption, status: seed}
+  - {name: BCG / Bain technology reports, why: value capture and pricing, status: seed}
+  - {name: Stanford AI Index, why: baseline adoption and cost data, status: seed}
+  - {name: Anthropic Economic Index / OpenAI enterprise reports, why: what tasks agents actually do, status: seed}
+  - {name: Ramp AI Index, why: business spend on AI vendors, status: seed}
+
+podcasts:                     # weekly; captions or local whisper; keep episodes naming a tracked company/person or with numbers
+  - {name: Latent Space, status: seed}
+  - {name: No Priors, status: seed}
+  - {name: 20VC, status: seed}
+  - {name: BG2 Pod, status: seed}
+  - {name: Invest Like the Best, status: seed}
+  - {name: Training Data (Sequoia), status: seed}
+  - {name: Unsupervised Learning (Redpoint), status: seed}
+  - {name: AI + a16z, status: seed}
+  - {name: The Cognitive Revolution, status: seed}
+  - {name: Lenny's Podcast, why: Bret Taylor, product leaders on agents, status: seed}
+  - {name: Decoder (The Verge), why: CEO interviews, status: seed}
+  - {name: Big Technology, status: seed}
+  - {name: SaaStr podcast, status: seed}
+  - {name: The Logan Bartlett Show, status: seed}
+  - {name: Cheeky Pint, status: seed}
+
+youtube_channels:             # weekly
+  - {name: AI Engineer (World's Fair / Summit talks), why: harness and production engineering talks, status: seed}
+  - {name: Salesforce (Dreamforce keynotes), status: seed}
+  - {name: ServiceNow (Knowledge keynotes), status: seed}
+  - {name: OpenAI (DevDay, enterprise launches), status: seed}
+  - {name: Anthropic (launch events, Code with Claude), status: seed}
+  - {name: UiPath (FORWARD), status: seed}
+
+x_lists:                      # daily; build one X list "OBA" (resolve handles, don't guess)
+  founders: [Sri Viswanath, Bret Taylor, Jesse Zhang, Harrison Chase, Rohan Murty]
+  investors: [Sarah Guo, Sarah Tavel, Joanne Chen, Kyle Poyar, Tomasz Tunguz]
+  operators_and_commentators: [Aaron Levie, swyx, Ben Thompson, Jason Lemkin, Daniel Dines]
+
+gov_and_structured_data:      # monthly
+  - {name: SEC EDGAR (10-K/10-Q segment and RPO disclosures, Form D for tracked startups), status: seed}
+  - {name: Census Business Trends and Outlook Survey (AI use by firms), status: seed}
+
+job_boards:                   # weekly; careers pages via scripts/fetch_site.py; forward-deployed headcount tells you how much is services
+  - {name: tracked company careers pages, status: seed}
+
+harmonic_and_crm:             # weekly
+  - {name: Harmonic saved searches in watchlist/searches.yml harmonic_scout, status: seed}
+  - {name: Affinity list for this theme (create if missing), status: seed}
+
+alphasense: []                # see watchlist/searches.yml
+
+conferences:                  # monthly
+  - {name: Dreamforce, status: seed}
+  - {name: ServiceNow Knowledge, status: seed}
+  - {name: AI Engineer World's Fair, status: seed}
+  - {name: OpenAI DevDay, status: seed}
+  - {name: UiPath FORWARD, status: seed}

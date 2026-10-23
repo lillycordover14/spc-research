@@ -1,0 +1,45 @@
+# Framework: how we present this theme and lead expert calls
+
+The point of this page is to make the readout and every expert call answer the same few questions in the same structure, so evidence adds up instead of piling up. Agents: when a source speaks to a cell below, add a bullet with the source id to `evidence-by-question.md` under the matching question number.
+
+## 1. The stack (one row per layer, from `taxonomy.yml`)
+
+| Layer | What it is | Who is there today | Lab absorption risk | What a startup must prove |
+|---|---|---|---|---|
+| 1. Model labs | Labs' own agent platforms and solution sets | OpenAI, Anthropic, Google, Microsoft, AWS | n/a (they are the absorbers) | n/a, benchmark only |
+| 2. Harness / infra | Runtime, tools, memory, evals, permissions | Lab SDKs, LangChain, observability vendors | High | Neutral across models and owns a hard problem (evals, identity, reliability at scale) |
+| 3. Orchestration | Many agents across systems, governed | Agentforce, ServiceNow, UiPath, Copilot Studio; Sycamore, Duvo | Medium | Works across systems of record, sells completed workflows, enterprise trust |
+| 4. Work context | How work actually happens | Celonis, process/task mining; Workfabric | Low to medium | Data compounds with use, and the vendor keeps the right to use it |
+| 5. Vertical outcome | Owns a function, priced per outcome | Sierra, Decagon, function SaaS, BPOs | Medium | Countable outcome, margin after inference, renewals |
+| 6. Services | SI practices, AI-native services | Accenture, Deloitte, Cognizant, Infosys | Low | Margin path from people to software |
+
+Fill the "who is there" and "absorption risk" columns with sourced evidence as it lands; the version above is the starting hypothesis.
+
+## 2. The harness question, framed as five possible worlds
+Who ends up building and owning the harness for a large enterprise's agents?
+1. **The labs.** Every enterprise runs on one or two lab platforms; the harness is a feature. Implication: avoid layers 2 and 3.
+2. **Systems of record.** Salesforce, ServiceNow, SAP and Workday each run agents on their own data; orchestration fragments by system. Implication: cross-system orchestration is valuable but hard to sell.
+3. **The enterprise itself.** Big companies build internal harnesses on open frameworks; vendors sell components. Implication: harness-infra components win, platforms struggle.
+4. **SIs.** Accenture and Deloitte assemble harnesses per client. Implication: services margins, tools that make SIs faster win.
+5. **Vertical apps.** Each function buys a complete agent with its own harness. Implication: layer 5 wins, horizontal orchestration loses.
+
+For every source and call, note which world the evidence points to. The readout states which world we believe and why.
+
+### World tally
+<!-- one line per source or call, newest first: `<date> <source> -> world N because ... [src-id]` -->
+
+## 3. Outcome pricing test
+For each vendor claiming outcome pricing, capture: the unit (resolution, task, document, % savings), price per unit, how the outcome is verified, who audits it, what happens at renewal, and the gross margin after inference. A vendor passes if the unit is countable, the customer agrees with the count, and the contract renewed at least once.
+
+## 4. Readout structure (2026-10-28/29)
+1. **Answer first:** push further, or "here is our perspective and why we're not pushing further". One paragraph.
+2. **Tipping point** (Q1-Q4): three numbers and two quotes.
+3. **Right to win** (Q5-Q8): which of the five worlds, the labs' 6-9 month launch list, and the layers it absorbed.
+4. **Investable today** (Q9-Q12): a short list by layer with stage, customers and why each passes or fails the fit tests.
+5. **What we'd need from calls** (Q13-Q15): the three call types below and the five questions we would ask.
+
+## 5. Expert-call archetypes
+Question lists are in `expert-call-guide.md`.
+- **Fortune 500 head of AI / automation** with agents in production (buyer view, Q1-Q5, Q13)
+- **SI agentic practice lead** at Deloitte, Accenture or others (cross-client view, Q3, Q5, Q14)
+- **Customer or former employee** of Sycamore, Duvo or Workfabric (product truth, Q2, Q7, Q15)

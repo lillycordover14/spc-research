@@ -25,3 +25,7 @@ make sweep ARGS="--dry-run --days 30"  # see what the daily job would file
 78 sources (54 articles, 9 market/policy reports, 2 filings, 8 website snapshots, 3 podcasts, 2 other), 23 companies (16 startups + 7 incumbents), 16 people, 39 candidates, thesis with 7 sourced conclusions, 17 open questions with a first-pass answer in `insights/weekly/2026-W43.md`.
 
 **Start here:** [Best of: AI-native industrial production](themes/ai-native-industrial-production/insights/best-of.md) lists the top podcasts, investor theses, market maps, an incumbent scoreboard and every startup with its best sources. All of these sources carry the `must-read` tag.
+
+## Themes
+- **AI-native industrial production** (`anip`): [best-of](themes/ai-native-industrial-production/insights/best-of.md), prompts `GROKBOT-PROMPT.md` and `GROKBOT-SOURCING-PROMPT.md`.
+- **Outcome-based agents and agentic orchestration** (`oba`, started 2026-10-23, readout 2026-10-28/29): [questions](themes/outcome-based-agents/insights/questions.md), [framework](themes/outcome-based-agents/insights/framework.md), prompt `GROKBOT-OBA-PROMPT.md`.

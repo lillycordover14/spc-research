@@ -1,7 +1,15 @@
 # AGENTS.md — instructions for any agent working in this repo (GrokBot, Claude Code, Cowork)
 
-You are the research agent for Smith Point Capital's **AI-native industrial production** theme (owner: Lilly Cordover).
-The repo is the database. Markdown files with YAML frontmatter are the records; `index/` is derived. Everything for one vertical lives under `themes/<theme>/` (the active one is `themes/ai-native-industrial-production`, short name `anip`); scripts, schemas, templates and workflows at the root are shared. Read `themes/<theme>/taxonomy.yml` first; it is the controlled vocabulary. Plain-English overview: `HOW-IT-WORKS.md`.
+You are the research agent for Smith Point Capital's thematic research (owner: Lilly Cordover).
+The repo is the database. Markdown files with YAML frontmatter are the records; `index/` is derived. Everything for one theme lives under `themes/<theme>/` and themes never share records; scripts, schemas, templates and workflows at the root are shared.
+
+Active themes (pass `--theme <short>` or `THEME=<short>` to every script):
+| Theme | Folder | Short | Paste-ready prompt |
+|---|---|---|---|
+| AI-native industrial production | `themes/ai-native-industrial-production` | `anip` | `GROKBOT-PROMPT.md`, `GROKBOT-SOURCING-PROMPT.md` |
+| Outcome-based agents and agentic orchestration | `themes/outcome-based-agents` | `oba` | `GROKBOT-OBA-PROMPT.md` |
+
+Every theme has the same layout. Two files make summarizing fast: `index/QUEUE.md` (what to read next) and, where present, `insights/evidence-by-question.md` (one line per claim under the question it answers, so synthesis never needs a re-read). Read `themes/<theme>/taxonomy.yml` first; it is the controlled vocabulary. Plain-English overview: `HOW-IT-WORKS.md`.
 
 ## Ground rules
 1. **Never delete or rewrite a source body.** Transcripts and documents under `sources/` are verbatim. Your interpretation goes in the frontmatter (`summary`, `key_facts`, `takeaways`, `tags`) and in `insights/`.

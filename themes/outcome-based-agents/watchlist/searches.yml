@@ -1,0 +1,110 @@
+# Saved queries. Agent runs these and files hits via scripts/add_source.py. Keep queries specific; broad ones drown the inbox.
+# Quote any list item that starts with a double quote and continues after it (YAML rule), e.g. - '"Sycamore" AND agents'
+
+alphasense:   # research.alpha-sense.com (includes the Tegus library): expert calls, broker research, earnings transcripts. Export PDF -> inbox/alphasense/
+  company_names:
+    - '"Sycamore" AND (agent OR Viswanath)'
+    - '"Duvo" AND (agent OR "execution OS")'
+    - '"Workfabric" OR ("Soroco" AND agent)'
+    - '"Sierra" AND ("Bret Taylor" OR "AI agent")'
+    - '"Decagon" AND agent'
+    - '"Agentforce" AND (production OR pricing OR customers)'
+    - '"Copilot Studio" AND agents'
+    - '"ServiceNow" AND ("AI agents" OR "agent orchestrator")'
+    - '"UiPath" AND (agentic OR "Maestro")'
+    - '"Celonis" AND agents'
+    - '("OpenAI" OR "Anthropic") AND enterprise AND (agents OR "forward deployed")'
+  themes:
+    - '"agents in production" OR "agentic AI in production"'
+    - '"outcome-based pricing" OR "outcome based pricing" OR "per resolution"'
+    - '"agent orchestration" OR "agentic orchestration" OR "multi-agent"'
+    - '"agent harness" OR "agent runtime" OR "agent platform"'
+    - '"digital workers" OR "AI workforce" OR "virtual workforce"'
+    - '"seat compression" OR "seat-based pricing" AND AI'
+    - '"BPO" AND (agents OR "agentic") AND (replace OR displacement)'
+    - '"process mining" OR "task mining" AND agents'
+    - '"forward deployed engineer" AND enterprise AI'
+    - '"build vs buy" AND (agents OR agentic)'
+  earnings_calls_to_pull_quarterly: [Salesforce, ServiceNow, Microsoft, UiPath, Workday, SAP, Palantir, Accenture, Cognizant, Infosys, TCS, Genpact, Concentrix, TaskUs, Teleperformance, Zendesk (private, use press), Five9]
+  expert_call_targets:  # who to request calls with (AlphaSense Expert / Tegus); hold until after the 2026-10-29 readout
+    - heads of AI / automation / intelligent operations at Fortune 500 companies running agents in production
+    - agentic AI practice leads at SIs (Deloitte, Accenture, Cognizant, Infosys, Capgemini)
+    - customers and former employees of Sycamore, Duvo, Workfabric
+    - former Salesforce Agentforce / ServiceNow / UiPath product and sales leaders
+    - former OpenAI / Anthropic enterprise go-to-market or forward-deployed engineers
+    - BPO executives (Genpact, Concentrix, TaskUs) on agent displacement and pricing
+
+podcast_keyword_searches:   # run on YouTube, Apple Podcasts, Spotify, Listen Notes, podscripts; keep episodes naming a tracked company/person or with numbers
+  - outcome-based pricing AI agents
+  - agentic orchestration enterprise
+  - AI agents in production Fortune 500
+  - agent harness
+  - multi-agent systems enterprise deployment
+  - services as software
+  - forward deployed engineering AI
+  - AI agents replacing BPO
+  - enterprise agent platform
+  - CEO interview AI agents customer service pricing
+
+podcast_company_searches:   # CEO / founder appearances; search "<name> podcast" and "<name> interview"
+  - Sri Viswanath (Sycamore)
+  - Tomas Cupr OR Marek Paris (Duvo)
+  - Rohan Murty (Workfabric, Soroco)
+  - Bret Taylor (Sierra)
+  - Jesse Zhang (Decagon)
+  - Eoghan McCabe OR Des Traynor (Intercom Fin)
+  - Harrison Chase (LangChain)
+  - Daniel Dines (UiPath)
+  - Bill McDermott (ServiceNow)
+  - Marc Benioff (Agentforce)
+  - Aaron Levie (Box)
+  - Alexander Rinke (Celonis)
+
+google_news:   # daily via scripts/sweep.py; specific phrases only
+  - '"outcome-based pricing" AI agents'
+  - '"agentic orchestration" OR "agent orchestration" enterprise'
+  - '"AI agents" "in production" enterprise'
+  - '"per resolution" pricing AI'
+  - '"digital workers" OR "AI workforce" enterprise deal'
+  - '"services as software" OR "service-as-software"'
+  - 'Agentforce customers OR "Copilot Studio" agents production'
+  - '"agentic AI" Accenture OR Deloitte practice'
+  - 'OpenAI OR Anthropic enterprise agents launch'
+  - '"Sycamore" OR "Duvo" OR "Workfabric" AI agents'
+
+harmonic_scout:   # natural-language saved searches; run weekly, add hits to companies/_candidates.md with evidence
+  - "enterprise AI agent orchestration platforms founded 2023-2026, seed to series B, with Fortune 500 customers"
+  - "startups that capture how work gets done (process, task or work-graph data) to power enterprise AI agents"
+  - "vertical AI agent companies that price per outcome or per resolution, seed to series C"
+  - "AI-native services companies replacing BPO with agents plus people"
+  - "agent infrastructure startups: evals, observability, identity and permissions for AI agents"
+
+x_search:   # daily; log only posts with a new fact (customer, pricing, production numbers, launch, raise)
+  - from:list OBA (agents OR orchestration OR "outcome-based" OR pricing OR production)
+
+job_titles_to_flag:   # on careers pages: evidence of how the product is delivered
+  - forward deployed engineer
+  - deployment strategist
+  - agent engineer
+  - solutions architect, agents
+  - AI automation lead
+  - outcome / value engineer
+
+sweep_keywords:   # trade-press RSS items are kept only if they mention a tracked company OR one of these (lowercase substring match)
+  - outcome-based
+  - outcome based pricing
+  - per resolution
+  - agentic orchestration
+  - agent orchestration
+  - multi-agent
+  - agents in production
+  - digital workers
+  - ai workforce
+  - services as software
+  - service-as-software
+  - agent harness
+  - agentforce
+  - copilot studio
+  - agent platform
+  - forward deployed
+  - seat-based pricing

@@ -1,0 +1,130 @@
+# Controlled vocabulary for the outcome-based agents theme. Agents MUST use these values in frontmatter.
+# Layers are the agent stack, bottom (labs) to top (services). The thesis question is which layer the labs cannot absorb.
+
+layers:
+  model-labs:
+    label: "1. Model labs and their agent platforms"
+    what: "Frontier labs and hyperscalers shipping agent products and SDKs direct to enterprises. Buyer: CIO / CTO, developers."
+    incumbents: [OpenAI, Anthropic, Google, Microsoft, AWS]
+    upstart_angle: "Benchmark layer, not a target. Track what they ship each month and which startup categories it absorbs."
+    seed_companies: [openai, anthropic, microsoft]
+  harness-infra:
+    label: "2. Harness and agent infrastructure"
+    what: "The runtime around the model: agent frameworks, tools/MCP, memory, evals, observability, sandboxes, identity and permissions. Buyer: platform / AI engineering teams."
+    incumbents: ["model-lab SDKs", "cloud AI platforms", "observability vendors"]
+    upstart_angle: "Own the reliability and control layer every agent needs; question is whether it stays separate from the labs"
+    seed_companies: [langchain]
+  orchestration:
+    label: "3. Agentic orchestration / enterprise agent OS"
+    what: "Coordinates many agents across systems with governance, audit, human oversight and outcome measurement. Buyer: COO, CIO, head of automation."
+    incumbents: [Salesforce Agentforce, ServiceNow, UiPath, "Microsoft Copilot Studio"]
+    upstart_angle: "Neutral control plane across labs and systems of record; sells completed workflows, not seats"
+    seed_companies: [sycamore, duvo]
+  work-context:
+    label: "4. Context on how work gets done"
+    what: "Captures how work actually happens (process, task and work-graph data, digital twins of roles and objects) and feeds it to agents. Buyer: operations, transformation office."
+    incumbents: [Celonis, "process / task mining vendors", "systems of record"]
+    upstart_angle: "Proprietary, compounding map of the enterprise's real workflows that a lab cannot see from outside"
+    seed_companies: [workfabric]
+  vertical-outcome:
+    label: "5. Vertical agents sold on outcomes"
+    what: "Agents that own a function (CX, finance ops, procurement, retail/CPG ops, IT ops, claims) and charge per resolved unit of work. Buyer: function head."
+    incumbents: ["BPOs", "function SaaS (Zendesk, Coupa, etc.)"]
+    upstart_angle: "Replace labor and BPO budget, not software budget; price per outcome"
+    seed_companies: [sierra, decagon]
+  services:
+    label: "6. Services, SIs and services-as-software"
+    what: "SIs' agentic practices and AI-native services firms that deliver outcomes with agents plus people. Buyer: enterprise transformation budgets."
+    incumbents: [Accenture, Deloitte, Cognizant, Infosys, TCS]
+    upstart_angle: "Forward-deployed delivery is where adoption actually happens today; rollups and AI-native services firms"
+    seed_companies: [accenture, deloitte]
+  adjacent:
+    label: "Adjacent / watch"
+    what: "Coding agents, consumer agents, robotics agents and anything outside enterprise operations. Track, don't model."
+    seed_companies: []
+
+business_models:
+  outcome-priced: "Charges per completed outcome: per resolution, per task, per document, or a share of savings"
+  usage-priced: "Charges per run, token, minute or action"
+  seat-priced: "Charges per user or per agent seat"
+  platform-license: "Platform or enterprise license, often with committed spend"
+  services-led: "Revenue mostly from delivery, forward-deployed engineers or managed service"
+  unknown: "Pricing model not yet verified from a source"
+
+source_types:
+  alphasense: "AlphaSense / Tegus expert-call transcripts, broker research, earnings transcripts"
+  expert-call: "SPC's own expert / customer / founder calls (Granola, AlphaSense-arranged)"
+  market-research: "Reports and surveys: Gartner/Forrester press releases, McKinsey, Menlo, a16z, KPMG, MIT NANDA, Deloitte, BCG"
+  article: "Press, newsletters, blogs, substack, press releases, lab product announcements"
+  podcast: "Podcast / YouTube / conference-talk transcripts"
+  website: "Snapshot of a company website, pricing page, docs, careers page"
+  filing: "SEC filings (10-K/10-Q/S-1), Form D, procurement awards"
+  dataset: "Structured data: adoption indices, pricing trackers, Harmonic exports"
+  other: "Anything else (decks, internal memos, Slack threads)"
+
+# Why a company fits (or doesn't). Tag companies with the ones that apply.
+fit_tests:
+  in-production: "Enterprise customers run its agents in production, not pilots"
+  outcome-pricing: "Charges per outcome, per task or share of savings"
+  owns-work-context: "Holds proprietary context on how work gets done that compounds with use"
+  system-of-action: "Writes back into systems of record and executes, not just answers"
+  lab-resistant: "Hard for OpenAI / Anthropic / Google / Microsoft to absorb (data rights, integrations, liability, distribution)"
+  multi-agent-governance: "Coordinates many agents with permissions, audit and human oversight"
+  measurable-roi: "Customers can name a measured outcome (cost, cycle time, resolution rate)"
+  investable-stage: "Seed to Series C with real enterprise customers, fits SPC check size"
+
+tags:  # free-form but prefer these
+  - must-read
+  - harness
+  - orchestration
+  - multi-agent
+  - outcome-pricing
+  - per-resolution
+  - seat-compression
+  - pricing
+  - unit-economics
+  - gross-margin
+  - inference-cost
+  - fde
+  - pilot-to-production
+  - adoption-data
+  - budget-shift
+  - lab-platform
+  - lab-launch
+  - build-vs-buy
+  - evals
+  - observability
+  - memory
+  - mcp
+  - a2a
+  - computer-use
+  - identity-permissions
+  - governance
+  - human-in-the-loop
+  - process-mining
+  - task-mining
+  - digital-twin
+  - system-of-record
+  - cx-support
+  - finance-ops
+  - procurement
+  - supply-chain
+  - retail-cpg
+  - it-ops
+  - hr
+  - legal
+  - healthcare-admin
+  - insurance
+  - sales-revops
+  - coding-agents
+  - si-practice
+  - services-as-software
+  - bpo
+  - m-and-a
+  - competitor
+  - incumbent
+
+company_status: [candidate, tracking, pipeline, in-diligence, passed, portfolio, not-a-fit, incumbent, competitor]
+source_status: [unread, summarized, reviewed]
+confidence: [high, med, low]
+stages: [pre-seed, seed, series-a, series-b, series-c, series-d, growth, public, private-mature, unknown]

@@ -1,0 +1,13 @@
+slug: outcome-based-agents
+short: oba
+name: Outcome-based agents and agentic orchestration
+owner: Lilly Cordover
+status: active                 # active | paused | archived
+started: 2026-10-23
+description: >
+  AI agents that do enterprise work end to end and are bought on outcomes (per task, per resolution, share of savings)
+  rather than seats, plus the orchestration, harness and work-context layers that let a large enterprise run many of
+  them in production. Core question: where does value accrue (model labs, harness, orchestration, context on how work
+  gets done, vertical workflows, or services), and is it investable at SPC's stage today.
+deck_source:
+review_by: 2026-10-29          # first readout: decide push further vs "here is our perspective"

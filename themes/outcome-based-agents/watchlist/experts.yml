@@ -1,0 +1,18 @@
+# People whose public output we track. "mentions" = companies they name in podcasts/posts; the agent counts them in insights/signals.md.
+# Start with these; prune to the ones that actually say new things.
+
+tracked:
+  - {name: Sri Viswanath, affiliation: Sycamore (Founder & CEO; ex-Atlassian CTO, ex-Coatue Ventures), why: orchestration thesis from the founder, status: seed}
+  - {name: Rohan Murty, affiliation: Workfabric (Founder; Soroco founder), why: work-context thesis, status: seed}
+  - {name: Tomas Cupr, affiliation: Duvo (Co-founder; Rohlik Group CEO), why: operator-buyer view of execution agents in retail, status: seed}
+  - {name: Bret Taylor, affiliation: Sierra (CEO; OpenAI board chair), why: outcome pricing in CX, lab vs app view, status: seed}
+  - {name: Jesse Zhang, affiliation: Decagon (CEO), why: CX agents in production, pricing, status: seed}
+  - {name: Harrison Chase, affiliation: LangChain (CEO), why: harness and agent infrastructure view, status: seed}
+  - {name: Aaron Levie, affiliation: Box (CEO), why: enterprise agent adoption commentary, status: seed}
+  - {name: Daniel Dines, affiliation: UiPath (CEO), why: RPA-to-agents incumbent view, status: seed}
+  - {name: Kyle Poyar, affiliation: Growth Unhinged, why: AI pricing data and outcome-based pricing, status: seed}
+  - {name: Sarah Tavel, affiliation: Benchmark, why: "sell work, not software" thesis, status: seed}
+  - {name: Joanne Chen, affiliation: Foundation Capital, why: service-as-software thesis, status: seed}
+  - {name: swyx, affiliation: Latent Space, why: agent engineering and harness trends, status: seed}
+
+alert_rule: "A company named by 2+ tracked people in 30 days, not yet in companies/, becomes a candidate (companies/_candidates.md) with both source ids."

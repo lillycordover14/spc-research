@@ -39,4 +39,4 @@ Curated guide to the strongest sources in this theme. Every flagged source carri
 - Duvo: $32M Series A, Notino [src-20261014-1d5d80]
 - Sycamore: $65M seed [src-20260330-8d6266]
 - Workfabric: site [src-20261023-21a6d6]
-- Candidates: Camunda [src-20261013-eebc5e], Exotel [src-20261019-d96d4c], Cygrid [src-20261021-aec496], FlowX.AI [src-20261020-a21f1d]
+- Candidates: Camunda [src-20261013-eebc5e], Exotel [src-20261019-d96d4c], Cygrid [src-20261023-aec496], FlowX.AI [src-20261020-a21f1d]

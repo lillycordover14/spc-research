@@ -193,7 +193,6 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | Redwood Materials | owner-operator (borderline) | Battery materials; Series E $425M | [src-20260128-7545d8] | grokbot
 - 2026-10-23 | Multiply Labs | robotic biomanufacturing | Series B $75M | [src-20261001-74df84] | grokbot
 - 2026-10-23 | Almetra | software-first platform | Factory video to live data; Series A EUR16.3M | [src-20260625-940831] | grokbot
-- 2026-10-23 | microagi | enabler | Worker video to train factory robots; $55M seed | [src-20260716-017398] | grokbot
 
 ## Software-first platforms (Arda-type), 2026-10-23
 - 2026-10-23 | C-Infinity | factory-ai (software-first) | AutoAssembler: CAD/PLM → process plans, assembly instructions | $16M, 2026; n/a [src-20260101-be6d89] | https://c-infinity.ai | grokbot

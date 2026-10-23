@@ -80,7 +80,6 @@ Reference: Arda (arda.ai): turns CAD/PLM into a build plan, work instructions an
 |---|---|---|---|---|---|---|---|
 | Arda | arda.ai | Design-to-line planning, line reconfiguration, next robotics | Multiple lines at a large US manufacturer; ArsenalOS | Series A $160M @ $1.5B, Oct 2026 | Altimeter, Accel, Khosla | Anduril | src-20261023-ddfbcb, src-20261020-bbfb1c |
 | Almetra (ex-Deltia) (NEW) | almetra.ai | Cameras over lines turn video into cycle-time/output data; moving to control layer + robotics | Bosch eBike +19% output, ABB +15% | Series A EUR16.3M, Jun 2026 | blisce/ | Bosch, Siemens Energy, ABB, Aumovio | src-20260625-940831 |
-| microagi (NEW, enabler) | microagi.ai | Films workers (cameras, gloves) to train robots for a specific customer factory | 5 companies collecting; 1 deploying on a line | Seed $55M, Jul 2026 | Hummingbird | auto, logistics, food (unnamed) | src-20260716-017398 |
 | Bright Machines, Path Robotics, GrayMatter Robotics, Instrumental, Code Metal, Mind Robotics, Standard Bots, Formic, RobCo, Flexciton, Fero Labs, Phaidra, Sight Machine-type peers | — | in repo | — | — | — | — | cards / candidates |
 
 ## Adjacent / excluded (fail the test)

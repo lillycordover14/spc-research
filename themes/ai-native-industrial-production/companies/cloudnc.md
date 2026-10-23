@@ -20,7 +20,7 @@ customers: []
 harmonic_urn: null
 affinity_id: null
 pitchbook: null
-status: candidate
+status: excluded
 spc_owner: Lilly
 tags: []
 sources:

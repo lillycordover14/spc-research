@@ -80,7 +80,6 @@ Reference: Arda (arda.ai): turns CAD/PLM into a build plan, work instructions an
 |---|---|---|---|---|---|---|---|
 | Arda | arda.ai | Design-to-line planning, line reconfiguration, next robotics | Multiple lines at a large US manufacturer; ArsenalOS | Series A $160M @ $1.5B, Oct 2026 | Altimeter, Accel, Khosla | Anduril | src-20261023-ddfbcb, src-20261020-bbfb1c |
 | Almetra (ex-Deltia) (NEW) | almetra.ai | Cameras over lines turn video into cycle-time/output data; moving to control layer + robotics | Bosch eBike +19% output, ABB +15% | Series A EUR16.3M, Jun 2026 | blisce/ | Bosch, Siemens Energy, ABB, Aumovio | src-20260625-940831 |
-| Bright Machines, Path Robotics, GrayMatter Robotics, Instrumental, Code Metal, Mind Robotics, Standard Bots, Formic, RobCo, Flexciton, Fero Labs, Phaidra, Sight Machine-type peers | — | in repo | — | — | — | — | cards / candidates |
 
 ## Adjacent / excluded (fail the test)
 | Company | Reason | Src |
@@ -98,3 +97,16 @@ Reference: Arda (arda.ai): turns CAD/PLM into a build plan, work instructions an
 ## Gaps
 - No-AI-evidence borderline A rows (Redwood, Noveon, Tandem, Foundation Alloy) need a check of in-house software/robotics.
 - Lead investors not captured for several rows; medical devices, semiconductor fabs and casting turned up no company that passes the test.
+
+## Pass sweep 2026-10-23 (strict test: A owner-operator or B Arda-type)
+YC manufacturing directory + web/news. Already-in-repo passes (Hadrian, Machina, Isembard, Senra, Amca, Freeform, VulcanForms, Mind Robotics, Harmoni, Almetra, Maneva, Allus AI) not repeated.
+| Company | URL | Type | What it makes / runs | Stage | Leads | Customers / orders | Src |
+|---|---|---|---|---|---|---|---|
+| Seurat Technologies | seurat.com | A | Area-printed metal parts, own Wilmington MA factory | Series C $99M, Oct 2023 (>$235M total) | NVentures, Capricorn | 100k T-nuts for optics OEM; Siemens Energy turbine parts | src-20231030-21159c |
+| Ursa Major | ursamajor.com | A | Solid rocket motors via automated Lynx AM process, own plants | Late-stage; Navy $137M award Oct 2026 | n/a in source | Navy CAAM + NMM motors; $25M Navy/OSC pathfinder done | src-20261014-2c66eb |
+| Terabase Energy | terabase.energy | A | Terafab robotic field factory building utility-scale solar | Series C $130M (date n/a in source) | SoftBank Vision Fund 2 | Terafab V2 field-tested 2026; hundreds of MW targeted | src-20261023-079421 |
+| Charge Robotics | chargerobotics.com | A | Portable robotic factories assembling solar-farm sections | $22M, Mar 2025 | n/a | Commercial deployment funded | src-20250312-4ee5bc |
+| Tensr | ycombinator.com/companies/tensr | A | Own 12k sq ft robotic factory building robots/humanoids to order | YC S26 | YC | Customer orders from large US robotics cos; ISS/NASA JSC partnership | src-20261023-4f030a |
+| Applied Kinetics | appliedkinetics.ai | A (unverified plant) | AI-native maker of transformers/switchgear/cooling for DCs | YC F26 | YC | none named | src-20261023-dff610 |
+| Retrocausal | retrocausal.ai | B | Camera copilot guiding/verifying assembly workers; video to line balancing | $5.3M (Glasswing) | Glasswing | 3M, Forvia, Stellantis, Stryker, Boston Scientific, Carrier | src-20260115-7343a1 |
+| DEEP.FINE | n/a | B | Smart glasses + vision AI giving workers real-time floor guidance | Series B $6.6M, Aug 2026 | n/a | n/a | src-20260818-d7f738 |

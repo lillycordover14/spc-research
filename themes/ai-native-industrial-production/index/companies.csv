@@ -2,48 +2,56 @@ slug,name,layer,model,stage,status,hq,founded,headcount,total_raised_usd,website
 advanced-metal-research,Advanced Metal Research,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/advanced-metal-research.md
 antropi-robotics,Antropi Robotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/antropi-robotics.md
 apple,Apple,adjacent,enabler,public,incumbent,,,,,,,,,"$600B US commitment, American Manufacturing Program, $500M MP Materials magnets offtake",2026-10-22,themes/ai-native-industrial-production/companies/apple.md
+applied-kinetics,Applied Kinetics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/applied-kinetics.md
 atomic-industries,Atomic Industries,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/atomic-industries.md
 axal,Axal,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/axal.md
-bright-machines,Bright Machines,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/bright-machines.md
-c-infinity,C Infinity,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/c-infinity.md
+bright-machines,Bright Machines,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/bright-machines.md
+c-infinity,C Infinity,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/c-infinity.md
+charge-robotics,Charge Robotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/charge-robotics.md
 circuithub,Circuithub,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/circuithub.md
-cloudnc,Cloudnc,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/cloudnc.md
-copia,Copia,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/copia.md
+cloudnc,Cloudnc,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/cloudnc.md
+copia,Copia,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/copia.md
 critical-materials-group,Critical Materials Group,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/critical-materials-group.md
+deep-fine,Deep Fine,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/deep-fine.md
 deterrence,Deterrence,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/deterrence.md
-dirac,Dirac,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/dirac.md
+dirac,Dirac,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/dirac.md
 fabri,Fabri,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/fabri.md
 firestorm-labs,Firestorm Labs,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/firestorm-labs.md
 flexxbotics,Flexxbotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/flexxbotics.md
 forge-automation,Forge Automation,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/forge-automation.md
 foundation-industries,Foundation Industries,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/foundation-industries.md
-graymatter-robotics,Graymatter Robotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/graymatter-robotics.md
+graymatter-robotics,Graymatter Robotics,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/graymatter-robotics.md
 harmoni,Harmoni,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/harmoni.md
 helicon,Helicon,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/helicon.md
 hermeus,Hermeus,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/hermeus.md
 heron-power,Heron Power,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/heron-power.md
-instrumental,Instrumental,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/instrumental.md
+instrumental,Instrumental,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/instrumental.md
 invisible-ai,Invisible Ai,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/invisible-ai.md
 jabil,Jabil,adjacent,owner-operator,public,incumbent,,,,,,,,,Contract manufacturer; acquired Hanley Energy (~$725M) for data-center power,2026-10-22,themes/ai-native-industrial-production/companies/jabil.md
-limitless-labs,Limitless Labs,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/limitless-labs.md
+limitless-labs,Limitless Labs,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/limitless-labs.md
 maneva,Maneva,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/maneva.md
-mujin,Mujin,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/mujin.md
-pelico,Pelico,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/pelico.md
+mujin,Mujin,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/mujin.md
+pelico,Pelico,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/pelico.md
 provenmetal,Provenmetal,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/provenmetal.md
 radian-forge,Radian Forge,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/radian-forge.md
 rangeview,Rangeview,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/rangeview.md
+retrocausal,Retrocausal,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/retrocausal.md
 saronic,Saronic,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/saronic.md
+seurat-technologies,Seurat Technologies,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/seurat-technologies.md
 sparkz,Sparkz,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/sparkz.md
-squint,Squint,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/squint.md
-synera,Synera,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/synera.md
+squint,Squint,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/squint.md
+synera,Synera,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/synera.md
 tar,Tar,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/tar.md
 tenet-industries,Tenet Industries,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/tenet-industries.md
+tensr,Tensr,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/tensr.md
+terabase-energy,Terabase Energy,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/terabase-energy.md
 terrafirma,TerraFirma,adjacent,owner-operator,series-a,tracking,"Austin, TX",2024,38,115000000,https://terrafirma.inc,urn:harmonic:company:43504963,"owns-production,in-house-software,data-loop,speed-moat","robot-density,labor-gap,defense-demand","Tech-enabled, vertically integrated construction company: retrofits excavators, dozers, loaders, rollers and skid steers for remote/semi-autonomous operation, runs them from its own command-and-control center with in-house pre-construction software, and performs the earthwork itself on commercial and government contracts.",2026-10-23,themes/ai-native-industrial-production/companies/terrafirma.md
-toolpath,Toolpath,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/toolpath.md
-tulip,Tulip,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/tulip.md
+toolpath,Toolpath,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/toolpath.md
+tulip,Tulip,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/tulip.md
 union-technologies,Union Technologies,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/union-technologies.md
-vention,Vention,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/vention.md
-voxel,Voxel,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/voxel.md
+ursa-major,Ursa Major,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/ursa-major.md
+vention,Vention,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/vention.md
+voxel,Voxel,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/voxel.md
 1872,1872,fabrication,owner-operator,seed,tracking,"Cincinnati, OH (Camp Washington)",2024,18,15000000,https://1872.ai,urn:harmonic:company:75603108,"owns-production,in-house-software,data-loop,speed-moat","steel,welding,scheduling,quoting,job-shop,reshoring,labor-gap,capex-financing","Owner-operated AI-native steel fabrication plant in Cincinnati run on in-house Factory OS; sells complex welded structural steel assemblies (frames, skids, enclosures, modular infrastructure) to energy, utility, industrial and modular-construction buyers.",2026-10-23,themes/ai-native-industrial-production/companies/1872.md
 abb,ABB,fabrication,enabler,public,incumbent,,,,,,,,,Industrial automation; robotics division being sold to SoftBank ($5.375B),2026-10-22,themes/ai-native-industrial-production/companies/abb.md
 jeevy-fabrication,Jeevy Fabrication,fabrication,hybrid,series-a,candidate,"Cocoa, FL (per Preqin; unconfirmed)",2025,,,https://www.jeevyfabrication.com,,"in-house-software,mission-critical-output",,"AI-driven weld fabrication EPC: pipes, tanks, fluid systems, structural assemblies for aerospace, energy, data centers. Software turns drawings into BOM + schedule and routes work to in-network shops plus its own modular fab; owns job end-to-end.",2026-10-23,themes/ai-native-industrial-production/companies/jeevy-fabrication.md
@@ -55,7 +63,7 @@ senra-systems,Senra Systems,fabrication,owner-operator,series-b,tracking,"Redond
 anduril,Anduril Industries,factory-ai,owner-operator,growth,competitor,,,,,,,,,Neo-prime; Arsenal-1 ~5M sq ft Ohio campus on ArsenalOS; Arda design partner,2026-10-22,themes/ai-native-industrial-production/companies/anduril.md
 arda,Arda,factory-ai,software-first,series-a,tracking,"San Francisco, CA",2025,,232000000,,,"in-house-software,data-loop,mission-critical-output","factory-video,mes,software-first,defense-demand,reshoring","AI agent for manufacturing engineers: reads CAD and design docs and produces assembly order, work instructions and station layouts for lines in plants owned by others; robot-programming agents and a factory-video model are roadmap. Co-founded by ex-OpenAI chief research officer Bob McGrew.",2026-10-22,themes/ai-native-industrial-production/companies/arda.md
 boston-dynamics,Boston Dynamics,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/boston-dynamics.md
-code-metal,Code Metal,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/code-metal.md
+code-metal,Code Metal,factory-ai,software-first,unknown,excluded,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/code-metal.md
 cognite,Cognite,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/cognite.md
 facton,Facton,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/facton.md
 figure,Figure,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/figure.md
@@ -72,7 +80,7 @@ realwear,Realwear,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-2
 rockwell-automation,Rockwell Automation,factory-ai,owner-operator,unknown,incumbent,,,,,,,,,Industrial automation hardware and software,2026-10-22,themes/ai-native-industrial-production/companies/rockwell-automation.md
 siemens,Siemens,factory-ai,enabler,public,incumbent,,,,,,,,,Xcelerator; acquired Altair (Mar 2025) and Dotmatics (Jul 2025); Industrial AI OS with NVIDIA,2026-10-22,themes/ai-native-industrial-production/companies/siemens.md
 trio-mobil,Trio Mobil,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/trio-mobil.md
-xdof,Xdof,factory-ai,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/xdof.md
+xdof,Xdof,factory-ai,software-first,unknown,excluded,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/xdof.md
 anthropic,Anthropic,materials-rd,software-first,private-mature,incumbent,,,,,,,,,Frontier AI lab; Claude Science workbench; Bay Area wet lab (biology),2026-10-22,themes/ai-native-industrial-production/companies/anthropic.md
 basf,BASF,materials-rd,owner-operator,public,incumbent,,,,,,,,,Chemicals major; licenses Orbital Industries CurieOS for catalyst discovery,2026-10-22,themes/ai-native-industrial-production/companies/basf.md
 boltz,Boltz,materials-rd,software-first,unknown,candidate,,,,,,,,,,2026-10-22,themes/ai-native-industrial-production/companies/boltz.md

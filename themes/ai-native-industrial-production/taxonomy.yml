@@ -106,7 +106,7 @@ tags:  # free-form but prefer these
   - competitor
   - incumbent
 
-company_status: [candidate, tracking, pipeline, in-diligence, passed, portfolio, not-a-fit, incumbent, competitor]
+company_status: [candidate, tracking, pipeline, in-diligence, passed, portfolio, not-a-fit, incumbent, competitor, excluded]
 source_status: [unread, summarized, reviewed]
 confidence: [high, med, low]
 stages: [pre-seed, seed, series-a, series-b, series-c, series-d, growth, public, private-mature, unknown]

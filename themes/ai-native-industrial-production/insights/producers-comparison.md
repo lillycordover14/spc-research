@@ -43,29 +43,21 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 | Antara | precision-parts | Listed as manufacturing platform; details unverified | Shriftman map [src-20250506-249be3] |  |
 | Atinary | materials-rd | SDLabs code-free self-driving-lab platform since 2019; new Boston lab (self-nominated) | source: comments [src-20261022-83d2a8] [src-20261022-e32efa] |  |
 | ATLANT 3D, VSParticle | materials-rd (enablers) | atomic-layer printing / nanoparticle printing for high-throughput synthesis; CuspAI lab partners | https://www.atlant3d.com | https://www.atlant3d.com |
-| Atlas | factory-ai | Software connecting design intent to manufacturing capability (founder ex-Palantir Warpspeed) | source: comments [src-20261022-9367ca] |  |
 | Atomic Industries | fabrication (tooling) | AI-driven tool & die shop (Detroit); owner-operator pattern in tooling | needs src |  |
 | Atomic Machines | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Atomscale | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| BeyondMath | factory-ai | Physics/engineering simulation AI | source: comments [src-20260814-b77f2d] |  |
 | Boltz | materials-rd | AI biomolecular modeling, Chai peer; GSK call | drive-import Boltz call |  |
-| Bright Machines | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Brimstone | metals-supply | Low-carbon cement, steel and alumina from silicate rock; owns Reno NV demo plant, full plant by 2030; climate-era, adjacent to thesis | $80M (Breakthrough, Amazon) [src-20260519-2653de] | https://www.inc.com/leah-carroll/17-startups-rebuilding-america-in-2026/91343942 |
-| CADDi | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| CamFer | factory-ai | AI CAD/CAM tooling (listed under mfg software) | Shriftman map [src-20250506-249be3] |  |
 | Castelion | adjacent | Hypersonic missile production in its own Texas plant; defense prime pattern, not a target | a16z AD50 2025 [src-20250301-a9888e] | https://a16z.com/american-dynamism-50-2025/ |
 | Chai Discovery | materials-rd | AI molecule/drug discovery models; on SPC biopharma shallow-dive list; 4 AlphaSense customer/expert calls filed | [src-20261022-80fd75] + drive-import calls |  |
 | Chemify | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Citrine Informatics | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Code Metal | factory-ai | AI code generation for robotics/embedded; GM call; also on SPC VC list | drive-import EC-1000000-232320 |  |
 | Compular | materials-rd | Liquid formulations / electrolytes R&D stack (MD, DFT, surrogates) (self-nominated) | source: comments [src-20260814-b77f2d] [src-20261022-21c27f] |  |
 | CorePower Magnetics | adjacent | Inductors, transformers and nanocrystalline alloys; owns production in Pittsburgh; grid/AI power buildout buyer | $10.6M Sep 2026 (Engine Ventures, Material Impact) [src-20260930-82812e] | https://projectstartups.com/pages/manufacturing/ |
 | Cyclic Materials | metals-supply | Recycles end-of-life magnets into rare earth oxides; owns processing (Toronto, US sites); non-US HQ | $75M Sep 2026 [src-20260930-82812e] | https://projectstartups.com/pages/manufacturing/ |
 | Daedalus | precision-parts | AI precision CNC machining (Germany, non-US); founder Jonas Schneider on NGP podcast | [src-20251203-fc28ea] |  |
-| Datum Source | precision-parts (enabler) | AI supplier-matching/quoting software acquired by Hadrian | n/a |  |
 | Deep Optica | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Digital Metal | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Dirac | fabrication (enabler) | AI work-instruction software; NAIA founding member with Hadrian; Arda competitor | n/a |  |
 | Dunia | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Duranium | metals-supply | Carbochlorination reactor to produce titanium, magnesium and other metals; owns process (SF) | YC S2025 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | Durin | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
@@ -73,39 +65,24 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 | Edison Scientific | materials-rd | AI-for-science; on SPC biopharma shallow-dive list | [src-20261022-80fd75] |  |
 | Emergent Matter | factory-ai | Listed in Warehouse/Mfg/Industrial vertical (name as read from image) | Defy map [src-20260909-524e7c] |  |
 | Entalpic | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Epsilon3 | factory-ai | Procedure/operations software; ThreadMoat names it top AI-native MES | Shriftman map [src-20250506-249be3]; ThreadMoat [src-20260610-eb6335] | https://www.epsilon3.io |
 | ExoMatter | materials-rd | Hybrid: building and generating materials IP (self-nominated) | source: comments [src-20261022-e32efa] |  |
 | Faraday | factory-ai | Industrial AI that connects to plant hardware and feeds live production data into agent loops; software-first | YC F2026 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
-| Fero Labs | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Fictiv | precision-parts | Digital manufacturing marketplace (Xometry peer) | listed under Platforms on Shriftman Made-in-USA map [src-20250506-249be3] | https://www.fictiv.com |
 | Firehawk Aerospace | precision-parts | 3D-printed hybrid rocket engines and solid fuel grains; owns production; Army SBIR Phase III; defense-only buyer | a16z AD50 2025, stage not stated [src-20250301-a9888e] | https://a16z.com/american-dynamism-50-2025/ |
-| First Resonance | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Fleet Space | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Flexciton | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Formic | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Foundation Industries | fabrication | Low-volume high-mix domestic manufacturing for hard-tech teams; owns production (SF) | YC P2025 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | Foundry Lab | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Foundry Robotics | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] |  |
-| Gecko Robotics | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | GeologicAI | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Gigaton | factory-ai | Factory AI | source: comments [src-20261012-539c82] |  |
-| GrayMatter Robotics | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | GUILD | precision-parts | "AI-native defense prime" making aerospace parts and automating its own manufacturing (NYC) | YC S2026 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | Hertha Metals | metals-supply | Single-step iron and steelmaking reactor; owns 20,000 sq ft plant in Conroe TX; commercial iron 2028, steel 2030 | $133.65M Series A Sep 2026 (Khosla, Doerr) after $17M [src-20260930-82812e] [src-20260519-2653de] | https://projectstartups.com/pages/manufacturing/ |
-| Hestus | factory-ai | AI CAD/engineering software (listed under mfg software) | Shriftman map [src-20250506-249be3] |  |
-| Horizontal | factory-ai | AI agents for production replanning and quality inside factory systems; software-first | YC F2026 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | iCOMAT | precision-parts | Automated composite manufacturing, owns production (UK, non-US); JLR customer call | drive-import EC-1000000-227385 |  |
-| Instrumental | factory-ai | AI inspection/quality software for assembly lines | Shriftman map Software [src-20250506-249be3] | https://instrumental.com |
-| IPercept | factory-ai | Sensors plus AI predicting CNC machine wear and faults (Stockholm); enabler, non-US | $16.5M Series A Sep 2026 (Isogon, 2150) [src-20260930-82812e] | https://projectstartups.com/pages/manufacturing/ |
 | Iprova | materials-rd | AI-generated inventions linking materials to applications (self-nominated) | source: comments [src-20261022-21c27f] [src-20261022-e32efa] |  |
 | Kebotix | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | KoBold Metals | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Lila Sciences | materials-rd | "AI science factories": autonomous labs where AI proposes and robots run materials and life-science experiments (Cambridge MA, Flagship) | $350M Series A Jun 2026; reported talks at $8.5B | https://www.finsmes.com/2026/06/lila-sciences-raises-350m-in-series-a-funding.html |
-| Limitless Labs | factory-ai | Physical AI for CNC; author frames skilled-labor bottleneck | source: comments [src-20261022-66fe7f] |  |
-| Linewise | factory-ai | Captures how physical products are made and turns it into AI training data; enabler for the data-loop layer | YC P2025 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | Lithosquare | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Mach Industries | adjacent | Defense new-prime; $5.7M seed then $79M A (Sequoia) | [src-20260811-8f6209] |  |
-| MaintainX | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Mass Magnetics | metals-supply | Permanent magnets from recycled rare-earth scrap; own production Boston and Columbus IN | YC S2026 pre-seed [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | Mater-AI | materials-rd | Physics-based AI for thermoelectric materials; says full stack prediction through own lab testing, owns IP (self-nominated) | source: comments [src-20260814-b77f2d] [src-20261022-83d2a8] [src-20261022-21c27f] [src-20261022-e32efa] |  |
 | MaterialsZone | materials-rd | Materials R&D + production data platform with predictive models (self-nominated) | source: comments [src-20261022-83d2a8] |  |
@@ -121,23 +98,17 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 | Multiverse Machines | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] |  |
 | Nanotronics | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Nascent Materials | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Neuron Industries | factory-ai | AI-native industrial controller to replace PLCs (LA); enabler | YC S2026 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | New Phase Metals | metals-supply | rare-earth magnet recycling tech | https://investdeeptech.substack.com/p/new-phase-metals-recycling-tech-targets | https://investdeeptech.substack.com/p/new-phase-metals-recycling-tech-targets |
 | NiCAT | materials-rd | AI for cathode active material; pilot CAM line ~3 t/yr per post author; shipping atoms | source: comments [src-20260814-b77f2d] |  |
 | Noble Machines | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy physical AI map [src-20260909-524e7c] |  |
 | NobleAI | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Noetive | factory-ai | AI reasoning software coordinating manufacturing, logistics and data center operations; software-first, no production | $41M seed Sep 2026 (Eclipse, Craft) [src-20260930-82812e] | https://projectstartups.com/pages/manufacturing/ |
 | Novyte Materials | materials-rd | AI for materials discovery (India-linked); outside EU/NA scope of PnP map | source: comments [src-20261022-83d2a8] [src-20261022-e32efa] |  |
 | Open Actuation | adjacent | High-mix drone motors and actuators made in its own LA factory | YC F2026 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | Orbital Materials | materials-rd | AI-designed materials, now making data-center hardware; Radical peer | https://www.orbitalmaterials.com | https://www.orbitalmaterials.com |
-| Path Robotics | fabrication (enabler) | Columbus OH robotic welding, Obsidian weld model; supplies 1872's cells, so 1872's physical-AI IP is partly bought | https://path-robotics.com | https://path-robotics.com |
-| Phaidra | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Phaseshift Technologies | materials-rd | Says it owns IP and manufactures its own materials (material owner/producer) | source: comments [src-20261022-e32efa] |  |
-| PhysicsX | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Planck Technologies | materials-rd | Co-designs materials and systems with experimental testing (Norway) (self-nominated) | source: comments [src-20261022-e32efa] |  |
 | Plotlogic | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Polaron | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
-| Prometheus | factory-ai (comp) | Bezos-backed "artificial general engineer", reported $12B raised at $41B; AI-for-engineering comp to Arda, not production | n/a |  |
 | Pronto (Atoms) | adjacent (enabler) | off-road fleet autonomy used at Mariana's Copper One | https://pronto.ai | https://pronto.ai |
 | ProvenMetal | adjacent | US circuit board production with automated procurement, DFM and assembly; owns production | YC S2026 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
 | Quantistry | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
@@ -147,14 +118,10 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 | Rapta | factory-ai | Computer vision that guides and verifies production work for aerospace and defense lines; software-first | $8M Sep 2026 (Voyager, Access) [src-20260930-82812e] | https://projectstartups.com/pages/manufacturing/ |
 | RARA Factory | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Resolved Motion | fabrication | Robotic actuators made in Upstate NY; bootstrapped, says venture not ready for capex-intensive startups | source: comments [src-20261022-9367ca] |  |
-| RobCo | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | SandboxAQ | materials-rd | Large quantitative-model (LQM) chemistry/materials + pharma; computation-only scale-up | source: comments [src-20260814-b77f2d] [src-20261022-21c27f] |  |
 | Saronic | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Seurat Technologies | precision-parts | area-printing metal AM, parts/service model | https://www.seurat.com | https://www.seurat.com |
-| Sidekick | factory-ai | Text agent for shop operations reading live machine data; software-first, job-shop buyer | YC S2026 [src-20261022-559ff7] | https://www.ycombinator.com/companies/industry/manufacturing |
-| Skild AI / Physical Intelligence | factory-ai (competitor) | robot foundation models; cited as Mind Robotics competitors | https://www.skild.ai | https://www.skild.ai |
 | SOLVE Chemistry | materials-rd | Closed-loop chemistry (founder places it with Kebotix/Chemify); flags process development/scale-up as blocker | source: comments [src-20261022-21c27f] [src-20261022-83d2a8] |  |
-| Standard Bots | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Synboli | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Terra AI | tbd | named on one or more LinkedIn market maps (AI materials, AI mining, mfg tech); not yet profiled, verify stage and fit | [src-20261022-e32efa] [src-20261022-21c27f] [src-20261022-83d2a8] [src-20260814-b77f2d] [src-20260812-36b6a7] [src-20261 |  |
 | Tutor | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] |  |
@@ -165,7 +132,6 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 | Vulcan Elements | metals-supply | US rare-earth magnet manufacturing; DoD-backed | needs src |  |
 | VulcanForms | precision-parts | MIT-spinout metal AM parts-as-a-service, raised hundreds of millions; same owner-operator model as Freeform | https://vulcanforms.com | https://vulcanforms.com |
 | Westmag | metals-supply | US drone motors/actuators; a16z-led seed Jun 2026 | [src-20260602-66bb0d] | https://www.a16z.news/p/investing-in-westmag |
-| xdof | factory-ai | Egocentric data for robot training; Nike call; 8VC portco | drive-import xdof call |  |
 | Xinterra | materials-rd | Singapore; says it discovered then commercialised a product (COzTERRA to TRL 7) (self-nominated) | source: comments [src-20260814-b77f2d] [src-20261022-83d2a8] |  |
 | Yonder | materials-rd | Automated lab platform; commenter claims highest throughput for materials discovery | source: comments [src-20261022-83d2a8] |  |
 
@@ -212,3 +178,16 @@ Could grow into Series B-D. Includes existing repo names for one view.
 | Fabri | https://3dprint.com/327032/fabri-raises-13-5-million/ | Automated investment casting | $13.5M, Jun 2026 | Lavrock; RTX & LMT Ventures | ex-Relativity/Velo3D/Inkbit | shipping castings [src-20260617-4dfb96] |
 | Radian Forge | https://radianforge.com | Naval WAAM components | Seed $2.5M, Sep 2026 | Veteran Ventures | n/d | none named [src-20260915-b6482a] |
 | Rangeview | https://www.rangeview.com | Printed-mold casting foundry | Seed $4.2M, Dec 2022 | Calibrate; Shield | Berkeley robotics | Kratos, Navy work [src-20260923-3ab808] |
+
+## Pass sweep 2026-10-23 (strict test: A owner-operator or B Arda-type)
+YC manufacturing directory + web/news. Already-in-repo passes (Hadrian, Machina, Isembard, Senra, Amca, Freeform, VulcanForms, Mind Robotics, Harmoni, Almetra, Maneva, Allus AI) not repeated.
+| Company | URL | Type | What it makes / runs | Stage | Leads | Customers / orders | Src |
+|---|---|---|---|---|---|---|---|
+| Seurat Technologies | seurat.com | A | Area-printed metal parts, own Wilmington MA factory | Series C $99M, Oct 2023 (>$235M total) | NVentures, Capricorn | 100k T-nuts for optics OEM; Siemens Energy turbine parts | src-20231030-21159c |
+| Ursa Major | ursamajor.com | A | Solid rocket motors via automated Lynx AM process, own plants | Late-stage; Navy $137M award Oct 2026 | n/a in source | Navy CAAM + NMM motors; $25M Navy/OSC pathfinder done | src-20261014-2c66eb |
+| Terabase Energy | terabase.energy | A | Terafab robotic field factory building utility-scale solar | Series C $130M (date n/a in source) | SoftBank Vision Fund 2 | Terafab V2 field-tested 2026; hundreds of MW targeted | src-20261023-079421 |
+| Charge Robotics | chargerobotics.com | A | Portable robotic factories assembling solar-farm sections | $22M, Mar 2025 | n/a | Commercial deployment funded | src-20250312-4ee5bc |
+| Tensr | ycombinator.com/companies/tensr | A | Own 12k sq ft robotic factory building robots/humanoids to order | YC S26 | YC | Customer orders from large US robotics cos; ISS/NASA JSC partnership | src-20261023-4f030a |
+| Applied Kinetics | appliedkinetics.ai | A (unverified plant) | AI-native maker of transformers/switchgear/cooling for DCs | YC F26 | YC | none named | src-20261023-dff610 |
+| Retrocausal | retrocausal.ai | B | Camera copilot guiding/verifying assembly workers; video to line balancing | $5.3M (Glasswing) | Glasswing | 3M, Forvia, Stellantis, Stryker, Boston Scientific, Carrier | src-20260115-7343a1 |
+| DEEP.FINE | n/a | B | Smart glasses + vision AI giving workers real-time floor guidance | Series B $6.6M, Aug 2026 | n/a | n/a | src-20260818-d7f738 |

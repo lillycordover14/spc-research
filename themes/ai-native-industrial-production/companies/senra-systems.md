@@ -70,6 +70,7 @@ sources:
 - src-20261022-6a57a7
 - src-20260715-9d48e0
 - src-20260128-a16c79
+- src-20240517-21cb76
 data_quality: Series B $65M (Jul 2026), total >$112M per press; Harmonic showed $107M total and $493M post (valuation not in press). Headcount ~190 per Wiring Harness News (Jul 2026) vs Harmonic 116. 'US Air Force / Space Force (contracts)' in investors is legacy from the seed file, not confirmed by 2026 sources. Wiring Harness News profile date is July 2026, exact day not shown (recorded as 2026-07-01).
 updated: '2026-10-23'
 ---

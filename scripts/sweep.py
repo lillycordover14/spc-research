@@ -40,6 +40,16 @@ def tracked_companies():
                     "news_query": fm.get("news_query"), "context": [w.lower() for w in (fm.get("match_context") or [])]})
     return out
 
+def resolve_link(url: str) -> str:
+    """Google News RSS links are redirect stubs; fetching them returns Google's page, not the article. Decode to the publisher URL."""
+    if not url or "news.google.com" not in url: return url
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        r = gnewsdecoder(url, interval=1)
+        if r.get("status") and r.get("decoded_url"): return r["decoded_url"]
+    except Exception: pass
+    return url
+
 def fetch(url, timeout=20):
     r = requests.get(url, headers=UA, timeout=timeout, allow_redirects=True)
     r.raise_for_status(); return r
@@ -99,6 +109,7 @@ def file_item(e, publisher, companies, keywords, cutoff, layers_hint, args, stat
     src = e.get("source", {}).get("title") if isinstance(e.get("source"), dict) else None
     body, page_title = snippet, None
     if not args.dry_run:
+        link = resolve_link(link)
         try:
             body, page_title = page_text(link); body = body or snippet
             time.sleep(0.7)

@@ -25,6 +25,7 @@ jobs:
           for t in $(ls themes | grep -v '^_'); do
             echo "== $t"
             python3 scripts/sweep.py --theme $t --days "${{ github.event.inputs.days || '14' }}" $([ "${{ github.event.inputs.sites }}" = "true" ] && echo --sites) || true
+            python3 scripts/refetch.py --theme $t --max 200 || true
             python3 scripts/validate.py --theme $t || true
             python3 scripts/build_index.py --theme $t
           done

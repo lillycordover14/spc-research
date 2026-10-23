@@ -41,14 +41,10 @@ match_context:
 - customer experience
 - clay bavor
 sources:
-- src-20261020-5cc99d
 - src-20261020-28bcd0
 - src-20261006-7bb9f8
 - src-20261016-e06470
-- src-20261008-c31b2e
-- src-20261009-e43698
 - src-20260930-9b1413
-- src-20261021-f65653
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---

@@ -285,3 +285,10 @@ Tracked companies have a card in `companies/`. Candidates come from `companies/_
 - **Gov awards with no record found:** SBIR.gov API (Forbidden), DIU, DOE LPO, DPA Title III. Amca W9124P-26-C-A020 is not yet in USAspending.
 - **Reports:** no recent GAO/CRS DIB report and no DoD Industrial Capabilities Report newer than FY2021.
 - **Candidates:** 115 are unverified. Promote only once there are 2 independent sources (Amca now has 2).
+
+## Oct 23 deep dives (huddle prep)
+- [Huddle prep: expert shortlist and questions](huddle-prep.md)
+- [Who is raising now (Form D)](raising-now.md)
+- [Repeat-order evidence (USAspending)](repeat-orders-evidence.md)
+- [Unit economics: A vs B vs job shops](unit-economics.md)
+- [Failures and pivots](failures-and-pivots.md)

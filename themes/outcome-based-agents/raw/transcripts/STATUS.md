@@ -37,3 +37,19 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 | src-20260504-0c7955 | YouTube auto captions (en-orig) via yt-dlp | done | 8793 | The Deep View: Alexander Rinke, Why process intelligence is the missin |
 | src-20251105-fde118 | YouTube auto captions (en-orig) via yt-dlp | done | 3298 | theCUBE: Alex Rinke, Celonis, at Celosphere 2025 |
 | (not filed) RrWPyj-Xlh4 | YouTube auto captions (en-orig) via yt-dlp | skipped | 6821 | MAD Podcast: Bootstrapping a Decacorn on $15k with Celonis CEO Alex Rinke (2024-02-08); founder story, no agent, pricing or harness facts not already filed |
+| src-20260309-78d5a1 | YouTube auto captions (en-orig) via yt-dlp | done | 14232 | Kleiner Perkins: How Sierra Is Pulling Ahead in the AI Race, Co-founde |
+| src-20260427-1a7ad0 | YouTube auto captions (en-orig) via yt-dlp | done | 9452 | CXOTalk: Agentic AI in the Enterprise (Praveen Akkiraju, Insight Partn |
+| src-20251018-229dda | YouTube auto captions (en-orig) via yt-dlp | done | 9939 | CamundaCon 2025 NYC Day 1 Keynote: Building the AI-Driven Enterprise w |
+| src-20260416-e6896d | YouTube auto captions (en-orig) via yt-dlp | done | 8273 | TWIML AI Podcast 765: How Capital One Delivers Multi-Agent Systems (Ra |
+| src-20260624-eb13a6 | YouTube auto captions (en) via yt-dlp | done | 6598 | YC Root Access: What It Actually Takes to Deploy a Voice Agent to a Fo |
+| src-20260522-b1dbe3 | YouTube auto captions (en-orig) via yt-dlp | done | 10288 | Get Paid: How Intercom's CFO Bet the Business on Outcome-Based Pricing |
+| src-20261019-54d838 | YouTube auto captions (en-orig) via yt-dlp | done | 3074 | AI Engineer: Is the Agent Harness Dead? (Jediah Katz, SpaceXAI) |
+| src-20250422-de3b52 | YouTube auto captions (en-orig) via yt-dlp | done | 9691 | Sequoia Capital Training Data: Pricing in the AI Era, From Inputs to O |
+| src-20260728-aba703 | YouTube auto captions (en-orig) via yt-dlp | done | 3127 | AI Engineer: The Dirty Secret of Forward Deployed Engineering (Natalie |
+| src-20260805-5a9fa7 | YouTube auto captions (en-orig) via yt-dlp | done | 10180 | Macro Talk: Zendesk CEO on Outcome-based Pricing, Staying Private, Rai |
+| skipped:4emj1kOY82o | youtube captions | skipped | 10444 | Grace Gong with Joanne Chen (Foundation Capital), 2025-09-25: restates services-as-software thesis already filed from Foundation Capital primary; no new facts |
+| skipped:1CkLZRCXl_I | youtube captions | skipped | - | Time Doctor offshore BPO confidence index webinar, 2025-03-19: country labor-market survey, off theme |
+| skipped:7i7A-Y4EMgQ | youtube captions | skipped | - | VentureBeat "Most enterprise AI agents are Slop", 2026-01-07: vibe-coding platform focus, off theme |
+| skipped:wV0ihlxtiMI | youtube captions | skipped | 11365 | Extropy Advisors, Bo Senu-Hodo shared services and BPOs, 2026-10-02: practitioner opinion, secondhand survey stats, low value |
+| skipped:pEHfZUrahGc | - | skipped | - | Turing Post summary of harness debate; used Katz primary talk instead |
+| skipped:Zyw-YA0k3xo | - | skipped | - | YC Bob McGrew FDE, 2025-09-08: FDE coverage already filed from Sierra and Taylor primaries |

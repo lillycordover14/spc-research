@@ -54,6 +54,9 @@ sources:
 - src-20250514-093b59
 - src-20260731-a07321
 - src-20251002-0b85b2
+- src-20260309-78d5a1
+- src-20250422-de3b52
+- src-20260728-aba703
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---
@@ -74,6 +77,7 @@ Benchmark for outcome-priced vertical agents in CX.
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]
 - 2026-06-03 | sierra: Outcomemaxxing post restates outcome pricing thesis (2026-06-03) [src-20260603-7bd160]
+- 2026-03-09 | sierra: Taylor confirms 100M ARR in 7 quarters, 150M in 8 (a 50M quarter); over a quarter of customers above 10B revenue [src-20260309-78d5a1]
 - 2025-10-02 | sierra, decagon: Competitor Intercom Fin: 65% resolution, 6,000+ customers, $1M performance guarantee, per-resolution pricing [src-20251002-0b85b2]
 - 2025-05-14 | sierra: CEO restates per-resolution pricing and vertical focus at AI Ascent 2025 [src-20250514-093b59]
 

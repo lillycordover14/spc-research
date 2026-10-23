@@ -24,3 +24,5 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-06-03 | Lassie | vertical-outcome | AI agents running dental practice financial admin; a16z-led $35M Series A (2026-06) | src-20260603-ce0e80 | grokbot
 - 2026-02-10 | Leena AI | vertical-outcome | Back-office agents priced on tickets closed, moved from consumption to outcome pricing (per Bessemer) | src-20260210-496d37 | grokbot
 - 2025-11-05 | Bloomfilter | work-context | Process intelligence for the software development life cycle, built as an ISV on Celonis (theCUBE, Celosphere 2025) | src-20251105-fde118 | grokbot
+- 2026-06-24 | Coval (coval.dev) | harness-infra | Simulation, evaluation and observability for voice agents; 28.2M Series A led by Norwest (Jun 2026) | src-20260624-eb13a6 | grokbot
+- 2025-04-22 | Paid (paid.ai) | adjacent | Billing, pricing, invoicing and revenue recognition for AI agents incl. outcome-based models; CEO Manny Medina (ex-Outreach) | src-20250422-de3b52 | grokbot

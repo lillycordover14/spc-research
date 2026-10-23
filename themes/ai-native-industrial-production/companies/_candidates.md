@@ -194,3 +194,21 @@ source: comments. See insights/comments-aggregate.md.
 - 2026-10-23 | Multiply Labs | robotic biomanufacturing | Series B $75M | [src-20261001-74df84] | grokbot
 - 2026-10-23 | Almetra | software-first platform | Factory video to live data; Series A EUR16.3M | [src-20260625-940831] | grokbot
 - 2026-10-23 | microagi | enabler | Worker video to train factory robots; $55M seed | [src-20260716-017398] | grokbot
+
+## Software-first platforms (Arda-type), 2026-10-23
+- 2026-10-23 | C-Infinity | factory-ai (software-first) | AutoAssembler: CAD/PLM → process plans, assembly instructions | $16M, 2026; n/a [src-20260101-be6d89] | https://c-infinity.ai | grokbot
+- 2026-10-23 | Synera | factory-ai (software-first) | Agentic AI for engineering workflows | Series B $40M, 2026; n/a [src-20260101-328169] | https://synera.ai | grokbot
+- 2026-10-23 | Harmoni | factory-ai (software-first) | Factory orchestration of operators, machines, ERP; HAL copilot | Series A $10M, Sep 2026; Bessemer [src-20260901-8279e8] | https://harmoni.ai | grokbot
+- 2026-10-23 | Pelico | factory-ai (software-first) | AI orchestration of shortages/scheduling across plants | $40M (to $72M); AE Ventures strategic Jul 2026; General Catalyst, AE Ventures [src-20260701-200036] | https://pelico.ai | grokbot
+- 2026-10-23 | Almetra (ex-Deltia) | factory-ai (software-first) | Cameras over lines → cycle time, output, utilization | Series A €16.3M, Jun 2026; blisce/ [src-20260625-940831] | https://almetra.ai | grokbot
+- 2026-10-23 | Maneva | factory-ai (software-first) | Video-to-Action AI, moving to agentic coordination | Series A $27M, Jun 2026; USVP [src-20260601-c74b47] | https://maneva.ai | grokbot
+- 2026-10-23 | Invisible AI | factory-ai (software-first) | Edge 3D vision on manual assembly | Series A $15M, Sep 2022; Van Tuyl [src-20220928-afc17c] | https://invisible.ai | grokbot
+- 2026-10-23 | Voxel | factory-ai (software-first) | Vision on existing cameras for safety/ops | Series B $44M, Jun 2025; NewRoad [src-20250603-f0f709] | https://voxelai.com | grokbot
+- 2026-10-23 | Tulip | factory-ai (software-first) | No-code AI frontline ops platform | Series D $120M @ $1.3B, Jan 2026; Mitsubishi Electric [src-20260113-5220fe] | https://tulip.co | grokbot
+- 2026-10-23 | Squint | factory-ai (software-first) | AR + AI operator procedures, agentic RCA | Series B $40M, Aug 2025; Westly, TCV [src-20250812-9b8c09] | https://squint.ai | grokbot
+- 2026-10-23 | Copia Automation | factory-ai (software-first) | Git + AI for PLC/OT code | $26M, Jun 2026; AE Ventures, Squadra [src-20260616-b37685] | https://copia.io | grokbot
+- 2026-10-23 | CloudNC | factory-ai (software-first) | CAM Assist drafts CNC toolpaths; Quote Agent | Series B ext. $20M, Sep 2026; Nimble Ventures [src-20260908-f98d21] | https://cloudnc.com | grokbot
+- 2026-10-23 | Toolpath | factory-ai (software-first) | AI quoting, planning, CAM for shops | Seed $10M + strategic (Kennametal, Autodesk) 2025; Leaders Fund, Kennametal [src-20250801-b73ad7] | https://toolpath.com | grokbot
+- 2026-10-23 | Flexxbotics | factory-ai (software-first) | Robot-to-machine orchestration in machining cells | ~$15M total; $7.7M Aug 2026 (PitchBook via search); eCoast Angels (2024) [src-20260301-cfb19b] | https://flexxbotics.com | grokbot
+- 2026-10-23 | Vention | factory-ai (software-first) | Cloud automation design + modular cells | Series D $110M, Jan 2026; Investissement Québec, NVentures [src-20260128-1dca36] | https://vention.com | grokbot
+- 2026-10-23 | Mujin | factory-ai (software-first) | MujinOS: robot planning, digital twin, orchestration | Series D $233M (incl. $100M debt), Dec 2025; NTT, QIA [src-20251202-7a9942] | https://mujin-corp.com | grokbot

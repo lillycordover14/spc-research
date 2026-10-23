@@ -182,4 +182,6 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 
 **Verified 'needs src' rows:** Vulcan Elements (Series A + $1.4B USG; src-20260923-c53c99); Atomic Industries ($25M Series A; src-20261023-a3bfe7); Rangeview (seed $4.2M, casting, Kratos/Navy work; src-20260923-3ab808; not confirmed as Hadrian-alumni).
 
-**Total producers tracked: 159** (15 deep dives + 138 long tail + 6 new).
+| Jeevy Fabrication | fabrication (weld) | AI-driven weld-fab EPC: pipes, tanks, fluid systems, structures; network + own modular fab | A (Standard Capital, Oct 2026, size n/d); YC S25; no named customers [src-20261007-8edd82] | https://www.jeevyfabrication.com |
+
+**Total producers tracked: 160** (15 deep dives + 138 long tail + 7 new).

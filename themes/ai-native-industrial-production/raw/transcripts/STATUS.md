@@ -20,7 +20,7 @@ Updated 2026-10-23. All free: YouTube captions via yt-dlp, else public RSS/enclo
 | src-20250619-46e43c | local faster-whisper base.en int8 CPU | done | 13156 | raw/transcripts/src-20250619-46e43c.md |
 | src-20250717-e76a6b | local faster-whisper small.en int8 CPU | done; read in full + summarized | 2946 | raw/transcripts/src-20250717-e76a6b.md |
 | src-20250718-ac643a | local faster-whisper base.en int8 CPU | done | 5428 | raw/transcripts/src-20250718-ac643a.md |
-| src-20250723-3f3ef8 | local faster-whisper base.en int8 CPU | done | 9704 | raw/transcripts/src-20250723-3f3ef8.md |
+| src-20250723-3f3ef8 | local faster-whisper small.en int8 CPU | done; read in full + summarized | 9404 | raw/transcripts/src-20250723-3f3ef8.md |
 | src-20250811-e7cb9a | local faster-whisper small.en int8 CPU | done; read in full + summarized | 6287 | raw/transcripts/src-20250811-e7cb9a.md |
 | src-20250929-452dcb | local faster-whisper small.en int8 CPU | done; read in full + summarized | 10274 | raw/transcripts/src-20250929-452dcb.md |
 | src-20251002-6a5afd | prior (YouTube captions/publisher) | done (pre-existing in record body) | 20547 | |
@@ -75,12 +75,12 @@ Updated 2026-10-23. All free: YouTube captions via yt-dlp, else public RSS/enclo
 | src-20260709-ccfbba | prior (YouTube captions/publisher) | done (pre-existing in record body) | 1666 | |
 | src-20260710-366df7 | local faster-whisper small.en int8 CPU | done; read in full + summarized | 7702 | raw/transcripts/src-20260710-366df7.md |
 | src-20260715-821445 | prior (YouTube captions/publisher) | done (pre-existing in record body) | 14102 | |
-| src-20260728-c48435 | local faster-whisper base.en int8 CPU | done | 8130 | raw/transcripts/src-20260728-c48435.md |
+| src-20260728-c48435 | local faster-whisper small.en int8 CPU | done; read in full + summarized | 8495 | raw/transcripts/src-20260728-c48435.md |
 | src-20260805-b7e3c7 | prior (YouTube captions/publisher) | done (pre-existing in record body) | 1617 | |
 | src-20260813-1fe8a2 | prior (YouTube captions/publisher) | done (pre-existing in record body) | 3323 | |
 | src-20260821-1c5a08 | prior (YouTube captions/publisher) | done (pre-existing in record body) | 4410 | |
 | src-20260822-53d33e | prior (YouTube captions/publisher) | done (pre-existing in record body) | 1753 | |
-| src-20260901-a44eee | local faster-whisper base.en int8 CPU | done | 2294 | raw/transcripts/src-20260901-a44eee.md |
+| src-20260901-a44eee | local faster-whisper small.en int8 CPU | done; read in full + summarized | 2295 | raw/transcripts/src-20260901-a44eee.md |
 | src-20260908-65fab6 | prior (YouTube captions/publisher) | done (pre-existing in record body) | 10626 | |
 | src-20260909-b547c7 | prior (YouTube captions/publisher) | done (pre-existing in record body) | 10658 | |
 | src-20260917-1bcb81 | prior (YouTube captions/publisher) | done (pre-existing in record body) | 3222 | |

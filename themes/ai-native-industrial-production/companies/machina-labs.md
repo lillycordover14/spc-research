@@ -106,6 +106,10 @@ sources:
 - src-20240905-9dfad4
 - src-20220308-db7720
 - src-20230930-b4f7bd
+- src-20261023-c3b62f
+- src-20261023-8710cc
+- src-20261023-af2e72
+- src-20251009-1f4b2f
 data_quality: 'Hybrid: runs its own plants (2 in LA, each <100k sq ft) and sells/places RoboCraftsman cells. Series C $124M (Feb 2026) per press; lead and valuation undisclosed, Harmonic shows $333M post. Slide 8 ''$124M Series C'' is the round size, not valuation. Press release calls the 200k sq ft Intelligent Factory ''production-ready'' and the third facility, but Axios the same day says the site is still being negotiated (NM, TX, AL, Reno); treat as planned. Total raised $172.3M is Harmonic''s figure; press does not state it.'
 updated: '2026-10-22'
 ---

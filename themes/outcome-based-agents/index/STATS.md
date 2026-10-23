@@ -22,8 +22,7 @@
 - orchestration: 36
 - work-context: 35
 - services: 22
-- adjacent: 20
-- enterprise-buyers: 1
+- adjacent: 21
 
 ## Companies by layer / status
 - harness-infra: 1

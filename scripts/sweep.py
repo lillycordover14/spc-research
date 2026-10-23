@@ -46,7 +46,7 @@ def resolve_link(url: str) -> str:
     try:
         from googlenewsdecoder import gnewsdecoder
         r = gnewsdecoder(url, interval=1)
-        if r.get("status") and r.get("decoded_url"): return r["decoded_url"]
+        if (r.get("success") or r.get("status")) and r.get("decoded_url"): return r["decoded_url"]
     except Exception: pass
     return url
 

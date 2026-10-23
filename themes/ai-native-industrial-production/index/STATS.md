@@ -1,10 +1,10 @@
 # Index stats — AI-native industrial production — 2026-10-23
 
-- sources: 630  | companies: 112 | people: 16
+- sources: 771  | companies: 112 | people: 16
 
 ## Sources by type
 - alphasense: 1
-- article: 379
+- article: 520
 - dataset: 6
 - expert-call: 49
 - filing: 31
@@ -16,7 +16,7 @@
 ## Sources by status
 - reviewed: 1
 - summarized: 331
-- unread: 298
+- unread: 439
 
 ## Sources by layer
 - precision-parts: 112
@@ -45,14 +45,14 @@
 - divergent: 29
 - machina-labs: 28
 - sendcutsend: 24
+- periodic-labs: 21
+- mind-robotics: 21
 - arda: 21
-- periodic-labs: 20
-- mind-robotics: 20
+- figure: 20
 - mariana-minerals: 19
-- figure: 17
+- tar: 16
 - radical-ai: 15
+- deterrence: 14
+- sparkz: 14
+- nominal: 14
 - nox-metals: 13
-- nominal: 13
-- freeform: 11
-- isembard: 11
-- cuspai: 10

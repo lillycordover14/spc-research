@@ -1,10 +1,12 @@
 # Index stats — Outcome-based agents and agentic orchestration — 2026-10-23
 
-- sources: 0  | companies: 15 | people: 0
+- sources: 94  | companies: 15 | people: 0
 
 ## Sources by type
+- article: 94
 
 ## Sources by status
+- unread: 94
 
 ## Sources by layer
 
@@ -21,3 +23,7 @@
 - status=tracking: 3
 
 ## Most-mentioned companies
+- langchain: 11
+- duvo: 9
+- sierra: 8
+- decagon: 6

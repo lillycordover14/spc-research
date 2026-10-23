@@ -31,7 +31,6 @@ Method: EDGAR full-text search (`efts.sec.gov`, forms D and D/A), then parsing e
 | Deterrence | A | Deterrence Defense Form D 2024-04-24: $3M offered, $2M sold. | Stale. | src-20240424-6b9e47 |
 | Forge Automation | A | Form D 2024-04-05: $135k. | Pre-seed only. | src-20240405-6106e7 |
 | Fabri | A | Form D 2024-12-05: $5.2M. The $13.5M round announced Jun 2026 is not on EDGAR yet. | Possibly filing late. | src-20241205-f34a44 |
-| Bright Machines | B | Form D 2022-04-20: $145.5M offered, only $71.5M sold. | Raised only about half; this preceded its restructuring. | src-20220420-f9ee3d |
 
 ## No Form D found
 1872, Jeevy, UNION, Arda, Radical AI, Divergent, VulcanForms, Foundation Industries, Antropi, Sparkz, Hertha, TAR, Rangeview, Senra, Orbital, iCOMAT, Terrafirma, ProvenMetal, Isembard (UK). They may file under a different legal name, file late, or (non-US companies) not file at all. Next step: EDGAR company search by legal entity name from state registries.

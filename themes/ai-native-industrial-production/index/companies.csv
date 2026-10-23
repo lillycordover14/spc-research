@@ -1,18 +1,29 @@
 slug,name,layer,model,stage,status,hq,founded,headcount,total_raised_usd,website,harmonic_urn,fit,tags,what,updated,_path
+advanced-metal-research,Advanced Metal Research,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/advanced-metal-research.md
+antropi-robotics,Antropi Robotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/antropi-robotics.md
 apple,Apple,adjacent,enabler,public,incumbent,,,,,,,,,"$600B US commitment, American Manufacturing Program, $500M MP Materials magnets offtake",2026-10-22,themes/ai-native-industrial-production/companies/apple.md
 atomic-industries,Atomic Industries,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/atomic-industries.md
+axal,Axal,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/axal.md
 circuithub,Circuithub,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/circuithub.md
+critical-materials-group,Critical Materials Group,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/critical-materials-group.md
+deterrence,Deterrence,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/deterrence.md
 fabri,Fabri,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/fabri.md
 firestorm-labs,Firestorm Labs,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/firestorm-labs.md
+forge-automation,Forge Automation,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/forge-automation.md
+foundation-industries,Foundation Industries,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/foundation-industries.md
+helicon,Helicon,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/helicon.md
 hermeus,Hermeus,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/hermeus.md
 heron-power,Heron Power,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/heron-power.md
 jabil,Jabil,adjacent,owner-operator,public,incumbent,,,,,,,,,Contract manufacturer; acquired Hanley Energy (~$725M) for data-center power,2026-10-22,themes/ai-native-industrial-production/companies/jabil.md
+provenmetal,Provenmetal,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/provenmetal.md
 radian-forge,Radian Forge,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/radian-forge.md
 rangeview,Rangeview,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/rangeview.md
 saronic,Saronic,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/saronic.md
 sparkz,Sparkz,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/sparkz.md
 tar,Tar,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/tar.md
+tenet-industries,Tenet Industries,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/tenet-industries.md
 terrafirma,TerraFirma,adjacent,owner-operator,series-a,tracking,"Austin, TX",2024,38,115000000,https://terrafirma.inc,urn:harmonic:company:43504963,"owns-production,in-house-software,data-loop,speed-moat","robot-density,labor-gap,defense-demand","Tech-enabled, vertically integrated construction company: retrofits excavators, dozers, loaders, rollers and skid steers for remote/semi-autonomous operation, runs them from its own command-and-control center with in-house pre-construction software, and performs the earthwork itself on commercial and government contracts.",2026-10-23,themes/ai-native-industrial-production/companies/terrafirma.md
+union-technologies,Union Technologies,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/union-technologies.md
 1872,1872,fabrication,owner-operator,seed,tracking,"Cincinnati, OH (Camp Washington)",2024,18,15000000,https://1872.ai,urn:harmonic:company:75603108,"owns-production,in-house-software,data-loop,speed-moat","steel,welding,scheduling,quoting,job-shop,reshoring,labor-gap,capex-financing","Owner-operated AI-native steel fabrication plant in Cincinnati run on in-house Factory OS; sells complex welded structural steel assemblies (frames, skids, enclosures, modular infrastructure) to energy, utility, industrial and modular-construction buyers.",2026-10-23,themes/ai-native-industrial-production/companies/1872.md
 abb,ABB,fabrication,enabler,public,incumbent,,,,,,,,,Industrial automation; robotics division being sold to SoftBank ($5.375B),2026-10-22,themes/ai-native-industrial-production/companies/abb.md
 jeevy-fabrication,Jeevy Fabrication,fabrication,hybrid,series-a,candidate,"Cocoa, FL (per Preqin; unconfirmed)",2025,,,https://www.jeevyfabrication.com,,"in-house-software,mission-critical-output",,"AI-driven weld fabrication EPC: pipes, tanks, fluid systems, structural assemblies for aerospace, energy, data centers. Software turns drawings into BOM + schedule and routes work to in-network shops plus its own modular fab; owns job end-to-end.",2026-10-23,themes/ai-native-industrial-production/companies/jeevy-fabrication.md

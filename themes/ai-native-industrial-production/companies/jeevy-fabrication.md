@@ -43,6 +43,7 @@ sources:
 - src-20261007-8edd82
 - src-20261023-8fd6bc
 - src-20261023-6737ac
+- src-20261014-40926d
 data_quality: grokbot lean pass 2026-10-23; site JS-only, not readable; no named customers or round size found
 updated: '2026-10-23'
 ---

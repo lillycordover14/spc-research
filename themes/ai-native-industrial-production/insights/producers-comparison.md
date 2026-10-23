@@ -184,4 +184,31 @@ Raw from candidate log; stage/evidence as filed, 'needs src' = unverified.
 
 | Jeevy Fabrication | fabrication (weld) | AI-driven weld-fab EPC: pipes, tanks, fluid systems, structures; network + own modular fab | A (Standard Capital, Oct 2026, size n/d); YC S25; no named customers [src-20261007-8edd82] | https://www.jeevyfabrication.com |
 
-**Total producers tracked: 160** (15 deep dives + 138 long tail + 7 new).
+**Total producers tracked: 172** (15 deep dives + 138 long tail + 7 new + 12 early-stage below).
+
+## Early-stage pipeline (Seed/A)
+
+Could grow into Series B-D. Includes existing repo names for one view.
+
+| Name | URL | Makes | Last round | Lead investors | Founders | Order evidence |
+|---|---|---|---|---|---|---|
+| NOx Metals | https://noxmetals.com | Automated aluminum cut-to-size service center, Detroit | Seed $11.5M, Jun 2026 | Hyperion; Palmer Luckey | founder grew up in father's metal shop; YC S25 | none named [src-20261023-58afb5] |
+| 1872 | https://1872.com | AI-native structural steel fab, Cincinnati | Seed $15M, Jul 2026 | O.H.I.O. Fund | 3 ex-SpaceX engineers | none named; full autonomy 2027 [src-20260722-3bc2d8] |
+| Atomic Industries | https://pulse2.com/atomic-industries-25-million-secured-to-advance-ai-based-manufacturing | AI tool & die, Detroit | Series A $25M, Sep 2025 (src-20261023-a3bfe7) | MaC, DTX | tooling operators | ships production parts to OEMs [src-20261023-a3bfe7] |
+| Jeevy Fabrication | https://www.jeevyfabrication.com | Weld fab EPC: tanks, piping, skids; ~10% in-house near Fort Worth | Series A, Oct 2026 | Standard Capital | ex-SpaceX Starship GSE; ex-Rondo | none named [src-20261014-40926d] |
+| UNION | https://union.co | Autonomous 155mm shell forge, Dallas | Seed $51.3M, 2025 | Bravo Victor; Nadrah | ex-Tesla/Anduril eng. | Regulus first customer [src-20250917-54688d] |
+| Critical Materials Group | https://siliconangle.com/2026/09/02/critical-munitions-group-raises-10-3m-to-automate-the-production-of-military-grade-explosives/ | Automated energetics (explosives, propellants) | Seed $10.3M, Sep 2026 | Overmatch Ventures | n/d | none named [src-20260902-841664] |
+| Helicon | https://www.tectonicdefense.com/exclusive-helicon-emerges-from-stealth-raises-16-5m/ | Robotic composite drone airframes, LA | $16.5M, Oct 2026 | AlleyCorp | n/d | none named [src-20261020-026010] |
+| Deterrence | https://deterrence.com | Robotic primer/energetics manufacturing | n/d in source | n/d | ex-Latch, ex-Tesla factory | none named [src-20250327-1dc3fd] |
+| Forge Automation | https://www.forgejobshop.com | Software-enabled CNC shop, 4-day parts, Toronto | YC W25 | YC | n/d | thousands of parts; Fortune 10 customers; reserved-machine SLAs [src-20261023-f83e90] |
+| Foundation Industries | https://foundation-industries.com | Own CNC ops + AI CAD review, Belmont CA | Seed (closed 2025) | YC | ex-SAVA Robotics | Skydio, Westmag, Scale AI, Base Power [src-20261023-eb1ba3] |
+| Antropi Robotics | https://www.ycombinator.com/companies/antropi-robotics | Autonomous CNC dark factory network | YC F26 | YC | n/d | first factory shipping <7-day parts [src-20261023-c68417] |
+| Advanced Metal Research | https://www.ycombinator.com/companies/advanced-metal-research | Vision-guided robotic welding cells, LA | YC Sp26 | YC | ex-NASA; welding foreman; rocket engines | none named [src-20261023-57ad95] |
+| GUILD | https://www.ycombinator.com/companies/industry/manufacturing | AI-native defense prime for aerospace parts | YC 2026 | YC | n/d | wins defense contracts (self-described) [src-20261022-559ff7] |
+| ProvenMetal | https://provenmetal.com | Fast domestic PCB assembly, SF | YC S26 | YC | ex-Lumindt PCB test | none named [src-20261023-b79be1] |
+| Tenet Industries | https://www.ycombinator.com/companies/tenet-industries | AI/robotic PCBA factory, Munich | YC Sp26 | YC | 2x hardware founder w/ exit | none named [src-20261023-2925da] |
+| Axal | https://www.axal.ai | Quick-turn PCB assembly <48h, SF | YC W25 | YC | IPC-certified founders | none named [src-20261023-401290] |
+| CircuitHub | https://www.circuithub.com | Automated PCBA 'Grid' factory | Series A $28M, May 2026 | Plural | n/d | 2M+ boards; profitable [src-20260520-09ca24] |
+| Fabri | https://3dprint.com/327032/fabri-raises-13-5-million/ | Automated investment casting | $13.5M, Jun 2026 | Lavrock; RTX & LMT Ventures | ex-Relativity/Velo3D/Inkbit | shipping castings [src-20260617-4dfb96] |
+| Radian Forge | https://radianforge.com | Naval WAAM components | Seed $2.5M, Sep 2026 | Veteran Ventures | n/d | none named [src-20260915-b6482a] |
+| Rangeview | https://www.rangeview.com | Printed-mold casting foundry | Seed $4.2M, Dec 2022 | Calibrate; Shield | Berkeley robotics | Kratos, Navy work [src-20260923-3ab808] |

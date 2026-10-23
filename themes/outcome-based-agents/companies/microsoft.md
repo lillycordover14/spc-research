@@ -39,6 +39,7 @@ sources:
 - src-20261014-1d5d80
 - src-20261014-79938e
 - src-20261005-66e092
+- src-20261021-e45563
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -52,6 +53,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-21 | microsoft: Contact Center Intelligence public preview; Siemens Healthineers, Thomas Jefferson [src-20261021-e45563]
 
 
 ## Economics (what we know)

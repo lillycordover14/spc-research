@@ -65,6 +65,7 @@ Benchmark for outcome-priced vertical agents in CX.
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-20 | sierra: Stripe partnership for in-call payments; Cedar 71.3% payment completion [src-20261020-28bcd0]
 - 2026-10-06 | sierra: Personal Agent Protocol with Meta, Stripe, Walmart (2026-10-06) [src-20261006-7bb9f8]
+- 2026-09-30 | sierra: OpenAI Marketplace launch partner; customers draw down OpenAI commits [src-20260930-9b1413]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-06-03 | sierra: Outcomemaxxing post restates outcome pricing thesis (2026-06-03) [src-20260603-7bd160]
 

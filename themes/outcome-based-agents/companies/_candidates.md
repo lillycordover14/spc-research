@@ -11,3 +11,4 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-03-30 | Maisa AI | orchestration | Agentic process automation startup named as Sycamore competitor | src-20260330-8d6266 | grokbot
 - 2026-10-08 | Vida | vertical-outcome | AI agent OS (Austin) with outcome-based pricing for qualified leads and transfers, sold via channel | src-20261008-fb6a3d | grokbot
 - 2026-09-29 | Runlayer | harness-infra | Enterprise AI control plane and MCP gateway; $30M Series A Jun 2026 (Felicis, Khosla), $42M total; Instacart, Gusto, Opendoor, dbt Labs | src-20260929-247cd8 | grokbot
+- 2026-10-22 | AuxoAI | services | AI engineering services startup with 'forward deployed experts'; Series A led by NTTVC (Oct 2026) | src-20261022-d5ad54 | grokbot

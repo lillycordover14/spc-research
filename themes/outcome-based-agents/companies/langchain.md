@@ -40,9 +40,6 @@ sources:
 - src-20261017-d3bed0
 - src-20261018-7e9c72
 - src-20261013-1dcd15
-- src-20261017-9e85b5
-- src-20261013-21688d
-- src-20261019-0583a6
 data_quality: Benchmark card for the harness layer, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -58,6 +55,7 @@ Benchmark for an independent harness / agent-infrastructure company.
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-22 | langchain: CEO publicly endorses Ramp's in-house harness design, pitches Deep Agents as the alternative [src-20261022-ae18f2]
 - 2026-10-17 | langchain: Chase: ~30% of LangChain eng salary goes to coding tools; routing belongs in harness [src-20261017-d3bed0]
+- 2026-10-13 | langchain: DXC licenses LangSmith for OASIS [src-20261013-1dcd15]
 
 
 ## Economics (what we know)

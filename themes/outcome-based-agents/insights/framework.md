@@ -47,6 +47,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-09-10 OpenAI Agents API -> world 1 because OpenAI gives away its production harness to developers, making the harness a lab feature [src-20260910-014b24]
 - 2026-09-09 Salesforce GS Communacopia (AlphaSense) -> world 2 because Salesforce runs agents on its own CRM data and Slack context, partnering with Anthropic for models and orchestrating Fin and Piper [src-20260909-c1900d]
 - 2026-08-25  -> world 3 because 32% of enterprises now build software in-house with coding agents instead of buying (McKinsey) [src-20260825-e5c5c1]
+- 2026-07-31 a16z Decagon -> world 5 because Decagon argues application-layer vertical agents keep business logic, testing and compliance tooling the labs will not build [src-20260731-a07321]
 - 2026-07-22 OpenAI Presence -> world 1 because the lab ships a complete vertical CX agent with its own harness, deployed by its FDEs and SIs [src-20260722-a3993b]
 - 2026-06-28 HP Frontier partnership -> world 1 because HP standardizes agent governance and evaluation on the lab platform [src-20260628-930f51]
 - 2026-06-15  -> world 2 because Salesforce acquires Fin to own the CX agent inside its harness [src-20260615-74b583]
@@ -56,6 +57,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-02-24  -> world 1 because Anthropic ships function plugins for enterprise agents [src-20260224-7eb23d]
 - 2026-02-23 OpenAI Frontier Alliances -> world 4 because OpenAI relies on McKinsey, BCG, Accenture and Capgemini to assemble Frontier deployments per client, with the lab owning the platform (worlds 1 and 4 combined) [src-20260223-9272a6]
 - 2026-02-05 OpenAI Frontier launch -> world 1 because OpenAI positions Frontier as the one platform that runs and governs every agent, including third-party ones [src-20260205-ea19f4]
+- 2025-05-14  -> world 5 because Sierra CEO argues applied vertical agents capture the value and business-model change favors startups over incumbents [src-20250514-093b59]
 
 ## 3. Outcome pricing test
 For each vendor claiming outcome pricing, capture: the unit (resolution, task, document, % savings), price per unit, how the outcome is verified, who audits it, what happens at renewal, and the gross margin after inference. A vendor passes if the unit is countable, the customer agrees with the count, and the contract renewed at least once.

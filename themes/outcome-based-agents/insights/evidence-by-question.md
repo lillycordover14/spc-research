@@ -67,6 +67,8 @@ Questions are defined in `questions.md`.
 - 2026-03-12 | Intercom Fin (2026-03-12): moves to $0.99 per outcome (50/month minimum), 76% average resolution, 12,000+ teams [src-20260312-1f35f8]
 - 2026-03-10 | Bret Taylor (Cheeky Pint, 2026-03-10): Sierra charges a pre-negotiated rate per autonomous resolution; escalations to humans are free [src-20260310-ad2c26]
 - 2026-03-09 | Microsoft prices agent governance per human user ($15) and bundles it into a $99 seat, the opposite of per-agent or per-outcome pricing, which signals the largest incumbent is defending seat economics rather than moving to outcomes [src-20260309-f391cf]
+- 2025-09-18 | Decagon (No Priors, 2025-09-18): prices per conversation, or per conversation without a human, sold as a prepaid allotment burned down over the term [src-20250918-7e3ad0]
+- 2025-05-14 | Bret Taylor (Training Data, 2025-05-14): Sierra's median customer pays a pre-negotiated rate per autonomous resolution; escalation is free [src-20250514-093b59]
 - 2025-01-12 | Growth Unhinged (2025-01-12, 2024 data): 54% of AI products monetized beyond seats; 7% outcome-based [src-20250112-39b9ba]
 - 2024-12-10 | Decagon (2024-12-10): most customers choose per-conversation over per-resolution pricing [src-20241210-0d932d]
 - 2024-12-01 | Sierra (Dec 2024): introduces outcome-based pricing for agents, charging only when agreed outcomes are achieved [src-20241201-958c00]
@@ -93,10 +95,12 @@ Questions are defined in `questions.md`.
 - 2026-09-09 | Salesforce says outcome deals are funded either from the savings themselves or from revenue-line metrics (qualified leads, booked orders) [src-20260909-c1900d]
 - 2026-08-31 | Gartner: agentic AI funding up 31.8% vs IT budgets up 3.7% for 2027, implying reallocation from existing software [src-20260831-2bda07]
 - 2026-08-26 | Explicit 'never pay for empty seats' language signals seat compression pressure even at the platform layer, and per-project caps let agent spend be charged back to departments rather than central IT [src-20260826-c6c4b5]
+- 2026-07-31 | Decagon: some customers 'use their BPOS a lot less or don't need the BO anymore' [src-20260731-a07321]
 - 2026-05-01 | Per-user licensing for agent governance keeps agent spend inside IT and security budgets [src-20260501-fc687c]
 - 2026-04-02 | Wawa CIO sizes AI add-ons at ~20% of core ITSM platform cost, from IT budget, under pressure from rising SaaS costs [src-20260402-8d84cb]
 - 2026-03-09 | Budget for agent governance lands in the IT and security line via the M365 agreement, not in BPO or headcount budgets [src-20260309-f391cf]
 - 2026-01-19 | Mayfield: 46% of agent buying decisions made by line-of-business leaders [src-20260119-2b35fb]
+- 2025-09-18 | Decagon CEO: enterprise AI buying is now top-down from C-suite and board; CX is the lowest hanging fruit [src-20250918-7e3ad0]
 - 2025-01-12 | 11x prices digital workers at 20-35% of a human FTE (Growth Unhinged) [src-20250112-39b9ba]
 
 ## Q5. Who builds the harness
@@ -113,6 +117,7 @@ Questions are defined in `questions.md`.
 - 2026-09-29 | OpenAI is integrating specialist dots into Microsoft Agent 365 governance and shipping OpenAI agents inside Bedrock, splitting the harness between lab (agent) and platform owner (governance, cloud) [src-20260929-2fdd0f]
 - 2026-09-09 | Salesforce partners with Anthropic (Claudeforce) and positions Agentforce as orchestrator of specialized agents (Fin, Piper), i.e. system of record as harness [src-20260909-c1900d]
 - 2026-08-25 | McKinsey 2026: 32% decided against buying a software product because they could build it with agentic coding tools [src-20260825-e5c5c1]
+- 2026-07-31 | Decagon: FDEs must productize or 'you're just building a glorified consulting truck'; a customer left Sierra's FDE-led model and built 7 journeys in a month vs 3 in a year [src-20260731-a07321]
 - 2026-06-28 | HP picked OpenAI Frontier as its unified agent control plane (what runs, context, governance, evaluation) after a Feb to Jun 2026 evaluation [src-20260628-930f51]
 - 2026-05-12 | Law firms co-developing workflows directly with Anthropic (Freshfields, Quinn Emanuel) show the enterprise and the lab building the harness together without a vertical vendor in between [src-20260512-5c6e2d]
 - 2026-05-07 | Rackspace sells FDE pods plus private cloud with Palantir and Uniphore as 'AI outcome platforms', a services-led harness model [src-20260507-288237]
@@ -166,6 +171,7 @@ Questions are defined in `questions.md`.
 - 2026-02-05 | OpenAI Frontier bundles business context, agent execution, memory, evals and per-agent identity in one enterprise platform, absorbing agent platform, agent identity, eval and memory startup categories [src-20260205-ea19f4]
 - 2026-01-30 | Free, open-source Sales, Legal, Customer support and Finance plugins put a lab-built 'department agent' in front of every paid Claude seat, pressuring thin horizontal copilots for those functions [src-20260130-79791d]
 - 2026-01-11 | Anthropic shipped prior authorization and claims-appeal templates plus CMS, ICD-10 and NPI connectors as free add-ons to Claude subscriptions, which directly overlaps the first workflow many healthcare RCM and prior-auth agent startups sell [src-20260111-f1affc]
+- 2025-05-14 | Bret Taylor: the tooling market 'can really be threatened by the foundation model companies' [src-20250514-093b59]
 
 ## Q7. Orchestration vs context vs vertical vs services
 - 2026-10-23 | Workfabric site (2026-10-23): agent 'missions' and employee 'twins' capturing how work is done; no customers named [src-20261023-21a6d6]
@@ -203,6 +209,7 @@ Questions are defined in `questions.md`.
 - 2026-09-29 | OpenAI Marketplace lets enterprises spend OpenAI commitments on 32 partners including Salesforce, ServiceNow, Sierra and Decagon, so labs distribute systems of record and vertical apps rather than displace them [src-20260929-2fdd0f]
 - 2026-09-26 | Agentforce routes every action through Flow; 4.3M Help-site inquiries, 70% resolved (self-reported) [src-20260926-ff7125]
 - 2026-09-09 | Salesforce rejects the headless-CRM bear case: CRM metadata encodes company knowledge; work shifting to Slack and Claude still increases CRM work volume [src-20260909-c1900d]
+- 2026-07-31 | Decagon: 'zero desire to build a CRM'; agents need systems of record to store work [src-20260731-a07321]
 - 2026-07-22 | ServiceNow Q2 2026 (2026-07-22): AI ACV crossed $1B; Otto unifies Now Assist and Moveworks [src-20260722-d4586c]
 - 2026-06-16 | A system-of-work incumbent wrapping Anthropic's models and Cowork pattern, then undercutting Claude Cowork on price by 30 to 40% with its own fine-tuned model, shows the harness owner with the data (Work IQ) can commoditize the model lab [src-20260616-28211f]
 - 2026-06-15 | Salesforce agreed to buy Fin (ex-Intercom) for ~$3.6B on 2026-06-15, closed 2026-09-10 [src-20260615-74b583]
@@ -220,6 +227,7 @@ Questions are defined in `questions.md`.
 - 2026-09-29 | Runlayer ($42M raised; Instacart, Gusto, Opendoor, dbt Labs) is the commercial agent control-plane comp to OCE [src-20260929-247cd8]
 - 2026-03-30 | Sycamore $65M seed led by Coatue and Lightspeed (2026-03-30); no named customers; peers Isara, Airia, Port, Maisa [src-20260330-8d6266]
 - 2025-06-25 | Gartner: only ~130 of thousands of 'agentic' vendors are real (agent-washing) [src-20250625-8a6cff]
+- 2025-05-14 | Bret Taylor: 'I am fairly skeptical of horizontal AI platforms', with open-source LangChain an exception [src-20250514-093b59]
 ## Q10. Vertical players, investable
 
 - 2026-10-23 | Visa pilot with BILL and Billtrust (2026-10-21): AI agents pay approved B2B invoices end to end [src-20261023-89141c]
@@ -243,9 +251,12 @@ Questions are defined in `questions.md`.
 - 2026-09-10 | The lab prices its managed harness at zero (tokens and tools only), so standalone harness vendors cannot charge for the agent loop itself [src-20260910-014b24]
 - 2026-09-09 | Agentforce 1 Edition $550 per seat consolidates ~$1,300 of US sales-rep point-solution spend [src-20260909-c1900d]
 - 2026-08-26 | Off-peak deferred execution at up to half the inference cost lowers COGS for async back-office agents, improving gross margins for outcome-priced vertical players [src-20260826-c6c4b5]
+- 2026-07-31 | Decagon (a16z, 2026-07-31): 90% of workflow on fine-tuned open-source models; tokens per conversation rising as it adds quality checks [src-20260731-a07321]
 - 2026-06-03 | Sierra: S&P up ~30% vs WCLD down ~15% since Dec 2024, seat SaaS under pressure [src-20260603-7bd160]
 - 2026-03-12 | Fin pricing: $0.99 per outcome plus $19 helpdesk seat and $35 Copilot seat, a hybrid outcome plus seat model [src-20260312-1f35f8]
 - 2026-03-10 | Sierra customers automate 70-90% of cases; residual human cases get longer handle times [src-20260310-ad2c26]
+- 2025-09-18 | Decagon CEO: case studies cut contact-center cost 60-70% (vendor claim) [src-20250918-7e3ad0]
+- 2025-05-14 | Bret Taylor: cost-savings pricing is 'a temporary drug' as agents get compared to other agents, not labor [src-20250514-093b59]
 
 ## Q12. Exit paths
 - 2026-10-13 | Decagon ($4.5B) hired a bank to explore a sale; early ServiceNow talks, now denied (Business Insider, 2026-10-13) [src-20261013-6d4b75]

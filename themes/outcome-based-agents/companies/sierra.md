@@ -51,6 +51,8 @@ sources:
 - src-20261013-6d4b75
 - src-20261003-6d97c0
 - src-20260310-ad2c26
+- src-20250514-093b59
+- src-20260731-a07321
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---
@@ -69,7 +71,9 @@ Benchmark for outcome-priced vertical agents in CX.
 - 2026-10-06 | sierra: Personal Agent Protocol with Meta, Stripe, Walmart (2026-10-06) [src-20261006-7bb9f8]
 - 2026-09-30 | sierra: OpenAI Marketplace launch partner; customers draw down OpenAI commits [src-20260930-9b1413]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
+- 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]
 - 2026-06-03 | sierra: Outcomemaxxing post restates outcome pricing thesis (2026-06-03) [src-20260603-7bd160]
+- 2025-05-14 | sierra: CEO restates per-resolution pricing and vertical focus at AI Ascent 2025 [src-20250514-093b59]
 
 
 ## Economics (what we know)

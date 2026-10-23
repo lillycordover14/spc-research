@@ -4,3 +4,6 @@ All free: YouTube captions via yt-dlp, else public RSS/enclosure audio transcrib
 
 | id | method | status | words | note |
 |---|---|---|---|---|
+| src-20250514-093b59 | publisher transcript (sequoiacap.com) | done | 6350 | Training Data: Bret Taylor, How AI is Reinventing Software Business Models |
+| src-20260731-a07321 | YouTube auto captions (en-orig) via yt-dlp | done | 16675 | a16z: How Decagon Runs 90% of Its Agents on Open-Source Models (Jesse  |
+| src-20250918-7e3ad0 | YouTube auto captions (en-orig) via yt-dlp | done | 7529 | No Priors Ep. 132: Decagon CEO and co-founder Jesse Zhang |

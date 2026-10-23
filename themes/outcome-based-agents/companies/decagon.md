@@ -42,6 +42,8 @@ sources:
 - src-20261013-6d4b75
 - src-20261001-194468
 - src-20241210-0d932d
+- src-20260731-a07321
+- src-20250918-7e3ad0
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -58,6 +60,8 @@ Benchmark for CX agents in production.
 - 2026-10-13 | decagon: Hired bank to explore sale; early ServiceNow talks (BI 2026-10-13) [src-20261013-6d4b75]
 - 2026-10-13 | decagon: $100M ARR; 90% of workloads on fine-tuned open models [src-20261013-d7909a]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
+- 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]
+- 2025-09-18 | decagon: CEO details per-conversation allotment pricing and up-market move into banks, airlines, telcos [src-20250918-7e3ad0]
 - 2024-12-10 | decagon: Pricing post: most customers pick per-conversation [src-20241210-0d932d]
 
 

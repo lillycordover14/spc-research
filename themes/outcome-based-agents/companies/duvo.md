@@ -70,6 +70,7 @@ sources:
 - src-20261015-1423cf
 - src-20261014-4bf207
 - src-20261014-e94b8f
+- src-20261014-fb6b7e
 data_quality: Seed card from Harmonic, pulled 2026-10-23. Round size is a Harmonic estimate; customers, pricing and production use unverified. Third co-founder Martin Pecha listed as co-founder until 2026-05.
 updated: '2026-10-23'
 ---

@@ -1,10 +1,10 @@
-# Index stats — AI-native industrial production — 2026-10-23
+# Index stats — AI-native industrial production — 2026-10-24
 
-- sources: 1330  | companies: 134 | people: 16
+- sources: 1385  | companies: 134 | people: 16
 
 ## Sources by type
 - alphasense: 1
-- article: 786
+- article: 841
 - dataset: 6
 - expert-call: 49
 - filing: 324
@@ -16,7 +16,7 @@
 ## Sources by status
 - reviewed: 1
 - summarized: 670
-- unread: 659
+- unread: 714
 
 ## Sources by layer
 - precision-parts: 112
@@ -48,12 +48,12 @@
 - proto-labs: 53
 - saronic: 47
 - re-build-manufacturing: 40
+- figure: 39
+- tar: 36
 - firestorm-labs: 34
 - divergent: 33
-- arda: 32
+- arda: 33
 - vulcan-elements: 31
-- mind-robotics: 30
+- mind-robotics: 31
 - sendcutsend: 30
-- figure: 29
-- tar: 27
-- deterrence: 24
+- deterrence: 28

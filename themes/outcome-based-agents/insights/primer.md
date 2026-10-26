@@ -379,7 +379,7 @@ How the main contracts actually bill:
 - **What it does:** an agent layer on top of the enterprise resource planning (ERP) system that handles supplier communication and purchase orders for manufacturers and distributors [src-20260213-3c647d].
 - **Money:** $30M Series A co-led by Chemistry and Headline, with M12 [src-20260212-5fd1e0].
 - **Buyers:** 30+ customers, unnamed; founded December 2023 [src-20260212-5fd1e0].
-- **Bear:** no named customers, no pricing, no buyer call. Oracle and SAP are embedding agents in ERP [src-20261003-10d57c] [src-20261016-9f1777].
+- **Bear:** no named customers, no pricing, no buyer call. Oracle and SAP are embedding agents in ERP [src-20261003-10d57c] [src-20261021-551046].
 - **What this means:** a good category, thin evidence.
 
 ### 3.5 Magentic (procurement and supply chain; vertical outcome)
@@ -453,3 +453,242 @@ How the main contracts actually bill:
 - **Outsourcers:** Concentrix took a $1.05B impairment [src-20260929-4fcfe9]; TP core services fell 1.0% like for like [src-20260730-4cc420].
 
 **What this means:** incumbents are monetizing agents fast, and outsourcers are already losing ground.
+
+---
+
+## 4. Unit economics
+
+**How the money works, in plain English.** An outcome-priced agent company earns a fee per result. Its costs are:
+1. **Inference:** what it pays the model provider each time the agent thinks. More steps and more checks mean more tokens (units of text the model reads and writes).
+2. **Deployment:** forward-deployed engineers who integrate and tune the agent for each customer.
+3. **Humans in the loop:** staff who handle cases the agent cannot, or check its work.
+
+Gross margin is revenue minus those direct costs, as a share of revenue. Classic seat-based software (SaaS) runs at 80% to 90%. Outsourcers run at 10% to 15% [src-20260203-a5df90].
+
+**Where AI companies sit today.**
+
+| Measure | Value | Source |
+|---|---|---|
+| AI gross margin vs SaaS | 50% to 60% vs 80% to 90% | Bessemer [src-20260210-496d37] |
+| AI product gross margin, trend | 45% (2025), 53% (2026E), 59% (2027E) | ICONIQ [src-20260924-1b6619] |
+| AI product margin | about 50%, 20 to 30 points below SaaS | Growth Unhinged [src-20260513-fb3893] |
+| AI-native at scale | 50% to 70% blended | Forbes [src-20260331-27a872] |
+| Five9 (contact center incumbent) | adjusted gross margin down to 61.4% from 63.0% as AI grew | [src-20260806-833e7b] |
+| Ema | "close to 80%" (CEO claim) | [src-20260930-9ee545] |
+| Pace | target 80% (CEO goal) | [src-20260203-a5df90] |
+
+**Price per unit against the human cost.**
+
+| Work | Agent price | Human cost | Source |
+|---|---|---|---|
+| Support ticket | $0.99 (Fin) | $20 to $30 per resolved ticket | [src-20250821-666ad1] |
+| Claim intake verification | under $2 (Sierra at Safelite) | $7.50 to $9 | [src-20260710-37d40b] |
+| Outsourced FTE (insurance claims) | under $10,000 a year platform cost | above $20,000 Cognizant revenue | [src-20250627-297f7b] |
+| CX resolution (one expert's estimate, low) | about $0.60 AI cost | $6 to $7 blended human | [src-20260708-a5fc76] |
+
+**Levers that raise margin.**
+- **Higher automation.** Intercom's CFO: resolution went from about 25% to close to 70%, and "the more it's resolving, the better for our margin profile", because unresolved conversations burn compute that earns nothing [src-20260522-b1dbe3].
+- **Cheaper models.** Decagon runs about 90% of workloads on fine-tuned open models [src-20261013-d7909a]. LangChain cut median cost per thread by 64% with routing [src-20261022-ae18f2]. But Accenture says routing is "hardly ever" used in practice [src-20261017-72ec30].
+- **Falling deployment effort.** Safelite's first Sierra agent took 6 months; the second took 1 month; setup cost was "at least 35%-40% of your first year spend", declining [src-20260710-37d40b].
+- **Deterministic steps.** UiPath and Pega argue for using AI at design time and cheaper fixed code at run time [src-20260903-1f1484] [src-20260722-796884].
+
+**Levers that cut margin.**
+- **Discounts without automation.** At Crescendo, invoices fell 10% to 40% while costs stayed flat [src-20260724-865e53].
+- **More checks per task.** Decagon says tokens per conversation are rising as it adds quality checks [src-20260731-a07321].
+- **Price compression.** Prices are converging on $0.50 to $2 per resolution in CX (W44, citing [src-20260413-63104e] [src-20260924-93c5ed] [src-20260926-ff7125]). Sierra's CEO expects agents to be compared to other agents, not labor [src-20250514-093b59].
+- **Deferred revenue.** Automation Anywhere's milestone-based outcome deals delay ARR [src-20260702-b5efa8].
+- **FDE as services.** A Workfabric executive calls FDE a "services play but with probably with more expensive engineers" [src-20260710-e2a61b].
+
+**Conflict to note (unit economics).** Pace targets 80% [src-20260203-a5df90] and Ema claims close to 80% [src-20260930-9ee545], while every disclosed industry benchmark sits at 45% to 70% (table above). No pick reports gross margin after inference and deployment.
+
+**Value-share math, worked example (repo numbers, my arithmetic).** Safelite measured a 35% to 40% cost cut and gave Sierra 10% of it [src-20260710-37d40b]. On $10M of handled cost, that is $3.5M to $4M saved and $350K to $400K to the vendor [inference]. Duvo's co-founder uses the same "10%" rule [src-20260701-3b0c17]. Cognizant returns about 50% of savings to the client [src-20250627-297f7b]. The vendor keeps a thin slice of the savings, so volume has to be large [inference].
+
+**What this means:** underwrite these as 50% to 60% gross margin businesses that might reach 70% or more. Ask for margin after inference, FDE hours per customer by cohort, and the automation rate behind every price.
+
+---
+
+## 5. Data loops and moats
+
+**What a data loop is.** Each job the agent does produces a record: what it tried, what failed, what a human corrected. If the company can use those records to make the next job cheaper or more accurate, and competitors cannot get them, it has a data loop. The question is whether this loop is real and whether it belongs to the startup, the customer, the platform or the lab.
+
+**For: evidence that loops exist.**
+- Sierra customers automate 70% to 90% of cases over time [src-20260310-ad2c26]. At Safelite, the second agent took a sixth of the time of the first [src-20260710-37d40b].
+- Crosby tracks lawyer review minutes per task every week as its main company metric [src-20261025-1fbd1c] and runs a reinforcement-learning feedback loop with its lawyers [src-20260331-50e583] (investor blog).
+- Duvo builds a database of automations reused across clients [src-20260609-4b024f] (related-party buyer) and pitches a cross-client memory layer [src-20260416-1a8cca].
+- Pace's customer edits the agents' procedures itself, so operating know-how is captured in the product [src-20261025-c77b6e].
+- Skan claims 25B work signals [src-20260812-4cb1fc]. Context improves accuracy a lot: about 30% to about 90% in one case [src-20261020-7922f1].
+- Levie: the gap between 70% off-the-shelf and 97% accuracy decides whether work can be automated, and climbing that gap is where applied companies sit [src-20260915-68c6ef].
+
+**Against: evidence that loops leak or do not compound.**
+- The labs ship the improvement loop as a product: OpenAI Presence includes simulations, graders and an improvement loop [src-20260722-a3993b].
+- Context drifts: the same analytics agent fell back to 60% in two months [src-20261020-7922f1].
+- The customer owns the data. Rohlik says it could "mine the instructions of the agent" and move, though "It's theory" [src-20260609-4b024f]. A Sierra buyer called the learning loop "a little bit of a black box" with no service-level agreement [src-20260318-033caf].
+- Systems of record hold the data and the API keys [src-20260724-865e53]. Walmart sees outside agents bypassing the support agent through APIs [src-20261006-b21c7a].
+- In legal and healthcare admin, defensibility shifts to proprietary content, payer rules and write-back access, not the agent [src-20260512-5c6e2d] [src-20260111-f1affc].
+- Prompts plus skills plus connectors are now a free file format, so value moves to proprietary data, write access and measured outcomes [src-20260130-79791d].
+
+**Scorecard (my read).**
+
+| Company | Proprietary data from doing the work | Customer can take it away? | Score [inference] |
+|---|---|---|---|
+| Crosby | Lawyer corrections per contract | Hard: the firm is the counterparty | Medium-high |
+| Pace | Carrier procedures and exception handling | Possible: procedures are editable | Medium |
+| Skan AI | Cross-company work patterns | Anonymized, aggregated | Medium |
+| Amperos | Payer behavior on denied claims | Unknown | Medium (untested) |
+| Magentic, Didero | Supplier and price behavior | Unknown | Low-medium |
+| Sierra, Decagon | Conversation outcomes | Labs ship same loop; customer owns transcripts | Low-medium |
+| Kestra, Ema, Sycamore | Workflow definitions | Yes | Low |
+
+**What this means:** the loop is real where the vendor carries liability or sees cross-customer patterns the customer cannot. Ask every company to show accuracy or human minutes per task by quarter.
+
+---
+
+## 6. The bear case in one list (with the bull case at equal weight)
+
+**Bull: why push further** (bull-bear.md).
+1. Outcome pricing is real revenue: Zendesk $200M+ AI ARR [src-20260805-5a9fa7]; Sierra $100M to $150M ARR in a quarter [src-20260309-78d5a1]; Fin past $100M at 99 cents [src-20250821-666ad1].
+2. Adoption is moving: outcome pricing 18% to 23% of vendors in six months [src-20260715-e16b49]; Salesforce added 2,000 production customers in a quarter [src-20260826-580137].
+3. The budget is labor: about $119B of US CX wages [src-20260827-b22de5]; HFS $422B of BPO moving to services-as-software [src-20260831-73c927]; Concentrix impairment and TP's flat core show displacement has started [src-20260929-4fcfe9] [src-20260730-4cc420].
+4. A liquid exit market: Fin about $3.6B [src-20260615-74b583]; Decagon has a banker [src-20261013-6d4b75]; SAP, Workday, NiCE and Genesys are buying [src-20261001-056aad] [src-20261013-7962db] [src-20260805-3deb2c] [src-20260902-b6edda].
+5. Verticals outside CX have named customers: Pace at Palomar [src-20261025-c77b6e]; Crosby at Cursor and Ramp [src-20260331-50e583]; Magentic at Siemens and CCEP [src-20260923-47e348].
+6. Buyers say they like it: "they're cheap because they're outcome-based" (Safelite) [src-20260710-37d40b]; Safelite rates renewal 80% likely [src-20260710-37d40b].
+7. Deployment is the bottleneck, which favors investors with enterprise access [src-20260629-015aae] [src-20260728-aba703].
+
+**Bear: why stop and publish the view.**
+1. Vendors grade their own outcomes. Zendesk uses its own LLM [src-20250806-3921b6]; a Sierra buyer had to reverse-engineer what "resolved" meant [src-20260318-033caf]; vendors quote containment without saying what is excluded from the denominator [src-20260708-a5fc76]. Outcome revenue could be repriced at renewal.
+2. Most "outcome" pricing is per transaction: Bain [src-20260810-21fe8d]; Crescendo per contact [src-20260724-865e53]; Sierra per minute at Innovaccer [src-20260717-eb6872]; Pace by volume [src-20260508-386718].
+3. Outcome pricing slows sales: HubSpot [src-20260812-1b0bca]; buyers prefer transactional pricing [src-20260708-a5fc76] and credits [src-20260827-fb556f].
+4. Margins are worse than software: 50% to 60% vs 80% to 90% [src-20260210-496d37]; Crescendo's margin "did tank heavily" [src-20260724-865e53].
+5. The labs are absorbing the stack: Presence [src-20260722-a3993b]; free harness [src-20260910-014b24]; AWS $1B FDE [src-20260730-e4cc74]; lab marketplaces become the channel [src-20260929-2fdd0f].
+6. CX is commoditizing: Deutsche Telekom will cut to one or two vendors and calls the category "commoditized" [src-20260727-3b21a8]; a buyer saw nothing at Sierra "which others could not replicate" [src-20260708-a5fc76].
+7. Volume may shrink: personal agents could bypass support agents through APIs, meaning "fewer calls" [src-20261006-b21c7a].
+8. Real automation is below headlines: Fin 30% to 40% at Smartly.io [src-20260326-b3dd2d]; Sierra about 60% at a pilot with ROI "a little over 2x", below target [src-20260318-033caf].
+9. Production is thin and fragile: 13% of CIOs see significant value [src-20261019-a120c4]; over 40% of agentic projects expected to be cancelled by 2027 [src-20250625-8a6cff]; 70% to abandon FDE-built systems by 2028 [src-20261012-11ce4a].
+10. Prices are high: Sierra about 75x to 100x ARR, Decagon about 45x, Fin exit about a third of that (comps.md).
+11. Horizontal orchestration lacks proof: no named customers at Sycamore or Workfabric [src-20260330-8d6266] [src-20261023-21a6d6].
+12. Pick evidence is mostly self-reported: funding releases, an investor blog and vendor case studies (section 3).
+
+**Kill criteria (from bull-bear.md).** Stop pushing if any of these hold by the next checkpoint:
+1. No outcome contract renews at the same or a higher unit price with a customer-agreed count.
+2. Two or more F500 buyers or SI leads say a lab platform plus an SI replaced a vertical vendor in a live deal.
+3. Formers report gross margin after inference and FDE below 50% with no falling trend in FDE hours.
+4. Buyers say they take Agentforce, Now Assist or SAP's Joule by default and will not buy point vendors.
+5. No candidate is available below about 30x forward ARR.
+6. A buyer reports clawbacks or disputed counts at scale.
+
+**What this means:** the bull case is about market size and early revenue; the bear case is about who counts the outcome and who keeps the margin. Both are strong. Diligence should target the bear points directly.
+
+---
+
+## 7. Open questions and expert-call targets
+
+### 7.1 The open questions that decide the view
+1. **Does any outcome contract renew at the same or a higher unit price, with a count the customer agrees with?** Safelite expects to renew Sierra, but the term runs to the end of 2028 [src-20260710-37d40b]. No renewal is on record.
+2. **Who audits the count?** No independent auditor exists in public sources (W44). Buyers audit themselves [src-20260318-033caf].
+3. **What is gross margin after inference and deployment at any pick?** None discloses it.
+4. **How many FDE hours per customer, and is that falling?** Safelite's evidence says yes for one vendor [src-20260710-37d40b].
+5. **Do labs plus SIs replace vertical vendors in live deals?** OpenAI trains SIs as FDEs [src-20261017-72ec30], but no call names a displaced vertical vendor.
+6. **Does Pace or Amperos ever price per outcome, or stay on volume?** Both price by volume today [src-20260508-386718] [src-20261025-db0c8b].
+7. **Do personal agents shrink support volume?** Walmart thinks simple calls could bypass the support agent [src-20261006-b21c7a].
+8. **Who owns the context and the improvement loop when a customer leaves?** [src-20260609-4b024f] [src-20260318-033caf].
+
+### 7.2 Expert-call targets (from expert-calls.md)
+
+| Priority | Profile | Named targets | What to close |
+|---|---|---|---|
+| 1 | SI agent practice lead | Deloitte, Accenture, Cognizant, IBM Consulting and DXC agent leads listed in expert-calls.md | Outcome terms in real deals; platform mix; FDE hours (Q2, Q5, Q11) |
+| 2 | Duvo customer (independent) | Morrisons, Notino, Holland & Barrett, Boden, Allegro [src-20261014-fb6b7e] | The outcome test outside a related party (Q15) |
+| 3 | F500 buyer of an outcome-priced CX vendor | Chime (Decagon) [src-20261025-22dc67]; Uber (Sierra) [src-20260504-c9d184] | Renewal and verification (Q2) |
+| 4 | Vertical buyers outside CX | Palomar and Prudential (Pace); Siemens, CCEP (Magentic); Footprint (Didero); Ramp (Actively); Cursor, Clay (Crosby) | Renewal, pricing unit, margin (Q10, Q11) |
+
+AlphaSense calls already found but not yet downloaded include Hitachi on Ema, SOPHiA on Kestra, two Skan AI insiders, Avant on Didero and Magentic, IKEA on Magentic, Justworks on Actively, DOCS Dermatology on Amperos, Discover on Omilia, and a former Palantir FDE on economics (expert-calls.md backlog). Sycamore has no AlphaSense coverage.
+
+**Five questions for every call** (W44):
+1. What share of your agent spend is priced per outcome, and how is the outcome detected and audited?
+2. Who built the harness in production: lab, SI, your team or the system-of-record vendor?
+3. Which budget line paid: IT software, BPO or the business unit?
+4. What blocked the last pilot from production?
+5. If the lab shipped this feature tomorrow, what would you still pay the vendor for?
+
+**What this means:** three calls (an SI lead, an independent Duvo customer, an F500 CX buyer) would test most of the kill criteria before the readout.
+
+---
+
+## Appendix A. Glossary
+
+- **Agent:** AI software that takes actions in other software, not just answers questions.
+- **Agentforce:** Salesforce's agent product line.
+- **AOP (Agentic Operating Procedure):** Pace's term for the written procedure an agent follows.
+- **API (application programming interface):** a way for software to call other software directly.
+- **ARR (annual recurring revenue):** yearly value of subscription or recurring contracts.
+- **BPO (business process outsourcing):** paying an outside firm to run a process, such as a call center or claims processing.
+- **CCaaS (contact center as a service):** cloud call-center software, such as Genesys, NiCE or Five9.
+- **CCEP (Coca-Cola Europacific Partners):** a large bottler named as a Magentic customer.
+- **CIO (chief information officer):** the executive who runs a company's IT.
+- **Containment / resolution rate:** share of conversations an agent finishes without a human. Vendors define it differently.
+- **CSAT (customer satisfaction score):** a survey score of how happy customers are.
+- **CX (customer experience):** customer service and support.
+- **Eval:** an automated test that checks an agent's work.
+- **ERP (enterprise resource planning):** core business software for finance, purchasing and inventory, such as SAP or Oracle.
+- **FDE (forward-deployed engineer):** a vendor engineer who sits with the customer to build and tune the deployment.
+- **FNOL (first notice of loss):** the first report of an insurance claim.
+- **FTE (full-time equivalent):** one full-time worker's worth of labor.
+- **Gross margin:** revenue minus direct costs, as a share of revenue.
+- **Harness:** the code around a model that gives it tools, memory, rules and tests.
+- **Inference:** running a model to produce an answer. It is paid per token.
+- **ITSM (IT service management):** the help desk and ticket systems for IT problems.
+- **LLM (large language model):** the type of AI model behind ChatGPT and Claude.
+- **NDR (net dollar retention):** revenue from last year's customers this year, as a share of last year. Over 100% means they spend more.
+- **NPS (net promoter score):** a survey of how likely customers are to recommend.
+- **Orchestration:** coordinating many agents and people across many systems.
+- **Outcome pricing:** charging per result (a resolved case, a recovered claim) instead of per user.
+- **Output pricing:** charging per unit of work done (a conversation, a run), whether or not it achieved the goal.
+- **POC (proof of concept):** a small test before a real deployment.
+- **RCM (revenue cycle management):** the billing and collections work of healthcare providers.
+- **RPA (robotic process automation):** older rule-based software that clicks through screens, sold by UiPath and others.
+- **SaaS (software as a service):** cloud software usually sold per user.
+- **Seat:** one user license.
+- **Services-as-software:** software that delivers a service outcome that used to be bought from people.
+- **SI (systems integrator):** a consulting firm that installs and connects software, such as Accenture, Deloitte or Cognizant.
+- **SoR (system of record):** the main database for a function, such as Salesforce for customers or Workday for employees.
+- **TAM (total addressable market):** the most that could be spent if every possible buyer bought.
+- **Token:** a small unit of text that a model reads or writes; model use is billed by token.
+- **Work context:** data on how work actually gets done, used to guide agents.
+
+---
+
+## Appendix B. Gaps and next actions
+
+1. No renewal of an outcome contract on record. Next: SI lead and F500 CX buyer calls (section 7).
+2. No gross margin after inference for any pick. Next: ask formers and the Ema, Skan and Kestra calls in the backlog.
+3. No independent customer for Duvo, Sycamore or Workfabric. Next: Morrisons or Notino call.
+4. Pick facts rest on press releases. Next: download the backlog AlphaSense calls on each pick.
+5. Four long podcasts were only keyword-searched (Appendix C). Next: read in full if the readout leans on Ema, Crosby or Pace.
+
+---
+
+## Appendix C. Source coverage (what was and was not read in full)
+
+**Read in full, line by line, with notes in insights/primer-notes/:**
+- All 24 AlphaSense records filed in sources/alphasense/, from src-20250627-297f7b to src-20261017-72ec30 (one note file each).
+- Repo insights: framework.md, evidence-by-question.md (658 lines), weekly/2026-W44.md, bull-bear.md, comps.md, market-sizing.md, startup-landscape.md, labs-vs-startups.md, timeline.md.
+- Company cards for the 10 picks plus sierra, decagon, duvo, sycamore, workfabric, salesforce, servicenow, intercom, zendesk and crescendo.
+- The 17 pick sources: src-20260930-9ee545, src-20260331-83a5c4, src-20260812-4cb1fc, src-20260428-2d177a, src-20261025-5ffac1, src-20260422-d6ae9d, src-20261025-db0c8b, src-20260331-50e583, src-20261025-474366, src-20260212-5fd1e0, src-20260213-3c647d, src-20260917-25441c, src-20260923-47e348, src-20260806-53e2bf, src-20260527-cecfde, src-20261025-58fd6b, src-20261025-c77b6e.
+
+**Keyword-searched only, not read in full:**
+- src-20261025-7ef133 (Ema founder podcast), src-20261025-1fbd1c and src-20260618-7d51b5 (Crosby podcasts), src-20260203-a5df90 (Pace on Sequoia's podcast). Quotes from these were checked in context around each line used.
+- expert-calls.md was read for targets, the question guide and the filed list; signals.md and investor-theses.md were not read.
+
+**Not read in full (cited through the repo's digests):**
+- Most of the roughly 7MB of other source records in sources/. Facts from them are cited as they appear in evidence-by-question.md, W44, bull-bear.md, comps.md and market-sizing.md, which carry source ids. Those facts were checked against the digest text, not reopened in the original source. Treat them as one step removed.
+
+**Weak or biased sources flagged in the text:**
+- src-20260609-4b024f: Rohlik shares a founder with Duvo.
+- src-20260318-033caf: buyer identity is ambiguous (filed as Workfabric, describes healthcare work).
+- src-20260717-eb6872 and src-20260811-852c57: AI-run interviews; market statistics in them are not used.
+- src-20260708-a5fc76: the expert's market statistics are unsourced and not used.
+- src-20260804-3aa89c: a Salesforce partner, so biased toward Agentforce.
+- src-20260507-288237 and src-20261007-fc84b0: marketing interviews. The Gamma source uses "outcome-based agents" as packaging with no outcome price.
+- src-20260331-50e583: written by Crosby's lead investor.
+- src-20261025-474366, src-20261025-c77b6e: vendor case studies.
+- Most pick facts: funding press releases, so company claims.

@@ -33,6 +33,7 @@ sources:
 - src-20260326-b3dd2d
 - src-20260710-37d40b
 - src-20260724-865e53
+- src-20251023-28432e
 data_quality: Incumbent card created 2026-10-23 from earnings and pricing sources; numbers only with source ids.
 updated: '2026-10-23'
 ---
@@ -47,6 +48,7 @@ Customer service platform; Fin AI agent priced per outcome. Fin brand acquired b
 - 2026-09-10 | salesforce, intercom: Fin acquisition closed; 30,000+ customers, 76% average resolution [src-20260910-2cf2eb]
 - 2026-07-24 | Crescendo former director: Intercom strong vs AI-native BPO on integration and data access [src-20260724-865e53]
 - 2026-03-26 | Smartly.io: Fin live since Nov 2025, resolves 30% to 40%, pricing on usage, interaction and resolution [src-20260326-b3dd2d]
+- 2025-10-23 | Zendesk VP: Fin $0.99 per resolution followed Zendesk's $1.50 headline [src-20251023-28432e]
 
 ## Economics (what we know)
 - Unit: outcome, max one per conversation [src-20260924-93c5ed]

@@ -58,6 +58,7 @@ sources:
 - src-20260710-37d40b
 - src-20260724-865e53
 - src-20260727-3b21a8
+- src-20261009-44e09b
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -73,6 +74,7 @@ Benchmark for CX agents in production.
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-13 | decagon: Hired bank to explore sale; early ServiceNow talks (BI 2026-10-13) [src-20261013-6d4b75]
 - 2026-10-13 | decagon: $100M ARR; 90% of workloads on fine-tuned open models [src-20261013-d7909a]
+- 2026-10-09 | Airbnb uses Decagon (about six to nine months) alongside in-house AI [src-20261009-44e09b]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]
 - 2026-07-27 | Deutsche Telekom SVP: 'Decagon is the worse Sierra', strong for simple workflows [src-20260727-3b21a8]

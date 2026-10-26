@@ -108,7 +108,7 @@ Paste as-is. AlphaSense supports Boolean and NEAR/n; Tegus search is simpler, so
 2. One Duvo customer (MacPherson or Notino) on Q15 and the outcome test.
 3. One F500 head of AI with an outcome-priced CX vendor (Chime-style) on renewal and verification.
 
-## AlphaSense transcripts filed (2026-10-25)
+## AlphaSense transcripts filed (2026-10-25, 20 calls)
 Experts are anonymous; role as given by AlphaSense. Date is interview date. Links: https://research.alpha-sense.com/search?sort=RELEVANCE&order=DESC&docid=EC-1000000-<ID>
 
 | Source | Expert role, company | Interview | Docid | Gaps it closes |
@@ -126,11 +126,17 @@ Experts are anonymous; role as given by AlphaSense. Date is interview date. Link
 | src-20260911-0742fb | National Executive Director, KPMG (ServiceNow partner) | 2026-09-11 | 249859 | Now Assist seat contraction and pricing (Q8) |
 | src-20261017-72ec30 | Managing Director and Chief AI Architect, Accenture | 2026-10-17 | 263013 | Who builds the harness in production; model routing (Q5, Q6) |
 | src-20260416-1a8cca | Co-Founder, Duvo | 2026-04-16 | 206485 | Duvo pricing and ACV (Q2, Q15) |
+| src-20251023-28432e | Vice President, Enterprise Data and Analytics, Zendesk | 2025-10-23 | 164829 | Zendesk and Fin per-resolution headline prices (Q2) |
+| src-20260508-386718 | Former Executive Vice President of Operations, RYZE Claim Solutions (Pace customer) | 2026-05-08 | 212668 | Pace pricing (Q2, Q10) |
+| src-20260609-4b024f | Director of Business Process and Excellence, European e-grocery retailer (Duvo customer) | 2026-06-09 | 220590 | First Duvo customer: pricing, spend, FTEs, UiPath displacement (Q15) |
+| src-20260701-3b0c17 | Co-Founder, Duvo AI | 2026-07-01 | 227928 | Duvo per-execution pricing (Q2) |
+| src-20261006-b21c7a | Senior Director, Strategy and Operations, Walmart (Sierra customer) | 2026-10-06 | 258750 | Personal-agent disintermediation risk (Q7) |
+| src-20261009-44e09b | Go-To-Market and Operations, New Verticals, Airbnb (Decagon customer) | 2026-10-09 | 260188 | Build plus buy in CX (Q5) |
 | src-20260811-852c57 | Product Management Leader, UnitedHealth Group (Pace customer) | 2026-08-11 | 240294 | Pace use, spend, pricing, BPO insourcing (Q10) |
 
-Still open after these: no third-party outcome auditor named in any call; no per-resolution price for Decagon; Fin price point not stated by the customer; no Now Assist production share; no Duvo customer call; Sycamore has no AlphaSense coverage.
+Still open after these: no third-party outcome auditor named in any call; no per-resolution price for Decagon; Fin price point not stated by the customer; no Now Assist production share; Sycamore has no AlphaSense coverage.
 
 ### Backlog: AlphaSense IDs not yet downloaded (from the 2026-10-25 search log)
-247531 Ascot MS E7 agents; 223713 Cresta FDE; 235110 Cognizant automation head; 234187 PwC Maisa; 248195 ex-Palantir FDE economics; 240921 ex-Accenture IT services margins; 258221 Atlassian on Salesforce AI; 230791 Northeastern ServiceNow; 257399 Workday partner; 212668 ex-RYZE EVP (Pace); 206963 Accelerant FurtherAI; 260188 Airbnb AI agents; 258750 Walmart customer care; 220590 e-grocery on Duvo; 227928 Duvo cofounder Oct; 164829 Zendesk VP on Fin; 192831 Hitachi on Ema; 172553 SOPHiA on Kestra; 222882 Skan AI director; 218503 Skan AI exec; 223379 Avant on Didero/Magentic; 165187 Novilla on Didero; 189357 IKEA on Magentic; 173450 Justworks on Actively; 163248 DOCS Dermatology on Amperos; 110763 Discover on Omilia; 245344 Crescendo on Zendesk; 244213 Accenture VP on UiPath agentic; 233629 Liberty Mutual legal AI.
+247531 Ascot MS E7 agents; 223713 Cresta FDE; 235110 Cognizant automation head; 234187 PwC Maisa; 248195 ex-Palantir FDE economics; 240921 ex-Accenture IT services margins; 258221 Atlassian on Salesforce AI; 230791 Northeastern ServiceNow; 257399 Workday partner; 206963 Accelerant FurtherAI; 192831 Hitachi on Ema; 172553 SOPHiA on Kestra; 222882 Skan AI director; 218503 Skan AI exec; 223379 Avant on Didero/Magentic; 165187 Novilla on Didero; 189357 IKEA on Magentic; 173450 Justworks on Actively; 163248 DOCS Dermatology on Amperos; 110763 Discover on Omilia; 245344 Crescendo on Zendesk; 244213 Accenture VP on UiPath agentic; 233629 Liberty Mutual legal AI.
 No-docid titles: Former Head of Sales Americas Intercom on outcome pricing (08 Jun 26); Decagon: Former CPO Chime (16 Aug 26), Notion Head of Business Technology (13 Aug 26), Hunter Douglas CX lead, Pocket FM Head of AI.
 Sycamore: no AlphaSense coverage found.

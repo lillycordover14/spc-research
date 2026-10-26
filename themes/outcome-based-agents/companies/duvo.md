@@ -72,6 +72,8 @@ sources:
 - src-20261014-e94b8f
 - src-20261014-fb6b7e
 - src-20260416-1a8cca
+- src-20260609-4b024f
+- src-20260701-3b0c17
 data_quality: Seed card from Harmonic, pulled 2026-10-23. Round size is a Harmonic estimate; customers, pricing and production use unverified. Third co-founder Martin Pecha listed as co-founder until 2026-05.
 updated: '2026-10-23'
 ---
@@ -88,7 +90,9 @@ Candidate tests to verify: in-production (Rohlik as design partner?), measurable
 - 2026-10-14 — $32M Series A led by Balderton Capital [src-20261014-475b47]; $47M raised to date, with Index Ventures, Credo, Northzone [Harmonic]
 - 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-1d5d80]
 - 2026-10-14 | duvo: $32M Series A led by Balderton; total $48M; US expansion [src-20261014-79938e]
+- 2026-07-01 | Co-founder: execution-only pricing, one flat price per execution [src-20260701-3b0c17]
 - 2026-06-11 | duvo: CEO pitches 3-4 week automation of a prospect's messiest process at Shoptalk Europe [src-20260611-8fe850]
+- 2026-06-09 | E-grocer customer: per-run pricing, high six to low seven digits a year, 30 to 40 FTEs saved, UiPath phased out [src-20260609-4b024f]
 - 2026-04-16 | Co-founder: outcome or value-based pricing, ACV over $75,000, customers above $1B revenue, single agent on Anthropic [src-20260416-1a8cca]
 - 2026-04-01 | duvo: CEO details Duvo Clarity process mapping and supplier-call and should-cost agents [src-20260401-e0ba89]
 

@@ -68,6 +68,8 @@ sources:
 - src-20260710-37d40b
 - src-20260717-eb6872
 - src-20260727-3b21a8
+- src-20261006-b21c7a
+- src-20261009-44e09b
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---
@@ -83,7 +85,9 @@ Benchmark for outcome-priced vertical agents in CX.
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-10-20 | sierra: Stripe partnership for in-call payments; Cedar 71.3% payment completion [src-20261020-28bcd0]
 - 2026-10-16 | sierra: Genesys joins Personal Agent Protocol [src-20261016-e06470]
+- 2026-10-09 | Airbnb evaluated Sierra but uses Decagon [src-20261009-44e09b]
 - 2026-10-06 | sierra: Personal Agent Protocol with Meta, Stripe, Walmart (2026-10-06) [src-20261006-7bb9f8]
+- 2026-10-06 | Walmart: Sierra is its customer care AI, about a year [src-20261006-b21c7a]
 - 2026-09-30 | sierra: OpenAI Marketplace launch partner; customers draw down OpenAI commits [src-20260930-9b1413]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]

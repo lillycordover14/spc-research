@@ -1,0 +1,17 @@
+# People whose public output we track. "mentions" = companies they name in podcasts/posts; the agent counts them in insights/signals.md.
+
+tracked:
+  - {name: Zain Asgar, affiliation: Gimlet Labs (Co-founder & CEO; previously co-founder & CEO of Pixie, acquired by New Relic), why: target founder, status: seed}
+  - {name: Neil Movva, affiliation: Sail Research (Co-founder), why: target founder, status: seed}
+  - {name: Yash Patil, affiliation: Applied Compute (Co-founder & CEO; ex-OpenAI), why: target founder, status: seed}
+  - {name: Amritanshu Jain, affiliation: Simplismart (Co-founder & CEO), why: target founder, status: seed}
+  - {name: Drishan Arora, affiliation: Deep Cogito (Co-founder & CEO; ex-Google), why: target founder, status: seed}
+  - {name: Julien Launay, affiliation: Adaptive ML (Co-founder & CEO; now Datadog), why: post-training comp and acquisition rationale, status: seed}
+  - {name: Varun Sivaram, affiliation: Emerald AI, why: flexible load thesis, status: seed}
+  - {name: Dylan Patel, affiliation: SemiAnalysis, why: compute supply, inference economics, data center power, status: seed}
+  - {name: Nathan Lambert, affiliation: Interconnects / Ai2, why: open models and post-training, status: seed}
+  - {name: Shayle Kann, affiliation: Energy Impact Partners / Catalyst, why: AI and grid, status: seed}
+  - {name: Tyler Norris, affiliation: Duke Nicholas Institute, why: flexible load research, status: seed}
+  - {name: Tri Dao, affiliation: Together AI / Princeton, why: inference kernels (also a Sail Research angel per Harmonic), status: seed}
+
+alert_rule: "A company named by 2+ tracked people in 30 days, not yet in companies/, becomes a candidate (companies/_candidates.md) with both source ids."

@@ -8,6 +8,7 @@ Active themes (pass `--theme <short>` or `THEME=<short>` to every script):
 |---|---|---|---|
 | AI-native industrial production | `themes/ai-native-industrial-production` | `anip` | `GROKBOT-PROMPT.md`, `GROKBOT-SOURCING-PROMPT.md` |
 | Outcome-based agents and agentic orchestration | `themes/outcome-based-agents` | `oba` | `GROKBOT-OBA-PROMPT.md` |
+| Power and compute: the AI buildout bottleneck | `themes/ai-power-compute` | `apc` | `GROKBOT-APC-PROMPT.md` |
 
 Every theme has the same layout. Two files make summarizing fast: `index/QUEUE.md` (what to read next) and, where present, `insights/evidence-by-question.md` (one line per claim under the question it answers, so synthesis never needs a re-read). Read `themes/<theme>/taxonomy.yml` first; it is the controlled vocabulary. Plain-English overview: `HOW-IT-WORKS.md`.
 

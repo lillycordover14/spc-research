@@ -1,0 +1,87 @@
+# What we watch for this theme and how often. status: seed (unverified) | active | dropped.
+# The daily sweep reads rss_and_trade_press; everything else is worked by the agent (see GROKBOT-APC-PROMPT.md).
+
+cadence: {daily: [google_news_queries, x_lists, rss], weekly: [podcasts, youtube_channels, transcript_libraries, earnings, harmonic_saved_searches], monthly: [reports, regulatory, conferences]}
+
+rss_and_trade_press:          # daily; keep only items matching sweep_keywords or a tracked company
+  - {name: Utility Dive, url: https://www.utilitydive.com, why: interconnection, large-load tariffs, FERC, status: seed}
+  - {name: Latitude Media, url: https://www.latitudemedia.com, why: AI and energy, flexible load, status: seed}
+  - {name: Data Center Dynamics, url: https://www.datacenterdynamics.com, why: capacity, power deals, neoclouds, status: seed}
+  - {name: Data Center Frontier, url: https://www.datacenterfrontier.com, why: power and site selection, status: seed}
+  - {name: Canary Media, url: https://www.canarymedia.com, why: grid and load growth, status: seed}
+  - {name: SiliconANGLE AI, url: https://siliconangle.com/category/ai/, why: inference platforms, status: seed}
+  - {name: TechCrunch AI, url: https://techcrunch.com/category/artificial-intelligence/, why: raises, status: seed}
+  - {name: The Register, url: https://www.theregister.com, why: inference hardware and software, status: seed}
+
+transcript_libraries:         # consume what already exists first
+  - {name: AlphaSense (incl. Tegus), why: hyperscaler capex, data center power, inference economics expert calls; Lilly exports to inbox/alphasense/, status: seed}
+  - {name: AlphaSights research library, why: expert calls on power, data centers and inference, status: seed}
+  - {name: Company IR earnings transcripts (free), why: NVIDIA, CoreWeave, hyperscalers, GE Vernova, utilities, status: seed}
+  - {name: YouTube auto-captions, why: podcasts and conference talks, status: seed}
+  - {name: Podcast publisher transcripts (Latent Space, Dwarkesh, Odd Lots, Catalyst), why: verbatim without transcribing, status: seed}
+
+newsletters_and_memos:
+  - {name: SemiAnalysis (free posts), why: inference economics, InferenceMAX, data center power, status: seed}
+  - {name: Latent Space, why: inference engineering and open models, status: seed}
+  - {name: Interconnects (Nathan Lambert), why: open models and post-training, status: seed}
+  - {name: Chip Letter / Fabricated Knowledge, why: semis context, status: seed}
+  - {name: Heatmap / Latitude Media newsletters, why: AI power and grid, status: seed}
+  - {name: Tyler Norris / Duke Nicholas Institute, why: flexible load headroom research, status: seed}
+  - {name: vLLM, SGLang, LMSYS and NVIDIA technical blogs, why: disaggregated serving and KV cache, status: seed}
+
+reports_and_surveys:          # monthly; store under sources/market-research
+  - {name: LBNL "Queued Up" interconnection report, why: queue sizes and wait times, status: seed}
+  - {name: LBNL US data center energy use report, why: load growth baseline, status: seed}
+  - {name: Duke Nicholas Institute "Rethinking Load Growth", why: flexible load headroom, status: seed}
+  - {name: EPRI data center reports and DCFlex, why: flexible data center load, status: seed}
+  - {name: IEA Energy and AI, why: global data center power demand, status: seed}
+  - {name: Grid Strategies load growth report, why: utility forecast trends, status: seed}
+  - {name: FERC large-load / co-location proceedings, why: interconnection rules, status: seed}
+  - {name: PJM capacity auction results, ERCOT large load reports, why: market signals, status: seed}
+  - {name: SemiAnalysis InferenceMAX / MLPerf Inference, why: serving benchmarks, status: seed}
+  - {name: Artificial Analysis, why: open vs closed model price and performance, status: seed}
+
+podcasts:
+  - {name: Latent Space, status: seed}
+  - {name: Dwarkesh Podcast, status: seed}
+  - {name: Odd Lots, why: power and grid episodes, status: seed}
+  - {name: Catalyst with Shayle Kann, why: AI and energy, status: seed}
+  - {name: The Energy Gang / Open Circuit, status: seed}
+  - {name: No Priors, status: seed}
+  - {name: Training Data (Sequoia), status: seed}
+  - {name: Gradient Dissent, status: seed}
+  - {name: AI + a16z, status: seed}
+  - {name: BG2 Pod, why: capex and compute economics, status: seed}
+  - {name: Invest Like the Best, status: seed}
+  - {name: The Cognitive Revolution, status: seed}
+
+youtube_channels:
+  - {name: NVIDIA GTC talks, why: Dynamo, disaggregated inference, status: seed}
+  - {name: AI Engineer (World's Fair / Summit), why: inference engineering talks, status: seed}
+  - {name: Ray Summit / PyTorch Conference, why: serving and fine-tuning infrastructure, status: seed}
+  - {name: DCD / Data Center World talks, why: power and interconnection, status: seed}
+
+x_lists:                      # daily; build one X list "APC" (resolve handles, don't guess)
+  founders: [Zain Asgar, Neil Movva, Yash Patil, Amritanshu Jain, Drishan Arora, Varun Sivaram]
+  investors_and_analysts: [Dylan Patel, Nathan Lambert, Shayle Kann, Tyler Norris]
+  operators: [Tri Dao, Lin Qiao, Tuhin Srivastava]
+
+gov_and_structured_data:
+  - {name: FERC eLibrary (large load, co-location dockets), status: seed}
+  - {name: ISO interconnection queue data (PJM, ERCOT, MISO), status: seed}
+  - {name: SEC EDGAR (Form D for tracked startups; 10-K capex disclosures), status: seed}
+
+job_boards:
+  - {name: tracked company careers pages, why: inference and kernel engineering headcount, status: seed}
+
+harmonic_and_crm:
+  - {name: Harmonic saved searches in watchlist/searches.yml harmonic_scout, status: seed}
+  - {name: Affinity list for this theme (create if missing), status: seed}
+
+alphasense: []                # see watchlist/searches.yml
+
+conferences:
+  - {name: NVIDIA GTC, status: seed}
+  - {name: Data Center World / DCD Connect, status: seed}
+  - {name: AI Engineer World's Fair, status: seed}
+  - {name: PyTorch Conference / Ray Summit, status: seed}

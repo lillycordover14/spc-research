@@ -1,0 +1,120 @@
+# Controlled vocabulary for the power and compute theme. Agents MUST use these values in frontmatter.
+# Layers run from electrons to tokens: power in, useful model output out. The question is where a startup can capture value.
+
+layers:
+  power-supply:
+    label: "1. Power generation and supply"
+    what: "New generation and supply for AI load: gas turbines, nuclear and SMRs, PPAs, behind-the-meter and on-site power, storage. Buyer: hyperscalers, data center developers."
+    incumbents: [GE Vernova, Siemens Energy, Constellation, Vistra, NextEra, "utilities"]
+    upstart_angle: "Faster, smaller, on-site power; financing and siting software"
+    seed_companies: [ge-vernova]
+  grid-interconnection:
+    label: "2. Grid interconnection and flexible load"
+    what: "Getting large loads connected faster: data center interconnection, queue and capacity studies, flexible load and demand response, grid-capacity software. Buyer: data center developers, utilities, ISOs."
+    incumbents: ["utilities", "ISOs / RTOs", "grid consultancies", "transformer and switchgear makers"]
+    upstart_angle: "Unlock latent grid capacity by making data center load flexible; turn years of queue into months"
+    seed_companies: [emerald-ai, gridcare]
+  data-centers:
+    label: "3. Data centers and GPU capacity"
+    what: "Physical capacity and GPU clouds: hyperscalers, neoclouds, colocation, developers. Buyer: labs, enterprises."
+    incumbents: [CoreWeave, Microsoft, AWS, Google, Oracle, Crusoe, Nebius, Lambda]
+    upstart_angle: "Benchmark layer; capital-heavy; track capex, pricing per GPU-hour and utilization"
+    seed_companies: [coreweave]
+  chips-systems:
+    label: "4. Chips, memory and networking"
+    what: "Accelerators, HBM and memory, interconnect and networking. Buyer: clouds, labs."
+    incumbents: [NVIDIA, AMD, Broadcom, "custom silicon (TPU, Trainium, MTIA)", SK hynix, Samsung, Micron]
+    upstart_angle: "Benchmark layer for SPC; track what NVIDIA's software stack absorbs"
+    seed_companies: [nvidia]
+  inference-serving:
+    label: "5. Inference serving and efficiency"
+    what: "Software that serves models cheaper and faster: inference serving, disaggregated inference (prefill/decode split), KV cache management and offload, kernels, scheduling across heterogeneous hardware, serverless inference for agents. Buyer: AI-native companies, enterprises, labs."
+    incumbents: ["NVIDIA Dynamo / TensorRT-LLM", "vLLM / SGLang (open source)", "hyperscaler endpoints", Together AI, Fireworks AI, Baseten]
+    upstart_angle: "More tokens per GPU and per megawatt; hardware-agnostic serving; agent-shaped (long-horizon, batch) inference"
+    seed_companies: [gimlet-labs, sail-research, simplismart]
+  post-training-models:
+    label: "6. Fine-tuning, post-training and open models"
+    what: "Custom models on enterprise data: fine-tuning open models, RL and post-training platforms, open-weight model developers. Buyer: enterprises, AI-native companies."
+    incumbents: ["lab fine-tuning APIs", Databricks, "hyperscaler model platforms"]
+    upstart_angle: "Smaller custom models that beat frontier models on a task at a fraction of the inference cost"
+    seed_companies: [applied-compute, adaptive-ml, deep-cogito]
+  adjacent:
+    label: "Adjacent / watch"
+    what: "Cooling, thermal, physical DC construction, crypto-to-AI conversions, edge inference. Track, don't model."
+    seed_companies: []
+
+business_models:
+  usage-priced: "Charges per token, per GPU-hour or per request"
+  capacity-contract: "Reserved capacity or take-or-pay contracts (GPU, power)"
+  software-license: "Software license or platform subscription"
+  services-led: "Forward-deployed engineering or managed service drives revenue"
+  owner-operator: "Owns the physical asset (power, data center, GPUs)"
+  unknown: "Pricing model not yet verified from a source"
+
+source_types:
+  alphasense: "AlphaSense / Tegus / AlphaSights expert-call transcripts, broker research, earnings transcripts"
+  expert-call: "SPC's own expert / customer / founder calls (Granola, AlphaSense-arranged)"
+  market-research: "Reports: LBNL, EPRI, IEA, Grid Strategies, Duke Nicholas Institute, SemiAnalysis (free), bank research"
+  article: "Press, newsletters, blogs, technical posts, press releases"
+  podcast: "Podcast / YouTube / conference-talk transcripts"
+  website: "Snapshot of a company website, docs, pricing page, careers page"
+  filing: "SEC filings, FERC / ISO / PUC filings and orders, interconnection queue data"
+  dataset: "Structured data: queue data, GPU pricing series, benchmarks (InferenceMAX, MLPerf), Harmonic exports"
+  other: "Anything else (decks, internal memos, Slack threads)"
+
+fit_tests:
+  eases-bottleneck: "Directly relieves a power or compute constraint, with a measurable unit (MW, months saved, tokens per dollar, latency)"
+  efficiency-moat: "Cost or speed advantage that compounds (kernels, scheduling, data) rather than a one-time optimization"
+  hardware-agnostic: "Works across NVIDIA, AMD and custom silicon, so it gains as hardware diversifies"
+  owns-scarce-asset: "Holds something scarce: power, interconnection position, capacity, proprietary data"
+  enterprise-customers: "Paying enterprise or AI-native customers in production"
+  lab-resistant: "Hard for NVIDIA, hyperscalers or labs to absorb into their own stack"
+  gross-margin-path: "Credible path to software-like gross margins despite compute pass-through"
+  investable-stage: "Stage and valuation that fit SPC's check size"
+
+tags:  # free-form but prefer these
+  - must-read
+  - interconnection
+  - interconnection-queue
+  - flexible-load
+  - demand-response
+  - behind-the-meter
+  - gas-turbines
+  - nuclear
+  - transmission
+  - transformers
+  - load-growth
+  - ferc
+  - pjm
+  - ercot
+  - capex
+  - gpu-pricing
+  - utilization
+  - inference-serving
+  - disaggregated-inference
+  - kv-cache
+  - kernels
+  - scheduling
+  - serverless
+  - batch-inference
+  - agents-inference
+  - long-context
+  - heterogeneous-hardware
+  - fine-tuning
+  - rl-post-training
+  - open-models
+  - custom-models
+  - distillation
+  - tokens-per-dollar
+  - tokens-per-watt
+  - unit-economics
+  - gross-margin
+  - pricing
+  - m-and-a
+  - competitor
+  - incumbent
+
+company_status: [candidate, tracking, pipeline, in-diligence, passed, portfolio, not-a-fit, incumbent, competitor, acquired]
+source_status: [unread, summarized, reviewed]
+confidence: [high, med, low]
+stages: [pre-seed, seed, series-a, series-b, series-c, series-d, growth, public, private-mature, exited, unknown]

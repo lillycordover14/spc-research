@@ -29,3 +29,4 @@ make sweep ARGS="--dry-run --days 30"  # see what the daily job would file
 ## Themes
 - **AI-native industrial production** (`anip`): [best-of](themes/ai-native-industrial-production/insights/best-of.md), prompts `GROKBOT-PROMPT.md` and `GROKBOT-SOURCING-PROMPT.md`.
 - **Outcome-based agents and agentic orchestration** (`oba`, started 2026-10-23, readout 2026-10-28/29): [questions](themes/outcome-based-agents/insights/questions.md), [framework](themes/outcome-based-agents/insights/framework.md), prompt `GROKBOT-OBA-PROMPT.md`.
+- **Power and compute: the AI buildout bottleneck** (`apc`, started 2026-10-26): [questions](themes/ai-power-compute/insights/questions.md), [framework](themes/ai-power-compute/insights/framework.md), prompt `GROKBOT-APC-PROMPT.md`. Targets: Gimlet Labs, Sail Research, Applied Compute, Simplismart, Deep Cogito; Adaptive ML (acquired by Datadog) as a comp.

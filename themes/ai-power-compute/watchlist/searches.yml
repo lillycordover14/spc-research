@@ -1,0 +1,116 @@
+# Saved queries. Agent runs these and files hits via scripts/add_source.py. Keep queries specific.
+# Quote any list item that starts with a double quote and continues after it (YAML rule), e.g. - '"Gimlet Labs" OR kforge'
+
+core_keywords:   # Lilly's list: run every lane with these plus each target's name
+  - data center interconnection
+  - flexible load
+  - inference serving
+  - disaggregated inference
+  - KV cache
+  - fine-tuning open models
+
+target_names: [Gimlet Labs, Sail Research, Applied Compute, Simplismart, Adaptive ML, Deep Cogito, Emerald AI, GridCARE]
+
+alphasense:   # AlphaSense (incl. Tegus) and AlphaSights libraries: expert calls, broker research, earnings transcripts
+  company_names:
+    - '"Gimlet Labs" OR kforge'
+    - '"Sail Research"'
+    - '"Applied Compute"'
+    - '"Simplismart"'
+    - '"Adaptive ML" OR ("Datadog" AND "Adaptive")'
+    - '"Deep Cogito" OR "Cogito v2"'
+    - '"Emerald AI" OR "GridCARE"'
+    - '"Together AI" OR "Fireworks AI" OR "Baseten"'
+    - '"NVIDIA Dynamo" OR "TensorRT-LLM"'
+  themes:
+    - '"data center interconnection" OR "large load interconnection"'
+    - '"flexible load" AND ("data center" OR curtailment)'
+    - '"interconnection queue" AND (PJM OR ERCOT OR "data center")'
+    - '"behind-the-meter" AND "data center"'
+    - '"inference serving" OR "inference cost" OR "cost per token"'
+    - '"disaggregated inference" OR "prefill" AND "decode"'
+    - '"KV cache" AND (offload OR inference)'
+    - '"fine-tuning" AND "open models" AND enterprise'
+    - '"reinforcement learning" AND "custom models" AND enterprise'
+    - '"GPU utilization" AND inference'
+  earnings_calls_to_pull_quarterly: [NVIDIA, AMD, Broadcom, CoreWeave, Nebius, Oracle, Microsoft, Alphabet, Amazon, Meta, Vertiv, GE Vernova, Constellation, Vistra, Dominion, AEP, Datadog, Snowflake, Databricks (private, use press)]
+  expert_call_targets:
+    - heads of energy / site development at hyperscalers, neoclouds and data center developers
+    - utility and ISO interconnection leads (PJM, ERCOT, Dominion, AEP, Georgia Power)
+    - enterprise ML infrastructure leads serving open models in production
+    - former NVIDIA inference software (Dynamo, TensorRT-LLM) engineers and PMs
+    - customers and former employees of Gimlet Labs, Sail Research, Applied Compute, Simplismart, Deep Cogito
+    - former Adaptive ML staff and Datadog AI leads (acquisition rationale)
+
+podcast_keyword_searches:   # YouTube, Apple, Spotify, Listen Notes, podscripts; keep episodes with numbers or named customers
+  - data center interconnection
+  - flexible load data centers
+  - AI power demand grid
+  - inference serving
+  - disaggregated inference
+  - KV cache
+  - fine-tuning open models
+  - reinforcement learning enterprise custom models
+  - cost per token inference
+
+podcast_company_searches:   # founder / CEO appearances; search "<name> podcast" and "<name> interview"
+  - Zain Asgar (Gimlet Labs)
+  - Neil Movva (Sail Research)
+  - Yash Patil OR Rhythm Garg OR Linden Li (Applied Compute)
+  - Amritanshu Jain (Simplismart)
+  - Julien Launay (Adaptive ML)
+  - Drishan Arora (Deep Cogito)
+  - Varun Sivaram (Emerald AI)
+  - GridCARE founders
+  - Tri Dao OR Vipul Ved Prakash (Together AI)
+  - Lin Qiao (Fireworks AI)
+  - Tuhin Srivastava (Baseten)
+  - Dylan Patel (SemiAnalysis)
+
+google_news:   # daily via scripts/sweep.py
+  - '"data center interconnection"'
+  - '"flexible load" data center'
+  - '"interconnection queue" data center'
+  - '"inference serving" OR "inference platform" startup'
+  - '"disaggregated inference"'
+  - '"KV cache"'
+  - '"fine-tuning" "open models" enterprise'
+  - '"Gimlet Labs" OR "Sail Research" OR "Applied Compute" OR "Simplismart" OR "Deep Cogito"'
+  - '"Adaptive ML" Datadog'
+  - '"Emerald AI" OR "GridCARE" data center'
+
+harmonic_scout:   # weekly; add hits to companies/_candidates.md with evidence
+  - "AI inference serving and optimization software startups, seed to series B, with enterprise customers"
+  - "startups making data center power flexible or accelerating grid interconnection for AI load"
+  - "post-training, RL and fine-tuning platforms for enterprise custom models, seed to series B"
+  - "KV cache, memory tiering and disaggregated inference infrastructure startups"
+  - "behind-the-meter power and on-site generation developers for AI data centers, early stage"
+
+x_search:   # daily; log only posts with a new fact
+  - from:list APC (inference OR "KV cache" OR disaggregated OR interconnection OR "flexible load" OR fine-tuning)
+
+job_titles_to_flag:
+  - inference engineer
+  - kernel engineer / CUDA engineer
+  - GPU performance engineer
+  - forward deployed ML engineer
+  - RL research engineer
+  - interconnection manager / energy procurement
+
+sweep_keywords:   # trade-press RSS items are kept only if they mention a tracked company OR one of these (lowercase substring match)
+  - data center interconnection
+  - interconnection queue
+  - large load
+  - flexible load
+  - demand response
+  - behind-the-meter
+  - inference serving
+  - disaggregated inference
+  - kv cache
+  - prefill
+  - fine-tuning
+  - open-weight
+  - open models
+  - cost per token
+  - gpu utilization
+  - inference cost

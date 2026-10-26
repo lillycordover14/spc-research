@@ -1,0 +1,13 @@
+slug: ai-power-compute
+short: apc
+name: "Power and compute: the AI buildout bottleneck"
+owner: Lilly Cordover
+status: active                 # active | paused | archived
+started: 2026-10-26
+description: >
+  Starting question: what are the main bottlenecks to enterprise AI at scale? The answer is power and compute, so the
+  work is finding which investable opportunities and companies fit. Two halves: (1) getting power to AI load faster
+  (data center interconnection, flexible load, grid capacity) and (2) getting more useful work out of each GPU and
+  megawatt (inference serving, disaggregated inference, KV cache, fine-tuning open models). Named targets: Gimlet Labs,
+  Sail Research, Applied Compute, Simplismart, Adaptive ML (acquired by Datadog, now a comp), Deep Cogito.
+deck_source:

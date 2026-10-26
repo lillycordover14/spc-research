@@ -27,6 +27,7 @@ For every source and call, note which world the evidence points to. The readout 
 
 ### World tally
 <!-- one line per source or call, newest first: `<date> <source> -> world N because ... [src-id]` -->
+- undated Ema on PMF Show -> world 4 because Ema reaches enterprises through SI partners PwC and KPMG [src-20261025-7ef133]
 - 2026-10-23  -> world 1 because Google deploys agents in public sector via its own RISE prototypers and FDEs [src-20261023-5b3495]
 - 2026-10-22  -> world 3 because Ramp builds its own agent harness (Laminar) instead of buying [src-20261022-ae18f2]
 - 2026-10-22  -> world 4 because Cognizant builds an 18,000-engineer Gemini agent deployment group [src-20261022-d5ad54]
@@ -40,12 +41,14 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-10-19 AI Engineer Katz -> world 1 because A lab-owned coding agent team says models absorb harness intelligence and the lab-side harness opens the next task frontier [src-20261019-54d838]
 - 2026-10-16  -> world 2 because SAP signals outcome-based reset pricing [src-20261016-9f1777]
 - 2026-10-13  -> world 4 because DXC runs its own LangChain-based harness (OASIS) for customers' IT operations [src-20261013-1dcd15]
+- 2026-10-13 Workday C1.ai -> world 2 because Workday absorbs agent identity and access into its platform [src-20261013-7962db]
 - 2026-10-09  -> world 4 because Deloitte builds open-model harness practice with FDEs [src-20261009-4138dc]
 - 2026-10-08 a16z Show Matt Garman -> world 3 because AWS FDEs aim to hand evals and agents to customer teams within 45 days [src-20261008-3ac60a]
 - 2026-10-08 TCS -> world 4 because TCS takes over a client GCC to run it as an AI Capability Center [src-20261008-ae3125]
 - 2026-10-05  -> world 3 because 67% of enterprises expect a hybrid, external or in-house agent control plane (VB Pulse) [src-20261005-66e092]
 - 2026-10-05  -> world 4 because Mastek sells AI-built replacements for SaaS as services-as-software [src-20261005-ed6751]
 - 2026-10-03  -> world 2 because Oracle embeds native agent orchestration (Fusion Claw) in ERP [src-20261003-10d57c]
+- 2026-10-01 SAP TechWolf -> world 2 because SAP buys a work-context layer to own context for agents inside its suite [src-20261001-056aad]
 - 2026-09-29 OpenAI DevDay 2026 -> world 1 because OpenAI offers always-on agents plus specialist role agents with identity, positioning itself as the enterprise agent provider, while delegating governance to Microsoft [src-20260929-2fdd0f]
 - 2026-09-29  -> world 1 because OpenAI seeds an open-source agent control plane (OpenClaw Enterprise) [src-20260929-247cd8]
 - 2026-09-24 Intercom -> world 5 because Intercom sells Fin as an outcome-priced CX agent across helpdesks [src-20260924-93c5ed]
@@ -55,6 +58,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-09-15 Sequoia Levie -> world 5 because Levie argues vertical applied players win async background agent work that horizontal products cannot render well [src-20260915-68c6ef]
 - 2026-09-10 Oracle Q1 FY27 call -> world 2 because Oracle sells agents native to Fusion and argues suites beat one-off agents [src-20260910-fa41de]
 - 2026-09-10 OpenAI Agents API -> world 1 because OpenAI gives away its production harness to developers, making the harness a lab feature [src-20260910-014b24]
+- 2026-09-10 Salesforce completes Fin -> world 2 because the leading per-resolution CX agent was absorbed by the largest system of record [src-20260910-2cf2eb]
 - 2026-09-09 Salesforce GS Communacopia (AlphaSense) -> world 2 because Salesforce runs agents on its own CRM data and Slack context, partnering with Anthropic for models and orchestrating Fin and Piper [src-20260909-c1900d]
 - 2026-09-08 Six Five Benioff -> world 1 because Salesforce concedes the front end to lab surfaces like Claude Cowork and positions itself as headless data and workflow underneath [src-20260908-2d6352]
 - 2026-09-03 StockAnalysis -> world 2 because UiPath sells Maestro orchestration with FDEs on its own platform [src-20260903-1f1484]
@@ -108,6 +112,7 @@ For every source and call, note which world the evidence points to. The readout 
 - 2026-02-24  -> world 1 because Anthropic ships function plugins for enterprise agents [src-20260224-7eb23d]
 - 2026-02-23 OpenAI Frontier Alliances -> world 4 because OpenAI relies on McKinsey, BCG, Accenture and Capgemini to assemble Frontier deployments per client, with the lab owning the platform (worlds 1 and 4 combined) [src-20260223-9272a6]
 - 2026-02-05 OpenAI Frontier launch -> world 1 because OpenAI positions Frontier as the one platform that runs and governs every agent, including third-party ones [src-20260205-ea19f4]
+- 2026-02-03 Pace on Training Data -> world 5 because Pace sells a complete insurance-ops agent with its own harness, replacing BPO [src-20260203-a5df90]
 - 2026-01-23 Battery Ventures -> world 2 because orchestration moves into the model and product layer; durable winners look like SaaS [src-20260123-b88941]
 - 2026-01-14 Pigment Traynor -> world 5 because Fin sells outcomes on top of rival systems of record (Zendesk, Service Cloud) [src-20260114-5bb0dc]
 - 2026-01-01 AI People -> world 3 because 45 orchestration frameworks plus MCP gateways sold to builders, mostly Seed/A [src-20260101-798b0b]

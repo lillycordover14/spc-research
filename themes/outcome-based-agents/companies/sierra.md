@@ -59,6 +59,7 @@ sources:
 - src-20260728-aba703
 - src-20260226-87dd95
 - src-20260902-b6edda
+- src-20261025-4f5b05
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---

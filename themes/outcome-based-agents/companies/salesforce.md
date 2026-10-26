@@ -61,6 +61,7 @@ sources:
 - src-20260915-68c6ef
 - src-20260826-0b53e8
 - src-20260826-580137
+- src-20260910-2cf2eb
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -74,6 +75,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-10 | salesforce, intercom: Fin acquisition closed; 30,000+ customers, 76% average resolution [src-20260910-2cf2eb]
 - 2026-08-26 | salesforce: Q2 FY27: Agentforce ARR $1.5B+ (+240%, now incl. Slackbot and Headless 360); Agentforce plus Data 360 ARR ~$3.9B; 3.2B AWUs in quarter [src-20260826-0b53e8]
 - 2026-08-26 | salesforce: 2,000 paying customers added into production (+70% QoQ); 50% of bookings are Flex Credit refills; $40M customer offered outcome deal or ILA; Claudeforce with Anthropic [src-20260826-580137]
 - 2026-09-26 | salesforce: Agentforce Help Agent $2 per resolution pricing [src-20260926-ff7125]

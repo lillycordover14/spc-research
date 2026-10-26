@@ -5,6 +5,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 Questions are defined in `questions.md`.
 
 ## Q1. Production, not pilots
+- undated | Stanford AI Index 2026 (McKinsey State of AI 2025 data): scaled agent use single digits in nearly all functions; tech sector scaled agents 24% SWE, 22% IT, 21% service ops; 88% use AI in at least one function [src-20261025-aa9ffc]
 - 2026-10-21 | Metrigy via Constellation: 66-68% of organizations still run non-cloud or hybrid legacy contact centers [src-20261021-e45563]
 - 2026-10-20 | Modern Data Survey: 23.5% run agents in production in data workflows, 33.8% piloting [src-20261020-76881e]
 - 2026-10-19 | Gartner (n=2,002 CIOs, May-Jul 2026): only 13% report significant value from AI; ~1 in 5 use cases succeed; 51% expect higher TCO [src-20261019-a120c4]
@@ -65,6 +66,7 @@ Questions are defined in `questions.md`.
 - 2024-12-18 | Dines: RPA is under 10 to 20% penetrated; wide agentic deployment will take 5 to 10 years with current LLMs [src-20241218-3282c7]
 
 ## Q2. Outcome pricing, real or rhetoric
+- undated | Crosby CEO: "We lost a lot of money on it until we were able to get the pricing right" [src-20261025-1fbd1c]
 - 2026-10-23 | Prosper AI pricing: hybrid: part resolution-based, part per-minute [src-20261023-cc2e6e]
 - 2026-10-22 | Agent payments via x402 and wallets suggests hyperscalers expect agents to transact per task, an enabling rail for per-outcome or per-task pricing [src-20261022-a0f852]
 - 2026-10-21 | Oracle AI Agent Studio for Industry Applications meters agents in AI-unit consumption, not outcomes [src-20261021-a5c3e0]
@@ -113,6 +115,7 @@ Questions are defined in `questions.md`.
 - 2026-07-15 | ICONIQ: Population: ~300 AI-product software execs, Q2 2026; 23% of vendors use outcome pricing, up 5 points in six months [src-20260715-e16b49]
 - 2026-07-02 | Automation Anywhere: An RPA incumbent now signs outcome deals where revenue is recognized on deployment milestones, shifting delivery risk to the vendor [src-20260702-b5efa8]
 - 2026-06-23 | Tsuga pricing: usage (per GB) [src-20260623-e97988]
+- 2026-06-18 | Crosby CEO: "we don't have billable hours"; profits reinvested into R&D to lift margin; personas about 80% automated [src-20260618-7d51b5]
 - 2026-06-16 | Microsoft layered consumption pricing (credits metered on model use, tool calls and runtime) on top of a seat, a hybrid that shows the shift from seats toward usage-based agent labor but not to per-outcome pricing [src-20260616-28211f]
 - 2026-06-15 | Genesys: Genesys prices AI by session or minute via tokens, not per resolution, in contrast to Zendesk, Intercom and HubSpot [src-20260615-e5b5a7]
 - 2026-06-11 | Duvo CEO: ROI on headcount savings is 'a false pretense' in thin-margin retail [src-20260611-8fe850]
@@ -201,6 +204,7 @@ Questions are defined in `questions.md`.
 - 2025-02-25 | Decagon CEO (Accel, 2025-02-25): customers fear a black box and require tooling to audit, QA and change agent logic [src-20250225-e9f1be]
 
 ## Q4. Whose budget
+- undated | Tremendous replaced its BPO with Decagon plus an internal team: about 90% deflection, CSAT 92% vs 86% for the BPO [src-20261025-f824ac]
 - 2026-10-23 | Infosys via PR Newswire: Indian SIs now report AI revenue at about 10% of total (Infosys 10.5%, TCS 10%+) while total growth stays low single digit [src-20261023-db47fe]
 - 2026-10-22 | Letting Managed Agents and the full agent toolkit draw down Google Cloud commitments removes the procurement friction that favored hyperscaler-native harnesses, extending the lab's harness into cloud budgets [src-20261022-d0a3a2]
 - 2026-10-21 | Budget for these agents likely comes from existing managed-services and BPO contracts rather than new IT software lines [src-20261021-776c89]
@@ -244,6 +248,7 @@ Questions are defined in `questions.md`.
 - 2025-01-12 | 11x prices digital workers at 20-35% of a human FTE (Growth Unhinged) [src-20250112-39b9ba]
 
 ## Q5. Who builds the harness
+- undated | Ema founder: sells via PwC and KPMG for reach and runs air-gapped in customer private cloud; seven-figure F500 deals [src-20261025-7ef133]
 - 2026-10-23 | Google Public Sector RISE (Constellation, 2026-10-23): 2-person prototype teams hand off to on-site FDEs for last-mile deployment [src-20261023-5b3495]
 - 2026-10-22 | The lab harness now ships inside a rival hyperscaler, so independent agent-runtime startups compete with a lab runtime that is available on every major cloud marketplace [src-20261022-d0a3a2]
 - 2026-10-22 | Harness is model-agnostic (Bedrock, OpenAI, Gemini, LiteLLM), so AWS competes with the model labs' own managed harnesses on neutrality, making the harness a contested layer between labs and clouds rather than a startup-owned one [src-20261022-a0f852]
@@ -291,6 +296,7 @@ Questions are defined in `questions.md`.
 - 2026-02-24 | Department templates for HR, sales (Apollo, Clay, Outreach connectors) and legal (Harvey, LegalZoom, Docusign) mean the lab plus SaaS vendors' own plugins are building the departmental harness, leaving room mainly for vendors who own the data or the outcome [src-20260224-a28ce9]
 - 2026-02-23 | OpenAI Frontier Alliances (BCG, McKinsey, Accenture, Capgemini) pair certified SI practice groups with OpenAI FDEs, so the large-enterprise harness is lab platform plus SI delivery [src-20260223-9272a6]
 - 2026-02-05 | OpenAI pitches Frontier as the harness for agents built in-house, by OpenAI or by other vendors, i.e. the lab as the single enterprise harness [src-20260205-ea19f4]
+- 2026-02-03 | Pace: onsite forward-deployed engineers drove 100% pilot conversion (episode notes) [src-20260203-a5df90]
 - 2026-01-30 | Because plugins are portable files the enterprise owns, Anthropic is making the customer (or its SI) the author of the harness configuration, with the lab owning the runtime [src-20260130-79791d]
 - 2026-01-21 | Deloitte: 85% expect to customize agents rather than use off the shelf [src-20260121-231aaa]
 - 2026-01-11 | The lab ships a 'sample' prior auth skill and relies on Accenture, Deloitte, KPMG and PwC for deployment, so the production harness for regulated payer and provider workflows is still being built by SIs and vertical apps on top of the lab primitives [src-20260111-f1affc]
@@ -310,6 +316,7 @@ Questions are defined in `questions.md`.
 - 2026-10-19 | Nvidia Nemotron 3.5 Super VL (2026-10-19): open 120B agent model; users include EY, Ramp, Salesforce [src-20261019-9d6d06]
 - 2026-10-19 | Katz (Oct 2026): studies (UC Berkeley, Apple and EPFL) find harness choice does not significantly change coding eval scores; models absorb harness skills via usage data flowing to labs [src-20261019-54d838]
 - 2026-10-14 | By emitting standard OTel traces, the lab commoditizes trace capture, leaving LLM observability startups (Langfuse, Braintrust, Arize, LangSmith) to compete on analysis and evals rather than instrumentation [src-20261014-2e6208]
+- 2026-10-13 | Workday is acquiring C1.ai for agent and human identity; cites 95% of large US companies running agents (vendor research) vs 21% with mature governance (Deloitte) [src-20261013-7962db]
 - 2026-10-08 | A first-party AI SDR agent and a service agent inside Dynamics and Teams hit AI SDR/outbound startups and CX support agent startups (Sierra, Decagon tier) within Microsoft accounts [src-20261008-5bb82b]
 - 2026-10-08 | A single objective-driven universal agent with Financial Services and Legal specializations competes with both horizontal work-agent startups and vertical finance and legal agent apps [src-20261008-d5cbe2]
 - 2026-10-05 | VB Pulse: OpenAI Agents SDK used by 45% (69% primary); Anthropic Claude Platform 27% but primary for only 38% of its users [src-20261005-66e092]
@@ -361,6 +368,7 @@ Questions are defined in `questions.md`.
 - 2026-10-14 | The lab chose to partner with, not replace, observability vendors, suggesting cross-model observability and evaluation remains a defensible neutral layer [src-20261014-2e6208]
 - 2026-10-13 | Camunda (2026-10-13): $1M+ ARR customer ARR +87%, count +67%; regulated industries lead [src-20261013-eebc5e]
 - 2026-10-05 | VB Pulse (Aug 2026, n=166 self-selected, 100+ employee orgs): only 2% chose an agent platform for the model; 67% expect control plane at least partly outside provider-managed services [src-20261005-66e092]
+- 2026-10-01 | SAP is acquiring TechWolf's context graph for work to make it a core of SuccessFactors (close Q4 2026, terms undisclosed) [src-20261001-056aad]
 - 2026-09-29 | Sycamore CEO (theCUBE, 2026-09-29): F100/F500 CIOs lack a way to 'finish the last mile'; alternatives are reskilling, consultants or SaaS that does not fit [src-20260929-334bba]
 - 2026-09-24 | TechTarget (2026-09-24): Opus 5.5 and GPT-6 Sol/Luna push enterprises to multi-model routing; orchestration and evals become architecture [src-20260924-2caa15]
 - 2026-09-15 | Levie (Sep 2026): bank loan docs at 70% off-the-shelf accuracy vs 97% decides automatability; hill-climbing that gap is where applied companies sit; would not bet on 1 or 2 labs taking 95% of value [src-20260915-68c6ef]
@@ -385,6 +393,7 @@ Questions are defined in `questions.md`.
 - 2026-04-01 | Duvo (Omni Talk, 2026-04-01): Duvo Clarity voice agents map hundreds of people's processes in under a week, replacing consultant process mapping [src-20260401-e0ba89]
 - 2026-03-30 | Sycamore CEO (Lightspeed, 2026-03-30): targets the $400-500B SaaS market and the trillion-dollar consulting and SI market; SaaS plus consultants who 'shoehorn' and leave is broken [src-20260330-2b99a8]
 - 2026-03-12 | Boutique agent-deployment services startups now compete with lab-funded global SIs carrying lab certifications [src-20260312-73c25c]
+- 2026-03-03 | Celonis claims $10B+ customer value and pitches process intelligence plus MCP and an Orchestration Engine as the context layer for agents; no ARR disclosed [src-20260303-4bfebc]
 - 2026-02-24 | The finance data incumbents (FactSet, S&P, LSEG, MSCI) are distributing through Claude as connectors, so the work-context moat sits with licensed data owners rather than with agent wrappers [src-20260224-11d529]
 - 2026-02-05 | Frontier claims the enterprise semantic layer ('how information flows, where decisions happen'), the same work-context asset Workfabric and Celonis sell [src-20260205-ea19f4]
 - 2026-01-30 | Value for startups moves to proprietary data, system-of-record write access and measured outcomes, since prompts plus skills plus connectors is now a free file format [src-20260130-79791d]
@@ -415,6 +424,7 @@ Questions are defined in `questions.md`.
 - 2026-09-16 | Gartner: Gartner says buyers default to incumbent embedded agents, a headwind for horizontal startups [src-20260916-b894eb]
 - 2026-09-15 | Levie (Sep 2026): uses Salesforce an order of magnitude more by querying it via MCP from Claude or ChatGPT [src-20260915-68c6ef]
 - 2026-09-10 | Oracle CEO: AI is an accelerator, not a replacement, for packaged applications; Johnson Controls, Saudi National Bank, GuideWell, PETRONAS added agentic apps [src-20260910-fa41de]
+- 2026-09-10 | Salesforce closed Fin on 2026-09-10: 30,000+ customers, 76% average resolution, own CX model suite [src-20260910-2cf2eb]
 - 2026-09-09 | Salesforce rejects the headless-CRM bear case: CRM metadata encodes company knowledge; work shifting to Slack and Claude still increases CRM work volume [src-20260909-c1900d]
 - 2026-09-08 | Benioff: Salesforce's own support agent has resolved 5 million customer service issues on help.salesforce.com; moat framed as trapped data, governance and sharing models [src-20260908-2d6352]
 - 2026-08-26 | The Motley Fool: Claudeforce puts a lab model inside the system of record as a co-sold product, a labs-plus-SoR alliance rather than displacement [src-20260826-580137]
@@ -488,6 +498,7 @@ Questions are defined in `questions.md`.
 - 2026-09-17 | Magentic (procurement (manufacturing)): $18M Series A, total $23.5M; investors Felicis (lead), Sequoia, Westly Group; customers unnamed manufacturer running 1M+ POs a year [src-20260917-25441c]
 - 2026-09-15 | Levie (Sep 2026): background async agents favor vertical players that understand workflows; bets 90% of enterprise tokens in 5 years will not be user-initiated [src-20260915-68c6ef]
 - 2026-09-02 | Genesys: Genesys partners with Sierra rather than competing head-on, an incumbent-startup coexistence pattern in CX [src-20260902-b6edda]
+- 2026-08-27 | BLS: 2,666,000 US customer service reps in 2025, median $44,770; jobs x median implies about $119B wages a year (derived, excludes benefits and offshore); projected -5% by 2035 [src-20260827-b22de5]
 - 2026-08-06 | Omilia (CX (voice)): $67M Series B; investors Expedition Growth Capital (lead); customers Capital One, Discover, RBC, DWP, PSEG [src-20260806-53e2bf]
 - 2026-07-28 | Procode (healthcare RCM (surgical billing)): $10M Series A, total $14M; investors Health Velocity Capital (lead); customers 350+ plastic surgery and dermatology providers (via Auctus Group) [src-20260728-5c2f73]
 - 2026-07-22 | Candid Health (healthcare RCM): $120M Series D; investors Sixth Street Growth (lead), Oak HC/FT; customers unnamed large provider organizations [src-20260722-e6a1e0]
@@ -521,6 +532,10 @@ Questions are defined in `questions.md`.
 - 2023-12-07 | Greylock: "expected headcount and seat reductions will drive the need for novel usage-based or outcome-based pricing models" [src-20231207-3fbd49]
 
 ## Q11. Unit economics
+- undated | Sierra at Casper: 74% resolution at peak, 50%+ overall, with two Casper staff reviewing conversations daily; no cost per resolution disclosed [src-20261025-4f5b05]
+- undated | Pace at Palomar: COO says 90%+ of service cases resolved without a human; hundreds a day across voice and email [src-20261025-c77b6e]
+- undated | Decagon at Chime: 70%+ chat and about 70% voice resolution, 1M+ calls a month, support costs down 60% (vendor-reported, no price per resolution) [src-20261025-22dc67]
+- undated | Crosby at Clay: ~1,000 legal requests, <2hr median turnaround; at Gumloop 12 hours vs six weeks from traditional firms [src-20261025-474366]
 - 2026-10-22 | LangChain harness-level routing cut median LLM cost per thread $2.61 to $0.94 (-64%) over 973 threads, no significant quality loss [src-20261022-ae18f2]
 - 2026-10-22 | FDE job postings >7,300 in 9 months of 2026 vs <200 in 2023 (Lightcast); Gartner warns of rebranded consulting at FDE premiums [src-20261022-d5ad54]
 - 2026-10-21 | StockAnalysis: Model switching on price per use case is an inference-cost lever inside an incumbent [src-20261021-551046]
@@ -537,6 +552,7 @@ Questions are defined in `questions.md`.
 - 2026-09-03 | StockAnalysis: UiPath sells cost avoidance from not calling an LLM, a direct inference-cost argument against pure agent stacks [src-20260903-1f1484]
 - 2026-08-26 | Off-peak deferred execution at up to half the inference cost lowers COGS for async back-office agents, improving gross margins for outcome-priced vertical players [src-20260826-c6c4b5]
 - 2026-08-06 | Five9: Gross margin fell 160 bps as AI grew, consistent with AI mix diluting margin [src-20260806-833e7b]
+- 2026-08-06 | Appian Q2 2026: gross profit $144.7M on $203.3M revenue, about 71% (derived), flat YoY; cloud subs +23%, net ARR expansion 115%, still seat/app licensed [src-20260806-664646]
 - 2026-08-05 | StockAnalysis: Legal incumbent monetizes agents as a premium tier, not per outcome, and says uplift covers inference cost [src-20260805-8c48ed]
 - 2026-08-05 | StockAnalysis: Own model (Thomson) to cut inference cost is a vertical-incumbent lever [src-20260805-8c48ed]
 - 2026-07-31 | Decagon (a16z, 2026-07-31): 90% of workflow on fine-tuned open-source models; tokens per conversation rising as it adds quality checks [src-20260731-a07321]
@@ -556,6 +572,7 @@ Questions are defined in `questions.md`.
 - 2026-03-20 | Theory Ventures (Tomasz Tunguz blog): "we are seeing agents command 75%, 85%, even 100% of a human equivalent salary" [src-20260320-b3e49f]
 - 2026-03-12 | Fin pricing: $0.99 per outcome plus $19 helpdesk seat and $35 Copilot seat, a hybrid outcome plus seat model [src-20260312-1f35f8]
 - 2026-03-10 | Sierra customers automate 70-90% of cases; residual human cases get longer handle times [src-20260310-ad2c26]
+- 2026-02-03 | Pace CEO: BPOs run at 10-15% gross margin; Pace targets 80% with agents; carriers save 50-75% (episode notes) [src-20260203-a5df90]
 - 2026-01-14 | Intercom (Pigment, 2026-01-14): Fin at 99 cents per resolution, 7,000 customers, 1M+ resolutions/week; competitors charging per conversation have 'not as pure' incentives; zero revenue on late handoffs [src-20260114-5bb0dc]
 - 2025-12-18 | Battery Ventures: "value capture is concentrated in hardware (GPUs) with ~75% gross margins" [src-20251218-44ce5b]
 - 2025-10-02 | Intercom (Zapier, 2025-10-02): $1 then 99 cents per resolution chosen by trading an $80 seat for ~150 resolutions; complexity not reflected in price [src-20251002-0b85b2]
@@ -565,6 +582,7 @@ Questions are defined in `questions.md`.
 - 2025-05-14 | Bret Taylor: cost-savings pricing is 'a temporary drug' as agents get compared to other agents, not labor [src-20250514-093b59]
 
 ## Q12. Exit paths
+- undated | Pace: Prudential ILI multi-year agreement, pilot to full production, thousands of hours of policy servicing and QA work live [src-20261025-58fd6b]
 - 2026-10-13 | Decagon ($4.5B) hired a bank to explore a sale; early ServiceNow talks, now denied (Business Insider, 2026-10-13) [src-20261013-6d4b75]
 - 2026-09-29 | OpenAI Marketplace is a new distribution channel for vertical agent startups (Sierra, Decagon, Harvey, Legora) via enterprise OpenAI commitments [src-20260929-2fdd0f]
 - 2026-09-24 | Salesforce agreed to acquire Fin (formerly Intercom) for about $3.6B in June 2026 (HackerNoon) [src-20260924-1b6619]

@@ -3,6 +3,7 @@
 Dated, newest first, one line each, source id at the end. Funding, launches, customer wins, pricing changes, hires, M&A. No "no news" lines.
 Agent appends here on every run; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- undated | pace: Prudential Individual Life Insurance signs multi-year deal, live in production [src-20261025-58fd6b]
 - 2026-10-23 | workfabric: Site snapshot: missions and employee twins; no customers or funding disclosed [src-20261023-21a6d6]
 - 2026-10-23 | infosys: Q2 FY27: AI revenue 10.5% of total, +29% QoQ; large deals $5.2B [src-20261023-db47fe]
 - 2026-10-22 | anthropic: The full Claude Platform, available on Google Cloud [src-20261022-d0a3a2]
@@ -30,6 +31,7 @@ Agent appends here on every run; weekly synthesis rolls these up. Lines marked [
 - 2026-10-13 | servicenow: Zavery: no interest in buying Decagon; no major gaps needing large M&A [src-20261013-d7909a]
 - 2026-10-13 | langchain: DXC licenses LangSmith for OASIS [src-20261013-1dcd15]
 - 2026-10-13 | servicenow: DXC OASIS orchestrates over ServiceNow rather than replacing it [src-20261013-1dcd15]
+- 2026-10-13 | workday: Definitive agreement to acquire C1.ai (agentic identity) [src-20261013-7962db]
 - 2026-10-09 | deloitte: Open Model Engineering practice; FDE hiring through FY27 [src-20261009-4138dc]
 - 2026-10-08 | oracle: price list adds Fusion AI Apps and Agents section with metered AI Units [src-20261008-c5856f]
 - 2026-10-08 | microsoft, salesforce: Bringing CRM into the flow of work and agents into business process for sales and service teams [src-20261008-5bb82b]
@@ -40,6 +42,7 @@ Agent appends here on every run; weekly synthesis rolls these up. Lines marked [
 - 2026-10-05 | openai: VB Pulse: 45% use Agents SDK/Responses, 34% of primary picks [src-20261005-66e092]
 - 2026-10-05 | anthropic: VB Pulse: Claude Platform primary for only 38% of its users [src-20261005-66e092]
 - 2026-10-02 | anthropic, accenture, deloitte: Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap [src-20261002-8d9e4f]
+- 2026-10-01 | sap: Agreed to acquire TechWolf (work intelligence, context graph), close Q4 2026 [src-20261001-056aad]
 - 2026-09-30 | sierra: OpenAI Marketplace launch partner; customers draw down OpenAI commits [src-20260930-9b1413]
 - 2026-09-29 | openai: DevDay: dots and specialist dots (back-office roles, pilots), Agents API computer use, Bedrock Managed Agents powered by OpenAI, Marketplace with 32 partners [src-20260929-2fdd0f]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
@@ -56,6 +59,7 @@ Agent appends here on every run; weekly synthesis rolls these up. Lines marked [
 - 2026-09-10 | oracle: 2,300+ agents in production, up 90% QoQ; agentic implementation accelerator announced for AI World [src-20260910-fa41de]
 - 2026-09-10 | openai: Agents API public beta: Codex harness as managed service, no extra fee [src-20260910-014b24]
 - 2026-09-10 | adobe: Q3 FY26: AI-first ARR $650M+ (+150%); CX Enterprise Coworker 1.7K customers and early adopters [src-20260910-67003c]
+- 2026-09-10 | salesforce, intercom: Fin acquisition closed; 30,000+ customers, 76% average resolution [src-20260910-2cf2eb]
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
 - 2026-09-08 | salesforce: Benioff says Salesforce is fully headless and renders inside Claude Cowork, Slack and Teams; support agent has resolved 5M issues [src-20260908-2d6352]
 - 2026-09-03 | uipath: Q2 FY27: ARR +12%, net new ARR $37M; pitches tokenless deterministic automation; did not confirm outcome monetization [src-20260903-1f1484]

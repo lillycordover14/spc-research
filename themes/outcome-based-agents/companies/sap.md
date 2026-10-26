@@ -28,6 +28,7 @@ tags:
 sources:
 - src-20261021-551046
 - src-20261007-acd04d
+- src-20261001-056aad
 data_quality: Incumbent card created 2026-10-23 from earnings and pricing sources; numbers only with source ids.
 updated: '2026-10-23'
 ---
@@ -40,6 +41,7 @@ ERP system of record; Joule agents and Business Data Cloud. Incumbent benchmark.
 ## Traction and signals
 - 2026-10-21 | sap: Q3 2026: 70+ models, no preferred model; CFO says outcome pricing needs consumption, 2027 stays traditional [src-20261021-551046]
 - 2026-10-07 | sap: SAP Connect: 200+ Joule Agents shipped, target 400+ by year-end [src-20261007-acd04d]
+- 2026-10-01 | sap: Agreed to acquire TechWolf (work intelligence, context graph), close Q4 2026 [src-20261001-056aad]
 
 ## Economics (what we know)
 

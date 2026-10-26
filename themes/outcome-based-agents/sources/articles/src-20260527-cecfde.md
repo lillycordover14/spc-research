@@ -16,6 +16,8 @@ layers:
 tags:
 - insurance
 - bpo
+- must-read
+- must-read-tier-2
 summary: 'Pace (insurance BPO replacement): Agents replacing offshore insurance BPO work: claims, policy servicing, submissions. Round: $46M Series B at $375M (Series A $10M Sequoia, Jan 2026), 2026-05-27; investors: Thrive Capital, Sequoia Capital (co-leads). Named customers: Ryze Claim Solutions. Pricing: n/v.'
 key_facts:
 - fact: $46M Series B at $375M (Series A $10M Sequoia, Jan 2026) | Ryze Claim Solutions

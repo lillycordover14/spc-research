@@ -1,5 +1,8 @@
 # Best of: outcome-based agents and agentic orchestration
 
+> Start with [must-read.md](must-read.md): 23 Tier 1 and 41 Tier 2 sources ranked for a venture investor, with read times, a reading order and what to skip.
+
+
 Curated guide to the strongest sources in this theme. Every flagged source carries the `must-read` tag. Facts here come only from records in this repo.
 
 ## (a) Must-listen podcasts and talks, ranked

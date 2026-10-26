@@ -1,5 +1,8 @@
 # Learning path: outcome-based agents and agentic orchestration
 
+> Start with [must-read.md](must-read.md): 23 Tier 1 and 41 Tier 2 sources ranked for a venture investor, with read times, a reading order and what to skip.
+
+
 Reading path for getting up to speed fast, Day 1 basics through Day 4 expert. Every item is filed in this repo. Each line gives what you'll understand afterwards and how it ties to the questions. Items marked ★ carry the `must-read` tag. Back to [best-of](best-of.md).
 
 ## 1. State of play: are agents in production?

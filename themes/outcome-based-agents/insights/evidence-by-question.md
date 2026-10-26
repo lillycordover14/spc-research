@@ -201,6 +201,7 @@ Questions are defined in `questions.md`.
 - 2025-07-16 | Capgemini Research Institute: Falling trust in autonomy is a production blocker [src-20250716-cb70b8]
 - 2025-06-26 | Benioff (Jun 2025): Agentforce service agent about 93% accurate across hundreds of thousands of conversations, including Disney; 'not 100%' [src-20250626-7b75cf]
 - 2025-05-16 | PwC: Cost and cybersecurity tie as top blockers at 34% [src-20250516-f969a1]
+- 2025-03-14 | S&P Global (n>1,000, NA and Europe): 42% of companies abandoned most AI initiatives (17% prior year); average org scrapped 46% of POCs before production [src-20250314-be1d33]
 - 2025-02-25 | Decagon CEO (Accel, 2025-02-25): customers fear a black box and require tooling to audit, QA and change agent logic [src-20250225-e9f1be]
 
 ## Q4. Whose budget
@@ -478,6 +479,7 @@ Questions are defined in `questions.md`.
 - 2025-05-14 | Bret Taylor: 'I am fairly skeptical of horizontal AI platforms', with open-source LangChain an exception [src-20250514-093b59]
 - 2024-10-02 | Lightspeed Venture Partners: "these tools will have auditability built-in with better tracing" [src-20241002-fb86b9]
 ## Q10. Vertical players, investable
+- undated | Pace: Prudential ILI multi-year agreement, pilot to full production, thousands of hours of policy servicing and QA work live [src-20261025-58fd6b]
 - 2026-10-23 | Visa pilot with BILL and Billtrust (2026-10-21): AI agents pay approved B2B invoices end to end [src-20261023-89141c]
 - 2026-10-23 | Zomma (financial services compliance ops (AI BPO)): YC (batch per page); investors Y Combinator; customers pilots with a US RIA and a $10B AUM wealth tech [src-20261023-36cc4e]
 - 2026-10-23 | Definite (bank regulatory reporting): YC; investors Y Combinator; customers n/v [src-20261023-12e7f6]
@@ -582,7 +584,6 @@ Questions are defined in `questions.md`.
 - 2025-05-14 | Bret Taylor: cost-savings pricing is 'a temporary drug' as agents get compared to other agents, not labor [src-20250514-093b59]
 
 ## Q12. Exit paths
-- undated | Pace: Prudential ILI multi-year agreement, pilot to full production, thousands of hours of policy servicing and QA work live [src-20261025-58fd6b]
 - 2026-10-13 | Decagon ($4.5B) hired a bank to explore a sale; early ServiceNow talks, now denied (Business Insider, 2026-10-13) [src-20261013-6d4b75]
 - 2026-09-29 | OpenAI Marketplace is a new distribution channel for vertical agent startups (Sierra, Decagon, Harvey, Legora) via enterprise OpenAI commitments [src-20260929-2fdd0f]
 - 2026-09-24 | Salesforce agreed to acquire Fin (formerly Intercom) for about $3.6B in June 2026 (HackerNoon) [src-20260924-1b6619]

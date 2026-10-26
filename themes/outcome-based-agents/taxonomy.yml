@@ -74,7 +74,9 @@ fit_tests:
   investable-stage: "Seed to Series C with real enterprise customers, fits SPC check size"
 
 tags:  # free-form but prefer these
-  - must-read
+  - must-read          # venture-investor must-read; pair with a tier tag (see insights/must-read.md)
+  - must-read-tier-1   # top ~20: read first
+  - must-read-tier-2   # next ~40: read for depth
   - harness
   - orchestration
   - multi-agent

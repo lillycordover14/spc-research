@@ -14,6 +14,8 @@ All free: publisher transcripts first, else YouTube auto captions (en-orig) via 
 | src-20260326-771e89 | YouTube auto captions (en-orig) via yt-dlp | done | 13546 | Volts: Astrid Atkinson and Jesse Jenkins (UyKZpcCWU_c) |
 | src-20250508-1afa13 | YouTube auto captions (en-orig) via yt-dlp | done | 11359 | Texas Energy & Power: Tyler Norris (0YXQsqNBL8Q) |
 | src-20251202-9b5fb9 | RSS audio + faster-whisper small.en | done | 8942 | TWIML 757: Zain Asgar, Gimlet (YouTube GI0hWajiPaM blocked; no publisher transcript on twimlai.com) |
+| src-20260501-1f0aeb | RSS audio + faster-whisper small.en | done | 6788 | No Priors: Tuhin Srivastava, Baseten (YouTube XAbKflCncDo blocked) |
+| src-20261006-ba3eb2 | RSS audio + faster-whisper small.en | done | 10931 | Unsupervised Learning Ep 94: Applied Compute CEO (YouTube QeiYSLBCwD4 blocked) |
 | yt:dcYqyhyS1o0 | YouTube auto captions | skipped | 9788 | Duplicate of Volts Sivaram episode; publisher transcript used instead |
 | yt:FeS1th1Jz8A | YouTube auto captions via yt-dlp | skipped | 0 | Sapphire, Gimlet: YouTube bot-check / HTTP 429 after retries with backoff; no free transcript found yet |
 | yt:2w-I4pASBDA | YouTube auto captions via yt-dlp | skipped | 0 | Cat Tang, Sail: YouTube bot-check / HTTP 429 after retries with backoff; no free transcript found yet |

@@ -37,6 +37,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-07-19 | The expert predicts a major industry shift toward 800 VDC data center architecture and solid state transformers, with Tier 1 OEMs already prepared for this transition, and expects this to become standard by 2028 | alphasense, med | src-20260719-ffdc30
 - 2026-07-19 | Giga's value proposition is speed and customization, offering vertically integrated manufacturing and tailored solutions, but lacks the brand reputation of Tier 1 OEMs | alphasense, med | src-20260719-ffdc30
 - 2026-07-19 | Giga is used primarily for medium voltage transformers and switchboards, chosen for faster lead times (15-30 weeks) compared to competitors, but at a premium price | alphasense, med | src-20260719-ffdc30
+- 2026-05-01 | Baseten CEO: about 1,024 B200s now needs a three to five year contract with 20-30% TCV prepay | podcast, med | src-20260501-1f0aeb
 - 2026-03-31 | Secondhand S&P figure: about 25 GW of 50 GW not connectable in three years | article, high | src-20260331-dc28c2
 - 2026-02-12 | Solid oxide fuel cells (Bloom Energy) are valued for short lead times (as little as 60 days) and modular deployment, but have higher CapEx and fixed output limitations, making them suitable for up to 15%-20% of a data center's power mix | alphasense, med | src-20260212-faabb1
 - 2026-02-12 | Midsize microturbines (from suppliers like Siemens, GE Vernova) are cost-effective and flexible but have longer lead times (16-24 months) and are often used in multiples for large facilities | alphasense, med | src-20260212-faabb1
@@ -136,6 +137,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q5. Inference demand
 
+- 2026-05-01 | Host: Baseten expects more than $1B revenue this year after 30x scale; CEO cites about 400% NDR and no top-30 churn | podcast, med | src-20260501-1f0aeb
 
 ## Q6. Where inference value accrues
 
@@ -205,9 +207,11 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-10-20 | The collaboration with Applied Compute involves both direct engineering support and onboarding internal machine learning engineers to their platform, with a focus on reinforcement learning and evaluation automation | alphasense, med | src-20261020-9ee336
 - 2026-10-20 | Applied Compute is used primarily for fine-tuning LLMs and evaluation, with a recent contract incentivizing the team to explore using Applied Compute for inference as well | alphasense, med | src-20261020-9ee336
 - 2026-10-20 | A unified platform for both training and inference is highly desirable for operational efficiency, faster updates, and scalability, but Applied Compute's inference offering is currently less mature than its training and evaluation capabilities | alphasense, med | src-20261020-9ee336
+- 2026-10-06 | Applied Compute trained a Harvey custom model from expert rubrics plus synthetic data; training choices set up the customer's inference deployment | podcast, med | src-20261006-ba3eb2
 - 2026-09-29 | Applied Compute AC2 in private beta; best customers have well-defined evals and spend tens of millions on inference | podcast, med | src-20260929-f57402
 - 2026-08-25 | Sail CEO: about 80% of RL fine-tuning cost is rollouts; Applied Compute cited as a fine-tuning partner | podcast, med | src-20260825-e500eb
 - 2026-06-30 | Rationale is data plus RL talent, supporting the view that post-training value sits with data owners | article, high | src-20260630-3abb4e
+- 2026-05-01 | Baseten CEO: almost all customers modify open models with their own data | podcast, med | src-20260501-1f0aeb
 - 2026-04-08 | Model is services-heavy agent training in customer environments | website, high | src-20260408-405ee6
 - 2025-12-01 | Adaptive ML: 50-90% cost savings vs frontier models; 4B RL-tuned model on par with GPT-4 at 7x lower latency | podcast, med | src-20251201-8903ad
 

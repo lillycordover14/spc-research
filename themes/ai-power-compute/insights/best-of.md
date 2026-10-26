@@ -2,6 +2,18 @@
 
 Curated guide to the strongest sources. Every flagged source carries the `must-read` tag.
 
+## Top 10 (ranked by how much each moves the view on targets, Q12/Q13, the world tally and power)
+1. Duke Nicholas Institute, Rethinking Load Growth (report, 2025-02-01): the flexibility case for Emerald and GridCARE rests on 76 GW of headroom at 0.25% curtailment [src-20250201-ccc248]
+2. FERC order on PJM large-load tariff (filing, 2026-10-09): only the 50 MW definition and registry were accepted, and PJM is short of capacity from 2027/28 [src-20261009-8ee3c9]
+3. NVIDIA Q2 FY27 earnings call (filing, 2026-08-26): $40B revenue opportunity per GW for Vera Rubin with the Groq LPU, the world 1 case [src-20260826-7aa6b5]
+4. Broadcom Q3 FY26 earnings call (filing, 2026-09-09): Anthropic 5 GW of TPU 8i in 2027 and OpenAI over 5 GW of XPU in 2028, the world 3 case [src-20260909-fd7170]
+5. Volts with Varun Sivaram (podcast, 2026-08-26): Emerald sells bigger, faster connections (75 MW instead of 50 MW), not power savings [src-20260826-03722b]
+6. Gimlet Series B post (article, 2026-09-04): $300M led by a16z, claiming 5-10x speedups in the same power footprint [src-20260904-a08d96]
+7. AGI House, Neil Movva of Sail (YouTube, 2026-08-25): up to 10x tokens per dollar from completion windows plus chip choice [src-20260825-e500eb]
+8. Crusoe senior director of energy on Emerald (expert call, 2026-10-15): a 6-12 month window before operators build flexibility in-house [src-20261015-1b72b8]
+9. DoorDash ML manager on Applied Compute (expert call, 2026-10-20): fine-tuned open models at least 5-6x cheaper than prior commercial LLMs [src-20261020-9ee336]
+10. Latent Space inference masterclass with Baseten (podcast, 2026-08-03): stacked serving optimizations give 4-6x typically, 10x at best [src-20260803-db2641]
+
 ## The 2-hour version
 1. Duke, Rethinking Load Growth, executive summary (20 min): the 76/98/126 GW flexibility headroom everyone cites [src-20250201-ccc248]
 2. Volts with Varun Sivaram, first half (40 min): how Emerald sells speed to power and where PJM pushes back [src-20260826-03722b]

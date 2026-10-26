@@ -33,14 +33,19 @@ For every source and call, note which world the evidence points to; the readout 
 - 2026-09-14 Intel performance architect call -> world 5 (weak) because workloads are locked to single-vendor stacks today and Gimlet/Modular tools are not yet standard; adoption hinges on proven tokens per dollar [src-20260914-28316c]
 - 2026-09-09 DirecTV data scientist call -> world 4 because Fireworks then Baseten were selected on price-performance; switch only at 30%+ cost increase [src-20260909-ebd6d1]
 - 2026-09-04 Gimlet Series B post -> world 5 because heterogeneous disaggregation is sold to frontier labs with billions in contracted revenue (company claim) [src-20260904-a08d96]
+- 2026-08-26 NVIDIA Q2 FY27 call -> world 1 because NVIDIA bundles the Groq LPU into Vera Rubin and says most data centers will be Vera Rubin plus NVLink 72 [src-20260826-7aa6b5]
+- 2026-08-25 Sail CEO at AGI House -> world 5 because cost per token comes from latency relaxation plus chip choice across hundreds of data centers (company claim) [src-20260825-e500eb]
 - 2026-08-19 d-Matrix principal engineer call -> world 5 because Gimlet is seen as the neutral layer for mixed accelerators [src-20260819-e49885]
+- 2026-08-11 CoreWeave Q2 2026 call -> world 4 because managed inference booked ARR went from $1M to over $100M on a neutral cloud [src-20260811-4fafb8]
 - 2026-08-09 Cerebras senior member call -> world 5 because value is raising utilization by placing prefill and decode on different hardware [src-20260809-79a0d9]
 - 2026-08-07 Former Groq VP call -> world 1 because NVIDIA aims to control the stack (Vera Rubin) and switching off NVIDIA is extremely hard [src-20260807-b6b235]
+- 2026-08-03 Latent Space with Baseten engineers -> world 4 because the neutral cloud integrates disaggregation, speculators and NVFP4 itself; Dynamo is only a toolkit [src-20260803-db2641]
+- 2026-07-23 Gimlet CEO at RAISE -> world 5 because workloads are split across CPU, GPU, d-Matrix and Cerebras for 4-5x capacity per dollar (company claim) [src-20260723-741ec4]
 - 2026-06-22 Baseten Series F post -> world 4 because revenue grew 20x and inference volume 40x, with post-training bundled in [src-20260622-4e261f]
 - 2026-01-23 Baseten Series E post -> world 4 because NVIDIA invested in a neutral inference cloud [src-20260123-cfd280]
 - 2026-01-22 a16z Inferact post -> world 5 because vLLM runs on 400k+ GPUs across hardware, open source sets the serving floor [src-20260122-e767e7]
 
-Running count: world 1: 1, world 2: 0, world 3: 0, world 4: 7, world 5: 5. No source yet tests worlds 2 or 3.
+Running count: world 1: 2, world 2: 0, world 3: 0, world 4: 9, world 5: 7. No source yet tests worlds 2 or 3.
 
 ## 3. Efficiency test (for every inference or post-training target)
 Capture: the unit of improvement (tokens per dollar, tokens per watt, latency at a given throughput, GPU utilization), the benchmark and baseline, the hardware, whether customers confirm it, and what happens to the gain when open source catches up. A target passes if the gain is customer-verified and comes from something that compounds (kernels, scheduling, workload data, RL environments).

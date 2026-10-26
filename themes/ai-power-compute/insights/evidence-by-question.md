@@ -29,6 +29,9 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-10-11 | Heron's approach offers notable advantages in protection coordination, system availability, and modularity, allowing for isolation of faults and higher system uptime compared to traditional solutions | alphasense, med | src-20261011-0e1259
 - 2026-10-11 | Heron Power's Heron Link integrates inverter and transformer functions into a single, compact unit, simplifying installation and potentially improving efficiency for data center battery energy storage systems | alphasense, med | src-20261011-0e1259
 - 2026-10-11 | Heron Link claims round-trip efficiency improvements, with potential RTE of 98-98.5% compared to 93-94% for incumbent solutions, and 25% lower idle power consumption | alphasense, med | src-20261011-0e1259
+- 2026-08-26 | NVIDIA prices its opportunity per GW: about $18B Hopper, $25B Blackwell, $40B Vera Rubin | filing, high | src-20260826-7aa6b5
+- 2026-08-11 | CoreWeave raised prices about 25% across SKUs in July; 1.5 GW active, 4.2 GW contracted, target 8 GW+ by 2030 | filing, high | src-20260811-4fafb8
+- 2026-08-05 | Sivaram: one state wants 50 GW online by 2028 but only 25 GW can be built | podcast, med | src-20260805-572c12
 - 2026-07-19 | Transformer lead times have increased dramatically post-pandemic, with large power transformers now taking over two years, and prices have surged 65%-90% compared to pre-COVID levels | alphasense, med | src-20260719-ffdc30
 - 2026-07-19 | The primary bottleneck for data center buildouts is access to power generation, followed by skilled labor, with transformers being a significant but not the sole constraint | alphasense, med | src-20260719-ffdc30
 - 2026-07-19 | The expert predicts a major industry shift toward 800 VDC data center architecture and solid state transformers, with Tier 1 OEMs already prepared for this transition, and expects this to become standard by 2028 | alphasense, med | src-20260719-ffdc30
@@ -53,6 +56,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-09-28 | Turbines, while previously favored for BTM prime power, have become less attractive due to increased lead times and costs; reciprocating engines and fuel cells are now preferred for new deployments | alphasense, med | src-20260928-37c103
 - 2026-09-28 | The selection of bridge power providers is opportunistic and driven by lead times, pricing, and proven ability to execute, with cost sensitivity lower than expected due to contractual structures with OEMs | alphasense, med | src-20260928-37c103
 - 2026-09-28 | All BTM power solutions for data centers, including turbines, recips, and fuel cells, require on-site battery energy storage systems (BESS) to handle rapid load swings from AI workloads | alphasense, med | src-20260928-37c103
+- 2026-08-26 | PJM's independent market monitor called data center flexibility a 'regulatory fiction' (host, Volts) | podcast, high | src-20260826-03722b
 - 2026-08-03 | U.S. utilities operate on a regulated asset base model, historically designed for slow, predictable growth, but are now facing rapid, unpredictable demand from data centers and electrification trends | alphasense, med | src-20260803-e9026c
 - 2026-08-03 | There is no uniform national policy yet; states are taking varied approaches, with some welcoming data centers and others imposing moratoriums or requiring 'bring your own generation' (BYOG) solutions | alphasense, med | src-20260803-e9026c
 - 2026-08-03 | The expert expects most new data center power to come from natural gas over the next 5-10 years, with short-term price spikes likely due to global events, and sees the biggest beneficiaries as integrators who can deliver turnkey power solutions (combining turbines, batteries, and controls) to data centers | alphasense, med | src-20260803-e9026c
@@ -74,11 +78,13 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-05-28 | GridCARE is positioned at the systems level, managing the interplay between the grid and data center assets, rather than at the chip or hardware level, which is where companies like Emerald and Phaidra focus | alphasense, med | src-20260528-aa6bad
 - 2026-05-28 | GridCARE and similar companies provide software platforms that optimize grid resiliency and power delivery for hyperscale data centers, managing dynamic loads and integrating multiple power sources, including behind-the-meter assets | alphasense, med | src-20260528-aa6bad
 - 2026-05-14 | Power test: 80 MW with PGE in 2026 is the one utility-accepted number; 2 GW is pipeline, not energized | article, high | src-20260514-d7ee00
+- 2026-03-26 | Typical data center interconnection still supplies 100% of peak power; flexible connection is the exception (Atkinson, Volts) | podcast, med | src-20260326-771e89
 - 2025-10-29 | The company employs a multipronged approach to energy sourcing, including direct and indirect power purchase agreements, on-site generation, and microgrids, to ensure reliability and price stability | alphasense, med | src-20251029-76215a
 - 2025-10-29 | Sustainability is a core goal, with commitments to be carbon negative and water positive by 2030, driving the adoption of renewable energy sources, water recycling, and innovative cooling methods | alphasense, med | src-20251029-76215a
 - 2025-10-29 | Nuclear energy is being explored as a future power source, but regulatory and supply chain challenges remain; partnerships and investments are ongoing, but adoption is still in early stages | alphasense, med | src-20251029-76215a
 - 2025-10-29 | Energy availability is the primary constraint for data center expansion, with grid connectivity often taking 8-9 months and significant investments in on-site generation (solar, wind, hydrogen, geothermal, microgrids, and battery storage) to bridge gaps | alphasense, med | src-20251029-76215a
 - 2025-10-29 | Crusoe, a former crypto mining company, has successfully pivoted to AI data centers by leveraging stranded natural gas and vertical integration, making them an attractive partner for hyperscalers due to their speed and direct power access | alphasense, med | src-20251029-76215a
+- 2025-05-08 | Norris: ERCOT interconnects generation faster than PJM; ERCOT's controllable load resource program is the precedent | podcast, high | src-20250508-1afa13
 
 ## Q3. Flexible load
 
@@ -117,13 +123,19 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-08-31 | References from other utilities and relationships are more influential than price in competitive RFP processes, and large utility families (e.g., Exelon, AEP) can serve as effective sales channels | alphasense, med | src-20260831-5ca620
 - 2026-08-31 | Pilot contracts with utilities are typically small (hundreds of thousands of dollars), milestone-based, and have a low conversion rate (10-20%) to larger enterprise deals | alphasense, med | src-20260831-5ca620
 - 2026-08-31 | For data center-related grid software, data centers often pay for the software while utilities act as users, with ongoing operational modules providing the most lucrative revenue opportunities | alphasense, med | src-20260831-5ca620
+- 2026-08-26 | Emerald pitches 75 MW instead of 50 MW from the same grid tap; deployed at multi-megawatt scale at a whole data center; 96 MW Vera Rubin site with NVIDIA and Digital Realty later this year | podcast, high | src-20260826-03722b
+- 2026-08-26 | Sivaram: optimizing power cost is not top of mind for data centers; speed to connect is the value | podcast, high | src-20260826-03722b
 - 2026-08-25 | Up to 100 GW headroom is a company claim, not yet tied to a study in our sources | article, high | src-20260825-62437e
 - 2026-08-25 | First utility tariff-style program trading grid access for flexibility (Silicon Valley Power) answers part of the flexible-load question | article, high | src-20260825-62437e
 - 2026-05-14 | Grid utilization ~30% (Stanford, cited) frames latent capacity thesis | article, high | src-20260514-d7ee00
+- 2026-03-26 | Camus, Princeton ZERO Lab and encoord modeling: flexibility needed at most about 4% of hours, unlock on the order of 30% | podcast, med | src-20260326-771e89
+- 2025-02-01 | Duke: 76 GW headroom at 0.25% curtailment, 98 GW at 0.5%, 126 GW at 1.0%; average event 1.7 to 2.5 hours; 88% of curtailment hours retain at least half of load | market-research, high | src-20250201-ccc248
 
 ## Q4. Enterprise view of the bottleneck
 
+
 ## Q5. Inference demand
+
 
 ## Q6. Where inference value accrues
 
@@ -143,6 +155,9 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-09-09 | ROI is measured through business outcomes such as increased customer engagement, higher self-service resolution rates, reduced support costs, and improved employee productivity, rather than just token-level costs | alphasense, med | src-20260909-ebd6d1
 - 2026-09-09 | Fireworks AI is used for both customer-facing (70%) and internal (30%) applications, including enterprise AI assistants, RAG applications, knowledge search, content generation, and agentic AI workloads, primarily serving millions of consumer subscribers | alphasense, med | src-20260909-ebd6d1
 - 2026-09-04 | Evidence for world 5, software across heterogeneous hardware | article, med | src-20260904-a08d96
+- 2026-08-26 | NVIDIA folds Groq LPU into Vera Rubin but says most data centers will be Vera Rubin plus NVLink 72 only (world 1) | filing, high | src-20260826-7aa6b5
+- 2026-08-11 | CoreWeave managed inference booked ARR grew from $1M to over $100M; target $250M+ exiting 2026 (neoclouds move up the stack) | filing, high | src-20260811-4fafb8
+- 2026-08-03 | Baseten engineers: NVIDIA Dynamo is a toolkit, not an out-of-box speedup; integration still differentiates (world 4) | podcast, high | src-20260803-db2641
 - 2026-06-22 | Strongest evidence for world 4 so far | article, high | src-20260622-4e261f
 - 2026-01-23 | NVIDIA invests in the neutral inference cloud, supporting world 4 | article, high | src-20260123-cfd280
 
@@ -153,6 +168,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-08-19 | Gimlet Labs' approach is seen as ahead of the curve, addressing current industry challenges in AI inference efficiency and scalability | alphasense, med | src-20260819-e49885
 - 2026-08-19 | Gimlet Labs is positioning itself as a differentiated AI inference provider by enabling disaggregated deployment of large language models (LLMs) across heterogeneous hardware, such as GPUs and specialized AI accelerators | alphasense, med | src-20260819-e49885
 - 2026-08-19 | Competitors like Fireworks, Together, and Baseten primarily focus on simplifying GPU-based deployments and have not publicly announced similar heterogeneous orchestration capabilities | alphasense, med | src-20260819-e49885
+- 2026-08-03 | Baseten: disaggregation adds roughly 2x on top of NVFP4 and speculators (each roughly 2x); 4-6x over baseline is typical, 10x aggressive | podcast, high | src-20260803-db2641
 - 2026-01-22 | Nearly all inference services use vLLM under the hood per a16z; open source sets the floor for serving software | article, med | src-20260122-e767e7
 
 ## Q8. Heterogeneous hardware
@@ -163,6 +179,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-09-14 | Companies like Gimlet Labs and Modular are developing solutions to enable distributed AI workloads across mixed hardware, but their tools are not yet standard or widely used | alphasense, med | src-20260914-28316c
 - 2026-09-14 | Adoption of commercial orchestration/compilation tools will depend on their ability to demonstrate superior cost-performance (e.g., tokens per dollar) and gain traction among large AI model users | alphasense, med | src-20260914-28316c
 - 2026-09-04 | Speedup claim lacks named baseline, hardware and model, so efficiency test stays unverified | article, med | src-20260904-a08d96
+- 2026-08-25 | Sail: completion windows alone give 2-3x cost per token; chip choice adds the rest toward 10x (company claim) | podcast, med | src-20260825-e500eb
 - 2026-08-09 | There is a trend toward using specialized hardware for different phases of model inference (e.g., prefill on high-compute GPUs, decode on memory-rich or older GPUs), and Gimlet's orchestration aims to automate this process | alphasense, med | src-20260809-79a0d9
 - 2026-08-09 | The approach involves splitting workloads into smaller chunks and dynamically assigning them to idle hardware, potentially using AI to predict and optimize resource allocation | alphasense, med | src-20260809-79a0d9
 - 2026-08-09 | Maximizing utilization and performance in heterogeneous environments requires sophisticated software capable of understanding both the workload and the hardware capabilities, especially when supporting custom models | alphasense, med | src-20260809-79a0d9
@@ -172,7 +189,9 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-08-07 | NVIDIA's strategy is to control as much of the AI stack as possible, acquiring or partnering with companies to fill gaps, which could make it difficult for independent orchestration platforms to differentiate unless they partner with emerging hardware players | alphasense, med | src-20260807-b6b235
 - 2026-08-07 | Gimlet's approach as a software orchestration layer for heterogeneous AI hardware is interesting, but faces tough competition from established players, especially as companies like NVIDIA expand their stack with initiatives like Vera Rubin | alphasense, med | src-20260807-b6b235
 - 2026-08-07 | Convincing customers to switch from incumbents like NVIDIA is extremely difficult, even with superior technology, due to entrenched relationships and risk aversion | alphasense, med | src-20260807-b6b235
+- 2026-07-23 | Gimlet CEO: about 4-5x capacity for the same cost, goal of 10x (company claim) | podcast, med | src-20260723-741ec4
 - 2026-03-23 | 3-10x claim is on >1T param models, same power envelope; baseline unstated | article, med | src-20260323-a0cbfc
+- 2025-12-02 | Gimlet CEO: kernel gains vs best-in-class are single digits to 20-30%; most gain must come from placement | podcast, med | src-20251202-9b5fb9
 
 ## Q9. Fine-tuning as a real budget line
 
@@ -186,8 +205,11 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-10-20 | The collaboration with Applied Compute involves both direct engineering support and onboarding internal machine learning engineers to their platform, with a focus on reinforcement learning and evaluation automation | alphasense, med | src-20261020-9ee336
 - 2026-10-20 | Applied Compute is used primarily for fine-tuning LLMs and evaluation, with a recent contract incentivizing the team to explore using Applied Compute for inference as well | alphasense, med | src-20261020-9ee336
 - 2026-10-20 | A unified platform for both training and inference is highly desirable for operational efficiency, faster updates, and scalability, but Applied Compute's inference offering is currently less mature than its training and evaluation capabilities | alphasense, med | src-20261020-9ee336
+- 2026-09-29 | Applied Compute AC2 in private beta; best customers have well-defined evals and spend tens of millions on inference | podcast, med | src-20260929-f57402
+- 2026-08-25 | Sail CEO: about 80% of RL fine-tuning cost is rollouts; Applied Compute cited as a fine-tuning partner | podcast, med | src-20260825-e500eb
 - 2026-06-30 | Rationale is data plus RL talent, supporting the view that post-training value sits with data owners | article, high | src-20260630-3abb4e
 - 2026-04-08 | Model is services-heavy agent training in customer environments | website, high | src-20260408-405ee6
+- 2025-12-01 | Adaptive ML: 50-90% cost savings vs frontier models; 4B RL-tuned model on par with GPT-4 at 7x lower latency | podcast, med | src-20251201-8903ad
 
 ## Q10. Open versus closed models
 
@@ -209,8 +231,11 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 - 2026-10-14 | Modal Sandboxes at $300M run rate is the direct comp for Sail Research's Sailboxes | article, high | src-20261014-63cf9c
 - 2026-09-04 | Gimlet is now an inference cloud operator with physical capacity, not only software; capital intensity rises | article, med | src-20260904-a08d96
+- 2026-08-25 | Sail founded December 2025, serving trillions of tokens a week from hundreds of data centers; cedes low-latency inference | podcast, med | src-20260825-e500eb
 - 2026-08-04 | Named Indian customers but no efficiency benchmark with baseline | article, med | src-20260804-e772d5
+- 2026-06-24 | Sail raised $80M (seed Sequoia, A Kleiner); customers Parallel, Detail.dev, Jack and Jill, Quadrillion | website, high | src-20260624-30f6ae
 - 2026-03-23 | Named customer types (frontier lab, hyperscaler) but no named customers | article, med | src-20260323-a0cbfc
+- 2025-12-02 | Gimlet at about eight figures of revenue in Dec 2025, mostly via data center partners; cloud not yet launched | podcast, med | src-20251202-9b5fb9
 
 ## Q13. Valuation versus fit
 
@@ -232,5 +257,5 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q16. Who to call
 
-## Q17. Our view
 
+## Q17. Our view

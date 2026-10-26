@@ -7,10 +7,12 @@ Dated, newest first, one line each, source id at the end. Funding, launches, cus
 - 2026-09-04 | Gimlet Labs $300M Series B led by a16z; company post claims billions in contracted revenue, hundreds of MW managed capacity. Harmonic total $404.3M; $80M A + $300M B per company posts, seed amount unconfirmed | src-20260904-a08d96
 - 2026-09-01 | Wafer $40M Series A co-led by Marathon and Chemistry, AMD Ventures participating | src-20260901-21f9eb
 - 2026-08-26 | Deep Cogito $43M Series A led by TQ Ventures; >$56M total | src-20260826-50c34c
+- 2026-08-26 | NVIDIA Q2 FY27: Groq LPU added to Vera Rubin platform; revenue opportunity $40B per GW for Vera Rubin; OpenAI commitments about 12 GW | src-20260826-7aa6b5
 - 2026-08-25 | Emerald AI $150M Series A at $1.05B, co-led by Energize and DCVC; Silicon Valley Power flexible interconnection program; ~100 MW Manassas Vera Rubin factory | src-20260825-62437e
+- 2026-08-11 | CoreWeave Q2 2026: ~25% price increase across SKUs in July; managed inference booked ARR over $100M; 1.5 GW active, 4.2 GW contracted | src-20260811-4fafb8
 - 2026-08-04 | Simplismart ~$9M Series B led by Dallas VC (per filings); FY25 revenue Rs 1.22 crore, loss Rs 9.02 crore | src-20260804-e772d5
 - 2026-06-30 | Datadog acquires Adaptive ML into Datadog AI Research; terms not disclosed | src-20260630-3abb4e
-- 2026-06-24 | Sail Research Series A; $80M raised to date, $450M valuation (publicly disclosed) [Harmonic]
+- 2026-06-24 | Sail Research $80M seed plus Series A (seed led by Sequoia, A led by Kleiner); customers Parallel, Detail.dev, Jack and Jill, Quadrillion; $450M valuation per PR Newswire release (not fetched, 502) | src-20260624-30f6ae
 - 2026-06-22 | Baseten $1.5B Series F led by Altimeter, Conviction, Spark; revenue 20x, inference volume 40x YoY | src-20260622-4e261f
 - 2026-05-14 | GridCARE $64M Series A led by Sutter Hill and John Doerr; PGE Hillsboro path to 400+ MW, first 80 MW in 2026 | src-20260514-d7ee00
 - 2026-04-08 | Applied Compute $80M at $1.3B post led by Kleiner; $160M total | src-20260408-405ee6

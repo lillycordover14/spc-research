@@ -40,6 +40,10 @@ sources:
 - src-20260825-62437e
 - src-20260331-dc28c2
 - src-20260804-e772d5
+- src-20260826-7aa6b5
+- src-20260826-03722b
+- src-20260803-db2641
+- src-20251202-9b5fb9
 data_quality: Benchmark card, unsourced; numbers only with source ids.
 updated: '2026-10-26'
 ---

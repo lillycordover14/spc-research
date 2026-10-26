@@ -69,6 +69,8 @@ sources:
 - src-20260803-e9026c
 - src-20260825-62437e
 - src-20260331-dc28c2
+- src-20260805-572c12
+- src-20260826-03722b
 data_quality: Seed card from Harmonic, pulled 2026-10-26. SPC has prior diligence material on Emerald AI (dataroom review skill); link those notes.
 updated: '2026-10-26'
 ---

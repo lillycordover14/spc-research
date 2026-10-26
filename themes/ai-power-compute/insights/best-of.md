@@ -2,17 +2,19 @@
 
 Curated guide to the strongest sources. Every flagged source carries the `must-read` tag.
 
-## Top 10 (ranked by how much each moves the view on targets, Q12/Q13, the world tally and power)
-1. Duke Nicholas Institute, Rethinking Load Growth (report, 2025-02-01): the flexibility case for Emerald and GridCARE rests on 76 GW of headroom at 0.25% curtailment [src-20250201-ccc248]
-2. FERC order on PJM large-load tariff (filing, 2026-10-09): only the 50 MW definition and registry were accepted, and PJM is short of capacity from 2027/28 [src-20261009-8ee3c9]
-3. NVIDIA Q2 FY27 earnings call (filing, 2026-08-26): $40B revenue opportunity per GW for Vera Rubin with the Groq LPU, the world 1 case [src-20260826-7aa6b5]
-4. Broadcom Q3 FY26 earnings call (filing, 2026-09-09): Anthropic 5 GW of TPU 8i in 2027 and OpenAI over 5 GW of XPU in 2028, the world 3 case [src-20260909-fd7170]
-5. Volts with Varun Sivaram (podcast, 2026-08-26): Emerald sells bigger, faster connections (75 MW instead of 50 MW), not power savings [src-20260826-03722b]
-6. Gimlet Series B post (article, 2026-09-04): $300M led by a16z, claiming 5-10x speedups in the same power footprint [src-20260904-a08d96]
-7. AGI House, Neil Movva of Sail (YouTube, 2026-08-25): up to 10x tokens per dollar from completion windows plus chip choice [src-20260825-e500eb]
-8. Crusoe senior director of energy on Emerald (expert call, 2026-10-15): a 6-12 month window before operators build flexibility in-house [src-20261015-1b72b8]
-9. DoorDash ML manager on Applied Compute (expert call, 2026-10-20): fine-tuned open models at least 5-6x cheaper than prior commercial LLMs [src-20261020-9ee336]
-10. Latent Space inference masterclass with Baseten (podcast, 2026-08-03): stacked serving optimizations give 4-6x typically, 10x at best [src-20260803-db2641]
+## Top 10 (ranked by how much each moves the view on targets, Q12/Q13, the world tally and power; re-ranked after run 4, 136 sources)
+1. Rethinking Load Growth (market-research, 2025-02-01, Nicholas Institute, Duke University) https://nicholasinstitute.duke.edu/publications/rethinking-load-growth [src-20250201-ccc248]: the flexibility case for Emerald and GridCARE rests on 76 GW of headroom at 0.25% curtailment.
+2. FERC order on PJM large-load tariff (filing, 2026-10-09, FERC) https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9207/20261009-er26-3515-000.pdf [src-20261009-8ee3c9]: only the 50 MW definition and registry were accepted, and PJM is short of capacity from 2027/28.
+3. NEW OpenAI reinforcement fine-tuning guide (website, 2026-10-26, OpenAI) https://developers.openai.com/api/docs/guides/reinforcement-fine-tuning [src-20261026-b9d8f5]: OpenAI is winding down self-serve fine-tuning (jobs only until Jan 6, 2027, RFT was $100 per training hour), which opens the lane for post-training targets.
+4. NVIDIA Q2 FY27 earnings call (filing, 2026-08-26, Jensen Huang, Colette Kress) https://www.fool.com/earnings/call-transcripts/2026/08/31/nvidia-nvda-q2-2027-earnings-call-transcript/ [src-20260826-7aa6b5]: $40B revenue opportunity per GW for Vera Rubin with the Groq LPU, the world 1 case.
+5. NEW How NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale (article, 2026-03-16, NVIDIA Technical Blog) https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready/ [src-20260316-b59c30]: AWS, Google Cloud, Azure and OCI integrated Dynamo and it claims up to 7x more requests on Blackwell, the strongest threat to standalone serving software.
+6. Broadcom Q3 FY26 earnings call (filing, 2026-09-09, Hock Tan) https://www.fool.com/earnings/call-transcripts/2026/09/09/broadcom-avgo-q3-2026-earnings-call-transcript/ [src-20260909-fd7170]: Anthropic 5 GW of TPU 8i in 2027 and OpenAI over 5 GW of XPU in 2028, the world 3 case.
+7. NEW Alphabet Q2 2026 earnings call (filing, 2026-07-22, Stock Analysis / Quartr) https://stockanalysis.com/stocks/googl/transcripts/657320-q2-2026/ [src-20260722-d9fefd]: model APIs at about 22B tokens per minute, up from 16B a quarter earlier, with capex raised to $195-205B.
+8. Crusoe senior director of energy on Emerald (expert call, 2026-10-15, AlphaSense export) https://github.com/lillycordover14/spc-research/blob/main/themes/ai-power-compute/sources/alphasense/src-20261015-1b72b8.md [src-20261015-1b72b8]: a 6-12 month window before operators build flexibility in-house.
+9. DoorDash ML manager on Applied Compute (expert call, 2026-10-20, AlphaSense export) https://github.com/lillycordover14/spc-research/blob/main/themes/ai-power-compute/sources/alphasense/src-20261020-9ee336.md [src-20261020-9ee336]: fine-tuned open models at least 5-6x cheaper than prior commercial LLMs.
+10. Volts with Varun Sivaram (podcast, 2026-08-26, Varun Sivaram, David Roberts) https://www.volts.wtf/p/making-data-centers-flexible-so-they [src-20260826-03722b]: Emerald sells bigger, faster connections (75 MW instead of 50 MW), not power savings.
+
+Dropped from the previous list: Gimlet Series B post [src-20260904-a08d96], AGI House talk by Neil Movva of Sail [src-20260825-e500eb], Latent Space inference masterclass with Baseten [src-20260803-db2641].
 
 ## The 2-hour version
 1. Duke, Rethinking Load Growth, executive summary (20 min): the 76/98/126 GW flexibility headroom everyone cites [src-20250201-ccc248]

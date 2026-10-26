@@ -1,6 +1,6 @@
 # AI-native industrial production: VC primer
 
-_Version 5, dated 2026-10-26 (America/Chicago). Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
+_Version 6, dated 2026-10-26 (America/Chicago). Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
 
 **New to this topic? Start with section 1 and section 1A (the macro primer), then come back to section 0.** Acronyms are spelled out on first use and collected in Appendix A.
 
@@ -51,6 +51,18 @@ _In one line: the category is real and defense demand is strong, but most buyers
 | 2 | Owning the plant creates a data loop | Freeform and Mariana score 2 (section 6). Ex-Hadrian: about 80% of non-CAM labor automated, lead times cut about 50% [src-20250708-342eaf]; reprogramming saved 50-80% of CAM time [src-20260611-7b80f0] | Toolpaths come from third-party CAM, with Vericut (simulation software) as the check [src-20260611-7b80f0][src-20261004-9b47f5]; CMM (coordinate measuring machine) inspection is manual [src-20260817-8867f2]; a buyer asks "is it actually" software-enabled [src-20250729-a0a78c] | Workflow automation is real. Learning with volume is not evidenced |
 | 3 | Moats: process data, secured capacity, qualification | Trusting a new supplier takes 5-10 years [src-20250712-e5e110]; change-of-control clauses in defense contracts (contracts that can be voided if the supplier is sold) [src-20260817-8867f2]; lock-in from 50-year programs [src-20260818-9b2d5c] | Share caps (finding 3); 90% of the first 10 Hadrian employees gone by year 5 [src-20260817-8867f2]; incumbent PCC is also automating [src-20250712-e5e110] | Qualification is a moat once paid, but it caps share. No data moat evidenced |
 | 4 | Hardware-inclusive producers can return venture outcomes | SendCutSend profitable 8 years [src-20260519-38c7ed]; Hadrian plants are debt-funded [src-20260817-c48f28] | "Not ... a fantastically profitable business"; a six-machine plant 1 cost "well north of $10 million" [src-20260817-8867f2]; net per-part saving after capex is 20-30% at best [src-20250712-e5e110]; Hadrian is "better suited to debt than VC" (ex-Anduril PI) [src-20250709-43486e] | Unproven. Underwrite the speed premium and the debt capacity, not cost leadership |
+
+---
+
+## 0A. This week's sourcing (Oct 26)
+
+The weekly sourcing run added six sources and no new companies. The short version: **demand keeps getting stronger on paper, but the money hasn't reached suppliers yet, and incumbents are taking share.**
+- **Defense money is approved in principle but hasn't been paid out.** CNAS puts the FY27 munitions request at $49.5B, 8.5x the FY16-26 average, but 82% of it depends on reconciliation. Lead times are unchanged for 6 of 10 munitions, and production capacity is the hardest constraint to move. Framework deals with primes (Lockheed up to $9B, Northrop over $2B) are mostly unconverted [src-20261007-c6f64e]. CRS/CBO estimate a $21.7B replacement bill and say some interceptors will take at least five years to replace [src-20261005-b7e08b].
+- **Bear: orders lag the budget.** Carpenter's defense bookings fell from the prior quarter and the prior year because customers "are not receiving funds"; the CEO expects a rush once the budget clears [src-20261022-de5e6c]. Aero bookings rose 49% y/y on higher-price long-term agreements. **Claim (Carpenter):** AI productivity gains are ahead of plan (no number given).
+- **Bear: the incumbent distributor is gaining share.** Reliance tons rose 15.6% vs industry +10.1%. It is pricing up on extended lead times and buying domestic, and the call didn't mention AI at all [src-20261022-1e6872].
+- **Macro (BCG).** Factory-of-the-future tech can raise productivity up to 60%, and physical AI cut robot training time about 70%. But greenfield aerospace and defense plants still favor China on cost, and tariffs can reduce the pressure to invest [src-20260528-a1c5d1].
+- **Mariana podcast (all company claims, agent transcription).** Mariana has four software suites and retrofits autonomy onto equipment partly through partner firms. VC funds R&D while most mine capex comes from separate project investors. East Texas lithium goes to an unnamed battery company and ramps next year. It has two projects today against a goal of 10 [src-20261024-c53370].
+- **What this means [inference]:** repeat orders in defense are likely gated by the budget until after the midterms. Ask candidates how much of their backlog is funded versus framework-only.
 
 ---
 
@@ -393,7 +405,7 @@ MES (manufacturing execution system) is the software that tracks and directs wor
 ### 5.10 Mariana Minerals (metals supply; owner-operator)
 - **What it does:** builds and runs mines and refineries (Copper One, Lithium One) on its own software [src-20260803-30e6d5].
 - **Money:** $310M Series B (Khosla), about $400M including project money; valuation undisclosed [src-20260803-30e6d5]. A $1.5B figure appears only in Harmonic (low).
-- **Operations:** about 250 staff, about 20% in software and AI [src-20260623-d1790b]. **Claim:** took over a southeast Utah copper mine and refinery at end-2025 and restarted mining in May 2026, about 50% autonomous, making 99.99% pure copper; "we do not sell software" [src-20260623-d1790b][src-20260513-bdc044]. **Claim (CEO Caldwell):** 30% lower refining cost and 40-50% lower mining cost [src-20260502-21f16a]; 10 projects in 10 years [src-20260513-dd56eb]. No buyer contracts disclosed.
+- **Operations:** about 250 staff, about 20% in software and AI [src-20260623-d1790b]. **Claim:** took over a southeast Utah copper mine and refinery at end-2025 and restarted mining in May 2026, about 50% autonomous, making 99.99% pure copper; "we do not sell software" [src-20260623-d1790b][src-20260513-bdc044]. **Claim (CEO Caldwell):** 30% lower refining cost and 40-50% lower mining cost [src-20260502-21f16a]; 10 projects in 10 years [src-20260513-dd56eb]. No buyer contracts disclosed. **Claim (co-founder Lozano, Oct 24):** most mine capex comes from project investors separate from VC; East Texas lithium goes to an unnamed battery maker, ramping next year; two projects today; autonomy partly through partner firms [src-20261024-c53370].
 - **What this means [inference]:** one of two names with a credible data loop; the check size is above SPC's.
 
 ### 5.11 1872 (fabrication; owner-operator)
@@ -663,7 +675,7 @@ Power is a minor cost: one plant used 500-600 amps of a 1,200-amp service for 6-
 - **Atomic Industries:** tool and die is a bottleneck. Next: a second source.
 - **Machina:** depot demand. Next: verify valuation.
 
-**Benchmarks.** Hadrian, Divergent, SendCutSend, Mariana and Amca are priced at $1B-$7.9B. Periodic, CuspAI, Mind and Arda are priced before product; watch for revenue.
+**Benchmarks.** Hadrian, Divergent, SendCutSend, Mariana and Amca are priced at $1B-$7.9B. (Oct 26 run: no new candidates added; Mariana's project-level financing [claim, src-20261024-c53370] lowers its equity need but doesn't change its tier.) Periodic, CuspAI, Mind and Arda are priced before product; watch for revenue.
 
 **White space.**
 - Software for mid-size metal distributors: about 9,400 sites, with the top 50 holding half [src-20251201-4b732d]. We passed on Nox.
@@ -730,6 +742,7 @@ Power is a minor cost: one plant used 500-600 amps of a 1,200-amp service for 6-
 - **Defense demand is lumpy.** One defense company got "90% of revenue from congressional marks" (low confidence) [src-20261022-f423ef]; stop-start budgets are "brake and then the accelerator" [src-20260901-a44eee].
 - **Incumbents are booming and investing.** Carpenter's specialty-alloy margin hit 37.7% [src-20261022-679fcc]; Howmet absorbed about 720 extra staff in six months [src-20260630-bd78e7]; Nucor credits "supportive federal trade policies" for record shipments [src-20260727-787ce9].
 - **AI tools are for sale to everyone.** CloudNC's AI CAM tool is in 1,000+ shops, including Lockheed's [src-20260908-f98d21].
+- **Budget gating (Oct 26).** Carpenter's defense bookings are down because funds haven't reached customers [src-20261022-de5e6c]; 82% of the FY27 munitions request rests on reconciliation [src-20261007-c6f64e]; Reliance is taking share with no AI [src-20261022-1e6872].
 - **Commodity risk.** Ganfeng's market value fell more than 75% with lithium prices [src-20250529-3a588b], a warning for Mariana and Vulcan.
 
 ## Appendix A. Glossary

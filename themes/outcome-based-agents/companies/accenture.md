@@ -42,6 +42,7 @@ sources:
 - src-20260925-e06e0a
 - src-20260831-4ed2d3
 - src-20260726-c50d29
+- src-20261017-72ec30
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -55,6 +56,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-17 | MD and Chief AI Architect: dedicated lab business groups; model routing rarely used in production [src-20261017-72ec30]
 - 2026-08-31 | accenture: Q4 FY26: bookings $22.17B, managed services book-to-bill 1.4, 141 clients with $100M+ quarterly bookings; no AI breakout [src-20260831-4ed2d3]
 - 2026-02-23 | openai, accenture: Frontier Alliances announced with BCG, McKinsey, Accenture, Capgemini; partners build OpenAI-certified practices [src-20260223-9272a6]
 

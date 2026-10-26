@@ -27,6 +27,8 @@ tags:
 - incumbent
 sources:
 - src-20250806-3921b6
+- src-20260710-37d40b
+- src-20260724-865e53
 data_quality: Incumbent card created 2026-10-23 from earnings and pricing sources; numbers only with source ids.
 updated: '2026-10-23'
 ---
@@ -37,6 +39,8 @@ Customer service software; AI agents billed per automated resolution. Incumbent 
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-07-24 | Crescendo former director: Zendesk strong vs AI-native BPO on integration and data access [src-20260724-865e53]
+- 2026-07-10 | Lost Safelite CX agent evaluation to Sierra [src-20260710-37d40b]
 - 2025-08-06 | zendesk: Billing per automated resolution; verified resolution judged by an LLM; escalations not billed [src-20250806-3921b6]
 
 ## Economics (what we know)

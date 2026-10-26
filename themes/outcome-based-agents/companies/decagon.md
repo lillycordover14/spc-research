@@ -54,6 +54,10 @@ sources:
 - src-20261025-f824ac
 - src-20260127-5d9191
 - src-20261025-07358d
+- src-20260708-a5fc76
+- src-20260710-37d40b
+- src-20260724-865e53
+- src-20260727-3b21a8
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -71,6 +75,10 @@ Benchmark for CX agents in production.
 - 2026-10-13 | decagon: $100M ARR; 90% of workloads on fine-tuned open models [src-20261013-d7909a]
 - 2026-09-29 | sierra, decagon: Named launch partners in OpenAI Marketplace (buyable with OpenAI committed spend) [src-20260929-2fdd0f]
 - 2026-07-31 | decagon, sierra: Decagon says a customer moved from Sierra to Decagon over FDE black-box deployment [src-20260731-a07321]
+- 2026-07-27 | Deutsche Telekom SVP: 'Decagon is the worse Sierra', strong for simple workflows [src-20260727-3b21a8]
+- 2026-07-24 | Former Crescendo director: Decagon and Kodif often lost to Crescendo on price [src-20260724-865e53]
+- 2026-07-10 | Lost Safelite evaluation to Sierra [src-20260710-37d40b]
+- 2026-07-08 | Finalist in European fintech RFP with Sierra and Five9 [src-20260708-a5fc76]
 - 2026-01-14 | decagon: Intercom's Traynor criticizes competitors pricing on total conversation volume, the model Decagon describes [src-20260114-5bb0dc]
 - 2025-10-02 | sierra, decagon: Competitor Intercom Fin: 65% resolution, 6,000+ customers, $1M performance guarantee, per-resolution pricing [src-20251002-0b85b2]
 - 2025-09-18 | decagon: CEO details per-conversation allotment pricing and up-market move into banks, airlines, telcos [src-20250918-7e3ad0]
@@ -81,7 +89,7 @@ Benchmark for CX agents in production.
 ## Economics (what we know)
 <!-- Pricing unit, price points, gross margin after inference, services / forward-deployed share, ACV, payback -->
 - Pricing unit: per conversation or per resolution; majority of customers choose per conversation [src-20241210-0d932d]
-- Price points: not disclosed
+- Price points: not disclosed (expert call: priced within about 10% of Sierra in a European RFP [src-20260708-a5fc76])
 - Gross margin after inference: not disclosed
 - Services / FDE share: not disclosed
 - Renewal behavior: not disclosed

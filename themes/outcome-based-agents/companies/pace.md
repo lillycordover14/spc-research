@@ -46,6 +46,7 @@ sources:
 - src-20261025-c77b6e
 - src-20261025-9f5479
 - src-20260203-a5df90
+- src-20260811-852c57
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -59,6 +60,7 @@ Landscape view (2026-10-23): PICK: Sequoia and Thrive, replaces ~$70B insurance 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - None | pace: Prudential Individual Life Insurance signs multi-year deal, live in production [src-20261025-58fd6b]
+- 2026-08-11 | UnitedHealth Group: 3 teams, 50+ users, insourced outsourced P&C claims work, 10X claims speed, spend $100k to $250k a year [src-20260811-852c57]
 - 2026-05-27 | Pace: $46M Series B at $375M (Series A $10M Sequoia, Jan 2026) (2026-05-27) [src-20260527-cecfde]
 
 ## Economics (what we know)

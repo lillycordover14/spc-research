@@ -48,6 +48,9 @@ sources:
 - src-20260507-e6c2cd
 - src-20260826-580137
 - src-20260925-e06e0a
+- src-20251006-b80311
+- src-20260416-1a8cca
+- src-20260911-0742fb
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -61,6 +64,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-11 | KPMG National Executive Director: Now Assist seat contraction, debooks, license price increases [src-20260911-0742fb]
 - 2026-08-26 | servicenow: Salesforce says Agentforce IT Service has 450+ customers including conversions from ServiceNow [src-20260826-580137]
 - 2026-10-21 | servicenow: Arc personal agent GA with Nvidia; AI Passport and Control Tower [src-20261021-bf34b8]
 - 2026-10-21 | servicenow: ServiceNow Arc GA on Nvidia OpenShell [src-20261021-4e9ddf]
@@ -71,6 +75,7 @@ Benchmark. Track launches, pricing and customer counts.
 - 2026-05-07 | servicenow: Knowledge 2026: AI Control Tower free for 1 year, total satisfaction guarantee, go-live under 100 days offer [src-20260507-e6c2cd]
 - 2026-05-06 | servicenow: McDermott: six businesses over $1B including CRM and security; agents reduce headcount needing stock comp [src-20260506-9d785e]
 - 2026-04-17 | servicenow: 90% of internal CS cases by agents; control tower pitch; 10x rebuild-cost claim; consumption model [src-20260417-a917fe]
+- 2026-04-16 | Duvo co-founder: ServiceNow and UiPath seen as expensive in European retail and FMCG [src-20260416-1a8cca]
 - 2026-04-02 | servicenow: Wawa CIO (expert call) rates Now Assist poorly, testing Moveworks add-on, questions long-term need for ServiceNow [src-20260402-8d84cb]
 - 2025-10-01 | servicenow: Named as bake-off rival by UiPath [src-20251001-78dba6]
 

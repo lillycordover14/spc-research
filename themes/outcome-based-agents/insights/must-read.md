@@ -2,7 +2,7 @@
 
 Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, directly answers Q1, Q2, Q6, Q7 or Q8, moves the investable view, or is a canonical thesis. Every listed record carries the tags `must-read` and `must-read-tier-1` or `must-read-tier-2` in its frontmatter, so `grep -l must-read-tier-1 sources -r` lists them. Read time assumes about 230 words a minute; long transcripts are marked "skim" with a 20-minute budget on the parts quoted in key_facts.
 
-## Tier 1 (23): read these first
+## Tier 1 (31): read these first
 | # | Source | Date | Read | Why | Qs |
 |---|---|---|---|---|---|
 | 1 | src-20260309-78d5a1: [Kleiner Perkins: How Sierra Is Pulling Ahead in the AI Race, Co-founder Bret Taylor](https://www.youtube.com/watch?v=6v9q6k8aF6E) | 2026-03-09 | 60 min (skim: 20 min on the flagged parts) | Sierra's own numbers ($100M in 7 quarters, $150M in 8) and why FDE exists: to guarantee outcomes | Q2, Q5, Q8 |
@@ -28,8 +28,17 @@ Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, direc
 | 21 | src-20260427-1a7ad0: [CXOTalk: Agentic AI in the Enterprise (Praveen Akkiraju, Insight Partners)](https://www.youtube.com/watch?v=fav_i2Zh79s) | 2026-04-27 | 40 min (skim: 20 min on the flagged parts) | Insight's Akkiraju: buy standardized front-office agents, build back-office; coding $3B vs support $500M revenue | Q1, Q5 |
 | 22 | src-20260203-a5df90: [Training Data: What's the future of vertical SaaS in an AGI world? Jamie Cuffe, CEO of Pace](https://sequoiacap.com/podcast/whats-the-future-of-vertical-saas-in-an-agi-world-jamie-cuffe-ceo-of-pace/) | 2026-02-03 | 45 min (skim: 20 min on the flagged parts) | Pace CEO: BPO at 10-15% gross margin vs 80% target, 50-75% savings; services-as-software in numbers | Q2, Q10, Q11 |
 | 23 | src-20260825-e5c5c1: [McKinsey, The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) | 2026-08-25 | 5 min | McKinsey State of AI 2026: production and ROI baseline, 32% skip buying because they can build with coding agents | Q1, Q5 |
+| 24 | src-20260710-37d40b: Safelite VP on Sierra outcome pricing (AlphaSense expert call) | 2026-07-10 | 40 min (skim: 20 min on the flagged parts) | Only buyer-side view of Sierra outcome terms: price per transaction, 10% savings share, 4-year term, renewal odds | Q2, Q11 |
+| 25 | src-20260724-865e53: Former Crescendo director on outcome pricing in a BPO (AlphaSense expert call) | 2026-07-24 | 40 min (skim: 20 min on the flagged parts) | Bear case from inside: per-contact contracts, 10-40% discounts, gross margin fell | Q2, Q11, Q16 |
+| 26 | src-20250627-297f7b: Cognizant Nordic automation head on agentic claims BPO (AlphaSense expert call) | 2025-06-27 | 40 min (skim: 20 min on the flagged parts) | SI deal economics in numbers: platform cost vs revenue per FTE, 50% savings share | Q11, Q14 |
+| 27 | src-20260318-033caf: Workfabric AI on Sierra outcome pricing (AlphaSense expert call) | 2026-03-18 | 40 min (skim: 20 min on the flagged parts) | What counts as 'resolved' and how a buyer audits it | Q2 |
+| 28 | src-20260708-a5fc76: DRUID AI on a Sierra RFP (AlphaSense expert call) | 2026-07-08 | 40 min (skim: 20 min on the flagged parts) | Sierra monthly price proposal and why outcome pricing lost | Q2 |
+| 29 | src-20260911-0742fb: KPMG on ServiceNow Now Assist (AlphaSense expert call) | 2026-09-11 | 40 min (skim: 20 min on the flagged parts) | Seat contraction and price-led growth at a system of record | Q8 |
+| 30 | src-20260804-3aa89c: OSF Digital on Agentforce (AlphaSense expert call) | 2026-08-04 | 40 min (skim: 20 min on the flagged parts) | Agentforce production rate from a Salesforce SI | Q1, Q8 |
+| 31 | src-20260416-1a8cca: Duvo co-founder on pricing (AlphaSense expert call) | 2026-04-16 | 40 min (skim: 20 min on the flagged parts) | Duvo outcome or value pricing and ACV | Q2, Q15 |
 
-## Tier 2 (41): read for depth on a question
+
+## Tier 2 (47): read for depth on a question
 | # | Source | Date | Read | Why | Qs |
 |---|---|---|---|---|---|
 | 1 | src-20260909-c1900d: Salesforce at Goldman Sachs Communacopia Technology Conference 2026 (transcript, AlphaSense) | 2026-09-09 | 50 min (skim: 20 min on the flagged parts) | Salesforce at Goldman Communacopia: Agentforce economics and pricing straight from management | Q2, Q8 |
@@ -73,6 +82,13 @@ Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, direc
 | 39 | src-20260730-4cc420: [Teleperformance (TP) H1 2026 results](https://www.tp.com/media/1yxhdsni/tp-press-release-h1-2026-results.pdf) | 2026-07-30 | 25 min (skim: 20 min on the flagged parts) | Teleperformance Q2: core services down 1.0% LFL as AI lands | Q4 |
 | 40 | src-20260929-4fcfe9: [Concentrix Q3 2026 results](https://ir.concentrix.com/news/news-details/2026/Concentrix-Reports-Third-Quarter-2026-Results/default.aspx) | 2026-09-29 | 35 min (skim: 20 min on the flagged parts) | Concentrix $1.05B goodwill impairment | Q4 |
 | 41 | src-20261013-6d4b75: [AI Agent Company Decagon Has Held Early M&A Talks and Hired a Banker - Business Insider](https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10) | 2026-10-13 | 5 min | Decagon ($4.5B) hires a banker: exit comp in motion | Q12 |
+| 42 | src-20260326-b3dd2d: Smartly.io on Intercom Fin (AlphaSense expert call) | 2026-03-26 | 40 min (skim: 20 min on the flagged parts) | Fin resolves 30-40% at a real customer | Q1, Q2 |
+| 43 | src-20260717-eb6872: Innovaccer on Sierra (AlphaSense expert call) | 2026-07-17 | 40 min (skim: 20 min on the flagged parts) | Sierra 65% resolution, spend, audit method | Q1, Q2 |
+| 44 | src-20260727-3b21a8: Deutsche Telekom SVP on Sierra and Decagon (AlphaSense expert call) | 2026-07-27 | 40 min (skim: 20 min on the flagged parts) | Vendor consolidation to 1-2; Sierra vs Decagon | Q9 |
+| 45 | src-20260811-852c57: UnitedHealth Group on Pace (AlphaSense expert call) | 2026-08-11 | 40 min (skim: 20 min on the flagged parts) | Pace insources outsourced claims; seat plus usage pricing | Q10 |
+| 46 | src-20251006-b80311: Infosys EMEA AI head on SI pricing (AlphaSense expert call) | 2025-10-06 | 40 min (skim: 20 min on the flagged parts) | GSI outcome pricing and AI savings pressure | Q5, Q14 |
+| 47 | src-20261017-72ec30: Accenture MD on AI vendor partnerships (AlphaSense expert call) | 2026-10-17 | 40 min (skim: 20 min on the flagged parts) | SIs decompose workflows and pick models per agent | Q5, Q6 |
+
 
 ## Suggested reading order (Tier 1, about 6 hours; a 2-hour cut is marked *)
 1. The market and its base rate: McKinsey State of AI 2026 [src-20260825-e5c5c1]*, ICONIQ July 2026 [src-20260715-e16b49]*, HFS services-as-software [src-20260831-73c927].

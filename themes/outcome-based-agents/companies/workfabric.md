@@ -51,6 +51,7 @@ sources:
 - src-20260408-5408bb
 - src-20260710-e2a61b
 - src-20250829-31a67a
+- src-20260318-033caf
 data_quality: Seed card from Harmonic, pulled 2026-10-23. No funding recorded in Harmonic; relationship to Soroco (spinout vs new company) unverified.
 updated: '2026-10-23'
 ---
@@ -67,6 +68,7 @@ Candidate tests to verify: owns-work-context (the core claim), lab-resistant, in
 - 2026-10-23 | workfabric: Site snapshot: missions and employee twins; no customers or funding disclosed [src-20261023-21a6d6]
 - 2026-07-10 | workfabric: Names Cognizant as a partner for pooled customer context; argues SIs should pivot to context engineering [src-20260710-e2a61b]
 - 2026-04-08 | workfabric: Founder describes Context Fabric: edge models capture employee device interactions, assembled in cloud [src-20260408-5408bb]
+- 2026-03-18 | Workfabric AI is a Sierra customer; its Head of Context Engineering ran the evaluation [src-20260318-033caf]
 
 
 ## Economics (what we know)

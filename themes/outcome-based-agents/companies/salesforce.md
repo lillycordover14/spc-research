@@ -63,6 +63,8 @@ sources:
 - src-20260826-580137
 - src-20260910-2cf2eb
 - src-20261025-07358d
+- src-20260710-37d40b
+- src-20260804-3aa89c
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -83,6 +85,7 @@ Benchmark. Track launches, pricing and customer counts.
 - 2026-09-18 | salesforce: Dreamforce 2026: headless platform, ZDR with Anthropic/OpenAI, Slack as control plane [src-20260918-ddaf3a]
 - 2026-09-09 | salesforce, anthropic: Claudeforce (Claude plus Salesforce CRM) discussed at GS Communacopia; premium SKUs ~5% of base [src-20260909-c1900d]
 - 2026-09-08 | salesforce: Benioff says Salesforce is fully headless and renders inside Claude Cowork, Slack and Teams; support agent has resolved 5M issues [src-20260908-2d6352]
+- 2026-08-04 | OSF Digital: about 20% of clients in serious Agentforce production, 20% to 30% more within six months [src-20260804-3aa89c]
 - 2026-06-29 | salesforce: Levie cites Salesforce headless APIs/MCP as symbolic endorsement of headless SaaS [src-20260629-015aae]
 - 2026-06-15 | salesforce: Acquired Fin ~$3.6B, closed 2026-09-10 [src-20260615-74b583]
 - 2026-05-27 | salesforce: Q1 FY27: Agentforce ARR $1.2B +205%, 3.8B Agentic Work Units [src-20260527-478f91]

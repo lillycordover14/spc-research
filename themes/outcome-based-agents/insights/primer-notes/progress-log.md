@@ -2,5 +2,6 @@
 
 Times America/Chicago (CT). Newest last.
 
-- 2026-10-25 21:45 CT: git pull; read AGENTS.md, ANIP primer v5 template (structure, sections 0-1A.6, 3-5.2, 12-Appendix C), OBA framework.md, questions.md, thesis.md, market-sizing.md, comps.md, bull-bear.md, weekly/2026-W44.md, expert-calls.md (part). Corpus: 414 source records, about 7.0M characters of body text (68 under 2K chars).
+- 2026-10-25 (start, before 21:40 CT): git pull; read AGENTS.md, ANIP primer v5 template (structure, sections 0-1A.6, 3-5.2, 12-Appendix C), OBA framework.md, questions.md, thesis.md, market-sizing.md, comps.md, bull-bear.md, weekly/2026-W44.md, expert-calls.md (part). Corpus: 414 source records, about 7.0M characters of body text (68 under 2K chars).
 - Plan: batch 1 = all AlphaSense expert calls read in full (highest weight); batch 2 = company cards + startup-landscape + evidence-by-question; batch 3 = cited sources verified in full; batch 4 = remaining sources by frontmatter summary plus body read as time allows. Coverage reported honestly in primer Appendix C.
+- 2026-10-25 21:39 CT: Batch 1 notes written for 18 AlphaSense calls (297f7b, b80311, 28432e, 033caf, b3dd2d, 8d84cb, 1a8cca, 386718, 288237, 4b024f, 3b0c17, a5fc76, 37d40b, eb6872, 865e53, 3b21a8, 3aa89c, 852c57), each read in full. Correction: earlier per-note clock times were estimated, not taken from the box clock; replaced with "logged by 21:40 CT". From here times come from `date`.

@@ -3,6 +3,12 @@
 Dated, newest first, one line each, source id at the end. Funding, launches, customer wins, pricing changes, hires, M&A. No "no news" lines.
 Agent appends here on every run; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-10-20 | gainsight: pre-announces value-based pricing for Gainsight CS; Atlas manages $75M+ customer ARR on results-tied contracts [src-20261020-f6455d]
+- 2026-10-12 | fileai: moves from per-page to per-completed-Agent-Run outcome pricing [src-20261012-e6c2b7]
+- 2026-09-23 | magentic: CEO on Riding Unicorns; Siemens and Coca-Cola Europacific Partners named [src-20260923-47e348]
+- 2026-07-23 | sierra: acquires Takeoff (outcome-paid long-horizon agents, near 8-figure run rate) to build Horizon [src-20260723-bd3453]
+- 2026-05-04 | sierra: $950M led by Tiger Global and GV at >$15B post-money [src-20260504-c9d184]
+- 2026-04-28 | anthropic: Cursor agent on Claude Opus deletes PocketOS production DB and backups in 9 seconds [src-20260428-8baab9]
 - undated | pace: Prudential Individual Life Insurance signs multi-year deal, live in production [src-20261025-58fd6b]
 - 2026-10-23 | workfabric: Site snapshot: missions and employee twins; no customers or funding disclosed [src-20261023-21a6d6]
 - 2026-10-23 | infosys: Q2 FY27: AI revenue 10.5% of total, +29% QoQ; large deals $5.2B [src-20261023-db47fe]

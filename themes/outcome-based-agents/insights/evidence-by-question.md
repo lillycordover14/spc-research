@@ -66,6 +66,9 @@ Questions are defined in `questions.md`.
 - 2024-12-18 | Dines: RPA is under 10 to 20% penetrated; wide agentic deployment will take 5 to 10 years with current LLMs [src-20241218-3282c7]
 
 ## Q2. Outcome pricing, real or rhetoric
+- Third-party outcome verification is not a market yet: Fin's own guide calls resolution rate 'the most commonly manipulated' metric and lists reopen rate and independent validation as buyer checks [src-20260617-e8abbb]; Intercom separates confirmed from assumed (silence) resolutions [src-20260710-3b577b]; QEval markets an independent post-deployment audit standard with no named users [src-20260619-1810cc]; research shows an agent's self-report biases its judge, claim-blind auditing raised misreport recall by 13-43 pp [src-20261025-24844b].
+- Contract terms in public: Tied's ToS bills only on positive signals (user confirmation, system-verified outcome, corroborated silence), voids on reopen within 30 days or negative feedback, and passes LLM cost through separately [src-20261025-f11c69]. Attorney commentary flags outcome definitions renegotiated at renewal in the vendor's favor and revenue-recognition restatement risk [src-20261002-ad9c7e]; buyer clause lists add source of truth, sampling rights, model change control and clawbacks [src-20260825-b64eae, src-20260822-baee5c].
+- More seat-to-outcome moves: fileAI prices per completed Agent Run, no charge for failures, and cites Bain (June 2026) that only about 10% of AI-native and hybrid vendors use outcome pricing [src-20261012-e6c2b7]; Gainsight pre-announces value-based pricing scaling with ARR managed, Atlas runs $75M+ customer ARR on results-tied contracts [src-20261020-f6455d].
 - undated | Crosby CEO: "We lost a lot of money on it until we were able to get the pricing right" [src-20261025-1fbd1c]
 - 2026-10-23 | Prosper AI pricing: hybrid: part resolution-based, part per-minute [src-20261023-cc2e6e]
 - 2026-10-22 | Agent payments via x402 and wallets suggests hyperscalers expect agents to transact per task, an enabling rail for per-outcome or per-task pricing [src-20261022-a0f852]
@@ -163,6 +166,7 @@ Questions are defined in `questions.md`.
 - 2023-12-07 | Greylock: "expected headcount and seat reductions will drive the need for novel usage-based or outcome-based pricing models" [src-20231207-3fbd49]
 
 ## Q3. What blocks production
+- Failure incidents: a Cursor agent on Claude Opus deleted PocketOS's production DB and backups in 9 seconds using an over-scoped token, 30+ hour outage [src-20260428-8baab9]; German court (OLG Hamm, 12 May 2026) held a clinic liable for its chatbot's invented credentials, rejecting the 'independent AI' defense [src-20260916-6e03e5].
 - 2026-10-20 | Collibra/VB (2026-10-20): >75% hit a production wall going from 1 copilot to 10-15 agents; ~30% caught agents accessing unpermitted data (Harris Poll); 5% fully trust evals (VB, n=157) [src-20261020-7922f1]
 - 2026-10-20 | Modern Data Survey interim (n=540+, data leaders, 66 countries, Aug 2026): data quality top-3 barrier for 75.9%; only 8.4% trust AI input data [src-20261020-76881e]
 - 2026-10-19 | Exotel: buyers fail to budget evaluation and process owners; realistic ramp is 2% to 5% to 10% automation [src-20261019-d96d4c]
@@ -479,6 +483,7 @@ Questions are defined in `questions.md`.
 - 2025-05-14 | Bret Taylor: 'I am fairly skeptical of horizontal AI platforms', with open-source LangChain an exception [src-20250514-093b59]
 - 2024-10-02 | Lightspeed Venture Partners: "these tools will have auditability built-in with better tracing" [src-20241002-fb86b9]
 ## Q10. Vertical players, investable
+- Founder evidence: Amperos claims 75,000+ payer calls automated and $120M collected for customers, 80% lower cost (seed, 2025) [src-20261025-db0c8b]; Didero sits on the ERP for direct procurement, dozens of customers, Footprint named [src-20260213-3c647d]; Magentic names Siemens and CCEP and pitches spend savings over labor [src-20260923-47e348]; Actively frames the account as the unit of context [src-20261025-5ffac1].
 - undated | Pace: Prudential ILI multi-year agreement, pilot to full production, thousands of hours of policy servicing and QA work live [src-20261025-58fd6b]
 - 2026-10-23 | Visa pilot with BILL and Billtrust (2026-10-21): AI agents pay approved B2B invoices end to end [src-20261023-89141c]
 - 2026-10-23 | Zomma (financial services compliance ops (AI BPO)): YC (batch per page); investors Y Combinator; customers pilots with a US RIA and a $10B AUM wealth tech [src-20261023-36cc4e]
@@ -584,6 +589,7 @@ Questions are defined in `questions.md`.
 - 2025-05-14 | Bret Taylor: cost-savings pricing is 'a temporary drug' as agents get compared to other agents, not labor [src-20250514-093b59]
 
 ## Q12. Exit paths
+- Comps: Sierra $950M at >$15B post (May 2026), $150M ARR in Feb [src-20260504-c9d184], >$200M annualized per Newcomer source [src-20261025-07358d]; Decagon $4.5B Series D (Jan 2026) [src-20260127-5d9191], >$100M annualized [src-20261025-07358d]; Sierra bought Takeoff (near 8-figure run rate, 3 people, outcome-paid) in July 2026 [src-20260723-bd3453].
 - 2026-10-13 | Decagon ($4.5B) hired a bank to explore a sale; early ServiceNow talks, now denied (Business Insider, 2026-10-13) [src-20261013-6d4b75]
 - 2026-09-29 | OpenAI Marketplace is a new distribution channel for vertical agent startups (Sierra, Decagon, Harvey, Legora) via enterprise OpenAI commitments [src-20260929-2fdd0f]
 - 2026-09-24 | Salesforce agreed to acquire Fin (formerly Intercom) for about $3.6B in June 2026 (HackerNoon) [src-20260924-1b6619]

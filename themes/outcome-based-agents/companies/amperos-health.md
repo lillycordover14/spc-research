@@ -35,6 +35,7 @@ tags:
 - healthcare
 sources:
 - src-20260422-d6ae9d
+- src-20261025-db0c8b
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---

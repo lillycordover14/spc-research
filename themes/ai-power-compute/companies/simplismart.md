@@ -60,6 +60,8 @@ sources:
 - src-20260804-e772d5
 - src-20250905-9d3aa9
 - src-20241024-c3f2ca
+- src-20261026-85bbe5
+- src-20261026-09b3d9
 data_quality: Seed card from Harmonic, pulled 2026-10-26. $16.3M total with a Series B label looks small; verify round history.
 updated: '2026-10-26'
 ---

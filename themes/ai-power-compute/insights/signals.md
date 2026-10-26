@@ -5,6 +5,7 @@ Dated, newest first, one line each, source id at the end. Funding, launches, cus
 - 2025-12-18 | FERC creates Non-Firm Contract Demand co-location service in PJM | src-20251218-ac2bd0
 - 2026-01-22 | a16z leads Inferact (vLLM) seed | src-20260122-e767e7
 - 2026-01-23 | Baseten $300M Series E at $5B led by IVP and CapitalG, NVIDIA participating | src-20260123-cfd280
+- 2026-02-17 | Bedrock RFT extended to GPT-OSS and Qwen with OpenAI-compatible APIs | src-20260217-9d071b
 - 2026-03-23 | Gimlet Labs $80M Series A led by Menlo; customers include a top frontier lab and a hyperscaler | src-20260323-a0cbfc
 - 2026-03-31 | Emerald AI $25M strategic round led by EIP; $68M total | src-20260331-dc28c2
 - 2026-04-02 | Soma Energy $7M seed led by Category Ventures; 2 GW optimized, five DC customers | src-20260402-51ffad
@@ -32,3 +33,4 @@ Dated, newest first, one line each, source id at the end. Funding, launches, cus
 - 2026-10-13 | Gimlet plans 100 MW of Cerebras-powered inference on Gimlet Cloud | src-20261013-6f3a28
 - 2026-10-14 | Modal $750M Series D at $15.75B; $1B annualized run rate; Sandboxes $300M run rate | src-20261014-63cf9c
 - 2026-10-20 | GridCARE Power Acceleration Index: 5 GW qualified with six utilities; up to 120 GW and $350B claimed | src-20261020-4957d3
+- 2026-10-26 | OpenAI winding down self-serve fine-tuning; existing customers can create jobs until Jan 6, 2027 | src-20261026-b9d8f5

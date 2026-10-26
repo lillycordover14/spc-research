@@ -87,6 +87,7 @@ sources:
 - src-20260723-741ec4
 - src-20251202-9b5fb9
 - src-20261013-6f3a28
+- src-20260512-bf65f3
 data_quality: Seed card from Harmonic, pulled 2026-10-26. Series A/B lead and amount from company posts [src-20260323-a0cbfc, src-20260904-a08d96]. Customers and pricing unverified.
 updated: '2026-10-26'
 ---

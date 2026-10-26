@@ -235,6 +235,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q9. Fine-tuning as a real budget line
 
+- 2026-10-26 | OpenAI is winding down self-serve fine-tuning; new users blocked, jobs allowed until Jan 6, 2027 | website, high | src-20261026-b9d8f5
 - 2026-10-25 | Baseten Loops SDK post-trains Muse Spark Open and deploys checkpoints straight to inference | X post, med | src-20261025-548e28
 - 2026-10-23 | Baseten Environment Network: RL environment partners plus Baseten training and deployment | X post, med | src-20261023-8cc4a2
 - 2026-10-21 | The RL stack involves iterative tweaking of model weights to align outputs with expected results, requiring fast, continuous feedback loops and specialized APIs from providers like Fireworks | alphasense, med | src-20261021-5156de
@@ -254,10 +255,13 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-06-30 | Rationale is data plus RL talent, supporting the view that post-training value sits with data owners | article, high | src-20260630-3abb4e
 - 2026-05-01 | Baseten CEO: almost all customers modify open models with their own data | podcast, med | src-20260501-1f0aeb
 - 2026-04-08 | Model is services-heavy agent training in customer environments | website, high | src-20260408-405ee6
+- 2026-02-17 | AWS Bedrock extends RFT to open-weight GPT-OSS and Qwen with OpenAI-compatible APIs | website, high | src-20260217-9d071b
 - 2025-12-01 | Adaptive ML: 50-90% cost savings vs frontier models; 4B RL-tuned model on par with GPT-4 at 7x lower latency | podcast, med | src-20251201-8903ad
 
 ## Q10. Open versus closed models
 
+- 2026-10-26 | RL pricing: OpenAI RFT $100 per training hour (o4-mini); Bedrock RFT $80 per training hour (gpt-oss-20b) | website, med | src-20261026-6cd07c
+- 2026-10-26 | Bedrock RFT pricing page: hourly training rate for gpt-oss-20b | website, med | src-20261026-916db7
 - 2026-09-30 | The majority of spend on open-source and fine-tuned models is with a managed inference provider, primarily for inference rather than post-training, with inference accounting for over 95% of usage | alphasense, med | src-20260930-1c36c0
 - 2026-09-30 | The expert values managed inference providers for their engineering focus on optimizing inference, which is seen as a key differentiator over neo cloud providers focused on training workloads | alphasense, med | src-20260930-1c36c0
 - 2026-09-30 | The company has shifted to a 70/30 split in volume between open-source/fine-tuned models and frontier models, with cost still weighted towards frontier models due to higher per-token expenses | alphasense, med | src-20260930-1c36c0
@@ -276,11 +280,14 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q12. Targets
 
+- 2026-10-26 | Simplismart: Invideo cut serving GPU cost 56% (about $29k per month) (vendor case study) | website, med | src-20261026-85bbe5
+- 2026-10-26 | Simplismart: Ema router latency 10s to 0.9s (vendor case study) | website, med | src-20261026-09b3d9
 - 2026-10-14 | Modal Sandboxes at $300M run rate is the direct comp for Sail Research's Sailboxes | article, high | src-20261014-63cf9c
 - 2026-09-04 | Gimlet is now an inference cloud operator with physical capacity, not only software; capital intensity rises | article, med | src-20260904-a08d96
 - 2026-08-25 | Sail founded December 2025, serving trillions of tokens a week from hundreds of data centers; cedes low-latency inference | podcast, med | src-20260825-e500eb
 - 2026-08-04 | Named Indian customers but no efficiency benchmark with baseline | article, med | src-20260804-e772d5
 - 2026-06-24 | Sail raised $80M (seed Sequoia, A Kleiner); customers Parallel, Detail.dev, Jack and Jill, Quadrillion | website, high | src-20260624-30f6ae
+- 2026-05-12 | Gimlet customer segments: frontier labs, hyperscalers, sovereigns, AI natives; 4x Pareto shift with d-Matrix plus B200 | article, med | src-20260512-bf65f3
 - 2026-03-23 | Named customer types (frontier lab, hyperscaler) but no named customers | article, med | src-20260323-a0cbfc
 - 2025-12-02 | Gimlet at about eight figures of revenue in Dec 2025, mostly via data center partners; cloud not yet launched | podcast, med | src-20251202-9b5fb9
 - 2025-09-05 | Simplismart CEO: 25% cost saved for one customer via rapid autoscaling; deployment on about 60 H100s | podcast, med | src-20250905-9d3aa9

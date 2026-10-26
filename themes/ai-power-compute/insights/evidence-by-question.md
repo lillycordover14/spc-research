@@ -48,6 +48,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-02-12 | Microgrid solutions combining multiple technologies (microturbines, fuel cells, renewables, battery storage) are preferred for their modularity, cost predictability, and reliability | alphasense, med | src-20260212-faabb1
 - 2026-02-12 | Levelized cost of electricity (LCOE) varies: Bloom Energy SOFCs are around 9-10¢/kWh, microturbines 7-8¢/kWh, and solar (with storage and land costs) 11-13¢/kWh; utility grid power remains the cheapest but is less reliable | alphasense, med | src-20260212-faabb1
 - 2026-02-12 | Energy-as-a-service models are becoming more popular, reducing operational burden and CapEx lock-in for customers, and allowing for more predictable power procurement | alphasense, med | src-20260212-faabb1
+- 2026-01-14 | Emerald CEO: US wants 50 GW of AI in three years but can plug in 25 GW | podcast, med | src-20260114-9f862d
 
 ## Q2. Data center interconnection
 
@@ -62,6 +63,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-09-28 | The selection of bridge power providers is opportunistic and driven by lead times, pricing, and proven ability to execute, with cost sensitivity lower than expected due to contractual structures with OEMs | alphasense, med | src-20260928-37c103
 - 2026-09-28 | All BTM power solutions for data centers, including turbines, recips, and fuel cells, require on-site battery energy storage systems (BESS) to handle rapid load swings from AI workloads | alphasense, med | src-20260928-37c103
 - 2026-09-24 | CAISO draft final proposal sets non-firm speed-to-power path; curtailment rules deferred | filing, med | src-20260924-fbbe33
+- 2026-09-20 | GridCARE models about 5% rate reduction per GW of added flexible load (company model) | podcast, med | src-20260920-7822a2
 - 2026-08-26 | PJM's independent market monitor called data center flexibility a 'regulatory fiction' (host, Volts) | podcast, high | src-20260826-03722b
 - 2026-08-03 | U.S. utilities operate on a regulated asset base model, historically designed for slow, predictable growth, but are now facing rapid, unpredictable demand from data centers and electrification trends | alphasense, med | src-20260803-e9026c
 - 2026-08-03 | There is no uniform national policy yet; states are taking varied approaches, with some welcoming data centers and others imposing moratoriums or requiring 'bring your own generation' (BYOG) solutions | alphasense, med | src-20260803-e9026c
@@ -120,6 +122,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-10-14 | Emerald's spatial flexibility, moving workloads between regions, adds value for operators with geographically distributed AI clusters, but is limited by data locality, GPU availability, and integration complexity | alphasense, med | src-20261014-d1112c
 - 2026-10-14 | Emerald differentiates itself by orchestrating AI workloads as flexible grid resources, enabling data centers to offer demand flexibility and potentially accelerate grid interconnection timelines | alphasense, med | src-20261014-d1112c
 - 2026-10-02 | SCE study with GridCARE found potential 20 MW of flexible capacity on a constrained circuit | article, med | src-20261002-e720dd
+- 2026-09-20 | GridCARE: PGE 400 MW for five data centers on flexible interconnection agreements; peak risk 40 to 70 hours a year | podcast, med | src-20260920-7822a2
 - 2026-09-16 | The pilot with Emerald involved controlling a data center's compute load in response to real-time grid events, successfully demonstrating rapid and reliable response to grid operator instructions over several days | alphasense, med | src-20260916-064af8
 - 2026-09-16 | The expert emphasized that utilities are primarily driven by regulatory incentives and are less likely to pay for solutions like Emerald unless incentivized by regulation; data centers are the clearer initial customers | alphasense, med | src-20260916-064af8
 - 2026-09-16 | The competitive landscape is nascent, with potential for consolidation and a need for solutions that manage both compute load and behind-the-meter power, especially as backup power requirements evolve | alphasense, med | src-20260916-064af8
@@ -141,7 +144,9 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-08-25 | First utility tariff-style program trading grid access for flexibility (Silicon Valley Power) answers part of the flexible-load question | article, high | src-20260825-62437e
 - 2026-05-14 | Grid utilization ~30% (Stanford, cited) frames latent capacity thesis | article, high | src-20260514-d7ee00
 - 2026-03-26 | Camus, Princeton ZERO Lab and encoord modeling: flexibility needed at most about 4% of hours, unlock on the order of 30% | podcast, med | src-20260326-771e89
+- 2026-03-19 | Emerald says a grid test cut an AI cluster 35% in 30 seconds; working with National Grid in the UK | podcast, med | src-20260319-960dc9
 - 2026-03-02 | EPRI DCFlex: up to 40% reduction with sub-minute response; about 100 MW Aurora project | research, high | src-20260302-a34f1a
+- 2026-01-14 | Emerald CEO: grid hits peak congestion under 1% of the time; Oracle Phoenix GPUs cut 25% | podcast, med | src-20260114-9f862d
 - 2025-02-01 | Duke: 76 GW headroom at 0.25% curtailment, 98 GW at 0.5%, 126 GW at 1.0%; average event 1.7 to 2.5 hours; 88% of curtailment hours retain at least half of load | market-research, high | src-20250201-ccc248
 
 ## Q4. Enterprise view of the bottleneck
@@ -149,6 +154,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q5. Inference demand
 
+- 2026-10-16 | Sail CEO predicts async could be 95% or more of inference demand (founder view) | podcast, med | src-20261016-e74533
 - 2026-08-13 | Datadog: inference is becoming the bigger part of AI workloads | earnings call, med | src-20260813-44037d
 - 2026-05-01 | Host: Baseten expects more than $1B revenue this year after 30x scale; CEO cites about 400% NDR and no top-30 churn | podcast, med | src-20260501-1f0aeb
 - 2026-04-29 | Alphabet processes 16B tokens per minute; TPU 8i 80% better performance per dollar | earnings call, high | src-20260429-ed9e1e
@@ -195,6 +201,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q8. Heterogeneous hardware
 
+- 2026-10-16 | Sail prices workloads across NVIDIA, AMD, Intel, TPU and Trainium: no bad chips, only bad prices | podcast, med | src-20261016-e74533
 - 2026-10-13 | Gimlet adds Cerebras to Gimlet Cloud, plans 100 MW of Cerebras capacity, targets 3,000 tok/s | article, med | src-20261013-6f3a28
 - 2026-09-14 | Open-source tools such as Triton (compiler), vLLM, and SGLang (schedulers) are commonly used for benchmarking and are preferred due to their flexibility and community support | alphasense, med | src-20260914-28316c
 - 2026-09-14 | Kernel compilation for heterogeneous hardware is less optimized than vendor-specific compilers, resulting in performance trade-offs, but can offer significant cost savings | alphasense, med | src-20260914-28316c
@@ -268,6 +275,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-06-24 | Sail raised $80M (seed Sequoia, A Kleiner); customers Parallel, Detail.dev, Jack and Jill, Quadrillion | website, high | src-20260624-30f6ae
 - 2026-03-23 | Named customer types (frontier lab, hyperscaler) but no named customers | article, med | src-20260323-a0cbfc
 - 2025-12-02 | Gimlet at about eight figures of revenue in Dec 2025, mostly via data center partners; cloud not yet launched | podcast, med | src-20251202-9b5fb9
+- 2025-09-05 | Simplismart CEO: 25% cost saved for one customer via rapid autoscaling; deployment on about 60 H100s | podcast, med | src-20250905-9d3aa9
 
 ## Q13. Valuation versus fit
 

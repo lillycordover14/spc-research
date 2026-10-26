@@ -26,6 +26,21 @@ For every source and call, note which world the evidence points to; the readout 
 
 ### World tally
 <!-- one line per source or call, newest first: `<date> <source> -> world N because ... [src-id]` -->
+- 2026-10-20 ElevenLabs research engineer call -> world 4 because Fireworks and Baseten run text models in parallel behind a custom gateway, voice kept in-house [src-20261020-b4cff8]
+- 2026-10-19 OpenEvidence ML engineer call -> world 4 because Baseten carries production inference and switching to Fireworks is minor code changes [src-20261019-494f8d]
+- 2026-10-14 Modal Series D post -> world 4 because a serverless cloud reached $1B run rate on a 20+ cloud capacity pool [src-20261014-63cf9c]
+- 2026-09-30 OpenEvidence ML engineer call -> world 4 because 70% of volume is open or fine-tuned models on a managed inference provider [src-20260930-1c36c0]
+- 2026-09-14 Intel performance architect call -> world 5 (weak) because workloads are locked to single-vendor stacks today and Gimlet/Modular tools are not yet standard; adoption hinges on proven tokens per dollar [src-20260914-28316c]
+- 2026-09-09 DirecTV data scientist call -> world 4 because Fireworks then Baseten were selected on price-performance; switch only at 30%+ cost increase [src-20260909-ebd6d1]
+- 2026-09-04 Gimlet Series B post -> world 5 because heterogeneous disaggregation is sold to frontier labs with billions in contracted revenue (company claim) [src-20260904-a08d96]
+- 2026-08-19 d-Matrix principal engineer call -> world 5 because Gimlet is seen as the neutral layer for mixed accelerators [src-20260819-e49885]
+- 2026-08-09 Cerebras senior member call -> world 5 because value is raising utilization by placing prefill and decode on different hardware [src-20260809-79a0d9]
+- 2026-08-07 Former Groq VP call -> world 1 because NVIDIA aims to control the stack (Vera Rubin) and switching off NVIDIA is extremely hard [src-20260807-b6b235]
+- 2026-06-22 Baseten Series F post -> world 4 because revenue grew 20x and inference volume 40x, with post-training bundled in [src-20260622-4e261f]
+- 2026-01-23 Baseten Series E post -> world 4 because NVIDIA invested in a neutral inference cloud [src-20260123-cfd280]
+- 2026-01-22 a16z Inferact post -> world 5 because vLLM runs on 400k+ GPUs across hardware, open source sets the serving floor [src-20260122-e767e7]
+
+Running count: world 1: 1, world 2: 0, world 3: 0, world 4: 7, world 5: 5. No source yet tests worlds 2 or 3.
 
 ## 3. Efficiency test (for every inference or post-training target)
 Capture: the unit of improvement (tokens per dollar, tokens per watt, latency at a given throughput, GPU utilization), the benchmark and baseline, the hardware, whether customers confirm it, and what happens to the gain when open source catches up. A target passes if the gain is customer-verified and comes from something that compounds (kernels, scheduling, workload data, RL environments).

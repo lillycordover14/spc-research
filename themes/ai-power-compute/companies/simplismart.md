@@ -71,10 +71,12 @@ Candidate tests: investable-stage (clearest fit), enterprise-customers (in-VPC d
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-08-04 | ~$9M Series B led by Dallas VC per filings; FY25 revenue Rs 1.22 crore, loss Rs 9.02 crore; customers Tata 1mg, Mindtickle, InVideo, Dashtoon | src-20260804-e772d5
 - 2026-08-04 — Series B; $16.3M raised to date [Harmonic]
 
 ## Economics (what we know)
 <!-- Pricing unit, gross margin after compute pass-through, efficiency gain vs baseline (framework.md sections 3-4), ACV -->
+FY25 revenue about Rs 1.22 crore [src-20260804-e772d5]. No efficiency benchmark with baseline found.
 
 ## Open questions
 - Customers and production workloads?

@@ -12,7 +12,7 @@ model: unknown
 what: Serverless inference for AI agents and multi-agent systems; kforge autonomously generates optimized low-level kernels from PyTorch across hardware backends; research on dynamic scheduling and orchestration of AI workloads to hit performance and cost targets.
 fit: []
 stage: series-b
-total_raised_usd: 404300000
+total_raised_usd: 392000000
 last_round:
   date: '2026-09-04'
   amount_usd: null
@@ -84,7 +84,7 @@ sources:
 - src-20260914-28316c
 - src-20260323-a0cbfc
 - src-20260904-a08d96
-data_quality: Seed card from Harmonic, pulled 2026-10-26. Round detail (lead, amount) not available. Customers and pricing unverified.
+data_quality: Seed card from Harmonic, pulled 2026-10-26. Series A/B lead and amount from company posts [src-20260323-a0cbfc, src-20260904-a08d96]. Customers and pricing unverified.
 updated: '2026-10-26'
 ---
 
@@ -97,10 +97,14 @@ Candidate tests: hardware-agnostic, efficiency-moat, eases-bottleneck. Valuation
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-09-04 | $300M Series B led by a16z at $3B; company says total raised $392M (Harmonic says $404.3M, unresolved); billions in contracted revenue, scaling to hundreds of MW managed capacity | src-20260904-a08d96
+- 2026-08-19 | d-Matrix principal engineer: Fireworks, Together, Baseten have not announced similar heterogeneous orchestration | src-20260819-e49885
+- 2026-03-23 | $80M Series A led by Menlo; customer base tripled, includes a top frontier lab and a hyperscaler | src-20260323-a0cbfc
 - 2026-09-04 — Series B; $404.3M raised to date at a $3B valuation [Harmonic]
 
 ## Economics (what we know)
 <!-- Pricing unit, gross margin after compute pass-through, efficiency gain vs baseline (framework.md sections 3-4), ACV -->
+Efficiency test: company claims 3-10x (A) and 5-10x for the same power footprint (B); no baseline hardware, model or customer verification published [src-20260323-a0cbfc, src-20260904-a08d96]. Former Groq VP sets a 50%+ savings bar to win switching [src-20260807-b6b235]. Pricing and gross margin unknown; Gimlet now operates capacity, so margins look like a cloud's.
 
 ## Open questions
 - Customers and production workloads?

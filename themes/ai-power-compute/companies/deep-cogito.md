@@ -66,6 +66,7 @@ Candidate tests: open-models positioning (Q10), investable-stage. Key question: 
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-08-26 | $43M Series A led by TQ Ventures; >$56M total; open-weight models 3B to 600B+ | src-20260826-50c34c
 - 2026-08-26 — Series A; $56M raised to date [Harmonic]
 
 ## Economics (what we know)

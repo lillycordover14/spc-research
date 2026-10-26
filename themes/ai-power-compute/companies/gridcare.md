@@ -66,10 +66,12 @@ Candidate tests: eases-bottleneck, investable-stage ($347M valuation).
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-05-14 | $64M Series A led by Sutter Hill and John Doerr; PGE Hillsboro path to 400+ MW, first 80 MW in 2026; 2+ GW pipeline across 12+ markets | src-20260514-d7ee00
 - 2026-05-14 — Latest round; $77.5M raised to date at a $347M valuation [Harmonic]
 
 ## Economics (what we know)
 <!-- Pricing unit, gross margin after compute pass-through, efficiency gain vs baseline (framework.md sections 3-4), ACV -->
+Power test: 80 MW in 2026 with PGE is the one utility-committed figure; 400 MW and 2 GW are pathway and pipeline [src-20260514-d7ee00]. Former Meta supply chain manager is cautiously optimistic [src-20260528-aa6bad].
 
 ## Open questions
 - Utilities signed and MW delivered?

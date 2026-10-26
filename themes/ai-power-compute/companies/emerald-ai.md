@@ -82,10 +82,13 @@ Candidate tests: eases-bottleneck (MW unlocked, months saved), owns-scarce-asset
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-08-25 | $150M Series A at $1.05B co-led by Energize and DCVC; commercial deployment at a full California DC; Silicon Valley Power Flexible Load Interconnection Program; ~100 MW Manassas Vera Rubin factory with Dominion and PJM | src-20260825-62437e
+- 2026-03-31 | $25M strategic round led by EIP; $68M total in 16 months | src-20260331-dc28c2
 - 2026-08-25 — Latest round; $224.8M raised to date at a $1.1B valuation [Harmonic]
 
 ## Economics (what we know)
 <!-- Pricing unit, gross margin after compute pass-through, efficiency gain vs baseline (framework.md sections 3-4), ACV -->
+Power test: Silicon Valley Power program grants expanded grid access for verified dispatchable flexibility, the first utility-accepted mechanism in our sources; MW energized through Emerald not disclosed [src-20260825-62437e]. 100 GW headroom is a company claim.
 
 ## Open questions
 - MW unlocked and utilities/ISOs that accepted it? (framework.md section 4)

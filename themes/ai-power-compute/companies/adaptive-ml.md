@@ -68,6 +68,7 @@ Not a target. Exit comp.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-06-30 | Acquired by Datadog into Datadog AI Research; terms not disclosed | src-20260630-3abb4e
 - 2026-07-01 — Acquired by Datadog [Harmonic]
 
 ## Economics (what we know)

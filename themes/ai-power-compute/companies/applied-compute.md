@@ -78,10 +78,13 @@ Candidate tests: enterprise-customers, efficiency-moat (RL environments per cust
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-04-08 | $80M at $1.3B post led by Kleiner; $160M total | src-20260408-405ee6
+- 2026-10-20 | DoorDash ML manager sees potential; cited 5-6x cheaper (see source) | src-20261020-9ee336
 - 2026-09-18 — Series C; $512.8M raised to date at a $3.3B valuation [Harmonic]
 
 ## Economics (what we know)
 <!-- Pricing unit, gross margin after compute pass-through, efficiency gain vs baseline (framework.md sections 3-4), ACV -->
+Specific Intelligence trained in customer environment; services-heavy. Sep 2026 round ($3.3B, Harmonic) lacks a primary source.
 
 ## Open questions
 - Customers and production workloads?

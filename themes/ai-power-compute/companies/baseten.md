@@ -57,10 +57,15 @@ Benchmark for world 4 (neutral inference clouds).
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-06-22 | $1.5B Series F led by Altimeter, Conviction, Spark; revenue 20x and inference volume 40x YoY; customers include Cursor, Notion, Lovable, Harvey, HubSpot, OpenEvidence, Abridge, Decagon | src-20260622-4e261f
+- 2026-01-23 | $300M Series E at $5B led by IVP and CapitalG, NVIDIA participating | src-20260123-cfd280
+- 2026-10-19 | OpenEvidence ML engineer: Baseten carries production inference; moving to Fireworks would be minor code changes | src-20261019-494f8d
+- 2026-09-09 | DirecTV: Fireworks first, Baseten added for custom deployments; would switch only at 30%+ cost increase | src-20260909-ebd6d1
 
 
 ## Economics (what we know)
 <!-- Pricing unit, gross margin after compute pass-through, efficiency gain vs baseline (framework.md sections 3-4), ACV -->
+Low switching costs per two customer calls [src-20261019-494f8d, src-20261020-b4cff8]; stickiness looks like price-performance plus reliability, not lock-in. Gross margin after GPU pass-through not disclosed. Past Series C, treat as incumbent benchmark.
 
 ## Open questions
 - Revenue scale, gross margin, GPU ownership vs rental?

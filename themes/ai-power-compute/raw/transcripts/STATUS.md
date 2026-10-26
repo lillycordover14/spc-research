@@ -35,3 +35,5 @@ All free: publisher transcripts first, else YouTube auto captions (en-orig) via 
 | yt:cvNO9pZAhM0 | YouTube auto captions via yt-dlp | pending | 0 | Odd Lots, data center financing: YouTube bot-check / HTTP 429 after retries with backoff; no free transcript found yet; run 3 spaced retry still queued at report time |
 | yt:OcxupZZsGj0 | yt-dlp android captions | filed | 4304 | GridCARE Data Center Richness |
 | pod:DCD-ZeroDowntime-ep91 (GridCARE) | whisper small.en | failed | ~150 | transcript garbled, not filed |
+| pod:a16z-Inside-vLLM-2026-08-06 | whisper small.en | failed | ~1900 | transcript garbled, not filed |
+| yt:FeS1th1Jz8A,nDr6cZtnOY0,lQlO5Cb6_n8,t0F6vzJhKH0,yd3a4cYINzk,XGS3Hs_Rk14,7PSXtru6mmY,p6R_EeLheA4,cvNO9pZAhM0 | yt-dlp android/tv/web_safari | blocked | 0 | 429 or page reload; loop stopped 2026-10-26 11:03 CT |

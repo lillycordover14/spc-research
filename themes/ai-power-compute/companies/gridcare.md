@@ -47,7 +47,12 @@ match_context:
 - capacity
 - utility
 - interconnect
-sources: []
+sources:
+- src-20260528-aa6bad
+- src-20260603-7dc891
+- src-20260604-1f85ef
+- src-20260831-5ca620
+- src-20260514-d7ee00
 data_quality: Seed card from Harmonic, pulled 2026-10-26. Already in SPC's pipeline deck spotlight pages; link that page.
 updated: '2026-10-26'
 ---

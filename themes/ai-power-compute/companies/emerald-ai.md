@@ -57,7 +57,18 @@ match_context:
 - flexib
 - sivaram
 - load
-sources: []
+sources:
+- src-20260528-aa6bad
+- src-20260909-19a68e
+- src-20260916-064af8
+- src-20261014-d1112c
+- src-20261014-9f536d
+- src-20261015-1b72b8
+- src-20261026-71d413
+- src-20261026-7c85c9
+- src-20260803-e9026c
+- src-20260825-62437e
+- src-20260331-dc28c2
 data_quality: Seed card from Harmonic, pulled 2026-10-26. SPC has prior diligence material on Emerald AI (dataroom review skill); link those notes.
 updated: '2026-10-26'
 ---

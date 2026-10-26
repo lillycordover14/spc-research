@@ -51,7 +51,8 @@ match_context:
 - 'ai '
 - artificial intelligence
 - llm
-sources: []
+sources:
+- src-20260826-50c34c
 data_quality: Seed card from Harmonic, pulled 2026-10-26. Open-weight release history and enterprise usage unverified.
 updated: '2026-10-26'
 ---

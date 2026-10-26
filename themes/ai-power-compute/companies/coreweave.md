@@ -30,7 +30,8 @@ status: incumbent
 spc_owner: Lilly
 tags:
 - incumbent
-sources: []
+sources:
+- src-20261015-93d177
 data_quality: Benchmark card, unsourced; numbers only with source ids.
 updated: '2026-10-26'
 ---

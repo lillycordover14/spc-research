@@ -77,7 +77,13 @@ match_context:
 - 'ai '
 - asgar
 - artificial intelligence
-sources: []
+sources:
+- src-20260807-b6b235
+- src-20260809-79a0d9
+- src-20260819-e49885
+- src-20260914-28316c
+- src-20260323-a0cbfc
+- src-20260904-a08d96
 data_quality: Seed card from Harmonic, pulled 2026-10-26. Round detail (lead, amount) not available. Customers and pricing unverified.
 updated: '2026-10-26'
 ---

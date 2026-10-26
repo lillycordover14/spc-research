@@ -56,7 +56,8 @@ match_context:
 - artificial intelligence
 - genai
 - generative
-sources: []
+sources:
+- src-20260804-e772d5
 data_quality: Seed card from Harmonic, pulled 2026-10-26. $16.3M total with a Series B label looks small; verify round history.
 updated: '2026-10-26'
 ---

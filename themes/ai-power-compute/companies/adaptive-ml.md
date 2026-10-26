@@ -53,7 +53,8 @@ match_context:
 - model
 - launay
 - fine-tun
-sources: []
+sources:
+- src-20260630-3abb4e
 data_quality: 'From Harmonic, pulled 2026-10-26. No longer investable: acquired by Datadog. Kept as the exit comp for post-training (Q15). ''what'' description of the product is from Lilly''s brief context and needs a source; Harmonic only says ''now part of Datadog''.'
 updated: '2026-10-26'
 ---

@@ -36,7 +36,10 @@ match_context:
 - model
 - gpu
 - 'ai '
-sources: []
+sources:
+- src-20260819-e49885
+- src-20260909-ebd6d1
+- src-20261020-b4cff8
 data_quality: Benchmark card, unsourced. Fill stage, funding and numbers from sources.
 updated: '2026-10-26'
 ---

@@ -18,6 +18,7 @@ people: []
 layers:
 - precision-parts
 tags:
+- must-read
 - expert-call
 - alphasense
 summary: 'Head of Supply Chain and Quality Management at a major aerospace and defense company, with experience in civil and military aircraft, UAVs, ground systems, launchers, and satellites, specializing in procurement and quality control of high precision mechanical parts. The conversation covered the structure and challenges of the aerospace and defense supply chain for high precision CNC parts, supplier selection criteria, current pain points, and the relevance of decentralized contract manufacturing networks for critical and non-critical components. Believes that the traditional, centralized manufacturing and procurement model will remain dominant for critical aerospace and defense components due to stringent qualification and traceability requirements. Views decentralized, software-driven contract manufacturing networks as currently more suitable for rapid prototyping, short series, and non-critical parts, with limited penetration in large OEMs. [Script-generated, not human-read.

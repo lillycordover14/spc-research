@@ -1,5 +1,7 @@
 # Best of: AI-native industrial production
 
+**Start here: [Must-read sources](must-read-sources.md)** (re-flagged 2026-10-25)
+
 Curated guide to the strongest sources in this theme. Every flagged source carries the `must-read` tag (filter: `grep -l 'must-read' sources/*/*.md`). Facts below come only from records in this repo; nothing on this page has been checked beyond them. Updated 2026-10-22.
 
 - [Producers comparison: 15 deep dives + long tail](producers-comparison.md)

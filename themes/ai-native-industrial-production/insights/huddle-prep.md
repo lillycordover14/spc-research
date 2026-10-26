@@ -1,5 +1,7 @@
 # Huddle prep: Wed/Thu Oct 28–29, 2026
 
+**Start here: [Must-read sources](must-read-sources.md)** (re-flagged 2026-10-25)
+
 Category: companies that run their own plants on in-house software and robotics. **A** = owner-operators that sell parts or material; **B** = software platforms used in plants owned by others.
 Her four questions: **Q1** repeat production orders · **Q2** right to win and whether it compounds · **Q3** Series B–D producers beyond Arda · **Q4** expert calls (Mariana, Machina, Radical AI, Arda).
 Supporting docs: [raising-now](raising-now.md) · [repeat-orders-evidence](repeat-orders-evidence.md) · [unit-economics](unit-economics.md) · [failures-and-pivots](failures-and-pivots.md) · [incumbents-vs-ai-native](incumbents-vs-ai-native.md) · [comments-aggregate](comments-aggregate.md)

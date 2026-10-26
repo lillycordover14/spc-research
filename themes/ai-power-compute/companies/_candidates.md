@@ -11,3 +11,5 @@ Promote with `make new-company THEME=apc name="..."` once there are 2 independen
 - 2026-10-26 | Piq Energy | grid-interconnection | Reported $5M seed, grid flexibility; page fetch failed, needs primary | none yet | grokbot
 - 2026-10-26 | encoord | grid-interconnection | Reported $2M seed, grid planning software; needs primary | none yet | grokbot
 - 2026-10-26 | Phaidra, Heron Power, VoltaGrid, Corintis, Fabric8Labs, Giga Energy, Camus, Verrus | mixed | Named in Drive expert calls; stage and evidence not checked | see sources/alphasense | grokbot
+
+- vistra, vertiv, snowflake: incumbent context from run 4 earnings calls (src-20260814-3047e8, src-20260807-2b0061, src-20260909-61633d); not targets.

@@ -53,9 +53,12 @@ For every source and call, note which world the evidence points to; the readout 
 - 2026-04-29 Alphabet Q1 call -> world 2 because TPU 8i and 16B tokens per minute run on Google's own stack (also world 3 via lab TPU deals) [src-20260429-ed9e1e]
 - 2026-01-23 Baseten Series E post -> world 4 because NVIDIA invested in a neutral inference cloud [src-20260123-cfd280]
 - 2026-01-22 a16z Inferact post -> world 5 because vLLM runs on 400k+ GPUs across hardware, open source sets the serving floor [src-20260122-e767e7]
+- 2026-07-22 Alphabet Q2 call -> world 2 because model APIs hit 22B tokens per minute on Google's own stack [src-20260722-d9fefd]
+- 2026-07-22 Alphabet Q2 call -> world 3 because TPU systems were sold into customer data centers for the first time [src-20260722-d9fefd]
+- 2026-10-26 Fireworks site -> world 4 because a neutral inference platform claims 10,000+ companies, distributed via Azure Foundry [src-20261026-505f9f]
 <!-- one line per source or call, newest first: `<date> <source> -> world N because ... [src-id]` -->
 
-Running count: world 1: 2, world 2: 4, world 3: 3, world 4: 11, world 5: 8. Run 3 earnings calls added the first world 2 and world 3 evidence; Google counts as world 2 with a world 3 note.
+Running count: world 1: 2, world 2: 5, world 3: 4, world 4: 12, world 5: 8. Run 3 earnings calls added the first world 2 and world 3 evidence; Google counts as world 2 with a world 3 note.
 
 ## 3. Efficiency test (for every inference or post-training target)
 Capture: the unit of improvement (tokens per dollar, tokens per watt, latency at a given throughput, GPU utilization), the benchmark and baseline, the hardware, whether customers confirm it, and what happens to the gain when open source catches up. A target passes if the gain is customer-verified and comes from something that compounds (kernels, scheduling, workload data, RL environments).

@@ -33,3 +33,4 @@ All free: publisher transcripts first, else YouTube auto captions (en-orig) via 
 | yt:7PSXtru6mmY | YouTube auto captions via yt-dlp | pending | 0 | Latent Space video, Baseten (publisher transcript used): YouTube bot-check / HTTP 429 after retries with backoff; no free transcript found yet; run 3 spaced retry still queued at report time |
 | yt:p6R_EeLheA4 | YouTube auto captions via yt-dlp | pending | 0 | vLLM / llm-d, Rob Shaw: YouTube bot-check / HTTP 429 after retries with backoff; no free transcript found yet; run 3 spaced retry still queued at report time |
 | yt:cvNO9pZAhM0 | YouTube auto captions via yt-dlp | pending | 0 | Odd Lots, data center financing: YouTube bot-check / HTTP 429 after retries with backoff; no free transcript found yet; run 3 spaced retry still queued at report time |
+| yt:OcxupZZsGj0 | yt-dlp android captions | filed | 4304 | GridCARE Data Center Richness |

@@ -30,11 +30,13 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-10-11 | Heron Power's Heron Link integrates inverter and transformer functions into a single, compact unit, simplifying installation and potentially improving efficiency for data center battery energy storage systems | alphasense, med | src-20261011-0e1259
 - 2026-10-11 | Heron Link claims round-trip efficiency improvements, with potential RTE of 98-98.5% compared to 93-94% for incumbent solutions, and 25% lower idle power consumption | alphasense, med | src-20261011-0e1259
 - 2026-10-09 | FERC accepted PJM's 50 MW large-load definition and registry but rejected the rest; PJM says it is short of capacity from 2027/28 | filing, high | src-20261009-8ee3c9
+- 2026-09-16 | GE Vernova selling turbine slots for 2032 delivery; added 12 GW supply for 2030-31 | filing, med | src-20260916-4be490
 - 2026-09-11 | ERCOT paused energization of new large-load data centers during Batch Zero | filing, high | src-20260911-435867
 - 2026-08-26 | NVIDIA prices its opportunity per GW: about $18B Hopper, $25B Blackwell, $40B Vera Rubin | filing, high | src-20260826-7aa6b5
 - 2026-08-11 | CoreWeave raised prices about 25% across SKUs in July; 1.5 GW active, 4.2 GW contracted, target 8 GW+ by 2030 | filing, high | src-20260811-4fafb8
 - 2026-08-07 | Microsoft added about 1 GW in the quarter on $41B capex | earnings call, high | src-20260807-235a16
 - 2026-08-05 | Sivaram: one state wants 50 GW online by 2028 but only 25 GW can be built | podcast, med | src-20260805-572c12
+- 2026-07-22 | GE Vernova: 116 GW gas under contract, about 20% data centers; at least 125 GW by year end | filing, high | src-20260722-3da614
 - 2026-07-19 | Transformer lead times have increased dramatically post-pandemic, with large power transformers now taking over two years, and prices have surged 65%-90% compared to pre-COVID levels | alphasense, med | src-20260719-ffdc30
 - 2026-07-19 | The primary bottleneck for data center buildouts is access to power generation, followed by skilled labor, with transformers being a significant but not the sole constraint | alphasense, med | src-20260719-ffdc30
 - 2026-07-19 | The expert predicts a major industry shift toward 800 VDC data center architecture and solid state transformers, with Tier 1 OEMs already prepared for this transition, and expects this to become standard by 2028 | alphasense, med | src-20260719-ffdc30
@@ -65,6 +67,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-09-24 | CAISO draft final proposal sets non-firm speed-to-power path; curtailment rules deferred | filing, med | src-20260924-fbbe33
 - 2026-09-20 | GridCARE models about 5% rate reduction per GW of added flexible load (company model) | podcast, med | src-20260920-7822a2
 - 2026-08-26 | PJM's independent market monitor called data center flexibility a 'regulatory fiction' (host, Volts) | podcast, high | src-20260826-03722b
+- 2026-08-14 | Vistra: ERCOT queue of over 400 GW is realistically 12-15 GW by 2030 | filing, high | src-20260814-3047e8
 - 2026-08-03 | U.S. utilities operate on a regulated asset base model, historically designed for slow, predictable growth, but are now facing rapid, unpredictable demand from data centers and electrification trends | alphasense, med | src-20260803-e9026c
 - 2026-08-03 | There is no uniform national policy yet; states are taking varied approaches, with some welcoming data centers and others imposing moratoriums or requiring 'bring your own generation' (BYOG) solutions | alphasense, med | src-20260803-e9026c
 - 2026-08-03 | The expert expects most new data center power to come from natural gas over the next 5-10 years, with short-term price spikes likely due to global events, and sees the biggest beneficiaries as integrators who can deliver turnkey power solutions (combining turbines, batteries, and controls) to data centers | alphasense, med | src-20260803-e9026c
@@ -151,11 +154,15 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q4. Enterprise view of the bottleneck
 
+- 2026-09-09 | Snowflake AI Data Cloud supports over 41% of the Global 2000 (enterprise AI where data sits) | filing, med | src-20260909-61633d
 
 ## Q5. Inference demand
 
+- 2026-10-26 | Fireworks site: 10,000+ companies; distributed via Azure Foundry (UiPath) | website, med | src-20261026-505f9f
+- 2026-10-26 | Baseten site: Speechify cut costs 44% (customer claim on vendor site) | website, med | src-20261026-4d6360
 - 2026-10-16 | Sail CEO predicts async could be 95% or more of inference demand (founder view) | podcast, med | src-20261016-e74533
 - 2026-08-13 | Datadog: inference is becoming the bigger part of AI workloads | earnings call, med | src-20260813-44037d
+- 2026-07-22 | Alphabet: model APIs at about 22B tokens per minute, up from 16B a quarter earlier; still supply constrained | filing, high | src-20260722-d9fefd
 - 2026-05-01 | Host: Baseten expects more than $1B revenue this year after 30x scale; CEO cites about 400% NDR and no top-30 churn | podcast, med | src-20260501-1f0aeb
 - 2026-04-29 | Alphabet processes 16B tokens per minute; TPU 8i 80% better performance per dollar | earnings call, high | src-20260429-ed9e1e
 
@@ -222,6 +229,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-08-07 | Gimlet's approach as a software orchestration layer for heterogeneous AI hardware is interesting, but faces tough competition from established players, especially as companies like NVIDIA expand their stack with initiatives like Vera Rubin | alphasense, med | src-20260807-b6b235
 - 2026-08-07 | Convincing customers to switch from incumbents like NVIDIA is extremely difficult, even with superior technology, due to entrenched relationships and risk aversion | alphasense, med | src-20260807-b6b235
 - 2026-07-23 | Gimlet CEO: about 4-5x capacity for the same cost, goal of 10x (company claim) | podcast, med | src-20260723-741ec4
+- 2026-07-22 | Alphabet delivered first TPU system sales into customer data centers; vLLM and SGLang supported on TPUs | filing, high | src-20260722-d9fefd
 - 2026-03-23 | 3-10x claim is on >1T param models, same power envelope; baseline unstated | article, med | src-20260323-a0cbfc
 - 2025-12-02 | Gimlet CEO: kernel gains vs best-in-class are single digits to 20-30%; most gain must come from placement | podcast, med | src-20251202-9b5fb9
 
@@ -297,5 +305,8 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q16. Who to call
 
+- 2026-04-21 | GridCARE CEO: customers are hyperscalers, neoclouds, powered land providers, PE-backed colos; found 400 MW in one market | podcast, med | src-20260421-e5221e
 
 ## Q17. Our view
+
+- 2026-04-21 | GridCARE CEO: no utility studied was over 50% utilized (company claim) | podcast, med | src-20260421-e5221e

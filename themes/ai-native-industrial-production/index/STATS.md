@@ -1,4 +1,4 @@
-# Index stats — AI-native industrial production — 2026-10-25
+# Index stats — AI-native industrial production — 2026-10-26
 
 - sources: 1421  | companies: 134 | people: 16
 

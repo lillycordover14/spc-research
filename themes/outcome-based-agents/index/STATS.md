@@ -1,4 +1,4 @@
-# Index stats — Outcome-based agents and agentic orchestration — 2026-10-25
+# Index stats — Outcome-based agents and agentic orchestration — 2026-10-26
 
 - sources: 354  | companies: 44 | people: 0
 

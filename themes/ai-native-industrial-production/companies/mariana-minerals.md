@@ -86,6 +86,7 @@ sources:
 - src-20260803-423f7a
 - src-20260806-7aefa9
 - src-20260407-a5a1b0
+- src-20261024-c53370
 data_quality: 'Official Aug 3 2026 release does not disclose valuation; $1.5B appears in Harmonic and secondary coverage (Dealroom, KuCoin headlines). Total raised: release says ~$400M parent plus project capital (Harmonic had $395M). Headcount 206 and CFO/CTO names are from Harmonic, not from the press sources ingested here. Investmets interview date approximated to 2026-08-05.'
 updated: '2026-10-22'
 match_context:
@@ -112,6 +113,7 @@ Mariana Minerals builds and operates its own mines and refineries for critical m
 - Net: the 'rebuild US refining' benchmark for the metals-supply layer. Fits every test except that at $310M Series B and ~$1.5B valuation it is a benchmark rather than an SPC entry point; nothing is yet producing at target scale.
 
 ## Traction and signals
+- 2026-10-24: Co-founder Juan Lozano interview: fourth suite Biz OS; autonomy partly via partner firms over CAN bus; VC funds R&D, most mine capex from separate project investors; East Texas lithium to an unnamed battery company, ramp next year; 10 projects goal, two today (company claims, agent transcription) [src-20261024-c53370]
 - 2026-08-13: Utah site to ramp to ~300 staff vs ~130 peak under prior operator [src-20260813-1fe8a2]
 - 2026-06-23: ~250 staff (20% software/ML); Utah copper restart ~50% autonomous, no-human pit targeted end-2026/Q1 2027; RL agents in process control loop; Select Water lithium partnership [src-20260623-d1790b]
 - 2026-05-02: Targets 30% lower refining, 40-50% lower mining cost; 50,000 t/yr refined copper goal; ~$100M raised [src-20260502-21f16a]

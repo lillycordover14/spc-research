@@ -26,6 +26,7 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20261022-1389b7
+- src-20261007-c6f64e
 data_quality: 'created by grokbot for incumbents-vs-ai-native; threat view: Med'
 updated: '2026-10-22'
 ---

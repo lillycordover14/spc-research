@@ -30,6 +30,7 @@ sources:
 - src-20230126-f00896
 - src-20260204-b22c24
 - src-20260401-073d24
+- src-20261007-c6f64e
 data_quality: 'created by grokbot for incumbents-vs-ai-native; threat view: Partner/investor; possible acquirer'
 updated: '2026-10-22'
 ---

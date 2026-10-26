@@ -27,6 +27,7 @@ tags: []
 sources:
 - src-20261022-679fcc
 - src-20261022-d47483
+- src-20261022-de5e6c
 data_quality: incumbent comp; financials from SEC filings
 updated: '2026-10-22'
 ---
@@ -36,6 +37,7 @@ updated: '2026-10-22'
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-10-22: Q1 FY27 call: defense bookings down q/q and y/y as funds not flowing to customers, CEO expects order rush once budget clears; new higher-price aero LTAs, "no way that we will keep up"; AI productivity gains ahead of plan (company claim) [src-20261022-de5e6c]
 - 2026-10-22: FQ1 FY27 op income $196.4M (+28%), SAO adj. margin 37.7%; aero structural/distribution bookings +49% y/y; FY27 capex $355-375M (Athens AL brownfield); FY29 op income target $1.2-1.3B [src-20261022-679fcc]
 - 2026-10-22: 10-Q: GM ex-surcharge 40.4% vs 35.9%; tariffs passed through surcharge [src-20261022-d47483]
 

@@ -3,6 +3,11 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-10-24 — Mariana co-founder: most mine capex raised from project-level investors separate from VC; Lithium One offtake to unnamed battery maker (company claims) [src-20261024-c53370]
+- 2026-10-22 — Carpenter: defense bookings down q/q and y/y because funds not reaching customers; aero bookings +49% y/y, sold-out LTAs at higher prices [src-20261022-de5e6c]
+- 2026-10-22 — Reliance Q3 call: tons +15.6% vs industry +10.1%, extended lead times, domestic sourcing; Q4 includes ~9.5 pts border wall tonnage [src-20261022-1e6872]
+- 2026-10-07 — CNAS: FY27 munitions request $49.5B (8.5x avg) but 82% hinges on reconciliation; lead times unchanged for 6 of 10 munitions [src-20261007-c6f64e]
+- 2026-10-05 — CRS/CBO: interceptor replacement at least five years; $21.7B replacement cost through Aug 1 [src-20261005-b7e08b]
 - 2026-10-23 — Divergent Long Beach factory: 430K sq ft, 1,000 jobs, online by YE2026 (vs 400K sq ft in earlier report) [src-20261023-e02543]
 - 2026-10-20 — SendCutSend Series B at $2.1B led by Spark, size undisclosed (single trade write-up) [src-20261020-487a39]
 - 2026-10-19 — DPA Title III tally: 23 awards, $820.5M since Jan 2025; none to tracked startups (third-party tracker) [src-20261019-68fd3d]

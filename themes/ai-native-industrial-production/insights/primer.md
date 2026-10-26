@@ -23,7 +23,8 @@ Confidence (`high/med/low`, per taxonomy) is marked on numbers from a deleted po
 5. **Materials-rd budgets are not growing fast.** A former Moderna director says buyer budgets have not grown "crazily" in 5-6 years and that the gain is a "step one productivity boost" [src-20260909-af3e60] (low). An Albert Invent director says chemical majors reject royalty models ("The short answer is no") [src-20260913-3ad55e].
 
 6. **OTA work hides the quality gap.** OTA contracts waive many mil-spec quality requirements; when programs move to standard production contracts, "there's a gap" in statistical lot inspection that Hadrian "is still maturing" on. At thousands of parts its cost curve "asymptotes at a higher level" than traditional shops, and schedule is "near equal" once full inspection is counted (Boeing executive director, customer spending "low single millions" a year, "a fraction of a percent" of outside spend) [src-20260908-ed94f0]. He thinks "low tens of millions" could replicate Hadrian; a Northrop customer engineer thinks it is hard to copy [src-20260802-36d46c].
-7. **The only learning-over-time number.** Hadrian's first programming head: "within a couple of years, we saw a 50% cut" in order-to-first-article time; 70% 24-hour utilization is "very, very realistic"; pricing targets about 30% contribution margin; Opus "is replicable" and the moat is "financial power" plus a five-year head start [src-20261004-9b47f5].
+7. **Distributed networks win on urgency, not cost.** An Isembard customer paid $2,300-3,000 for 4-5 simple parts in 2-3 days that would cost about GBP150-200 in China, and sends larger batches to Chinese shops [src-20260621-f96bbd]. An Airbus Defence supply-chain head sees such networks limited to prototypes and non-critical parts while primes consolidate to fewer tier-1s [src-20251106-dfddcb].
+8. **The only learning-over-time number.** Hadrian's first programming head: "within a couple of years, we saw a 50% cut" in order-to-first-article time; 70% 24-hour utilization is "very, very realistic"; pricing targets about 30% contribution margin; Opus "is replicable" and the moat is "financial power" plus a five-year head start [src-20261004-9b47f5].
 
 **Evidence on the four thesis claims** (claims as numbered in insights/thesis.md)
 
@@ -676,7 +677,7 @@ Full per-source ledger (1,437 rows: id, type, category, read status, key facts, 
 
 | Bucket | Count | Read status |
 |---|---|---|
-| Expert calls read line by line | 18 | yes: every line read (about 111K words); notes in the ledger |
+| Expert calls read line by line | 20 | yes: every line read (about 118K words); notes in the ledger |
 | Promoted from dup/noise after full read (CloudNC x2, AI Robotics) | 3 | yes; now cited |
 | Other cited sources | 202 | partial: cited passages read in the body; long podcast transcripts read via summary plus keyword pass |
 | On-thesis, not cited | 419 | no: machine-read (keyword and number extraction on full body, plus summary). About 1.5M words, not read line by line |
@@ -684,4 +685,4 @@ Full per-source ledger (1,437 rows: id, type, category, read status, key facts, 
 | Noise / off-thesis / duplicates | 343 / 115 / 71 | no: full body keyword-scanned to confirm the category; 66 high-keyword items hand-checked, 4 promoted (1 to adjacent) |
 | Of the rows above, no body text captured (LinkedIn, TBPN stubs, empty pages) | 14 | no: nothing to read beyond the stub |
 
-Honest limits: about 2.2M on-thesis words exist; about 113K (5%) were read line by line: 18 expert calls plus the 3 promoted items. Not read line by line: 10 other on-thesis expert calls (7 cited, 3 uncited; passages and summaries used) and all 99 on-thesis podcasts (27 cited). 20 off-thesis or noise expert calls were checked for category only.
+Honest limits: about 2.2M on-thesis words exist; about 120K (5%) were read line by line: 20 expert calls plus the 3 promoted items. Not read line by line: 8 other on-thesis expert calls (5 cited, 3 uncited; passages and summaries used) and all 99 on-thesis podcasts (27 cited). 20 off-thesis or noise expert calls were checked for category only.

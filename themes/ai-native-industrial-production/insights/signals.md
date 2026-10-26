@@ -3,6 +3,10 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-10-23 — Divergent Long Beach factory: 430K sq ft, 1,000 jobs, online by YE2026 (vs 400K sq ft in earlier report) [src-20261023-e02543]
+- 2026-10-20 — SendCutSend Series B at $2.1B led by Spark, size undisclosed (single trade write-up) [src-20261020-487a39]
+- 2026-10-19 — DPA Title III tally: 23 awards, $820.5M since Jan 2025; none to tracked startups (third-party tracker) [src-20261019-68fd3d]
+- 2026-10-15 — Hadrian: 24 machines inside Lockheed Grand Prairie + 24 in Arizona for overflow, line live by Jan; ~2.85M sq ft across four sites [src-20261015-1a282b]
 - 2026-10-22 — Incumbents map: Lockheed–Hadrian 7-yr embedded automated cells at Grand Prairie (PAC-3/THAAD/PrSM/GMLRS), commissioning early 2027 [src-20261014-015327]
 - 2026-10-22 — Incumbents map: Anduril is Arda's first design partner (ArsenalOS) [src-20261020-bbfb1c]
 - 2026-10-22 — Incumbents map: Microsoft $60M DOE Genesis Mission; Discovery plugged into PNNL lab automation, JHU APL autonomous labs w/ MatterGen [src-20260722-9cba8e]

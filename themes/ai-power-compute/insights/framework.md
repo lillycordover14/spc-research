@@ -60,9 +60,10 @@ For every source and call, note which world the evidence points to; the readout 
 - 2026-05-12 Chipstrat Gimlet interview -> world 5 because frontier labs and hyperscalers outsource multi-vendor orchestration to Gimlet [src-20260512-bf65f3]
 - 2026-03-16 NVIDIA Dynamo 1.0 post -> world 1 because AWS, Google Cloud, Azure and OCI integrated Dynamo and Baseten and CoreWeave run it in production [src-20260316-b59c30]
 - 2026-02-19 LMSYS GB300 post -> world 5 because open-source SGLang ships PD disaggregation at 226 TPS/GPU, keeping the serving layer hardware-neutral [src-20260219-046755]
+- 2026-10-06 Microsoft Foundry fine-tuning docs -> world 2 because Azure keeps RFT, including invite-only GPT-5 RFT, as OpenAI winds down its own platform [src-20261006-fdf0a1]
 <!-- one line per source or call, newest first: `<date> <source> -> world N because ... [src-id]` -->
 
-Running count: world 1: 3, world 2: 6, world 3: 4, world 4: 12, world 5: 10. Run 3 earnings calls added the first world 2 and world 3 evidence; Google counts as world 2 with a world 3 note.
+Running count: world 1: 3, world 2: 7, world 3: 4, world 4: 12, world 5: 10. Run 3 earnings calls added the first world 2 and world 3 evidence; Google counts as world 2 with a world 3 note.
 
 ## 3. Efficiency test (for every inference or post-training target)
 Capture: the unit of improvement (tokens per dollar, tokens per watt, latency at a given throughput, GPU utilization), the benchmark and baseline, the hardware, whether customers confirm it, and what happens to the gain when open source catches up. A target passes if the gain is customer-verified and comes from something that compounds (kernels, scheduling, workload data, RL environments).

@@ -1,6 +1,6 @@
 # Index stats — Power and compute: the AI buildout bottleneck — 2026-10-26
 
-- sources: 135  | companies: 16 | people: 0
+- sources: 136  | companies: 16 | people: 0
 
 ## Sources by type
 - alphasense: 31
@@ -9,15 +9,15 @@
 - market-research: 6
 - other: 5
 - podcast: 23
-- website: 19
+- website: 20
 
 ## Sources by status
-- summarized: 135
+- summarized: 136
 
 ## Sources by layer
 - grid-interconnection: 50
 - inference-serving: 48
-- post-training-models: 25
+- post-training-models: 26
 - data-centers: 18
 - power-supply: 16
 - chips-systems: 15

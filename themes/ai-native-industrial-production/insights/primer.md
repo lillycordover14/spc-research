@@ -1,6 +1,8 @@
 # AI-native industrial production: VC primer
 
-_Dated 2026-10-25 (America/Chicago). Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
+_Version 2, dated 2026-10-26 (America/Chicago). Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
+
+**New to this topic? Start with section 1 and section 1A (the macro primer), then come back to section 0.** Acronyms are spelled out on first use and collected in Appendix A.
 
 **How to read this doc.** Three kinds of statement are kept apart:
 - Plain sentence ending in `[src-…]` = sourced fact (a filing, release, dataset or reported figure).
@@ -11,19 +13,21 @@ Confidence (`high/med/low`, per taxonomy) is marked on numbers from a deleted po
 
 ---
 
-## 0. Decision summary (read first)
+## 0. Decision summary
+
+_In one line: the category is real, buyers pay for speed rather than lower prices, and nobody has yet shown that its software makes each part cheaper or better over time._
 
 **Verdict [inference].** Back capital-light owner-operators at Series B only where speed and qualification are already paid for (Senra, Freeform, Isembard, as diligence hypotheses). Use Hadrian, Divergent and SendCutSend as benchmarks. Do not pay software multiples for job-shop economics until a company shows unit cost or quality improving with volume. Nobody in the repo shows that yet.
 
-**What the full read (28 expert calls, 20 podcasts, cited and uncited sources) changed.**
+**What the full read (28 expert calls, 40 podcasts, cited and uncited sources) changed.**
 
-1. **Price is not the wedge.** The only "cheaper" report (Raytheon, about 50% lower) came from RFQ quotes before any part was delivered, on a relationship brokered by RTX Ventures, a Hadrian investor [src-20250708-2aa3ad]. A Boeing customer says Xometry is cheapest and a 20-25% price gap means re-sourcing [src-20260802-ef6506]. Three Boeing voices say parity or more: "we have actually paid probably more" (Boeing Defense head of product) [src-20260818-9b2d5c]; Hadrian priced at "PCC or slightly more" (Boeing strategy/M&A lead) [src-20250712-e5e110]. A Northrop GM: "Cost is secondary. Cost is driven usually by schedule" [src-20250707-3b7a46]. The premium buyers pay is for speed.
+1. **Price is not the wedge.** The only "cheaper" report (Raytheon, about 50% lower) came from RFQ (request for quote) prices before any part was delivered, on a relationship brokered by RTX Ventures, a Hadrian investor [src-20250708-2aa3ad]. A Boeing customer says Xometry is cheapest and a 20-25% price gap means re-sourcing [src-20260802-ef6506]. Three Boeing voices say parity or more: "we have actually paid probably more" (Boeing Defense head of product) [src-20260818-9b2d5c]; Hadrian priced at "PCC or slightly more" (PCC = Precision Castparts, a large incumbent supplier owned by Berkshire Hathaway) (Boeing strategy/M&A lead) [src-20250712-e5e110]. A Northrop GM: "Cost is secondary. Cost is driven usually by schedule" [src-20250707-3b7a46]. The premium buyers pay is for speed.
 2. **Quality at complexity is the open risk.** "None of their parts right now are flying" (Boeing Defense) [src-20260818-9b2d5c]. "We haven't received parts back that matched the specification" (PI, ex-Anduril hardware) [src-20250709-43486e].
 3. **Share per customer is capped by design.** SpaceX caps a shop at about 1/3 of its revenue (ex-Hadrian head of engineering) [src-20250708-342eaf]. After a PCC factory fire, Boeing "will never" concentrate one part family on one supplier [src-20260818-9b2d5c]. Revenue per customer has a ceiling, so growth needs many primes [inference].
-4. **The moat is workflow plus qualification, and AI CAM is coming from below.** Insiders say the edge is the Opus MES plus factory design, not toolpath AI [src-20260817-8867f2][src-20261004-9b47f5]. CloudNC sells CAM Assist to every shop and tests it in its own UK factory [src-20261009-7cafd0]. Programs last about 50 years, and suppliers for a 2035 aircraft are being chosen now [src-20260818-9b2d5c].
+4. **The moat is workflow plus qualification, and AI CAM is coming from below.** Insiders say the edge is Opus, Hadrian's MES (manufacturing execution system: the software that directs work on the shop floor), plus factory design, not AI that writes toolpaths [src-20260817-8867f2][src-20261004-9b47f5]. CloudNC sells CAM Assist (AI for CAM, the software that turns a 3D model into machine instructions) to every shop and tests it in its own UK factory [src-20261009-7cafd0]. Programs last about 50 years, and suppliers for a 2035 aircraft are being chosen now [src-20260818-9b2d5c].
 5. **Materials-rd budgets are not growing fast.** A former Moderna director says buyer budgets have not grown "crazily" in 5-6 years and that the gain is a "step one productivity boost" [src-20260909-af3e60] (low). An Albert Invent director says chemical majors reject royalty models ("The short answer is no") [src-20260913-3ad55e].
 
-6. **OTA work hides the quality gap.** OTA contracts waive many mil-spec quality requirements; when programs move to standard production contracts, "there's a gap" in statistical lot inspection that Hadrian "is still maturing" on. At thousands of parts its cost curve "asymptotes at a higher level" than traditional shops, and schedule is "near equal" once full inspection is counted (Boeing executive director, customer spending "low single millions" a year, "a fraction of a percent" of outside spend) [src-20260908-ed94f0]. He thinks "low tens of millions" could replicate Hadrian; a Northrop customer engineer thinks it is hard to copy [src-20260802-36d46c].
+6. **Fast prototype contracts hide the quality gap.** OTA contracts (Other Transaction Agreements, fast prototype contracts outside normal federal rules) waive many mil-spec (military specification) quality requirements; when programs move to standard production contracts, "there's a gap" in statistical lot inspection (sampling batches of parts to prove they meet spec) that Hadrian "is still maturing" on. At thousands of parts its cost curve "asymptotes at a higher level" than traditional shops, and schedule is "near equal" once full inspection is counted (Boeing executive director, customer spending "low single millions" a year, "a fraction of a percent" of outside spend) [src-20260908-ed94f0]. He thinks "low tens of millions" could replicate Hadrian; a Northrop customer engineer thinks it is hard to copy [src-20260802-36d46c].
 7. **Distributed networks win on urgency, not cost.** An Isembard customer paid $2,300-3,000 for 4-5 simple parts in 2-3 days that would cost about GBP150-200 in China, and sends larger batches to Chinese shops [src-20260621-f96bbd]. An Airbus Defence supply-chain head sees such networks limited to prototypes and non-critical parts while primes consolidate to fewer tier-1s [src-20251106-dfddcb].
 8. **The only learning-over-time number.** Hadrian's first programming head: "within a couple of years, we saw a 50% cut" in order-to-first-article time; 70% 24-hour utilization is "very, very realistic"; pricing targets about 30% contribution margin; Opus "is replicable" and the moat is "financial power" plus a five-year head start [src-20261004-9b47f5].
 
@@ -37,8 +41,8 @@ Confidence (`high/med/low`, per taxonomy) is marked on numbers from a deleted po
 | # | Thesis claim | For | Against | Read [inference] |
 |---|---|---|---|---|
 | 1 | Demand for domestic production is structural | Lockheed 7-year cell deal [src-20261014-015327]; Navy $900M [src-20260320-67ba4c]; Thales CPO: capacity is the pain after COVID-era supplier bankruptcies [src-20251110-84b67e]; Boeing has used parts taken from non-flying aircraft [src-20260818-9b2d5c] | 34% spindle utilization at existing shops [src-20250120-419768]; Taiwan 20-30% cheaper and Vietnam/Malaysia cheaper still [src-20250709-43486e]; Boeing makes about 40% of parts in-house and holds 6 months of inventory [src-20250712-e5e110] | True for defense capacity and speed. Commercial rate demand not shown |
-| 2 | Owning the plant creates a data loop | Freeform and Mariana score 2 (section 6). Ex-Hadrian: about 80% of non-CAM labor automated, lead times cut about 50% [src-20250708-342eaf]; reprogramming saved 50-80% of CAM time [src-20260611-7b80f0] | Toolpaths come from third-party CAM, with Vericut as the check [src-20260611-7b80f0][src-20261004-9b47f5]; CMM inspection is manual [src-20260817-8867f2]; a buyer asks "is it actually" software-enabled [src-20250729-a0a78c] | Workflow automation is real. Learning with volume is not evidenced |
-| 3 | Moats: process data, secured capacity, qualification | Trusting a new supplier takes 5-10 years [src-20250712-e5e110]; change-of-control clauses in defense contracts [src-20260817-8867f2]; lock-in from 50-year programs [src-20260818-9b2d5c] | Share caps (finding 3); 90% of the first 10 Hadrian employees gone by year 5 [src-20260817-8867f2]; incumbent PCC is also automating [src-20250712-e5e110] | Qualification is a moat once paid, but it caps share. No data moat evidenced |
+| 2 | Owning the plant creates a data loop | Freeform and Mariana score 2 (section 6). Ex-Hadrian: about 80% of non-CAM labor automated, lead times cut about 50% [src-20250708-342eaf]; reprogramming saved 50-80% of CAM time [src-20260611-7b80f0] | Toolpaths come from third-party CAM, with Vericut (simulation software) as the check [src-20260611-7b80f0][src-20261004-9b47f5]; CMM (coordinate measuring machine) inspection is manual [src-20260817-8867f2]; a buyer asks "is it actually" software-enabled [src-20250729-a0a78c] | Workflow automation is real. Learning with volume is not evidenced |
+| 3 | Moats: process data, secured capacity, qualification | Trusting a new supplier takes 5-10 years [src-20250712-e5e110]; change-of-control clauses in defense contracts (contracts that can be voided if the supplier is sold) [src-20260817-8867f2]; lock-in from 50-year programs [src-20260818-9b2d5c] | Share caps (finding 3); 90% of the first 10 Hadrian employees gone by year 5 [src-20260817-8867f2]; incumbent PCC is also automating [src-20250712-e5e110] | Qualification is a moat once paid, but it caps share. No data moat evidenced |
 | 4 | Hardware-inclusive producers can return venture outcomes | SendCutSend profitable 8 years [src-20260519-38c7ed]; Hadrian plants are debt-funded [src-20260817-c48f28] | "Not ... a fantastically profitable business"; a six-machine plant 1 cost "well north of $10 million" [src-20260817-8867f2]; net per-part saving after capex is 20-30% at best [src-20250712-e5e110]; Hadrian is "better suited to debt than VC" (ex-Anduril PI) [src-20250709-43486e] | Unproven. Underwrite the speed premium and the debt capacity, not cost leadership |
 
 ---
@@ -68,9 +72,94 @@ The core tradeoff in one line: owner-operators buy data ownership and pricing po
 
 ---
 
-## 2. Why now: the drivers, ranked
+## 1A. The big picture: macro primer for a newcomer
 
-Ranked by how much each driver actually moves revenue for the companies we track [inference on the ranking].
+_This section assumes no background. It explains what is happening in US and allied manufacturing, why money is flowing in now, how buyers actually purchase parts, and how venture investors think about it. Every number has a source. Where a number is my reading, it says [inference]._
+
+### 1A.1 Manufacturing in one page
+
+- **How big it is.** US manufacturing added $2.90 trillion of value in 2025. That is 10.1% of GDP (gross domestic product, the total value of what the economy produces). It employs 12.65 million people, at average pay of $112,261 [src-20261013-a7c995].
+- **How it is organized.** Think of a pyramid. At the top are a few **primes**: the big companies that sell finished systems (a missile, a jet, a submarine) to the government. The top five US defense contractors in FY2023 (fiscal year) were Lockheed Martin ($61.4B of contracts), RTX/Raytheon ($24.1B), General Dynamics ($22.9B), Boeing ($20.1B) and Northrop Grumman ($16.3B) [src-20251215-98f650]. Below them are **tier-1 suppliers** (big sub-systems), then **tier-2 and tier-3 suppliers** (individual parts, castings, forgings, wire harnesses, raw metal).
+- **The bottom of the pyramid is small and old.** The US has 17,156 machine shops. 83% have fewer than 20 employees [src-20250626-23f6d9]. They are called **job shops**: small owner-run businesses that make parts to a customer's drawing. The count is shrinking: 4,874 machine shops were lost from 2002 to 2018, about 20% [src-20250909-29c826]. **Claim (Isembard):** the average owner is over 65 and 40% plan to retire within five years [src-20260310-45bab3].
+- **The top has consolidated.** Aerospace and defense primes fell from 51 to 5 since the early 1990s [src-20220215-45c353]. Fewer buyers means fewer, larger programs, and more power over suppliers.
+
+**What this means.** The supply base that makes physical parts is fragmented, aging and shrinking, while the buyers at the top are few and powerful. That gap is the opening every company in this primer is trying to fill [inference].
+
+### 1A.2 Why this is happening now: six forces
+
+**1. Defense needs more munitions and ships, fast.** After Russia invaded Ukraine in 2022, the US and allies used up munitions faster than factories could replace them. Congress's research service says much of the concern about the defense industrial base "has focused on munitions production due in large part to high rates of expenditure" [src-20251215-98f650]. Primes are now signing long deals with new producers. Lockheed signed a 7-year deal to put Hadrian's automated machining cells inside its missile plant [src-20261014-015327]. The Navy put $900M toward Hadrian plants for submarine parts [src-20260320-67ba4c].
+- _What this means:_ demand is strongest for defense parts that are late today. It depends on budgets that Congress sets each year [inference].
+
+**2. China controls key inputs.** China leads refining for 19 of 20 strategic energy minerals, with about 70% average share [src-20250521-c62d29]. It makes about 94% of rare-earth magnets (the strong magnets inside motors, drones and missiles) and cut magnet exports in April 2025 [src-20251103-ee9b27]. The US imports 100% of 16 mineral commodities, 67% of rare earths and 57% of refined copper [src-20260206-04fe3e]. Almost 90% of the most advanced chips are made in Taiwan [src-20230928-c47558].
+- _What this means:_ "Can we make this at home?" is now a national-security question, not only a cost question. That is why governments pay for domestic capacity even when it costs more [inference].
+
+**3. Tariffs make imported metal and parts dearer.** Tariffs are taxes on imports. Since April 2026, products made almost entirely of steel, aluminum or copper face a 50% tariff; products that contain them face 25%; and 10% if the metal was melted or smelted in the US [src-20260402-1b5d6c]. This helps US mills: Nucor's gross margin rose from 14% to 20% (part of it a one-off refund) [src-20260812-77d6f5]. It hurts US companies that buy metal: Nucor's own fabrication segment reported "margin compression resulting from higher steel input costs" [src-20260812-77d6f5].
+- _What this means:_ tariffs are set by presidential proclamation and can be reversed. They are a tailwind, not a foundation [inference].
+
+**4. There are not enough skilled workers.** Deloitte and The Manufacturing Institute project 3.8 million US manufacturing jobs to fill from 2024 to 2033, with 1.9 million possibly unfilled [src-20240416-b69154]. Manufacturing had 522,000 open jobs in August 2026, against a pre-pandemic average of 432,000 [src-20261013-a7c995]. The Defense Department says it needs at least 122,000 more shipbuilders, engineers and other critical workers by 2028 [src-20250101-af28c1].
+- _What this means:_ the bottleneck is people, not machines. Software that lets a less experienced worker do skilled work is the core promise of "AI-native" production [inference].
+
+**5. The government now lends and buys, not just regulates.** Six tools matter (each explained in 1A.4): the NDAA, CHIPS, the IRA's 45X tax credit, DPA Title III, the Office of Strategic Capital and Section 232 tariffs. Together they lower the cost of building a plant and, more recently, promise to buy output for several years.
+
+**6. Money is available, but not cheap.** Venture investors put large sums into this category in 2026 (Hadrian raised $1.37B in one round [src-20260807-b0dc5b]). But interest rates are rising again: the Federal Reserve raised its benchmark rate to 3.75-4.00% on September 16, 2026, saying "inflation remains elevated" [src-20260916-f0c016]. Factories are mostly paid for with loans once the first one works [src-20260817-c48f28]. Higher rates make every new plant more expensive to finance [inference].
+
+**What would reverse the trend.** A defense budget cut or delay, tariffs struck down, a peace that slows munitions buying, or a jump in rates. Also: existing shops have spare capacity. The average machine in a US shop cuts metal only 34% of the time, against a 70% target [src-20250120-419768]. Some demand can be met without new factories.
+
+### 1A.3 How a buyer actually buys a part (the procurement path)
+
+This is the most important mechanism to understand. A new producer does not win "the market." It wins one part number at a time, at one buyer at a time.
+
+1. **Request for quote (RFQ).** A buyer at a prime sends a drawing and asks suppliers for a price and delivery date.
+2. **Supplier qualification.** Before a new supplier can make flight or weapon parts, the buyer checks its quality system. The common standard is **AS9100**, the aerospace quality management standard. Special processes (heat treating, coatings, inspection) need **NADCAP** accreditation. Buyers told us qualification takes 9-12 months at Raytheon [src-20250708-2aa3ad] and 1-2 years at Northrop [src-20260802-36d46c].
+3. **First article inspection (FAI).** The supplier makes the first part. Every dimension, material and process is checked against the drawing and written up in a standard report (AS9102). FAI is repeated whenever the design, material, process, tool or location changes, or after two years without production [src-20190801-e81d7b]. _This is why moving a part to a new supplier is slow and costly._
+4. **Prototype and low-rate production (LRIP).** Small quantities, often under fast contracts such as **OTAs** (Other Transaction Agreements, which skip much of the normal federal acquisition rulebook and can roll into production without a new competition) [src-20241219-9f8fcc].
+5. **Rate production.** Steady, high volume. Here price per part and consistent quality decide who wins. A Boeing executive says at around 1,000 parts a traditional shop is cheaper than Hadrian [src-20260908-ed94f0].
+6. **Repeat orders and multiyear contracts.** The prize. Programs can last about 50 years, and suppliers for a 2035 aircraft are being chosen now [src-20260818-9b2d5c]. The FY26 NDAA (National Defense Authorization Act, the yearly defense policy law) now allows multiyear buying for SM-6, Tomahawk, AMRAAM, JASSM, LRASM and PAC-3 missiles [src-20251218-f0d6ef].
+
+**Two rules that limit any one supplier.** Buyers cap how much they depend on one shop (SpaceX caps a shop at about 1/3 of its revenue) [src-20250708-342eaf]. After a factory fire at a major supplier, Boeing says it "will never" put one part family with one supplier again [src-20260818-9b2d5c].
+
+**What this means.** Early wins are fast prototype work that buyers pay a premium for. The test of a real business is whether those wins turn into repeat rate-production orders. That is exactly Lilly's question 1, and the evidence so far is thin (section 8) [inference].
+
+### 1A.4 The policy toolkit, in plain English
+
+| Tool | What it is | What it does for producers | Source |
+|---|---|---|---|
+| NDAA | The yearly law that sets defense policy (not the money itself; money comes in separate appropriations bills) | FY26 version: multiyear munitions buying (Sec. 804(b)); an Industrial Base Fund for castings, forgings and machine tools, with purchase commitments of up to 10 years and advance payments (Sec. 867); a review of which spare parts advanced manufacturing can make (Sec. 1842) | [src-20251218-f0d6ef] |
+| DPA Title III | Defense Production Act of 1950. Title III lets the government pay to expand domestic capacity: direct purchases, purchase commitments, even installing equipment in private plants | 23 awards, $820.5M since Jan 2025, mostly rare earths and rocket motors; none yet to the startups we track | [src-20251215-98f650][src-20261019-68fd3d] |
+| OSC | Office of Strategic Capital, a Defense Department lender created in 2022. It makes loans and loan guarantees for 34 critical technology areas, including advanced manufacturing | $620M loan to Vulcan Elements for a magnet plant; FY2026 funding of $97.8M can back up to $4.4B of loans, and the 2025 reconciliation law adds credit subsidy for up to $100B each for critical minerals and covered technologies | [src-20251103-ee9b27][src-20260908-f6558e] |
+| CHIPS Act | 2022 law: $52.7B for FY2022-2027 for US chip factories, research and workforce | Mostly helps chip fabs; it co-funded the Vulcan magnet deal with a $50M incentive | [src-20230928-c47558][src-20251103-ee9b27] |
+| IRA 45X | A per-unit tax credit from the 2022 Inflation Reduction Act for US-made energy components. Critical minerals earn 10% of production costs | The 2025 tax law (P.L. 119-21) phases the minerals credit out 2031-2034 and bars Chinese-linked supply chains | [src-20251001-45a0c1] |
+| Section 232 | A 1962 law letting the President set tariffs on national-security grounds | 50/25/10% metals tariffs (see 1A.2) | [src-20260402-1b5d6c] |
+| Buy American / Specialty Metals | Laws requiring the Defense Department to buy US-made goods; specialty metals (titanium, nickel, some steels) must be melted in the US | Protect domestic demand for metal and parts | [src-20251215-98f650] |
+
+**What this means.** Policy is strongest for metals and minerals (loans, credits, tariffs). For machined parts, policy works mainly through prime contracts and the new multiyear authorities [inference].
+
+### 1A.5 How big is the market?
+
+No free source gives a clean market size (TAM, total addressable market) for "AI-native production." What we have:
+- All US manufacturing: $2.90T value added [src-20261013-a7c995].
+- Metal service centers (distributors that stock, cut and ship metal): about $200B of revenue (med) [src-20251201-4b732d].
+- Precision manufacturing: about $71B by 2026, machine-shop segment over $60B (med, one analyst memo) [src-20251024-2e5383].
+- Global industrial robot installs: $18.6B in 2025, a proxy for automation spending [src-20260924-28b59b].
+
+Section 3 has the full table. _What this means:_ the markets are large, but each startup sells into a narrow slice (one part type, one buyer group). Share per buyer is capped (1A.3), so growth needs many buyers [inference].
+
+### 1A.6 How venture investors see it
+
+- **It costs a lot to build.** A first six-machine factory cost "well north of $10 million" [src-20260817-8867f2]. Hadrian's Mesa plant was about $200M [src-20250820-cfbf02]. Software companies do not need this.
+- **Margins are lower than software.** Gross margin is revenue minus the direct cost of making the product, as a share of revenue. Software companies often run far higher than manufacturers. Benchmarks here: Proto Labs 44.5% [src-20260206-8bb619]; Xometry's marketplace 34.7% [src-20260224-a7b149]; metal service centers 18-32% [src-20260729-407fd7][src-20261021-16bb64]; a manufacturing roll-up "effectively ... 30%" (claim) [src-20241001-28c2aa].
+- **Who pays for what.** Venture equity pays for the team, the software and the first plant. Banks, equipment lenders and the government pay for plants two and beyond, once a plant is proven. Hadrian: "equity never funds factory construction" (claim) [src-20260807-b0dc5b]; it has a $360M bank credit line [src-20260817-c48f28].
+- **The bull case.** If software lets one plant run at much higher utilization with fewer skilled workers, it can earn better margins than a job shop and win share. **Claim (Chris Power, Hadrian CEO):** utilization of 65-80% versus about 10% at primes [src-20260610-779f8b].
+- **The bear case, with equal weight.** Several buyers say they pay the same or more, not less (section 0). Some see these firms as "better suited to debt than VC" [src-20250709-43486e]. Recent failures: Daedalus (an AI-run machining factory) went insolvent in August 2026 [src-20260801-4532f6]; Markforged went from a $2.1B valuation to a $42.5M sale [src-20261023-63156a]; Bright Machines' SPAC (a listing via a shell company) fell through [src-20240527-6a4884].
+- **Exits are unproven.** The repo has no acquisition of an AI-native producer above $100M (Appendix B). Likely exit paths are sale to a prime or incumbent supplier, an IPO (stock listing) at scale, or continued private ownership with debt [inference].
+
+**What this means for SPC.** The question is not "is manufacturing coming back?" It is "can a software-run plant earn better margins than a job shop, and turn fast prototype wins into multi-year orders?" Everything after this section tests that [inference].
+
+---
+
+## 2. Why now: the drivers in detail, ranked
+
+Section 1A gave the plain-English version. This section gives the evidence for each driver, ranked by how much it actually moves revenue for the companies we track [inference on the ranking].
 
 ### 2.1 Defense demand and munitions/shipbuilding ramps (structural for 5-10 years; budget-cyclical at the margin)
 - Mechanism: primes cannot add qualified capacity fast enough; they are now signing multi-year capacity deals with new producers.
@@ -80,8 +169,8 @@ Ranked by how much each driver actually moves revenue for the companies we track
 - Layers: precision-parts, fabrication, metals-supply (magnets). Durability: high while munitions stockpiles are rebuilt [inference].
 
 ### 2.2 Skilled labor gap (structural)
+- Headline numbers are in section 1A.2 (Deloitte 3.8M jobs, 522,000 openings, 122,000 defense workers). The 2026 Deloitte follow-up counts 2.3M technician openings 2025-2030 but excludes machinists, so do not add it to the 3.8M [src-20260910-a2cd42].
 - Mechanism: the binding constraint is machinists, welders and programmers, not machines. Software that deskills tasks expands who can run a plant.
-- Evidence: Deloitte/MI (Apr 2024) project 3.8M manufacturing jobs needed 2024-2033, 1.9M possibly unfilled [src-20240416-b69154]. The 2026 follow-up counts 2.3M technician openings 2025-2030, which spans adjacent industries and excludes skilled production roles such as machinists and CNC operators [src-20260910-a2cd42] (different scope; do not add to the 3.8M). Manufacturing openings were 522,000 in Aug 2026 vs 432,000 pre-pandemic average [src-20261013-a7c995]. DoD METAL program says the industrial base needs at least 122,000 more shipbuilders, engineers and critical roles by 2028 [src-20250101-af28c1] (page undated).
 - **Claim (Hadrian):** Opus trains new operators in 30-40 days instead of a decade [src-20260926-70087f]; 40-hour tasks to 2 hours [src-20261022-002ed8].
 - Layers: all producing layers; strongest in precision-parts and fabrication.
 
@@ -92,8 +181,7 @@ Ranked by how much each driver actually moves revenue for the companies we track
 - Layers: metals-supply first, fabrication second.
 
 ### 2.4 Supply-chain trust and offshore concentration (structural)
-- China leads refining for 19 of 20 strategic energy minerals with ~70% average share [src-20250521-c62d29]; produces ~94% of rare earth magnets and cut magnet exports in April 2025 [src-20251103-ee9b27]. IEA estimates ~$6.5T of downstream production outside China at risk if magnet export controls are fully enacted [src-20260721-89b0cf].
-- US 2025 net import reliance: 100% for 16 commodities, rare earths 67%, refined copper 57%, lithium >50% [src-20260206-04fe3e].
+- China's share of minerals, magnets and US import reliance: see section 1A.2.
 - Offshore lead time: **Claim (SendCutSend):** China lead times two to three weeks vs its 48 hours, and US steel costs ~2x China [src-20260227-e92d45]; **Claim (Belosic):** can meet or beat China on only ~20-25% of work [src-20260519-2d6ceb].
 - Layers: metals-supply (refining, magnets) most; precision-parts via ITAR (US-persons-only export control on defense articles) which keeps work onshore regardless.
 
@@ -118,6 +206,8 @@ Tariff reversal or court limits would hit metals-supply and fabrication margins 
 ---
 ## 3. Market size by layer
 
+_In one line: the markets are large, but there is no clean free estimate of the slice these startups can win._
+
 No layer has a clean, free TAM. Where only a proxy exists, it says so.
 
 | Layer | Figure | Year | Source | Conf. | Note |
@@ -127,21 +217,19 @@ No layer has a clean, free TAM. Where only a proxy exists, it says so.
 | metals-supply (refining) | Market size not found; public finance commitments $65B | 2025 | IEA [src-20260716-6a06e4] | high | Gap: US refining TAM |
 | precision-parts (shop base) | Machine shops (NAICS 332710): 17,156 establishments, 223,313 employees, $14.23B payroll; 83% under 20 staff; down from 17,433 in 2022 | 2023 | Census CBP [src-20250626-23f6d9] | high | Counts, not revenue. IBISWorld says 16,619 businesses [src-20260201-adef50] (med) |
 | fabrication (shop base) | Architectural and structural metals (3323): 14,533 est, 423,013 employees, $28.26B payroll; sheet metal work 4,652 est; structural fab 3,434 est | 2023 | Census CBP [src-20250626-23f6d9] | high | No free revenue TAM |
-| metals-supply (service centers, Census) | Metal service centers (423510): 8,608 est, 145,207 employees, $12.40B payroll | 2023 | Census CBP [src-20250626-23f6d9] | high | vs ~9,400 per First Research |
 | precision-parts | ~$71B precision manufacturing by 2026; machine-shop segment >$60B | 2026 | Contrary memo [src-20251024-2e5383] | med | Single analyst memo, citations not traced |
-| precision-parts (global framing) | "~$1.8T a year" component manufacturing | 2026 | **Claim (Isembard)** [src-20260310-45bab3] | low | Company PR; no method |
 | materials-rd | No TAM in repo | n/a | n/a | n/a | Gap |
 | factory-ai | Global robot installs value $18.6B | 2025 | IFR [src-20260924-28b59b] | high | Proxy for automation spend, not software |
 
 Fragmentation (supports a consolidation or software-native entrant story):
 - 83% of the 17,156 US machine-shop establishments had under 20 employees in 2023 [src-20250626-23f6d9] (high). Contrary says ~90% have <20 employees and <$7M revenue [src-20251024-2e5383] (med).
-- **Claim (Belosic):** ~93% of manufacturers have ≤100 employees, ~75% of those ≤20 [src-20260519-2d6ceb].
-- **Claim (Isembard):** ~95% of production by small businesses, average owner over 65, 40% plan to retire within 5 years [src-20260310-45bab3].
 - DoD: aerospace/defense primes fell from 51 to 5 since the 1990s; castings and forgings face high barriers to entry [src-20220215-45c353].
 
 ---
 
 ## 4. The five layers
+
+_In one line: the category splits into five layers, from raw metal at the bottom to factory software at the top. Each has different economics._
 
 ### 4.1 metals-supply (mining, refining, magnets, service centers)
 - **Players:** Mariana Minerals (copper, lithium; owner-operator) [src-20260803-30e6d5]; Vulcan Elements (NdFeB magnets) [src-20251103-ee9b27]; Nox Metals (automated service center, `passed`) [src-20261009-404b9b]; candidates Hertha (iron/steel), Cyclic, Mass Magnetics, Duranium (`_candidates.md`). Incumbents: Reliance, Ryerson, Nucor, MP Materials.
@@ -194,7 +282,7 @@ Every file in `companies/` whose status is not `not-a-fit`. Full profiles for tr
 
 ### 5.2 SendCutSend | fabrication | owner-operator | tracking
 - **What:** instant-quote sheet metal, CNC and finishing; owns all plants (Reno; Paris, KY; Arlington, TX) [src-20261020-487a39].
-- **Capital:** $110M at $1.01B, first institutional round, May 2026 [src-20260519-38c7ed]; Series B at $2.1B led by Spark, Oct 2026, size undisclosed [src-20261020-487a39] (med, single trade write-up). Prior valuation shown side by side: $1.01B [src-20260519-38c7ed] vs "roughly $1.1 billion" [src-20261020-487a39].
+- **Capital:** $110M at $1.01B, first institutional round, May 2026 [src-20260519-38c7ed]; Series B at $2.1B led by Spark, Oct 2026, size undisclosed [src-20261020-487a39] (med, single trade write-up).
 - **Scale:** 32K orders/month, ~100% y/y [src-20260525-4a12ab]; ~$140M run rate (deleted post) [src-20260504-c3ded5] (low); 650 staff [src-20260904-1929b3] vs 169 [Harmonic].
 - **Claims (Belosic):** 48-hour turnaround [src-20260227-e92d45]; 80-90% utilization target [src-20260626-541ac8]; new facility ~$50M funded with equipment loans [src-20260519-2d6ceb]; "I love taking VC dollars and putting it directly in the payroll" [src-20261020-487a39].
 - **Fit:** owns-production, in-house-software, speed-moat. Mission-critical-output weak (60% of Fortune 500 but commercial mix) [src-20261020-487a39].
@@ -205,7 +293,6 @@ Every file in `companies/` whose status is not `not-a-fit`. Full profiles for tr
 - **Capital:** Series C $260M equity+debt Jul 2025 [src-20250721-d99a2a]; ~$1.6B valuation Jan 2026 [src-20260807-b0dc5b]; $1.37B Series D at $7.87B, Aug 6 2026 [src-20260807-b0dc5b]; $360M revolver [src-20260817-c48f28]. Total ~$2.24B [Harmonic].
 - **Footprint:** four facilities (CA, AZ, AL), about 2.85M sq ft; 24 machines inside Lockheed Grand Prairie plus 24 in Arizona for overflow, line live by January 2027 (**Claim, Power**) [src-20261015-1a282b].
 - **Capex:** ~$200M Mesa factory, 270K sq ft, 350 jobs [src-20250820-cfbf02]; six factories since 2022, latest 2.2M sq ft [src-20260921-876080].
-- **Revenue (conflict):** ~$3M 2024 (Wikipedia) [src-20261022-de170d] (low) | $35M+ ARR 2024 (teardown) [src-20260819-dadd06] (low). Neither is primary.
 - **Experts:** see section 8; share of wallet 2-3% at Boeing [src-20260802-ef6506], <10% at Northrop [src-20260802-36d46c].
 - **Fit:** all seven tests partly met; customer-qualification still building (**Claim, Power:** AS9100-grade trust takes years) [src-20260908-65fab6].
 - **Bear (expert calls, med):** ex-Anduril hardware lead: Hadrian "struggled to consistently deliver high-quality, complex parts" and got no production volume there [src-20250709-43486e]; Boeing CTO-org manager: "we have actually paid probably more", and no certified flying aircraft uses its parts [src-20260818-9b2d5c]; Northrop director: incumbents still have higher precision and a cost edge, and Ti/Inconel capability lags [src-20250707-3b7a46]; defense-startup chief of staff chose Atomic and questions how automated Hadrian really is [src-20250729-a0a78c]; ex-Xometry VP: deals are slow to win [src-20260808-dc5cbb]; ex-Hadrian engineer: CAM vendors are the main threat, and buyers cap a supplier at ~1/3 of its revenue [src-20250708-342eaf].
@@ -230,7 +317,6 @@ Every file in `companies/` whose status is not `not-a-fit`. Full profiles for tr
 ### 5.4 Isembard | precision-parts | hybrid | tracking
 - **What:** owned plus franchised machining factories on MasonOS; US, UK, DE, FR, UA [src-20260310-45bab3].
 - **Capital:** $9M seed plus $50M Series A (USV lead), Mar 2026; valuation undisclosed [src-20260310-45bab3]; Harmonic estimate ~$250M [Harmonic] (low).
-- **Scale (conflict):** 6 factories, target 25 by YE2026 [src-20260310-45bab3] | 14 factories Aug 2026 [src-20260810-f0371c] | 4 owned + 10 franchised [src-20260909-b547c7]. Consistent if growth is real; owned vs franchised split only in the podcast.
 - **Claims (Isembard):** 40-60% throughput gains, 30% lower opex [src-20250929-857f17]; franchisee live in under 90 days [src-20260909-b547c7]; turning down orders [src-20260810-f0371c].
 - **Customer view:** a humanoid company used Isembard for two urgent $2.3-6K orders, 2-day turnaround [src-20260621-f96bbd]; Airbus supply-chain head sees networks as prototype suppliers [src-20251106-dfddcb].
 - **Bear:** Thales Alenia Space CPO is "skeptical" for aerospace, defense and space: he must qualify and see each production site, which a franchise network obscures; not a customer [src-20251110-84b67e]. Throughput and opex claims are company-only. BBC: ~100 staff at the 160,000 sq ft Southwark site [src-20261019-202dd7].
@@ -287,12 +373,11 @@ Every file in `companies/` whose status is not `not-a-fit`. Full profiles for tr
 ### 5.12 Nox Metals | metals-supply | owner-operator | passed
 - **What:** automated metals service center outside Detroit; Factos nesting [src-20261009-404b9b].
 - **Capital:** $11.5M seed (Hyperion) [src-20260616-1cf7cb].
-- **Ops (conflict):** 52 staff (YC) [src-20261022-2aabbe] vs 11 (Built In LA, Oct 2026) per company file; 75K sq ft, 250-300 customers [src-20261009-404b9b].
 - **Status:** passed; kept as a seed-stage reference for a software-led service center.
 
 ### 5.13 Arda | factory-ai | software-first | tracking
 - **What:** agent reads CAD and design docs, writes assembly order and work instructions [src-20261020-914a64].
-- **Capital:** $72M seed (Accel, Founders Fund); $160M Series A at $1.5B (Altimeter, Accel, Khosla); $232M total [src-20261020-914a64]. Earlier WSJ report: $70M at $700M [src-20260308-1984ea].
+- **Capital:** $72M seed (Accel, Founders Fund); $160M Series A at $1.5B (Altimeter, Accel, Khosla); $232M total [src-20261020-914a64].
 - **Claim (Arda/Anduril):** work instructions 10 hours to 15 minutes; complex engineering 30 hours to ~2.5 [src-20261020-914a64].
 
 ### 5.14 Mind Robotics | factory-ai | software-first | tracking
@@ -333,6 +418,8 @@ Every file in `companies/` whose status is not `not-a-fit`. Full profiles for tr
 
 ## 6. Data loop scorecard
 
+_In one line: the "data loop" is the idea that every part a factory makes teaches its software to make the next one cheaper or better. This table scores how much proof each company has._
+
 Scale: 0 asserted only; 1 mechanism described; 2 partial evidence; 3 quantified improvement over time. Nobody scores 3.
 
 | Company | Score | Mechanism | Best evidence | Missing |
@@ -358,6 +445,8 @@ Read: the loop is real where the process is physical and continuous (melt pools,
 
 ## 7. Competition and incumbents
 
+_In one line: incumbents (established public companies) set the margin benchmarks, and several are adding AI themselves._
+
 | Incumbent | Metric | Value | Source | AI move |
 |---|---|---|---|---|
 | Proto Labs | FY25 revenue / GAAP GM | $533.1M / 44.5% | [src-20260206-8bb619] | AI pricing [src-20260731-ef3d40] |
@@ -370,15 +459,8 @@ Read: the loop is real where the process is physical and continuous (melt pools,
 | Howmet | Q2 revenue / Engine EBITDA margin | $2.55B / 37.7% | [src-20260806-9a83f7] | AI process control [src-20260301-357ec4] |
 | ATI | Adj. EBITDA margin / backlog | 22.6% / $4.4B | [src-20260806-70254e][src-20260628-27be55] | |
 | Carpenter | GM | 32.1% (40.4% ex-surcharge) | [src-20261022-d47483] | |
-| Nucor | FY25 GM / utilization | 12%; steel mills 83%, steel products 62%; backlog mills $3.35B vs $2.13B | [src-20260225-3ea941] | "highly automated" |
-| Ryerson | Footprint FY25 | ~4,300 staff, 103 NA sites (pre-Olympic) | [src-20260223-0f0be4] | analytics for pricing |
-| ATI | FY25 backlog | $3.7B vs $3.9B | [src-20260220-d8abeb] | |
 | Proto Labs | 10-K AI uses | pricing, molding inspection, CNC toolpath checks, AI routing in minutes | [src-20260220-fe6c5e] | yes |
-| Xometry | 10-K self-description | "AI-native" marketplace | [src-20260224-0bf807] | yes |
-| Howmet | FY25 staff | 25,430; names AI-enabled competitors as a risk | [src-20260212-91b1e0] | risk factor |
 | Rockwell | GM | 49.5% | [src-20260804-0e8130] | |
-
-Note the two ATI backlog figures measure different dates: $3.7B at Dec 28 2025 [src-20260220-d8abeb] vs $4.4B in Q2 2026 [src-20260628-27be55].
 
 **What the expert calls add on incumbents (claims, med).**
 
@@ -391,7 +473,6 @@ Note the two ATI backlog figures measure different dates: $3.7B at Dec 28 2025 [
 | Xometry, Protolabs | Target $5M+ accounts; Boeing spend with each is under $1M and over $1M | [src-20250712-e5e110] |
 | Xometry | Grew after shedding its own machines; Protolabs was held back by its own factories; market stays fragmented for 5 years | [src-20260808-dc5cbb] |
 | Protolabs | 8-inch cube limit on fast CNC; Xometry supplier rates "abysmal" | [src-20260611-7b80f0] |
-| Federal prime awards (USAspending, ledger totals) | Xometry 56 awards, $2.9M, 2014-26; Proto Labs 48 awards, $1.8M, 2008-26; Hadrian 1 award, $79.4M (2026), labeled data rights and IP. Incumbent marketplaces win many small federal orders; Hadrian wins few large ones | [src-20260130-7d74e3][src-20080929-77494f][src-20260317-77e798] |
 
 Read: the incumbent threat is not Xometry's software but PCC-type primes' suppliers automating while holding qualification, and primes keeping critical work in-house [inference].
 
@@ -408,6 +489,8 @@ Failures to learn from:
 
 ---
 ## 8. Customers and demand
+
+_In one line: buyers pay a premium for speed on urgent and prototype parts; evidence of repeat high-volume orders is still thin._
 
 **Who buys:** primes (Lockheed, RTX, Northrop, Boeing, L3Harris, GA-ASI), new primes (Anduril), depots and government programs (Army, Navy, DIU), commercial hard-tech (SendCutSend's 60% of Fortune 500) [src-20261020-487a39].
 
@@ -442,6 +525,8 @@ The contradiction to put on the slide: Raytheon reports Hadrian *cheaper*; Boein
 
 ## 9. Capital and financing
 
+_In one line: venture money builds the first plant; loans and government money build the rest._
+
 | Company | Equity raised | Last round / valuation | Debt or gov | Capex datapoint | Who funds plant | Source |
 |---|---|---|---|---|---|---|
 | Hadrian | ~$2.24B [Harmonic] | $1.37B D at $7.87B, Aug 2026 | $360M revolver; Navy $900M | ~$200M per 270K sq ft plant; ~$1B ahead of contracts (claim) | Debt, per Power: "equity never funds factory construction" | [src-20260807-b0dc5b][src-20260817-c48f28][src-20260320-67ba4c][src-20250820-cfbf02][src-20260921-876080] |
@@ -456,6 +541,8 @@ Pattern: equity for software, team and plant #1; banks, OSC and project finance 
 ---
 
 ## 9A. Unit economics by layer
+
+_Unit economics means how much a company earns or loses on each part or ton it sells, after direct costs._
 
 Startup margins are not disclosed anywhere in the repo. The table puts incumbent benchmarks next to the cost drivers the expert calls quantify. Cells marked (claim) come from a single speaker.
 
@@ -473,13 +560,14 @@ Power and compute are minor costs: 1,200A service with 500-600A used for 6-8 mac
 
 ## 10. Policy tracker (newest first)
 
+_The plain-English guide to each tool is in section 1A.4. This table is the dated list._
+
 | Date | Policy | What it does | Layer | Source |
 |---|---|---|---|---|
 | 2026-10-20 | Army 1M drones plan (reported) | Volume demand for magnets, airframes | metals-supply, fabrication | [src-20261020-878aa9] |
 | 2026-10-20 | 45X | Advanced manufacturing production credit | metals-supply | [src-20261020-7d90fa] |
 | 2026-09-23 | SkyFoundry / Vulcan award | Army drone magnet supply | metals-supply | [src-20260923-c53c99] |
 | 2026-09-08 | OSC | DoD lender for critical-tech capex | all producers | [src-20260908-f6558e] |
-| 2026-08-18 | Section 232 pharma | 100% on patented pharma, APIs | adjacent | [src-20260818-489fdf] |
 | 2026-10-19 | DPA Title III tally | 23 awards, $820.5M since Jan 2025; rare earths $405.1M, solid rocket motors $196.4M; none to tracked startups | metals-supply | [src-20261019-68fd3d] (med, third-party) |
 | 2026-07-16 | IEA public finance | Minerals commitments $65B | metals-supply | [src-20260716-6a06e4] |
 | 2026-04-06 | Section 232 metals | 50/25/10% structure; grid 15% to 2028 | metals-supply, fabrication | [src-20260402-1b5d6c] |
@@ -490,7 +578,6 @@ Power and compute are minor costs: 1,200A service with 500-600A used for 6-8 mac
 | 2025-08-06 | Apple-MP magnet commitment | Apple commits to buy US-made rare earth magnets from MP (no prepay or dollar figure in this source) | metals-supply | [src-20250806-a0a34e] |
 | 2025-08-01 | Section 232 copper | 50% on semi-finished copper content; refined copper 15% (2027) / 30% (2028) under review | metals-supply | [src-20250805-80f2f4] |
 | 2024-12-19 | OTA authority | Prototype to production without recompete | precision-parts | [src-20241219-9f8fcc] |
-| 2024-12-06 | PPBE reform | Budget process speed | all | [src-20241206-6e78bd] |
 
 Gaps: Golden Dome dollar flows to tracked names. Sec. 1652 is reporting-only, but the act's funding tables reference funds "supporting the Golden Dome missile defense system"; the amount is unconfirmed [src-20251218-f0d6ef]; no DPA Title III award to a tracked startup in the third-party tally [src-20261019-68fd3d]; OSC loan to Vulcan is the only federal loan to a tracked name [src-20251103-ee9b27].
 
@@ -563,63 +650,42 @@ Gaps: Golden Dome dollar flows to tracked names. Sec. 1652 is reporting-only, bu
 - Section 232 struck down or rolled back (bear for metals-supply and fabrication).
 - A tracked owner-operator raises a down round or stalls a plant (bear).
 
-**Status of questions.md** (status as written in the file | primer view)
-
-| Q | Topic | File status | Primer view |
-|---|---|---|---|
-| 1 | Data loop real? | partial | partial: section 6 |
-| 2 | Each part improves the next? | partial | partial: no quantified trend anywhere |
-| 3 | Software-first data rights | partial | partial: Arda/Mind rights undisclosed |
-| 4 | Gross margin at scale | open | partial: incumbent benchmarks in section 7; startup margins still unknown |
-| 5 | Capex and financing | partial | partial: section 9 |
-| 6 | Utilization and lead time | partial | partial: 48h SendCutSend, 80-90% utilization targets |
-| 7 | Pricing | open | partial: expert table in section 8 |
-| 8 | Buyer mix | partial | partial |
-| 9 | Qualification | partial | partial: 9-12 months to 1-2 years |
-| 10 | Policy pull | partial | partial: section 10 |
-| 11 | Service-center margins | open | partial: Reliance/Ryerson GM; software effect unknown |
-| 12 | Domestic refining | partial | partial |
-| 13 | Landscape | partial | partial: 138 long-tail candidates |
-| 14 | Exits | open | open: only Alro roll-up and failure sale prices |
-| 15 | SPC operator edge | open | open |
-| 16 | Fit to SPC size | partial | partial: section 11 |
-| 17 | One-page matrix | partial | partial: matrix above |
-
----
-
-## Fix before IC (slide 8 figures)
-
-Slide 8 mixes round sizes and valuations [src-20261022-80fd75]. Per Lilly, funding and valuation discrepancies are out of scope; only figures that bear on the thesis are kept. Corrected values:
-
-| Item | Slide 8 says | Correct per sources | Conf. |
-|---|---|---|---|
-| Hadrian | ~$1.6B (C) | Footprint ~2.85M sq ft, four sites [src-20261015-1a282b]. Use current figures from the company file; round detail is out of scope per Lilly | high |
-| CuspAI | $450M (B) | $450M Series B at $2.6B, ~$580M total [src-20260720-840ae3][src-20260720-02f3fe] ; the £ figures are the same round converted (£330M, "£2bn") [src-20260720-3cfc67] | high |
-| Freeform | $67M (B) | $67M Series B at $179M post (PitchBook), ~$126M raised [src-20260219-2125d7]; Skyfall H1 2026 launch unconfirmed [src-20260220-348ad9] | med |
-| NAM | $2.96T; 12.6M x ~$107K | $2.90T value added 2025; 12.65M employees; $112,261 avg comp [src-20261013-a7c995] | high |
-| IFR | 34,200 US vs 295,000 China (2024) | Correct for 2024 [src-20250925-5d6799]; 2025 is 38,428 US (+12%) vs 354,226 China [src-20260924-28b59b] (prelim 38,000 / +11% in [src-20260618-c903cc]) | high |
-| IEA refining | Top refiner 72%; China ~85% of REE refining | ~72% of refined energy minerals and >90% of REE refining [src-20260721-89b0cf] (med, via Skillings) vs top-supplier REE share fell from >90% to 85% [src-20260716-6a06e4] (high) vs ~70% avg refining share [src-20250521-c62d29]. Use 85% with the 2026 IEA cite | high |
-| Deloitte | 3.8M needed, 1.9M unfilled | Correct (2024-2033) [src-20240416-b69154]; 2026 update: 2.3M technician openings 2025-2030, excludes machinists [src-20260910-a2cd42]; do not combine | high |
-| Also stale | SendCutSend $1B (B); Arda ~$700M; Mariana $1.5B | SendCutSend $2.1B Series B, Oct 2026 [src-20261020-487a39] (med); Arda $1.5B [src-20261020-914a64]; Mariana valuation not disclosed [src-20260803-30e6d5] | |
-
 ---
 
 ## Appendix A. Glossary
 
 | Term | Definition |
 |---|---|
+| A&D | Aerospace and defense |
 | ABL | Asset-based lending: credit secured by receivables and inventory |
-| AS9100 | Aerospace quality management standard; table stakes for flight parts |
+| ACV | Annual contract value |
 | AD/CVD | Antidumping and countervailing duties on unfairly priced imports |
+| AM | Additive manufacturing: 3D printing |
+| AS9100 | Aerospace quality management standard; table stakes for flight parts |
+| AS9102 | Standard form for a first article inspection report |
+| B2B / B2G | Selling to businesses / to government |
 | BOM | Bill of materials |
 | CAM | Software turning a 3D model into machine toolpaths |
+| Capex | Capital expenditure: money spent on plants and machines |
+| CHIPS Act | 2022 law funding US chip factories ($52.7B) |
 | CMMC | DoD cybersecurity certification for contractors |
+| CNC | Computer numerical control: a computer-driven cutting machine |
+| CRO | Contract research organization: an outside lab hired for experiments |
 | CSO | Commercial Solutions Opening, a fast DoD solicitation |
 | DFARS | DoD procurement rules, incl. specialty-metal sourcing |
+| DIB | Defense industrial base: every company that supplies the Defense Department |
+| DIU | Defense Innovation Unit, which buys commercial tech fast |
+| DoD / DoW | Department of Defense, also called Department of War since 2025 |
 | DPA Title III | Defense Production Act authority to fund domestic capacity |
+| EBITDA | Earnings before interest, tax, depreciation and amortization; a rough cash-profit measure |
+| FAI | First article inspection: full check of the first part made |
 | FFP | Firm fixed price contract |
+| Form D | SEC filing a company makes when it sells private shares |
 | FPY | First-pass yield: share passing inspection first time |
+| GM | Gross margin: revenue minus direct cost, as a share of revenue |
 | IDIQ | Indefinite-delivery, indefinite-quantity contract vehicle |
+| IEA | International Energy Agency |
+| IRA / 45X | Inflation Reduction Act (2022); 45X is its per-unit manufacturing tax credit |
 | ITAR | US export control limiting defense work to US persons |
 | Job shop | Small owner-run shop building to a customer's drawing |
 | LIFO/FIFO | Inventory accounting methods; LIFO lowers margins when prices rise |
@@ -627,28 +693,27 @@ Slide 8 mixes round sizes and valuations [src-20261022-80fd75]. Per Lilly, fundi
 | LRIP | Low-rate initial production |
 | MES | Software that tracks and directs shop-floor work |
 | NADCAP | Accreditation for special processes (heat treat, NDT, coatings) |
+| NDAA | National Defense Authorization Act, the yearly defense policy law |
 | NDT | Non-destructive testing |
 | Nesting | Packing parts on sheet or stock to minimize scrap |
 | NRE | Non-recurring engineering: one-time setup cost before production |
+| ODM | Original design manufacturer: builds products others sell under their brand |
 | OSC | DoD Office of Strategic Capital, a lender |
 | OTA | Other Transaction Agreement, fast non-FAR prototype contract |
 | PPBE | DoD planning, programming, budgeting and execution process |
+| Prime | Top contractor selling whole systems to the government (Lockheed, RTX, Boeing) |
+| RFQ | Request for quote |
+| RL | Reinforcement learning: AI that learns by trial and reward |
 | SBIR | Staged federal R&D grants to small businesses |
 | Section 232 | National-security tariff authority (1962 statute) |
 | Service center | Metal distributor that stocks, cuts and ships |
+| SPAC | A shell company that lists a private company on the stock market |
+| TAM | Total addressable market |
+| Tier-1/2/3 | Supplier levels below a prime: sub-systems, then parts, then raw inputs |
+| USAspending | Public federal database of contract awards |
 | Utilization | Share of available machine hours actually producing |
 
-## Appendix B. Source map (5 per layer)
-
-| Layer | Sources |
-|---|---|
-| metals-supply | [src-20260803-30e6d5] [src-20260623-d1790b] [src-20251103-ee9b27] [src-20260716-6a06e4] [src-20261021-16bb64] |
-| fabrication | [src-20260519-38c7ed] [src-20261020-487a39] [src-20260701-027c1b] [src-20260204-ce7053] [src-20261016-d61bc1] |
-| precision-parts | [src-20260807-b0dc5b] [src-20261014-015327] [src-20250708-2aa3ad] [src-20260802-ef6506] [src-20260219-2125d7] |
-| materials-rd | [src-20260617-f9d293] [src-20260917-1bcb81] [src-20261022-37a0ea] [src-20261016-29997e] [src-20260720-840ae3] |
-| factory-ai | [src-20261020-914a64] [src-20260513-83aa83] [src-20260804-0e8130] [src-20261004-9b47f5] |
-
-## Appendix C. Gaps and next actions
+## Appendix B. Gaps and next actions
 - Hadrian revenue: two low-confidence figures conflict; get a primary number.
 - Startup gross margins: none disclosed; ask Senra, SendCutSend.
 - Refining TAM and economics: no free source found.
@@ -658,29 +723,17 @@ Slide 8 mixes round sizes and valuations [src-20261022-80fd75]. Per Lilly, fundi
 - ABL use by startups: none evidenced.
 - Exits (Q14): no comparable acquisition above $100M in repo.
 
-## Appendix D. Ten sources for one hour
-1. [src-20261022-80fd75] SPC slide 8 deck.
-2. [src-20260807-b0dc5b] Hadrian Series D and the capex-by-debt rule.
-3. [src-20260921-876080] Power on capex ahead of contracts.
-4. [src-20261004-9b47f5] Ex-Hadrian programming head on what Opus is.
-5. [src-20260802-ef6506] Boeing on Hadrian share and price.
-6. [src-20250708-2aa3ad] Raytheon on price, lead time, utilization.
-7. [src-20260519-2d6ceb] Belosic on SendCutSend economics vs China.
-8. [src-20260701-027c1b] Senra operating profile.
-9. [src-20260623-d1790b] Mariana's autonomous mine and RL control.
-10. [src-20260402-1b5d6c] Section 232 April 2026 proclamation.
-
-## Appendix E. Source coverage (ledger, 2026-10-25)
+## Appendix C. Source coverage (ledger, 2026-10-25)
 
 Per-source ledger: `insights/exports/primer-ledger.csv`; reading notes kept outside the PDF.
 
 | Bucket | Read status |
 |---|---|
 | Expert calls (all 28 on-thesis) | Read in full, line by line |
-| Podcasts | Top 20 most relevant read in full, by Lilly's choice; the remaining ~79 on-thesis episodes used only via summary |
+| Podcasts | 40 of 102 transcripts read in full (the top 20 by Lilly's choice plus earlier passes). The other 62 (about 485K words) are not yet read in full; a full read is queued in 12 batches and its findings will be added in the next version |
 | Sources the primer cites (~200) | Read in full, except: the FY26 NDAA (about 517K words) checked against every primer claim plus the manufacturing, munitions, reshoring and tariff sections; the DIU guidebook and the boilerplate parts of 10-Q/10-K filings (e.g. ATI) skimmed |
 | On-thesis sources not cited (~390) | Read in full; 99 turned out to be a title or placeholder only. One 589K-character academic review of self-driving labs not read (general background) |
 | No real text captured | Fast Radius (SEC block page), VulcanForms layoffs, Siemens (menu JSON) and other stubs: claims citing them were removed |
 | Form D / award stubs, noise, duplicates | Data rows checked; category confirmed by keyword scan, not read line by line |
 
-Honest limits: podcasts outside the top 20 and the long filings above were not read line by line. Funding and valuation discrepancies were dropped by design.
+Honest limits: 62 podcast transcripts and the long filings above were not read line by line. Funding and valuation discrepancies were dropped by design.

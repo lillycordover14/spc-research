@@ -4,7 +4,7 @@ Dated, newest first, one line each, source id at the end. Funding, launches, cus
 
 - 2026-10-14 | Modal $750M Series D at $15.75B; $1B annualized run rate; Sandboxes $300M run rate | src-20261014-63cf9c
 - 2026-09-18 | Applied Compute latest round; $512.8M raised to date, $3.3B valuation (publicly disclosed) [Harmonic] (primary not yet found)
-- 2026-09-04 | Gimlet Labs $300M Series B led by a16z; company post claims billions in contracted revenue, hundreds of MW managed capacity. Harmonic total $404.3M vs $80M A + $300M B + prior seed per company posts | src-20260904-a08d96
+- 2026-09-04 | Gimlet Labs $300M Series B led by a16z; company post claims billions in contracted revenue, hundreds of MW managed capacity. Harmonic total $404.3M; $80M A + $300M B per company posts, seed amount unconfirmed | src-20260904-a08d96
 - 2026-09-01 | Wafer $40M Series A co-led by Marathon and Chemistry, AMD Ventures participating | src-20260901-21f9eb
 - 2026-08-26 | Deep Cogito $43M Series A led by TQ Ventures; >$56M total | src-20260826-50c34c
 - 2026-08-25 | Emerald AI $150M Series A at $1.05B, co-led by Energize and DCVC; Silicon Valley Power flexible interconnection program; ~100 MW Manassas Vera Rubin factory | src-20260825-62437e

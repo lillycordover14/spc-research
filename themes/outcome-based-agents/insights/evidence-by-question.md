@@ -89,7 +89,7 @@ Questions are defined in `questions.md`.
 - 2026-09-30 | Ema pricing: outcome (completed tasks and outcomes) [src-20260930-9ee545]
 - 2026-09-28 | NinjaTech SuperNinja Enterprise (2026-09-28): fixed annual price for 100/500/1,000 AI employees on open-weight models [src-20260928-9f30d1]
 - 2026-09-26 | Agentforce Help Agent: $2 per resolution, nothing on escalation or negative feedback (CX Today, 2026-09-26) [src-20260926-ff7125]
-- 2026-09-24 | ICONIQ 2026 (n~305 software execs, via HackerNoon): 18% price on outcomes vs 2% before; 58% subscription, 35% consumption [src-20260924-1b6619]
+- 2026-09-24 | ICONIQ 2026 (n~305 software execs, via HackerNoon): secondary "18% vs 2% before" is superseded by the primary 18% to 23% in six months [src-20260715-e16b49]; 58% subscription, 35% consumption [src-20260924-1b6619]
 - 2026-09-24 | Intercom: Intercom extended outcome pricing to sales qualification at 10x the support price; price tracks value of the outcome [src-20260924-93c5ed]
 - 2026-09-24 | Intercom: "Leaves without requesting more help" counts as a resolution, a loose verification standard the vendor controls [src-20260924-93c5ed]
 - 2026-09-21 | UiPath: deploying AI agents 'not getting easier' vs two years ago; coding agents make deterministic automation easy [src-20260921-f28021]

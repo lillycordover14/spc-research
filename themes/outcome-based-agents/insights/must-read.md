@@ -89,3 +89,20 @@ Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, direc
 - Benioff Dreamforce and Six Five interviews, CamundaCon keynote, Omni Talk retail episodes: low density for the time; use their evidence lines instead.
 - Vendor-run surveys without a stated population (agent identity, observability and data-quality vendors): read only the evidence line and its caveat.
 - Funding announcements beyond the Tier 2 picks: the startup-landscape.md row has everything they say.
+
+## Also tagged must-read (no tier)
+These came from the parallel must-read-sources.md pass (commit 8ed39d6), which didn't put them in either tier here. They're worth a look, but read Tier 1 first.
+- src-20260512-5c6e2d: Claude for the legal industry
+- src-20260305-abed56: 'Services: The New Software'
+- src-20260616-28211f: Copilot Cowork is now generally available
+- src-20260505-1c452a: Agents for financial services
+- src-20260224-a28ce9: Cowork and plugins for teams across the enterprise
+- src-20260527-b0d3f3: Avoiding Death on the Yellow Brick Road (a16z)
+- src-20260722-a3993b: Introducing OpenAI Presence
+- src-20260422-d312c6: Welcome to Google Cloud Next '26
+- src-20261002-8d9e4f: Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- src-20260401-e0ba89: 'Omni Talk Retail: The Retail Leader''s Guide to Agentic AI, Process Mapping, and What''s Next (Tomas Cupr, Duvo)'
+- src-20260330-2b99a8: 'Lightspeed Investment Memo: How AI Can Make Every Employee a Builder (Sri Viswanath, Sycamore Labs, hosted by Raviraj Jain)'
+- src-20260312-1f35f8: 'Intercom: From resolutions to outcomes, evolving how Fin delivers value'
+
+See also [must-read-sources.md](must-read-sources.md), the earlier list of 45.

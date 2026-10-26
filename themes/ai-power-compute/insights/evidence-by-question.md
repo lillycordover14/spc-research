@@ -149,6 +149,7 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-03-26 | Camus, Princeton ZERO Lab and encoord modeling: flexibility needed at most about 4% of hours, unlock on the order of 30% | podcast, med | src-20260326-771e89
 - 2026-03-19 | Emerald says a grid test cut an AI cluster 35% in 30 seconds; working with National Grid in the UK | podcast, med | src-20260319-960dc9
 - 2026-03-02 | EPRI DCFlex: up to 40% reduction with sub-minute response; about 100 MW Aurora project | research, high | src-20260302-a34f1a
+- 2026-01-20 | Texas law: loads of 75 MW or more must allow remote disconnection; Emerald test cut 25% at peak | article, high | src-20260120-3c538d
 - 2026-01-14 | Emerald CEO: grid hits peak congestion under 1% of the time; Oracle Phoenix GPUs cut 25% | podcast, med | src-20260114-9f862d
 - 2025-02-01 | Duke: 76 GW headroom at 0.25% curtailment, 98 GW at 0.5%, 126 GW at 1.0%; average event 1.7 to 2.5 hours; 88% of curtailment hours retain at least half of load | market-research, high | src-20250201-ccc248
 
@@ -204,6 +205,8 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 - 2026-08-19 | Gimlet Labs is positioning itself as a differentiated AI inference provider by enabling disaggregated deployment of large language models (LLMs) across heterogeneous hardware, such as GPUs and specialized AI accelerators | alphasense, med | src-20260819-e49885
 - 2026-08-19 | Competitors like Fireworks, Together, and Baseten primarily focus on simplifying GPU-based deployments and have not publicly announced similar heterogeneous orchestration capabilities | alphasense, med | src-20260819-e49885
 - 2026-08-03 | Baseten: disaggregation adds roughly 2x on top of NVFP4 and speculators (each roughly 2x); 4-6x over baseline is typical, 10x aggressive | podcast, high | src-20260803-db2641
+- 2026-03-16 | Dynamo 1.0 integrated by all major clouds; Baseten and CoreWeave in production; up to 7x requests on Blackwell | article, high | src-20260316-b59c30
+- 2026-02-19 | SGLang 226.2 TPS/GPU on GB300 NVL72 with PD disaggregation (DeepSeek R1, 128K/8K) | article, high | src-20260219-046755
 - 2026-01-22 | Nearly all inference services use vLLM under the hood per a16z; open source sets the floor for serving software | article, med | src-20260122-e767e7
 
 ## Q8. Heterogeneous hardware
@@ -316,4 +319,5 @@ The fastest path from reading to a readout. Every time an agent summarizes a sou
 
 ## Q17. Our view
 
+- 2026-08-25 | PG&E Flex Connect: sites above their floor 90% of the time; 85 sites assessed; only 5 of 10 hoped-for online by end of 2025 | article, high | src-20260825-8a7c14
 - 2026-04-21 | GridCARE CEO: no utility studied was over 50% utilized (company claim) | podcast, med | src-20260421-e5221e

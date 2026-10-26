@@ -6,6 +6,7 @@ Dated, newest first, one line each, source id at the end. Funding, launches, cus
 - 2026-01-22 | a16z leads Inferact (vLLM) seed | src-20260122-e767e7
 - 2026-01-23 | Baseten $300M Series E at $5B led by IVP and CapitalG, NVIDIA participating | src-20260123-cfd280
 - 2026-02-17 | Bedrock RFT extended to GPT-OSS and Qwen with OpenAI-compatible APIs | src-20260217-9d071b
+- 2026-03-16 | NVIDIA Dynamo 1.0 integrated by AWS, Google Cloud, Azure, OCI; in production at Baseten, CoreWeave | src-20260316-b59c30
 - 2026-03-23 | Gimlet Labs $80M Series A led by Menlo; customers include a top frontier lab and a hyperscaler | src-20260323-a0cbfc
 - 2026-03-31 | Emerald AI $25M strategic round led by EIP; $68M total | src-20260331-dc28c2
 - 2026-04-02 | Soma Energy $7M seed led by Category Ventures; 2 GW optimized, five DC customers | src-20260402-51ffad
@@ -20,6 +21,7 @@ Dated, newest first, one line each, source id at the end. Funding, launches, cus
 - 2026-08-11 | CoreWeave Q2 2026: ~25% price increase across SKUs in July; managed inference booked ARR over $100M; 1.5 GW active, 4.2 GW contracted | src-20260811-4fafb8
 - 2026-08-14 | Vistra: ERCOT 400+ GW queue realistically 12-15 GW by 2030 | src-20260814-3047e8
 - 2026-08-25 | Emerald AI $150M Series A at $1.05B, co-led by Energize and DCVC; Silicon Valley Power flexible interconnection program; ~100 MW Manassas Vera Rubin factory | src-20260825-62437e
+- 2026-08-25 | PG&E Flex Connect sites had capacity above floor 90% of the time; about 85 sites in assessment | src-20260825-8a7c14
 - 2026-08-26 | Deep Cogito $43M Series A led by TQ Ventures; >$56M total | src-20260826-50c34c
 - 2026-08-26 | NVIDIA Q2 FY27: Groq LPU added to Vera Rubin platform; revenue opportunity $40B per GW for Vera Rubin; OpenAI commitments about 12 GW | src-20260826-7aa6b5
 - 2026-09-01 | Wafer $40M Series A co-led by Marathon and Chemistry, AMD Ventures participating | src-20260901-21f9eb

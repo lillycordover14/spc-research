@@ -41,6 +41,14 @@ tags:
 - orchestration
 sources:
 - src-20260331-83a5c4
+- src-20261025-3b5977
+- src-20261023-e0024b
+- src-20261026-9baf41
+- src-20261014-d31234
+- src-20261022-413743
+- src-20261023-e5e537
+- src-20261020-77f3d3
+- src-20261026-44dad5
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---

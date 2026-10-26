@@ -39,6 +39,9 @@ tags:
 - memory
 sources:
 - src-20260812-4cb1fc
+- src-20261013-c9148b
+- src-20261019-d82fd6
+- src-20261026-86900e
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---

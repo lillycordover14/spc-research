@@ -52,6 +52,7 @@ sources:
 - src-20260710-e2a61b
 - src-20250829-31a67a
 - src-20260318-033caf
+- src-20261026-2970d7
 data_quality: Seed card from Harmonic, pulled 2026-10-23. No funding recorded in Harmonic; relationship to Soroco (spinout vs new company) unverified.
 updated: '2026-10-23'
 ---

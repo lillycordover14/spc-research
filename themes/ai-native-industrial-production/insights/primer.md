@@ -11,6 +11,28 @@ Confidence (`high/med/low`, per taxonomy) is marked on numbers from a deleted po
 
 ---
 
+## 0. Decision summary (read first)
+
+**Verdict [inference].** Back capital-light owner-operators at Series B only where speed and qualification are already paid for (Senra, Freeform, Isembard, as diligence hypotheses). Use Hadrian, Divergent and SendCutSend as benchmarks. Do not pay software multiples for job-shop economics until a company shows unit cost or quality improving with volume. Nobody in the repo shows that yet.
+
+**What the 13 expert calls (read line by line) changed.**
+1. **Price is not the wedge.** Only Raytheon reports Hadrian cheaper [src-20250708-2aa3ad]. Three Boeing voices say parity or more: "we have actually paid probably more" (Boeing Defense head of product) [src-20260818-9b2d5c]; Hadrian priced at "PCC or slightly more" (Boeing strategy/M&A lead) [src-20250712-e5e110]. A Northrop GM: "Cost is secondary. Cost is driven usually by schedule" [src-20250707-3b7a46]. The premium buyers pay is for speed.
+2. **Quality at complexity is the open risk.** "None of their parts right now are flying" (Boeing Defense) [src-20260818-9b2d5c]. "We haven't received parts back that matched the specification" (PI, ex-Anduril hardware) [src-20250709-43486e].
+3. **Share per customer is capped by design.** SpaceX caps a shop at about 1/3 of its revenue (ex-Hadrian head of engineering) [src-20250708-342eaf]. After a PCC factory fire, Boeing "will never" concentrate one part family on one supplier [src-20260818-9b2d5c]. Revenue per customer has a ceiling, so growth needs many primes [inference].
+4. **The moat is workflow plus qualification, and AI CAM is coming from below.** Insiders say the edge is the Opus MES plus factory design, not toolpath AI [src-20260817-8867f2][src-20261004-9b47f5]. CloudNC sells CAM Assist to every shop and tests it in its own UK factory [src-20261009-7cafd0]. Programs last about 50 years, and suppliers for a 2035 aircraft are being chosen now [src-20260818-9b2d5c].
+5. **Materials-rd budgets are not growing fast.** A former Moderna director says buyer budgets have not grown "crazily" in 5-6 years and that the gain is a "step one productivity boost" [src-20260909-af3e60] (low). An Albert Invent director says chemical majors reject royalty models ("The short answer is no") [src-20260913-3ad55e].
+
+**Evidence on the four thesis claims** (claims as numbered in insights/thesis.md)
+
+| # | Thesis claim | For | Against | Read [inference] |
+|---|---|---|---|---|
+| 1 | Demand for domestic production is structural | Lockheed 7-year cell deal [src-20261014-015327]; Navy $900M [src-20260320-67ba4c]; Thales CPO: capacity is the pain after COVID-era supplier bankruptcies [src-20251110-84b67e]; Boeing has used parts taken from non-flying aircraft [src-20260818-9b2d5c] | 34% spindle utilization at existing shops [src-20250120-419768]; Taiwan 20-30% cheaper and Vietnam/Malaysia cheaper still [src-20250709-43486e]; Boeing makes about 40% of parts in-house and holds 6 months of inventory [src-20250712-e5e110] | True for defense capacity and speed. Commercial rate demand not shown |
+| 2 | Owning the plant creates a data loop | Freeform and Mariana score 2 (section 6). Ex-Hadrian: about 80% of non-CAM labor automated, lead times cut about 50% [src-20250708-342eaf]; reprogramming saved 50-80% of CAM time [src-20260611-7b80f0] | Toolpaths come from third-party CAM, with Vericut as the check [src-20260611-7b80f0][src-20261004-9b47f5]; CMM inspection is manual [src-20260817-8867f2]; a buyer asks "is it actually" software-enabled [src-20250729-a0a78c] | Workflow automation is real. Learning with volume is not evidenced |
+| 3 | Moats: process data, secured capacity, qualification | Trusting a new supplier takes 5-10 years [src-20250712-e5e110]; change-of-control clauses in defense contracts [src-20260817-8867f2]; lock-in from 50-year programs [src-20260818-9b2d5c] | Share caps (finding 3); 90% of the first 10 Hadrian employees gone by year 5 [src-20260817-8867f2]; incumbent PCC is also automating [src-20250712-e5e110] | Qualification is a moat once paid, but it caps share. No data moat evidenced |
+| 4 | Hardware-inclusive producers can return venture outcomes | SendCutSend profitable 8 years [src-20260519-38c7ed]; Hadrian plants are debt-funded [src-20260817-c48f28] | "Not ... a fantastically profitable business"; a six-machine plant 1 cost "well north of $10 million" [src-20260817-8867f2]; net per-part saving after capex is 20-30% at best [src-20250712-e5e110]; Hadrian is "better suited to debt than VC" (ex-Anduril PI) [src-20250709-43486e] | Unproven. Underwrite the speed premium and the debt capacity, not cost leadership |
+
+---
+
 ## 1. The thesis in plain English
 
 **What it is.** AI-native industrial production means companies that build and run their own factories (or, in one variant, the software that runs other people's factories) and sell the output: parts, metal, material. The product is the physical thing; the software is how they make it faster and with fewer skilled people than incumbents. SPC's slide 8 frames it as producers "that build and run their own production capacity, using in-house AI and software to quote, schedule, and control robots and machines" [src-20261022-80fd75].
@@ -135,12 +157,14 @@ Fragmentation (supports a consolidation or software-native entrant story):
 - **Economics:** **Claim (CuspAI primer, AlphaSights):** custom programs 5-15% gross margin, platform 85-90%; pilot conversion 40-50% [src-20261016-29997e] (med).
 - **AI-native change:** **Claim (Radical):** 8-20 alloys a day, target 100/day; $60-300 per experiment; samples grams to 500 g, no manufacturing yet [src-20260617-f9d293]. **Claim (Fedus, Periodic):** at full throughput, 4 months of experiments in under 2 weeks [src-20260917-1bcb81].
 - **Risks:** no revenue disclosed at any of the three; valuations ($2.6B to $7.5B) precede product [inference]. Track record of the underlying science is mixed: Berkeley A-Lab's claimed 41 new materials were challenged as mostly misidentified known phases, with a Nature correction [src-20240124-513fd9]; MatterGen is limited to ~20 atoms per cell and needs DFT validation [src-20261022-3e2a9d]; Lila's catalysts are unproven in a real electrolyzer [src-20261019-392916]. Business model is unproven: an Albert Invent director says chemical majors have not bought royalty models and the problem is "millions of SKUs", not crystal structures [src-20260913-3ad55e].
+- **Buyer view (expert calls, read line by line).** Former Moderna director: buyers reach these platforms through CROs and pay per successful candidate; of the last 10 campaigns CuspAI won 8, Radical 1 and Lila 1 (claim); long-run potential ranked Radical > Lila > CuspAI > Periodic; CRO book-to-bill was "very bad" in 2024-25 [src-20260909-af3e60] (low: several claims cannot be checked). Albert Invent director (a competitor, so biased): ACVs run from hundreds of thousands to millions; procurement "shut[s] down" big sticker prices; the proof that opens budgets is a product launched in "one-third the number of iterations"; his $100 split is CuspAI $50, Lila $35, Periodic $15 [src-20260913-3ad55e].
 
 ### 4.5 factory-ai (software for other people's plants)
 - **Players:** Arda (CAD to work instructions) [src-20261020-914a64]; Mind Robotics (Rivian spinout, robot foundation models) [src-20260513-83aa83]; candidates Rapta, Allus, Faraday. Incumbents: Siemens (with NVIDIA, Altair, Dotmatics) [src-20260106-60b745][src-20250326-cc1810][src-20250701-a7fef9], Rockwell (GM 49.5%) [src-20260804-0e8130]. MES (manufacturing execution system: software that tracks and directs work on the shop floor) is the incumbent category.
 - **Economics:** **Claim (Arda):** usage-based pricing [src-20261020-a1e174]; no revenue disclosed.
 - **AI-native change:** work-instruction agents are the only shipped wedge (Arda at Anduril) [src-20261020-914a64] [inference].
 - **Risks:** distribution vs Siemens/Rockwell; data rights sit with the host plant [inference]. Investor view: model capability is not the constraint; value needs unified plant data and workflow change [src-20261006-6265ad]. Mind Robotics has raised >$1B and still shown no robot publicly [src-20261013-cc78c0]. Bright Machines, the earlier software-defined-factory bet, failed its SPAC and pivoted to AI-server assembly [src-20240926-fd90fb].
+- **AI CAM and inspection (promoted from the skipped pile in this audit).** CloudNC's CAM Assist generates 3-axis and 3+2-axis machining strategies in minutes inside GibbsCAM, with the programmer reviewing each step; CloudNC runs its own Chelmsford factory as a test bed [src-20261021-9769d1][src-20261009-7cafd0]. AI Robotics (DGIST spinout) runs weld-bead inspection on 24 lines in 3 countries on more than 4M field data points [src-20261011-a8b14d]. Both are software-first wedges that give incumbents the same tools [inference].
 
 ---
 
@@ -177,6 +201,22 @@ Every file in `companies/` whose status is not `not-a-fit`. Full profiles for tr
 - **Experts:** see section 8; share of wallet 2-3% at Boeing [src-20260802-ef6506], <10% at Northrop [src-20260802-36d46c].
 - **Fit:** all seven tests partly met; customer-qualification still building (**Claim, Power:** AS9100-grade trust takes years) [src-20260908-65fab6].
 - **Bear (expert calls, med):** ex-Anduril hardware lead: Hadrian "struggled to consistently deliver high-quality, complex parts" and got no production volume there [src-20250709-43486e]; Boeing CTO-org manager: "we have actually paid probably more", and no certified flying aircraft uses its parts [src-20260818-9b2d5c]; Northrop director: incumbents still have higher precision and a cost edge, and Ti/Inconel capability lags [src-20250707-3b7a46]; defense-startup chief of staff chose Atomic and questions how automated Hadrian really is [src-20250729-a0a78c]; ex-Xometry VP: deals are slow to win [src-20260808-dc5cbb]; ex-Hadrian engineer: CAM vendors are the main threat, and buyers cap a supplier at ~1/3 of its revenue [src-20250708-342eaf].
+- **Buyer and insider voices (expert calls read line by line; speaker role as given by the call network; med):**
+
+| Speaker (relation) | What they said | Source |
+|---|---|---|
+| Boeing Defense head of product, CTO org (current customer) | "None of their parts right now are flying ... all in demonstration stage." Near term a gap filler for spot buys of about 100 parts; long term "about 50%-60% automation". Scores: speed 8, process 9, scalability 8 out of 10. "We get very excited when we get a new supplier that gives us a discount of 5%-7%" | [src-20260818-9b2d5c] |
+| Boeing strategy and M&A lead (buyer view) | Brackets, hinges and bulkheads in under 1 month vs 3-6 months; a "backup player" and "low-volume shop"; price about PCC or slightly more; automation cuts labor from 100 to 30-50 hours but capex offsets it | [src-20250712-e5e110] |
+| Northrop operating-unit GM (buyer) | "Cost is secondary." "Machining the part is just 1/3 of the battle." Hadrian handles fasteners, shims and surge work; needed 8 parts, charged for 10-15; rates it 8/10 | [src-20250707-3b7a46] |
+| PI, ex-Anduril hardware (buyer) | Not "able to deliver reliably high quality parts"; a "narrative play"; Anduril's CNC prototypes went mostly to Protolabs | [src-20250709-43486e] |
+| Chief of staff, 40-person defense startup (buyer) | Uses Atomic Industries more ("turn production in eight days"). Hadrian also claims 8-9 days but is "more manual" and heavy on program managers | [src-20250729-a0a78c] |
+| GE program lead (indirect exposure) | Hadrian is "too new, too young"; broker markups are "pretty horrific"; UK MOD DE&S has a new direct-sourcing cell | [src-20250709-0250ae] (low) |
+| Ex-Hadrian head of engineering | Would be "surprised if any one company could capture 1%" of ITAR machining; machines are German and cost about $1M each; "only have 10 customers"; "all but one of the first 12 or 15 employees are gone" | [src-20250708-342eaf] |
+| Ex-Hadrian (second call) | Power rejected a roll-up as "unredeemable" and went greenfield; started with aluminum milling only; "automate 80% of the tasks about 80% of the way"; keeps 10% of capacity idle for surge | [src-20260611-7b80f0] |
+| Ex-Hadrian (third call; holds equity, a bias) | Factory 1: six machines, "well north of $10 million"; in years 1-2 Anduril was the only defense payer; CAM pay $130-150K vs $80-110K market; "dangerously good salesman" | [src-20260817-8867f2] |
+| Ex-Xometry VP (peer) | "Hadrian needs 10 factories ... Xometry wants 10,000 customers"; revenue "surprisingly small" vs investment; rates Hadrian 6/10 | [src-20260808-dc5cbb] |
+
+- **Contradictions, side by side.** Lead time: Northrop says Hadrian is fast [src-20250707-3b7a46] | a defense startup finds Atomic as fast and less manual [src-20250729-a0a78c]. Quality: Boeing scores process 9/10 [src-20260818-9b2d5c] | ex-Anduril PI says parts missed spec [src-20250709-43486e]. Competitor Formlogic: named as a live competitor by an ex-Hadrian engineer [src-20250708-342eaf] | "went under" per the client on another call [src-20250709-43486e] (unverified).
 - **Why it matters:** the category benchmark; at $7.87B a reference not a target [inference].
 
 ### 5.4 Isembard | precision-parts | hybrid | tracking
@@ -332,6 +372,21 @@ Read: the loop is real where the process is physical and continuous (melt pools,
 
 Note the two ATI backlog figures measure different dates: $3.7B at Dec 28 2025 [src-20260220-d8abeb] vs $4.4B in Q2 2026 [src-20260628-27be55].
 
+**What the expert calls add on incumbents (claims, med).**
+
+| Incumbent | Data point | Source |
+|---|---|---|
+| PCC | Minimum account size about $50M+, majors >$25M; share of Boeing machining fell from 50% to 30% over 10 years; parts cost 5-7% more; also automating | [src-20250712-e5e110] |
+| PCC | A factory fire hit all allocations from that plant, so Boeing will not concentrate supply again | [src-20260818-9b2d5c] |
+| Boeing in-house (conflict) | About 40% of parts made in-house; flight-critical work stays in-house [src-20250712-e5e110] \| only 20-30% of the 1.2M parts per airplane made in-house [src-20260818-9b2d5c]. Different scopes (spend vs part count) are possible | both |
+| Boeing supply base | More than 10 machining shops, wants 2-3; legacy suppliers have "extremely high inertia" | [src-20260818-9b2d5c] |
+| Xometry, Protolabs | Target $5M+ accounts; Boeing spend with each is under $1M and over $1M | [src-20250712-e5e110] |
+| Xometry | Grew after shedding its own machines; Protolabs was held back by its own factories; market stays fragmented for 5 years | [src-20260808-dc5cbb] |
+| Protolabs | 8-inch cube limit on fast CNC; Xometry supplier rates "abysmal" | [src-20260611-7b80f0] |
+| Federal prime awards (USAspending, ledger totals) | Xometry 56 awards, $2.9M, 2014-26; Proto Labs 48 awards, $1.8M, 2008-26; Hadrian 1 award, $79.4M (2026). Incumbent marketplaces win many small federal orders; Hadrian wins few large ones | [src-20260130-7d74e3][src-20080929-77494f][src-20260317-77e798] |
+
+Read: the incumbent threat is not Xometry's software but PCC-type primes' suppliers automating while holding qualification, and primes keeping critical work in-house [inference].
+
 Incumbents are partnering, not building: Lockheed embeds Hadrian [src-20261014-015327] and LM Ventures runs a $1B fund [src-20260401-073d24]; RTX Ventures led Radical [src-20250718-d46f24] and backs Fabri [src-20260617-4dfb96]; Siemens bought Altair and Dotmatics [src-20250326-cc1810][src-20250701-a7fef9]; Lindsay Goldberg is rolling up Alro [src-20260811-27702f].
 
 Failures to learn from:
@@ -363,8 +418,11 @@ Failures to learn from:
 | Boeing strategy head [src-20250712-e5e110] | 20-30% per-part saving "optimistic"; expensive at low volume | 24/7 faster | Xometry better for low volume |
 | Northrop director [src-20250707-3b7a46] | Incumbents keep a cost edge, will price-war | Lead time is the pain | Rates Hadrian 8/10 |
 | Ex-Anduril hardware lead [src-20250709-43486e] | Defense buyers are price-insensitive | n/a | No production volume given |
-| Thales Alenia CPO [src-20251110-84b67e] | n/a | Capacity is the pain | Will not use Isembard until sites are auditable |
+| Thales Alenia CPO [src-20251110-84b67e] | n/a | Capacity is the pain; Chrome VI banned from end-2024 | Prime does not qualify Tier-2 network sites; would only use suppliers with $30-40M revenue; fits smaller defense, auto and energy first |
 | Anduril senior engineer [src-20250623-5bc67c] | Wants conforming parts at competitive price | Lower lead times | Skeptical of "AI bells and whistles" |
+| Ex-Xometry VP [src-20260808-dc5cbb] | n/a | n/a | 50-60% of parts arrive with no 3D model; CEO in every deal, so feast or famine |
+| Defense startup chief of staff [src-20250729-a0a78c] | n/a | Atomic 8 days, Hadrian 8-9 days | Big buyers will move in-house after a "honeymoon period" |
+| GE program lead [src-20250709-0250ae] (low) | Broker markup "pretty horrific" | n/a | Hadrian "too new, too young" |
 
 The contradiction to put on the slide: Raytheon reports Hadrian *cheaper*; Boeing reports it *dearer at volume*. Both can be true if Hadrian prices aggressively on low-volume, urgent work [inference]. The demand that is proven is speed on prototypes and LRIP; demand at rate production is not yet proven [inference].
 
@@ -386,6 +444,22 @@ The contradiction to put on the slide: Raytheon reports Hadrian *cheaper*; Boein
 | Mariana | ~$400M incl. project capital | $310M B, val. n/d ($1.5B Harmonic, low) | Project capital | n/d | Project finance | [src-20260803-30e6d5] |
 
 Pattern: equity for software, team and plant #1; banks, OSC and project finance for plants #2+ [inference]. Bear: Lowercarbon says modular-hardware companies at Series B often have ~$10M revenue at break-even gross margin [src-20251211-87dc10]; a six-machine first plant cost >$10M [src-20260817-8867f2]. ABL (asset-based lending against receivables and inventory) is not evidenced for any tracked startup (gap).
+
+---
+
+## 9A. Unit economics by layer
+
+Startup margins are not disclosed anywhere in the repo. The table puts incumbent benchmarks next to the cost drivers the expert calls quantify. Cells marked (claim) come from a single speaker.
+
+| Layer | Gross margin benchmark | Capex and fixed cost | Variable cost and pricing | What moves the margin [inference] |
+|---|---|---|---|---|
+| metals-supply | Service centers 17.7% (Ryerson) to 31.6% FIFO (Reliance) [src-20260729-407fd7][src-20261021-16bb64]; Nucor 12% FY25 [src-20260225-3ea941] | Vulcan 10,000 t magnet plant on a $1.4B package [src-20251103-ee9b27] | Metal price passes through; tariffs lift inventory gains [src-20260728-ae7dea] | Quote speed and remnant use; price cycle dominates |
+| fabrication | SendCutSend profitable 8 years, margin n/d [src-20260519-38c7ed] | ~$50M per new facility; first laser $750K, debt-financed [src-20260519-2d6ceb][src-20260227-e92d45] | Xometry material can be 85% of a part's price (claim) [src-20260611-7b80f0] | Utilization (80-90% target) [src-20260626-541ac8] |
+| precision-parts | Proto Labs 44.5%; own factories 49% vs network 31% [src-20260206-8bb619][src-20260206-2b13c7]; job shops 15-25% (thesis.md) | Plant 1: six machines, >$10M; Grob/Hermle 5-axis about $1M each vs Doosan $200K; target 20-25% low-cost machines (claim) [src-20260817-8867f2]; Mesa ~$200M [src-20250820-cfbf02] | Labor hours 100 to 30-50 per part, net saving 20-30% at best after capex (claim) [src-20250712-e5e110]; NRE $1-5K, casting tooling tens to hundreds of $K [src-20260611-7b80f0]; CAM staff $130-150K [src-20260817-8867f2] | Machining is 1/3 of the work; inspection, paperwork and certs are the rest [src-20250707-3b7a46][src-20260611-7b80f0] |
+| materials-rd | Custom programs 5-15%, platform 85-90% (claim) [src-20261016-29997e] | Self-driving lab about $20M to build, low running cost (claim) [src-20260909-af3e60] | Buyer pays about $150K per software benchmark, $500K per pilot, $2M per validated candidate, $10-15M a year per lab line (claim) [src-20260909-af3e60]; ACVs "hundreds of thousands to millions" [src-20260913-3ad55e] | Hit rate and repeat campaigns; royalties rejected |
+| factory-ai | Rockwell 49.5% [src-20260804-0e8130] | Software; needs a host plant | Arda usage-based [src-20261020-a1e174]; AI Robotics welding inspection on 24 lines, revenue up about 18x, profitable without outside capital [src-20261011-a8b14d] | False-detection rate on live lines [src-20261011-a8b14d] |
+
+Power and compute are minor costs: 1,200A service with 500-600A used for 6-8 machines; about 30 CNCs run on 2,000A (claim) [src-20260817-8867f2].
 
 ---
 
@@ -466,6 +540,12 @@ Gaps: Golden Dome dollar flows (the NDAA requires reports, not money) [src-20251
 - The AI is thinner than the pitch: Opus rides third-party CAM [src-20261004-9b47f5]; robot learning at ~60% vs 99.9% [src-20260904-267293]; A-Lab novelty claims retracted in part [src-20240124-513fd9].
 - Valuation: Hadrian $7.87B, Mind $3.4B, Periodic ~$7.5B (reported) with no audited revenue; a defense-budget or tariff reversal hits capex built ahead of contracts [src-20260921-876080].
 - Slack exists: 34% spindle utilization in incumbent shops [src-20250120-419768] means demand can be met without new plants.
+- Share per customer is capped by policy: a 1/3-of-revenue cap at SpaceX [src-20250708-342eaf], no single-sourcing after the PCC fire [src-20260818-9b2d5c], and 5-10 years to trust a new supplier [src-20250712-e5e110].
+- Regulators get stricter after Boeing's quality lapses: "Innovation ... is the first thing that gets sacrificed, and Hadrian falls in that innovation category" [src-20260818-9b2d5c].
+- Team durability: 90% of Hadrian's first 10 employees gone by year 5; a 40-person software team churns [src-20260817-8867f2].
+- AI CAM vendors sell the same automation to every incumbent shop: CloudNC CAM Assist is in GibbsCAM [src-20261021-9769d1][src-20261009-7cafd0]. Ex-Hadrian staff call CAM vendors the main threat [src-20250708-342eaf].
+- Some buyers see financing, not venture: "better suited to debt than VC" [src-20250709-43486e]; "propped up by VC money" (peer view) [src-20260808-dc5cbb].
+- Materials-rd: model leadership turns over on a "three-month cadence", so stickiness is falling [src-20260909-af3e60] (low); chemical customers have "25 data points", not big data [src-20260913-3ad55e].
 
 **Bias check on targets.** Senra (10 sources), Freeform (14) and Isembard (13) are among the least-covered names, not the most (Hadrian 76, Machina 42, Arda 33, SendCutSend 31). That avoids picking for press volume but means each target rests mostly on company claims; Isembard also has the one negative buyer call. Treat all three as hypotheses for diligence, not conclusions.
 
@@ -587,20 +667,18 @@ Slide 8 mixes round sizes and valuations [src-20261022-80fd75]. Corrected values
 9. [src-20260623-d1790b] Mariana's autonomous mine and RL control.
 10. [src-20260402-1b5d6c] Section 232 April 2026 proclamation.
 
-## Appendix E. Source coverage (audit 2026-10-25)
+## Appendix E. Source coverage (ledger, 2026-10-25)
 
-Every one of the 1,437 records in sources/ was screened by title, tags and summary. Depth of reading is below; "full" means the body was read, "summary" means the filed summary or key facts only.
+Full per-source ledger (1,437 rows: id, type, category, read status, key facts, primer section): `insights/exports/primer-ledger.csv`. Summary:
 
-| Bucket | Count | How read | Used? |
-|---|---|---|---|
-| Cited in this primer | 214 | Bodies read while drafting; long podcast transcripts via summary | yes |
-| On-thesis, not cited | 431 | Summary for all; body passages for 13 expert calls (scanned for price, quality, risk), 14 filings, 131 items with no summary | material points folded in above |
-| of which: no text captured (LinkedIn, TBPN) | 9 | not read; URL only | no |
-| Federal-award stubs (Proto Labs, Xometry USAspending rows) | 187 | summary | no: aggregated in repeat-orders-evidence |
-| Excluded companies (Lilly's list) | 14 | title only | no, except Bright Machines as failure |
-| Name-collision noise (e.g. "tar", "figure", "tulip", "deterrence", "rangeview" sweeps returning sports, crypto, obituaries) | 344 | title | no: off-thesis |
-| Syndicated duplicates (Arda launch, L3Harris-Divergent, Mind/Doug Field, SendCutSend PA, Hadrian-Lockheed) | 74 | title, one copy read | no |
-| Adjacent, not producers (biotech AI, Saronic, Hermeus, Boston Dynamics, safety vision, energy) | 115 | title and summary | no |
-| Form D filings for SPVs and repeat entries | 58 | data row | no |
+| Bucket | Count | Read status |
+|---|---|---|
+| Expert calls read line by line | 13 | yes: every line read; notes kept in the ledger |
+| Promoted from dup/noise after full read (CloudNC x2, AI Robotics) | 3 | yes; now cited |
+| Other cited sources | 207 | partial: cited passages read in the body; long podcast transcripts read via summary plus keyword pass |
+| On-thesis, not cited | 419 | no: machine-read (keyword and number extraction on full body, plus summary). About 1.5M words, not read line by line |
+| Form D and federal-award stubs | 256 | data row checked: 237 match a company in raising-now or repeat-orders; 19 are history rows for excluded or non-target companies |
+| Noise / off-thesis / duplicates | 343 / 115 / 71 | no: full body keyword-scanned to confirm the category; 66 high-keyword items hand-checked, 4 promoted (1 to adjacent) |
+| Of the rows above, no body text captured (LinkedIn, TBPN stubs, empty pages) | 14 | no: nothing to read beyond the stub |
 
-Honest limits: the 13 newly used expert calls (on Hadrian, Isembard, CuspAI) were read by targeted passages, not line by line. 75 podcasts were read as summaries only. The repo sweep pulled in ~344 noise records; recommend deleting or retagging them.
+Honest limits: about 2.2M on-thesis words exist; only the 13 expert calls (about 83K words) were read line by line. Not read line by line: 15 other on-thesis expert calls (12 cited, 3 uncited; passages and summaries used) and all 99 on-thesis podcasts (27 cited). 20 off-thesis or noise expert calls were checked for category only.

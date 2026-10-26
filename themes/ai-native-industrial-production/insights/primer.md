@@ -16,11 +16,14 @@ Confidence (`high/med/low`, per taxonomy) is marked on numbers from a deleted po
 **Verdict [inference].** Back capital-light owner-operators at Series B only where speed and qualification are already paid for (Senra, Freeform, Isembard, as diligence hypotheses). Use Hadrian, Divergent and SendCutSend as benchmarks. Do not pay software multiples for job-shop economics until a company shows unit cost or quality improving with volume. Nobody in the repo shows that yet.
 
 **What the 13 expert calls (read line by line) changed.**
-1. **Price is not the wedge.** Only Raytheon reports Hadrian cheaper [src-20250708-2aa3ad]. Three Boeing voices say parity or more: "we have actually paid probably more" (Boeing Defense head of product) [src-20260818-9b2d5c]; Hadrian priced at "PCC or slightly more" (Boeing strategy/M&A lead) [src-20250712-e5e110]. A Northrop GM: "Cost is secondary. Cost is driven usually by schedule" [src-20250707-3b7a46]. The premium buyers pay is for speed.
+1. **Price is not the wedge.** The only "cheaper" report (Raytheon, about 50% lower) came from RFQ quotes before any part was delivered, on a relationship brokered by RTX Ventures, a Hadrian investor [src-20250708-2aa3ad]. A Boeing customer says Xometry is cheapest and a 20-25% price gap means re-sourcing [src-20260802-ef6506]. Three Boeing voices say parity or more: "we have actually paid probably more" (Boeing Defense head of product) [src-20260818-9b2d5c]; Hadrian priced at "PCC or slightly more" (Boeing strategy/M&A lead) [src-20250712-e5e110]. A Northrop GM: "Cost is secondary. Cost is driven usually by schedule" [src-20250707-3b7a46]. The premium buyers pay is for speed.
 2. **Quality at complexity is the open risk.** "None of their parts right now are flying" (Boeing Defense) [src-20260818-9b2d5c]. "We haven't received parts back that matched the specification" (PI, ex-Anduril hardware) [src-20250709-43486e].
 3. **Share per customer is capped by design.** SpaceX caps a shop at about 1/3 of its revenue (ex-Hadrian head of engineering) [src-20250708-342eaf]. After a PCC factory fire, Boeing "will never" concentrate one part family on one supplier [src-20260818-9b2d5c]. Revenue per customer has a ceiling, so growth needs many primes [inference].
 4. **The moat is workflow plus qualification, and AI CAM is coming from below.** Insiders say the edge is the Opus MES plus factory design, not toolpath AI [src-20260817-8867f2][src-20261004-9b47f5]. CloudNC sells CAM Assist to every shop and tests it in its own UK factory [src-20261009-7cafd0]. Programs last about 50 years, and suppliers for a 2035 aircraft are being chosen now [src-20260818-9b2d5c].
 5. **Materials-rd budgets are not growing fast.** A former Moderna director says buyer budgets have not grown "crazily" in 5-6 years and that the gain is a "step one productivity boost" [src-20260909-af3e60] (low). An Albert Invent director says chemical majors reject royalty models ("The short answer is no") [src-20260913-3ad55e].
+
+6. **OTA work hides the quality gap.** OTA contracts waive many mil-spec quality requirements; when programs move to standard production contracts, "there's a gap" in statistical lot inspection that Hadrian "is still maturing" on. At thousands of parts its cost curve "asymptotes at a higher level" than traditional shops, and schedule is "near equal" once full inspection is counted (Boeing executive director, customer spending "low single millions" a year, "a fraction of a percent" of outside spend) [src-20260908-ed94f0]. He thinks "low tens of millions" could replicate Hadrian; a Northrop customer engineer thinks it is hard to copy [src-20260802-36d46c].
+7. **The only learning-over-time number.** Hadrian's first programming head: "within a couple of years, we saw a 50% cut" in order-to-first-article time; 70% 24-hour utilization is "very, very realistic"; pricing targets about 30% contribution margin; Opus "is replicable" and the moat is "financial power" plus a five-year head start [src-20261004-9b47f5].
 
 **Evidence on the four thesis claims** (claims as numbered in insights/thesis.md)
 
@@ -331,7 +334,7 @@ Scale: 0 asserted only; 1 mechanism described; 2 partial evidence; 3 quantified 
 |---|---|---|---|---|
 | Freeform | 2 | Meltpool vision adjusts each layer live | [src-20241024-7f1c2e][src-20260219-2125d7] | Yield or cost trend over time |
 | Mariana | 2 | RL agents adjust process every 15 min | [src-20260623-d1790b] | Recovery or cost data per tonne |
-| Hadrian | 2 | Opus workflow, programming and QC | 30-40 day training [src-20260926-70087f]; 25-75% cycle-time cuts per ex-employee [src-20261004-9b47f5] | Relies on third-party CAM [src-20261004-9b47f5] |
+| Hadrian | 2 | Opus workflow, programming and QC | 30-40 day training [src-20260926-70087f]; 25-75% cycle-time cuts at a studied shop; 50% cut in order-to-first-article within about two years [src-20261004-9b47f5] | Relies on third-party CAM [src-20261004-9b47f5] |
 | Radical AI | 2 | Self-driving lab closed loop | 8-20 alloys/day [src-20260617-f9d293] | Hit rate trend |
 | Divergent | 2 | Generative design to print to assembly | 600+ part numbers [src-20250915-311606] | Cost per part trend |
 | Senra | 1 | Amp reuses BOM and labor data | 99% FPY claim [src-20260715-68183e] | Before/after |
@@ -408,7 +411,7 @@ Failures to learn from:
 
 | Buyer | Price vs incumbents | Speed | Share of wallet / switching |
 |---|---|---|---|
-| Raytheon senior manager [src-20250708-2aa3ad] | Hadrian ~50% lower | ~1/3 the lead time | Suppliers at 80-90% utilization |
+| Raytheon senior manager [src-20250708-2aa3ad] | Hadrian ~50% lower on RFQ quotes; no parts received yet; introduced via RTX Ventures | ~1/3 the lead time | Sweet spot $300-700 parts, no castings; suppliers at 80-90% utilization |
 | Boeing head of product [src-20260802-ef6506] | 20-25% gap would trigger re-sourcing | Hadrian 2-3x faster | Hadrian 2-3% of precision spend, prototypes and non-critical parts |
 | Boeing executive director [src-20260908-ed94f0] | At 1,000 parts a traditional shop is cheaper | Full inspection time equal | Losing Hadrian = minimal impact |
 | Northrop process engineer [src-20260802-36d46c] | Would pay 20-40% more to avoid program delay | n/a | Hadrian <10% of outsourced work, maybe 10-20%; CNC only; replacing it takes months to a year |
@@ -673,12 +676,12 @@ Full per-source ledger (1,437 rows: id, type, category, read status, key facts, 
 
 | Bucket | Count | Read status |
 |---|---|---|
-| Expert calls read line by line | 13 | yes: every line read; notes kept in the ledger |
+| Expert calls read line by line | 18 | yes: every line read (about 111K words); notes in the ledger |
 | Promoted from dup/noise after full read (CloudNC x2, AI Robotics) | 3 | yes; now cited |
-| Other cited sources | 207 | partial: cited passages read in the body; long podcast transcripts read via summary plus keyword pass |
+| Other cited sources | 202 | partial: cited passages read in the body; long podcast transcripts read via summary plus keyword pass |
 | On-thesis, not cited | 419 | no: machine-read (keyword and number extraction on full body, plus summary). About 1.5M words, not read line by line |
 | Form D and federal-award stubs | 256 | data row checked: 237 match a company in raising-now or repeat-orders; 19 are history rows for excluded or non-target companies |
 | Noise / off-thesis / duplicates | 343 / 115 / 71 | no: full body keyword-scanned to confirm the category; 66 high-keyword items hand-checked, 4 promoted (1 to adjacent) |
 | Of the rows above, no body text captured (LinkedIn, TBPN stubs, empty pages) | 14 | no: nothing to read beyond the stub |
 
-Honest limits: about 2.2M on-thesis words exist; only the 13 expert calls (about 83K words) were read line by line. Not read line by line: 15 other on-thesis expert calls (12 cited, 3 uncited; passages and summaries used) and all 99 on-thesis podcasts (27 cited). 20 off-thesis or noise expert calls were checked for category only.
+Honest limits: about 2.2M on-thesis words exist; about 113K (5%) were read line by line: 18 expert calls plus the 3 promoted items. Not read line by line: 10 other on-thesis expert calls (7 cited, 3 uncited; passages and summaries used) and all 99 on-thesis podcasts (27 cited). 20 off-thesis or noise expert calls were checked for category only.

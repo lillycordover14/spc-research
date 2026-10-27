@@ -1,6 +1,6 @@
 # Vertically Integrated Industries: VC primer
 
-_Version 9.6, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.4 adds "Listen & watch" episode lists to each chapter and a listening appendix (E). v9.3 renamed Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over. v9.5 adds "Commercial traction and incumbents" sections (3.14-7.14), removes Nox from Raw Materials, and removes repeated text (Chemicals first). v9.6 narrows chapter 5 to Specialty Chemicals: full market map, supply chain, economics, incumbents and new AI-enabled specialty startups._
+_Version 9.7, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.4 adds "Listen & watch" episode lists to each chapter and a listening appendix (E). v9.3 renamed Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over. v9.5 adds "Commercial traction and incumbents" sections (3.14-7.14), removes Nox from Raw Materials, and removes repeated text (Chemicals first). v9.6 narrows chapter 5 to Specialty Chemicals: full market map, supply chain, economics, incumbents and new AI-enabled specialty startups. v9.7 adds an "Our view" box (analyst judgment) under each industry and sub-category, and a Views at a glance table (0.1)._
 
 **The idea in plain English.** America has spent forty years outsourcing the "hard middle" of making things: digging and refining minerals, making metal, machining and welding parts, and producing chemicals. Now defense, industrial policy and China's export controls make that middle valuable again, and it is short of plants and people. We look for startups that **own the plant and sell the physical output** (a mineral, a metal, a part, a chemical) and use **AI, software and automation inside their own operations** to build faster and run with fewer scarce skilled workers than incumbents. Owning production is what lets them keep the margin and the data.
 
@@ -67,6 +67,26 @@ _In one line: the category is real and defense demand is strong, but most buyers
 | 2 | Owning the plant creates a data loop | Freeform and Mariana score 2 (section each chapter's data-loop section). Ex-Hadrian: about 80% of non-CAM labor automated, lead times cut about 50% [src-20250708-342eaf]; reprogramming saved 50-80% of CAM time [src-20260611-7b80f0] | Toolpaths come from third-party CAM, with Vericut (simulation software) as the check [src-20260611-7b80f0][src-20261004-9b47f5]; CMM (coordinate measuring machine) inspection is manual [src-20260817-8867f2]; a buyer asks "is it actually" software-enabled [src-20250729-a0a78c] | Workflow automation is real. Learning with volume is not evidenced |
 | 3 | Moats: process data, secured capacity, qualification | Trusting a new supplier takes 5-10 years [src-20250712-e5e110]; change-of-control clauses in defense contracts (contracts that can be voided if the supplier is sold) [src-20260817-8867f2]; lock-in from 50-year programs [src-20260818-9b2d5c] | Share caps (finding 3); 90% of the first 10 Hadrian employees gone by year 5 [src-20260817-8867f2]; incumbent PCC is also automating [src-20250712-e5e110] | Qualification is a moat once paid, but it caps share. No data moat evidenced |
 | 4 | Hardware-inclusive producers can return venture outcomes | SendCutSend profitable 8 years [src-20260519-38c7ed]; Hadrian plants are debt-funded [src-20260817-c48f28] | "Not ... a fantastically profitable business"; a six-machine plant 1 cost "well north of $10 million" [src-20260817-8867f2]; net per-part saving after capex is 20-30% at best [src-20250712-e5e110]; Hadrian is "better suited to debt than VC" (ex-Anduril PI) [src-20250709-43486e] | Unproven. Underwrite the speed premium and the debt capacity, not cost leadership |
+
+
+### 0.1 Views at a glance _(analyst judgment, not fact [inference]; detail in each chapter's "Our view" box)_
+
+| Category | Stance | Conviction | Top names (label) | Key signal |
+|---|---|---|---|---|
+| Raw Materials | Selective | Medium | Vulcan, Mariana (Full) | Offtakes renew without subsidy |
+| — Stage A, exploration | Watch | Medium | Earth AI (Hybrid) | First formal resource estimate |
+| — Stage B, refining and metal | Attractive, selectively | Medium | Vulcan, Mariana (Full) | Mariana hits nameplate; Section 232 holds |
+| Manufacturing | Selective | Medium | Senra, Freeform (Full); Isembard (Hybrid) | Unit cost falling with volume |
+| — Metal Supply | Watch | Low | Nox (Full, passed) | AI distributor beats Reliance margins |
+| — Fabrication | Attractive | Medium | Senra, 1872 (Full); Machina (Hybrid) | Customers stay as they grow |
+| — Precision & Defense Hardware | Selective | Medium | Freeform (Full); Isembard (Hybrid) | Parts flying on a production program |
+| Specialty Chemicals | Selective | Medium | Solugen, Osmo, Phlow (Full); Scimplify (Hybrid) | Phlow FDA approval in 2027 |
+| — Pharma ingredients / Fragrances | Attractive | Medium | Phlow, ODP / Osmo (Full) | FDA approval; large fragrance-house customers |
+| — Agro / electronic / catalysts | Watch | Low | Enko (Hybrid); Dunia (Enabler) | A registered product or supply contract |
+| Advanced Materials | Selective | Low–medium | Orbital, Mitra (Full) | Orbital fluid ships with 2027 GPUs |
+| — Producers | Selective | Medium | Orbital, Mitra (Full) | Qualification and offtakes |
+| — Materials Discovery Labs | Watch | Medium | Radical (Hybrid); CuspAI, Periodic (Enabler) | A lab sells material |
+| Enabling Software & Robotics | Watch | Medium | Arda, Mind, GrayMatter (Enabler) | Retention; robot success above ~90% |
 
 ## 1. The theme in plain English
 
@@ -360,6 +380,15 @@ _Free episodes and videos for this chapter (from listening list v2; links checke
 
 ## 3. Raw Materials (Minerals & Metals)
 
+> **Our view: Raw Materials** _(analyst judgment, not fact [inference])_
+> - **Stance:** Selective. Back refining and magnets (Stage B) where a government or defense buyer is already paying, and watch exploration (Stage A).
+> - **Conviction:** medium. Policy pull is the strongest of any industry (2.14), but profits depend on prices, which a startup cannot control.
+> - **Why:** (1) only the owner of a non-Chinese plant can sign the offtake that OSC and EDF lenders want [src-20260804-05a6a5]; (2) the data loop scores 2 where the process runs continuously (Mariana); (3) startups win on small deposits, tailings and magnet steps that majors ignore (3.14).
+> - **Strongest counter:** MP, the largest US name, still loses money [src-20260201-0b4d7a]. A Chinese price cut or a US–China deal could strand subsidized plants.
+> - **What would change our mind:** price floors renewed without subsidy; Mariana hits nameplate on schedule; OSC fund-finance commitments close (expected by March 2027).
+> - **Best placed / watch:** Vulcan (fully integrated), Mariana (fully integrated); watch Earth AI (hybrid) and Phoenix Tailings (context).
+> - **Good SPC fit:** Series A–B; a plant financed mostly by government debt, with venture money paying for software and ramp; buyer is DoD, a prime or an automaker with an offtake.
+
 _What this industry is._ Raw Materials covers everything from finding ore to delivering a finished metal product: **Stage A, finding and mining** (exploration, mining and concentrating ore) and **Stage B, refining and making metal** (refining to pure oxides, carbonates or cathode, then smelting, alloys, magnets and powders). It sits at the bottom of every supply chain in this primer. Metal distribution (service centers that buy mill metal and cut it to size) now sits in Manufacturing (chapter 4) as a supplier to parts makers.
 
 ### 3.1 Shared macro: China's refining grip, the critical-minerals orders and government lending
@@ -529,6 +558,8 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 
 #### Stage A — Finding and mining
 
+> **Our view: Stage A, exploration** _(analyst judgment)_ — **Watch, not invest yet. Conviction: medium.** **Why:** AI lowers the cost of finding a deposit (**claim:** Earth AI, about $100 a meter [src-20250127-c28430]), but a find earns nothing until a mine is built, and mines take 15.7–19.1 years from discovery (3.14). **Counter:** cheap drilling plus owned claims could let an explorer sell deposits early to miners, which is a real business. **Change our mind:** a formal resource estimate at Earth AI's Fontenoy or Willow Glen, or a sale of a deposit to a major. **Watch:** Earth AI (hybrid). **Good fit:** owns its claims and rigs, sells deposits to majors, and has a buyer lined up before drilling out.
+
 #### Earth AI (mineral exploration; hybrid; owns claims, drills, sells deposits)
 
 **What it does.** Earth AI uses its own AI targeting software to pick where minerals are likely to be in poorly explored ground, then drills those targets with its own low-cost drill rigs. **Claim (Earth AI):** drilling at about $100 a meter, a 75% discovery success rate against an industry estimate of about 0.5%, and exploration costs up to 80% lower [src-20250127-c28430]. It is now building its own assay labs because outside labs left it about 7,000 meters of samples behind; the goal is results in five days instead of five months. It will still use third parties to validate a discovery before any sale [src-20260429-1bdb70]. Founded in 2017; projects are in New South Wales and the Northern Territory, Australia [src-20250127-c28430][src-20250326-5929b8].
@@ -567,6 +598,8 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 - **Oct 26 podcast (formerly 0A; all company claims, agent transcription):** Mariana has four software suites and retrofits autonomy onto equipment partly through partner firms. VC funds R&D while most mine capex comes from separate project investors. East Texas lithium goes to an unnamed battery company and ramps next year. It has two projects today against a goal of 10 [src-20261024-c53370].
 
 #### Stage B — Refining and making metal
+
+> **Our view: Stage B, refining and metal** _(analyst judgment)_ — **Attractive now, selectively. Conviction: medium.** **Why:** the scarce thing is a permitted, working plant outside China; DoD and OSC money flows here first (13, conclusion 5); Vulcan's pilot output is sold out 12 months ahead (**claim**) [src-20250811-e7cb9a]. **Counter:** a refinery is one giant bet better suited to debt, and Ganfeng lost over 75% of its value with lithium prices [src-20250529-3a588b]. **Change our mind:** offtakes that renew without subsidy (bull); a court overturning Section 232 (bear). **Best placed:** Vulcan, Mariana (fully integrated). **Good fit:** pilot already shipping to a qualified defense buyer; government debt for plant two.
 
 #### Vulcan Elements (magnets; fully integrated; fits)
 
@@ -638,6 +671,15 @@ _Status labels: **Revenue** = paying customers or product sales; **Pilot** = pil
 **5-year outlook (to 2031).** _Stage B refining and magnets:_ **possible**. Vulcan and Mariana have product and government pull. _Stage A AI exploration:_ **unlikely**. Discovery-to-mine timelines run well past 2031. **Bear case, equal weight:** the subsidy-backed buyers (DoD, OSC loans) may not renew, loans are still conditional, and Chinese price cuts can strand US plants; MP is the largest US name and still loses money [src-20260201-0b4d7a].
 
 ## 4. Manufacturing
+
+> **Our view: Manufacturing** _(analyst judgment, not fact [inference])_
+> - **Stance:** Selective. Back capital-light owner-operators where speed and qualification are already paid for, and use the large names as benchmarks.
+> - **Conviction:** medium. Demand is real and policy now buys orders, but price is not the wedge and no one shows unit cost falling with volume.
+> - **Why:** (1) defense buyers pay for speed and capacity (section 0, finding 1); (2) SendCutSend has been profitable for 8 years [src-20260519-38c7ed], so the model can work; (3) the FY26 NDAA adds multiyear munitions and advance payments [src-20251218-f0d6ef].
+> - **Strongest counter:** at 1,000 parts an old shop is cheaper [src-20260908-ed94f0], and AI CAM tools are sold to every shop [src-20260908-f98d21].
+> - **What would change our mind:** a startup above 20% of a prime's rate-production spend at a lower price; published scrap or cycle-time curves improving with volume.
+> - **Best placed / watch:** Senra and Freeform (fully integrated), Isembard (hybrid); benchmarks Hadrian, Divergent, SendCutSend.
+> - **Good SPC fit:** Series B; owns the shop floor; already paid by primes or defense for speed; debt funds the machines.
 
 _What this industry is._ Manufacturing turns metal (and some plastics and composites) into finished parts made to a customer's drawing. We use three sub-types, in chain order, and tag every company with one:
 
@@ -766,6 +808,8 @@ _More unit-economics inputs: Appendix D._
 
 #### Metal Supply
 
+> **Our view: Metal Supply** _(analyst judgment)_ — **Watch, not invest yet. Conviction: low.** **Why:** tariffs and policy help US metal (Nucor credits trade policy for record shipments [src-20260727-787ce9]), but the margin sits with incumbents. Reliance is taking share without AI [src-20261022-1e6872], and we passed on Nox. **Counter:** distributor software is open territory (13), and a distributor that owns inventory and pricing data could build a real loop. **Change our mind:** an AI-native distributor shows better margins or turns than Reliance at scale. **Benchmarks:** Vulcan and Mariana upstream; Nox (fully integrated, passed). **Good fit:** asset-light, sells to job shops and primes, wins on quoting and inventory, not on owning the metal.
+
 #### Nox Metals (metal distribution; fully integrated; we passed)
 
 - An automated metal distributor outside Detroit with nesting software [src-20261009-404b9b]. $11.5M seed (Hyperion) [src-20260616-1cf7cb]. About 12 people at one site [src-20260325-5b68db]. Its founder's "controversial belief" is "raw capacity over everything else" [src-20260427-83b102].
@@ -774,6 +818,8 @@ _More unit-economics inputs: Appendix D._
 _Sub-type: metal supply / service center._
 
 #### Fabrication
+
+> **Our view: Fabrication** _(analyst judgment)_ — **Attractive now. Conviction: medium.** **Why:** it is the cheapest lane to enter (13, conclusion 4); SendCutSend shows the model can be profitable [src-20260519-38c7ed]; high use of machines comes from scheduling software rather than robots [src-20260626-541ac8]. **Counter:** customers "outgrow us" and buy their own machines [src-20251002-6a5afd], and SendCutSend can beat China on only about 20–25% of its work [src-20260519-2d6ceb]. **Change our mind:** repeat-order data showing customers staying as they grow. **Best placed:** Senra (pick), 1872 (fully integrated), Machina (hybrid); benchmark SendCutSend. **Good fit:** Series B, high-mix work, defense or hardware buyers, software-driven quoting.
 
 #### SendCutSend (fabrication; fully integrated; fits, benchmark)
 
@@ -808,6 +854,8 @@ _Sub-type: fabrication._
 - _More detail: Appendix D (Machina Labs)._
 
 #### Precision & Defense Hardware
+
+> **Our view: Precision & Defense Hardware** _(analyst judgment)_ — **Selective; mostly priced out at the top. Conviction: medium.** **Why:** defense demand and long programs lock in suppliers for decades [src-20260818-9b2d5c]; Freeform's continuous process scores 2 on the data loop; but Hadrian is valued at $7.87B [src-20260807-b0dc5b]. **Counter:** quality on complex parts is unproven ("none of their parts right now are flying") and buyers cap any one supplier at about a third [src-20250708-342eaf]. **Change our mind:** parts flying on a production program at a lower unit price. **Best placed:** Freeform (fully integrated, pick), Isembard (hybrid pick); benchmarks Hadrian, Divergent; watch Amca, Atomic. **Good fit:** Series B, enters through spare parts, qualified with one prime.
 
 #### Hadrian (precision parts; hybrid; fits mostly, benchmark)
 
@@ -969,6 +1017,15 @@ _Labels as in 3.14._
 
 ## 5. Specialty Chemicals
 
+> **Our view: Specialty Chemicals** _(analyst judgment, not fact [inference])_
+> - **Stance:** Selective. Pharma ingredients and fragrances now; agrochemicals and discovery labs to watch.
+> - **Conviction:** medium. Margins are real (5.2) and reshoring policy helps, but new molecules face long reviews.
+> - **Why:** (1) specialty players earn far more than commodity players (Lonza 31.6% vs losses at Dow) [src-20260128-af3b8f]; (2) China and India dependence gives US makers a policy-backed buyer (5.6); (3) Osmo shows that owning an AI-designed molecule and the plant can earn money [src-20260204-1ec8c6].
+> - **Strongest counter:** generics are excluded from the tariff, US demand is flat, and new-chemical reviews took a median of 520 days in 2025 [src-20261027-f4abbf].
+> - **What would change our mind:** Phlow's FDA approval in 2027; Osmo naming large fragrance-house customers; faster EPA reviews.
+> - **Best placed / watch:** Solugen, Osmo, Phlow (fully integrated); Scimplify, Enko (hybrid); Albert (enabler).
+> - **Good SPC fit:** Series A–B; owns the molecule or process and a small US plant; buyer is a pharma, consumer or industrial brand with repeat orders.
+
 _What this industry is._ Specialty chemicals are molecules sold for what they do, not what they are, in smaller volumes and at higher prices than bulk chemicals. This chapter covers pharmaceutical ingredients (APIs, their intermediates and key starting materials), agrochemical actives, electronic and semiconductor chemicals, flavors and fragrances, coatings and additives, catalysts, performance polymers, and AI molecule discovery. Engineered materials (battery cathodes, cooling fluids, alloys) and the materials discovery labs sit in chapter 6. **Brooke's focus** runs through the chapter: the chemical supply chain (5.6, 5.7) and AI-designed molecules (5.8, 5.10, 5.14).
 
 ### 5.1 The problem today
@@ -979,6 +1036,8 @@ _What this industry is._ Specialty chemicals are molecules sold for what they do
 - **The 'valley of death' killed the last wave.** See 5.11 (1).
 
 ### 5.2 Market map, size and economics
+
+> **Our view by segment** _(analyst judgment)_: **Pharma ingredients:** attractive now, medium conviction (policy buyer; Phlow waits on FDA). **Fragrances and custom specialty:** attractive now, medium (Osmo and Scimplify already sell). **Agrochemical actives:** watch, low (registration takes 10–15 years, a **claim** by Enko's CEO [src-20250601-f7467b]). **Electronic chemicals and catalysts:** watch, low (lab stage only). **Coatings, additives and polymers:** no producer startup found; software only (Albert).
 
 Estimates of the global specialty market vary with definitions: **$626.5B** in 2025 on one count [src-20260101-69df28] and **$1.4T** on a broader one [src-20250101-1d84c3] (both low-confidence market-research figures). Asia-Pacific is about 47% of revenue [src-20260101-cab1ab].
 
@@ -1261,6 +1320,15 @@ _What incumbents do better:_ qualified products, global sales forces and regulat
 
 ## 6. Advanced Materials
 
+> **Our view: Advanced Materials** _(analyst judgment, not fact [inference])_
+> - **Stance:** Selective. Back producers with an urgent buyer; watch discovery labs.
+> - **Conviction:** low to medium. The needs are new (PFAS-free cooling, hypersonic alloys) but no AI-designed material sells at scale yet.
+> - **Why:** (1) only the plant owner captures the margin at the supply step (6.4); (2) startups win where no incumbent is qualified (6.14); (3) liquid cooling is expected to reach 53% share in 2026 [src-20260817-13658d].
+> - **Strongest counter:** qualification takes 1–5 years and can outlast runway; Chinese cathode prices cap margins; investors say there is "no AlphaFold moment" for materials yet [src-20260528-2c20ee].
+> - **What would change our mind:** Orbital's fluid shipping with 2027 GPUs; a discovery lab selling material, not papers.
+> - **Best placed / watch:** Orbital, Mitra (fully integrated); Radical (hybrid); CuspAI, Periodic, Lila (enablers).
+> - **Good SPC fit:** Series A–B; makes its own product, or uses a contract maker while keeping the margin; buyer is a data-center, defense or battery customer already in qualification.
+
 _What this industry is._ Advanced Materials covers companies that make and sell engineered materials rather than commodity molecules: battery cathodes, cooling fluids and hardware for data centers, sorbents, alloys and catalysts. Two producers sit here (Mitra Chem, Orbital Industries). AI discovery labs (Radical AI, CuspAI, Periodic Labs, Lila Sciences) are kept in a clearly labeled sub-group, **Materials Discovery Labs**: they invent materials with AI and robotic labs but mostly do not yet sell product at scale.
 
 ### 6.1 The problem today
@@ -1363,6 +1431,8 @@ _Materials unit economics, data loop and right to win (v8 sections 4A.5–4A.7):
 
 #### Producers — fully integrated
 
+> **Our view: Advanced Materials producers** _(analyst judgment)_ — **Selective; Orbital first. Conviction: medium.** **Why:** Orbital has an urgent buyer (AWS) and owns the product margin [src-20260528-375aec]; Mitra uses AI from lab to production [src-20261023-6e0642]. **Counter:** both are pilot-stage, and Mitra competes with Chinese LFP on cost per kWh, the hardest market in industry. **Change our mind:** Orbital's fluid qualifies for 2027 GPUs; Mitra's plant is funded with offtakes. **Best placed:** Orbital, Mitra (fully integrated). **Good fit:** a qualified buyer, a contract maker or own line, and a plan for gross margin per unit.
+
 **Orbital Industries (formerly Orbital Materials; London and Princeton, NJ; model 4).**
 - **Funding:** $50M Series B led by Plural, May 28, 2026; about 50 staff [src-20260528-93befb][src-20260528-375aec].
 - **Model:** it is vertically integrated and sells products, not software. The two products are a PFAS-free dielectric cooling fluid for data centers and "Nova Array," a modular data center it says can be deployed in 180 days [src-20260528-93befb].
@@ -1376,6 +1446,8 @@ _Materials unit economics, data loop and right to win (v8 sections 4A.5–4A.7):
 - _More detail: Appendix D (Mitra Chem)._
 
 #### Materials Discovery Labs (sub-group, kept separate from producers)
+
+> **Our view: Materials Discovery Labs** _(analyst judgment)_ — **Watch, not invest yet. Conviction: medium (that they are early).** **Why:** labs are priced on talent (Periodic about $7.5B reported) with no customers named [src-20261011-bf3574]; discovery speed does not shorten qualification (6.4). **Counter:** CuspAI has about 30 industry partners [src-20261022-37a0ea] and Radical has a defense buyer, so some may become producers. **Change our mind:** a lab sells material or signs a supply contract. **Watch:** Radical (hybrid), CuspAI, Periodic, Lila (enablers). **Good fit:** a lab with a defense or industrial buyer and a partner to scale up production, like Radical.
 
 _Radical AI, CuspAI, Periodic Labs, Lila Sciences and smaller names. They invent materials; they do not yet sell product at scale._
 
@@ -1470,6 +1542,15 @@ _Labels as in 3.14._
 **5-year outlook (to 2031).** _Producers:_ **possible** for one or two names (Orbital if its fluid qualifies in 2027; Mitra if its plant is funded). _Discovery labs:_ **unlikely** to be selling material at scale. **Bear case, equal weight:** see 6.11. Qualification can outlast a startup's runway, Chinese cathode pricing caps margins, and discovery labs may end up as royalty businesses, not producers.
 
 ## 7. Enabling Software & Robotics (tracked, outside the core)
+
+> **Our view: Enabling Software & Robotics** _(analyst judgment, not fact [inference])_
+> - **Stance:** Watch, not invest yet; track as benchmarks and as tools inside producers.
+> - **Conviction:** medium. The tools matter, but selling them alone is a smaller, more competitive business (7.4).
+> - **Why:** (1) traction is first-customer stage (Arda: Anduril only [src-20261020-a1e174]; Mind: Rivian [src-20261013-cc78c0]); (2) GrayMatter pivoted to robots as a service after software-only sales did not work [src-20261022-3335bd]; (3) incumbents own the installed base.
+> - **Strongest counter:** an enabler that becomes the standard for thousands of small factories could beat owning plants (Arda's bet).
+> - **What would change our mind:** retention data from Arda; robot success above ~90% in real work; producers licensing their software (MasonOS, MarianaOS).
+> - **Best placed / watch:** Arda, Mind, GrayMatter, Lumaril (enablers).
+> - **Good SPC fit:** only where it is tied to owned capacity, e.g. robot cells as a service with usage pricing.
 
 _What this industry is._ Enabling Software & Robotics covers companies that sell tools to factories rather than making the product themselves: factory operating systems, inventory and ordering software, inspection AI, CAM automation and robots. We track it because it sets the pace for the producers in chapters 3–6, but it sits **outside the core thesis** (it is an enabler, not an owner of output).
 

@@ -1,8 +1,8 @@
 # AI-native industrial production: VC primer
 
-_Version 6, dated 2026-10-26 (America/Chicago). Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
+_Version 7, dated 2026-10-27 (America/New_York). v7 adds section 1B (macro environment in depth) and section 4A (materials R&D and discovery labs), built on 68 new free sources tagged v7-sourcing. Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
 
-**New to this topic? Start with section 1 and section 1A (the macro primer), then come back to section 0.** Acronyms are spelled out on first use and collected in Appendix A.
+**New to this topic? Start with section 1, section 1A (the macro primer) and section 1B (macro in depth), then come back to section 0.** Acronyms are spelled out on first use and collected in Appendix A.
 
 **How to read this doc.** Three kinds of statement are kept apart:
 - Plain sentence ending in `[src-…]` = sourced fact (a filing, release, dataset or reported figure).
@@ -176,6 +176,157 @@ Section 3 has the full table. _What this means:_ the markets are large, but each
 
 ---
 
+## 1B. The macro environment in depth (new in v7)
+
+Section 1A gives you the one-page version. This section goes slowly through every big force acting on US industrial production in late 2026. For each one it says what the policy or fact is, how it works in plain English, what it means for an AI-native factory, and what to watch. Every number carries a source ID. Anything marked `[inference]` is my read.
+
+**The short version [inference].** Four things are true at once:
+1. Washington is spending, lending and even taking equity at a scale not seen since the Cold War. That money goes to anyone who can produce metals, magnets, munitions and chips in the US.
+2. Building a factory has got more expensive and more uncertain. Rates went back up, metal tariffs raise input costs, and construction spending on manufacturing plants is falling.
+3. China has shown it will cut off critical minerals, and the current pause on those controls expires in weeks.
+4. Labor is the binding constraint, not demand.
+
+AI-native producers sell into the first and third points and are hurt by the second. Their pitch on labor (fewer, more productive people) only works if the software is real.
+
+### 1B.1 Industrial policy: what changed between 2022 and 2026
+
+**From grants to stakes.** The CHIPS Act of 2022 gave about $39B of manufacturing incentives and $11B of R&D money, run by NIST at Commerce [src-20220511-6efadf]. Under the current administration the tools have changed more than the money has. The government now takes equity. Commerce turned Intel's CHIPS grants into a 9.9% stake: $8.9B for 433.3M shares at $20.47 a share [src-20260726-39275b]. Fortune counts about $26.7B of US government equity across roughly 30 deals, including $400M in MP Materials, and notes how hard the stakes are to track [src-20260726-39275b].
+- **Why it matters [inference]:** a startup that becomes a "national champion" for one material can now get the government as a shareholder and an anchor buyer. The flip side is that the state also picks winners, and a competitor it picks can crowd you out.
+
+**CHIPS is ending.** According to the Congressional Research Service, FY2026 was the last year of appropriated CHIPS manufacturing money. The 35% advanced-manufacturing investment tax credit (48D) covers only projects that start construction by December 31, 2026 [src-20260701-78183b]. The CRS report tracks fab-by-fab status: several big fabs have slipped or been rescoped, and the window for new projects to qualify closes in about nine weeks [src-20260701-78183b].
+- **For our companies [inference]:** semiconductor-adjacent materials startups (Periodic, CuspAI, Orbital) are selling into an industry whose subsidy flow peaks now. After 2026 the growth has to come from AI demand, not from subsidies.
+
+**IRA to OBBBA.** The One Big Beautiful Bill Act (OBBBA, July 2025) cut back much of the Inflation Reduction Act (IRA), but kept the 45X production credit for components (battery cells, modules, critical minerals and others) [src-20250608-08074e]. Here is what changed, per Miller & Chevalier [src-20250608-08074e]:
+- Most 45X phase-downs now begin in 2030. Wind components lose the credit after 2027.
+- A product gets no credit if it receives "material assistance" from a prohibited foreign entity (in practice, Chinese-linked inputs or ownership above set thresholds).
+- Metallurgical coal was added as a critical mineral that qualifies.
+- Critical minerals keep the credit longer than most components.
+
+**Bonus depreciation is now permanent.** OBBBA made 100% first-year ("bonus") depreciation permanent for qualifying property acquired after January 19, 2025. IRS Notice 2026-11 sets out the guidance [src-20260114-2075f7][src-20260101-08d847].
+- **Plain English:** a manufacturer that buys a $2M machine can deduct all $2M from taxable income in year one, not over 7–10 years. That makes machines cheaper after tax for any profitable buyer.
+- **For our companies [inference]:** this is quietly one of the most helpful policies for owner-operators like Hadrian, SendCutSend and Senra once they pay tax. It helps profitable incumbent job shops even more, since they can use the deduction now. It also makes it cheaper for an incumbent to buy robots, which narrows the startups' edge.
+
+### 1B.2 The government as lender and investor: OSC, EDF and DPA Title III
+
+There are three federal "banks" for industry. Founders mix them up; investors shouldn't.
+
+**1. Office of Strategic Capital (OSC), Department of Defense.**
+- **What it is:** a DoD lender created in 2022 to make loans and loan guarantees for "critical technologies" in the defense supply chain.
+- **Recent deals:** in June 2026 OSC issued conditional loans of $725M to Energy Fuels and $500M to Phoenix Tailings (rare-earth metal and magnet feedstock; facility due 2028), about $1.2B in total [src-20260618-184e0c]. It made an earlier $150M loan to MP Materials [src-20260807-110c13].
+- **New fund-finance program:** OSC opened a program to lend $500M–$1B per fund to private investment funds that back critical-technology companies. Applications are due November 1, 2026, and commitments are expected by March 10, 2027 (Mintz) [src-20260831-4dd3b7].
+- **The FY27 budget request** includes about $20B of mandatory money for OSC [src-20260831-4dd3b7].
+- **Quote (Breaking Defense):** an OSC official said that without germanium, gallium and rare earths, the defense-production buildout "is a pipe dream" [src-20260618-184e0c].
+- **What it means [inference]:** for a capital-heavy producer (Vulcan, Mariana, a casting or forging startup), OSC debt can replace 30–60% of the equity it would otherwise need. That is a real reason VC returns in this space can beat their history. For SPC specifically, the fund-finance window is worth a look on its own: it is leverage for funds, not just for companies.
+
+**2. Office of Energy Dominance Financing (EDF), formerly the DOE Loan Programs Office (LPO).**
+- **What it is:** DOE renamed LPO as EDF. Its leadership says it has more than $289B of loan authority and is restructuring about $83B of Biden-era loans and conditional commitments [src-20260116-27c00a][src-20251217-51eb2f].
+- **Where the money is going:** toward nuclear, grid, fossil and critical minerals. Mayer Brown lists $17.5B conditional for Westinghouse AP1000 long-lead components and $26.5B to Southern Company, among others [src-20260804-05a6a5].
+- **For mineral developers:** EDF wants offtake contracts, a proven technology and US content. Mayer Brown lays out what developers need to bring [src-20260804-05a6a5].
+- **What it means [inference]:** EDF debt fits late-stage plants, not Series A companies. But a reactor buildout means years of demand for forgings, castings, valves and precision parts, which is exactly what Hadrian-, Freeform- and Divergent-style producers sell.
+
+**3. Defense Production Act (DPA) Title III and the Industrial Base Fund.**
+- **What it is:** DoD grants and purchase commitments to create or expand domestic capacity.
+- **Examples:** the critical-minerals factbook lists DPA, DLA (Defense Logistics Agency) stockpile orders for magnets, and CHIPS awards, including USA Rare Earth's $277M grant plus a $1.3B loan [src-20260807-110c13]. The FY2026 NDAA added munitions-automation and Industrial Base Fund sections [src-20251218-f0d6ef].
+
+**Executive orders on critical minerals.** The March 2025 order ("Immediate Measures to Increase American Mineral Production") speeds up permits and directs DPA and DFC financing toward minerals [src-20250320-91988a]. The April 2025 order opens offshore and seabed minerals [src-20250424-a310b3].
+- **What it means [inference]:** permitting speed is the policy most likely to matter for a mine or refinery startup. A permit that takes 3 years instead of 10 changes the net present value more than any grant.
+
+### 1B.3 China and the critical-minerals squeeze
+
+**Where things stand (late October 2026):**
+- **April 2025:** China put export licensing on 7 heavy rare earths and the magnets made from them (MOFCOM Announcement No. 18). That rule is still in force [src-20261019-854e22][src-20250414-50f023].
+- **October 2025:** China added broader controls, including rules that reach foreign products containing Chinese rare earths (Nos. 55–58, 61, 62). Under the US–China truce, Announcement No. 70 suspended them until **November 10, 2026**. No extension text has been published as of October 19. The US side says the truce runs to January 10, 2027 [src-20261019-854e22].
+- **Gallium, germanium and antimony:** China's outright ban on exports of these to the US is suspended until **November 27, 2026** [src-20261027-f82d55].
+- **Exports are already down:** China's rare-earth exports fell 9.6% year on year in January–September 2026 [src-20261019-854e22].
+- **Germanium price:** a record ¥28,500/kg on October 26, up about 110% year to date. Material held in US warehouses trades at a 78.6% premium. China makes about 60% of refined germanium [src-20261027-f82d55].
+- **Forecast:** Strature puts a 63% probability on a short roll-over of the suspensions and spells out what happens if they lapse [src-20261016-83adeb] (med; one forecaster).
+
+**Why defense cares.** CSIS points out that China did about 99% of heavy rare-earth processing until 2023, and that rare earths go into the F-35, Virginia- and Columbia-class submarines, Tomahawk missiles and JDAM bombs [src-20250414-50f023].
+
+**How big the risk is.** The IEA's critical-minerals outlook estimates that about $6.5 trillion a year of downstream economic output depends on minerals with concentrated supply chains. It also finds that planned magnet capacity outside China would meet only about a third of 2035 demand [src-20261014-b9d647].
+
+**What it means [inference]:**
+1. Any startup producing rare-earth metals, magnets, gallium or germanium in the US has a buyer of last resort in the US government and a very strong story.
+2. The risk goes both ways. If China floods the market after a deal, prices collapse, as they have before. Producers need floor-price offtake contracts (the MP Materials–DoD template) or they get crushed.
+3. Discovery labs also have a real pitch here: "design out" the scarce element. Examples are magnets without heavy rare earths, catalysts without platinum-group metals, and Orbital's PFAS-free fluids. This is the strongest commercial reason for materials AI right now (see section 4A).
+
+**Watch:** November 10 and November 27, 2026.
+
+### 1B.4 Tariffs and input costs
+
+- **Section 232 metals tariffs:** Proclamation 11021 (April 2026) set 50% on steel, aluminum and copper, 25% on derivative products and 15% on some industrial machinery. A June 2026 proclamation adjusted them further [src-20260602-b995e2].
+- **Input-cost inflation:** ENR reports construction material prices up 55.5% since February 2020. Steel mill products are up about 86% and copper wire about 91.4%. Tariff-exposed materials pushed input prices higher in early 2026 [src-20260302-477c5f][src-20260708-da5010].
+- **Energy:** ENR also notes an energy-price spike tied to the Iran conflict [src-20260708-da5010].
+- **What it means [inference]:** tariffs help a US producer by making imported parts dearer. They hurt by raising the cost of the steel and aluminum it buys and the machines it installs. The net effect is positive for finished parts (fabrication, machining) and mixed for anyone who buys a lot of metal and sells into price-sensitive markets. Tariffs can also be reversed overnight, so a model should never assume they last.
+
+### 1B.5 Capex, construction and rates
+
+- **Factory construction is cooling:** US manufacturing construction spending was $202.4B (annualized) in December 2025, almost 16% below its August 2024 peak, and down 21.9% year on year by May 2026 [src-20260302-477c5f][src-20260708-da5010].
+- **Data centers are crowding it out:** data centers make up about 35% of contractor backlogs [src-20260708-da5010]. They compete with factories for electricians, switchgear and power.
+- **Rates went back up:** on September 16, 2026 the Fed raised its target by 25bp to 3.75–4.00%, by a 12–0 vote, citing inflation that is still elevated [src-20260916-f0c016].
+- **Activity is still strong:** the ISM manufacturing PMI was 54.5 in September 2026, the ninth straight month above 50 (expansion). New orders were 55.3, backlog 56.4, and prices paid 77.9 [src-20261008-89df84]. Deloitte's 2026 outlook notes the PMI was below 50 for most of 2025 [src-20251112-669746].
+- **What it means [inference]:**
+  1. Demand for parts is good: orders and backlogs are both above 50.
+  2. Building new plants is harder. It is costlier to finance and costlier to build.
+  3. The CHIPS and IRA-era plant boom is past its peak.
+  4. This favors capital-light models: robotized brownfield shops and roll-ups of existing shops (Amca) over greenfield megafactories. It also explains why customers keep pushing suppliers to hold inventory.
+
+### 1B.6 Defense and munitions budgets
+
+- **The FY27 request:** CNAS counts $49.5B of procurement for 10 key munitions in FY27, about 8.5 times the FY16–26 average of $5.8B [src-20261007-c6f64e].
+- **The catches** [src-20261007-c6f64e]:
+  - About 82% of the money depends on a reconciliation bill passing.
+  - Lead times have not improved for 6 of the 10 munitions.
+  - Production capacity is the hardest constraint to move.
+  - The war with Iran used up more than half of the US stock of high-end interceptors.
+  - CNAS calls the budget "necessary but insufficient."
+- **Contracts:** framework agreements with the primes (multi-year deals) are mostly not yet converted into contracts while the FY27 bill is pending [src-20261007-c6f64e].
+- **What it means [inference]:** this is the single biggest demand driver for AI-native precision parts, energetics, castings and forgings. But the money is back-loaded and political. A startup should show signed sub-tier purchase orders from the primes, not just "the budget is huge." Watch the reconciliation vote.
+
+### 1B.7 Labor: the real binding constraint
+
+- **The gap:** Deloitte and the Manufacturing Institute estimate that US manufacturing will need 3.8M workers by 2033, and that 1.9M of those jobs could go unfilled [src-20240403-f5594a].
+- **Talent is the top problem:** in 2024, 65% of NAM survey respondents named attracting and keeping workers as their top business challenge [src-20240402-b9644b].
+- **Technicians:** a 2026 Deloitte/MI study projects 2.3M technician openings by 2030, with about 500k open today. Technician roles are growing about 6 times faster than other manufacturing jobs. It also argues that AI can speed up skills training [src-20260910-b300bf].
+- **Spending plans:** 80% of manufacturers plan to put at least 20% of their improvement budgets into smart manufacturing [src-20251112-669746].
+- **What it means [inference]:** the pitch to buyers is not "cheaper labor." It is "we can deliver when your job shop can't hire." A producer whose software lets one machinist run 4–6 machines, or a fabricator whose quoting runs itself, sells capacity in a capacity-short market. That is why "owner-operator" beats "software to the plant": the incumbent plant often can't staff enough people to use the software.
+
+### 1B.8 Venture climate
+
+- **AI dominates:** US VC deal value hit $515.8B through Q3 2026, with AI taking 82.7% of it. Exits are still stalled (PitchBook-NVCA) [src-20261008-8f7d66].
+- **Defense tech:** a record $2.5B in Q3 for defense-specific startups, led by Castelion ($1.1B) and Mach ($900M). Seed deals fell to 41, the fewest since 2016 [src-20261006-0f220a].
+- **Concentration:** one tracker counts $14.6B of defense-tech funding year to date, against $9.6B for all of 2025, with deal count flat. The money is going to fewer winners [src-20260908-abd0c7].
+- **What it means [inference]:** the dollars are concentrating in late-stage "AI" and "defense" labels, and seed is getting thinner. That creates two opportunities: (a) better seed and Series A prices for producers that don't fit the hype labels; (b) a risk that the best AI-native producers are priced as AI companies. Lila, CuspAI and Periodic valuations are an example (section 4A).
+
+### 1B.9 Science policy: the Genesis Mission, DOE, NSF and the national labs
+
+- **What it is:** the Genesis Mission (EO 14363, November 24, 2025) tells DOE to build an integrated AI platform for science. It links national-lab supercomputers, datasets and robotic labs. Named priorities include advanced manufacturing, critical materials, semiconductors and energy [src-20251124-b97a20].
+- **Platform demo (July 2026):** a Model Access Gateway to frontier models, simulation agents, national-lab datasets and DOE-built Model Context Protocol (MCP) tools, with open protocols for outside tools [src-20260722-edf40f].
+- **Awards (October 8, 2026):** 12 new Phase II awards worth $159M, for 14 Phase II projects in total. The first-year cohort has 297 projects. Materials examples include rare-earth separations at UIUC and quantum magnets at ORNL [src-20261008-452806].
+- **Hackathon (October 21, 2026):** 450+ participants and 185 projects, backed by $1M of compute and 55k DOE compute hours [src-20261021-4b8e0f].
+- **NSF:** spends more than $700M a year on AI research [src-20261019-5257f3].
+- **Existing ties:** national-lab self-driving labs such as Argonne's Polybot [src-20250217-059784] and Sandia's partnership with Radical AI on hydrogen-purification alloys [src-20260929-dfb65a] show that labs are already working with startups.
+- **What it means [inference]:** Genesis is both a funder and a competitor for discovery startups. It gives free compute, data and test beds, and partnerships like Radical–Sandia. It also builds free public models, tools and data that weaken the "proprietary model" moat. Startups win on what they make and qualify, not on the model.
+
+### 1B.10 Macro scorecard: tailwind or headwind for each layer [inference]
+
+| Force | Metals supply | Fabrication | Precision parts | Materials R&D | Factory software |
+|---|---|---|---|---|---|
+| OSC/EDF/DPA money | Strong + | Mild + | + (via defense) | Mild + | 0 |
+| China mineral controls | Strong + | 0 | Input-cost − | + ("design out") | 0 |
+| Section 232 tariffs | + | + | Mixed | 0 | 0 |
+| Rates 3.75–4.00% | − (capex heavy) | Mild − | Mild − | − (long horizon) | 0 |
+| Construction slowdown | Mild − | − | Mild − | 0 | − (fewer new plants) |
+| Munitions budget | + | + | Strong + | Mild + | Mild + |
+| Labor shortage | Mild − | + (automation edge) | Strong + | 0 | + |
+| 100% bonus depreciation | + | + | + | 0 | + (buyers' capex) |
+| CHIPS sunset | 0 | 0 | Mild − | − (semis buyers) | 0 |
+| Genesis / national labs | Mild + | 0 | 0 | ± (funder and competitor) | 0 |
+| VC concentration | − (seed) | − | Hype pricing | Hype pricing | − |
+
+**What would change the macro picture [inference]:** a lasting US–China minerals deal (bad for domestic premiums); the reconciliation bill failing (munitions money slips); rate cuts in 2027 (good for capex-heavy names); a tariff rollback by court or deal (hurts fabrication pricing).
+
+
 ## 2. Why now: the drivers in detail, ranked
 
 Section 1A gave the short version. This section gives the evidence for each driver. They are ranked by how much each one moves revenue for the companies we track [inference on the ranking]. Each driver ends with "what this means", in plain words.
@@ -301,7 +452,7 @@ CNC means computer-controlled cutting machines. "AM" (additive manufacturing) me
 - **What AI changes:** **Claim (Radical):** tests 8-20 alloys a day, aiming for 100; $60-300 per experiment; samples from grams to 500 g; no manufacturing yet [src-20260617-f9d293]. **Claim (Periodic):** at full speed, 4 months of experiments in under 2 weeks [src-20260917-1bcb81].
 - **Risks:** none of the three discloses revenue; valuations of $2.6B-$7.5B come before product [inference]. The science has a mixed record. Berkeley's A-Lab claimed 41 new materials; an outside critique said "no new materials were discovered" (challenged, not retracted) [src-20240124-513fd9]. MatterGen handles only about 20 atoms per unit and needs checking by physics simulation (DFT) [src-20261022-3e2a9d]. Lila's catalysts are untested in a real electrolyzer [src-20261019-392916]. An Albert Invent director says chemical majors refuse royalty deals and their problem is "millions of SKUs" (product variants), not crystal structures [src-20260913-3ad55e].
 - **Buyer views (expert calls).** A former Moderna director: buyers reach these labs through contract research firms (CROs) and pay per successful candidate. He says CuspAI won 8 of the last 10 campaigns, Radical 1 and Lila 1 (claim). He ranks long-run potential Radical > Lila > CuspAI > Periodic, and says CRO bookings were "very bad" in 2024-25 [src-20260909-af3e60] (low: hard to check). The Albert Invent director (a competitor, so biased): annual contracts run from hundreds of thousands to millions of dollars; procurement "shut[s] down" big prices; budgets open when a product launches in "one-third the number of iterations". He splits $100 as CuspAI $50, Lila $35, Periodic $15 [src-20260913-3ad55e].
-- **What this means [inference]:** interesting science, but these are research shops, not producers, and buyers' budgets are small.
+- **What this means [inference]:** interesting science, but these are research shops, not producers, and buyers' budgets are small. **Full treatment in section 4A (new in v7).**
 
 ### 4.5 Factory software (tools sold to other companies' plants)
 MES (manufacturing execution system) is the software that tracks and directs work on a shop floor. It is the established category.
@@ -314,6 +465,165 @@ MES (manufacturing execution system) is the software that tracks and directs wor
 - **What this means [inference]:** this layer sells "picks and shovels". It may help old shops catch up as much as it helps new ones.
 
 ---
+
+## 4A. Materials R&D and discovery labs: the full picture (new in v7)
+
+Lilly's v6 feedback was that materials R&D (Radical AI, CuspAI and their peers) was the biggest gap. This section covers the whole sub-sector. It is kept **separate from the producers** in sections 4–5 on purpose. Most discovery labs do not run a production plant floor, so they fail the category's producer test. The exceptions are the owner-producers below (Orbital, Mitra Chem). They still matter to SPC for three reasons:
+1. They are where much of the "AI for the physical world" money is going.
+2. A few are turning into producers.
+3. The materials they design flow downstream to the fabricators and machinists we do back.
+
+### 4A.1 What "AI materials discovery" means, in plain English
+
+A new material (an alloy, a battery cathode, a catalyst, a coolant, a magnet) normally takes 10–20 years and tens of millions of dollars to go from idea to qualified product. Discovery labs try to compress that with three tools:
+1. **Generative and predictive models.** Software proposes candidate structures and predicts their properties, so you test hundreds instead of millions. Examples:
+   - Microsoft's MatterGen is a diffusion model trained on about 608k stable materials. It generates crystal structures to a target property [src-20250116-63e766][src-20261022-3e2a9d].
+   - Google DeepMind's GNoME predicted 2.2M crystals, about 380k of them stable. Outside labs have since made 736 of them [src-20231129-1dc706].
+   - Meta's open OMat24 dataset holds more than 110M quantum-mechanics (DFT) calculations [src-20130101-5e5543].
+2. **Self-driving labs (SDLs).** Robots mix, synthesize and test the candidates, and the results feed back into the model. Examples are Berkeley's A-Lab, Argonne's Polybot [src-20250217-059784] and Radical AI's alloy lab.
+3. **The closed loop.** Model proposes, robot makes and measures, model updates. The claim is that each turn makes the next guess better, so the lab gets faster over time. This is the materials version of the "data loop" in section 6.
+
+**The key point [inference]:** models are becoming free. GNoME, MatterGen, OMat24 and the Genesis Mission platform are all public or close to it. The scarce assets are (a) physical throughput, meaning how many real samples you can make and test, (b) data that is proprietary and tied to real-world performance, and (c) the ability to scale up and qualify a material with a customer. That is where the right to win sits.
+
+### 4A.2 The map: four business models
+
+| Model | What they sell | Examples | Producer test? |
+|---|---|---|---|
+| 1. Software / SaaS | Data platform and AI tools to the R&D teams of chemical and materials companies | Citrine, Uncountable, Kebotix (status unclear), Albert Invent, Microsoft Discovery | No |
+| 2. Discovery-as-a-service / IP | Custom discovery projects, licensing and royalties, with partners making the material | CuspAI, Periodic, Lila (materials arm), Aionics, Dunia | No |
+| 3. Lab plus government / partner contracts | Its own SDL; paid by defense and labs, then licensing or making specialty material | Radical AI | Partly (makes alloys at small scale) |
+| 4. Owner-producer | Designs the material **and** makes and sells the product | Orbital Industries, Mitra Chem | Yes, closest to the thesis |
+
+### 4A.3 Company profiles
+
+**Radical AI (New York; alloys and metals; model 3).**
+- **Funding:** $55M led by RTX Ventures [src-20250718-d46f24]. An Air Force AFWERX Direct-to-Phase II contract worth $1,197,902 [src-20250825-300a14].
+- **Technology:** its AI engine, "Antimatter," drives a self-driving alloy lab. TIME named it one of the Best Inventions of 2026 [src-20261020-055082].
+- **Lead material, RAI-939:** a high-temperature refractory alloy. A Purdue Applied Research Institute torch test found about 125 times the survivability of C103, the incumbent niobium alloy (company release reporting Purdue's test) [src-20260807-52b690]. **Claim (Radical):** about 300 alloys made in 16 weeks, in a space where only 3,493 alloys had been studied in 20 years. It is now scaling up to bigger test articles and building spec-sheet data [src-20260807-52b690].
+- **Partnerships:** Sandia National Laboratories, on alloys for hydrogen purification [src-20260929-dfb65a]. A Makino partnership on machining [src-20261022-e2876c].
+- **Throughput:** **Claim (Krause):** 8–20 alloys a day, aiming for 100; $60–300 per experiment; samples from grams to 500 g; no manufacturing yet [src-20260617-f9d293][src-20260710-366df7].
+- **What it means [inference]:** the clearest defense-led path. Hypersonic and propulsion alloys have a buyer (RTX and the Air Force) and a clear test (the torch test). The risk is the jump from a 500 g button to qualified mill product, which needs a melter and forger partner.
+
+**CuspAI (Cambridge, UK; sorbents, membranes, chemicals; model 2).**
+- **Funding:** $450M Series B (Kleiner, NEA) [src-20260720-840ae3].
+- **Partners:** about 30 industry and 15 lab partners, including Samsung, AMD, Lam and Applied [src-20261022-37a0ea]. Its "AI Materials Foundry" consortium has 45+ members.
+- **Kemira PFAS project:** a sorbent to remove "forever chemicals" from drinking water. About 300 trillion structures searched, 5,000+ designs generated, about 20 candidates made and tested, all in 6 months. Kemira calls it an "industry first" commercial partnership and says further projects are being scoped [src-20260521-f4b51b].
+- **Singapore:** a five-year, multi-program partnership with A*STAR and a new office there [src-20260723-f1e4f1].
+- **Economics (expert call, AlphaSights):** custom projects earn 5–15% gross margin and the platform 85–90%; 40–50% of pilots convert. Royalties are talked about at about 1% (bulk) and 3–5% (specialty), but customers often refuse to give up data rights [src-20261016-29997e] (med).
+- **What it means [inference]:** the best commercial traction in the group, with a named buyer (Kemira) and a regulatory driver (PFAS rules). But CuspAI is a design shop: Kemira makes and sells the product, and CuspAI's take is a royalty or fee.
+
+**Periodic Labs (San Francisco; semiconductors, superconductors, magnets; model 2).**
+- **Funding:** $300M seed, September 2025 [src-20251022-8eb7c0]; reportedly raising more (med) [src-20260514-5796ab].
+- **Go-to-market:** **Claim (Periodic, via Heard In):** acts as its own "customer zero." It sends forward-deployed engineers, runs models on the client's site and fine-tunes on the client's data. Its first focus is semiconductor heat dissipation [src-20261008-38b3d6]. Its website lists magnets, semiconductors and superconductors, plus a Montreal ML office [src-20261001-e0573e][src-20261007-13c943].
+- **Critique:** the VC newsletter VCA notes "nothing published yet" and no customers named [src-20261011-bf3574].
+- **Speed claim:** 4 months of experiments in under 2 weeks at full speed [src-20260917-1bcb81].
+- **What it means [inference]:** the most "frontier lab" of the group (OpenAI and DeepMind alumni). It is priced on talent; commercial proof is the least public.
+
+**Lila Sciences (Cambridge, MA; "scientific superintelligence," life sciences and materials; model 2).**
+- **Funding and site:** $550M raised and a new 250k sq ft site in Cambridge [src-20260610-21e4df]. Reportedly in talks at about $8.5B (Bloomberg, via repo notes).
+- **Catalysts (company claim):** 2,942 catalysts screened in 3 months, across six palladium-based families. The best matched ruthenium after more than 1,000 hours of testing. 17 times faster, with over 90% less hands-on time [src-20260925-679418]. Still untested in a real electrolyzer [src-20261019-392916].
+- **mRNA (company claim):** 950k+ sequences tested, and an in vivo CAR-T program done in 6 months for about a tenth of the usual cost [src-20260828-66bafe].
+- **Quote (CTO, Ray Summit):** only about 5% of science is "cheap to verify," which limits how far AI alone can go [src-20260917-29aa29].
+- **What it means [inference]:** most of the value is in biology. Materials is a second line. Not an industrial producer.
+
+**Orbital Industries (formerly Orbital Materials; London and Princeton, NJ; model 4).**
+- **Funding:** $50M Series B led by Plural, May 28, 2026; about 50 staff [src-20260528-93befb][src-20260528-375aec].
+- **Model:** it is vertically integrated and sells products, not software. The two products are a PFAS-free dielectric cooling fluid for data centers and "Nova Array," a modular data center it says can be deployed in 180 days [src-20260528-93befb].
+- **Commercial status:** a multi-year AWS partnership. The fluid is in qualification with chip makers, a contract manufacturer is lined up, and the target is to ship alongside 2027 GPUs [src-20260528-375aec].
+- **Claims:** **Claim (CEO Godwin):** the traditional way would take "10 years and $100M" [src-20260528-375aec]. **Investor view (Plural):** there is "no AlphaFold moment for materials," so value comes from owning the product [src-20260528-2c20ee].
+- **Licensing:** it licensed its CurieOS platform to BASF [src-20261022-edad3e].
+- **What it means [inference]:** **the most thesis-aligned name in the section.** It found a buyer with an urgent need (data-center cooling), chose a product it can make through a contract manufacturer, and owns the margin. If the fluid ships in 2027 it could be among the first AI-designed materials sold at scale. Diligence: who the CMO is, qualification status, gross margin per liter.
+
+**Mitra Chem (Mountain View, CA; LMFP and LFP battery cathodes; model 4).**
+- **History:** began shipping LMFP cathode samples to global customers in 2023 [src-20240611-24c650]. Series B led by GM.
+- **Production:** **Per BusinessPost (Korean):** a $100M DOE production grant, $50M from Michigan's MSF fund, and a planned 30k-ton-a-year, $370M LFP plant in Michigan. Korea's L&F invested $10M for about 3.3%, and the two are considering a joint-venture plant [src-20260831-db47e6] (med; single foreign-language article).
+- **Earlier reporting:** TechCrunch on generative AI in battery development [src-20231014-d1a13f].
+- **What it means [inference]:** an AI-designed chemistry turning into a chemical plant, so it does pass the producer test. But it competes on cost per kWh against Chinese LFP, which is the hardest market in industry. Its value depends on 45X and the foreign-entity rules (section 1B.1).
+
+**Other names.**
+- **Citrine Informatics:** materials-informatics software (model 1). **Claim:** 380 projects, 550 models and 70k experiments a month. Customers include Huntsman and Perstorp, with DARPA INTACT and ARPA-E work [src-20261022-267188][src-20260902-224ead]. Last raise was a $16M Series C in 2023 (search; low).
+- **Uncountable:** R&D data platform for formulations (model 1) [src-20260101-850ff7]. $27M Series A in 2025 (search; low).
+- **Kebotix:** AI plus robotic chemistry. Johnson Matthey project on catalytic-converter coatings in 2021 [src-20210803-6788dd]. Current status unclear.
+- **Aionics:** AI for battery electrolytes. **Claim:** screens about 3,000 formulations a second. Partners include Porsche's Cellforce, earlier with Form, Resonac and Cuberg. It sends samples to the customer and scales through manufacturing partners [src-20231014-d1a13f][src-20261016-29997e].
+- **Dunia:** an autonomous electrocatalyst lab (IRIS). **Claim:** "20 years to 2" [src-20261023-b4535c]. Raised €11.5M in 2024 (search; low).
+- **Big tech:** Microsoft (MatterGen, Discovery), Google DeepMind (GNoME, plus an automated materials lab in the UK [src-20251211-cb7237]) and Meta (OMat24, OMol25 [src-20250513-fbb4d8]). They give away the model layer.
+
+### 4A.4 From discovery to production: the valley of death
+
+The steps, with typical time in brackets [inference, built from sources cited]:
+1. **Compute screen** (weeks): the model narrows millions of candidates to hundreds. Now cheap.
+2. **Synthesis and first tests** (months): grams to 500 g in an SDL. This is the step labs speed up 6–17 times. An RSC benchmark finds a median speedup of about 6 times over random sampling (search; low), and Lila claims 17 times [src-20260925-679418].
+3. **Scale-up** (1–3 years): kilograms to tons. It needs process chemistry or metallurgy, and a pilot line. Radical's RAI-939 is at this step now [src-20260807-52b690].
+4. **Qualification** (1–5 years): the customer tests the material in its own product against specs. Aerospace alloys need allowables databases. Chip fluids need qualification by the fab or GPU maker (Orbital, 2027 target [src-20260528-375aec]). Water sorbents need regulatory approval (Kemira).
+5. **Supply** (ongoing): someone has to make it reliably at cost. This is where the margin is, and where owner-producers sit.
+
+**Where AI helps:** step 1 a lot, step 2 a lot, steps 3–5 little. Steps 3–5 are most of the time and money. That is why Plural says there is "no AlphaFold moment" [src-20260528-2c20ee], and why the Lila CTO says only about 5% of science is cheap to verify [src-20260917-29aa29].
+
+### 4A.5 Unit economics and who pays
+
+- **Software (Citrine, Uncountable, Albert):** annual contracts in the hundreds of thousands to low millions of dollars per enterprise. Procurement pushes back on high prices [src-20260913-3ad55e]. Gross margins are software-like, but the market is capped by R&D budgets.
+- **Discovery projects (CuspAI, Periodic):** 5–15% gross margin on custom work, 85–90% on the platform. Conversion of 40–50% of pilots. Royalties of about 1% (bulk) to 3–5% (specialty), often refused [src-20261016-29997e] (med). Chemical majors refuse royalty deals [src-20260913-3ad55e].
+- **Per-candidate (pharma-style):** buyers come through CROs and pay per successful candidate [src-20260909-af3e60] (low).
+- **Government:** AFWERX awards of about $1.2M [src-20250825-300a14]; Genesis Phase II awards averaging about $13M ($159M across 12) [src-20261008-452806]; ARPA-E and DARPA.
+- **Owner-producer:** product gross margin. A specialty fluid or alloy might earn 30–60% if it is differentiated; commodity cathode much less [inference].
+
+**The math [inference].** Take a specialty material with $200M a year of sales and a 3% royalty. That is $6M a year to the designer, years after the project, and only if it ships. A lab valued at $3–8B would need dozens of such hits. The same material made by the designer at a 40% gross margin earns $80M. This is why the money is moving toward owner-producers (Orbital) and why CuspAI-type firms are pushing for royalties.
+
+### 4A.6 The data loop in materials
+
+- **For:** SDLs create negative results and process data that no public set has. Radical says its 300 alloys in 16 weeks compares with 3,493 studied in 20 years [src-20260807-52b690]. Citrine aggregates 70k experiments a month across customers [src-20261022-267188].
+- **Against:**
+  - Customers often keep the data rights [src-20261016-29997e].
+  - Public datasets (OMat24's 110M+ calculations) close the computed-data gap for everyone [src-20130101-5e5543].
+  - Each material class needs its own loop: an alloy loop does not help with sorbents.
+  - A 2026 hype-versus-reality review of SDLs says that A-Lab's results needed correction [src-20260709-1159ab][src-20240124-513fd9].
+- **Verdict [inference]:** the loop is real within one material class and one lab. It is weaker across customers and classes than in factory machining, where every part feeds one quoting model.
+
+### 4A.7 Right to win (versus incumbents and big tech)
+
+- **Incumbents:** BASF, Dow, Johnson Matthey, Kemira and Albemarle have process know-how, plants and qualification relationships, and they partner rather than build (BASF–Orbital [src-20261022-edad3e]; Kemira–CuspAI [src-20260521-f4b51b]; JM–Kebotix [src-20210803-6788dd]).
+- **Big tech:** gives models and data away, so the model alone is no moat.
+- **National labs:** Genesis and partners like Sandia are both funder and competitor [src-20260929-dfb65a][src-20261008-452806].
+- **Startups win where [inference]:**
+  1. They own the physical throughput (Radical, Lila).
+  2. They pick a product where the buyer is in a hurry and the incumbent has nothing (PFAS-free coolants, PFAS sorbents, hypersonic alloys, rare-earth-free magnets).
+  3. They make it themselves, or lock in a royalty and a supply role.
+- **Ranking by fit to SPC's producer thesis [inference]:** Orbital > Radical > Mitra Chem > CuspAI > Periodic > Lila.
+
+### 4A.8 The bear case, at full weight
+
+1. **No AI-designed material is clearly in volume commercial sale yet** [inference, from sources]. Orbital targets 2027 [src-20260528-375aec]. Kemira's PFAS sorbent and RAI-939 are at pilot or test-article stage [src-20260521-f4b51b][src-20260807-52b690].
+2. **The science record is mixed.**
+   - A-Lab's claim of 41 new materials was challenged ("no new materials were discovered") [src-20240124-513fd9].
+   - For GNoME, the 736 independent syntheses are under 0.2% of the 380k predicted-stable crystals [src-20231129-1dc706].
+   - MatterGen is limited to about 20 atoms per unit cell [src-20261022-3e2a9d].
+3. **Synthesis and qualification, not discovery, are the bottleneck.** AI speeds up the cheap part.
+4. **Buyers have small budgets and refuse to share IP.** R&D software sells in the hundreds of thousands; majors refuse royalties [src-20260913-3ad55e][src-20261016-29997e].
+5. **The models are commodities:** open models and Genesis.
+6. **Valuations far ahead of revenue:** CuspAI ($450M raised), Periodic ($300M seed), Lila (talks at about $8.5B, reported), none with disclosed material revenue [inference].
+7. **Legal and safety issues:** the Royal Society review notes that patent law recognizes only human inventors, and flags safety and cyber risks of autonomous labs [src-20250716-e94853].
+8. **Market size:** the lab-automation market is about $8–9B today, perhaps $20–24B later [src-20260709-1159ab] (low). That is small next to manufacturing.
+
+### 4A.9 The bull case, for balance
+
+1. **Policy pull:** mineral controls (1B.3) and PFAS bans create buyers who must replace a material, not just optimize one.
+2. **Defense pull:** hypersonic, propulsion and munitions materials have funded test paths (Radical with AFWERX and RTX) [src-20250825-300a14][src-20250718-d46f24].
+3. **Throughput really is up an order of magnitude** (Radical, Lila, CuspAI claims) [src-20260807-52b690][src-20260925-679418][src-20260521-f4b51b].
+4. **Data-center demand** gives a fast, rich buyer (Orbital with AWS) [src-20260528-375aec].
+5. **Public infrastructure** (Genesis, national labs) lowers the cost of compute and testing for startups [src-20261008-452806].
+
+### 4A.10 What SPC should do [inference]
+
+- **Treat discovery-only labs as out of scope for producer investments.** Track them as a source of materials for the companies we do back.
+- **Pursue owner-producers like Orbital,** and labs moving into production (Radical with a melt and forge partner; Mitra).
+- **Diligence questions:**
+  1. Which material is in customer qualification, with whom, and what is the spec?
+  2. Who makes it at scale, and who owns that margin?
+  3. What data rights do you keep?
+  4. What do you get in revenue per hit, and how many hits a year?
+  5. What happens when GNoME, MatterGen or Genesis make your model free?
+- **Watch list:** Orbital's 2027 GPU qualification; RAI-939 spec-sheet data; Kemira scale-up; Periodic's first named customer; Mitra's Michigan plant FID (final investment decision).
+
 
 ## 5. Company profiles
 
@@ -633,6 +943,14 @@ Power is a minor cost: one plant used 500-600 amps of a 1,200-amp service for 6-
 
 | Date | Policy | What it does | Source |
 |---|---|---|---|
+| 2026-11-27 (deadline) | China Ga/Ge/Sb US-export ban suspension ends | Ban returns unless extended; germanium already at a record | [src-20261027-f82d55] |
+| 2026-11-10 (deadline) | China Oct-2025 rare-earth controls suspension (No. 70) ends | Broad controls return unless extended | [src-20261019-854e22] |
+| 2026-11-01 (deadline) | OSC fund-finance applications due | $500M-$1B of loans per fund | [src-20260831-4dd3b7] |
+| 2026-10-08 | Genesis Mission Phase II awards | 12 awards worth $159M; 297 first-year projects | [src-20261008-452806] |
+| 2026-09-16 | FOMC hike | 3.75-4.00% | [src-20260916-f0c016] |
+| 2026-06-18 | OSC rare-earth loans | $725M Energy Fuels, $500M Phoenix Tailings (conditional) | [src-20260618-184e0c] |
+| 2026-06 | Section 232 adjustment | Further changes to the steel, aluminum and copper tariffs | [src-20260602-b995e2] |
+| 2026-01 | IRS Notice 2026-11 | 100% bonus depreciation made permanent | [src-20260114-2075f7] |
 | 2026-10-20 | Army plan for 1M drones (reported) | Big volume demand for magnets and airframes | [src-20261020-878aa9] |
 | 2026-10-20 | 45X tax credit | Advanced manufacturing production credit: a tax credit per unit made in the US | [src-20261020-7d90fa] |
 | 2026-10-19 | DPA Title III tally | 23 awards, $820.5M since January 2025, mostly rare earths ($405.1M) and rocket motors ($196.4M); none to tracked startups | [src-20261019-68fd3d] (med) |

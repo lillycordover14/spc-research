@@ -1,6 +1,6 @@
 # AI-native industrial production: VC primer
 
-_Version 7.1, dated 2026-10-27 (America/New_York). v7.1 adds a full Atomic Industries profile (section 5.11A, 13 new sources). v7 added section 1B (macro environment in depth) and section 4A (materials R&D and discovery labs), built on 68 new free sources tagged v7-sourcing. Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
+_Version 7.2, dated 2026-10-27 (America/New_York). v7.2 adds section 4B (chemicals supply chain and AI-designed molecules, incl. Warp Sciences; 20 new sources). v7.1 added a full Atomic Industries profile (section 5.11A, 13 new sources). v7 added section 1B (macro environment in depth) and section 4A (materials R&D and discovery labs), built on 68 new free sources tagged v7-sourcing. Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
 
 **New to this topic? Start with section 1, section 1A (the macro primer) and section 1B (macro in depth), then come back to section 0.** Acronyms are spelled out on first use and collected in Appendix A.
 
@@ -623,6 +623,139 @@ The steps, with typical time in brackets [inference, built from sources cited]:
   4. What do you get in revenue per hit, and how many hits a year?
   5. What happens when GNoME, MatterGen or Genesis make your model free?
 - **Watch list:** Orbital's 2027 GPU qualification; RAI-939 spec-sheet data; Kemira scale-up; Periodic's first named customer; Mitra's Michigan plant FID (final investment decision).
+
+
+## 4B. Chemicals: the chemical supply chain and AI-designed molecules (new in v7.2)
+
+Brooke has long been interested in this area, including whether AI can create new molecules and chemicals. This section explains the chemical supply chain from scratch, then asks where AI-enabled, vertically integrated chemical producers could win. It cross-references section 4A (materials discovery labs such as CuspAI and Orbital) rather than repeating it. Twenty free sources were added for it, tagged `chemicals`.
+
+### 4B.1 How the chemical supply chain works, in plain English
+
+Think of chemistry as a five-step ladder. Each step takes the output of the step below and makes it more specific, smaller in volume and higher in price per kilogram.
+
+1. **Feedstocks.** The raw inputs: natural gas and natural-gas liquids (ethane, propane), crude-oil fractions (naphtha), salt, sulfur, phosphate rock and, increasingly, biomass such as corn sugar.
+2. **Commodity (basic) chemicals.** Made in giant, continuous plants measured in millions of tons a year. A **steam cracker** heats ethane or naphtha to "crack" it into ethylene and propylene, the building blocks of most plastics. Others: ammonia, chlorine, sulfuric acid, methanol. Price is set by feedstock and energy cost; margins are thin and cyclical.
+3. **Intermediates.** Molecules one or several reaction steps further on (for example acetic acid, adipic acid, solvents and monomers). In pharma, the key ones are **key starting materials (KSMs)**, the purchased building blocks an approved drug process starts from.
+4. **Specialty and fine chemicals.** Smaller volumes sold for what they do, not what they are: coatings, catalysts, water-treatment chemicals, electronic chemicals, flavors, crop chemicals, energetics. Higher margins; buyers qualify a supplier and then rarely switch.
+5. **Active pharmaceutical ingredients (APIs).** The molecule in a drug that does the work. A **finished dose form (FDF)** is the pill or injection. A **CRO** (contract research organization) makes molecules for research; a **CDMO** (contract development and manufacturing organization) makes them at commercial scale under FDA rules.
+
+Two engineering terms matter for startups. **Batch** chemistry runs one tank at a time; **continuous flow** pumps reactants through pipes or small reactors nonstop, which is safer for hazardous steps and easier to automate (FDA guidance Q13 covers continuous manufacturing). **Biomanufacturing** uses enzymes or engineered microbes (fermentation) instead of heat and pressure to make molecules.
+
+Who buys: ACC says more than 80% of basic and specialty chemicals are bought by other industries, not consumers [src-20260615-0c9b7e]. So chemical demand follows manufacturing, housing, autos, data centers and pharma.
+
+### 4B.2 Why now: the macro picture
+
+**Europe is shrinking.** Announced European chemical closures rose sixfold a year, to 37 Mt over 2022–25, about 9% of capacity. Almost half is upstream petrochemicals; nine steam crackers (16% of Europe's cracking capacity) are closing. In 49% of cases the stated reason is energy cost. Confirmed new investment collapsed to 0.3 Mt in 2025, and confirmed capex fell from EUR7.6bn to 1.5bn [src-20260115-ec35af]. Roland Berger calls it a "structural reset," not a downturn, with about 20,000 direct and 89,000 indirect jobs at risk [src-20260201-63910c]. FTI says chemical plants need 80–85% utilization to pay; Europe's average is about 74% and Germany's was 70% in Q3 2025, with German chemical insolvencies at 2008-crisis levels [src-20260401-e2adb0].
+
+**The US has a feedstock edge, but growth is slow.** Shale gas makes US ethane cheap. ACC expects US chemical volumes up only 0.5% in 2026, led by basic chemicals, with specialty and consumer chemicals declining. Middle East disruption is raising demand for gas-advantaged US output; tariff uncertainty is the main risk [src-20260615-0c9b7e]. [inference] Commodity chemistry in the US is an incumbent's game (Dow, ExxonMobil, LyondellBasell); the openings for startups are further up the ladder.
+
+**China and India own the pharma building blocks.** About 90% of US prescriptions are generics. India supplies 47.2% of US generic doses and China 13.0%; only 10.5% are US-made. Indian firms get 65–70% of their KSMs, intermediates and APIs from China, so after adjusting, about 46% of US generic doses depend on Chinese source materials [src-20250605-bde73f]. Estimates vary: direct Chinese API is about 8% of volume, and Brookings' own review puts Chinese API in "perhaps a quarter" of US drug volume [src-20250501-c298cb]. CFR finds about 41% of KSMs in US-approved APIs come only from China, including 94% of the amoxicillin starting material; US amoxicillin production went from 100% domestic to zero in twelve years. It estimates shortages would peak 4.5–9 months after a Chinese restriction [src-20260501-7f527d].
+
+**Policy is pushing reshoring, mainly in pharma.**
+- **Section 232 pharma tariff (April 2026):** 100% on patented drugs and their ingredients; 20% for companies with approved onshoring plans (rising to 100% in 2030); zero for companies with pricing-and-onshoring deals; 15% for the EU, Japan, Korea and Switzerland. Generics are excluded for now. FDA data cited in the proclamation: only 15% of patented API volume is made in the US [src-20260402-ecae19].
+- **BIOSECURE Act:** enacted in the FY2026 defense bill (signed Dec 18, 2025). It bars federal contracts, grants and loans involving "biotechnology companies of concern"; the first OMB list is due by Dec 2026 [src-20260110-4db409]. The Pentagon added WuXi AppTec to its 1260H list in June 2026 [src-20260818-489fdf].
+- **Executive Order 14293 (May 2025)** and FDA's PreCheck pilot speed approval of new US drug and API plants (see the policy tracker, section 10).
+- **Government lending** (section 1B.2) can fund plants: Solugen holds a conditional $213.6M DOE loan guarantee [src-20240613-2df5d6].
+
+[inference] The policy pull is strongest for pharma intermediates and APIs and for defense chemicals (energetics). It is weakest for commodities, where the US is already a net exporter.
+
+### 4B.3 Where AI actually helps, and how long it takes
+
+| Stage | What AI does | Maturity | Molecule-to-revenue time |
+|---|---|---|---|
+| **Discovery** (what molecule?) | Generative design, property prediction, screening billions of candidates | Real but crowded; models are commoditizing (4A) | Drugs: 10+ years to market; specialty chemicals: 2–5 years to qualify |
+| **Synthesis planning** (how to make it?) | Retrosynthesis software suggests reaction routes (Synthia, IBM RXN, PostEra) | Decision support only; chemists still filter routes [inference from literature review] | Months saved per route |
+| **Lab execution** (actually make it) | Robots plus AI run reactions and learn from results ("self-driving labs") | Early; claims of autonomous discovery have been disputed (the 2023 A-Lab row) | Faster make-test loops for research compounds |
+| **Process and plant** (make it cheaply at scale) | New catalysts and enzymes, continuous-flow control, yield optimization | Where the money is, and where startups own plants | 3–7 years for a new plant [inference] |
+
+The key point for SPC: **discovering a molecule is not the bottleneck; making it reliably at scale and getting buyers to qualify it is.** This matches the materials finding in 4A.4.
+
+### 4B.4 Business models and unit economics
+
+1. **Own the plant and sell the chemical (fully vertically integrated).** Solugen is the archetype. Revenue is per kilogram; margin depends on yield, feedstock and logistics. Highest capex; best fit for SPC's producer thesis.
+2. **Robotic CRO (make molecules for others, fee for service).** Chemify and Warp Sciences. Revenue per compound or per project, plus possible IP upside. Cash comes earlier, but it is a services business until automation lowers unit cost.
+3. **Design partner or licensor.** CuspAI, Iambic and Isomorphic (pharma comparables). Paid in fees, milestones or royalties; someone else makes and sells the product (see 4A.5).
+4. **Software.** Retrosynthesis and lab-informatics tools (Synthia, IBM RXN, PostEra's tools). Low capex but weak pricing power; Zapata shows the downside (4B.7).
+5. **Biomanufacturing platform.** Engineered microbes or enzymes licensed or used in-house (Geno, LanzaTech, Debut). History is poor (4B.7).
+
+**Claim (Cronin, Chemify):** customers pay for molecules, for software access, and for co-discovered assets with shared upside; Chemify had 12 customers and expected 20 big ones the next year, and aims to be cash-flow positive within a venture cycle [src-20250724-0f42f3].
+
+### 4B.5 The data loop in chemistry
+
+Chemistry's public data (patents, papers) mostly records successes and leaves out failed reactions. A company that runs its own robots captures every run, including failures, in a form a model can learn from. Lightspeed's Warp memo makes exactly this argument: each run yields both chemistry results and robotics and process data, used to run the lab better and to choose what to make next [src-20261022-b542e2]. Cronin says Chemify has converted a few hundred thousand published reactions into its chemical programming code and versions every run [src-20250724-0f42f3]. [inference] The loop is real only if volume is high and the data stays with the operator. Pharma customers often keep the data rights, the same problem CuspAI faces (4A.6).
+
+### 4B.6 Company profiles
+
+Integration labels: **Full** = makes and sells product; **Hybrid** = runs its own lab or plant but sells services or co-owns IP; **Enabler** = sells design or software.
+
+**Solugen (Houston; specialty and commodity chemicals; Full).**
+- **Process:** "chemoenzymatic" production pairs an enzyme with a metal catalyst to turn corn syrup into chemicals, starting with hydrogen peroxide and organic acids. **Claim (Solugen founders):** 96% yield at scale versus about 60% for the traditional route [src-20260320-f90e80].
+- **Origin:** started with a reactor costing about $10,000 and sold to hot-tub owners in Dallas before raising large rounds. Its Bioforge plant runs 24/7 on railcars of corn syrup. **Claim:** smaller plants near customers undercut incumbents on shipping [src-20260320-f90e80].
+- **Money and policy:** a $213.6M DOE loan guarantee for Bioforge Marshall in Minnesota (three modular trains of organic acids, 56 permanent jobs). It is **conditional**: it funds only once legal, technical and financial conditions are met. Production was scheduled for fall 2025 [src-20240613-2df5d6]. A web summary says Solugen broke ground in Marshall in April 2026 and partnered with American Rheinmetall Munitions on energetics inputs (low; not verified in a primary source this run).
+- **What it means [inference]:** the clearest AI-adjacent chemical producer. It owns plants, sells product and has repeat industrial buyers. But the edge is enzyme engineering and plant design more than AI, and the products are lower-value chemicals exposed to commodity pricing.
+
+**Chemify (Glasgow; robotic chemistry, "chemputation"; Hybrid).**
+- **What it is:** founded in 2022 from Lee Cronin's University of Glasgow lab. Its "Chemifarm" turns code written in a chemical programming language into molecules made by robots. The first £12M Chemifarm opened in June 2025 [src-20251021-d0aa43].
+- **Money:** a Series B of more than $50M (Wing, Insight) [src-20251021-d0aa43]. In Sept 2026, £22M in Scottish and UK government grants went toward an £89.9M expansion, with staff growing from 152 to about 450 in three years [src-20260917-2991e2].
+- **Claims (Cronin):** "AWS for chemistry"; makes complex molecules for drug discovery first, then fragrances, paints, catalysts and monomers; plans Chemifarms near customers for supply-chain security [src-20250724-0f42f3].
+- **What it means [inference]:** the most ambitious "AI makes molecules" platform. Today it is a research-scale CRO and co-discovery shop, not a bulk producer, so it sits beside the 4A discovery labs.
+
+**Warp Sciences (San Francisco; US drug-discovery chemistry CRO; Hybrid).**
+- **What it is:** a US-based chemistry CRO that combines expert chemists, AI and robotics in labs "designed for automation from day one" to make the molecules biotech and pharma teams test. It does not develop its own drugs [src-20261027-c11426][src-20261022-b542e2].
+- **Team:** CEO Kevin Weil (ex-OpenAI Chief Product Officer and head of OpenAI for Science), COO DJ Patil (first US Chief Data Scientist), CSO Sol Reisberg (about 20 years in medicinal chemistry, ex-Gilead and Schrödinger, a long-time buyer from offshore CROs) and Mano Paluri (ex-Meta FAIR) [src-20261022-b542e2].
+- **Money:** emerged Oct 22, 2026 with a $215M Series A led by Lightspeed, at an $865M valuation according to Weil [src-20261022-40bbe0].
+- **First service:** lead-optimization "analog" synthesis, meaning variants of a candidate molecule. Chemists do the work first; robots progressively take repetitive steps such as reaction set-up and purification [src-20261022-b542e2].
+- **Claims (Warp):** it aims to "reshore" discovery chemistry that biotechs outsource to Chinese CROs such as WuXi AppTec, and to make discovery "compound" because lab data trains better models [src-20261027-c11426][src-20261022-40bbe0].
+- **What it means [inference]:** a direct BIOSECURE and reshoring play with a top-tier team, but it is services-first and launched five days ago. No customers, prices or throughput are public. US chemist labor costs several times Chinese CRO rates, so the thesis depends on automation actually lowering unit cost. It is research-scale, not manufacturing-scale.
+
+**Brief notes (verified where cited):**
+- **CuspAI, Orbital, Periodic, Lila:** see 4A.3. CuspAI is an enabler (Kemira makes the PFAS sorbent). Orbital is the closest to a producer, since it makes and sells its own fluid.
+- **LanzaTech (gas fermentation to chemicals and fuels; bear case):** its FY2025 10-K flags substantial doubt about continuing as a going concern, with $13.2M cash and a $1.0bn accumulated deficit [src-20260331-20d171].
+- **Zymergen (synthetic biology; failed):** see 4B.7 [src-20220101-9c58e3].
+- **Zapata (quantum and generative-AI software, including chemistry; failed):** wound down in Oct 2024 because its assets did not cover its obligations [src-20241011-721c93].
+- **Geno (Genomatica), Debut, Iambic, Isomorphic, IBM RXN, Synthia, PostEra:** not separately sourced this run. Geno and Debut are biomanufacturing comparables; Iambic and Isomorphic are pharma molecule-design comparables (enablers, not producers); IBM RXN, Synthia and PostEra are synthesis-planning tools. Treat them as names to verify, not evidence.
+
+### 4B.7 Bear case, at full weight
+
+1. **Biomanufacturing has a terrible record.** Ginkgo, Zymergen and Amyris all collapsed in 2021–23. For simple molecules, making them with organisms usually costs more than conventional chemical synthesis, so bio works mainly for complex, high-value compounds [src-20240101-499ec8]. Zymergen had no in-house commercial-scale manufacturing, its contract manufacturers missed production goals, and customers could not get its Hyaline film to work in their own production lines [src-20220101-9c58e3]. LanzaTech is fighting going-concern doubt [src-20260331-20d171].
+2. **AI-for-chemistry software alone fails.** Zapata is the example [src-20241011-721c93]. Retrosynthesis tools are still decision support for chemists [inference].
+3. **Commodity economics punish newcomers.** Europe's plants are closing because of energy cost and Chinese overcapacity [src-20260115-ec35af]. A US startup selling a commodity competes with shale-fed incumbents and Chinese surplus, so it needs a real cost edge, not a green premium.
+4. **Pharma policy can reverse or be diluted.** Section 232 exempts generics (where China dependence is deepest) and gives 0–20% rates to companies that do deals [src-20260402-ecae19]. A federal court enjoined WuXi's 1260H designation (search summary; low). The cheaper Indian and Chinese supply still exists.
+5. **Capex before contracts again.** Chemical plants take years and hundreds of millions. Solugen's DOE loan is still conditional [src-20240613-2df5d6].
+6. **Labor cost of US CROs.** Warp and Chemify must automate faster than offshore labs cut prices [inference].
+
+### 4B.8 Bull case, for balance
+
+- **Real, dated policy pull** for US-made APIs and KSMs, through tariffs, BIOSECURE and the onshoring EO [src-20260402-ecae19][src-20260110-4db409].
+- **Europe's retreat leaves supply gaps** in specialty and intermediate chemicals that customers must re-source [src-20260115-ec35af].
+- **Process innovation is a real cost lever:** a 96% versus 60% yield claim, if true at scale, is a structural advantage (Solugen's claim) [src-20260320-f90e80].
+- **Owner-operated robotic labs** may produce the proprietary failure data that public chemistry lacks [src-20261022-b542e2].
+
+### 4B.9 What fits SPC's thesis [inference]
+
+| Company | Integration | Fit with "AI-enabled, vertically integrated, makes and sells product" |
+|---|---|---|
+| Solugen | Full | **Best fit.** Own plants, product revenue, government loan; AI is secondary to enzyme and process IP. Late stage. |
+| Orbital (4A) | Full (specialty fluids) | Good fit; see 4A. |
+| Warp Sciences | Hybrid (CRO) | Fits the reshoring and data-loop thesis; services, not product; too early to judge. |
+| Chemify | Hybrid (CRO plus IP) | Interesting option on "code to molecule"; research scale. |
+| CuspAI, Periodic, Lila | Enabler or discovery lab | Not producers; track via 4A. |
+| LanzaTech, Zymergen, Zapata | — | Cautionary tales. |
+
+**Diligence questions:** What is the yield and cost per kilogram at the current plant versus incumbents? How many customers have reordered after qualification? Who keeps the data rights? How much capex is committed before offtake contracts?
+
+### 4B.10 Best things for Brooke to read and listen to
+
+1. **Y Combinator podcast, "Inside the startup reinventing America's trillion-dollar chemical industry" (Solugen, Mar 2026)** — https://www.ycombinator.com/library/NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry — The best 13-minute intro to a vertically integrated AI- and bio-enabled chemical producer.
+2. **Jim Rutt Show EP 312, Lee Cronin on Automating Chemistry (Jul 2025)** — https://jimrutt.substack.com/p/ep-312-lee-cronin-on-automating-chemistry-f9f — Chemify's "code to molecule" vision and business model, in the founder's words, with a free transcript.
+3. **CFR, "The Pharma Choke Point" (2026)** — https://www.cfr.org/reports/the-pharma-choke-point — The clearest account of China's hold on drug starting materials, with shortage scenarios.
+4. **Cefic/Roland Berger, European chemical closures radar 2022–2025** — https://cefic.org/app/uploads/2026/01/European-Chemical-Closures-and-Investments-Radar-2022-2025.pdf — Hard numbers on Europe's chemical shrinkage.
+5. **Sarah Constantin, "What's Behind the SynBio Bust?"** — https://sarahconstantin.substack.com/p/whats-behind-the-synbio-bust — The best bear case on biomanufacturing economics.
+6. **Lightspeed, "Why We're Backing Warp" (Oct 2026)** — https://lsvp.com/stories/why-were-backing-warp/ — A concise investor case for robotic US chemistry CROs and the lab data loop.
+7. **Section 232 pharma proclamation (Apr 2026)** — https://www.whitehouse.gov/presidential-actions/2026/04/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states/ — The actual tariff rules driving pharma onshoring.
+8. **Schondelmeyer USCC testimony (Jun 2025)** — https://www.uscc.gov/sites/default/files/2025-06/Stephen_Schondelmeyer_Testimony.pdf — The data on how US generics depend on China through India.
+9. **Manufacturing Chemist, "Where Zymergen went wrong"** — https://manufacturingchemist.com/where-zymergen-went-wrong-a-biomanufacturing-perspective-for-synthetic-biology-204177 — A short lesson: scale-up and customer qualification kill companies, not discovery.
+10. **Industrial AI Podcast, "Max Welling's CuspAI" (Feb 2025)** — https://podwise.ai/episodes/2974143 — The materials-design view from CuspAI's co-founder (listed, not yet transcribed into the repo).
 
 
 ## 5. Company profiles

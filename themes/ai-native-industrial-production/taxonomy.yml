@@ -26,6 +26,12 @@ layers:
     incumbents: ["corporate R&D", "national labs"]
     upstart_angle: "Closed loop: AI proposes, robots make and test, results train the next round"
     seed_companies: [periodic-labs, cuspai, radical-ai]
+  chemicals:
+    label: "Chemicals"
+    what: "Commodity, specialty and pharma chemicals (KSMs, APIs) made with AI, robotics, enzymes or flow chemistry. Buyer: industry, pharma, defense."
+    incumbents: [BASF, Dow, "WuXi AppTec", "Chinese and Indian API makers"]
+    upstart_angle: "Own the plant or robotic lab; better process yield; reshore pharma chemistry"
+    seed_companies: [solugen, chemify, warp-sciences]
   factory-ai:
     label: "5. Factory AI"
     what: "AI that runs plants owned by others. Buyer: manufacturers."

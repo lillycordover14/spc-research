@@ -37,6 +37,7 @@ sources:
 - src-20260422-d6ae9d
 - src-20261025-db0c8b
 - src-20261026-398470
+- src-20251016-371c9b
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -50,9 +51,10 @@ Landscape view (2026-10-23): PICK: denied-claim recovery is a measurable outcome
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-04-22 | Amperos Health: $16M Series A (2026-04-22) [src-20260422-d6ae9d]
+- 2025-10-16 | DOCS Dermatology: 3X pilot productivity, 30%-35% of claims, low six figures, volume pricing with minimums [src-20251016-371c9b]
 
 ## Economics (what we know)
-Pricing: n/v [src-20260422-d6ae9d]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
+Pricing: spend proportional to claim volume with minimum-transaction contracts; DOCS Dermatology spends low six figures [src-20251016-371c9b]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
 
 ## Open questions
 - Which outcome is billed, and who measures it?

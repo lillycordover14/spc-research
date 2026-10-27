@@ -34,6 +34,8 @@ sources:
 - src-20260710-37d40b
 - src-20260724-865e53
 - src-20251023-28432e
+- src-20260310-e66bf3
+- src-20260515-de88a1
 data_quality: Incumbent card created 2026-10-23 from earnings and pricing sources; numbers only with source ids.
 updated: '2026-10-23'
 ---
@@ -47,7 +49,9 @@ Customer service platform; Fin AI agent priced per outcome. Fin brand acquired b
 - 2026-09-24 | intercom: Fin $0.99 per outcome (resolution, handoff, disqualification), qualification $9.99, minimum commitments [src-20260924-93c5ed]
 - 2026-09-10 | salesforce, intercom: Fin acquisition closed; 30,000+ customers, 76% average resolution [src-20260910-2cf2eb]
 - 2026-07-24 | Crescendo former director: Intercom strong vs AI-native BPO on integration and data access [src-20260724-865e53]
+- 2026-05-15 | Notion: Fin negotiable below $2 per deflection; out of the RFP over a past relationship [src-20260515-de88a1]
 - 2026-03-26 | Smartly.io: Fin live since Nov 2025, resolves 30% to 40%, pricing on usage, interaction and resolution [src-20260326-b3dd2d]
+- 2026-03-10 | Fin $0.99 per resolution, unpaid four-week trial, no FDE model [src-20260310-e66bf3]
 - 2025-10-23 | Zendesk VP: Fin $0.99 per resolution followed Zendesk's $1.50 headline [src-20251023-28432e]
 
 ## Economics (what we know)
@@ -57,6 +61,7 @@ Customer service platform; Fin AI agent priced per outcome. Fin brand acquired b
 - Who audits: vendor; third-party audit n/v
 - Renewal: minimum commitments apply [src-20260924-93c5ed]
 - Customer resolution rate: 30% to 40% at Smartly.io; pricing on usage, interaction and resolution [src-20260326-b3dd2d]
+- Negotiable to less than $2 per deflection, per a Notion buyer [src-20260515-de88a1]; Fin often starts at about 30% of a contract and reaches 50%-60% of spend within a year (anecdotal) [src-20260310-e66bf3]
 - Gross margin after inference: n/v
 
 ## Open questions

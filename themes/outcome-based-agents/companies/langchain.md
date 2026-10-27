@@ -51,6 +51,7 @@ sources:
 - src-20261013-c3e97a
 - src-20261025-1d892d
 - src-20261026-7f4414
+- src-20260618-f36dc6
 data_quality: Benchmark card for the harness layer, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -70,6 +71,7 @@ Benchmark for an independent harness / agent-infrastructure company.
 - 2026-10-13 | langchain: DXC licenses LangSmith for OASIS [src-20261013-1dcd15]
 - 2026-08-13 | langchain: LangSmith Engine: agent that mines traces into issue boards and proposes harness fixes; Harbor cited as emerging eval standard [src-20260813-09fcee]
 - 2026-06-29 | langchain: Chase hosts Levie at LangChain event; Levie endorses coding-harness backbone (Deep Agents) [src-20260629-015aae]
+- 2026-06-18 | Cresta built its own framework instead of LangChain [src-20260618-f36dc6]
 - 2026-05-06 | langchain: Joined NVIDIA Nemotron coalition; names agent identity and async sub-agents as next [src-20260506-041ecf]
 
 

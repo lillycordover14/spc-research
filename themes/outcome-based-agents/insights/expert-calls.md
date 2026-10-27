@@ -108,6 +108,31 @@ Paste as-is. AlphaSense supports Boolean and NEAR/n; Tegus search is simpler, so
 2. One Duvo customer (MacPherson or Notino) on Q15 and the outcome test.
 3. One F500 head of AI with an outcome-priced CX vendor (Chime-style) on renewal and verification.
 
+## AlphaSense transcripts filed (2026-10-27, 17 calls)
+Experts are anonymous; role as given by AlphaSense. Date is interview date. Same link pattern as below.
+
+| Source | Expert role, company | Interview | Docid | Gaps it closes |
+|---|---|---|---|---|
+| src-20260908-547a69 | Former Forward Deployed Engineer, Palantir | 2026-09-08 | 248195 | FDE pricing inside usage contracts; SI vs Palantir vs OpenAI DeployCo (Q5, Q6, Q14) |
+| src-20260904-8886b4 | SVP Infrastructure Operations and Services, Ascot Group (Microsoft E7 buyer) | 2026-09-04 | 247531 | E7 discount, Cowork token spend, Agent 365 maturity (Q4, Q6, Q11) |
+| src-20260828-bb2734 | Director, Crescendo (Zendesk partner BPO; AI Interviewer) | 2026-08-28 | 245344 | Zendesk native AI share, seat pricing view (Q8) |
+| src-20260825-747be0 | VP Digital Transformation, Accenture (UiPath SI) | 2026-08-25 | 244213 | RPA vs agent run cost, bot to agent ratio (Q11, Q14) |
+| src-20260724-b4a442 | Head of Automation and AI Practice Northern Europe, Cognizant | 2026-07-24 | 235110 | BPO displacement size and timeline, token cost (Q4, Q11, Q14) |
+| src-20260618-f36dc6 | Head of Forward Deployed Engineering, Cresta | 2026-06-18 | 223713 | Own harness vs LangChain, eval effort, per-minute and outcome pricing (Q2, Q5) |
+| src-20260617-937cc1 | CEO, avant.ai (procurement BPO, Pavus customer) | 2026-06-17 | 223379 | Didero, Pavus, Magentic, Pactum scored from RFPs; Didero pricing (Q2, Q10) |
+| src-20260616-48f4c6 | Director, Digital Operations and AI Enablement, Skan.AI | 2026-06-16 | 222882 | Process intelligence vs labs (Q6, Q7) |
+| src-20260518-714b0a | Former CPO, Chime (Decagon and Sierra customer) | 2026-05-18 | 215049 | Multi-vendor router, cost per case ceiling (Q5, Q7, Q10) |
+| src-20260515-de88a1 | Head of Business Technology, Notion (Decagon customer) | 2026-05-15 | 214749 | Decagon pricing unit and spend, RFP scores, BPO displacement (Q2, Q4, Q10) |
+| src-20260310-e66bf3 | Former Head of Sales Americas, Intercom | 2026-03-10 | 197134 | Fin resolution definition, cost control, Sierra paid POC (Q2, Q11) |
+| src-20260224-8c72f4 | Digital Solutions Leader, Hitachi Digital Services (Ema customer) | 2026-02-24 | 192831 | Horizontal platform spend and expansion cap (Q5, Q9) |
+| src-20260209-7ec831 | Head of Digital Architecture, Supply Chain Development, IKEA (Magentic customer) | 2026-02-09 | 189357 | Magentic pricing, savings, adoption (Q2, Q10) |
+| src-20251126-6d86c8 | Former VP of Sales, Justworks (Actively customer) | 2025-11-26 | 173450 | Actively ROI and switching cost (Q9) |
+| src-20251024-112e5e | Chief of Staff and Head of Operations, Novilla Pharmaceuticals (Didero customer) | 2025-10-24 | 165187 | Didero spend vs replaced consultant (Q4, Q10) |
+| src-20251016-371c9b | CIO, DOCS Dermatology (Amperos customer) | 2025-10-16 | 163248 | RCM agent pricing, liability limit (Q2, Q3) |
+| src-20241114-f0ab80 | VP Consumer Banking and Lending, Discover (Omilia customer) | 2024-11-14 | 110763 | Contact center AI license cost, containment (Q1, Q3) |
+
+Still open after these: still no third-party outcome auditor; Decagon price per conversation still not stated (Notion gives spend, not unit price); Sierra price per resolution still from one buyer only.
+
 ## AlphaSense transcripts filed (2026-10-25, 20 calls)
 Experts are anonymous; role as given by AlphaSense. Date is interview date. Links: https://research.alpha-sense.com/search?sort=RELEVANCE&order=DESC&docid=EC-1000000-<ID>
 
@@ -137,6 +162,6 @@ Experts are anonymous; role as given by AlphaSense. Date is interview date. Link
 Still open after these: no third-party outcome auditor named in any call; no per-resolution price for Decagon; Fin price point not stated by the customer; no Now Assist production share; Sycamore has no AlphaSense coverage.
 
 ### Backlog: AlphaSense IDs not yet downloaded (from the 2026-10-25 search log)
-247531 Ascot MS E7 agents; 223713 Cresta FDE; 235110 Cognizant automation head; 234187 PwC Maisa; 248195 ex-Palantir FDE economics; 240921 ex-Accenture IT services margins; 258221 Atlassian on Salesforce AI; 230791 Northeastern ServiceNow; 257399 Workday partner; 206963 Accelerant FurtherAI; 192831 Hitachi on Ema; 172553 SOPHiA on Kestra; 222882 Skan AI director; 218503 Skan AI exec; 223379 Avant on Didero/Magentic; 165187 Novilla on Didero; 189357 IKEA on Magentic; 173450 Justworks on Actively; 163248 DOCS Dermatology on Amperos; 110763 Discover on Omilia; 245344 Crescendo on Zendesk; 244213 Accenture VP on UiPath agentic; 233629 Liberty Mutual legal AI.
-No-docid titles: Former Head of Sales Americas Intercom on outcome pricing (08 Jun 26); Decagon: Former CPO Chime (16 Aug 26), Notion Head of Business Technology (13 Aug 26), Hunter Douglas CX lead, Pocket FM Head of AI.
+234187 PwC Maisa; 240921 ex-Accenture IT services margins; 258221 Atlassian on Salesforce AI; 230791 Northeastern ServiceNow; 257399 Workday partner; 206963 Accelerant FurtherAI; 172553 SOPHiA on Kestra; 218503 Skan AI exec; 233629 Liberty Mutual legal AI.
+No-docid titles: Hunter Douglas CX lead, Pocket FM Head of AI. Filed 2026-10-27 (docids found): Intercom Head of Sales Americas (197134), Decagon: Former CPO Chime (215049), Notion Head of Business Technology (214749).
 Sycamore: no AlphaSense coverage found.

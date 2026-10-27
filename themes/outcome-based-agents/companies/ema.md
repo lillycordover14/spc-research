@@ -60,6 +60,7 @@ sources:
 - src-20261021-db1ed7
 - src-20261021-037d83
 - src-20261026-2f2338
+- src-20260224-8c72f4
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -73,9 +74,10 @@ Landscape view (2026-10-23): PICK: prices by completed tasks and outcomes, $150M
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-30 | Ema: $77M Series B, total $140M (2026-09-30) [src-20260930-9ee545]
+- 2026-02-24 | Hitachi Digital Services: four use cases, a few hundred thousand a year, growth 5%-10% as buyer builds its own [src-20260224-8c72f4]
 
 ## Economics (what we know)
-Pricing: outcome (completed tasks and outcomes) [src-20260930-9ee545]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
+Pricing: outcome (completed tasks and outcomes) per vendor [src-20260930-9ee545]; Hitachi describes a subscription priced on workflows, a few hundred thousand a year [src-20260224-8c72f4]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
 
 ## Open questions
 - Which outcome is billed, and who measures it?

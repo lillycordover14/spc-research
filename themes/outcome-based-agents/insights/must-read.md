@@ -2,7 +2,7 @@
 
 Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, directly answers Q1, Q2, Q6, Q7 or Q8, moves the investable view, or is a canonical thesis. Every listed record carries the tags `must-read` and `must-read-tier-1` or `must-read-tier-2` in its frontmatter, so `grep -l must-read-tier-1 sources -r` lists them. Read time assumes about 230 words a minute; long transcripts are marked "skim" with a 20-minute budget on the parts quoted in key_facts.
 
-## Tier 1 (33): read these first
+## Tier 1 (38): read these first
 | # | Source | Date | Read | Why | Qs |
 |---|---|---|---|---|---|
 | 1 | src-20260309-78d5a1: [Kleiner Perkins: How Sierra Is Pulling Ahead in the AI Race, Co-founder Bret Taylor](https://www.youtube.com/watch?v=6v9q6k8aF6E) | 2026-03-09 | 60 min (skim: 20 min on the flagged parts) | Sierra's own numbers ($100M in 7 quarters, $150M in 8) and why FDE exists: to guarantee outcomes | Q2, Q5, Q8 |
@@ -38,6 +38,11 @@ Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, direc
 | 31 | src-20260416-1a8cca: Duvo co-founder on pricing (AlphaSense expert call) | 2026-04-16 | 40 min (skim: 20 min on the flagged parts) | Duvo outcome or value pricing and ACV | Q2, Q15 |
 | 32 | src-20260609-4b024f: European e-grocer on Duvo (AlphaSense expert call) | 2026-06-09 | 40 min (skim: 20 min on the flagged parts) | First Duvo customer: per-run pricing, spend, FTEs, UiPath displaced | Q2, Q15 |
 | 33 | src-20251023-28432e: Zendesk VP on Fin and resolution pricing (AlphaSense expert call) | 2025-10-23 | 40 min (skim: 20 min on the flagged parts) | Headline per-resolution prices: Zendesk $1.50, Fin $0.99 | Q2, Q8 |
+| 34 | src-20260515-de88a1: Notion on Decagon vs Sierra and Fin (AlphaSense expert call) | 2026-05-15 | 40 min (skim: 20 min on the flagged parts) | Decagon per-conversation pricing, spend, 4X to 7X cheaper than offshore, RFP scores | Q2, Q4, Q10 |
+| 35 | src-20260310-e66bf3: Former Intercom sales lead on Fin outcome pricing (AlphaSense expert call) | 2026-03-10 | 40 min (skim: 20 min on the flagged parts) | Fin resolution definition, buyer cost control problem, Sierra paid POC | Q2, Q11 |
+| 36 | src-20260518-714b0a: Former Chime CPO on Decagon and Sierra (AlphaSense expert call) | 2026-05-18 | 40 min (skim: 20 min on the flagged parts) | Buyer keeps CX vendors interchangeable behind its own router | Q5, Q7, Q10 |
+| 37 | src-20260904-8886b4: Ascot Group on Microsoft E7 and Cowork tokens (AlphaSense expert call) | 2026-09-04 | 40 min (skim: 20 min on the flagged parts) | Seat bundle discount respent on token-priced agents | Q4, Q6, Q11 |
+| 38 | src-20260908-547a69: Former Palantir FDE on FDE economics (AlphaSense expert call) | 2026-09-08 | 40 min (skim: 20 min on the flagged parts) | FDE priced inside usage contracts; OpenAI DeployCo | Q5, Q6, Q14 |
 
 ## Tier 2 (47): read for depth on a question
 | # | Source | Date | Read | Why | Qs |

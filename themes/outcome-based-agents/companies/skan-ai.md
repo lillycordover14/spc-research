@@ -42,6 +42,7 @@ sources:
 - src-20261013-c9148b
 - src-20261019-d82fd6
 - src-20261026-86900e
+- src-20260616-48f4c6
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -55,6 +56,7 @@ Landscape view (2026-10-23): PICK: work-context for agents, a quarter of the For
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-08-12 | Skan AI: $63M Series C, total ~$120M (2026-08-12) [src-20260812-4cb1fc]
+- 2026-06-16 | Director: biggest competition is Anthropic and OpenAI; wants license, not services, revenue [src-20260616-48f4c6]
 
 ## Economics (what we know)
 Pricing: n/v [src-20260812-4cb1fc]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.

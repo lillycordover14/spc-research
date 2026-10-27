@@ -30,6 +30,7 @@ sources:
 - src-20260710-37d40b
 - src-20260724-865e53
 - src-20251023-28432e
+- src-20260828-bb2734
 data_quality: Incumbent card created 2026-10-23 from earnings and pricing sources; numbers only with source ids.
 updated: '2026-10-23'
 ---
@@ -40,6 +41,7 @@ Customer service software; AI agents billed per automated resolution. Incumbent 
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-08-28 | Crescendo director: about 70% of clients seen use non-native AI frontline; loses mainly on price [src-20260828-bb2734]
 - 2026-07-24 | Crescendo former director: Zendesk strong vs AI-native BPO on integration and data access [src-20260724-865e53]
 - 2026-07-10 | Lost Safelite CX agent evaluation to Sierra [src-20260710-37d40b]
 - 2025-10-23 | VP: headline $1.50 per resolution, Fin followed at $0.99 [src-20251023-28432e]

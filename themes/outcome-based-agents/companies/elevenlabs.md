@@ -1,0 +1,48 @@
+---
+slug: elevenlabs
+name: ElevenLabs
+aliases: []
+website: null
+hq: null
+founded: null
+layer: harness-infra
+layers:
+- harness-infra
+- vertical-outcome
+model: unknown
+what: Voice AI models and voice agents; sells enterprise voice agents head to head with Sierra per a former Intercom sales lead
+fit: []
+stage: unknown
+total_raised_usd: null
+last_round: {}
+investors: []
+founders: []
+headcount: null
+customers: []
+harmonic_urn: null
+affinity_id: null
+pitchbook: null
+status: candidate
+spc_owner: Lilly
+tags:
+- cx-support
+- competitor
+sources:
+- src-20260310-e66bf3
+- src-20260618-f36dc6
+data_quality: Stub from src-20260310-e66bf3; what from the expert call, other fields n/v
+updated: '2026-10-27'
+---
+
+## What they do
+
+## Why it fits the theme (or doesn't)
+
+## Traction and signals
+- 2026-03-10 | Former Intercom lead now at ElevenLabs: often head to head with Sierra [src-20260310-e66bf3]
+
+## Economics (what we know)
+
+## Open questions
+
+## People

@@ -40,6 +40,7 @@ sources:
 - src-20260428-2d177a
 - src-20261025-5ffac1
 - src-20261026-b011ff
+- src-20251126-6d86c8
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -53,9 +54,10 @@ Landscape view (2026-10-23): PICK: Ramp 23% higher close rate; revenue-generatin
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-04-28 | Actively AI: $45M Series B at $250M, total $67.5M (2026-04-28) [src-20260428-2d177a]
+- 2025-11-26 | Justworks: about $1M revenue, spend around $160,000, ROI about 6X, easy to switch [src-20251126-6d86c8]
 
 ## Economics (what we know)
-Pricing: n/v [src-20260428-2d177a]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
+Pricing model n/v; Justworks spends around $160,000 [src-20251126-6d86c8]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
 
 ## Open questions
 - Which outcome is billed, and who measures it?

@@ -38,6 +38,8 @@ tags:
 sources:
 - src-20260917-25441c
 - src-20260923-47e348
+- src-20260209-7ec831
+- src-20260617-937cc1
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -51,9 +53,11 @@ Landscape view (2026-10-23): PICK: 1M+ POs a year at one manufacturer, $4M savin
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
 - 2026-09-17 | Magentic: $18M Series A, total $23.5M (2026-09-17) [src-20260917-25441c]
+- 2026-06-17 | avant.ai CEO: closest to Pavus, higher on AI integration [src-20260617-937cc1]
+- 2026-02-09 | IKEA: live since August 2025, 45%-50% of procurement volume, low-to-mid six figures, consumption-based [src-20260209-7ec831]
 
 ## Economics (what we know)
-Pricing: n/v [src-20260917-25441c]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
+Pricing: consumption-based enterprise license, no share of savings; IKEA pays low-to-mid six figures [src-20260209-7ec831]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
 
 ## Open questions
 - Which outcome is billed, and who measures it?

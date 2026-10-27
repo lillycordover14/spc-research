@@ -1,6 +1,7 @@
 slug,name,layer,model,stage,status,hq,founded,headcount,total_raised_usd,website,harmonic_urn,fit,tags,what,updated,_path
 advanced-metal-research,Advanced Metal Research,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/advanced-metal-research.md
 again,Again,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/again.md
+aionics,Aionics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/aionics.md
 air-company,Air Company,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/air-company.md
 antropi-robotics,Antropi Robotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/antropi-robotics.md
 apple,Apple,adjacent,enabler,public,incumbent,,,,,,,,,"$600B US commitment, American Manufacturing Program, $500M MP Materials magnets offtake",2026-10-22,themes/ai-native-industrial-production/companies/apple.md
@@ -15,6 +16,7 @@ chemify,Chemify,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,th
 chemix,Chemix,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/chemix.md
 chipletz,Chipletz,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/chipletz.md
 circuithub,Circuithub,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/circuithub.md
+citrine-informatics,Citrine Informatics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/citrine-informatics.md
 cloudnc,Cloudnc,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/cloudnc.md
 copia,Copia,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/copia.md
 critical-materials-group,Critical Materials Group,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/critical-materials-group.md
@@ -24,6 +26,7 @@ deterrence,Deterrence,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10
 dirac,Dirac,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/dirac.md
 dunia,Dunia Innovations,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/dunia.md
 earth-ai,Earth Ai,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/earth-ai.md
+entalpic,Entalpic,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/entalpic.md
 fab2,Fab2 (fka Atomic Semi),adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/fab2.md
 fabri,Fabri,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/fabri.md
 firestorm-labs,Firestorm Labs,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/firestorm-labs.md
@@ -43,12 +46,14 @@ iambic,Iambic,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,them
 instrumental,Instrumental,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/instrumental.md
 invisible-ai,Invisible Ai,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/invisible-ai.md
 jabil,Jabil,adjacent,owner-operator,public,incumbent,,,,,,,,,Contract manufacturer; acquired Hanley Energy (~$725M) for data-center power,2026-10-22,themes/ai-native-industrial-production/companies/jabil.md
+kebotix,Kebotix,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/kebotix.md
 lanzatech,Lanzatech,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/lanzatech.md
 layup-parts,Layup Parts,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/layup-parts.md
 limitless-labs,Limitless Labs,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/limitless-labs.md
 lux-semiconductors,Lux Semiconductors,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/lux-semiconductors.md
 lygos,Lygos,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/lygos.md
 maneva,Maneva,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/maneva.md
+mattiq,Mattiq,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/mattiq.md
 mitra-chem,Mitra Chem,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/mitra-chem.md
 mosaic-microsystems,Mosaic Microsystems,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/mosaic-microsystems.md
 mujin,Mujin,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/mujin.md

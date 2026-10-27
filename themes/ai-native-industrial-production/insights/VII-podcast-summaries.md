@@ -95,7 +95,7 @@ date: 2026-10-27
 1. Power's story of decline: great powers build industry, win, get lazy, financialize and offshore; the reserve currency follows industrial strength.
 2. Hadrian describes itself as a "design agnostic" automated contract manufacturer, "Foxconn to every different brand". It makes parts from space components up to "entire missile[s]" and "30% of a Virginia-class submarine" (company claim).
 3. Power says most factory work is not a robot problem: it is skilled people "driving an incredibly dumb computer" (90% of advanced manufacturing, his estimate). Closing the feedback loop in software lets a technician set up, press go and walk away.
-4. Make vs buy: Mueller builds prototypes in-house to learn, then outsources production; even SpaceX now sends parts out (Hadrian is about to make Raptor parts). Power says every company should keep 10–50% in-house, but scale has to happen outside.
+4. Make vs buy: Mueller builds prototypes in-house to learn, then outsources production; even SpaceX now sends parts out (Hadrian is about to make Raptor parts). Power says every company should keep 10–15% in-house, but scale has to happen outside.
 5. LA's ecosystem is real but tight on talent: startups poach from each other, Northrop and Boeing. "Software is done in Silicon Valley, hardware is done in LA" (Mueller).
 6. Cost gap: Power says that even modelling his factory at zero labour and zero energy, some Chinese commercial parts land at about one-third of his cost, because of subsidised energy, capital and export rebates.
 7. On tariffs, he backs the principle but says both administrations got the details wrong (transshipment through places like Singapore; rules on what counts as an assembly). He prefers bans on Chinese components in drones and robots.
@@ -104,7 +104,7 @@ date: 2026-10-27
 
 **Company claims.** Impulse: two craft came within 200 m of each other; Helios raises Falcon 9 payload to the Moon or Mars by about 5×. Hadrian: lights-out 24/7 software-powered factories; parts for an entire missile.
 
-**Notable numbers.** SpaceX 165 launches last year and ~10,000 satellites (Mueller); China's parts cost about one-third of Hadrian's (Power); 10–50% in-house rule.
+**Notable numbers.** SpaceX 165 launches last year and ~10,000 satellites (Mueller); China's parts cost about one-third of Hadrian's (Power); 10–15% in-house rule.
 
 **Quotes**
 - "to 30% of a Virginia-class submarine" (9:30)

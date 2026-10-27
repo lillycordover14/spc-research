@@ -1,6 +1,6 @@
 # Vertically Integrated Industries: VC primer
 
-_Version 9.8, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.4 adds "Listen & watch" episode lists to each chapter and a listening appendix (E). v9.3 renamed Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over. v9.5 adds "Commercial traction and incumbents" sections (3.14-7.14), removes Nox from Raw Materials, and removes repeated text (Chemicals first). v9.6 narrows chapter 5 to Specialty Chemicals: full market map, supply chain, economics, incumbents and new AI-enabled specialty startups. v9.7 adds an "Our view" box (analyst judgment) under each industry and sub-category, and a Views at a glance table (0.1). v9.8 adds a detailed traction table for Advanced Materials producers and discovery labs (6.14)._
+_Version 9.9, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.4 adds "Listen & watch" episode lists to each chapter and a listening appendix (E). v9.3 renamed Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over. v9.5 adds "Commercial traction and incumbents" sections (3.14-7.14), removes Nox from Raw Materials, and removes repeated text (Chemicals first). v9.6 narrows chapter 5 to Specialty Chemicals: full market map, supply chain, economics, incumbents and new AI-enabled specialty startups. v9.7 adds an "Our view" box (analyst judgment) under each industry and sub-category, and a Views at a glance table (0.1). v9.8 adds a detailed traction table for Advanced Materials producers and discovery labs (6.14). v9.9 folds in new facts, numbers, bear-case points and quotes from the full podcast/video transcripts (see insights/VII-podcast-summaries.md); each cites its source ID and transcript timestamp._
 
 **The idea in plain English.** America has spent forty years outsourcing the "hard middle" of making things: digging and refining minerals, making metal, machining and welding parts, and producing chemicals. Now defense, industrial policy and China's export controls make that middle valuable again, and it is short of plants and people. We look for startups that **own the plant and sell the physical output** (a mineral, a metal, a part, a chemical) and use **AI, software and automation inside their own operations** to build faster and run with fewer scarce skilled workers than incumbents. Owning production is what lets them keep the margin and the data.
 
@@ -25,7 +25,127 @@ Confidence (high/med/low) is marked on weak numbers. Acronyms are collected in A
 
 **Contents** (PDF page numbers)
 
-TOC_PLACEHOLDER
+| Section | Page |
+|---|---|
+| 0. Decision summary | 5 |
+| &emsp;0.1 Views at a glance _(analyst judgment, not fact [inference]; detail in each chapter's "Our view" box)_ | 7 |
+| 1. The theme in plain English | 8 |
+| 2. Cross-cutting macro (applies to all five industries) | 9 |
+| &emsp;2.1 Manufacturing in one page | 9 |
+| &emsp;2.2 Six forces behind "why now" (overview) | 10 |
+| &emsp;2.3 Industrial policy and the policy toolkit | 11 |
+| &emsp;2.4 The government as lender and investor: OSC, EDF and DPA Title III | 12 |
+| &emsp;2.5 Capex, construction, rates and how plants get financed | 13 |
+| &emsp;2.6 Defense and munitions budgets | 14 |
+| &emsp;2.7 Labor: the binding constraint, and why cheap labor is not the point | 15 |
+| &emsp;2.8 Power, permits and build time | 16 |
+| &emsp;2.9 Venture climate and how investors see it | 16 |
+| &emsp;2.10 Science policy: the Genesis Mission, DOE, NSF and the national labs | 17 |
+| &emsp;2.11 More macro facts a newcomer should know | 18 |
+| &emsp;2.12 Market size: overview | 18 |
+| &emsp;2.13 Data loops: what the sources say for and against | 19 |
+| &emsp;2.14 Macro scorecard by industry [inference] | 20 |
+| &emsp;2.15 What would break "why now" | 20 |
+| &emsp;2.16 Listen & watch | 21 |
+| 3. Raw Materials (Minerals & Metals) | 21 |
+| &emsp;3.1 Shared macro: China's refining grip, the critical-minerals orders and government lending | 21 |
+| &emsp;3.2 Stage A — Finding and mining: problem, tailwinds and headwinds | 22 |
+| &emsp;3.3 Stage B — Refining and making metal: problem, tailwinds and headwinds | 23 |
+| &emsp;3.4 Why an AI-enabled, vertically integrated company is the answer here | 24 |
+| &emsp;3.5 What would have to be true, and signals to watch | 25 |
+| &emsp;3.6 Macro in more depth | 25 |
+| &emsp;3.7 How the industry and its supply chain work | 27 |
+| &emsp;3.8 Where AI and automation help | 28 |
+| &emsp;3.9 Right to win, unit economics and data loop | 28 |
+| &emsp;3.10 Companies, grouped by label | 28 |
+| &emsp;3.11 Bear case, at equal weight | 32 |
+| &emsp;3.12 Key sources | 32 |
+| &emsp;3.13 Listen & watch | 32 |
+| &emsp;3.14 Commercial traction and incumbents | 33 |
+| 4. Manufacturing | 34 |
+| &emsp;4.1 The problem today | 35 |
+| &emsp;4.2 Macro and tailwinds, ranked [ranking is inference] | 35 |
+| &emsp;4.3 Headwinds, at equal weight | 36 |
+| &emsp;4.4 Why an AI-enabled, vertically integrated company is the answer here | 36 |
+| &emsp;4.5 What would have to be true, and signals to watch | 37 |
+| &emsp;4.6 Macro in more depth | 37 |
+| &emsp;4.7 How the industry and its supply chain work | 38 |
+| &emsp;4.8 Where AI and automation help | 39 |
+| &emsp;4.9 Right to win, unit economics and data loop | 39 |
+| &emsp;4.10 Companies, grouped by label | 40 |
+| &emsp;4.11 Bear case, at equal weight | 45 |
+| &emsp;4.12 Key sources | 45 |
+| &emsp;4.13 Listen & watch | 45 |
+| &emsp;4.14 Commercial traction and incumbents | 46 |
+| 5. Specialty Chemicals | 47 |
+| &emsp;5.1 The problem today | 48 |
+| &emsp;5.2 Market map, size and economics | 48 |
+| &emsp;5.3 Tailwinds, ranked [ranking is inference] | 49 |
+| &emsp;5.4 Headwinds, at equal weight | 49 |
+| &emsp;5.5 Why an AI-enabled, vertically integrated company wins here | 50 |
+| &emsp;5.6 Macro in more depth: the supply chain | 50 |
+| &emsp;5.7 How the industry and its supply chain work | 51 |
+| &emsp;5.8 Where AI and automation help | 52 |
+| &emsp;5.9 Right to win, unit economics and data loop | 52 |
+| &emsp;5.10 Companies, grouped by label | 52 |
+| &emsp;5.11 Bear case, at equal weight | 55 |
+| &emsp;5.12 Key sources | 56 |
+| &emsp;5.13 Listen & watch | 56 |
+| &emsp;5.14 Commercial traction and incumbents | 57 |
+| 6. Advanced Materials | 58 |
+| &emsp;6.1 The problem today | 59 |
+| &emsp;6.2 Macro and tailwinds, ranked [ranking is inference] | 59 |
+| &emsp;6.3 Headwinds, at equal weight | 60 |
+| &emsp;6.4 Why an AI-enabled, vertically integrated company is the answer here | 60 |
+| &emsp;6.5 What would have to be true, and signals to watch | 60 |
+| &emsp;6.6 Macro in more depth | 61 |
+| &emsp;6.7 How the industry and its supply chain work | 62 |
+| &emsp;6.8 Where AI and automation help | 62 |
+| &emsp;6.9 Right to win, unit economics and data loop | 62 |
+| &emsp;6.10 Companies, grouped by label | 62 |
+| &emsp;6.11 Bear case, at equal weight | 64 |
+| &emsp;6.12 Key sources | 65 |
+| &emsp;6.13 Listen & watch | 65 |
+| &emsp;6.14 Commercial traction and incumbents | 66 |
+| 7. Enabling Software & Robotics (tracked, outside the core) | 69 |
+| &emsp;7.1 The problem today | 69 |
+| &emsp;7.2 Macro and tailwinds, ranked [ranking is inference] | 69 |
+| &emsp;7.3 Headwinds, at equal weight | 71 |
+| &emsp;7.4 Why vertical integration matters here, and where the logic breaks | 71 |
+| &emsp;7.5 What would have to be true, and signals to watch | 71 |
+| &emsp;7.6 Macro in more depth | 71 |
+| &emsp;7.7 How the industry and its supply chain work | 72 |
+| &emsp;7.8 Where AI and automation help | 72 |
+| &emsp;7.9 Right to win, unit economics and data loop | 73 |
+| &emsp;7.10 Companies, grouped by label | 73 |
+| &emsp;7.11 Bear case, at equal weight | 75 |
+| &emsp;7.12 Key sources | 75 |
+| &emsp;7.13 Listen & watch | 75 |
+| &emsp;7.14 Commercial traction and incumbents | 75 |
+| 8. Competition and incumbents | 76 |
+| &emsp;8.1 The right to win: versus job shops, contract manufacturers and overseas | 77 |
+| 9. Customers and repeat orders | 78 |
+| &emsp;9.1 How buyers qualify suppliers and reorder, step by step | 79 |
+| 10. Capital and financing | 80 |
+| 11. Policy tracker (newest first) | 81 |
+| 12. Companies worth attention | 82 |
+| 13. Bottom line | 83 |
+| &emsp;13.1 The bear case in one list | 85 |
+| Appendix A. Glossary | 86 |
+| Appendix B. Gaps and next actions | 87 |
+| Appendix C. Source coverage (ledger, 2026-10-25) | 88 |
+| Appendix D. Profile and deep-dive detail (moved from the chapters) | 88 |
+| Appendix E. Listening list (all links) | 100 |
+| &emsp;E.0 Cross-cutting macro | 100 |
+| &emsp;E.1 Raw Materials (Minerals & Metals) | 101 |
+| &emsp;Stage A — Finding and mining | 101 |
+| &emsp;E.2 Manufacturing | 101 |
+| &emsp;Metal Supply | 101 |
+| &emsp;E.3 Specialty Chemicals | 102 |
+| &emsp;E.4 Advanced Materials | 102 |
+| &emsp;Producers | 102 |
+| &emsp;E.5 Enabling Software & Robotics (tracked, outside the core) | 103 |
+
 
 ---
 
@@ -344,6 +464,7 @@ _Each industry chapter repeats its own market-size numbers in section x.7._
 - **Against: the data is siloed and the loop is slow.** Plant data sits in separate layers (machine controllers, MES, ERP), which limits AI (Construct) [src-20250409-8f07e3]. An IMTS observer: "models are largely good enough"; the bottleneck is plant data and adoption [src-20260922-94fcb0]. Physical AI data is "expensive, slow, hard to scale" [src-20260909-524e7c]. Some of Periodic's workflows are "still like 90% human" [src-20261008-83dc1b]. Argonne's academic robot lab publishes its data openly, which weakens the "proprietary data" argument [src-20250217-059784] [inference].
 - **Against: trust breaks easily.** AI Robotics' CEO says a pilot fails if "one false detection" makes operators switch the inspector off [src-20261011-5db652]. A VC newsletter warns autonomous plants "keep producing confidently" when wrong, while aerospace change-control rules assume a fixed process [src-20261015-0e1593].
 - **Incumbents are using AI too.** **Claim (Foxconn, NVIDIA event):** 80% faster root-cause analysis, +15% labor productivity, -10% machine failures, +3% first-pass yield [src-20261022-89d710]. **Claim (PepsiCo):** AI digital twins raised a Gatorade plant's throughput 20% in 3 months [src-20261015-0e1593].
+- **Why startups integrate, and the incumbent counter (a16z Big Ideas 2026, VC view):** US companies are "vertically integrating by necessity, not strategy" because tier-1/2/3 suppliers don't exist here as in China; but incumbents with installed fleets are "building robotic arm farms" to collect their own training data [src-20251225-725014, 6:38, 19:17].
 - **What this means [inference].** Running the plant does create data others lack, but nobody yet shows cost falling with volume, and incumbents can buy similar tools.
 
 ### 2.14 Macro scorecard by industry [inference]
@@ -425,7 +546,7 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 
 1. **Commodity prices swing.** Lithium fell 24% and nickel 11% in 2025 [src-20260130-ebdd5a]. A mine underwritten at peak prices can be uneconomic in a year.
 2. **Permits and time.** Permitting plus 5 years to build and 3–5 to ramp (**Claim, Mariana CEO**) [src-20260513-bdc044].
-3. **Geology decides.** Ore grade, not software, sets most of the cost [inference]; most exploration projects never become mines [inference].
+3. **Geology decides.** Ore grade, not software, sets most of the cost [inference]; most exploration projects never become mines [inference]. **Per Earth AI's CEO:** the world finds about 40 deposits a year and only about a fifth become mines; discovery success rates fell about 70% in two decades; the five core battery/magnet minerals need about 650 more mines by 2040 (about 210 by 2030), yet only three opened in 2024, one in 2025 and two in 2023; a mine needs at least ~6 years in Australia (1 discovery, 3 definition and feasibility, 2 construction) [src-20260428-aa5557, 45:54–47:04, 50:21]. In an earlier interview he put it at ~150 discoveries a year falling to 40–50, about $300M of industry spend per discovery, and Western output at ~7% of strategic minerals vs ~70% for China, Russia and allies (99 vs ~900 mines, as he put it) [src-20251001-cf441c, 2:10–4:46].
 4. **Rates.** The Fed raised to 3.75–4.00% on September 16, 2026 [src-20260916-f0c016]; mines are the most rate-sensitive assets in this primer [inference].
 5. **A US–China deal takes the urgency out.** Strature puts a 63% probability on a short roll-over of the suspensions [src-20261016-83adeb] (med).
 
@@ -574,17 +695,23 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 - **Kooranjie and Elkedra, Mar 2025:** six surface prospects, up to 0.26% tungsten (Kooranjie) and 0.39% cobalt and 1.39% copper (Elkedra) from rock-chip samples, before drilling [src-20250326-5929b8].
 - **Kooranjie (indium), 2025:** rock chips up to 117 ppm indium on a 250 m outcrop (low) [src-20250601-b499c3].
 
+**New from founder interviews (v9.9; all claims by CEO Roman Teslyuk, machine transcripts).**
+- **Why it integrated:** it ran 80 software pilots with explorers and miners early on, take-up was poor and software didn't recur, so "being a service company is just not going to work out in this particular industry" [src-20251001-cf441c, 24:26–24:41][src-20260428-aa5557, 41:21].
+- **Track record, defined:** mineralisation confirmed at ~30 predicted prospects; 5 drilled, 4 became discoveries (core grade equal to or better than producing mines). This is the "80% ... proven on five projects and four discoveries" figure, an update on the earlier 75% [src-20260428-aa5557, 52:43–53:12][src-20251001-cf441c, 9:33]. Sizing results expected "in the next six to nine months" (said April 2026) [src-20260428-aa5557, 53:32].
+- **Cost and speed:** cost per discovery "under 1 million" vs ~$300M industry; drilling at about a quarter of contractor cost (elsewhere: "a couple of times cheaper"); the work of a discovery "can be done within two years" because it drills non-stop, gets core photos every 12-hour shift and targets 2–3-day assays once its lab is at full production [src-20251001-cf441c, 27:22, 28:18][src-20260428-aa5557, 41:40, 44:16, 60:39–60:53].
+- **Scale:** 3.1M acres (biggest landholder in NSW), 750–800 pre-qualified targets of ~1 km², fewer than 40 staff, four new rigs on order; the model ("MTP") is a focused deep neural net trained on ~400M sites, "not generative AI" [src-20251001-cf441c, 13:51–14:11, 20:24][src-20260428-aa5557, 50:56, 58:28, 62:00].
+
 **How vertically integrated: hybrid.** It owns the targeting software, the drill rigs, soon the lab, and most of the claims, so it controls the whole exploration loop and its data. It does not mine, refine or sell metal; it plans to sell deposits. It fits Stage A as an owner of exploration assets, not as a producer [inference].
 
 **Why it matters for the thesis [inference].** Owning the claims means a discovery's value stays with Earth AI, unlike an exploration-software vendor that is paid per study. Owning drills and labs makes the data loop faster (target → drill → assay → retrain).
 
 **Bear case.**
 - **No defined resource yet.** In the free sources found, no formal resource estimate (such as a JORC report) is published for any project; rock chips and a few drill intercepts are not a mine [inference; gap].
-- **The 75% success rate is the company's own metric** and is not defined or independently checked [src-20250127-c28430].
+- **The 75% success rate is the company's own metric** and is not independently checked [src-20250127-c28430]. v9.9: the CEO now defines it as 4 discoveries from 5 drilled prospects, where "discovery" means grade in core, not tonnage; that is a small sample [src-20260428-aa5557, 52:50].
 - **The assets are in Australia,** so they add to US supply only through offtake or ownership choices [inference].
 - **The exit is a project sale,** at about 5% of the metal's value by the CEO's own estimate; most of the value of a mine accrues to whoever builds it [src-20251001-cf441c].
 - **Exploration is a long, cash-hungry lottery;** timelines from discovery to mine run a decade or more (3.2).
-- **Competition** from far better-funded AI explorers, notably KoBold Metals [inference; not sourced this run].
+- **Competition** from far better-funded AI explorers, notably KoBold Metals. The CEO says for years the field was Earth AI, KoBold and VRIFY, and there are now "maybe 50 new startups" [src-20260428-aa5557, 56:14–56:45]; he also names Terra AI [src-20251001-cf441c, 9:57].
 
 **Next step [inference].** Ask for drill results at Fontenoy, a timeline to a formal resource estimate, how "success rate" is defined, and which buyers or funds it has spoken to.
 
@@ -596,6 +723,7 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 - **What this means [inference]:** one of two names with a credible data loop; the check size is above SPC's.
 - **More specifics (from all sources):** The prior operator shut the Utah mine in 2024 partly for lack of haul-truck drivers; autonomy is bought in from Sandvik and Pronto [src-20260502-21f16a]. Target: 50,000 t of copper a year by 2030 versus about 2,500 t under the prior operator [src-20261011-e2426c]. Headcount rises from the prior peak of ~130 to ~300 despite autonomy, due to more output (**Claim**) [src-20260813-1fe8a2].
 - **Oct 26 podcast (formerly 0A; all company claims, agent transcription):** Mariana has four software suites and retrofits autonomy onto equipment partly through partner firms. VC funds R&D while most mine capex comes from separate project investors. East Texas lithium goes to an unnamed battery company and ramps next year. It has two projects today against a goal of 10 [src-20261024-c53370].
+- **a16z podcast (v9.9; company claims, CEO Turner Caldwell):** selling software to miners is a "death spiral" of pilots that never reach plants; the goal is to "enable 200 people to do what 10,000 people are needed to do today"; Chinese firms commission refineries "in six months" vs 2–4 years in the West, and one Chinese nickel site in Indonesia had 13,000 people on site [src-20250723-3f3ef8, 21:52, 25:52, 31:33].
 
 #### Stage B — Refining and making metal
 
@@ -863,6 +991,7 @@ _Sub-type: precision._
 
 - **What it makes:** machined parts in automated CNC factories run on its "Opus" software. Now also runs cells inside Lockheed's plant [src-20261014-015327].
 - **Money:** Series C $260M (equity plus debt), July 2025 [src-20250721-d99a2a]; about $1.6B valuation in January 2026, then $1.37B Series D at $7.87B in August 2026 [src-20260807-b0dc5b]; a $360M bank credit line [src-20260817-c48f28]. About $2.24B raised in total [Harmonic].
+- **v9.9, from Odd Lots (company claims, CEO Chris Power):** Hadrian pitches itself as a "design agnostic" contract manufacturer making parts up to "30% of a Virginia-class submarine"; most factory work is skilled people "driving an incredibly dumb computer ... 90% of advanced manufacturing"; even modelling his factory at zero labour and energy cost, some Chinese commercial parts land at about a third of his cost (transcript wording garbled) because of subsidised energy, capital and export rebates. On make-vs-buy, he says every company should keep 10–15% in-house, while SpaceX now sends parts out and Hadrian is preparing to make Raptor parts [src-20260921-a51ab2, 9:30, 10:42, 17:34, 32:37].
 - _More detail: Appendix D (Hadrian)._
 
 #### Isembard (precision parts; hybrid franchise; partial fit)
@@ -1162,7 +1291,7 @@ No chemicals company in the repo has a scored data loop yet [gap].
 
 **Solugen (Houston; bio-based specialty chemicals; Full).** _Qualifies as specialty, borderline: hydrogen peroxide is also a bulk chemical, but Solugen sells small-plant, bio-based product into specialty uses [inference]._
 - **Process:** "chemoenzymatic" production pairs an enzyme with a metal catalyst to turn corn syrup into chemicals, starting with hydrogen peroxide and organic acids. **Claim (Solugen founders):** 96% yield at scale versus about 60% for the traditional route [src-20260320-f90e80].
-- **Origin:** started with a reactor costing about $10,000 and sold to hot-tub owners in Dallas before raising large rounds. Its Bioforge plant runs 24/7 on railcars of corn syrup. **Claim:** smaller plants near customers undercut incumbents on shipping [src-20260320-f90e80].
+- **Origin:** started with a reactor of about $7,000 built from Home Depot PVC pipe, which at its peak earned $12,000 a month (founder's account), and sold to hot-tub owners in Dallas [src-20260320-f90e80, 0:00, 7:06] before raising large rounds. Its Bioforge plant runs 24/7 on railcars of corn syrup. **Claim:** smaller plants near customers undercut incumbents on shipping [src-20260320-f90e80].
 - **What it means [inference]:** the clearest AI-adjacent chemical producer. It owns plants, sells product and has repeat industrial buyers. But the edge is enzyme engineering and plant design more than AI, and some products face bulk-chemical pricing.
 - _More detail: Appendix D (Solugen)._
 
@@ -1171,7 +1300,8 @@ No chemicals company in the repo has a scored data loop yet [gap].
 - **Who buys / repeat orders:** a deal under which Phlow makes epinephrine API and Fresenius makes finished doses; validation campaign done; Drug Master File filed; commercial supply pending FDA in 2027 [src-20260209-16223c]. A $15.9M award to an end-to-end Virginia alliance: Occam makes building blocks, Phlow the APIs, Civica finishes ketamine, midazolam and others [src-20260721-fa5081]. Government buyers plus a generic maker = the kind of offtake that can repeat.
 - **AI / automation angle:** continuous-flow manufacturing (smaller footprint, more automation, fewer batch steps) — automation rather than AI.
 - **Why it fits:** the most direct answer to the 46% China-dependence number [src-20250605-bde73f] and to BIOSECURE.
-- **Bear (one line):** generics are excluded from the 232 tariff and margins are thin; one FDA delay pushes revenue a year.
+- **v9.9, CEO interview (company claims unless noted):** the COVID-era BARDA contract (about $899M, host's figure) paid for development and process-chemistry labs, two cGMP plants (batch and continuous, kilogram to large metric-tonne scale) and the first Strategic API Reserve; Phlow re-engineers 40–50-year-old generic routes with telescoping batch or flow chemistry and also serves pharma reshoring (for example a $1B drug made at a Chinese contract manufacturer under scrutiny). Macro: drug shortages at "an all time high"; India halted exports of 20-odd APIs in March 2020; the US has no beta-lactam (penicillin) drug-substance or cephalosporin fermentation base; he wants a CHIPS-Act-style programme [src-20240613-4b9301, 33:58–36:41, 37:25, 39:47–40:31, 41:37–43:31].
+- **Bear (one line):** generics are excluded from the 232 tariff and margins are thin; one FDA delay pushes revenue a year. v9.9: revenue grew from one CARES Act contract that outlived the emergency, it competes with state-subsidised rivals ("we're actually competing against their governments"), and the CEO himself calls US support so far "a drop in the bucket" [src-20240613-4b9301, 34:23, 37:14, 38:49].
 
 **On Demand Pharmaceuticals (Rockville, MD; on-demand API and drug manufacturing; Full).**
 - **What it makes:** APIs at its Rockville plant, plus a modular "Pharmacy on Demand" unit using AI/ML process control, deployed at North Mississippi Medical Center [src-20250813-79a0cf].
@@ -1437,6 +1567,7 @@ _Materials unit economics, data loop and right to win (v8 sections 4A.5–4A.7):
 - **Funding:** $50M Series B led by Plural, May 28, 2026; about 50 staff [src-20260528-93befb][src-20260528-375aec].
 - **Model:** it is vertically integrated and sells products, not software. The two products are a PFAS-free dielectric cooling fluid for data centers and "Nova Array," a modular data center it says can be deployed in 180 days [src-20260528-93befb].
 - **What it means [inference]:** **the most thesis-aligned name in the section.** It found a buyer with an urgent need (data-center cooling), chose a product it can make through a contract manufacturer, and owns the margin. If the fluid ships in 2027 it could be among the first AI-designed materials sold at scale. Diligence: who the CMO is, qualification status, gross margin per liter.
+- **v9.9 (company claim, CEO Jonathan Godwin):** its cooling fluid took about 3 years from start to market, vs a new material that "would normally cost a hundred million dollars and ten years" [src-20260629-ae1f90, 3:09].
 - _More detail: Appendix D (Orbital Industries)._
 
 **Mitra Chem (Mountain View, CA; LMFP and LFP battery cathodes; model 4).**
@@ -1457,6 +1588,7 @@ _Pure discovery labs and design partners. Most do not run a production floor, so
 - **Funding:** $55M led by RTX Ventures [src-20250718-d46f24]. An Air Force AFWERX Direct-to-Phase II contract worth $1,197,902 [src-20250825-300a14].
 - **Technology:** its AI engine, "Antimatter," drives a self-driving alloy lab. TIME named it one of the Best Inventions of 2026 [src-20261020-055082].
 - **What it means [inference]:** the clearest defense-led path. Hypersonic and propulsion alloys have a buyer (RTX and the Air Force) and a clear test (the torch test). The risk is the jump from a 500 g button to qualified mill product, which needs a melter and forger partner.
+- **v9.9 (company claims, CEO Joseph Krause):** about 1,200 alloys made in five or six months; it has made a hafnium-free version of the C103 aerospace alloy after hafnium prices rose 10–15× on Chinese supply; "we haven't touched manufacturing"; "models aren't the moat, experiments are" [src-20260617-f9d293, 9:11, 9:44, 16:33–17:08, 1:14:26].
 - _More detail: Appendix D (Radical AI)._
 
 **CuspAI (Cambridge, UK; sorbents, membranes, chemicals; model 2; Enabler; track).**

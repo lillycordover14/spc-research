@@ -109,3 +109,8 @@ Updated 2026-10-23. All free: YouTube captions via yt-dlp, else public RSS/enclo
 
 ## Resume / redo
 `cd /workspace/transcribe && nohup python3 run.py > progress.log 2>&1 &` (queue.json; skips ids already in out/). Then rerun the integration step (copy out/<id>.md to raw/transcripts, set raw_file) and `python3 scripts/validate.py`. To upgrade quality, delete out/<id>.md and switch model to small.en in run.py (~3x slower; base.en ran ~40x realtime on 8 cores).
+| src-20260428-aa5557 | local faster-whisper small.en float32 CPU (free SoundCloud RSS enclosure) | done; read in full + summarized (2026-10-27) | 11236 | raw/transcripts/src-20260428-aa5557.md |
+| src-20240613-4b9301 | local faster-whisper small.en float32 CPU (free podcast RSS audio) | done; read in full + summarized (2026-10-27) | 9810 | raw/transcripts/src-20240613-4b9301.md |
+| src-20251001-cf441c | local faster-whisper small.en float32 CPU (free Anchor RSS audio) | done; read in full + summarized (2026-10-27) | 5750 | raw/transcripts/src-20251001-cf441c.md; Rare Earth Exchanges S2E57 |
+| src-20260629-ae1f90 | local faster-whisper small.en CPU | done; read in full + summarized (2026-10-27) | 3082 | raw/transcripts/src-20260629-ae1f90.md; gap ~8:06-9:38 |
+| src-20240906-4632bf | publisher transcript (free, no timestamps) | done; read in full + summarized (2026-10-27) | 9431 | raw/transcripts/src-20240906-4632bf.md |

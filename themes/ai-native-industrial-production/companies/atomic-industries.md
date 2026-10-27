@@ -63,6 +63,7 @@ sources:
 - src-20250327-008034
 - src-20231128-ff966f
 - src-20260629-d8e640
+- src-20261027-de288e
 data_quality: profiled in primer v7.1 section 5.11A; performance and revenue figures are company claims
 updated: '2026-10-27'
 ---

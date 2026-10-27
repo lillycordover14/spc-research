@@ -1,15 +1,16 @@
 # Vertically Integrated Industries: VC primer
 
-_Version 9, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by **five industries**, each opening with its own macro case. Earlier evidence, sources and verdicts carry over._
+_Version 9.1, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 splits Chemicals and Materials into separate chapters (six industries), adds more macro to each, and adds Lumaril. Earlier evidence, sources and verdicts carry over._
 
 **The idea in plain English.** America has spent forty years outsourcing the "hard middle" of making things: digging and refining minerals, making metal, machining and welding parts, and producing chemicals. Now defense, industrial policy and China's export controls make that middle valuable again, and it is short of plants and people. We look for startups that **own the plant and sell the physical output** (a mineral, a metal, a part, a chemical) and use **AI, software and automation inside their own operations** to build faster and run with fewer scarce skilled workers than incumbents. Owning production is what lets them keep the margin and the data.
 
-**The five industries (chapters 3–7).**
+**The six industries (chapters 3–8).**
 1. **Minerals** — mining, concentrating and refining raw and critical minerals (lithium, copper, rare earths, gallium, germanium).
 2. **Metals** — smelting, alloys, magnets, powders and metal distribution.
 3. **Parts Manufacturing** — turning metal into parts; every company tagged **fabrication (sheet/structures)** or **precision (machining, 3D printing, castings, composites)**.
-4. **Chemicals & Materials** — producers of chemicals, fuels, fertilizers, pharma ingredients and new materials, with a separate **discovery-lab sub-group**.
-5. **Enabling Software & Robotics** — tools sold to other people's factories; tracked, **outside the core**.
+4. **Chemicals** — producers of chemicals, fuels, fertilizers and pharma ingredients.
+5. **Materials** — producers of engineered materials (battery cathodes, cooling fluids), with a separate **discovery-lab sub-group**.
+6. **Enabling Software & Robotics** — tools sold to other people's factories; tracked, **outside the core**.
 
 **Three labels, used for every company.**
 - **Fully integrated** — owns production and sells the product itself. _Core fit._ (Example: SendCutSend owns its lasers and ships parts.)
@@ -29,7 +30,7 @@ Confidence (high/med/low) is marked on weak numbers. Acronyms are collected in A
 |---|---|
 | 0. Decision summary | 4 |
 | 1. The theme in plain English | 7 |
-| 2. Cross-cutting macro (applies to all five industries) | 8 |
+| 2. Cross-cutting macro (applies to all six industries) | 8 |
 | &emsp;2.1 Manufacturing in one page | 8 |
 | &emsp;2.2 Six forces behind "why now" (overview) | 9 |
 | &emsp;2.3 Industrial policy and the policy toolkit | 10 |
@@ -41,88 +42,101 @@ Confidence (high/med/low) is marked on weak numbers. Acronyms are collected in A
 | &emsp;2.9 Venture climate and how investors see it | 15 |
 | &emsp;2.10 Science policy: the Genesis Mission, DOE, NSF and the national labs | 16 |
 | &emsp;2.11 More macro facts a newcomer should know | 17 |
-| &emsp;2.12 Market size by industry | 17 |
+| &emsp;2.12 Market size: overview | 17 |
 | &emsp;2.13 Data loops: what the sources say for and against | 18 |
 | &emsp;2.14 Macro scorecard by industry [inference] | 19 |
 | &emsp;2.15 What would break "why now" | 19 |
-| 3. Minerals | 19 |
-| &emsp;3.1 The problem today | 19 |
+| 3. Minerals | 20 |
+| &emsp;3.1 The problem today | 20 |
 | &emsp;3.2 Macro and tailwinds, ranked by strength and durability [ranking is inference] | 20 |
-| &emsp;3.3 Headwinds, at equal weight | 20 |
+| &emsp;3.3 Headwinds, at equal weight | 21 |
 | &emsp;3.4 Why an AI-enabled, vertically integrated company is the answer here | 21 |
 | &emsp;3.5 What would have to be true, and signals to watch | 21 |
-| &emsp;3.6 Macro in more depth | 21 |
+| &emsp;3.6 Macro in more depth | 22 |
 | &emsp;3.7 How the industry and its supply chain work | 23 |
-| &emsp;3.8 Where AI and automation help | 23 |
-| &emsp;3.9 Right to win, unit economics and data loop | 23 |
-| &emsp;3.10 Companies, grouped by label | 23 |
-| &emsp;3.11 Bear case, at equal weight | 24 |
-| &emsp;3.12 Key sources | 24 |
+| &emsp;3.8 Where AI and automation help | 24 |
+| &emsp;3.9 Right to win, unit economics and data loop | 24 |
+| &emsp;3.10 Companies, grouped by label | 24 |
+| &emsp;3.11 Bear case, at equal weight | 25 |
+| &emsp;3.12 Key sources | 25 |
 | 4. Metals | 25 |
 | &emsp;4.1 The problem today | 25 |
-| &emsp;4.2 Macro and tailwinds, ranked [ranking is inference] | 25 |
+| &emsp;4.2 Macro and tailwinds, ranked [ranking is inference] | 26 |
 | &emsp;4.3 Headwinds, at equal weight | 26 |
-| &emsp;4.4 Why an AI-enabled, vertically integrated company is the answer here | 26 |
-| &emsp;4.5 What would have to be true, and signals to watch | 26 |
+| &emsp;4.4 Why an AI-enabled, vertically integrated company is the answer here | 27 |
+| &emsp;4.5 What would have to be true, and signals to watch | 27 |
 | &emsp;4.6 Macro in more depth | 27 |
-| &emsp;4.7 How the industry and its supply chain work | 27 |
+| &emsp;4.7 How the industry and its supply chain work | 28 |
 | &emsp;4.8 Where AI and automation help | 28 |
-| &emsp;4.9 Right to win, unit economics and data loop | 28 |
-| &emsp;4.10 Companies, grouped by label | 28 |
+| &emsp;4.9 Right to win, unit economics and data loop | 29 |
+| &emsp;4.10 Companies, grouped by label | 29 |
 | &emsp;4.11 Bear case, at equal weight | 29 |
 | &emsp;4.12 Key sources | 29 |
-| 5. Parts Manufacturing | 29 |
+| 5. Parts Manufacturing | 30 |
 | &emsp;5.1 The problem today | 30 |
 | &emsp;5.2 Macro and tailwinds, ranked [ranking is inference] | 30 |
-| &emsp;5.3 Headwinds, at equal weight | 30 |
-| &emsp;5.4 Why an AI-enabled, vertically integrated company is the answer here | 31 |
-| &emsp;5.5 What would have to be true, and signals to watch | 31 |
-| &emsp;5.6 Macro in more depth | 31 |
-| &emsp;5.7 How the industry and its supply chain work | 32 |
-| &emsp;5.8 Where AI and automation help | 33 |
-| &emsp;5.9 Right to win, unit economics and data loop | 33 |
-| &emsp;5.10 Companies, grouped by label | 34 |
-| &emsp;5.11 Bear case, at equal weight | 37 |
-| &emsp;5.12 Key sources | 37 |
-| 6. Chemicals & Materials | 37 |
-| &emsp;6.1 The problem today | 37 |
-| &emsp;6.2 Macro and tailwinds, ranked [ranking is inference] | 38 |
-| &emsp;6.3 Headwinds, at equal weight | 39 |
-| &emsp;6.4 Why an AI-enabled, vertically integrated company is the answer here | 39 |
-| &emsp;6.5 What would have to be true, and signals to watch | 39 |
-| &emsp;6.6 Macro in more depth | 39 |
-| &emsp;6.7 How the industry and its supply chain work | 41 |
-| &emsp;6.8 Where AI and automation help | 41 |
-| &emsp;6.9 Right to win, unit economics and data loop | 42 |
-| &emsp;6.10 Companies, grouped by label | 42 |
+| &emsp;5.3 Headwinds, at equal weight | 31 |
+| &emsp;5.4 Why an AI-enabled, vertically integrated company is the answer here | 32 |
+| &emsp;5.5 What would have to be true, and signals to watch | 32 |
+| &emsp;5.6 Macro in more depth | 32 |
+| &emsp;5.7 How the industry and its supply chain work | 33 |
+| &emsp;5.8 Where AI and automation help | 34 |
+| &emsp;5.9 Right to win, unit economics and data loop | 34 |
+| &emsp;5.10 Companies, grouped by label | 35 |
+| &emsp;5.11 Bear case, at equal weight | 38 |
+| &emsp;5.12 Key sources | 38 |
+| 6. Chemicals | 38 |
+| &emsp;6.1 The problem today | 38 |
+| &emsp;6.2 Macro and tailwinds, ranked [ranking is inference] | 39 |
+| &emsp;6.3 Headwinds, at equal weight | 41 |
+| &emsp;6.4 Why an AI-enabled, vertically integrated company is the answer here | 41 |
+| &emsp;6.5 What would have to be true, and signals to watch | 41 |
+| &emsp;6.6 Macro in more depth | 41 |
+| &emsp;6.7 How the industry and its supply chain work | 42 |
+| &emsp;6.8 Where AI and automation help | 43 |
+| &emsp;6.9 Right to win, unit economics and data loop | 43 |
+| &emsp;6.10 Companies, grouped by label | 44 |
 | &emsp;6.11 Bear case, at equal weight | 46 |
 | &emsp;6.12 Key sources | 47 |
-| 7. Enabling Software & Robotics (tracked, outside the core) | 47 |
-| &emsp;7.1 The problem today | 47 |
+| 7. Materials | 47 |
+| &emsp;7.1 The problem today | 48 |
 | &emsp;7.2 Macro and tailwinds, ranked [ranking is inference] | 48 |
-| &emsp;7.3 Headwinds, at equal weight | 48 |
-| &emsp;7.4 Why vertical integration matters here, and where the logic breaks | 48 |
-| &emsp;7.5 What would have to be true, and signals to watch | 48 |
+| &emsp;7.3 Headwinds, at equal weight | 49 |
+| &emsp;7.4 Why an AI-enabled, vertically integrated company is the answer here | 49 |
+| &emsp;7.5 What would have to be true, and signals to watch | 49 |
 | &emsp;7.6 Macro in more depth | 49 |
-| &emsp;7.7 How the industry and its supply chain work | 49 |
-| &emsp;7.8 Where AI and automation help | 50 |
-| &emsp;7.9 Right to win, unit economics and data loop | 50 |
-| &emsp;7.10 Companies, grouped by label | 50 |
-| &emsp;7.11 Bear case, at equal weight | 51 |
-| &emsp;7.12 Key sources | 51 |
-| 8. Competition and incumbents | 51 |
-| &emsp;8.1 The right to win: versus job shops, contract manufacturers and overseas | 52 |
-| 9. Customers and repeat orders | 53 |
-| &emsp;9.1 How buyers qualify suppliers and reorder, step by step | 55 |
-| 10. Capital and financing | 55 |
-| 11. Policy tracker (newest first) | 56 |
-| 12. Companies worth attention | 58 |
-| 13. Bottom line | 58 |
-| &emsp;13.1 The bear case in one list | 60 |
-| Appendix A. Glossary | 61 |
-| Appendix B. Gaps and next actions | 62 |
-| Appendix C. Source coverage (ledger, 2026-10-25) | 62 |
-| Appendix D. Profile and deep-dive detail (moved from the chapters) | 63 |
+| &emsp;7.7 How the industry and its supply chain work | 50 |
+| &emsp;7.8 Where AI and automation help | 51 |
+| &emsp;7.9 Right to win, unit economics and data loop | 51 |
+| &emsp;7.10 Companies, grouped by label | 51 |
+| &emsp;7.11 Bear case, at equal weight | 53 |
+| &emsp;7.12 Key sources | 53 |
+| 8. Enabling Software & Robotics (tracked, outside the core) | 53 |
+| &emsp;8.1 The problem today | 54 |
+| &emsp;8.2 Macro and tailwinds, ranked [ranking is inference] | 54 |
+| &emsp;8.3 Headwinds, at equal weight | 55 |
+| &emsp;8.4 Why vertical integration matters here, and where the logic breaks | 55 |
+| &emsp;8.5 What would have to be true, and signals to watch | 56 |
+| &emsp;8.6 Macro in more depth | 56 |
+| &emsp;8.7 How the industry and its supply chain work | 56 |
+| &emsp;8.8 Where AI and automation help | 57 |
+| &emsp;8.9 Right to win, unit economics and data loop | 57 |
+| &emsp;8.10 Companies, grouped by label | 57 |
+| &emsp;8.11 Bear case, at equal weight | 59 |
+| &emsp;8.12 Key sources | 59 |
+| 9. Competition and incumbents | 60 |
+| &emsp;9.1 The right to win: versus job shops, contract manufacturers and overseas | 61 |
+| 10. Customers and repeat orders | 62 |
+| &emsp;10.1 How buyers qualify suppliers and reorder, step by step | 63 |
+| 11. Capital and financing | 64 |
+| 12. Policy tracker (newest first) | 65 |
+| 13. Companies worth attention | 66 |
+| 14. Bottom line | 67 |
+| &emsp;14.1 The bear case in one list | 69 |
+| Appendix A. Glossary | 69 |
+| Appendix B. Gaps and next actions | 71 |
+| Appendix C. Source coverage (ledger, 2026-10-25) | 71 |
+| Appendix D. Profile and deep-dive detail (moved from the chapters) | 72 |
 
 
 ---
@@ -191,7 +205,7 @@ The core tradeoff in one line: owner-operators buy data ownership and pricing po
 
 **Why the rename [inference].** The original name implied only factories for machined and fabricated parts. Lilly's broader frame is any sector where a company uses AI to make and sell its own product. That pulls in chemicals (section 6) and materials producers such as Orbital and Mitra (section 5.10), and it makes the integration label in section the industry chapters the first screen: a company that owns production and sells the output fits; a company that sells software to someone else's plant is an enabler.
 
-## 2. Cross-cutting macro (applies to all five industries)
+## 2. Cross-cutting macro (applies to all six industries)
 
 _This merges the old sections 2 (macro primer), 2 (macro in depth), 2 (why-now drivers) and the Oct 26 sourcing notes (old 0A). It assumes no background. Every number has a source; anything marked [inference] is my read._
 
@@ -323,7 +337,7 @@ There are three federal "banks" for industry. Founders mix them up; investors sh
 - **Claim (Chris Power, Hadrian CEO):** labor hours per submarine rose from about 13M to more than 70M, and the enterprise is about 50M labor hours a year short [src-20260610-779f8b].
 - **Navy, on the record:** a NAVSEA (Naval Sea Systems Command) official says more than 100 ships are on contract and 55 are in construction. He also says: "I do not believe we have a technology problem, we have an adoption problem." One recent boat carries more than 100 critical parts made by 3D printing, and the Navy has spent more than $200M on it, but getting the technical authority to approve those parts took time [src-20250319-f21bec]. The nuclear supply chain shrank from more than 17,000 suppliers to about 5,000 [src-20250319-f21bec].
 - **The catch: demand is lumpy.** **Claim (Power):** the government pays once a year and "may not buy missiles next year" [src-20260908-65fab6]. On an Air Force panel, Divergent's CEO said "the big thing is always demand signal", and a Boeing-owned satellite maker said "cadence and multi-year contracts develop capacity" [src-20260504-38bee3]. A Raytheon manager reports suppliers at 80-90% utilization with 9-10 months for castings [src-20250708-2aa3ad].
-- **What this means [inference].** Demand is real, but qualification (getting each part approved) is the gate, and it is slow. Multi-year contracts (section 11) are what turn demand into factory loans.
+- **What this means [inference].** Demand is real, but qualification (getting each part approved) is the gate, and it is slow. Multi-year contracts (section 12) are what turn demand into factory loans.
 
 **Oct 26 sourcing update (formerly 0A).** - **Defense money is approved in principle but hasn't been paid out.** CNAS puts the FY27 munitions request at $49.5B, 8.5x the FY16-26 average, but 82% of it depends on reconciliation. Lead times are unchanged for 6 of 10 munitions, and production capacity is the hardest constraint to move. Framework deals with primes (Lockheed up to $9B, Northrop over $2B) are mostly unconverted [src-20261007-c6f64e]. CRS/CBO estimate a $21.7B replacement bill and say some interceptors will take at least five years to replace [src-20261005-b7e08b].
 - **Bear: orders lag the budget.** Carpenter's defense bookings fell from the prior quarter and the prior year because customers "are not receiving funds"; the CEO expects a rush once the budget clears [src-20261022-de5e6c]. Aero bookings rose 49% y/y on higher-price long-term agreements. **Claim (Carpenter):** AI productivity gains are ahead of plan (no number given).
@@ -356,7 +370,7 @@ There are three federal "banks" for industry. Founders mix them up; investors sh
 - **AI dominates:** US VC deal value hit $515.8B through Q3 2026, with AI taking 82.7% of it. Exits are still stalled (PitchBook-NVCA) [src-20261008-8f7d66].
 - **Defense tech:** a record $2.5B in Q3 for defense-specific startups, led by Castelion ($1.1B) and Mach ($900M). Seed deals fell to 41, the fewest since 2016 [src-20261006-0f220a].
 - **Concentration:** one tracker counts $14.6B of defense-tech funding year to date, against $9.6B for all of 2025, with deal count flat. The money is going to fewer winners [src-20260908-abd0c7].
-- **What it means [inference]:** the dollars are concentrating in late-stage "AI" and "defense" labels, and seed is getting thinner. That creates two opportunities: (a) better seed and Series A prices for producers that don't fit the hype labels; (b) a risk that the best AI-native producers are priced as AI companies. Lila, CuspAI and Periodic valuations are an example (section 6).
+- **What it means [inference]:** the dollars are concentrating in late-stage "AI" and "defense" labels, and seed is getting thinner. That creates two opportunities: (a) better seed and Series A prices for producers that don't fit the hype labels; (b) a risk that the best AI-native producers are priced as AI companies. Lila, CuspAI and Periodic valuations are an example (section 7).
 
 - **It costs a lot to build.** A first six-machine factory cost "well north of $10 million" [src-20260817-8867f2]. Hadrian's Mesa plant was about $200M [src-20250820-cfbf02]. Software companies do not need this.
 - **Margins are lower than software.** Gross margin is revenue minus the direct cost of making the product, as a share of revenue. Software companies often run far higher than manufacturers. Benchmarks here: Proto Labs 44.5% [src-20260206-8bb619]; Xometry's marketplace 34.7% [src-20260224-a7b149]; metal service centers 18-32% [src-20260729-407fd7][src-20261021-16bb64]; a manufacturing roll-up "effectively ... 30%" (claim) [src-20241001-28c2aa].
@@ -380,10 +394,10 @@ There are three federal "banks" for industry. Founders mix them up; investors sh
 ### 2.11 More macro facts a newcomer should know
 
 - **Labor numbers, freshest first.** In a Q3 2026 NAM survey of 220 manufacturers, 54.9% cite workforce as a top challenge and 4.79% of jobs sit unfilled [src-20260914-b4d55c]. The American Welding Society expects 320,500 welders needed by 2029, with 157,000+ near retirement [src-20261023-57ad95]. US factory labor costs about $46.30 an hour fully loaded, rising 3-4% a year, while a robot fell from $46,000 (2010) to $23,000 (2022) (newsletter) [src-20260826-14e4bb].
-- **Precedent: the government has funded capacity before.** In the 1950s the Pentagon paid $239M (about $2.8B today) for 10 giant forging presses and leased them to industry for 4-5% of revenue [src-20240821-44ed1d]. Today's equivalents are OSC loans and Sec. 867 purchase commitments (section 11).
+- **Precedent: the government has funded capacity before.** In the 1950s the Pentagon paid $239M (about $2.8B today) for 10 giant forging presses and leased them to industry for 4-5% of revenue [src-20240821-44ed1d]. Today's equivalents are OSC loans and Sec. 867 purchase commitments (section 12).
 - **What this means [inference].** The shortage is in sub-tier suppliers and skilled hands, and buyers' stop-start ordering is what keeps small shops from investing.
 
-### 2.12 Market size by industry
+### 2.12 Market size: overview
 
 No free source gives a clean market size (TAM, total addressable market) for "AI-native production." What we have:
 - All US manufacturing: $2.90T value added [src-20261013-a7c995].
@@ -395,7 +409,7 @@ The full table follows. _What this means:_ the markets are large, but each start
 
 **How to read this.** "TAM" (total addressable market) means the total money spent on something each year. No layer here has a clean, free TAM. Where we only have a stand-in number (a "proxy"), we say so.
 
-**The whole sector.** US manufacturing added $2.90T of value in 2025, about 10.1% of GDP. It employs 12.65M people, paid $112,261 on average [src-20261013-a7c995] (high).
+**All of US manufacturing.** US manufacturing added $2.90T of value in 2025, about 10.1% of GDP. It employs 12.65M people, paid $112,261 on average [src-20261013-a7c995] (high).
 
 **Layer by layer.**
 
@@ -413,6 +427,8 @@ The full table follows. _What this means:_ the markets are large, but each start
 
 **What this means [inference].** The pools are large but split among thousands of small shops. That makes room for a new entrant, but no one can say how big the winnable slice is.
 
+_Each industry chapter repeats its own market-size numbers in section x.7._
+
 ### 2.13 Data loops: what the sources say for and against
 
 - **For: the data does not exist unless you make it.** Periodic's founder: published values for one material property "spanned many orders of magnitude", and negative results are unpublished, so own-lab data is needed [src-20260403-ba156a][src-20260106-62dba1]. Meta's open release of 100M+ physics simulations shows simulation data is becoming free, but the same paper says errors remain and "more than just model scaling will be required", which favors real experimental data [src-20250513-fbb4d8]. **Claim (Power):** manufacturing data is "never on the internet"; a blueprint is not enough without machining and inspection data [src-20260908-65fab6].
@@ -424,17 +440,17 @@ The full table follows. _What this means:_ the markets are large, but each start
 
 ### 2.14 Macro scorecard by industry [inference]
 
-| Force | Minerals | Metals | Parts Manufacturing | Chemicals & Materials | Software & Robotics |
-|---|---|---|---|---|---|
-| OSC/EDF/DPA money | Strong + | + (magnets) | + (via defense) | Mild + (DOE loans, grants) | 0 |
-| China export controls | Strong + | + (magnets) | Input-cost − | + (pharma reshoring, BIOSECURE) | 0 |
-| Section 232 tariffs | Mild + | Strong + (makers), − (buyers) | Mixed | + (pharma; generics excluded) | 0 |
-| Rates 3.75–4.00% | − (most capex-heavy) | − | Mild − | − | Mild − |
-| Construction slowdown | Mild − | − | − | Mild − | − |
-| Munitions budget | + | Strong + | Strong + | Mild + (energetics, fuels) | Mild + |
-| Labor shortage | Mild − | Mild − | Strong + (automation edge) | Mild + | Strong + |
-| 100% bonus depreciation | + | + | + | + | + (buyers' capex) |
-| VC concentration | − | − | Hype pricing | Hype pricing (discovery labs) | − |
+| Force | Minerals | Metals | Parts Manufacturing | Chemicals | Materials | Software & Robotics |
+|---|---|---|---|---|---|---|
+| OSC/EDF/DPA money | Strong + | + (magnets) | + (via defense) | Mild + (DOE loans, grants) | + (DOE battery awards) | 0 |
+| China export controls | Strong + | + (magnets) | Input-cost − | + (pharma reshoring, BIOSECURE) | + (battery materials) | 0 |
+| Section 232 tariffs | Mild + | Strong + (makers), − (buyers) | Mixed | + (pharma; generics excluded) | 0 | 0 |
+| Rates 3.75–4.00% | − (most capex-heavy) | − | Mild − | − | − | Mild − |
+| Construction slowdown | Mild − | − | − | Mild − | 0 | − |
+| Munitions budget | + | Strong + | Strong + | Mild + (energetics, fuels) | 0 | Mild + |
+| Labor shortage | Mild − | Mild − | Strong + (automation edge) | Mild + | Mild + | Strong + |
+| 100% bonus depreciation | + | + | + | + | + | + (buyers' capex) |
+| VC concentration | − | − | Hype pricing | Mild − | Hype pricing (discovery labs) | − |
 
 **What would change the picture [inference]:** a lasting US–China minerals deal (bad for domestic premiums); the reconciliation bill failing (munitions money slips); rate cuts in 2027 (good for every plant financing).
 
@@ -510,7 +526,7 @@ _What this industry is._ Minerals means digging up ore and turning it into a pur
 **What it means [inference]:**
 1. Any startup producing rare-earth metals, magnets, gallium or germanium in the US has a buyer of last resort in the US government and a very strong story.
 2. The risk goes both ways. If China floods the market after a deal, prices collapse, as they have before. Producers need floor-price offtake contracts (the MP Materials–DoD template) or they get crushed.
-3. Discovery labs also have a real pitch here: "design out" the scarce element. Examples are magnets without heavy rare earths, catalysts without platinum-group metals, and Orbital's PFAS-free fluids. This is the strongest commercial reason for materials AI right now (see section 6).
+3. Discovery labs also have a real pitch here: "design out" the scarce element. Examples are magnets without heavy rare earths, catalysts without platinum-group metals, and Orbital's PFAS-free fluids. This is the strongest commercial reason for materials AI right now (see section 7).
 
 **Watch:** November 10 and November 27, 2026.
 
@@ -524,15 +540,17 @@ _What this industry is._ Minerals means digging up ore and turning it into a pur
 
 ### 3.7 How the industry and its supply chain work
 
-- **The chain:** ore is mined, concentrated (crushed and separated), refined to a pure oxide, carbonate or cathode, then sold to metal makers (chapter 4) or battery and chemical plants (chapter 6).
+- **The chain:** ore is mined, concentrated (crushed and separated), refined to a pure oxide, carbonate or cathode, then sold to metal makers (chapter 4) or battery, chemical and materials plants (chapters 6 and 7).
 - **Buyers:** metal makers, magnet makers, battery makers, the DoD stockpile, and traders. Prices are set on global exchanges or in China, so a US producer is a price-taker unless it has a floor-price offtake [inference].
-- **Policy detail:** see 3.2 and the tracker in section 11.
+- **Policy detail:** see 3.2 and the tracker in section 12.
 
 - **Who:** Mariana Minerals (copper, lithium; runs its own mines) [src-20260803-30e6d5]. Vulcan Elements (NdFeB, i.e. rare-earth, magnets) [src-20251103-ee9b27]. Nox Metals (automated metal distributor; we passed) [src-20261009-404b9b]. Candidates: Hertha (iron and steel), Cyclic, Mass Magnetics, Duranium. Established players: Reliance, Ryerson, Nucor, MP Materials.
 - **How it makes money:** a "service center" buys metal in bulk, cuts it and resells it. Gross margins run about 18-32%: Ryerson 17.7% (Q2 2026) [src-20260729-407fd7]; Reliance 27.9% or 31.6% depending on inventory accounting (LIFO or FIFO) (Q3 2026) [src-20261021-16bb64]. Refining margins: no data.
 - **What AI changes:** **Claim (Mariana):** its software halves project timelines that normally take 5-10 years [src-20260803-30e6d5]. Its mine is about 50% autonomous, with AI agents (reinforcement learning, "RL") adjusting the process every 15 minutes [src-20260623-d1790b]. **Claim (Nox):** a price quote in minutes, versus 3-5 days at brokers [src-20250813-5ee11b].
 - **Risks:** metal prices swing; permits are slow; buyers are concentrated (Vulcan sells mostly to government) [src-20251103-ee9b27].
 - **What this means [inference]:** government support is strongest here (OSC loans, tariffs, IEA finance).
+
+**Market size (this industry).** No free source sizes US refining. Public money committed to minerals: $65B in 2025 [src-20260716-6a06e4] (high). US refining TAM is a gap.
 
 ### 3.8 Where AI and automation help
 
@@ -658,6 +676,8 @@ _What this industry is._ Metals means turning refined feedstock into metal produ
 - **Risks:** metal prices swing; permits are slow; buyers are concentrated (Vulcan sells mostly to government) [src-20251103-ee9b27].
 - **What this means [inference]:** government support is strongest here (OSC loans, tariffs, IEA finance).
 
+**Market size (this industry).** Metal service centers: about $200B of revenue across about 9,400 sites; the top 50 firms hold about half (2025) [src-20251201-4b732d] (med). Excludes mills and refining.
+
 ### 4.8 Where AI and automation help
 
 Recipe and process tuning for magnets and alloys; quoting, nesting and inventory for distributors. **Claim (Nox Metals CEO):** "AI just doesn't know so much of the nuance" of a factory [src-20260325-5b68db].
@@ -736,6 +756,12 @@ The difference matters because fabrication competes on speed and price for many 
 | 5 | **Cheaper robots and better software** | Industrial robot installs worth $18.6B globally; 38,428 US installs [src-20260924-28b59b]; 100% bonus depreciation restored [src-20260114-2075f7] | Structural (tech); tax treatment reversible |
 | 6 | **Additive gets real** | 3D-printing market $21.9B in 2025, +9.1% [src-20250325-4c256c]; one Navy boat has 100+ printed critical parts and $200M+ Navy spend [src-20250319-f21bec] | Structural; growth is Asia-led |
 
+**The defense supplier base, in numbers.** DoD relies on more than 200,000 suppliers and has little view below the first tier: its supply-chain tool holds country-of-origin data for fewer than 10% of F-35 sub-tier suppliers. F-35 production stopped for about six months in both 2023 and 2024 because of Chinese magnet content. For more than half of 99 materials in shortfall (FY23) there was no domestic maker. DoD put about $6.5B into 828 industrial-base projects (DPA Title III, IBAS, ManTech) in FY20–24; castings and forgings are one of eight priority areas; 155mm shell output is planned to rise from 168,000 to 1.2M a year [src-20250724-1c09ad]. At the top, primes fell from 51 to 5 [src-20220215-45c353]. _Meaning [inference]:_ the bottleneck is thousands of small sub-tier shops nobody tracks, which is where a new owner-operator can enter.
+
+**Reshoring, in numbers.** Companies announced about 247,000 US manufacturing jobs from reshoring and foreign direct investment in 2025, near 2024's level; 2.3M since 2010; about 309,000 projected for 2026, possibly 400,000. Only 14 of 64 conditional (tariff-linked) announcements had converted by mid-2026. 90% of jobs are high- or medium-high-tech; contract manufacturers quoting reshored work rose from 16% to 33%; 57% cite policy uncertainty as the top concern (med) [src-20261023-986299]. _Meaning [inference]:_ demand for domestic parts is real but announcements run ahead of orders; startups should count purchase orders, not pledges.
+
+**Shipments and welders.** US fabricated-metal shipments rose from $471.5B (2023) to $479.8B (2024) and $490.4B (2025) [src-20261002-dedd62]. Welding has 437,700 jobs, median pay $53,750, and about 40,300 openings a year, mostly to replace retirees [src-20260901-3b0073]. _Meaning [inference]:_ demand grows slowly but steadily, while replacing retiring workers is the binding constraint, which is where automation pays.
+
 ### 5.3 Headwinds, at equal weight
 
 1. **Spare capacity already exists** (34% utilization) [src-20250120-419768], so primes can push work to existing shops.
@@ -783,7 +809,7 @@ This is the most important mechanism to understand. A new producer does not win 
 
 **Two rules that limit any one supplier.** Buyers cap how much they depend on one shop (SpaceX caps a shop at about 1/3 of its revenue) [src-20250708-342eaf]. After a factory fire at a major supplier, Boeing says it "will never" put one part family with one supplier again [src-20260818-9b2d5c].
 
-**What this means.** Early wins are fast prototype work that buyers pay a premium for. The test of a real business is whether those wins turn into repeat rate-production orders. That is exactly Lilly's question 1, and the evidence so far is thin (section 9) [inference].
+**What this means.** Early wins are fast prototype work that buyers pay a premium for. The test of a real business is whether those wins turn into repeat rate-production orders. That is exactly Lilly's question 1, and the evidence so far is thin (section 10) [inference].
 
 ### 5.7 How the industry and its supply chain work
 
@@ -796,10 +822,12 @@ This is the most important mechanism to understand. A new producer does not win 
 CNC means computer-controlled cutting machines. "AM" (additive manufacturing) means industrial 3D printing.
 - **Who:** Hadrian [src-20260807-b0dc5b]; Divergent [src-20250915-311606]; Isembard (franchise network) [src-20260909-b547c7]; Freeform (metal 3D printing) [src-20260219-2125d7]; Amca (buys and upgrades old shops) [src-20260520-af3e6c]; Fabri (castings) [src-20260617-4dfb96]; Layup (composites) [src-20260602-a7b79e]; Hybron [src-20260413-abc797]. Established players: Howmet, PCC, ATI, Carpenter, Proto Labs, Xometry.
 - **How it makes money:** Proto Labs' gross margin was 44.5% in 2025 [src-20260206-8bb619]: 49% from its own factories versus 31% from its partner network [src-20260206-2b13c7]. Xometry (an online marketplace) earns 34.7% [src-20260224-a7b149]. Howmet's engine unit earns 37.7% before interest, tax and depreciation (EBITDA) [src-20260806-9a83f7]. **Claim (Rolls-Royce engineer):** small shops aim for low double-digit margins [src-20251120-0c271b]. **Claim (ex-Hadrian programming head):** a typical shop can go from 15% to 30% margin in 12-18 months with Hadrian-style operations [src-20261004-9b47f5].
-- **What AI changes:** **Claim (Raytheon manager):** Hadrian quoted about 50% lower prices at about a third of the lead time [src-20250708-2aa3ad]. Other buyers disagree (section 9).
+- **What AI changes:** **Claim (Raytheon manager):** Hadrian quoted about 50% lower prices at about a third of the lead time [src-20250708-2aa3ad]. Other buyers disagree (section 10).
 - **Risks:** buyers must approve each new supplier. That takes 9-12 months [src-20250708-2aa3ad] or 1-2 years at Northrop [src-20260802-36d46c]. (AS9100 is the aerospace quality standard; NADCAP certifies special steps like heat treating and NDT, non-destructive testing.) The leader is valued at $7.87B, out of SPC's range [inference].
 - **Failures in this exact model:** Daedalus, an AI-run CNC factory in Germany with a $21M Series A, went insolvent in August 2026 [src-20260801-4532f6][src-20251203-fc28ea]. VulcanForms replaced its founder CEO [src-20240919-72efcc], then raised $220M [src-20260130-365541]. An ex-Hadrian engineer: a six-machine first factory cost "well north of $10 million", and "manufacturing is not actually a fantastically profitable business" [src-20260817-8867f2].
 - **What this means [inference]:** the biggest and most contested layer; the top names are already expensive.
+
+**Market size (this industry).** Machine shops: 17,156 sites, 223,313 workers, $14.23B payroll; 83% have under 20 staff (2023) [src-20250626-23f6d9] (high). Precision parts: about $71B by 2026, machine shops over $60B (one analyst memo) [src-20251024-2e5383] (med). Structural and architectural metal: 14,533 sites, 423,013 workers, $28.26B payroll [src-20250626-23f6d9] (high). Fabricated-metal shipments about $490B in 2025 [src-20261002-dedd62]. No free revenue number for fabrication alone.
 
 ### 5.8 Where AI and automation help
 
@@ -937,9 +965,9 @@ Fabri: automated casting, $13.5M from RTX and Lockheed venture arms, shipping ca
 - Lockheed–Hadrian [src-20261014-015327]; Navy $900M [src-20260320-67ba4c]; NDAA [src-20251218-f0d6ef]; NAVSEA [src-20250319-f21bec]
 - FAI standard [src-20190801-e81d7b]; IFR robots [src-20260924-28b59b]
 
-## 6. Chemicals & Materials
+## 6. Chemicals
 
-_What this industry is._ Chemicals & Materials covers companies that make and sell molecules or engineered materials: commodity and specialty chemicals, fuels, fertilizers, pharmaceutical ingredients (APIs and their intermediates), and new materials (sorbents, alloys, catalysts). It merges the old sections 4A (materials) and 4B (chemicals). **Producers** (who run plants and sell output) are kept separate from a clearly labeled **discovery-lab sub-group** (who invent materials with AI and robotic labs, and mostly do not yet sell product at scale).
+_What this industry is._ Chemicals covers companies that make and sell molecules: commodity and specialty chemicals, fuels, fertilizers and pharmaceutical ingredients (APIs and their intermediates). Engineered materials (battery cathodes, cooling fluids, alloys) and the AI discovery labs are now a separate chapter (7, Materials).
 
 ### 6.1 The problem today
 
@@ -957,7 +985,7 @@ _What this industry is._ Chemicals & Materials covers companies that make and se
 | 3 | **US feedstock and energy edge** | Cheap shale ethane; Middle East disruption raising demand for US output [src-20260615-0c9b7e] | Durable, gas-price dependent |
 | 4 | **Government loans and grants** | Solugen conditional $213.6M DOE loan guarantee [src-20240613-2df5d6]; Phlow $15.9M award [src-20260721-fa5081]; On Demand Pharmaceuticals ~$35.6M federal awards [src-20250813-79a0cf]; AIRCO ~$70M DoD-related awards [src-20260526-9ebac5] | Annual budgets; reversible |
 | 5 | **Defense chemicals (energetics, fuels)** | Munitions 8.5x request [src-20261007-c6f64e]; AIRCO MAD fuel systems [src-20260526-9ebac5] | Structural for the munitions cycle |
-| 6 | **AI and lab automation getting cheaper** | AI-driven discovery labs funded (Periodic, Lila, CuspAI; section 6.10) | Structural (tech), hype-sensitive |
+| 6 | **Cheap US gas and ammonia** | Henry Hub averaged about $3.44/MMBtu in 2025; US ammonia plants ran at about 80% and net import reliance fell to 5% [src-20260206-c8fbbc] | Durable while shale lasts |
 
 **Pharma onshoring money, in numbers.** Since Eli Lilly's $27B API and sterile-injectables pledge in 2025, 14 big drugmakers have pledged more than $480B of US production over 4–10 years, pointing to 22 new sites and about 44,000 jobs [src-20260601-17c2d4]. CBRE counts about $600B of 2025 manufacturing-plus-R&D pledges but only about $60B tied to specific amounts and locations [src-20260210-883e2f]. In 2026 nine mid-sized firms (including Teva and Sun) pledged another $19.6B for tariff exemptions; MFN pricing deals now cover 26 companies and 89% of the branded market [src-20260701-818dbe]. The 232 regime gives 0% until 2029 to firms with pricing deals, and generics are exempt but under review [src-20260601-17c2d4].
 
@@ -966,6 +994,20 @@ _What this industry is._ Chemicals & Materials covers companies that make and se
 **FDA is clearing the path for new plants.** FDA PreCheck opened February 1, 2026, drew 80+ requests in a month and picked seven facilities on June 29, 2026, including Lilly's API plant in Lebanon, Indiana and Amneal's sterile plant [src-20260629-8074e1]. It reviews a new plant before any product application, which shortens the slowest step for a new API maker [inference].
 
 **Why it matters for startups [inference].** The big pledges mostly fund big pharma's own patented-drug plants. The gap left open is generic APIs and key starting materials (KSMs) — the 46% China-dependence number — where margins are thin and only policy (SAPIR purchases, a generics tariff, BIOSECURE) creates a buyer. That is exactly where Phlow and On Demand Pharmaceuticals sit. Watch whether equipment orders follow the pledges: CFR notes that even 15% of pledged capital going to equipment would be more than $75B of orders, which had not appeared [src-20260601-17c2d4].
+
+**Feedstock and energy: the US–Europe gap, in numbers.** Gas is both fuel and raw material for chemicals: in Europe 62% of the industry's gas is burned for heat and 38% is feedstock, and the industry is Europe's largest industrial gas user (324 TWh in 2023) [src-20251001-7ec954]. From January to July 2026 European gas averaged €45.1/MWh (up 15.7%) against €12.5/MWh in the US (down 9%); the ratio widened from 2.8 to 3.6, and in July 2026 European gas cost more than five times US gas [src-20260915-e74614]. European gas is still about 2.5 times its 2014–19 average while US gas is only about 6% above; EU chemical capacity utilization sits at 75% and EU chemical imports fell 5.9% in the first half of 2026 [src-20260915-e74614]. _Meaning [inference]:_ this is a structural cost edge for any molecule made from gas in the US, and the reason Europe's 37 Mt of closures [src-20260115-ec35af] are not coming back.
+
+**Ammonia and fertilizer.** The US made 14.0 Mt of ammonia (as nitrogen) in 2025 at 38 plants of 18 companies, 57% of capacity in Louisiana, Oklahoma and Texas, running at about 80%; 88% goes to fertilizer and the rest to explosives, plastics and fibers. Net import reliance fell from 13% (2021) to 5% (2025), with imports mainly from Canada (49%) and Trinidad (47%). Gulf ammonia averaged about $450 per short ton in 2025 against $1,070 in 2022 [src-20260206-c8fbbc]. _Meaning [inference]:_ the US is close to self-sufficient in commodity nitrogen, so a newcomer like Nitricity wins only on a niche (organic, local, low-carbon) rather than on supply security; prices swing more than twofold with gas, which sets the bar for any alternative.
+
+**BIOSECURE and the drug tariff, in detail.** BIOSECURE became law in the FY2026 defense bill (Dec 18, 2025); it bars federal contracts, grants and loans that involve "biotechnology companies of concern," with the first OMB list due by December 2026 [src-20260110-4db409]. WuXi AppTec was added to the Pentagon's 1260H list in June 2026 [src-20260818-489fdf]. The Section 232 pharma tariff (April 2026) is 100% on patented drugs and their ingredients by default, 20% for companies with approved onshoring plans (rising to 100% in 2030), zero for companies with pricing-and-onshoring deals, 15% for the EU, Japan, Korea and Switzerland; generics are excluded for now [src-20260402-ecae19]. Deadlines run to July 31 and September 29, 2026, and pricing-deal firms get 0% until 2029 [src-20260601-17c2d4].
+
+**Europe's utilization problem, and why it matters to US makers.** Chemical plants need roughly 80–85% utilization to make money; the EU averages about 74%, some segments are below 65%, Germany ran at 70% in Q3 2025, and more than 30 German chemical companies a year have gone insolvent since 2024; Europe's share of global chemical sales is set to stay below 15% [src-20260401-e2adb0]. Roland Berger calls the closures structural rather than cyclical, with a net capacity loss above 30 Mt and about 20,000 direct and 89,000 indirect jobs at risk [src-20260201-63910c]. _Meaning [inference]:_ customers who bought European intermediates need new suppliers; US plants with cheap gas are the natural replacement, which helps both incumbents and startups.
+
+**API chokepoints, molecule by molecule.** China controls the key starting materials for 94% of amoxicillin, 74% of heparin and 70% of acetaminophen sold in the US; US amoxicillin production went from 100% domestic to zero in twelve years; a Chinese restriction would cause shortages that peak 4.5–9 months later [src-20260501-7f527d]. Estimates of US reliance on Chinese APIs range from 8% (direct) to 47% (indirect, through India); Brookings suggests Chinese API is in perhaps a quarter of US drug volume [src-20250501-c298cb]. _Meaning [inference]:_ the policy case is strongest for a short list of old, cheap molecules, where onshoring needs either a price floor or a government buyer.
+
+**Oil-based feedstocks.** Brent averaged about €74.6 a barrel over the 2026 period Cefic tracks [src-20260915-e74614]; oil-based (naphtha) crackers dominate Europe while US crackers run mostly on ethane from shale gas, which is why the gas gap above flows straight into petrochemical costs [inference]. ACC expects US chemical volumes to grow only 0.5% in 2026, led by basic chemicals, with more than 80% of basic and specialty chemicals sold to other industries rather than consumers [src-20260615-0c9b7e]. _Meaning [inference]:_ US demand is flat, so US makers grow mainly by taking export share from Europe and imports, not from a growing home market.
+
+**Process-plant software is a related bet.** Process plants (chemicals, polymers, biologics) are the main market for Lumaril, an AI closed-loop control startup profiled as an enabler in section 8.10. If plants can raise yield through software alone, that lowers the bar for existing US plants and competes with new-build startups [inference].
 
 ### 6.3 Headwinds, at equal weight
 
@@ -990,7 +1032,7 @@ _What this industry is._ Chemicals & Materials covers companies that make and se
 - Onshoring rules bite on generics, not just patented drugs. **Watch:** any 232 extension to generics; BIOSECURE's first OMB list (due Dec 2026).
 - Repeat orders from paying buyers. **Watch:** Phlow's FDA decision on epinephrine (2027); Nitricity's sold-out-through-2028 contracts holding after the CDFA case; Twelve's fuel deliveries.
 - Plants hit nameplate on time. **Watch:** Solugen's Bioforge Marshall; Twelve AirPlant One output versus 50k gal/yr.
-- A discovery lab sells product, not just papers. **Watch:** Periodic, Lila, CuspAI revenue from materials.
+- The US–Europe gas gap stays wide. **Watch:** Cefic's quarterly gas ratio (3.6 in Jan–Jul 2026) [src-20260915-e74614].
 
 ### 6.6 Macro in more depth
 
@@ -1003,21 +1045,10 @@ _What this industry is._ Chemicals & Materials covers companies that make and se
 **Policy is pushing reshoring, mainly in pharma.**
 - **Section 232 pharma tariff (April 2026):** 100% on patented drugs and their ingredients; 20% for companies with approved onshoring plans (rising to 100% in 2030); zero for companies with pricing-and-onshoring deals; 15% for the EU, Japan, Korea and Switzerland. Generics are excluded for now. FDA data cited in the proclamation: only 15% of patented API volume is made in the US [src-20260402-ecae19].
 - **BIOSECURE Act:** enacted in the FY2026 defense bill (signed Dec 18, 2025). It bars federal contracts, grants and loans involving "biotechnology companies of concern"; the first OMB list is due by Dec 2026 [src-20260110-4db409]. The Pentagon added WuXi AppTec to its 1260H list in June 2026 [src-20260818-489fdf].
-- **Executive Order 14293 (May 2025)** and FDA's PreCheck pilot speed approval of new US drug and API plants (see the policy tracker, section 11).
+- **Executive Order 14293 (May 2025)** and FDA's PreCheck pilot speed approval of new US drug and API plants (see the policy tracker, section 12).
 - **Government lending** (section 2.4) can fund plants: Solugen holds a conditional $213.6M DOE loan guarantee [src-20240613-2df5d6].
 
 [inference] The policy pull is strongest for pharma intermediates and APIs and for defense chemicals (energetics). It is weakest for commodities, where the US is already a net exporter.
-
-**Materials-side macro.**
-
-The steps, with typical time in brackets [inference, built from sources cited]:
-1. **Compute screen** (weeks): the model narrows millions of candidates to hundreds. Now cheap.
-2. **Synthesis and first tests** (months): grams to 500 g in an SDL. This is the step labs speed up 6–17 times. An RSC benchmark finds a median speedup of about 6 times over random sampling (search; low), and Lila claims 17 times [src-20260925-679418].
-3. **Scale-up** (1–3 years): kilograms to tons. It needs process chemistry or metallurgy, and a pilot line. Radical's RAI-939 is at this step now [src-20260807-52b690].
-4. **Qualification** (1–5 years): the customer tests the material in its own product against specs. Aerospace alloys need allowables databases. Chip fluids need qualification by the fab or GPU maker (Orbital, 2027 target [src-20260528-375aec]). Water sorbents need regulatory approval (Kemira).
-5. **Supply** (ongoing): someone has to make it reliably at cost. This is where the margin is, and where owner-producers sit.
-
-**Where AI helps:** step 1 a lot, step 2 a lot, steps 3–5 little. Steps 3–5 are most of the time and money. That is why Plural says there is "no AlphaFold moment" [src-20260528-2c20ee], and why the Lila CTO says only about 5% of science is cheap to verify [src-20260917-29aa29].
 
 ### 6.7 How the industry and its supply chain work
 
@@ -1033,9 +1064,7 @@ Two engineering terms matter for startups. **Batch** chemistry runs one tank at 
 
 Who buys: ACC says more than 80% of basic and specialty chemicals are bought by other industries, not consumers [src-20260615-0c9b7e]. So chemical demand follows manufacturing, housing, autos, data centers and pharma.
 
-_Materials discovery explained in plain English: Appendix D._
-
-_The map of materials business models: Appendix D._
+**Market size (this industry).** No clean free revenue number for US chemicals in the repo [gap]. Physical proxies: US ammonia output 14.0 Mt of nitrogen in 2025, 88% to fertilizer, Gulf price about $450 per short ton [src-20260206-c8fbbc]; Europe announced 37 Mt of closures in 2022–25 [src-20260115-ec35af]; only about 10% of APIs by volume are made in the US [src-20260701-818dbe].
 
 ### 6.8 Where AI and automation help
 
@@ -1052,14 +1081,11 @@ The key point for SPC: **discovering a molecule is not the bottleneck; making it
 
 **Right to win [inference].** Own the plant and the offtake; use automation to shorten scale-up; target molecules where policy forces US supply (APIs, intermediates, defense chemicals), not commodities where Dow and ExxonMobil win on cost.
 
-_Chemicals and materials business models, unit economics and data loop (v8 sections 4B.4, 4B.5, 4A.5–4A.7): Appendix D._
+_Chemicals business models, unit economics and data loop (v8 sections 4B.4, 4B.5): Appendix D._
 
 **Data loop (score 0–3; scale in 2.13):**
 
-| Company | Score | How the loop works | Best evidence / what is missing |
-|---|---|---|---|
-| Radical AI | 2 | Robot lab tests and learns in a closed loop | 8-20 alloys a day [src-20260617-f9d293]. Missing: hit-rate trend |
-| Periodic, CuspAI, Mind | 1 | Lab or factory as a training ground for AI | [src-20260917-1bcb81][src-20261022-37a0ea][src-20260513-83aa83]. Missing: production evidence |
+No chemicals company in the repo has a scored data loop yet [gap].
 
 ### 6.10 Companies, grouped by label
 
@@ -1097,18 +1123,6 @@ _Chemicals and materials business models, unit economics and data loop (v8 secti
 - **AI / automation angle:** electrified, automated plasma process; little explicit AI [inference].
 - **Bear (one line):** California's agriculture department (CDFA) says the product contains prohibited synthetic nitrogen; if that stands, the organic market closes (litigation ongoing) [src-20260320-7b8d7b].
 
-**Orbital Industries (formerly Orbital Materials; London and Princeton, NJ; model 4).**
-- **Funding:** $50M Series B led by Plural, May 28, 2026; about 50 staff [src-20260528-93befb][src-20260528-375aec].
-- **Model:** it is vertically integrated and sells products, not software. The two products are a PFAS-free dielectric cooling fluid for data centers and "Nova Array," a modular data center it says can be deployed in 180 days [src-20260528-93befb].
-- **What it means [inference]:** **the most thesis-aligned name in the section.** It found a buyer with an urgent need (data-center cooling), chose a product it can make through a contract manufacturer, and owns the margin. If the fluid ships in 2027 it could be among the first AI-designed materials sold at scale. Diligence: who the CMO is, qualification status, gross margin per liter.
-- _More detail: Appendix D (Orbital Industries)._
-
-**Mitra Chem (Mountain View, CA; LMFP and LFP battery cathodes; model 4).**
-- **History:** began shipping LMFP cathode samples to global customers in 2023 [src-20240611-24c650]. Series B led by GM.
-- **Production:** **Per BusinessPost (Korean):** a $100M DOE production grant, $50M from Michigan's MSF fund, and a planned 30k-ton-a-year, $370M LFP plant in Michigan. Korea's L&F invested $10M for about 3.3%, and the two are considering a joint-venture plant [src-20260831-db47e6] (med; single foreign-language article).
-- **What it means [inference]:** an AI-designed chemistry turning into a chemical plant, so it does pass the producer test. But it competes on cost per kWh against Chinese LFP, which is the hardest market in industry. Its value depends on 45X and the foreign-entity rules (section 2.3).
-- _More detail: Appendix D (Mitra Chem)._
-
 #### Producers — hybrid
 
 **Warp Sciences (San Francisco; US drug-discovery chemistry CRO; Hybrid).**
@@ -1142,11 +1156,163 @@ _Chemicals and materials business models, unit economics and data loop (v8 secti
 - **Iambic (Enabler / drug developer).** Enchant v3 model (41B parameters) and an automated lab that makes hundreds of compounds a week; its own drug pipeline (IAM-C1, IAM217) and partners; S-1 filed October 2026 [src-20260921-cb3d77]. Sells drugs, not chemicals. Bear: drug-development risk dominates.
 - **PostEra and SYNTHIA (Merck KGaA's retrosynthesis software; Enablers).** Software for planning how to make molecules [src-20261027-13f9b3]. Tools, not producers. Bear: commoditizing as general AI models improve [inference].
 
+**Process-plant software (cross-reference).** Lumaril, AI closed-loop control sold to chemical, polymer and biologics plants and paid on the production it adds (company claim), is profiled in full in section 8.10 as an enabler [src-20261027-d5ba3f].
+
 _Short v8 notes on LanzaTech, Zymergen, Zapata and others: Appendix D._
+
+### 6.11 Bear case, at equal weight
+
+1. **Biomanufacturing has a terrible record.** Ginkgo, Zymergen and Amyris all collapsed in 2021–23. For simple molecules, making them with organisms usually costs more than conventional chemical synthesis, so bio works mainly for complex, high-value compounds [src-20240101-499ec8]. Zymergen had no in-house commercial-scale manufacturing, its contract manufacturers missed production goals, and customers could not get its Hyaline film to work in their own production lines [src-20220101-9c58e3]. LanzaTech is fighting going-concern doubt [src-20260331-20d171].
+2. **AI-for-chemistry software alone fails.** Zapata is the example [src-20241011-721c93]. Retrosynthesis tools are still decision support for chemists [inference].
+3. **Commodity economics punish newcomers.** Europe's plants are closing because of energy cost and Chinese overcapacity [src-20260115-ec35af]. A US startup selling a commodity competes with shale-fed incumbents and Chinese surplus, so it needs a real cost edge, not a green premium.
+4. **Pharma policy can reverse or be diluted.** Section 232 exempts generics (where China dependence is deepest) and gives 0–20% rates to companies that do deals [src-20260402-ecae19]. A federal court enjoined WuXi's 1260H designation (search summary; low). The cheaper Indian and Chinese supply still exists.
+5. **Capex before contracts again.** Chemical plants take years and hundreds of millions. Solugen's DOE loan is still conditional [src-20240613-2df5d6].
+6. **Labor cost of US CROs.** Warp and Chemify must automate faster than offshore labs cut prices [inference].
+
+**What fits SPC [inference].**
+
+| Company | Integration | Fit with "AI-enabled, vertically integrated, makes and sells product" |
+|---|---|---|
+| Solugen | Full | **Best fit.** Own plants, product revenue, government loan; AI is secondary to enzyme and process IP. Late stage. |
+| Orbital (4A) | Full (specialty fluids) | Good fit; see 4A. |
+| Warp Sciences | Hybrid (CRO) | Fits the reshoring and data-loop thesis; services, not product; too early to judge. |
+| Chemify | Hybrid (CRO plus IP) | Interesting option on "code to molecule"; research scale. |
+| CuspAI, Periodic, Lila | Enabler or discovery lab | Not producers; track via 4A. |
+| LanzaTech, Zymergen, Zapata | — | Cautionary tales. |
+
+**Diligence questions:** What is the yield and cost per kilogram at the current plant versus incumbents? How many customers have reordered after qualification? Who keeps the data rights? How much capex is committed before offtake contracts?
+
+### 6.12 Key sources
+
+- Cefic gas and trends [src-20260915-e74614][src-20251001-7ec954]; USGS ammonia [src-20260206-c8fbbc]
+- Cefic closures [src-20260115-ec35af]; Roland Berger [src-20260201-63910c]; FTI [src-20260401-e2adb0]
+- ACC 2026 outlook [src-20260615-0c9b7e]
+- USCC on generics [src-20250605-bde73f]; Brookings [src-20250501-c298cb]; CFR [src-20260501-7f527d]
+- Section 232 pharma [src-20260402-ecae19]; BIOSECURE [src-20260110-4db409]; WuXi 1260H [src-20260818-489fdf]
+- Solugen DOE loan [src-20240613-2df5d6]; Zymergen [src-20220101-9c58e3]; LanzaTech [src-20260331-20d171]; pledges and deadlines [src-20260601-17c2d4][src-20260701-818dbe]
+- New company sources: Twelve, Phlow, ODP, Nitricity, AIRCO, Debut, Cemvita, Geno, Lygos, Iambic, PostEra/SYNTHIA (cited in 6.10)
+
+_Brooke's reading and listening list (v7.2 section 4B.10): Appendix D._
+
+## 7. Materials
+
+_What this industry is._ Materials covers companies that make and sell engineered materials rather than commodity molecules: battery cathodes, cooling fluids and hardware for data centers, sorbents, alloys and catalysts. Two producers sit here (Mitra Chem, Orbital Industries). AI discovery labs (Radical AI, CuspAI, Periodic Labs, Lila Sciences) are kept in a clearly labeled **discovery-lab sub-group**: they invent materials with AI and robotic labs but mostly do not yet sell product at scale.
+
+### 7.1 The problem today
+
+- **China makes almost all battery materials.** In 2025 China made 70% of the world's electric vehicles, more than 80% of battery cells, about 85% of cathode active material and more than 90% of anode material [src-20260501-79ef76]. For the cheaper LFP (lithium iron phosphate) chemistry, more than 98% of cathode material and cells are made in China [src-20250521-9be25a].
+- **The US is switching to the chemistry it makes least.** LFP was more than 55% of EV batteries worldwide in 2025. In the US, more than 50 GWh of cell capacity (LG Energy Solution, Ford) has been reassigned to LFP, much of it for grid storage, which was a third of US battery deployment; LFP cathode and its precursors are almost entirely made in China [src-20260501-600ef9].
+- **Data centers need new cooling materials.** Data centers used 415 TWh of electricity in 2024 (1.5% of the world total), heading to about 945 TWh in 2030, growing about 15% a year; cooling takes from 7% (hyperscale) to over 30% (enterprise) of a data center's power [src-20250410-22e27a]. Liquid cooling is expected to reach 53% of AI chips in 2026 (med) [src-20260817-13658d].
+- **The old fluorine chemistry is being regulated out.** Many cooling fluids, seals and coatings use PFAS ("forever chemicals"). EU scientific committees backed a broad PFAS restriction in March 2026, with targeted exemptions; fluoropolymers and fluorinated gases are in scope [src-20260326-379e42].
+- **Discovery is cheap, scale-up is not.** AI shortens the first two steps of making a new material (weeks to months), but scale-up and customer qualification take one to five years each (7.6).
+
+_What this means [inference]:_ there is real, policy-backed demand for a non-Chinese cathode and for new cooling materials, but the winner is whoever can make tons at a qualified spec, not whoever finds the molecule first.
+
+### 7.2 Macro and tailwinds, ranked [ranking is inference]
+
+| Rank | Tailwind | Evidence | Durable? |
+|---|---|---|---|
+| 1 | **Battery supply-chain localization** | China ~85% of cathode, >98% of LFP cathode [src-20260501-79ef76][src-20250521-9be25a]; Mitra has a $100M DOE award for a Michigan plant [src-20261023-6e0642] | Structural (security), but subsidy-dependent |
+| 2 | **Grid-storage pivot to LFP** | >50 GWh of US capacity moved to LFP; storage a third of US deployment [src-20260501-600ef9] | Structural while data centers add load |
+| 3 | **Data-center power and cooling** | 415 → ~945 TWh by 2030; cooling 7–30%+ of power [src-20250410-22e27a]; liquid cooling 53% of AI chips in 2026 [src-20260817-13658d] | Structural; tied to AI capex |
+| 4 | **PFAS rules** | EU restriction backed March 2026 [src-20260326-379e42]; US keeps 4 ppt PFOA/PFOS limits, deadline 2031 [src-20260520-caa33e] | EU structural; US partly reversed |
+| 5 | **AI and lab automation getting cheaper** | Discovery labs funded (Periodic, Lila, CuspAI; 7.10); open datasets like OMol25 (100M+ calculations) [src-20250513-fbb4d8] | Structural (tech), hype-sensitive |
+
+**Battery chain, in more depth.** The IEA expects China still to hold about three-quarters of cathode and about 90% of anode production in 2035; the EU and US together reach only about 10% of cathode [src-20260501-79ef76]. China's edge in LFP comes from cheap inputs, equipment and patents [src-20250521-9be25a]. _Meaning [inference]:_ a US cathode maker sells mostly security of supply, so its customers are those who must or will pay for it (automakers with tax-credit rules, defense, utilities buying storage).
+
+**Cooling, in more depth.** Accelerated (AI) servers are the fastest-growing slice of data-center load, and the US alone accounts for almost half of its electricity demand growth to 2030 from data centers [src-20250410-22e27a]. Each point of cooling efficiency is power that can go to chips instead [inference]. Orbital targets exactly this with fluids and hardware, with qualification aimed at 2027 [src-20260528-375aec].
+
+**PFAS, in more depth.** The EU's restriction would cover manufacture, sale and use with time-limited exemptions [src-20260326-379e42]. In the US, the EPA kept the 4 parts-per-trillion limits for PFOA and PFOS in drinking water but proposed moving compliance from 2029 to 2031 and rescinding limits for four other PFAS (May 2026) [src-20260520-caa33e]. _Meaning [inference]:_ PFAS-free replacements have a firm market in Europe and a softer one in the US.
+
+### 7.3 Headwinds, at equal weight
+
+1. **Chinese price.** China's scale sets cathode prices; a US plant is a price-taker without offtake or subsidy [src-20250521-9be25a] [inference].
+2. **EV slowdown in the US.** US LFP share in EVs almost halved; capacity is being re-pointed to storage [src-20260501-600ef9].
+3. **Scale-up and qualification take years** (7.6) and are where most money is spent.
+4. **Rules can soften.** The US PFAS rollback shows regulation-driven demand can shrink [src-20260520-caa33e].
+5. **Discovery-lab hype.** Large rounds before revenue (7.10); Plural, an Orbital investor, says there is "no AlphaFold moment" in materials [src-20260528-2c20ee].
+
+### 7.4 Why an AI-enabled, vertically integrated company is the answer here
+
+Owning the plant is the only way to capture the margin in step 5 (supply) of the materials chain; a lab that licenses an invention captures little [inference]. AI helps most where a producer can run many experiments on its own line: Mitra uses AI from lab scale (1 kg/day) to production (1,000 kg/day) [src-20261023-6e0642]. **Where it breaks:** discovery speed does not shorten customer qualification, and Chinese cost still sets price.
+
+### 7.5 What would have to be true, and signals to watch
+
+- A US cathode plant reaches steady output at a price buyers accept. **Watch:** Mitra's Muskegon plant start-up and offtakes [src-20261023-6e0642].
+- Liquid cooling stays standard as AI chips grow. **Watch:** liquid-cooling share (53% expected in 2026) [src-20260817-13658d].
+- The EU PFAS restriction is adopted. **Watch:** the final SEAC opinion and Commission proposal [src-20260326-379e42].
+- A discovery lab sells product, not just papers. **Watch:** Periodic, Lila, CuspAI revenue from materials.
+
+### 7.6 Macro in more depth
+
+The steps, with typical time in brackets [inference, built from sources cited]:
+1. **Compute screen** (weeks): the model narrows millions of candidates to hundreds. Now cheap.
+2. **Synthesis and first tests** (months): grams to 500 g in an SDL. This is the step labs speed up 6–17 times. An RSC benchmark finds a median speedup of about 6 times over random sampling (search; low), and Lila claims 17 times [src-20260925-679418].
+3. **Scale-up** (1–3 years): kilograms to tons. It needs process chemistry or metallurgy, and a pilot line. Radical's RAI-939 is at this step now [src-20260807-52b690].
+4. **Qualification** (1–5 years): the customer tests the material in its own product against specs. Aerospace alloys need allowables databases. Chip fluids need qualification by the fab or GPU maker (Orbital, 2027 target [src-20260528-375aec]). Water sorbents need regulatory approval (Kemira).
+5. **Supply** (ongoing): someone has to make it reliably at cost. This is where the margin is, and where owner-producers sit.
+
+**Where AI helps:** step 1 a lot, step 2 a lot, steps 3–5 little. Steps 3–5 are most of the time and money. That is why Plural says there is "no AlphaFold moment" [src-20260528-2c20ee], and why the Lila CTO says only about 5% of science is cheap to verify [src-20260917-29aa29].
+
+**Materials discovery, step by step.**
+
+A new material (an alloy, a battery cathode, a catalyst, a coolant, a magnet) normally takes 10–20 years and tens of millions of dollars to go from idea to qualified product. Discovery labs try to compress that with three tools:
+1. **Generative and predictive models.** Software proposes candidate structures and predicts their properties, so you test hundreds instead of millions. Examples:
+   - Microsoft's MatterGen is a diffusion model trained on about 608k stable materials. It generates crystal structures to a target property [src-20250116-63e766][src-20261022-3e2a9d].
+   - Google DeepMind's GNoME predicted 2.2M crystals, about 380k of them stable. Outside labs have since made 736 of them [src-20231129-1dc706].
+   - Meta's open OMat24 dataset holds more than 110M quantum-mechanics (DFT) calculations [src-20130101-5e5543].
+2. **Self-driving labs (SDLs).** Robots mix, synthesize and test the candidates, and the results feed back into the model. Examples are Berkeley's A-Lab, Argonne's Polybot [src-20250217-059784] and Radical AI's alloy lab.
+3. **The closed loop.** Model proposes, robot makes and measures, model updates. The claim is that each turn makes the next guess better, so the lab gets faster over time. This is the materials version of the "data loop" in section 6.
+
+**The key point [inference]:** models are becoming free. GNoME, MatterGen, OMat24 and the Genesis Mission platform are all public or close to it. The scarce assets are (a) physical throughput, meaning how many real samples you can make and test, (b) data that is proprietary and tied to real-world performance, and (c) the ability to scale up and qualify a material with a customer. That is where the right to win sits.
+
+### 7.7 How the industry and its supply chain work
+
+| Model | What they sell | Examples | Producer test? |
+|---|---|---|---|
+| 1. Software / SaaS | Data platform and AI tools to the R&D teams of chemical and materials companies | Citrine, Uncountable, Kebotix (status unclear), Albert Invent, Microsoft Discovery | No |
+| 2. Discovery-as-a-service / IP | Custom discovery projects, licensing and royalties, with partners making the material | CuspAI, Periodic, Lila (materials arm), Aionics, Dunia | No |
+| 3. Lab plus government / partner contracts | Its own SDL; paid by defense and labs, then licensing or making specialty material | Radical AI | Partly (makes alloys at small scale) |
+| 4. Owner-producer | Designs the material **and** makes and sells the product | Orbital Industries, Mitra Chem | Yes, closest to the thesis |
+
+**Market size (this industry).** No free market size for materials R&D in the repo [gap]. Physical proxies: China holds about 85% of cathode active material and more than 90% of anode material [src-20260501-79ef76]; data centers used 415 TWh in 2024, heading to about 945 TWh by 2030, with cooling 7% to over 30% of that power [src-20250410-22e27a].
+
+### 7.8 Where AI and automation help
+
+AI screens candidates and runs robotic labs (steps 1–2 in 7.6); producers use it to tune their own lines, as Mitra does from 1 kg/day to 1,000 kg/day [src-20261023-6e0642].
+
+### 7.9 Right to win, unit economics and data loop
+
+**Right to win [inference].** Make the material at a qualified spec in the US, with an offtake; discovery alone captures little margin.
+
+_Materials unit economics, data loop and right to win (v8 sections 4A.5–4A.7): Appendix D._
+
+**Data loop (score 0–3; scale in 2.13):**
+
+| Company | Score | How the loop works | Best evidence / what is missing |
+|---|---|---|---|
+| Radical AI | 2 | Robot lab tests and learns in a closed loop | 8-20 alloys a day [src-20260617-f9d293]. Missing: hit-rate trend |
+| Periodic, CuspAI, Mind | 1 | Lab or factory as a training ground for AI | [src-20260917-1bcb81][src-20261022-37a0ea][src-20260513-83aa83]. Missing: production evidence |
+
+### 7.10 Companies, grouped by label
+
+#### Producers — fully integrated
+
+**Orbital Industries (formerly Orbital Materials; London and Princeton, NJ; model 4).**
+- **Funding:** $50M Series B led by Plural, May 28, 2026; about 50 staff [src-20260528-93befb][src-20260528-375aec].
+- **Model:** it is vertically integrated and sells products, not software. The two products are a PFAS-free dielectric cooling fluid for data centers and "Nova Array," a modular data center it says can be deployed in 180 days [src-20260528-93befb].
+- **What it means [inference]:** **the most thesis-aligned name in the section.** It found a buyer with an urgent need (data-center cooling), chose a product it can make through a contract manufacturer, and owns the margin. If the fluid ships in 2027 it could be among the first AI-designed materials sold at scale. Diligence: who the CMO is, qualification status, gross margin per liter.
+- _More detail: Appendix D (Orbital Industries)._
+
+**Mitra Chem (Mountain View, CA; LMFP and LFP battery cathodes; model 4).**
+- **History:** began shipping LMFP cathode samples to global customers in 2023 [src-20240611-24c650]. Series B led by GM.
+- **Production:** **Per BusinessPost (Korean):** a $100M DOE production grant, $50M from Michigan's MSF fund, and a planned 30k-ton-a-year, $370M LFP plant in Michigan. Korea's L&F invested $10M for about 3.3%, and the two are considering a joint-venture plant [src-20260831-db47e6] (med; single foreign-language article).
+- **What it means [inference]:** an AI-designed chemistry turning into a chemical plant, so it does pass the producer test. But it competes on cost per kWh against Chinese LFP, which is the hardest market in industry. Its value depends on 45X and the foreign-entity rules (section 2.3).
+- _More detail: Appendix D (Mitra Chem)._
 
 #### Discovery-lab sub-group (kept separate from producers)
 
-_Pure discovery labs and design partners. Most do not run a production floor, so they are tracked, not targeted (section 6). Labels: Radical AI hybrid; CuspAI, Periodic and Lila enablers._
+_Pure discovery labs and design partners. Most do not run a production floor, so they are tracked, not targeted (section 7). Labels: Radical AI hybrid; CuspAI, Periodic and Lila enablers._
 
 **Radical AI (New York; alloys and metals; model 3; Hybrid; partial fit).**
 - **Funding:** $55M led by RTX Ventures [src-20250718-d46f24]. An Air Force AFWERX Direct-to-Phase II contract worth $1,197,902 [src-20250825-300a14].
@@ -1172,53 +1338,42 @@ _Pure discovery labs and design partners. Most do not run a production floor, so
 - **What it means [inference]:** most of the value is in biology. Materials is a second line. Not an industrial producer.
 - _More detail: Appendix D (Lila Sciences)._
 
-### 6.11 Bear case, at equal weight
+### 7.11 Bear case, at equal weight
 
-1. **Biomanufacturing has a terrible record.** Ginkgo, Zymergen and Amyris all collapsed in 2021–23. For simple molecules, making them with organisms usually costs more than conventional chemical synthesis, so bio works mainly for complex, high-value compounds [src-20240101-499ec8]. Zymergen had no in-house commercial-scale manufacturing, its contract manufacturers missed production goals, and customers could not get its Hyaline film to work in their own production lines [src-20220101-9c58e3]. LanzaTech is fighting going-concern doubt [src-20260331-20d171].
-2. **AI-for-chemistry software alone fails.** Zapata is the example [src-20241011-721c93]. Retrosynthesis tools are still decision support for chemists [inference].
-3. **Commodity economics punish newcomers.** Europe's plants are closing because of energy cost and Chinese overcapacity [src-20260115-ec35af]. A US startup selling a commodity competes with shale-fed incumbents and Chinese surplus, so it needs a real cost edge, not a green premium.
-4. **Pharma policy can reverse or be diluted.** Section 232 exempts generics (where China dependence is deepest) and gives 0–20% rates to companies that do deals [src-20260402-ecae19]. A federal court enjoined WuXi's 1260H designation (search summary; low). The cheaper Indian and Chinese supply still exists.
-5. **Capex before contracts again.** Chemical plants take years and hundreds of millions. Solugen's DOE loan is still conditional [src-20240613-2df5d6].
-6. **Labor cost of US CROs.** Warp and Chemify must automate faster than offshore labs cut prices [inference].
+1. **No AI-designed material is clearly in volume commercial sale yet** [inference, from sources]. Orbital targets 2027 [src-20260528-375aec]. Kemira's PFAS sorbent and RAI-939 are at pilot or test-article stage [src-20260521-f4b51b][src-20260807-52b690].
+2. **The science record is mixed.**
+   - A-Lab's claim of 41 new materials was challenged ("no new materials were discovered") [src-20240124-513fd9].
+   - For GNoME, the 736 independent syntheses are under 0.2% of the 380k predicted-stable crystals [src-20231129-1dc706].
+   - MatterGen is limited to about 20 atoms per unit cell [src-20261022-3e2a9d].
+3. **Synthesis and qualification, not discovery, are the bottleneck.** AI speeds up the cheap part.
+4. **Buyers have small budgets and refuse to share IP.** R&D software sells in the hundreds of thousands; majors refuse royalties [src-20260913-3ad55e][src-20261016-29997e].
+5. **The models are commodities:** open models and Genesis.
+6. **Valuations far ahead of revenue:** CuspAI ($450M raised), Periodic ($300M seed), Lila (talks at about $8.5B, reported), none with disclosed material revenue [inference].
+7. **Legal and safety issues:** the Royal Society review notes that patent law recognizes only human inventors, and flags safety and cyber risks of autonomous labs [src-20250716-e94853].
+8. **Market size:** the lab-automation market is about $8–9B today, perhaps $20–24B later [src-20260709-1159ab] (low). That is small next to manufacturing.
 
-**What fits SPC [inference].**
+_Materials bull case and SPC actions: Appendix D._
 
-| Company | Integration | Fit with "AI-enabled, vertically integrated, makes and sells product" |
-|---|---|---|
-| Solugen | Full | **Best fit.** Own plants, product revenue, government loan; AI is secondary to enzyme and process IP. Late stage. |
-| Orbital (4A) | Full (specialty fluids) | Good fit; see 4A. |
-| Warp Sciences | Hybrid (CRO) | Fits the reshoring and data-loop thesis; services, not product; too early to judge. |
-| Chemify | Hybrid (CRO plus IP) | Interesting option on "code to molecule"; research scale. |
-| CuspAI, Periodic, Lila | Enabler or discovery lab | Not producers; track via 4A. |
-| LanzaTech, Zymergen, Zapata | — | Cautionary tales. |
+### 7.12 Key sources
 
-**Diligence questions:** What is the yield and cost per kilogram at the current plant versus incumbents? How many customers have reordered after qualification? Who keeps the data rights? How much capex is committed before offtake contracts?
+- IEA Global EV Outlook 2026 [src-20260501-79ef76][src-20260501-600ef9]; IEA LFP supply chain [src-20250521-9be25a]
+- IEA Energy and AI [src-20250410-22e27a]; TrendForce liquid cooling [src-20260817-13658d]
+- ECHA PFAS [src-20260326-379e42]; EPA PFAS [src-20260520-caa33e]
+- Mitra [src-20261023-6e0642]; Orbital [src-20260528-375aec][src-20260528-93befb][src-20260528-2c20ee]
+- Discovery labs [src-20260807-52b690][src-20260925-679418][src-20260917-29aa29]; OMol25 [src-20250513-fbb4d8]
 
-_Materials bear case in full, both bull cases and materials SPC actions: Appendix D._
-
-### 6.12 Key sources
-
-- Cefic closures [src-20260115-ec35af]; Roland Berger [src-20260201-63910c]; FTI [src-20260401-e2adb0]
-- ACC 2026 outlook [src-20260615-0c9b7e]
-- USCC on generics [src-20250605-bde73f]; Brookings [src-20250501-c298cb]; CFR [src-20260501-7f527d]
-- Section 232 pharma [src-20260402-ecae19]; BIOSECURE [src-20260110-4db409]; WuXi 1260H [src-20260818-489fdf]
-- Solugen DOE loan [src-20240613-2df5d6]; Zymergen [src-20220101-9c58e3]; LanzaTech [src-20260331-20d171]
-- New company sources: Twelve, Phlow, ODP, Nitricity, AIRCO, Debut, Cemvita, Geno, Lygos, Iambic, PostEra/SYNTHIA (cited in 6.10)
-
-_Brooke's reading and listening list (v7.2 section 4B.10): Appendix D._
-
-## 7. Enabling Software & Robotics (tracked, outside the core)
+## 8. Enabling Software & Robotics (tracked, outside the core)
 
 _What this industry is._ Enabling Software & Robotics covers companies that sell tools to factories rather than making the product themselves: factory operating systems, inventory and ordering software, inspection AI, CAM automation and robots. We track it because it sets the pace for the producers in chapters 3–6, but it sits **outside the core thesis** (it is an enabler, not an owner of output).
 
-### 7.1 The problem today
+### 8.1 The problem today
 
 - **Factory workflows are slow and manual.** **Claim (Accel, on Arda):** assembly instructions drop from hours to minutes and complex engineering workflows run >10x faster; Anduril uses Arda inside ArsenalOS [src-20261020-8d7abc].
 - **Robots are not spread evenly.** Industrial robot installs reached $18.6B worldwide; the US installed 38,428 units [src-20260924-28b59b]. US installs rose 11% in 2025, with metal and machinery only about 3,000 units [src-20260618-c903cc].
 - **Robots still fail often in real tasks.** Robot-learning success rates are 59–66% [src-20260904-267293].
 - **Labor is the reason to automate.** 522,000 open manufacturing jobs in August 2026 versus a pre-pandemic 432,000 [src-20261013-a7c995]; NAM: 54.9% cite workforce as a top challenge [src-20260914-b4d55c].
 
-### 7.2 Macro and tailwinds, ranked [ranking is inference]
+### 8.2 Macro and tailwinds, ranked [ranking is inference]
 
 | Rank | Tailwind | Date / size | Structural or reversible? |
 |---|---|---|---|
@@ -1228,7 +1383,23 @@ _What this industry is._ Enabling Software & Robotics covers companies that sell
 | 4 | **Tax: 100% bonus depreciation** | Restored [src-20260114-2075f7] | Legislated; reversible |
 | 5 | **Incumbents prove margins** | Rockwell gross margin 49.5% [src-20260804-0e8130]; Siemens digital push [src-20250326-cc1810] | Structural |
 
-### 7.3 Headwinds, at equal weight
+**Factory automation spending.** After two weak years, Roland Berger calls 2026 the first year of renewed growth in industrial automation: up to about 9% a year to 2030, with 6–7% more realistic. Value is shifting from hardware to software, which lets automation reach smaller batches. Pharma and consumer goods are strong; automotive is weak; defense is not yet moving the market [src-20260116-0c4980] (med).
+
+**Robot installs.** The robot numbers in 8.1 show the same pattern: US installs rose 11% in 2025, but only about 3,000 went to metal and machinery [src-20260618-c903cc]. _Meaning [inference]:_ the total market for factory tools is growing again, but most spend still goes to incumbents' hardware; a software startup must sell measurable output, which is why outcome-priced tools like Lumaril (8.10) stand out.
+
+**Robots: where they go, in more depth.** A record 603,307 industrial robots were installed worldwide in 2025 (up 11%), with 5.08M in operation; IFR forecasts 655,000 installs in 2026 and 806,000 in 2029. China installed 354,226 (up 20%), and Chinese brands now supply more than half of China's own installs; the US (38,428, up 12%) passed Japan for second place; Europe fell 14% [src-20260924-28b59b]. US robot density is 307 per 10,000 manufacturing workers (8th in the world), against 1,220 in South Korea and 449 in Germany [src-20260618-c903cc]. _Meaning [inference]:_ the US is under-automated relative to peers, and the robot hardware itself is increasingly Chinese, so US value capture is more likely in software and in owning the production than in making robots.
+
+**Incumbents are growing on the same demand.** Rockwell's fiscal Q3 2026 sales rose 8% (10% organic) with a 49.5% gross margin and software recurring revenue up high single digits, led by semiconductors, data centers and warehouse automation [src-20260804-0e8130]. Siemens bought Altair (simulation and AI) in March 2025 to deepen its software stack [src-20250326-cc1810]. _Meaning [inference]:_ incumbents capture most of the near-term automation spend; startups need a wedge incumbents do not price (for example, outcome-based pricing).
+
+**What buyers say they will spend.** In NAM's Q3 2026 survey, 78.9% of manufacturers were positive, the highest since 2022, but they expect capex growth of only 2.6% over the next year and 80.8% name raw-material costs as their top problem; 63.0% plan to import industrial machinery [src-20260914-b4d55c]. Manufacturing job openings were 522,000 in August 2026 against 432,000 before the pandemic, and average total pay was $112,261 in 2025 [src-20261013-a7c995]. _Meaning [inference]:_ labor is scarce and dear while capex budgets are tight, which favors tools that pay for themselves out of output rather than up-front licenses.
+
+**How much the technology can move costs.** BCG models factory-of-the-future technology (automation and physical AI) raising productivity by up to 60% and cutting labor 30–60% in some plants, with the US leading on readiness; but it finds greenfield aerospace and defense still favors China, and tariffs can blunt the push to invest [src-20260528-a1c5d1]. Robot learning is far from production reliability: about 59–66% success on short tasks versus the 99.9%+ factories need [src-20260904-267293]. _Meaning [inference]:_ the near-term gains come from control and scheduling software on existing equipment, not general-purpose robots.
+
+**Why process plants pay for throughput.** In process industries the plant is the cost: chemical assets need about 80–85% utilization to earn their cost of capital, and Europe's average is about 74% [src-20260401-e2adb0]. US ammonia plants ran at about 80% in 2025 [src-20260206-c8fbbc], and EU chemical capacity utilization was 75% in mid-2026 [src-20260915-e74614]. When a plant is already sold out (US gas-advantaged plants with Middle East disruption lifting demand for their output [src-20260615-0c9b7e]), each extra percent of throughput or yield is near-pure margin, because feedstock, labor and capital are already paid for [inference]. Where plants run below breakeven (much of Europe), better yield lowers cost per ton on the output they do sell [inference]. This is the economic opening for closed-loop control software in chemicals, polymers and biologics.
+
+**Software is where automation value is moving.** Roland Berger expects automation value to shift from hardware to software over 2026–30, with pharma among the strongest end markets [src-20260116-0c4980] (med). Rockwell's growth leaders include life sciences and data centers [src-20260804-0e8130]. _Meaning [inference]:_ the buyers most willing to pay for software control are regulated, high-value process plants (pharma, biologics, specialty chemicals), which is also where a single bad batch is most costly, so trust and validation become the gating factor.
+
+### 8.3 Headwinds, at equal weight
 
 1. **Small factories buy slowly** and churn; budgets are thin [inference].
 2. **Incumbents bundle software** with hardware (Siemens, Rockwell) [src-20250326-cc1810][src-20260804-0e8130].
@@ -1236,19 +1407,19 @@ _What this industry is._ Enabling Software & Robotics covers companies that sell
 4. **Rates and capex caution** reduce equipment budgets (Fed 3.75–4.00%) [src-20260916-f0c016].
 5. **Value capture:** a vendor never owns the output margin; the owner-operators in chapters 3–6 may build their own software [inference].
 
-### 7.4 Why vertical integration matters here, and where the logic breaks
+### 8.4 Why vertical integration matters here, and where the logic breaks
 
 - Software and robots are the **means** by which the producers in chapters 3–6 win; selling them separately is a smaller, more competitive business [inference].
 - An enabler can still win if it becomes the standard for thousands of small factories (Arda's bet), where owning factories would be too slow.
 - **Where it breaks:** if owner-operators build in-house, the enabler market shrinks to job shops that buy slowly.
 
-### 7.5 What would have to be true, and signals to watch
+### 8.5 What would have to be true, and signals to watch
 
 - Usage-based pricing sticks with small factories. **Watch:** Arda's customer counts and retention (claims only so far).
 - Robot success rates rise above ~90% in real work. **Watch:** benchmark updates.
 - Producers license out their software (Isembard's MasonOS, Mariana's MarianaOS) — a sign enabler value is real.
 
-### 7.6 Macro in more depth
+### 8.6 Macro in more depth
 
 **AI and robotics: enabling, not sufficient.**
 
@@ -1261,7 +1432,7 @@ _What this industry is._ Enabling Software & Robotics covers companies that sell
 
 **Data loops in general:** see 2.13.
 
-### 7.7 How the industry and its supply chain work
+### 8.7 How the industry and its supply chain work
 
 MES (manufacturing execution system) is the software that tracks and directs work on a shop floor. It is the established category.
 - **Who:** Arda (turns CAD design files into work instructions) [src-20261020-914a64]; Mind Robotics (robot AI models; The Verge corrected "spinoff" to "a partner of Rivian, but not a spinoff") [src-20261013-cc78c0]; candidates Rapta, Allus, Faraday. Established: Siemens, which bought Altair and Dotmatics [src-20250326-cc1810][src-20250701-a7fef9], and Rockwell (gross margin 49.5%) [src-20260804-0e8130].
@@ -1272,22 +1443,47 @@ MES (manufacturing execution system) is the software that tracks and directs wor
 - **AI for machine programming and inspection.** CAM is the software that turns a 3D model into machine instructions. CloudNC's CAM Assist writes basic machining plans in minutes inside GibbsCAM, with a human checking each step; CloudNC tests it in its own factory [src-20261021-9769d1][src-20261009-7cafd0]. AI Robotics, a Korean university spinout, inspects welds on 24 production lines in 3 countries, using over 4M data points [src-20261011-a8b14d]. Both sell the same tools to incumbents [inference].
 - **What this means [inference]:** this layer sells "picks and shovels". It may help old shops catch up as much as it helps new ones.
 
-### 7.8 Where AI and automation help
+**Market size (this industry).** Global industrial robot installs worth $18.6B in 2025 [src-20260924-28b59b] (a proxy: robot spend, not software). Automation market growth of 6–7% a year expected to 2030, up to about 9% [src-20260116-0c4980] (med). Closed-loop process-control software (Lumaril's market) has no free market size [gap].
+
+### 8.8 Where AI and automation help
 
 Work instructions from CAD, inventory and kanban automation, vision inspection, robot programming and CAM automation.
 
-### 7.9 Right to win, unit economics and data loop
+### 8.9 Right to win, unit economics and data loop
 
 **Data loop (score 0–3; scale in 2.13):**
 
 | Company | Score | How the loop works | Best evidence / what is missing |
 |---|---|---|---|
 | Arda | 1 | Agent improves with host's design data | [src-20261020-914a64]. Missing: who owns the data |
-| Periodic, CuspAI, Mind | 1 | Lab or factory as a training ground for AI | [src-20260917-1bcb81][src-20261022-37a0ea][src-20260513-83aa83]. Missing: production evidence |
 
-### 7.10 Companies, grouped by label
+### 8.10 Companies, grouped by label
 
 **Enabler**
+
+#### Lumaril (enabler; AI closed-loop control for process plants; fuller profile)
+
+**What it does (company claims, Lumaril site) [src-20261027-d5ba3f].** Lumaril describes four steps: **Connect** to a plant's existing control systems, adding cheap off-the-shelf audio and video sensors with "no rip-and-replace"; **Understand** the plant by building a real-time model of it; **Decide** using classical control plus AI and machine learning; **Act** by changing setpoints (the target temperatures, pressures, speeds and flows operators normally set) and control logic itself, through a safety layer, to raise throughput and yield. Target markets: manufacturing, chemicals, biologics, oil and gas, agriculture and polymers. **Claim (Lumaril):** "We're paid on the production we add." Lux Capital, its investor, describes the product as codifying operator expertise and running deep learning on event-driven plant data for near-real-time decisions [src-20261027-311fa6]. A funding database says it adjusts PLC setpoints, updates control logic and coordinates labor (low) [src-20261003-496a99].
+
+**Team [src-20261027-d5ba3f].** Co-founders Mark Elliot (creator of Palantir Foundry, Palantir's commercial CTO, later CTO at Theorem, earlier a Lockheed engineer) and Ben Duffield (co-creator of Foundry and Foundry group lead). Kim Lear runs operations (ex-Palantir, Zipline); Steve Frost runs business development (ex-Anduril, US Marine Corps). Offices in New York and El Segundo.
+
+**Funding.** Founded 2025; $12M seed led by Lux (low) [src-20261003-496a99][src-20261027-311fa6]. A WSJ Pro headline (Oct 27, 2026; article paywalled, only the free headline and summary read) reports $66M raised at a $400M valuation [src-20261027-79ddd6]. Customers, revenue and measured yield gains are not public [gap].
+
+**Why it is the closest software play to the core thesis [inference].** Our thesis backs companies that own production and sell output, because they keep the margin and the data. Lumaril does not own a plant, but it copies the two things that matter:
+1. **It is paid like a producer.** Normal factory software is sold per seat or per site, whether or not output rises. Lumaril says it earns a share of the extra production it creates. Its revenue rises and falls with the plant's output, like an owner's, and the plant pays nothing if nothing improves. That removes the main reason plants say no to new software.
+2. **It runs the plant, not a dashboard.** Most AI tools advise a human, who may ignore the advice. Closed-loop control means the software itself moves the setpoints, within safety limits, many times a day. So Lumaril is the one learning from every change it makes, which is the data loop our producers get from owning plants (2.9), without buying the plant.
+Together this is "owner economics without owner capital": a capital-light route to the same margin and data. It also lets SPC back the thesis in process industries (chemicals, polymers, biologics) where building a new plant costs hundreds of millions.
+
+**Label: enabler.** It sells to other companies' plants; it does not own production. Tracked outside the core, but the strongest enabler in the primer.
+
+**Bear case.**
+- **No plant, no moat on the asset.** The plant owner can end the contract, and owns the physical capacity and the customer [inference].
+- **Strong incumbents.** Honeywell, AspenTech (Emerson) and Emerson already sell advanced process control (APC) and optimization into the same chemical and refining plants, with decades of installed base [inference].
+- **Trust is the gate.** Plants rarely let outside software change setpoints in closed loop; one safety incident or off-spec batch can end a deployment. Winning that trust takes years per site [inference].
+- **Attribution fights.** Outcome pricing needs agreement on what output would have been without Lumaril; feedstock, weather and demand changes make that disputable [inference].
+- **Early.** Founded 2025; no public customer results [src-20261003-496a99].
+
+**Next step [inference].** Ask for one plant's before/after throughput and yield, how the baseline is set for pricing, how closed-loop control was approved by the plant's safety team, and the share of revenue that is outcome-based today.
 
 #### Arda (factory software for manufacturing engineers; enabler / software; does not fit, competitor and comparable)
 
@@ -1304,20 +1500,23 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 **Mentions:** CloudNC (CAM automation) and GrayMatter (robot programming) — not profiled this run.
 
-### 7.11 Bear case, at equal weight
+### 8.11 Bear case, at equal weight
 
 - Siemens and Rockwell bundle and own the installed base [src-20250326-cc1810][src-20260804-0e8130].
 - Producers may build in-house (Hadrian Opus, Isembard MasonOS, Mariana MarianaOS).
 - Robot-learning reliability 59–66% [src-20260904-267293].
+- Lumaril-style closed-loop control must beat Honeywell, AspenTech and Emerson APC and win plant trust (8.10).
 
-### 7.12 Key sources
+### 8.12 Key sources
 
 - IFR World Robotics [src-20260924-28b59b][src-20260618-c903cc]; robot-learning benchmark [src-20260904-267293]
 - Rockwell [src-20260804-0e8130]; Siemens [src-20250326-cc1810]; Deloitte outlook [src-20251112-669746]; BCG [src-20260528-a1c5d1]
 - BEA/JOLTS openings [src-20261013-a7c995]; ISM [src-20261008-89df84]; NAM [src-20260914-b4d55c]
+- Roland Berger automation 2026 [src-20260116-0c4980]
+- Lumaril [src-20261027-d5ba3f][src-20261027-311fa6][src-20261003-496a99][src-20261027-79ddd6]
 - Arda [src-20261020-a1e174][src-20261020-914a64][src-20261020-8d7abc]
 
-## 8. Competition and incumbents
+## 9. Competition and incumbents
 
 **How to read this.** "Incumbents" are the established, mostly public, companies. Their margins are the bar a startup must beat.
 
@@ -1346,7 +1545,7 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 **What this means [inference].** The real threat is not Xometry's software. It is approved suppliers like PCC automating while keeping their approvals, and primes keeping critical work in-house. Survivors found a repeat defense buyer before spending heavily; sellers of equipment did not compound.
 
-### 8.1 The right to win: versus job shops, contract manufacturers and overseas
+### 9.1 The right to win: versus job shops, contract manufacturers and overseas
 
 **The question.** Why would a buyer use a new AI-native producer instead of a local job shop, a contract manufacturer (CM, a firm that builds to someone else's design), or a cheaper overseas supplier?
 
@@ -1366,7 +1565,7 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 **What this means [inference].** New producers win on responsiveness, documentation and greenfield design, in markets protected from China. They do not win on price alone, and incumbents are closing the automation gap.
 
-## 9. Customers and repeat orders
+## 10. Customers and repeat orders
 
 **The short version.** Buyers pay extra for speed on urgent and prototype parts. Proof of repeat, high-volume orders is thin.
 
@@ -1400,7 +1599,7 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 **What this means [inference].** Paid demand today is speed on prototypes and early low-rate production (LRIP). Rate production at scale is not yet proven.
 
-### 9.1 How buyers qualify suppliers and reorder, step by step
+### 10.1 How buyers qualify suppliers and reorder, step by step
 
 - **The ladder.** An Anduril engineer describes it: first "a PO for six months ... If they can do it well, giving another PO for two years" [src-20250623-5bc67c]. Prototypes are bought on lead time, "not price at all"; production is bought on price [src-20250623-5bc67c]. Each change of design, material, source, process or location, or a 2-year gap, means repeating the first-article inspection (FAI) [src-20190801-e81d7b].
 - **Repeat orders are real but small so far.** A Raytheon engineer: Hadrian is approved "for all of our different products" and delivers weekly, "meeting our quota", but spend is "in the tens of thousands ... on purpose" during a probation; "tens of millions" are possible if classified testing is solved. Testing, not machining, is his biggest bottleneck; mechanical parts get output only "1/3 of the way there" [src-20260823-b3713f].
@@ -1413,7 +1612,7 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 - **Other buyer data points.** Ursa Major won $137M in two Navy contracts, but to develop and qualify, not full-rate production [src-20261014-08000a]. Divergent's three FY25 Air Force awards totaled about $3.64M, all development-scale [src-20250924-22c5ee]. GM Defense delivered PAC-3 parts 22 days after contract [src-20261019-409403].
 - **What this means [inference].** Reorders come in a ladder: probation, small repeat POs, then multi-year deals. Most new producers are still on the lower rungs.
 
-## 10. Capital and financing
+## 11. Capital and financing
 
 **How it works.** Venture equity is the most expensive money because investors want large returns. Loans are cheaper but need assets or contracts behind them. So equity usually pays for the first plant, and loans and government money pay for the rest.
 
@@ -1429,7 +1628,7 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 **What this means [inference].** Equity pays for software, team and plant #1; banks, OSC and project finance pay for plants #2 and on. A company without contracts is stuck funding plants with expensive equity.
 
-## 11. Policy tracker (newest first)
+## 12. Policy tracker (newest first)
 
 **How to read this.** Section 2.3 explains each tool. This is the dated list, in plain words.
 
@@ -1468,31 +1667,34 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 **What this means [inference].** Policy now pays for demand (multi-year orders, purchase commitments), not just factories. These are the first tools that could turn prototype wins into multi-year orders.
 
-## 12. Companies worth attention
+## 13. Companies worth attention
 
 **How to read this.** "Target" means worth a diligence call now. "Candidate" means worth watching. "Benchmark" means too expensive for SPC but useful for comparison. "White space" means a gap with no strong company yet.
 
 **Targets.**
-- **Senra** (fabrication): Series B size, real customers, its own software. Next: founder call; ask for first-pass yield and repeat-order data.
-- **Freeform** (precision parts): the best-evidenced loop; $179M valuation. Next: customer reference calls (Boeing, DIU).
-- **Isembard** (precision parts, franchise): a capital-light Hadrian variant; valuation undisclosed; Thales' procurement chief is skeptical [src-20251110-84b67e]. Next: economics per franchise, and how primes would audit franchised sites.
+- **Senra** (Parts Manufacturing; fabrication): Series B size, real customers, its own software. Next: founder call; ask for first-pass yield and repeat-order data.
+- **Freeform** (Parts Manufacturing; precision): the best-evidenced loop; $179M valuation. Next: customer reference calls (Boeing, DIU).
+- **Isembard** (Parts Manufacturing; precision, franchise): a capital-light Hadrian variant; valuation undisclosed; Thales' procurement chief is skeptical [src-20251110-84b67e]. Next: economics per franchise, and how primes would audit franchised sites.
+
+**Enabler worth attention.**
+- **Lumaril** (enabler; AI closed-loop control for process plants): built by the creators of Palantir Foundry; a WSJ headline reports $66M raised at a $400M valuation [src-20261027-79ddd6]. It is the closest software play to our thesis because it is **paid on the production it adds** (company claim) and **runs the plant's controls itself** in closed loop, so it earns like an owner and learns from every change it makes, without owning the plant [src-20261027-d5ba3f] [inference]. Bear: no plant; Honeywell, AspenTech and Emerson APC incumbents; plants must trust it to move setpoints. Next: one plant's before/after yield and how the pricing baseline is set. Full profile: 8.10.
 
 **Candidates.**
-- **Fabri:** castings are about 40% of munitions (claim, Power) [src-20260921-876080]; backed by RTX and Lockheed. Next: a second source.
-- **1872:** cheap entry, energy skids. Next: track to its first repeat order.
-- **Atomic Industries:** AI-designed molds plus its own presses; claims multi-year part contracts (section 5.10). Next: a buyer call to confirm repeat programs.
-- **Machina:** depot demand. Next: verify valuation.
+- **Fabri** (Parts Manufacturing; castings): castings are about 40% of munitions (claim, Power) [src-20260921-876080]; backed by RTX and Lockheed. Next: a second source.
+- **1872** (Parts Manufacturing; fabrication): cheap entry, energy skids. Next: track to its first repeat order.
+- **Atomic Industries** (Parts Manufacturing; precision): AI-designed molds plus its own presses; claims multi-year part contracts (section 5.10). Next: a buyer call to confirm repeat programs.
+- **Machina** (Parts Manufacturing; precision): depot demand. Next: verify valuation.
 
 **Benchmarks.** Hadrian, Divergent, SendCutSend, Mariana and Amca are priced at $1B-$7.9B. (Oct 26 run: no new candidates added; Mariana's project-level financing [claim, src-20261024-c53370] lowers its equity need but doesn't change its tier.) Periodic, CuspAI, Mind and Arda are priced before product; watch for revenue.
 
 **White space.**
-- Software for mid-size metal distributors: about 9,400 sites, with the top 50 holding half [src-20251201-4b732d]. We passed on Nox.
-- Forgings: the Pentagon flags castings and forgings as hard to enter [src-20220215-45c353]; no AI-native forger is in the repo.
-- Inspection as a service: inspection takes as long at Hadrian as at legacy shops [src-20260908-ed94f0].
+- Metals: software for mid-size metal distributors: about 9,400 sites, with the top 50 holding half [src-20251201-4b732d]. We passed on Nox.
+- Parts Manufacturing, forgings: the Pentagon flags castings and forgings as hard to enter [src-20220215-45c353]; no AI-native forger is in the repo.
+- Parts Manufacturing, inspection as a service: inspection takes as long at Hadrian as at legacy shops [src-20260908-ed94f0].
 
-**What this means [inference].** SPC's entry is a Series B in fabrication or a franchise-style variant, not the expensive leaders.
+**What this means [inference].** SPC's entry is a Series B in Parts Manufacturing (fabrication or a franchise-style variant), with Lumaril as the one enabler worth a call, not the expensive leaders.
 
-## 13. Bottom line
+## 14. Bottom line
 
 **Five conclusions.**
 1. The category is real, but proven demand is narrow. Most buyers value flexibility, scale and total program cost over speed [src-20260921-876080]. Paid demand is speed on prototypes and low-rate work. These startups hold 2-10% of spend at the primes we spoke to [src-20260802-ef6506][src-20260802-36d46c].
@@ -1537,7 +1739,7 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 **What this means [inference].** Back capital-light owner-operators where buyers already pay for speed and qualification. Do not pay software prices for job-shop economics until someone shows the loop.
 
-### 13.1 The bear case in one list
+### 14.1 The bear case in one list
 
 - **Repeat orders are still tiny.** Hadrian's Raytheon spend is "in the tens of thousands" during probation [src-20260823-b3713f]; Divergent's FY25 Air Force awards were about $3.64M [src-20250924-22c5ee]; Mach's federal awards are R&D-scale [src-20260630-fdc552].
 - **Customers churn when work gets cheaper.** FlyX left Hadrian over cost as drone work became "less stringent" [src-20260806-3a2ec7].
@@ -1614,12 +1816,15 @@ Work instructions from CAD, inventory and kanban automation, vision inspection, 
 
 - Hadrian revenue: two low-confidence figures conflict; get a primary number.
 - Startup gross margins: none disclosed; ask Senra, SendCutSend.
-- Refining TAM and economics: no free source found.
-- Fabrication TAM: none; Census CBP gives counts and payroll only [src-20250626-23f6d9]. Next: 2022 Economic Census receipts by NAICS 3323/3327.
+- Minerals: refining TAM and economics: no free source found.
+- Parts Manufacturing: fabrication TAM: none; Census CBP gives counts and payroll only [src-20250626-23f6d9]. Next: 2022 Economic Census receipts by NAICS 3323/3327.
 - AI/robotics cost decline over 24 months: no source.
 - Golden Dome amounts: the NDAA funding tables reference Golden Dome funds; size and recipients unconfirmed [src-20251218-f0d6ef]. Freeform Skyfall go-live: unconfirmed.
 - ABL use by startups: none evidenced.
 - Exits (Q14): no comparable acquisition above $100M in repo.
+- Chemicals: no clean free US revenue TAM; ammonia volumes only [src-20260206-c8fbbc].
+- Materials: no market size for materials R&D or US cathode demand in dollars.
+- Enabling Software: Lumaril customers, revenue and measured yield gains are not public; WSJ article body is paywalled (headline only) [src-20261027-79ddd6].
 
 ## Appendix C. Source coverage (ledger, 2026-10-25)
 
@@ -1628,7 +1833,7 @@ Per-source ledger: `insights/exports/primer-ledger.csv`; reading notes kept outs
 | Bucket | Read status |
 |---|---|
 | Expert calls (all 28 on-thesis) | Read in full, line by line |
-| Podcasts | All 102 read in full (40 earlier, 62 in v3). v5 re-reviewed every reading note (expert calls, podcasts, cited and uncited sources) and added sections 2.5, 5.20, 2.13, 8.1, 9.1, 9A.1 and 12.1 (v5 numbering; now 2.15, 5.x profiles/5.7, 6.1, 7.1, 8.1, 10.1, 13.1). Not citable: 3 files with no transcript (e5f014, da4c3f, 725014). Not cited: one unverified secondary summary (a51ab2) and two duplicates (aafb71 = 8f85ca; dad375 = 876080). Excluded R&D labs (Periodic, CuspAI, Radical) used only for data-loop context |
+| Podcasts | All 102 read in full (40 earlier, 62 in v3). v5 re-reviewed every reading note (expert calls, podcasts, cited and uncited sources) and added sections 2.5, 5.20, 2.13, 9.1, 10.1, 9A.1 and 12.1 (v5 numbering; now 2.15, 5.x profiles/5.7, 6.1, 7.1, 8.1, 10.1, 13.1). Not citable: 3 files with no transcript (e5f014, da4c3f, 725014). Not cited: one unverified secondary summary (a51ab2) and two duplicates (aafb71 = 8f85ca; dad375 = 876080). Excluded R&D labs (Periodic, CuspAI, Radical) used only for data-loop context |
 | Sources the primer cites (~200) | Read in full, except: the FY26 NDAA (about 517K words) checked against every primer claim plus the manufacturing, munitions, reshoring and tariff sections; the DIU guidebook and the boilerplate parts of 10-Q/10-K filings (e.g. ATI) skimmed |
 | On-thesis sources not cited (~390) | Read in full; 99 turned out to be a title or placeholder only. One 589K-character academic review of self-driving labs not read (general background) |
 | No real text captured | Fast Radius (SEC block page), VulcanForms layoffs, Siemens (menu JSON) and other stubs: claims citing them were removed |
@@ -1659,20 +1864,6 @@ Honest limits: the long filings above were not read line by line. Podcast claims
 
 Chemistry's public data (patents, papers) mostly records successes and leaves out failed reactions. A company that runs its own robots captures every run, including failures, in a form a model can learn from. Lightspeed's Warp memo makes exactly this argument: each run yields both chemistry results and robotics and process data, used to run the lab better and to choose what to make next [src-20261022-b542e2]. Cronin says Chemify has converted a few hundred thousand published reactions into its chemical programming code and versions every run [src-20250724-0f42f3]. [inference] The loop is real only if volume is high and the data stays with the operator. Pharma customers often keep the data rights, the same problem CuspAI faces (4A.6).
 
-**Materials: bear case, at full weight**
-
-1. **No AI-designed material is clearly in volume commercial sale yet** [inference, from sources]. Orbital targets 2027 [src-20260528-375aec]. Kemira's PFAS sorbent and RAI-939 are at pilot or test-article stage [src-20260521-f4b51b][src-20260807-52b690].
-2. **The science record is mixed.**
-   - A-Lab's claim of 41 new materials was challenged ("no new materials were discovered") [src-20240124-513fd9].
-   - For GNoME, the 736 independent syntheses are under 0.2% of the 380k predicted-stable crystals [src-20231129-1dc706].
-   - MatterGen is limited to about 20 atoms per unit cell [src-20261022-3e2a9d].
-3. **Synthesis and qualification, not discovery, are the bottleneck.** AI speeds up the cheap part.
-4. **Buyers have small budgets and refuse to share IP.** R&D software sells in the hundreds of thousands; majors refuse royalties [src-20260913-3ad55e][src-20261016-29997e].
-5. **The models are commodities:** open models and Genesis.
-6. **Valuations far ahead of revenue:** CuspAI ($450M raised), Periodic ($300M seed), Lila (talks at about $8.5B, reported), none with disclosed material revenue [inference].
-7. **Legal and safety issues:** the Royal Society review notes that patent law recognizes only human inventors, and flags safety and cyber risks of autonomous labs [src-20250716-e94853].
-8. **Market size:** the lab-automation market is about $8–9B today, perhaps $20–24B later [src-20260709-1159ab] (low). That is small next to manufacturing.
-
 **Best things for Brooke to read and listen to (chemicals)**
 
 1. **Y Combinator podcast, "Inside the startup reinventing America's trillion-dollar chemical industry" (Solugen, Mar 2026)** — https://www.ycombinator.com/library/NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry — The best 13-minute intro to a vertically integrated AI- and bio-enabled chemical producer.
@@ -1686,33 +1877,12 @@ Chemistry's public data (patents, papers) mostly records successes and leaves ou
 9. **Manufacturing Chemist, "Where Zymergen went wrong"** — https://manufacturingchemist.com/where-zymergen-went-wrong-a-biomanufacturing-perspective-for-synthetic-biology-204177 — A short lesson: scale-up and customer qualification kill companies, not discovery.
 10. **Industrial AI Podcast, "Max Welling's CuspAI" (Feb 2025)** — https://podwise.ai/episodes/2974143 — The materials-design view from CuspAI's co-founder (listed, not yet transcribed into the repo).
 
-**Materials discovery, in plain English**
-
-A new material (an alloy, a battery cathode, a catalyst, a coolant, a magnet) normally takes 10–20 years and tens of millions of dollars to go from idea to qualified product. Discovery labs try to compress that with three tools:
-1. **Generative and predictive models.** Software proposes candidate structures and predicts their properties, so you test hundreds instead of millions. Examples:
-   - Microsoft's MatterGen is a diffusion model trained on about 608k stable materials. It generates crystal structures to a target property [src-20250116-63e766][src-20261022-3e2a9d].
-   - Google DeepMind's GNoME predicted 2.2M crystals, about 380k of them stable. Outside labs have since made 736 of them [src-20231129-1dc706].
-   - Meta's open OMat24 dataset holds more than 110M quantum-mechanics (DFT) calculations [src-20130101-5e5543].
-2. **Self-driving labs (SDLs).** Robots mix, synthesize and test the candidates, and the results feed back into the model. Examples are Berkeley's A-Lab, Argonne's Polybot [src-20250217-059784] and Radical AI's alloy lab.
-3. **The closed loop.** Model proposes, robot makes and measures, model updates. The claim is that each turn makes the next guess better, so the lab gets faster over time. This is the materials version of the "data loop" in section 6.
-
-**The key point [inference]:** models are becoming free. GNoME, MatterGen, OMat24 and the Genesis Mission platform are all public or close to it. The scarce assets are (a) physical throughput, meaning how many real samples you can make and test, (b) data that is proprietary and tied to real-world performance, and (c) the ability to scale up and qualify a material with a customer. That is where the right to win sits.
-
 **Chemicals: bull case**
 
 - **Real, dated policy pull** for US-made APIs and KSMs, through tariffs, BIOSECURE and the onshoring EO [src-20260402-ecae19][src-20260110-4db409].
 - **Europe's retreat leaves supply gaps** in specialty and intermediate chemicals that customers must re-source [src-20260115-ec35af].
 - **Process innovation is a real cost lever:** a 96% versus 60% yield claim, if true at scale, is a structural advantage (Solugen's claim) [src-20260320-f90e80].
 - **Owner-operated robotic labs** may produce the proprietary failure data that public chemistry lacks [src-20261022-b542e2].
-
-**Materials: the map of business models**
-
-| Model | What they sell | Examples | Producer test? |
-|---|---|---|---|
-| 1. Software / SaaS | Data platform and AI tools to the R&D teams of chemical and materials companies | Citrine, Uncountable, Kebotix (status unclear), Albert Invent, Microsoft Discovery | No |
-| 2. Discovery-as-a-service / IP | Custom discovery projects, licensing and royalties, with partners making the material | CuspAI, Periodic, Lila (materials arm), Aionics, Dunia | No |
-| 3. Lab plus government / partner contracts | Its own SDL; paid by defense and labs, then licensing or making specialty material | Radical AI | Partly (makes alloys at small scale) |
-| 4. Owner-producer | Designs the material **and** makes and sells the product | Orbital Industries, Mitra Chem | Yes, closest to the thesis |
 
 **Materials: unit economics and who pays**
 
@@ -1848,7 +2018,7 @@ A new material (an alloy, a battery cathode, a catalyst, a coolant, a magnet) no
 - **Claim (Freeform):** a new platform, "Skyfall", "scheduled to go live in the first half of 2026", with 25x capacity and thousands of kg of parts a day [src-20260220-348ad9]. No source confirms it went live.
 - **How the loop works:** cameras watch the molten metal pool every microsecond; chips process the images; models adjust the printer live [src-20241024-7f1c2e]. It runs GPU clusters on site [src-20260219-2125d7].
 - **Buyers:** hundreds of mission-critical parts a week, customers undisclosed [src-20260219-2125d7]; a fast prototype contract (OTA) from DIU, the Pentagon's tech-buying unit [src-20260901-6e197d].
-- **Bear:** metal 3D printing has the worst failure record in this theme (Velo3D, Markforged; section 8). Freeform's claims are company-only and Skyfall is unconfirmed.
+- **Bear:** metal 3D printing has the worst failure record in this theme (Velo3D, Markforged; section 9). Freeform's claims are company-only and Skyfall is unconfirmed.
 - **What this means [inference]:** the clearest live feedback loop in precision parts, and small enough for SPC.
 
 **Amca**
@@ -1904,16 +2074,6 @@ A new material (an alloy, a battery cathode, a catalyst, a coolant, a magnet) no
 
 - **Money and policy:** a $213.6M DOE loan guarantee for Bioforge Marshall in Minnesota (three modular trains of organic acids, 56 permanent jobs). It is **conditional**: it funds only once legal, technical and financial conditions are met. Production was scheduled for fall 2025 [src-20240613-2df5d6]. A web summary says Solugen broke ground in Marshall in April 2026 and partnered with American Rheinmetall Munitions on energetics inputs (low; not verified in a primary source this run).
 
-**Orbital Industries**
-
-- **Commercial status:** a multi-year AWS partnership. The fluid is in qualification with chip makers, a contract manufacturer is lined up, and the target is to ship alongside 2027 GPUs [src-20260528-375aec].
-- **Claims:** **Claim (CEO Godwin):** the traditional way would take "10 years and $100M" [src-20260528-375aec]. **Investor view (Plural):** there is "no AlphaFold moment for materials," so value comes from owning the product [src-20260528-2c20ee].
-- **Licensing:** it licensed its CurieOS platform to BASF [src-20261022-edad3e].
-
-**Mitra Chem**
-
-- **Earlier reporting:** TechCrunch on generative AI in battery development [src-20231014-d1a13f].
-
 **Warp Sciences**
 
 - **Money:** emerged Oct 22, 2026 with a $215M Series A led by Lightspeed, at an $865M valuation according to Weil [src-20261022-40bbe0].
@@ -1923,6 +2083,16 @@ A new material (an alloy, a battery cathode, a catalyst, a coolant, a magnet) no
 **Chemify**
 
 - **Claims (Cronin):** "AWS for chemistry"; makes complex molecules for drug discovery first, then fragrances, paints, catalysts and monomers; plans Chemifarms near customers for supply-chain security [src-20250724-0f42f3].
+
+**Orbital Industries**
+
+- **Commercial status:** a multi-year AWS partnership. The fluid is in qualification with chip makers, a contract manufacturer is lined up, and the target is to ship alongside 2027 GPUs [src-20260528-375aec].
+- **Claims:** **Claim (CEO Godwin):** the traditional way would take "10 years and $100M" [src-20260528-375aec]. **Investor view (Plural):** there is "no AlphaFold moment for materials," so value comes from owning the product [src-20260528-2c20ee].
+- **Licensing:** it licensed its CurieOS platform to BASF [src-20261022-edad3e].
+
+**Mitra Chem**
+
+- **Earlier reporting:** TechCrunch on generative AI in battery development [src-20231014-d1a13f].
 
 **Radical AI**
 
@@ -1959,4 +2129,4 @@ A new material (an alloy, a battery cathode, a catalyst, a coolant, a magnet) no
 - **Business model:** usage-based software pricing. For customers with ITAR (export-controlled) data, Arda deploys inside the customer's own systems with forward-deployed engineers, the Palantir playbook [src-20261020-a1e174].
 - **Plan:** "Act 1" is software for manual assembly lines. "Act 2" is robotic lines that reconfigure as fast as human workers when the design changes [src-20261020-a1e174].
 - **Team and money:** founded 2025 by Bob McGrew (Palantir's second engineer, later OpenAI Chief Research Officer). $72M seed (Accel, Founders Fund), then a $160M Series A at $1.5B co-led by Altimeter, Accel and Khosla; $232M total [src-20261020-914a64][src-20261020-9be48d]. Accel says complex engineering workflows run "more than 10x faster" (claim) [src-20261020-8d7abc]. Its investor admits "the price is steep today" [src-20261020-878aa9].
-- **Bear case (equal weight):** one customer (Anduril), and every number is from Arda, Anduril or Arda's investors; there is no independent buyer call yet. It sells into the installed base of Siemens, Rockwell and other MES vendors (section 8). As software it does not own production data unless the host lets it, the same weakness as other enablers (section 1). "Act 2" robotic lines are unbuilt.
+- **Bear case (equal weight):** one customer (Anduril), and every number is from Arda, Anduril or Arda's investors; there is no independent buyer call yet. It sells into the installed base of Siemens, Rockwell and other MES vendors (section 9). As software it does not own production data unless the host lets it, the same weakness as other enablers (section 1). "Act 2" robotic lines are unbuilt.

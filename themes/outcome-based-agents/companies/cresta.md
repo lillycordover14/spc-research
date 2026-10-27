@@ -29,6 +29,10 @@ tags:
 - harness
 sources:
 - src-20260618-f36dc6
+- src-20261019-d73f23
+- src-20261013-c9c9c7
+- src-20261024-2dba6a
+- src-20261026-0ef392
 data_quality: Stub from src-20260618-f36dc6; what from the expert call, other fields n/v
 updated: '2026-10-27'
 ---

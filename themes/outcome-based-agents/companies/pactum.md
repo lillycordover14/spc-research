@@ -28,6 +28,8 @@ tags:
 - human-in-the-loop
 sources:
 - src-20260617-937cc1
+- src-20261027-7e9413
+- src-20261021-b65bc4
 data_quality: Stub from src-20260617-937cc1; what from the expert call, other fields n/v
 updated: '2026-10-27'
 ---

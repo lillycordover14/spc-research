@@ -1,41 +1,41 @@
-# Index stats — AI-Enabled Vertically Integrated Industries — 2026-10-27
+# Index stats — Vertically Integrated Industries — 2026-10-27
 
-- sources: 1614  | companies: 140 | people: 16
+- sources: 1763  | companies: 154 | people: 16
 
 ## Sources by type
 - alphasense: 3
-- article: 1016
-- dataset: 8
+- article: 1144
+- dataset: 13
 - expert-call: 49
-- filing: 352
-- market-research: 33
+- filing: 353
+- market-research: 36
 - other: 11
 - podcast: 107
-- website: 35
+- website: 47
 
 ## Sources by status
 - reviewed: 1
-- summarized: 796
-- unread: 817
+- summarized: 835
+- unread: 927
 
 ## Sources by layer
-- precision-parts: 119
+- precision-parts: 124
 - materials-rd: 93
-- factory-ai: 85
-- fabrication: 84
-- metals-supply: 74
+- factory-ai: 90
+- fabrication: 88
+- metals-supply: 75
+- chemicals: 46
 - adjacent: 32
-- chemicals: 19
 
 ## Companies by layer / status
-- adjacent: 72
+- adjacent: 85
 - fabrication: 9
-- factory-ai: 21
+- factory-ai: 22
 - materials-rd: 14
 - metals-supply: 11
 - precision-parts: 13
 
-- status=candidate: 72
+- status=candidate: 86
 - status=competitor: 1
 - status=excluded: 20
 - status=incumbent: 31
@@ -44,17 +44,17 @@
 
 ## Most-mentioned companies
 - hadrian: 77
+- figure: 69
+- tar: 67
 - xometry: 64
-- tar: 57
-- figure: 56
 - machina-labs: 54
 - proto-labs: 54
-- saronic: 47
+- saronic: 48
 - re-build-manufacturing: 40
+- tulip: 38
+- deterrence: 35
 - arda: 34
 - firestorm-labs: 34
 - divergent: 33
+- vulcan-elements: 33
 - sendcutsend: 33
-- deterrence: 32
-- vulcan-elements: 32
-- mind-robotics: 31

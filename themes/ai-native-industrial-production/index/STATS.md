@@ -1,6 +1,6 @@
 # Index stats — Vertically Integrated Industries — 2026-10-27
 
-- sources: 1824  | companies: 160 | people: 16
+- sources: 1828  | companies: 160 | people: 16
 
 ## Sources by type
 - alphasense: 3
@@ -10,21 +10,21 @@
 - filing: 354
 - market-research: 40
 - other: 21
-- podcast: 107
+- podcast: 111
 - website: 53
 
 ## Sources by status
 - reviewed: 1
-- summarized: 896
+- summarized: 900
 - unread: 927
 
 ## Sources by layer
 - precision-parts: 130
-- materials-rd: 112
+- materials-rd: 114
 - fabrication: 91
 - factory-ai: 90
-- metals-supply: 88
-- chemicals: 67
+- metals-supply: 89
+- chemicals: 68
 - adjacent: 32
 
 ## Companies by layer / status

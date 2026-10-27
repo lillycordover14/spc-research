@@ -1,6 +1,8 @@
 # Outcome-based agents and agentic orchestration: VC primer
 
-_Version 1, dated 2026-10-26 (America/Chicago). Built from the oba repo: insights/ (framework, evidence-by-question, weekly/2026-W44, bull-bear, comps, market-sizing, startup-landscape, labs-vs-startups, timeline, expert-calls), companies/ cards, and the sources/ records named in Appendix C. Free sources only, plus the AlphaSense expert calls already filed in the repo. Reading log and per-source notes: insights/primer-notes/._
+_Version 2, dated 2026-10-27 (America/New_York). v1 was 2026-10-26. Built from the oba repo: insights/ (framework, evidence-by-question, weekly/2026-W44, bull-bear, comps, market-sizing, startup-landscape, labs-vs-startups, timeline, expert-calls), companies/ cards, and the sources/ records named in Appendix C. Free sources only, plus the AlphaSense expert calls filed in the repo. Reading log and per-source notes: insights/primer-notes/._
+
+**What changed in v2.** 17 more AlphaSense expert calls, each read in full (list in Appendix C). Main effects: buyer calls now exist for six of the ten picks (Didero, Magentic, Amperos, Actively, Omilia, Ema) and for Skan; Decagon and Fin have buyer-side pricing; the pricing table in Q2 grows from 10 to 18 rows; new evidence that buyers keep CX vendors interchangeable; SI and Microsoft calls on token cost. The verdict is unchanged; the case for outcome pricing outside CX is weaker (see Q2).
 
 **Start here.** This primer is for an investor who writes Series B to D checks and is new to AI agents. Read it in this order:
 1. Section 1 (the big picture) tells you what an "agent" is, who sells them, who buys them and how big the money pools are.
@@ -40,7 +42,7 @@ A count of source lines is not a vote of buyers. It shows where the evidence kee
 
 **Top 10 things that shaped the view.**
 
-1. **"Outcome" usually means a transaction, not a result.** Bain says most outcome pricing (per resolution, per lead) is really output pricing [src-20260810-21fe8d], and only about 10% of AI-native and hybrid vendors use outcome pricing at all (Bain, as cited by fileAI) [src-20261012-e6c2b7]. In the calls, Sierra bills Innovaccer by "platform and then per minute" [src-20260717-eb6872], Crescendo's "outcome" contracts were per contact, "not per resolution" [src-20260724-865e53], Pace bills an annual platform fee plus per-claim usage at a UnitedHealth unit [src-20260811-852c57], and Amperos describes a "volume-based" subscription [src-20261025-db0c8b]. Decagon says most customers choose per conversation [src-20241210-0d932d].
+1. **"Outcome" usually means a transaction, not a result.** Bain says most outcome pricing (per resolution, per lead) is really output pricing [src-20260810-21fe8d], and only about 10% of AI-native and hybrid vendors use outcome pricing at all (Bain, as cited by fileAI) [src-20261012-e6c2b7]. In the calls, Sierra bills Innovaccer by "platform and then per minute" [src-20260717-eb6872], Crescendo's "outcome" contracts were per contact, "not per resolution" [src-20260724-865e53], Pace bills an annual platform fee plus per-claim usage at a UnitedHealth unit [src-20260811-852c57], and Amperos describes a "volume-based" subscription [src-20261025-db0c8b]. Decagon says most customers choose per conversation [src-20241210-0d932d]. The v2 calls add more of the same: Magentic at IKEA is "just consumption-based" with no share of savings [src-20260209-7ec831], Didero charges "a platform-based fee with some kind of kickers in terms of volume" [src-20260617-937cc1], and Cresta charges "Primarily ... the number of minutes" with outcome charging as an option [src-20260618-f36dc6].
 2. **Where outcome pricing exists, it is real money.** Zendesk's CEO says it passed $200M of AI ARR on per-resolution billing [src-20260805-5a9fa7]. Sierra went from $100M to $150M ARR in one quarter [src-20260309-78d5a1]. Intercom's Fin, priced at $0.99 per resolution, was bought by Salesforce for about $3.6B [src-20260615-74b583] [src-20260910-2cf2eb].
 3. **The vendor grades its own homework.** Zendesk uses its own large language model (LLM) to decide whether a ticket was resolved [src-20250806-3921b6]. A Sierra buyer could not see how "resolved" was defined and audited it himself [src-20260318-033caf]. No independent auditor shows up in public sources (W44).
 4. **Real resolution rates sit below the headlines.** Fin resolves 30% to 40% at Smartly.io [src-20260326-b3dd2d] against a 76% average Salesforce cites [src-20260910-2cf2eb]. Sierra runs at about 60% to 65% at two buyers [src-20260318-033caf] [src-20260717-eb6872]. An AI-native outsourcer contained 30% to 40% of email [src-20260724-865e53].
@@ -48,7 +50,7 @@ A count of source lines is not a vote of buyers. It shows where the evidence kee
 6. **The prize is labor and outsourcing budgets, not software budgets.** HFS sizes business process outsourcing (BPO) at $786B by 2035 with $422B moving to "services-as-software" [src-20260831-73c927]. Gartner puts the whole AI agents and assistants line at $29.2B in 2026 [src-20260916-b894eb].
 7. **The big platforms are taking a large share.** Salesforce added 2,000 paying production customers in a quarter, and half of bookings came from customers "refilling the tank" [src-20260826-580137]. A KPMG ServiceNow partner says "nothing on the market" competes with ServiceNow's AI in IT service management (ITSM) [src-20260911-0742fb].
 8. **Consultancies are the installers, and the labs are paying them.** Anthropic put $100M into SI partners [src-20260312-73c25c], Google a $750M partner fund [src-20260422-72407e], and AWS (Amazon Web Services) a $1B in-house forward-deployed engineer (FDE) team [src-20260730-e4cc74]. An Accenture managing director says OpenAI is training SIs as its "extended arm" [src-20261017-72ec30].
-9. **The labs are moving up into the job itself.** OpenAI's Presence ships a complete customer service agent [src-20260722-a3993b]. A Deutsche Telekom executive calls customer service agents "commoditized" and plans to cut from five vendors to one or two [src-20260727-3b21a8].
+9. **The labs are moving up into the job itself.** OpenAI's Presence ships a complete customer service agent [src-20260722-a3993b]. A Deutsche Telekom executive calls customer service agents "commoditized" and plans to cut from five vendors to one or two [src-20260727-3b21a8]. Chime's former product chief routed tickets across Decagon, Sierra and Maven and says "I would not bet on either" [src-20260518-714b0a].
 10. **Outside customer service, the picks have named customers but little disclosed revenue.** Pace at Palomar resolves over 90% of service cases with no human [src-20261025-c77b6e]. Crosby works for Cursor, Ramp, Tishman Speyer and Starwood [src-20260331-50e583]. None of the ten picks discloses gross margin after inference or a renewal at the same price.
 
 **Evidence on the thesis claims.**
@@ -176,6 +178,9 @@ These are the questions in framework.md and evidence-by-question.md. Each has a 
 - Live examples from buyers: Safelite runs Sierra on claim intake across five regions after a 90-day pilot [src-20260710-37d40b]. Walmart has used Sierra for customer care for about a year [src-20261006-b21c7a]. Rohlik runs "hundreds" of Duvo agents in production [src-20260609-4b024f] (related party, see Q15).
 - A Cognizant practice head: "three to five years before we have really penetrated most of the big enterprises" [src-20250627-297f7b].
 
+- v2 buyer calls: IKEA runs Magentic on 45%-50% of global procurement volume, live since August 2025 [src-20260209-7ec831]. DOCS Dermatology runs about 30%-35% of all claims through Amperos [src-20251016-371c9b]. Notion's Decagon deployment automates above 60% of chat, aiming for 70%-75% [src-20260515-de88a1]. Hitachi has four Ema use cases live with 40%-60% shorter cycle times [src-20260224-8c72f4]. Cresta's voice agents take thousands of calls a day [src-20260618-f36dc6].
+- Against: Discover set a 70%-75% containment target for Omilia and says "We are not there yet" [src-20241114-f0ab80]. A Cognizant practice head says pilot purgatory has ended but full penetration of BPO work takes "five, seven years easily" [src-20260724-b4a442].
+
 **What this means:** production is real but early. Most buyers are one or two use cases in.
 
 ### Q2. Is outcome pricing real or rhetoric?
@@ -196,14 +201,26 @@ How the main contracts actually bill:
 | Crescendo | Per contact, "not per resolution", flat monthly rate plus overage | Vendor | [src-20260724-865e53] |
 | Pace | Platform or implementation fee plus per-claim volume | n/a | [src-20260811-852c57] [src-20260508-386718] |
 | Duvo | Per run or per executed workflow | n/a | [src-20260609-4b024f] [src-20260701-3b0c17] |
+| Fin (former Intercom sales lead) | $0.99 per resolution: customer does not return within 24 hours or marks it resolved | Vendor | [src-20260310-e66bf3] |
+| Fin (Notion buyer) | Per deflection, negotiable to "less than $2" | Vendor | [src-20260515-de88a1] |
+| Decagon at Notion | Per meaningful conversation; same price for headless | Vendor | [src-20260515-de88a1] |
+| Cresta | Per minute, with outcome options (tickets resolved, cards collected) | n/a | [src-20260618-f36dc6] |
+| Magentic at IKEA | Consumption-based enterprise license, no share of savings | n/a | [src-20260209-7ec831] |
+| Didero | Platform fee plus volume kickers (procurement BPO view); about $30,000-$60,000 a year at one small buyer | n/a | [src-20260617-937cc1] [src-20251024-112e5e] |
+| Amperos at DOCS Dermatology | Proportional to claim volume, minimum-transaction contracts | n/a | [src-20251016-371c9b] |
+| Ema at Hitachi | Subscription priced on workflows | n/a | [src-20260224-8c72f4] |
+| Omilia at Discover | Annual license, $500,000 to $1M | n/a | [src-20241114-f0ab80] |
 
 - **Adoption is rising from a low base.** ICONIQ: outcome pricing went from 18% to 23% of AI vendors in six months [src-20260715-e16b49]. Bain: most outcome pricing is output pricing [src-20260810-21fe8d].
 - **Buyers often prefer predictability.** A buyer at a European fintech wanted "a more transactional pricing without outcome commitment" [src-20260708-a5fc76]. In an a16z survey, 27 of 50 buyers preferred work-based credits against 14 for tokens [src-20260827-fb556f]. HubSpot says outcome pricing and trials lengthened sales cycles [src-20260812-1b0bca].
+- **Per-resolution pricing is hard to budget.** A former Intercom sales lead: "there's not a lot of cost control that can be deployed", so buyers put Fin on a subset of conversations [src-20260310-e66bf3]. A Cognizant practice head: consumption pricing "introduces a lot of variability, which CFOs and budget holders don't like" [src-20260724-b4a442].
 - **Sellers' own doubts.** Sierra's CEO calls cost-savings pricing "a temporary drug" once agents are compared to other agents, not to labor [src-20250514-093b59].
 
 **Conflict to note (unit economics).** Sierra is the outcome-pricing benchmark, yet one buyer pays per minute [src-20260717-eb6872] while another pays per verified transaction [src-20260710-37d40b]. Sierra's real pricing varies by account.
 
-**What this means:** ask every company for the contract, not the slide. Count how much revenue is truly per result.
+**Conflict to note (unit economics).** Magentic pitches 1% to 2% spend savings [src-20260923-47e348], but its IKEA contract has no value share [src-20260209-7ec831].
+
+**What this means:** ask every company for the contract, not the slide. Count how much revenue is truly per result. In v2, none of the eight new contracts outside Fin is priced per result.
 
 ### Q3. What blocks production?
 
@@ -213,6 +230,8 @@ How the main contracts actually bill:
 - Crescendo promised deployment in 6 months and took a year; clients would not hand over API keys [src-20260724-865e53].
 - Smartly.io's Fin rollout was delayed "mainly from the vendor side, from the capability side", and accuracy depended on the knowledge base [src-20260326-b3dd2d].
 - Incidents: an agent deleted a production database in 9 seconds [src-20260428-8baab9].
+- Liability keeps the last step human. DOCS Dermatology will not let Amperos submit claims: "If any of the wrong claims go in, who takes a liability?" [src-20251016-371c9b]. A procurement BPO CEO: "I don't have any client that lets it go on its own" (Pactum negotiation) [src-20260617-937cc1]. Didero at Novilla: "It doesn't send any emails without me pressing send" [src-20251024-112e5e].
+- Testing is the hidden cost. Cresta: "if we spent one month to build the AI agent, we might spend two or three or even four months on the test eval" [src-20260618-f36dc6]. Discover's Omilia setup took 6-12 months [src-20241114-f0ab80].
 
 **What this means:** vendors that bring their own engineers and carry the integration work get through. That costs money (section 4).
 
@@ -224,6 +243,9 @@ How the main contracts actually bill:
 - Salesforce says outcome deals are funded by savings or by qualified leads and booked orders [src-20260909-c1900d].
 - Indian IT majors show the swap: Infosys AI revenue is 10.5% of total [src-20261023-db47fe] and TCS annualized AI revenue is $3.1B [src-20261008-ae3125], while their total growth is low single digit (market-sizing.md).
 
+- v2 calls confirm the swap. Notion: the "offshore model cost us 4X to 7X more expensive than what Decagon costs us", and "Our external vendors have gone down maybe 75% over the last two years" while internal support stayed flat [src-20260515-de88a1]. Novilla replaced a consultant who "charged us about $7,000-$12,000 a month" with Didero at "about $30,000-$60,000 a year" [src-20251024-112e5e]. Cognizant: "Cognizant has 100,000 people doing BPO work. Just with us, it's potentially up to 70,000 people that can be automated away" [src-20260724-b4a442].
+- Microsoft takes software budget first: Ascot moved to E7 at a 14.6% discount to E5 list, then spent the saving on Copilot Cowork, "Actually more" [src-20260904-8886b4].
+
 **What this means:** the buyer compares against the outsourcer's invoice. That is a much bigger pool than software, but it is also a price ceiling.
 
 ### Q5. Who builds the harness?
@@ -232,6 +254,8 @@ How the main contracts actually bill:
 - Sierra's FDE lead: "how do you actually guarantee the outcome? And that really is forward-deployed engineering" [src-20260728-aba703].
 - The labs fund SIs: Anthropic $100M [src-20260312-73c25c], Google $750M [src-20260422-72407e]. An Accenture managing director says OpenAI trains SIs as FDEs, its "extended arm" [src-20261017-72ec30].
 - Some enterprises build: Ramp built its Laminar harness in six weeks [src-20261022-ae18f2]; Capital One built a multi-agent platform on open-source models [src-20260416-e6896d]; Airbnb plans its own agent for 2027 [src-20261009-44e09b] (low-med).
+- v2: Chime built its own router across Decagon, Sierra and Maven and keeps data, procedures and tools in its own systems so any vendor can plug in [src-20260518-714b0a]. Hitachi chose Ema over an estimated 12-14 month in-house build, then built later agents itself: "Today, for other use cases, we don't depend on Ema" [src-20260224-8c72f4]. Cresta built its own framework rather than LangChain [src-20260618-f36dc6]. Notion: "the build was a lot more expensive" than Decagon [src-20260515-de88a1].
+- FDE economics: at Palantir, FDE time was "valued at low seven figures per year per forward-deployed engineer, prorated" inside usage contracts of "a few million dollars a year" [src-20260908-547a69]. The same former FDE says ex-Palantir firms resell FDE work as services [src-20260908-547a69].
 - Counter-signal: Gartner predicts 70% of enterprises will abandon agent systems built by vendor FDE teams by 2028 [src-20261012-11ce4a].
 
 **What this means:** the harness itself is not the moat. Whoever owns the deployment relationship and the result is.
@@ -245,6 +269,8 @@ How the main contracts actually bill:
 - AWS: $1B in-house FDE team [src-20260730-e4cc74].
 - Buyers' view: Accenture says "models are such commodities" and model routing is "hardly ever" used in practice [src-20261017-72ec30]. Deutsche Telekom rules out US labs for some EU data [src-20260727-3b21a8].
 
+- v2: a Skan.AI director: "Biggest competition is Anthropic and OpenAI" and "Once Claude figures out how to do this themselves, they don't need us" [src-20260616-48f4c6]. Ascot dropped Claude for Cowork and consolidated on Microsoft over data leakage; Agent 365 "still throws up errors all the time" [src-20260904-8886b4]. A former Palantir FDE: "DeployCo is the forward-deployed arm" of OpenAI [src-20260908-547a69].
+
 **What this means:** a startup selling the agent loop alone is in the labs' path. Selling the finished job, with domain rules and liability, is safer [inference].
 
 ### Q7. Orchestration, context, vertical or services: where does value sit?
@@ -253,6 +279,7 @@ How the main contracts actually bill:
 - Orchestration is squeezed between clouds and systems of record that ship their own agents [src-20260422-1f1ec3]. Microsoft and ServiceNow both pitch the governance "control tower" over everyone's agents [src-20260501-fc687c] [src-20260507-e6c2cd].
 - Context matters: one analytics agent rose from about 30% to about 90% accuracy with business context, then fell to 60% in two months as the context drifted [src-20261020-7922f1]. SAP is buying TechWolf's work-context graph [src-20261001-056aad].
 - A Wawa CIO wants AI to first build "a map" of system interactions, then overlay business context [src-20260402-8d84cb].
+- IKEA sees Magentic as "the system of execution and the system of intelligence that sits on top of the systems of record" [src-20260209-7ec831]. A procurement BPO CEO calls document ingestion "pretty commoditized" and puts workflow depth ahead of the AI layer: "AI is the fourth leg of that table" [src-20260617-937cc1]. Chime: integration is not a differentiator between CX vendors [src-20260518-714b0a].
 - Battery Ventures dissents: "Durable companies will look more like SaaS companies of old with AI superpowers than collections of loosely orchestrated agents" [src-20260123-b88941].
 
 **What this means:** buy the layer that owns a paid-for result or proprietary context, not the plumbing between agents.
@@ -264,6 +291,7 @@ How the main contracts actually bill:
 - ServiceNow: AI annual contract value over $1B in Q2 2026 [src-20260722-d4586c]. A KPMG partner says "nothing on the market" competes in ITSM and big clients are never lost because "The risks are just too great" [src-20260911-0742fb]. The same partner reports seat contraction, "debooks" and price-led growth [src-20260911-0742fb].
 - A Wawa CIO says Now Assist does not "really do a job" and asks "Do I even need to have a ServiceNow platform?" [src-20260402-8d84cb].
 - Zendesk and Intercom beat an AI-native outsourcer because they hold the data, and clients would not give the startup API keys [src-20260724-865e53].
+- Zendesk's own AI is losing the frontline at the clients one BPO director sees: "this number is not a precise number, but I would say 70%" use custom or third-party AI instead (AI-run interview, low-med) [src-20260828-bb2734]. An Accenture VP says ServiceNow and Salesforce customization limits push work to UiPath [src-20260825-747be0].
 - Exposure: personal agents could skip a retailer's support agent by calling its APIs directly, which Walmart calls "permissioning, not engineering work" [src-20261006-b21c7a].
 
 **Conflict to note (right to win).** KPMG says ServiceNow is unbeatable in ITSM [src-20260911-0742fb]; Wawa's CIO is testing alternatives and questions the platform [src-20260402-8d84cb]. One is a partner, the other a buyer with no deployment yet.
@@ -278,17 +306,22 @@ How the main contracts actually bill:
 - Skan AI: $63M Series C; revenue up over 300% year on year; net dollar retention about 150% [src-20260812-4cb1fc] (company claims).
 - Sycamore: $65M seed, no named customers [src-20260330-8d6266]. Workfabric: no customers or funding disclosed on its site [src-20261023-21a6d6].
 
-**What this means:** horizontal names with real customers exist (Ema, Kestra, Skan), but their numbers are press-release numbers. Diligence first.
+- v2 buyer calls: Hitachi spends "a few hundred thousand" a year on Ema but expects growth of only 5%-10% because it now builds its own agents [src-20260224-8c72f4]. Justworks got about $1M of revenue from Actively on around $160,000 of spend, but switching "would be pretty easy" [src-20251126-6d86c8].
+
+**What this means:** horizontal names with real customers exist (Ema, Kestra, Skan), but their numbers are press-release numbers, and the one Ema buyer call shows an expansion cap. Diligence first.
 
 ### Q10. Which vertical players are investable?
 
 **Answer: the picks in section 3 outside customer service. Confidence: med.** Pace (insurance), Amperos (medical billing), Crosby (legal), Didero and Magentic (procurement), Actively (sales), Omilia (voice CX). Others in the repo: Lassie in dental back office, $10M+ annualized revenue and 700+ practices [src-20260603-ce0e80]; Basis in accounting, $100M Series B [src-20260224-b6a4eb].
+
+In CX, Notion's RFP scored Decagon and Sierra "at 94% or 90%-94%" on chat, Ada and Fin 80%-90% [src-20260515-de88a1]. Asked to split $100, a procurement BPO CEO "would put $40 on Didero ... $30 on Magentic ... $20 on Pavus, and ... the balance on Pactum" [src-20260617-937cc1].
 
 **What this means:** vertical names at Series A or B are where price and proof still line up.
 
 ### Q11. What are the unit economics?
 
 **Answer: below software today, with a path up if automation rises. Confidence: med.** See section 4.
+- v2: an Accenture VP prices a task at "$200 or $300 per month" on RPA and "$1,000 or $1,200 per month or even more" with AI [src-20260825-747be0]. Cognizant: "quite a lot of the labor cost will switch to token cost" [src-20260724-b4a442]. Ascot's Cowork tokens went "from 800,000 tokens to 3.3 million" in the first month [src-20260904-8886b4]. Cresta does not resell tokens, so cheaper models are its margin [src-20260618-f36dc6].
 
 **What this means:** underwrite to 50% to 60% gross margin unless a company proves more.
 
@@ -297,6 +330,7 @@ How the main contracts actually bill:
 **Answer: strategic sale to a system of record or contact-center platform. Confidence: med-high.**
 - Fin to Salesforce for about $3.6B [src-20260615-74b583]. NiCE bought Cognigy [src-20260805-3deb2c]. Genesys bought Pinkfish [src-20260902-b6edda]. SAP is buying TechWolf [src-20261001-056aad]. Workday is buying C1.ai [src-20261013-7962db].
 - Decagon hired a bank; ServiceNow was reported in early talks and says it is not interested [src-20261013-6d4b75] [src-20261013-d7909a].
+- Buyers expect consolidation: Justworks thinks "many of the AI tools will come and go" [src-20251126-6d86c8]; Discover expects incumbents to buy standalone contact center AI [src-20241114-f0ab80].
 - Sierra bought Takeoff, a three-person outcome-paid company [src-20260723-bd3453].
 
 **What this means:** buyers exist, but they pay well below private CX multiples.
@@ -308,6 +342,9 @@ How the main contracts actually bill:
 - Walmart: personal agents may mean "fewer calls" to support [src-20261006-b21c7a].
 - Wawa's CIO: "outcome-based agents is going to be very important because they are directly aligned to what we're always trying to achieve" [src-20260402-8d84cb].
 - Safelite: "they're cheap because they're outcome-based" [src-20260710-37d40b].
+- Chime (former CPO): "our main goal was not to save costs"; "We were not cost optimizing, we were visibility optimizing"; "Paying under $25 a case, which is much more than you would pay any human, might make sense in certain situations" [src-20260518-714b0a].
+- Notion: switching CX vendors takes about a month without deep integrations, and "The second year with Decagon was rough" [src-20260515-de88a1].
+- IKEA on Magentic: "there is not specific stickiness" yet [src-20260209-7ec831]. Ascot on Microsoft: token-based Copilot pricing would "absolutely destroy us" [src-20260904-8886b4].
 
 **What this means:** buyers like the idea and will pay, but will cut vendors fast once the category commoditizes.
 
@@ -318,6 +355,10 @@ How the main contracts actually bill:
 - Infosys: headcount from about 400,000 to about 340,000 through attrition replaced by automation; the goal is to "move from a revenue-based company to a margin-based company" [src-20251006-b80311]. "We don't sell AI products" [src-20251006-b80311].
 - OSF Digital: Agentforce work growing over 20% against single digits for core; SIs shifting from time-and-materials to fixed scope or outcome [src-20260804-3aa89c].
 - Accenture: OpenAI is training SIs as FDEs; 90% of workloads run on frontier models [src-20261017-72ec30].
+
+- Cognizant Northern Europe: 60%-70% of BPO work automatable over five to seven years; token cost "not yet a pressing problem for the enterprise clients I see" [src-20260724-b4a442].
+- Accenture VP on UiPath: RPA automated "At the max, 30%-40%"; bots outnumber agents "90% to 10%, or even 95% to 5%" [src-20260825-747be0].
+- Former Palantir FDE: Deloitte and Accenture rate about 80% of Palantir; Indian SIs' coding edge "has mainly eroded because of agentic coding tools" [src-20260908-547a69].
 
 **What this means:** SIs are allies for vendors that make them faster and partners in the sale. Ema already sells through PwC and KPMG [src-20261025-7ef133].
 
@@ -364,7 +405,8 @@ How the main contracts actually bill:
 - **Buyers:** provider groups across 3,000 clinical locations in 50 states, unnamed [src-20260422-d6ae9d].
 - **Claims (Amperos):** works claims worth "nearly $1 billion per year" [src-20260422-d6ae9d]. At seed: 75,000+ calls, $120M collected, over 90% accuracy, 80% lower cost, 3x to 5x productivity, customers earn $5 to $10 per $1 spent [src-20261025-db0c8b].
 - **Pricing:** "subscription pricing model is volume-based" [src-20261025-db0c8b]. Not outcome-priced on the record.
-- **Bear:** no named customers, no buyer call. Payer rules and health record write-back are where defensibility sits in healthcare admin [src-20260111-f1affc], and that is untested here.
+- **Buyer call (v2):** DOCS Dermatology: pilot "increased our productivity by 3X"; about 30%-35% of claims; spend low six figures; contracts carry transaction minimums; humans still submit because of liability [src-20251016-371c9b].
+- **Bear:** one buyer call, no named customers in public sources. Payer rules and health record write-back are where defensibility sits in healthcare admin [src-20260111-f1affc], and that is untested here.
 - **What this means:** a measurable result (dollars recovered) that could be priced per outcome later. Needs customer calls.
 
 ### 3.3 Crosby (legal; AI-native law firm)
@@ -379,8 +421,9 @@ How the main contracts actually bill:
 - **What it does:** an agent layer on top of the enterprise resource planning (ERP) system that handles supplier communication and purchase orders for manufacturers and distributors [src-20260213-3c647d].
 - **Money:** $30M Series A co-led by Chemistry and Headline, with M12 [src-20260212-5fd1e0].
 - **Buyers:** 30+ customers, unnamed; founded December 2023 [src-20260212-5fd1e0].
-- **Bear:** no named customers, no pricing, no buyer call. Oracle and SAP are embedding agents in ERP [src-20261003-10d57c] [src-20261021-551046].
-- **What this means:** a good category, thin evidence.
+- **Buyer calls (v2):** Novilla Pharmaceuticals replaced a $7,000-$12,000 a month consultant, pays about $30,000-$60,000 a year, went live in about three days and "would 100% renew" [src-20251024-112e5e]. A procurement BPO CEO describes a CPO buyer, 6-7 week deployments and a platform fee with volume kickers [src-20260617-937cc1]. IKEA picked Magentic over Didero [src-20260209-7ec831].
+- **Bear:** buyer evidence is one small company and one BPO view; no named enterprise customer. Oracle and SAP are embedding agents in ERP [src-20261003-10d57c] [src-20261021-551046].
+- **What this means:** a good category; the evidence now includes a happy small buyer and platform, not outcome, pricing.
 
 ### 3.5 Magentic (procurement and supply chain; vertical outcome)
 - **What it does:** procurement agents for large manufacturers.
@@ -388,14 +431,16 @@ How the main contracts actually bill:
 - **Buyers:** one manufacturer runs over 1M purchase orders a year through it; $4M of savings found at another [src-20260917-25441c]. Siemens and Coca-Cola Europacific Partners (CCEP) are named on a podcast page [src-20260923-47e348].
 - **Claims (Magentic):** 1% to 2% spend savings worth $100M to $200M against $50M from labor; agents start as "interns" [src-20260923-47e348].
 - **Bear:** the article itself says it is unclear whether the wider Global 500 will adopt [src-20260917-25441c].
-- **What this means:** a savings-share story that could support outcome pricing. Ask for a signed savings-share contract.
+- **Buyer call (v2):** IKEA: live since August 2025, 45%-50% of procurement volume, pays "low-to-mid six figure range" on "an enterprise license based on the consumption"; asked about value-based pricing: "No, it's just consumption-based" [src-20260209-7ec831]. Little lock-in so far [src-20260209-7ec831].
+- **What this means:** a savings story sold on consumption. The savings-share pitch is not in the one buyer contract we have.
 
 ### 3.6 Actively AI (sales; vertical outcome)
 - **What it does:** one AI agent per sales account that researches and prioritizes, positioned as a Salesforce replacement over time [src-20260428-2d177a].
 - **Money:** $45M Series B at $250M, co-led by TCV and First Harmonic; $67.5M total [src-20260428-2d177a].
 - **Buyers:** Ramp, Verkada [src-20260428-2d177a].
 - **Claims (customers via Forbes):** Ramp attributes "tens of millions" of new revenue and about 23% higher close rates on AI-driven deals; Verkada doubled productivity [src-20260428-2d177a].
-- **Bear:** pricing not disclosed. Salesforce prices sales agents on qualified leads or booked orders [src-20260909-c1900d], directly in its path.
+- **Buyer call (v2):** Justworks: about $1M of revenue from closed-lost re-engagement, around $160,000 of spend, but switching would be easy and Clay or Gong could ship the feature [src-20251126-6d86c8].
+- **Bear:** pricing model still not disclosed. Salesforce prices sales agents on qualified leads or booked orders [src-20260909-c1900d], directly in its path.
 - **What this means:** revenue-side agents are easier to sell on value, but attribution is hard to audit.
 
 ### 3.7 Omilia (voice customer service; vertical)
@@ -404,6 +449,7 @@ How the main contracts actually bill:
 - **Buyers:** Capital One, Discover, RBC, the UK Department for Work and Pensions (DWP), PSEG, Taco Bell in 1,000+ outlets [src-20260806-53e2bf].
 - **Claims (Omilia):** ARR $60M, up 10x; about 500 staff [src-20260806-53e2bf].
 - **Bear:** CX voice is where the labs and Sierra compete hardest, and Deutsche Telekom calls it "commoditized" [src-20260727-3b21a8]. The article reports a disputed Taco Bell incident [src-20260806-53e2bf].
+- **Buyer call (v2, interview 2024-11):** Discover chose Omilia on voice biometrics and agent assist; NICE, Genesys and Five9 GenAI looked "more of a bolt-on"; license $500,000 to $1M a year; containment below its 70%-75% target [src-20241114-f0ab80]. The call is two years old.
 - **What this means:** the most revenue disclosed among the picks, in the most crowded lane.
 
 ### 3.8 Ema (horizontal orchestration; HR, IT, finance)
@@ -412,7 +458,8 @@ How the main contracts actually bill:
 - **Buyers:** NTT DATA, Hitachi, ADP, PwC, Google, KPMG, Wipro, Microsoft [src-20260930-9ee545].
 - **Claims (Ema):** bookings over $150M; revenue up 50x in two years; 1M+ users; prices by completed tasks and outcomes; gross margin "close to 80%" (CEO) [src-20260930-9ee545]. Wipro HR went from 1,000 people to 550, a 45% cut (founder) [src-20261025-7ef133]. Sells with PwC and KPMG [src-20261025-7ef133].
 - **Bear:** source is a trade site summarizing the company; many named "customers" are also IT-services partners [inference]. Horizontal layer faces lab and platform absorption (Q7).
-- **What this means:** the strongest horizontal traction claims in the repo. Test bookings against revenue and renewal.
+- **Buyer call (v2):** Hitachi: a few hundred thousand a year, subscription priced on workflows, growth 5%-10% because Hitachi builds new agents in house; would still keep Ema [src-20260224-8c72f4]. This conflicts with the company's "completed tasks and outcomes" pricing claim [src-20260930-9ee545].
+- **What this means:** the strongest horizontal traction claims in the repo, but the one buyer call shows subscription pricing and an expansion cap.
 
 ### 3.9 Kestra (workflow orchestration)
 - **What it does:** open-source orchestration of data and infrastructure workflows; cloud product priced on usage [src-20260331-83a5c4].
@@ -428,12 +475,13 @@ How the main contracts actually bill:
 - **Buyers:** a quarter of the Fortune 50, 7 of the 10 largest US banks, 3 of the 5 largest insurers; Mitie named [src-20260812-4cb1fc].
 - **Claims (Skan):** revenue up over 300%; net dollar retention about 150%; one bank: 11.2M context switches, $37M of friction, cost per transaction down 32%, $18M savings; average savings 30% to 40% [src-20260812-4cb1fc].
 - **Bear:** SAP (TechWolf), Celonis and Atlassian all claim the work-context layer [src-20261001-056aad] [src-20260303-4bfebc] [src-20260806-eab99c].
-- **What this means:** the best evidence for the "work context" thesis, still company-reported.
+- **Insider call (v2):** a Skan director names Anthropic and OpenAI as the biggest competition and says Skan wants license, not services, revenue [src-20260616-48f4c6].
+- **What this means:** the best evidence for the "work context" thesis, still company-reported, with the labs as the named threat.
 
 ### 3.11 Benchmarks: Sierra, Decagon and the CX leaders
 - **Sierra.** $100M ARR in seven quarters, $150M in eight [src-20260309-78d5a1]; $950M raise at over $15B [src-20260504-c9d184]. Safelite: under $2 per transaction vs $7.50 to $9 human, 4-year contract with industry exclusivity, "80% likely to renew" [src-20260710-37d40b]. Deutsche Telekom ranks it first [src-20260727-3b21a8]. It lost a European fintech deal to Decagon on German voice quality; its business cases looked "too good to be true" to that buyer [src-20260708-a5fc76]. Customers automate 70% to 90% of cases per one source [src-20260310-ad2c26]; buyers report about 60% to 65% [src-20260318-033caf] [src-20260717-eb6872].
-- **Decagon.** Over $100M ARR; about 90% of workloads on fine-tuned open models [src-20261013-d7909a]; hired a bank [src-20261013-6d4b75]. "Decagon is the worse Sierra" (Deutsche Telekom) [src-20260727-3b21a8]. Used at Airbnb [src-20261009-44e09b].
-- **Intercom Fin, now Salesforce.** 30,000+ customers, 76% average resolution [src-20260910-2cf2eb]; 30% to 40% at Smartly.io [src-20260326-b3dd2d].
+- **Decagon.** Over $100M ARR; about 90% of workloads on fine-tuned open models [src-20261013-d7909a]; hired a bank [src-20261013-6d4b75]. "Decagon is the worse Sierra" (Deutsche Telekom) [src-20260727-3b21a8]. Used at Airbnb [src-20261009-44e09b]. Notion: per meaningful conversation, around six figures a year, 4X to 7X cheaper than its offshore model, chat automation above 60% [src-20260515-de88a1]. Chime ran it next to Sierra and Maven behind its own router [src-20260518-714b0a].
+- **Intercom Fin, now Salesforce.** 30,000+ customers, 76% average resolution [src-20260910-2cf2eb]; 30% to 40% at Smartly.io [src-20260326-b3dd2d]. A former sales lead: Fin often starts at about 30% of a contract and grows to 50%-60% of spend within a year (anecdotal); Sierra runs a paid three-month POC of $100,000 to $200,000 credited to the contract [src-20260310-e66bf3].
 - **Crescendo (AI-native BPO).** Per-contact pricing, 10% to 40% discounts, "Gross margin did tank heavily", 50% to 60% of clients converted; mood at departure "dark" (former director) [src-20260724-865e53].
 
 **What this means:** these set the price and performance bar every vertical pick is measured against.
@@ -485,6 +533,9 @@ Gross margin is revenue minus those direct costs, as a share of revenue. Classic
 | Claim intake verification | under $2 (Sierra at Safelite) | $7.50 to $9 | [src-20260710-37d40b] |
 | Outsourced FTE (insurance claims) | under $10,000 a year platform cost | above $20,000 Cognizant revenue | [src-20250627-297f7b] |
 | CX resolution (one expert's estimate, low) | about $0.60 AI cost | $6 to $7 blended human | [src-20260708-a5fc76] |
+| CX support at Notion | Decagon, around six figures a year | offshore model 4X to 7X Decagon | [src-20260515-de88a1] |
+| Procurement coordination (small pharma) | Didero, about $30,000-$60,000 a year | consultant, $7,000-$12,000 a month | [src-20251024-112e5e] |
+| Automated back-office task | $1,000 to $1,200 a month with AI | $200 to $300 a month on RPA (not a human cost) | [src-20260825-747be0] |
 
 **Levers that raise margin.**
 - **Higher automation.** Intercom's CFO: resolution went from about 25% to close to 70%, and "the more it's resolving, the better for our margin profile", because unresolved conversations burn compute that earns nothing [src-20260522-b1dbe3].
@@ -497,6 +548,7 @@ Gross margin is revenue minus those direct costs, as a share of revenue. Classic
 - **More checks per task.** Decagon says tokens per conversation are rising as it adds quality checks [src-20260731-a07321].
 - **Price compression.** Prices are converging on $0.50 to $2 per resolution in CX (W44, citing [src-20260413-63104e] [src-20260924-93c5ed] [src-20260926-ff7125]). Sierra's CEO expects agents to be compared to other agents, not labor [src-20250514-093b59].
 - **Deferred revenue.** Automation Anywhere's milestone-based outcome deals delay ARR [src-20260702-b5efa8].
+- **Token-priced seats.** Ascot caps heavy Cowork users at about 50, each "low four figures" a month [src-20260904-8886b4].
 - **FDE as services.** A Workfabric executive calls FDE a "services play but with probably with more expensive engineers" [src-20260710-e2a61b].
 
 **Conflict to note (unit economics).** Pace targets 80% [src-20260203-a5df90] and Ema claims close to 80% [src-20260930-9ee545], while every disclosed industry benchmark sits at 45% to 70% (table above). No pick reports gross margin after inference and deployment.
@@ -523,6 +575,7 @@ Gross margin is revenue minus those direct costs, as a share of revenue. Classic
 - The labs ship the improvement loop as a product: OpenAI Presence includes simulations, graders and an improvement loop [src-20260722-a3993b].
 - Context drifts: the same analytics agent fell back to 60% in two months [src-20261020-7922f1].
 - The customer owns the data. Rohlik says it could "mine the instructions of the agent" and move, though "It's theory" [src-20260609-4b024f]. A Sierra buyer called the learning loop "a little bit of a black box" with no service-level agreement [src-20260318-033caf].
+- Buyers keep the context. Chime keeps data, procedures and tools in its own systems so vendors are interchangeable [src-20260518-714b0a]. Notion can switch CX vendors "within a month" without deep integrations [src-20260515-de88a1]. IKEA sees "not specific stickiness" at Magentic [src-20260209-7ec831].
 - Systems of record hold the data and the API keys [src-20260724-865e53]. Walmart sees outside agents bypassing the support agent through APIs [src-20261006-b21c7a].
 - In legal and healthcare admin, defensibility shifts to proprietary content, payer rules and write-back access, not the agent [src-20260512-5c6e2d] [src-20260111-f1affc].
 - Prompts plus skills plus connectors are now a free file format, so value moves to proprietary data, write access and measured outcomes [src-20260130-79791d].
@@ -553,6 +606,7 @@ Gross margin is revenue minus those direct costs, as a share of revenue. Classic
 5. Verticals outside CX have named customers: Pace at Palomar [src-20261025-c77b6e]; Crosby at Cursor and Ramp [src-20260331-50e583]; Magentic at Siemens and CCEP [src-20260923-47e348].
 6. Buyers say they like it: "they're cheap because they're outcome-based" (Safelite) [src-20260710-37d40b]; Safelite rates renewal 80% likely [src-20260710-37d40b].
 7. Deployment is the bottleneck, which favors investors with enterprise access [src-20260629-015aae] [src-20260728-aba703].
+8. The swap from outsourcers is measurable: Notion's external vendor spend fell about 75% in two years [src-20260515-de88a1]; Novilla replaced a consultant at a fraction of the cost [src-20251024-112e5e].
 
 **Bear: why stop and publish the view.**
 1. Vendors grade their own outcomes. Zendesk uses its own LLM [src-20250806-3921b6]; a Sierra buyer had to reverse-engineer what "resolved" meant [src-20260318-033caf]; vendors quote containment without saying what is excluded from the denominator [src-20260708-a5fc76]. Outcome revenue could be repriced at renewal.
@@ -567,6 +621,8 @@ Gross margin is revenue minus those direct costs, as a share of revenue. Classic
 10. Prices are high: Sierra about 75x to 100x ARR, Decagon about 45x, Fin exit about a third of that (comps.md).
 11. Horizontal orchestration lacks proof: no named customers at Sycamore or Workfabric [src-20260330-8d6266] [src-20261023-21a6d6].
 12. Pick evidence is mostly self-reported: funding releases, an investor blog and vendor case studies (section 3).
+13. Buyers keep vendors interchangeable: Chime routes across three CX vendors [src-20260518-714b0a]; Notion can switch in about a month [src-20260515-de88a1]; Hitachi builds its next agents without Ema [src-20260224-8c72f4].
+14. Outside CX, v2 buyer contracts are consumption, platform or license priced, not per outcome [src-20260209-7ec831] [src-20260617-937cc1] [src-20251016-371c9b] [src-20260224-8c72f4] [src-20241114-f0ab80].
 
 **Kill criteria (from bull-bear.md).** Stop pushing if any of these hold by the next checkpoint:
 1. No outcome contract renews at the same or a higher unit price with a customer-agreed count.
@@ -588,7 +644,8 @@ Gross margin is revenue minus those direct costs, as a share of revenue. Classic
 3. **What is gross margin after inference and deployment at any pick?** None discloses it.
 4. **How many FDE hours per customer, and is that falling?** Safelite's evidence says yes for one vendor [src-20260710-37d40b].
 5. **Do labs plus SIs replace vertical vendors in live deals?** OpenAI trains SIs as FDEs [src-20261017-72ec30], but no call names a displaced vertical vendor.
-6. **Does Pace or Amperos ever price per outcome, or stay on volume?** Both price by volume today [src-20260508-386718] [src-20261025-db0c8b].
+6. **Does Pace or Amperos ever price per outcome, or stay on volume?** Both price by volume today [src-20260508-386718] [src-20261025-db0c8b]; the DOCS Dermatology call adds transaction minimums [src-20251016-371c9b].
+9. **What is Decagon's unit price?** Notion gives the unit (per meaningful conversation) and the spend, not the price [src-20260515-de88a1].
 7. **Do personal agents shrink support volume?** Walmart thinks simple calls could bypass the support agent [src-20261006-b21c7a].
 8. **Who owns the context and the improvement loop when a customer leaves?** [src-20260609-4b024f] [src-20260318-033caf].
 
@@ -598,10 +655,10 @@ Gross margin is revenue minus those direct costs, as a share of revenue. Classic
 |---|---|---|---|
 | 1 | SI agent practice lead | Deloitte, Accenture, Cognizant, IBM Consulting and DXC agent leads listed in expert-calls.md | Outcome terms in real deals; platform mix; FDE hours (Q2, Q5, Q11) |
 | 2 | Duvo customer (independent) | Morrisons, Notino, Holland & Barrett, Boden, Allegro [src-20261014-fb6b7e] | The outcome test outside a related party (Q15) |
-| 3 | F500 buyer of an outcome-priced CX vendor | Chime (Decagon) [src-20261025-22dc67]; Uber (Sierra) [src-20260504-c9d184] | Renewal and verification (Q2) |
+| 3 | F500 buyer of an outcome-priced CX vendor | Uber (Sierra) [src-20260504-c9d184]. Chime and Notion now filed [src-20260518-714b0a] [src-20260515-de88a1] | Renewal and verification (Q2) |
 | 4 | Vertical buyers outside CX | Palomar and Prudential (Pace); Siemens, CCEP (Magentic); Footprint (Didero); Ramp (Actively); Cursor, Clay (Crosby) | Renewal, pricing unit, margin (Q10, Q11) |
 
-AlphaSense calls already found but not yet downloaded include Hitachi on Ema, SOPHiA on Kestra, two Skan AI insiders, Avant on Didero and Magentic, IKEA on Magentic, Justworks on Actively, DOCS Dermatology on Amperos, Discover on Omilia, and a former Palantir FDE on economics (expert-calls.md backlog). Sycamore has no AlphaSense coverage.
+Filed in v2: Hitachi on Ema, Skan AI director, Avant on Didero and Magentic, IKEA on Magentic, Novilla on Didero, Justworks on Actively, DOCS Dermatology on Amperos, Discover on Omilia, ex-Palantir FDE, Cresta FDE, Cognizant, Accenture on UiPath, Crescendo on Zendesk, Ascot on Microsoft E7, Intercom Fin, Chime and Notion on Decagon. Still in the backlog: SOPHiA on Kestra, a second Skan AI executive, PwC on Maisa, Liberty Mutual legal AI and five others (expert-calls.md). Sycamore has no AlphaSense coverage.
 
 **Five questions for every call** (W44):
 1. What share of your agent spend is priced per outcome, and how is the outcome detected and audited?
@@ -636,6 +693,7 @@ AlphaSense calls already found but not yet downloaded include Hitachi on Ema, SO
 - **Gross margin:** revenue minus direct costs, as a share of revenue.
 - **Harness:** the code around a model that gives it tools, memory, rules and tests.
 - **Inference:** running a model to produce an answer. It is paid per token.
+- **Headless:** running a vendor's agent behind the buyer's own interface, through an API.
 - **ITSM (IT service management):** the help desk and ticket systems for IT problems.
 - **LLM (large language model):** the type of AI model behind ChatGPT and Claude.
 - **NDR (net dollar retention):** revenue from last year's customers this year, as a share of last year. Over 100% means they spend more.
@@ -660,9 +718,10 @@ AlphaSense calls already found but not yet downloaded include Hitachi on Ema, SO
 ## Appendix B. Gaps and next actions
 
 1. No renewal of an outcome contract on record. Next: SI lead and F500 CX buyer calls (section 7).
-2. No gross margin after inference for any pick. Next: ask formers and the Ema, Skan and Kestra calls in the backlog.
+2. No gross margin after inference for any pick; the v2 Ema and Skan calls did not give one. Next: formers, and the Kestra call in the backlog.
 3. No independent customer for Duvo, Sycamore or Workfabric. Next: Morrisons or Notino call.
-4. Pick facts rest on press releases. Next: download the backlog AlphaSense calls on each pick.
+4. Pick facts rest on press releases plus, since v2, one or two buyer calls each for Didero, Magentic, Amperos, Actively, Omilia and Ema. Crosby and Pace still lack an independent enterprise buyer. Next: named enterprise buyers (section 7.2).
+6. No Decagon unit price. Next: ask the Notion or Chime contacts for the contract price per conversation.
 5. Four long podcasts were only keyword-searched (Appendix C). Next: read in full if the readout leans on Ema, Crosby or Pace.
 
 ---
@@ -670,7 +729,8 @@ AlphaSense calls already found but not yet downloaded include Hitachi on Ema, SO
 ## Appendix C. Source coverage (what was and was not read in full)
 
 **Read in full, line by line, with notes in insights/primer-notes/:**
-- All 24 AlphaSense records filed in sources/alphasense/, from src-20250627-297f7b to src-20261017-72ec30 (one note file each).
+- All 24 AlphaSense records filed in sources/alphasense/ for v1, from src-20250627-297f7b to src-20261017-72ec30 (one note file each).
+- v2: 17 more AlphaSense records, each read in full, notes in primer-notes/v2-alphasense-2026-10-27.md: src-20241114-f0ab80, src-20251016-371c9b, src-20251024-112e5e, src-20251126-6d86c8, src-20260209-7ec831, src-20260224-8c72f4, src-20260310-e66bf3, src-20260515-de88a1, src-20260518-714b0a, src-20260616-48f4c6, src-20260617-937cc1, src-20260618-f36dc6, src-20260724-b4a442, src-20260825-747be0, src-20260828-bb2734, src-20260904-8886b4, src-20260908-547a69. All 41 filed AlphaSense calls are now read in full.
 - Repo insights: framework.md, evidence-by-question.md (658 lines), weekly/2026-W44.md, bull-bear.md, comps.md, market-sizing.md, startup-landscape.md, labs-vs-startups.md, timeline.md.
 - Company cards for the 10 picks plus sierra, decagon, duvo, sycamore, workfabric, salesforce, servicenow, intercom, zendesk and crescendo.
 - The 17 pick sources: src-20260930-9ee545, src-20260331-83a5c4, src-20260812-4cb1fc, src-20260428-2d177a, src-20261025-5ffac1, src-20260422-d6ae9d, src-20261025-db0c8b, src-20260331-50e583, src-20261025-474366, src-20260212-5fd1e0, src-20260213-3c647d, src-20260917-25441c, src-20260923-47e348, src-20260806-53e2bf, src-20260527-cecfde, src-20261025-58fd6b, src-20261025-c77b6e.
@@ -692,3 +752,9 @@ AlphaSense calls already found but not yet downloaded include Hitachi on Ema, SO
 - src-20260331-50e583: written by Crosby's lead investor.
 - src-20261025-474366, src-20261025-c77b6e: vendor case studies.
 - Most pick facts: funding press releases, so company claims.
+- src-20260828-bb2734: AI-run interview; the 70% figure is called "not a precise number" by the expert.
+- src-20241114-f0ab80: interview dated 2024-11, the oldest call in the set.
+- src-20260617-937cc1: vendor ratings come from the expert's RFP scoring, not a contract.
+- src-20251024-112e5e: the expert once says the consultant cost "a month" when the math is per year; only the stated ranges are used.
+- src-20251126-6d86c8: pricing model not stated; spend figure only.
+- src-20260310-e66bf3: the expert now works at ElevenLabs, a competitor.

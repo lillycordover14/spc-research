@@ -10,3 +10,6 @@ Times America/Chicago (CT). Newest last.
 - 2026-10-25 21:42 CT: Batch 2: read startup-landscape, labs-vs-startups, timeline, 10 pick cards and their 17 sources in full; 4 long podcasts keyword-searched only (see batch2-picks.md).
 - 2026-10-25 21:48 CT: primer.md v1 drafted (sections 0-7, appendices A-C), 10.6K words, 143 src ids all exist in sources/, zero em/en dashes.
 - 2026-10-25 21:49 CT: exported primer.pdf (37 letter pages, 13pt single column, Chrome headless) and primer.docx (soffice from HTML, python-docx font pass). validate: all frontmatter valid; index built (index/ diffs not committed, outside insights/).
+
+- 2026-10-27 07:43 ET | v2: read 17 new AlphaSense calls in full (notes in v2-alphasense-2026-10-27.md), added cited findings across Q1 to Q14, sections 3 to 7, glossary and appendices B and C. 69 quoted strings in primer.md checked against source bodies.
+- 2026-10-27 07:43 ET | v2 export via primer-notes/export_primer.py: PDF 4.1 x 7.3 in pages, 10.5pt, tables as stacked cards, lists fixed (v1 lost lists with no preceding blank line). DOCX 4.5 x 8 in, Arial 11pt. Zero em or en dashes in primer.md, PDF text and DOCX.

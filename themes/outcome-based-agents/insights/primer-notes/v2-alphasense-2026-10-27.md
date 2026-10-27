@@ -1,0 +1,233 @@
+# Primer v2 notes: 17 AlphaSense calls read in full (2026-10-27)
+
+One block per docid: background, then facts with transcript timestamps. Interview and publish dates in each header.
+
+# 192831 Hitachi/Ema. pub 2026-05-25, int 2026-02-24
+- bg: Digital Solutions Leader, Hitachi Digital Services (tech partner to Hitachi group cos); ex-AWS WW Technical Lead IoT partners (left Dec 2024)
+- 4 live use cases: sales research synthesis, HR workflow, sales enablement content QA, context-aware knowledge retrieval (largest by consumption) 00:07:13, 00:09:15
+- KPIs: cycle time 40%-60% reduction achieved 00:04:04; touchpoints baseline 10-12, goal 50%-60% cut 00:04:04; throughput target +50% some, +100% some 00:05:29; cost per case
+- library "in the range of hundreds" of agents 00:24:51; 5-6 agents per workflow 00:25:04
+- hand-holding 3-4 days first use case, ~a week overall 00:28:59; they taught, Hitachi integrated itself 00:29:40; 15-17 data sources 00:29:49
+- 14-16 internal + 4-6 Ema people; scaled in ~6 months 00:35:26
+- evaluated ServiceNow AI Agents, OpenAI Frontier, UiPath, Copilot (Dynamics 365, Fabric), IBM watsonx Orchestrate 00:42:24; others failed demos for org A vs org B 00:46:23
+- build in-house est 12-14 months 00:45:04; Ema TTV a week vs "a few weeks" for others 00:45:49
+- spend "a few hundred thousand" /yr 00:47:42; growth "5%, 10%?" 00:51:03 because building own agents now 00:47:49, 00:51:14
+- priced on workflows 00:48:21; dims: agents/employees/active workflows, workload volume, integrations, deployment model 00:48:39; "subscription-based enterprise model pricing"; Ema wanted the logo, tighter subscription 00:50:12
+- new use cases in-house, CrewAI for asset intelligence 00:40:30; "Today, for other use cases, we don't depend on Ema" 00:38:37
+- switching = rebuild all workflows, but keeping Ema 00:52:32; score 7-8 00:53:31; 10 given enterprise-grade need 00:55:07
+# 222882 Skan AI. pub 2026-09-14, int 2026-06-16 (primary co Mimica)
+- bg: Director Digital Ops & AI Enablement, Skan.AI; ex-Koch analytics engagement leader
+- Skan: visual observation + backend; "maybe 99% of your usage application space can be observed" 00:03:22; Celonis log-based: integration burden, drift 00:08:25, 00:11:17
+- comps Mimica (speed), Soroco, UiPath 00:16:56; SIs (Wipro, TCS, Infosys, Accenture, EY) use Skan to find, UiPath to automate 00:18:40
+- continuous monitoring for BPO-scale ops (10,000 people example) 00:23:40
+- services: "We don't want to necessarily make money on services. We want to make money on licenses like any product company." 00:28:08
+- "Companies that do not work on building a capability of agentic AI will die." 00:32:07; building agents will be commoditized 00:32:07; Skan builds agents for customers
+- "Biggest competition is Anthropic and OpenAI... Once Claude figures out how to do this themselves, they don't need us." 00:35:18
+- M&A: some acquired; Microsoft, Dell, Apple might acquire 00:30:33
+- BFSI largest, then manufacturing; NA and Europe 00:37:02
+# 223379 Avant AI CEO on Didero/Pavus/Magentic/Pactum. pub 2026-09-15, int 2026-06-17 (primary co Pavus AI; expert is Pavus customer)
+- bg: CEO avant.ai; ~30 yrs software services, last 17 president of two procurement BPOs, teams 100s to 1,000+ FTE; ex-Group President Xerox $1.7B healthcare admin/HCM
+- ~3,200 clients; 65% build-operate-manage (BPO), 35% build-operate-transfer 00:00:32; mix <5% enterprise, 30% mid, 40% SMB, 15% micro 00:04:49
+- BPO share: mid-market 15%-20%, SMB 45%-50%, micro 70%-75%+; enterprise only point solutions 00:06:21
+- 130+ RFPs led; 4 buying dims: product, process maturity, pricing, brand 00:08:51; based on last ~12 RFPs
+- Didero: CPO buyer; product 8-8.5; deploys 6-7 weeks; manufacturing+distribution; SAP/Oracle/Workday integration; "platform-based fee with some kind of kickers in terms of volume" 00:08:51; pricing 9, brand 7.5-8; SMB/lower mid-market
+- Pavus: contract intelligence; product 8.5-9; doesn't create POs 00:17:04
+- Magentic closest to Pavus; Pavus 9 vs Magentic 8-8.5 overall; AI integration Magentic 8-8.5 vs Pavus 7 00:27:46, 00:28:38
+- Pactum: AI supplier negotiation, "I don't have any client that lets it go on its own" 00:26:25; 20 to 5 suppliers first round
+- OCR ingestion "pretty commoditized" 00:30:25
+- investor $100: $40 Didero, $30 Magentic, $20 Pavus, rest Pactum 00:32:46; intelligence layer replicable ("I could build a model in Perplexity"), workflow depth defensible 00:32:46, 00:34:40
+- "AI is the fourth leg of that table": workflow, process maturity, data visibility first 00:34:40
+# 189357 IKEA on Magentic. pub 2026-05-10, int 2026-02-09
+- bg: Head of Digital Architecture, Supply Chain Development, IKEA; ex-Global Head Digitalization Ops and R&D Arxada (left Apr 2025)
+- Magentic = agentic orchestration layer over fragmented procurement stack (ERP, supplier portal, EDI, email, contracts); PR-to-PO, supplier follow-ups, contract compliance 00:01:31, 00:03:41
+- 25%-40% manual buyer effort savings potential 00:05:40; PR-to-PO cycle time -20%-30%, 1-3 days faster confirmations 00:05:40; leakage -1% 00:05:40
+- 10%-30% of tier-two volume discounts missed 00:07:35
+- savings "low seven digits", expect double digit (millions) 00:08:39; no FTE cuts, IKEA sensitive 00:09:11
+- adoption 45%-50% of procurement, full by end 2026 00:09:37
+- users cited: Bosch, 3M ("if I remember correctly") 00:10:30
+- spend "low-to-mid six figure"; "enterprise license based on the consumption"; "No, it's just consumption-based" (no value share) 00:10:55, 00:11:21
+- deployed "this last August" (Aug 2025) 00:11:27
+- UiPath used for RPA 00:13:31; discovered via consultancies, Gartner 00:13:52
+- wants "outcome-oriented agents"; today "assisting agents" 00:14:38
+- not system of record; "system of execution and the system of intelligence" over ERP 00:16:55
+- value depends on internal maturity; needs product owner, dedicated tuning team 00:18:58
+- comps Didero, ADA, Zylon 00:23:07; switching 7-8 months, "not specific stickiness" 00:24:13, 00:24:48; has not recommended 00:25:18
+# 163248 DOCS Dermatology on Amperos. pub 2026-01-14, int 2025-10-16 (other co Adonis)
+- bg: CIO, PE-backed dermatology PPM (DOCS Dermatology), 2 yrs; prior PE ophthalmology/optometry; exited own healthcare co
+- before: 16-17 FTEs on manual claims/denials work 00:01:12; UiPath RPA only for login/fetch 00:09:45
+- pilot: 3X productivity; 1,000 claims per FTE ~4.5 days vs ~21 days 00:05:07
+- Amperos does research and documentation, humans click to submit 00:05:54; "70% of your work is research" 00:08:16
+- containment: ~70% of payers; ~4,500 of 10,000 weekly claims Amperos-ready, ~3,000 processed; 30%-35% of all claims 00:08:16
+- 2 months pilot, 1 month live (3 months total) 00:07:51; 100% human attestation in pilot until ~90% confidence 00:10:53
+- no FTE cuts yet; goal: efficiency + no new hires on expansion 00:11:43
+- Amperos ROI study claims ~30% FTE cost saved; buyer success metric = payer acceptance (recovered $), not time 00:12:21
+- integration via RPA into ModMed, 2-3 weeks to stand up, ~3.5 weeks for read/write 00:13:56, 00:16:13
+- won't let Amperos take final action: liability question "who takes a liability?" 00:21:21, 00:22:09
+- spend "directly proportional" to claims volume 00:23:07; "most of these AI guys have put their contracts to have a minimal transactions" 00:23:52 (minimum-transaction contracts)
+- CEO "Michal"; didn't oversell; rejected vendors promising 10X-15X 00:24:28, 00:25:48
+- Thoughtful AI rejected: very high upfront costs, no live demo 00:25:48; Adonis = intelligence, no action; future add for coding 00:28:43
+- spend "low-six figures" (client prompt, expert "Yep") 00:30:56; ROI target 50% of spend is a win, thinking 60%-65% 00:31:06
+- eligibility/prior auth gap: "There's no one in the market who's doing that." 00:27:55
+# 248195 ex-Palantir FDE. pub 2026-09-22, int 2026-09-08
+- bg: former Palantir FDE Feb 2023 to May 2025 (says 2.5 yrs), Canada/US, energy, supply chain, manufacturing, construction; ex-Antler EIR; ex-SoundHound SWE ~5 yrs; now runs proposal automation startup for AEC
+- own startup: one customer 6,000 to 15,000 proposals/yr same headcount 00:01:24
+- wind land project: 2 Deltas + 2 Echos; month of 3-4 people to overnight 00:05:02, 00:07:33; 90% of work by Palantir engineers 00:09:08
+- Palantir wants customers self-sufficient: recurring revenue without personnel cost 00:09:08
+- ex-Palantir firms Northslope, Ethicrithm, Fourth Age offer FDE services cheaper; Palantir recommends them 00:11:22
+- FDE services "low seven figures per year per forward-deployed engineer, prorated", "low six figures per quarter"; baked into usage pricing; usage contract "a few million dollars a year" incl FDE 00:12:36
+- pricing set by negotiated ROI estimate FDEs build early; smaller cos "a couple of million a year" 00:14:30
+- Accenture project: customer owned relationship; contracted both 00:19:33
+- capability vs Palantir=100: Deloitte/Accenture ~80%; India-based 60%-80% technical, 20%-30% business logic 00:26:29; Infosys/TCS coding advantage "mainly eroded because of agentic coding tools" 00:24:36
+- OpenAI "DeployCo" = FDE arm, "only three months old", pairs of 2 engineers, rated 100%-110%; must build full infra since OpenAI lacks product/infra arm 00:28:35, 00:30:56
+- Google FDE focused on GCP migration 00:32:25; OpenAI and Gemini models "very interchangeable", Palantir lock-in 00:32:25
+- Palantir FDE leaves, recurring revenue stays; SI FDE leaves, revenue leaves 00:35:05
+- fees flat unless FDEs find use cases or usage grows 00:36:55; enterprise contracts never below low seven figures/yr; AIP for Builders low six figures 00:40:01; partners split minimums via namespaces 00:40:01
+- SI recurring "they have to continuously staff some engineers there" 00:42:43
+# 223713 Cresta Head FDE. pub 2026-09-16, int 2026-06-18 (primary co LangChain; others ElevenLabs, OpenAI). Client pitched an unnamed agent control-plane startup
+- bg: Head of FDE (AI agents), Cresta; ex-Co-Founder and Head of Product Timeplus (left Aug 2025)
+- Cresta founded nine years ago; customers Alaska Airlines, US national parks, banks, home security 00:00:33
+- production = taking thousands of calls/day, can book/rebook/cancel 00:02:50
+- SaaS multi-tenant on AWS; per-customer Docker image + YAML config 00:05:07, 00:11:29
+- built own orchestration framework ~2 yrs ago, not LangChain; latency, hallucination, vendor agnostic, guardrails; forking unmaintainable 00:05:07, 00:07:55; ~half engineers from Google CCAI 00:07:55
+- voice fallback ElevenLabs/Cartesia to Deepgram on own GPUs, one fallback only 00:07:55
+- umbrella agent + sub-agents (state machine); >20 tools confuses models 00:11:29, 00:16:32; "We cannot really trust the benchmark or blog from those vendors." 00:16:32
+- "if we spent one month to build the AI agent, we might spend two or three or even four months on the test eval" 00:19:31; synthetic customers from 5-6 yrs of human conversations 00:19:31
+- pricing: "Usually we charge our AI agent by the usage. Primarily, it is the number of minutes"; "We also have provided other, for example, outcome-based charging... how many tickets are resolved... how many credit cards are collected" 00:22:58
+- "our charge model is not really to resell the token, so we have a strong motivation to almost save as much as possible so that we can get more margin" 00:24:16; GPT-4o mini / GPT-5.1 long time; Cartesia default (ElevenLabs much more expensive); Langfuse tracing 00:24:16
+- open-source (Mistral, fine-tunes) for summarization/sentiment; frontier for main agent; customers push back on DeepSeek/Minimax, want OpenAI/Anthropic 00:26:34; own model Ocean One 00:28:30
+- auto model routing "not so realistic or practical" (caching, tone) 00:34:07; A/B testing important; voice eval unsolved 00:34:07
+# 235110 Cognizant Head Automation & AI Practice N. Europe. pub 2026-10-22, int 2026-07-24 (primary co Caveman, token compression)
+- bg: Head of Cognizant Automation & AI Practice Northern Europe (Nordics, Benelux), full P&L; also runs agentic in Cognizant's own BPO ops in region
+- "automate 55%-65%, maybe more, I would say 60%-70% of BPO work"; "Cognizant has 100,000 people doing BPO work... potentially up to 70,000 people" 00:00:51
+- process by process, "five, seven years easily, to fully penetrate" 00:00:51
+- token cost "not yet a pressing problem for the enterprise clients"; developer side is where cost spirals 00:00:51
+- Copilot broad rollout early disappointments last year 00:05:49; can't upload client docs; shadow IT 00:05:49
+- last year pilot purgatory, pilots stopped because uncoordinated, "Now no one is questioning whether this work anymore" 00:05:49
+- multi-model strategy like multi-cloud for price pressure 00:11:47; model selection key cost lever 00:11:47, 00:16:12
+- "quite a lot of the labor cost will switch to token cost" 00:11:47
+- Otera (Austria, Series A, insurance) has per-step confidence threshold e.g. 93%, dynamic model choice with cost input; "largest agentic use case in the world for Allianz"; Cognizant global partner 00:18:10, 00:22:52, 00:24:46
+- consumption-based cost variability "CFOs and budget holders don't like"; each process gets a business case with est consumption cost 00:20:26
+- bias to existing platforms; "everyone and their grandmother is adding AI to their existing platforms"; some clients "betting on Microsoft" 00:24:46
+# 247531 Ascot Group SVP on Microsoft E7. pub 2026-09-18, int 2026-09-04
+- bg: SVP Infrastructure Operations and Services, Ascot Group (specialty insurance/reinsurance), reports to Group CIO; owns Azure, M365, licensing; ~2,500-person co
+- ~2,000 E7 seats + 499 converting = ~2,500 00:00:40, 00:02:24; moved to E7 when announced in July; Microsoft Frontier partner
+- 15% less than E5 alone (14.6% off E5 list), locked 3 yrs on CSP; end of FY deal; $200,000-$300,000 rebates 00:03:04, 00:03:28, 00:07:41; list E7 "a couple of dollars more than E5 Copilot put together" 00:03:28
+- expects 20%-25% price increase at renewal 00:08:22
+- Copilot access 100% (was ~70%), adoption 75%-77% 00:09:30
+- time saved: meeting notes 30 to 5 min; board papers a day to 3-4 hours 00:10:32
+- Cowork free at first for ~100 frontier users; first month 800,000 to 3.3 million tokens 00:16:48; "Copilot doesn't have tokens, Cowork does"
+- 17%-18% of users ~80% of Cowork usage; only ~400 people will get Cowork; credit caps, weekly reports 00:16:48
+- moved repeatable Cowork tasks into agents to save cost 00:16:48
+- 30 million prepaid tokens for $200,000-$300,000 (15M Azure P3 ~$100k-$150k; 15M via promo ~$90k-$110k), via SoftwareOne; burn in 7-8 months 00:16:48
+- heavy users "low four figures" per month at ~100,000 tokens; limit ~50 heavy users; avg 14,000-20,000 tokens/month 00:24:44, 00:25:21
+- "Although we've got E7 discounted, we spend that on Copilot Cowork licenses. Actually more" 00:26:26
+- builds: HeRa HR agent (Copilot Studio), Fleet submissions to IMS, Foundry doc comparison, global ingestion, Kairos 00:27:33; Foundry built by third party "like a Cognizant" 00:31:05
+- dropped Claude for Cowork; consolidate on Copilot, data leakage reason 00:32:34; Claude hard to get enterprise agreement 00:34:48
+- Agent 365 = Entra/Intune for agents; shadow IT, data leakage; early, "throws up errors all the time" 00:36:27; included in E7 so no extra cost; will look at ServiceNow AI Control Tower, "no such thing as a cheap ServiceNow module" 00:41:15, 00:43:03
+- expects per-agent licensing coming; token-based M365 Copilot "going to absolutely destroy us" 00:46:34, 00:47:52
+- budgets: Cowork 3 million tokens/month org cap; GitHub Copilot 100 devs at $100-200/month, most at $20-$30 00:48:31, 00:50:51
+# 244213 Accenture VP Digital Transformation on UiPath. pub 2026-08-27, int 2026-08-25
+- bg: VP Digital Transformation, Accenture, 9.5 yrs; RPA (UiPath, AA, Blue Prism, Power Automate) across ~20 clients; prior 5 yrs manufacturing
+- traditional RPA automated "only 30%... At the max, 30%-40%"; goal agentic 70%-80% 00:02:24
+- bots:agentic ratio "90% to 10%, or even 95% to 5%"; goal agents replace at least 80% of bot work in next two years 00:05:46
+- large enterprise 40-50 workflows/systems; automate only 2-3 ERPs for ROI 00:06:50
+- command centers over orchestration layer as bot count rises 00:07:53
+- fallout: Blue Prism 2%-3%; UiPath/AA success 92%-95%; Power Automate 70%-75% 00:09:04
+- rank: AA 1, UiPath 2, Power Automate 3, Blue Prism 4 (developer availability) 00:15:46; AA out-marketed UiPath on GenAI 00:17:14
+- only 20% of captive orgs focus on emerging tech; AI security approval main roadblock 00:18:38
+- ServiceNow/Salesforce customization limits push work to UiPath 00:25:48
+- coding agents cut build time from 4-6 weeks to 2-3 weeks; 2-3 senior devs replace many 00:27:25, 00:28:10
+- open source automation not allowed (data compliance) 00:29:33
+- orchestration makes UiPath stickier 00:33:41
+- cost: RPA ~$200-$300/month license for a $2,000-$3,000/month task; AI version $1,000-$1,200/month, sometimes $3,000-$4,000 00:36:11; agentic run costs "much, much higher" 00:34:03
+- threats: AA, Power Automate, then Claude/ChatGPT/Gemini 00:37:34
+# 245344 Crescendo Director on Zendesk. pub 2026-09-02, int 2026-08-28 (AI Interviewer)
+- bg: Director (quality transformation), Crescendo; ex-Director of Quality PartnerHero (left Oct 2024); BPO, former agent; mostly mid-market clients
+- loses mainly on price; switches to Kustomer, Salesforce, HubSpot 00:02:06, 00:02:57, 00:17:50
+- defends price, not setter 00:05:45, 00:15:48; at least five renewal switches in past year, inferring no counteroffer 00:16:22, 00:17:16
+- tech challengers: Salesforce, Sierra, HubSpot; Sierra second-hand only 00:06:45, 00:11:09
+- ~70% of Zendesk clients use custom/third-party AI frontline instead of native ("not a precise number") 00:12:39; mostly internal custom builds 00:12:54; native AI "not perceived as the gold standard" 00:13:24
+- quality tool limited; at least 70% supplement 00:22:18; Klaus acquisition still short 00:22:38
+- outcome-based pricing may win smaller clients; removes seat constraint 00:08:37; "To keep seat based is outdated" 00:26:03; unsure if per-resolution offsets fewer seats 00:26:48
+- ticket volume not falling, demand for tools holds 00:25:27
+- switching disruptive; invisible costs 00:18:32, 00:30:41
+# 173450 Justworks on Actively. pub 2026-08-23, int 2025-11-26 (others 6sense, Clay, Gong, Salesloft)
+- bg: VP Sales (head of sales) Justworks (HCM for SMBs 2-150 employees); team ~300, company ~1,500; 40-45 SDRs 00:00:11, 00:01:15, 00:01:28
+- Actively for closed-lost re-engagement; "about a million dollars in revenue" this year; second year 00:03:06; using just shy of two years 00:05:19
+- referred via network (investors in Actively); no RFP 00:05:26, 00:07:25; first-six-month ROI ~4X 00:05:26
+- spend "around $160,000" 00:26:46; current FY ROI about 6X at six months in 00:27:04 (earlier est 5X at $100k-$200k 00:06:39)
+- users don't touch Actively, lives in Salesforce; four-week attribution window 00:09:28
+- one of first AI tools adopted 00:08:01
+- Clay or Gong could launch similar feature; switching "pretty easy", minimal seller impact 00:19:31, 00:29:18, 00:29:38
+- evaluating Hightouch for own intent platform; expanding Actively to upsell/cross-sell 00:16:00, 00:31:25
+- "many of the AI tools will come and go... big players will either acquire them or launch their own version" 00:33:10
+- won't scale to a Gong 00:34:45; no Agentforce use 00:35:11; Actively top six, "borderline need to have/nice to have" 00:36:14
+- NPS 10 then revised to 8 00:39:34, 00:43:00
+- pricing model not stated
+# 165187 Novilla on Didero. pub 2026-07-21, int 2025-10-24
+- bg: Chief of Staff and Head of Operations, Novilla Pharmaceuticals (clinical-stage pharma, 8 FTE + 30-40 1099 consultants); runs procurement, supply chain for preclinical/clinical trials
+- found via chief-of-staff network after Prendio demo looked human-run 00:01:20; also evaluated Zip, Levelpath (system of record, office SKUs) 00:03:22
+- replaced consultant at $7,000-$12,000/month 00:02:29; expert math ~$10,000 x 12 = $120,000 (said "a month"), second consultant would have doubled 00:23:47
+- Didero spend "about $30,000-$60,000 a year" 00:24:56; one-year contract, "we would 100% renew" 00:34:31, 00:34:39
+- signed and live March (2025) 00:04:30; ~3 days setup 00:05:04; consultant gone in 1.5 weeks 00:10:55; no POC
+- no ERP; Gmail, Google Drive, Dropbox, Justworks, bill.com 00:05:52
+- drafts emails, human presses send; "It doesn't send any emails without me pressing send" 00:17:59; ~10% of suggestions not turned into processes 00:32:40
+- flagged supplier price error 00:18:54; 30 vendors 00:09:31; ~35 orders/month 00:28:15; ~500 emails/week 00:34:16
+- delays can cost six figures; two months of burn 00:20:46
+- customs: suggested brokers, success-based fees, crossed within a day 00:29:41, 00:31:05
+- CS person found 10 better curcumin suppliers within hours ("That's not in the platform") 00:31:45
+- 8/10 mission critical 00:25:50; switching hard due to learned automations 00:26:29; NPS 9 00:34:57
+# 110763 Discover on Omilia. pub 2025-02-12, int 2024-11-14
+- bg: VP Consumer Banking & Lending, Discover; leads CX analytics and ops analytics for consumer lending, contact center strategy; ex US Bancorp (left Dec 2022), Wells Fargo, HSBC
+- triggers: low IVR containment; COVID remote agents compliance/fraud risk 00:01:48
+- evaluated late 2022/early 2023 00:04:44; Observe.AI close; NICE, Twilio, Genesys, Five9 GenAI "more of a bolt-on, it's not a native" 00:04:51; won on voice biometrics + agent assist 00:06:13
+- didn't look at PolyAI/Parloa/Decagon; category moves too fast 00:08:12
+- 8/10; target 70%-75% tasks without agent, "We are not there yet" 00:08:35; may re-scan market in ~12 months
+- switching 12+ month project 00:10:47; setup 6-12 months, integration + calibration 00:11:19
+- standalone hard long-term; contact centers prefer fewer vendors; incumbents (Avaya, Genesys) may acquire 00:12:45
+- total cost several million incl. integration; license $500,000-$1 million/yr 00:13:51
+- CCaaS per-seat license biggest tech expense, scales linearly with agents 00:14:25
+- 80%+ of average consumers can't distinguish from human 00:18:30; weak on sales conversations vs Observe.AI 00:18:30
+# 197134 Former Head of Sales Americas Intercom on Fin. pub 2026-06-08, int 2026-03-10 (now Head of Enterprise Sales and GTM ElevenLabs; left Intercom Aug 2025)
+- Fin initially required platform + Fin 00:00:16
+- "Intercom pioneered the outcome-based pricing model"; resolution = customer doesn't return within 24 hours or marks resolved; $0.99 per resolution 00:00:16
+- "there's not a lot of cost control"; "Costs can get out of control pretty quickly and it's pretty hard to predict or control cost... still more expensive and hard to predict than human cost" 00:00:16
+- low involvement rate: deploy to subset (freemium tiers, FAQ) 00:03:45
+- no paid POC; Sierra 3-month $100,000-$200,000 POC credited to annual contract 00:05:36; Intercom 4-week trial; land with ~$50,000 single-use-case contract 00:05:36
+- no FDE model at Intercom; CSMs focus on involvement, resolution, deflection rates 00:08:28
+- competitive pilots mainly vs Decagon and Agentforce 00:12:27; ElevenLabs often head-to-head vs Sierra
+- Intercom lacked enterprise motion; Decagon FDE, six months custom build 00:14:37
+- ElevenLabs POCs 1.5-3 months, FDE runs five to six at a time; Deutsche Telekom Magenta, Ukrainian government 00:17:50, 00:18:11, 00:20:18
+- Fin often starts ~30% of contract (e.g. $30,000 vs $250,000 platform), reaches 50%-60% of total spend within first year; "Basically double"; anecdotal, ran the gamut 00:21:01, 00:22:39
+# 215049 Former CPO Chime on Decagon/Sierra. pub 2026-08-16, int 2026-05-18
+- bg: Former CPO Chime (left Apr 2026), ex-CPO Notion (left May 2023), ex product Robinhood; 12-18 months evaluating Decagon, Sierra text and voice
+- BPOs in India and Philippines; deterministic tree automations 00:01:34; BPO contracts renegotiated on hours and cases 00:04:41
+- started end of 2024; cost not major concern; main goal not to save costs 00:03:01, 00:07:02
+- canvass: Maven AGI, Google decision-tree tech, internal tools 00:07:02; metrics resolution rate, CSAT, cost per case
+- Sierra better at long multi-turn; Decagon fast accurate across corpus 00:07:02
+- built a router; random controlled assignment to Decagon/Sierra/Maven vs humans 00:09:22; "We were not cost optimizing, we were visibility optimizing"; still multiple vendors text and voice, flow shifts week to week 00:10:21
+- data, SOPs, tools kept in Chime systems, generic so Sierra, Vapi can plug in 00:12:11, 00:13:51; integration "not a differentiator" 00:14:28
+- "I would not bet on either" 00:16:17; may build internal for low-risk cases 00:16:17
+- early addressable 5%-15% of tickets; denominator grows 00:18:39; stratified: own models low-risk, low-cost provider, premium provider for high stakes 00:18:39
+- "Paying under $25 a case, which is much more than you would pay any human, might make sense" for high-value customers 00:20:30
+- vendors will build routing; will get undercut like Gemini 00:22:41
+- moats: Decagon speed to start (demo under 24 hours); Sierra conversational/brand 00:26:02; OpenAI direct with T-Mobile, ElevenLabs with Revolut 00:27:52
+- "first inning of a nine-inning game"; legacy needing margin should just pick one 00:29:26
+- margin expansion: fraud investigations, disputes, internal help centers, finance/legal; cross-customer learning 00:30:44
+- voice also routed across Decagon, Sierra plus others 00:33:03; "We can't spend $10 fixing a problem that's going to bring us back $2" 00:33:25
+# 214749 Notion Head of Business Technology on Decagon. pub 2026-08-13, int 2026-05-15
+- bg: Head of Business Technology, Notion (~3 yrs): GTM, G&A systems, business essentials engineering incl AI engineering; ex-Intercom
+- replaced Forethought ~two years ago after ROI review ("deficit in investment") 00:01:51; RFP: Aisera, Sierra, Yellow, 14.ai, Forethought, Ultimate, Decagon, Intercom 00:01:51
+- last year re-reviewed vs Pylon, Sierra, Fin, Maven, Poly; Sierra POC on headless last month 00:00:29, 00:13:11
+- Decagon first line for chat/email; no voice 00:03:49
+- headless + customer memory strategy; Sierra headless 6-8 months ago, Decagon released ~2 months ago 00:06:55
+- pricing per conversation, same for headless, refused different price 00:08:07; meaningful-conversation definition excludes trivial/bounces 00:08:46
+- RFP scoring: Decagon and Sierra 90%-94%; Ada and Fin 80%-90%; rest ~50% 00:09:41; Sierra more engineering heavy then
+- build vs buy: build "a lot more expensive" 00:14:33
+- Intercom list "one figure per deflection" negotiable to less than $2 00:15:54; offshore model 4X to 7X more expensive than Decagon; spend "around six figures" 00:15:54
+- market commoditizes long tail, e.g. $0.20-$0.30 vs $1; three or four winners Sierra, Decagon, Fin 00:17:28
+- switching within a month without headless; vendors building migration tools; deep integrations (Stripe, Salesforce) are moat 00:19:31
+- live in under a month; second year "rough" growing pains 00:21:21
+- would switch only if Decagon headless below Sierra 00:22:41
+- iceberg: translation, scale, simulations/testing harness, AOP framework, error logging, auth 00:23:44
+- >60% chat automation, target 70%-75% 00:26:37; offshore vendor spend down ~75% over two years, internal support flat 00:26:59

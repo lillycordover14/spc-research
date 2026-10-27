@@ -1,12 +1,12 @@
 # Vertically Integrated Industries: VC primer
 
-_Version 9.2, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.2 merges Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Parts Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over._
+_Version 9.3, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.3 renames Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over._
 
 **The idea in plain English.** America has spent forty years outsourcing the "hard middle" of making things: digging and refining minerals, making metal, machining and welding parts, and producing chemicals. Now defense, industrial policy and China's export controls make that middle valuable again, and it is short of plants and people. We look for startups that **own the plant and sell the physical output** (a mineral, a metal, a part, a chemical) and use **AI, software and automation inside their own operations** to build faster and run with fewer scarce skilled workers than incumbents. Owning production is what lets them keep the margin and the data.
 
 **The five industries (chapters 3–7).**
 1. **Raw Materials (Minerals & Metals)** — Stage A, finding and mining ore; Stage B, refining and making metal (smelting, alloys, magnets, powders).
-2. **Parts Manufacturing** — metal supply / service centers, then **fabrication (sheet/structures)** and **precision (machining, 3D printing, castings, composites)**.
+2. **Manufacturing** — metal supply / service centers, then **fabrication (sheet/structures)** and **precision (machining, 3D printing, castings, composites)**.
 3. **Chemicals** — producers of chemicals, fuels, fertilizers and pharma ingredients.
 4. **Advanced Materials** — producers of engineered materials (battery cathodes, cooling fluids), with a separate **Materials Discovery Labs** sub-group.
 5. **Enabling Software & Robotics** — tools sold to other people's factories; tracked, **outside the core**.
@@ -328,7 +328,7 @@ _Each industry chapter repeats its own market-size numbers in section x.7._
 
 ### 2.14 Macro scorecard by industry [inference]
 
-| Force | Raw Materials (A: mining / B: refining & metal) | Parts Manufacturing | Chemicals | Advanced Materials | Software & Robotics |
+| Force | Raw Materials (A: mining / B: refining & metal) | Manufacturing | Chemicals | Advanced Materials | Software & Robotics |
 |---|---|---|---|---|---|
 | OSC/EDF/DPA money | Strong + (both stages; most to B) | + (via defense) | Mild + (DOE loans, grants) | + (DOE battery awards) | 0 |
 | China export controls | Strong + (B most) | Input-cost − | + (pharma reshoring, BIOSECURE) | + (battery materials) | 0 |
@@ -351,7 +351,7 @@ _Each industry chapter repeats its own market-size numbers in section x.7._
 
 ## 3. Raw Materials (Minerals & Metals)
 
-_What this industry is._ Raw Materials covers everything from finding ore to delivering a finished metal product: **Stage A, finding and mining** (exploration, mining and concentrating ore) and **Stage B, refining and making metal** (refining to pure oxides, carbonates or cathode, then smelting, alloys, magnets and powders). It sits at the bottom of every supply chain in this primer. Metal distribution (service centers that buy mill metal and cut it to size) now sits in Parts Manufacturing (chapter 4) as a supplier to parts makers.
+_What this industry is._ Raw Materials covers everything from finding ore to delivering a finished metal product: **Stage A, finding and mining** (exploration, mining and concentrating ore) and **Stage B, refining and making metal** (refining to pure oxides, carbonates or cathode, then smelting, alloys, magnets and powders). It sits at the bottom of every supply chain in this primer. Metal distribution (service centers that buy mill metal and cut it to size) now sits in Manufacturing (chapter 4) as a supplier to parts makers.
 
 ### 3.1 Shared macro: China's refining grip, the critical-minerals orders and government lending
 
@@ -569,7 +569,7 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 
 **Context names (not profiled):** Phoenix Tailings (rare-earth metal and magnet feedstock; $500M conditional OSC loan, facility due 2028) [src-20260618-184e0c]; MP Materials (incumbent; $400M DoD equity) [src-20260726-39275b]; Energy Fuels ($725M conditional OSC loan) [src-20260618-184e0c]; ReElement (Vulcan's refining partner; $80M OSC loan) [src-20251103-ee9b27]; Hertha, Mass Magnetics, Duranium (candidates). Cyclic (candidate, not sourced this run).
 
-_Placement check:_ Earth AI explores and drills its own claims (Stage A); Mariana mines and refines copper and lithium (profiled in Stage A, refinery cross-referenced in Stage B); Vulcan makes sintered NdFeB magnets (Stage B) [src-20250326-5929b8][src-20260803-30e6d5][src-20251103-ee9b27]. Nox Metals cuts mill metal to size for parts makers, so it moved to Parts Manufacturing (4.10).
+_Placement check:_ Earth AI explores and drills its own claims (Stage A); Mariana mines and refines copper and lithium (profiled in Stage A, refinery cross-referenced in Stage B); Vulcan makes sintered NdFeB magnets (Stage B) [src-20250326-5929b8][src-20260803-30e6d5][src-20251103-ee9b27]. Nox Metals cuts mill metal to size for parts makers, so it moved to Manufacturing (4.10).
 
 ### 3.11 Bear case, at equal weight
 
@@ -587,13 +587,13 @@ _Placement check:_ Earth AI explores and drills its own claims (Stage A); Marian
 - Section 232 proclamations [src-20260402-1b5d6c][src-20260602-b995e2]; Nucor [src-20260812-77d6f5]; Carpenter [src-20261022-de5e6c]; Vulcan/OSC package [src-20251103-ee9b27]; Army drone magnets [src-20260923-c53c99]
 - Earth AI [src-20250127-c28430][src-20241121-ac9f37][src-20221213-5d9521][src-20241220-f860e9][src-20250326-5929b8][src-20250601-b499c3][src-20260429-1bdb70][src-20251001-cf441c]
 
-## 4. Parts Manufacturing
+## 4. Manufacturing
 
-_What this industry is._ Parts Manufacturing turns metal (and some plastics and composites) into finished parts made to a customer's drawing. We use three sub-types, in chain order, and tag every company with one:
+_What this industry is._ Manufacturing turns metal (and some plastics and composites) into finished parts made to a customer's drawing. We use three sub-types, in chain order, and tag every company with one:
 
-- **Metal supply / service centers:** buying standard metal from mills and cutting it to size for parts makers (Nox Metals). These are suppliers to the parts makers below, not raw-materials producers.
+- **Metal Supply:** buying standard metal from mills and cutting it to size for parts makers (Nox Metals). These are suppliers to the parts makers below, not raw-materials producers.
 - **Fabrication (sheet/structures):** cutting, bending and welding sheet metal and plate into brackets, enclosures, frames and structures. Lower tolerance, high volume of simple jobs, fast turnaround; margin depends on machine use and material cost.
-- **Precision (machining, 3D printing, castings, composites):** tight-tolerance parts for aerospace, defense and medical, made by CNC machining, additive manufacturing (3D printing), casting or composites layup. Slower, needs certifications (AS9100, NADCAP) and a first-article inspection; higher margin.
+- **Precision & Defense Hardware (machining, 3D printing, castings, composites):** tight-tolerance parts for aerospace, defense and medical, made by CNC machining, additive manufacturing (3D printing), casting or composites layup. Slower, needs certifications (AS9100, NADCAP) and a first-article inspection; higher margin.
 
 Between fabrication and precision, the difference matters because fabrication competes on speed and price for many small orders, while precision competes on qualification and trust for long-lived programs. The macro below covers both; where it differs, we say which.
 
@@ -714,7 +714,7 @@ _More unit-economics inputs: Appendix D._
 
 ### 4.10 Companies, grouped by label
 
-#### Metal supply / service centers
+#### Metal Supply
 
 #### Nox Metals (metal distribution; fully integrated; we passed)
 
@@ -757,7 +757,7 @@ _Sub-type: fabrication._
 - **Money:** $124M Series C, February 2026 [src-20260204-ce7053].
 - _More detail: Appendix D (Machina Labs)._
 
-#### Precision parts
+#### Precision & Defense Hardware
 
 #### Hadrian (precision parts; hybrid; fits mostly, benchmark)
 
@@ -783,13 +783,28 @@ _Sub-type: precision._
 - **Money:** $67M Series B, February 2026; PitchBook puts it at $179M after the round [src-20260219-2125d7] (med); about $126M raised.
 - _More detail: Appendix D (Freeform)._
 
-#### Divergent (printed structures; hybrid; partial fit, benchmark)
+#### Divergent (printed structures and munition airframes; fully integrated; fits, benchmark)
 
-_Sub-type: precision._
+_Sub-type: precision & defense hardware._ Website: divergent.us (the old divergent3d.com no longer works).
 
-- **What it makes:** 3D-printed structures plus robotic assembly ("DAPS"). Named defense work: second source for Raytheon's Tomahawk midbody and CoAspire munitions [src-20260601-976843]. A teaming agreement (not a production order) with L3Harris [src-20261013-eda149]. General Atomics work is a 2023 partnership on small drone frames, not missiles [src-20261022-8629b9].
-- **Money:** Series E $290M including $40M of debt, September 2025 [src-20250915-311606].
-- _More detail: Appendix D (Divergent)._
+**What it does.** Divergent makes metal structures for missiles, aircraft and cars with its own system, DAPS: software-defined design, its own metal 3D printers, and robotic assembly without fixed tooling [src-20260617-9683d4]. Its new printer, Monolith One (24 kW, 12 lasers), is built in-house and is not sold or licensed to anyone [src-20260617-9683d4]. It sells parts per unit with a low start fee ("factory-as-a-service") and does not license its technology [src-20260222-9c80a9]. **Label: fully integrated:** it owns the design software, the printers, the alloys, the factory and the assembly.
+
+**Defense traction.**
+- **Tomahawk:** contracted by Raytheon as a second source for the Tomahawk midbody; first prototypes are done and production is aimed for the first half of 2027. The Raytheon–Pentagon contract still waits on the FY2027 budget [src-20260601-976843].
+- **L3Harris:** teaming agreement (Oct 13, 2026) to use Divergent's printing for the Red Wolf and Green Wolf munitions [src-20261013-eda149].
+- **Customers named:** Lockheed Martin, RTX, General Atomics, CoAspire, Saab, Triumph, Bugatti, McLaren [src-20260617-9683d4]; CoAspire work is for the Air Force's affordable-mass-missile programs [src-20260601-976843]. **Claim, CEO:** contracts with 15+ primes [src-20260222-9c80a9].
+
+**Factory 2 (Long Beach).** 430,000 sq ft; 64 Monolith One printers over 24 months, on top of 6 in Torrance [src-20260617-9683d4]. **Claims, company:** up to 30,000 missile airframes or 60,000 warhead casings a year, 8x more output, about 2x the throughput of other printers [src-20260617-9683d4][src-20260601-976843]. About 80% of the factory is driven by defense volume (CEO) [src-20260601-976843].
+
+**Money and growth.** $290M Series E (Sep 2025) at a $2.3B valuation; over $1B raised [src-20260222-9c80a9]. **Claims, CEO:** 2025 revenue more than 5x 2024; planned mix about 70% aerospace and defense, 30% auto over three years; unit cost at parity with high-rate casting [src-20260222-9c80a9]. About 500 staff [src-20260222-9c80a9].
+
+**Bear case.**
+- **Qualification:** aerospace parts need certification that takes years. An independent view (USC's Prof. S.K. Gupta): "Certification is a long, complicated process. That's why technology adoption has been slow"; the article adds that printing is sensitive to conditions, which could make copying the factory harder [src-20260222-9c80a9].
+- **Defense budget dependence:** Tomahawk volume waits on the FY2027 budget, and Factory 2 is mostly sized for munitions [src-20260601-976843].
+- **Capital intensity:** in-house printers plus a 430,000 sq ft plant are expensive to build and fill [inference].
+- **Cost vs casting at scale:** parity with casting is only the CEO's claim; no independent cost data found [gap].
+
+**Next step:** confirm the Tomahawk production start and Factory 2 printer installs in 2027.
 
 #### Amca (buys existing shops; fully integrated; fits)
 
@@ -810,12 +825,12 @@ _Sub-type: precision (tooling and molding)._
 **Nox vs SendCutSend, in one line.** Nox sells standard metal (plate and bar) cut to size; SendCutSend takes the customer's own design and returns a finished custom part [src-20261027-93d80b][src-20261027-82f772].
 
 **Where the sub-sections blur.** The three boxes are a guide, not walls. Checked against each company's own website on Oct 27, 2026:
-- **SendCutSend** started with laser-cut sheet (fabrication) but now also offers CNC machining, bending, welding, plating and powder coat, which overlaps precision [src-20261027-82f772]. Kept in Fabrication because sheet cutting is its core.
+- **SendCutSend** started with laser-cut sheet (fabrication) but now also offers CNC machining, bending, welding, plating and powder coat, which overlaps Precision & Defense Hardware [src-20261027-82f772]. Kept in Fabrication because sheet cutting is its core.
 - **Senra** makes wire harnesses and electrical assemblies, not metal parts [src-20261027-6834f5]. Placed in Fabrication as the closest fit (assembly to a drawing).
-- **Atomic Industries** makes plastic injection-molded parts and its own molds; it says "today our focus is plastics" (**Claim, company**) [src-20261027-de288e]. Placed in Precision (tooling and molding), not metal.
+- **Atomic Industries** makes plastic injection-molded parts and its own molds; it says "today our focus is plastics" (**Claim, company**) [src-20261027-de288e]. Placed in Precision & Defense Hardware (tooling and molding), not metal.
 - **Machina Labs** forms sheet metal with robots (fabrication) but to aerospace tolerances (precision).
-- **Divergent** prints and robot-assembles whole vehicle and aircraft structures, which spans both; its website did not load for us on Oct 27, 2026.
-- **Amca** buys existing component makers (sensors, bearings, hydraulics) rather than running one process; its site describes single-source critical defense components (**Claim, company**) [src-20261027-77bb69]. Placed in Precision.
+- **Divergent** prints and robot-assembles whole missile, aircraft and car structures, which spans both; it sits in Precision & Defense Hardware because most new volume is munitions [src-20260601-976843].
+- **Amca** buys existing component makers (sensors, bearings, hydraulics) rather than running one process; its site describes single-source critical defense components (**Claim, company**) [src-20261027-77bb69]. Placed in Precision & Defense Hardware.
 - **Nox** sells cut metal only; its site lists no machining or finishing [src-20261027-93d80b], so it is a supplier to the other two boxes, not a parts maker.
 
 **Other candidates, new entrants and failures**
@@ -1559,28 +1574,28 @@ Together this is "owner economics without owner capital": a capital-light route 
 **How to read this.** "Target" means worth a diligence call now. "Candidate" means worth watching. "Benchmark" means too expensive for SPC but useful for comparison. "White space" means a gap with no strong company yet.
 
 **Targets.**
-- **Senra** (Parts Manufacturing; fabrication, electrical assemblies): Series B size, real customers, its own software. Next: founder call; ask for first-pass yield and repeat-order data.
-- **Freeform** (Parts Manufacturing; precision): the best-evidenced loop; $179M valuation. Next: customer reference calls (Boeing, DIU).
-- **Isembard** (Parts Manufacturing; precision, franchise): a capital-light Hadrian variant; valuation undisclosed; Thales' procurement chief is skeptical [src-20251110-84b67e]. Next: economics per franchise, and how primes would audit franchised sites.
+- **Senra** (Manufacturing; fabrication, electrical assemblies): Series B size, real customers, its own software. Next: founder call; ask for first-pass yield and repeat-order data.
+- **Freeform** (Manufacturing; precision): the best-evidenced loop; $179M valuation. Next: customer reference calls (Boeing, DIU).
+- **Isembard** (Manufacturing; precision, franchise): a capital-light Hadrian variant; valuation undisclosed; Thales' procurement chief is skeptical [src-20251110-84b67e]. Next: economics per franchise, and how primes would audit franchised sites.
 
 **Enabler worth attention.**
 - **Lumaril** (enabler; AI closed-loop control for process plants): built by the creators of Palantir Foundry; a WSJ headline reports $66M raised at a $400M valuation [src-20261027-79ddd6]. It is the closest software play to our thesis because it is **paid on the production it adds** (company claim) and **runs the plant's controls itself** in closed loop, so it earns like an owner and learns from every change it makes, without owning the plant [src-20261027-d5ba3f] [inference]. Bear: no plant; Honeywell, AspenTech and Emerson APC incumbents; plants must trust it to move setpoints. Next: one plant's before/after yield and how the pricing baseline is set. Full profile: 7.10.
 
 **Candidates.**
 - **Earth AI** (Raw Materials, Stage A; hybrid explorer): owns most of its claims, drills them itself and plans to sell proven deposits; $20M Series B (Jan 2025) [src-20250127-c28430]. Next: drill results at Fontenoy and a timeline to a formal resource estimate. Profile: 3.10.
-- **Fabri** (Parts Manufacturing; castings): castings are about 40% of munitions (claim, Power) [src-20260921-876080]; backed by RTX and Lockheed. Next: a second source.
-- **1872** (Parts Manufacturing; fabrication): cheap entry, energy skids. Next: track to its first repeat order.
-- **Atomic Industries** (Parts Manufacturing; precision, plastic molding): AI-designed molds plus its own presses; claims multi-year part contracts (section 4.10). Next: a buyer call to confirm repeat programs.
-- **Machina** (Parts Manufacturing; precision): depot demand. Next: verify valuation.
+- **Fabri** (Manufacturing; castings): castings are about 40% of munitions (claim, Power) [src-20260921-876080]; backed by RTX and Lockheed. Next: a second source.
+- **1872** (Manufacturing; fabrication): cheap entry, energy skids. Next: track to its first repeat order.
+- **Atomic Industries** (Manufacturing; precision, plastic molding): AI-designed molds plus its own presses; claims multi-year part contracts (section 4.10). Next: a buyer call to confirm repeat programs.
+- **Machina** (Manufacturing; precision): depot demand. Next: verify valuation.
 
 **Benchmarks.** Hadrian, Divergent, SendCutSend, Mariana and Amca are priced at $1B-$7.9B. (Oct 26 run: no new candidates added; Mariana's project-level financing [claim, src-20261024-c53370] lowers its equity need but doesn't change its tier.) Periodic, CuspAI, Mind and Arda are priced before product; watch for revenue.
 
 **White space.**
-- Parts Manufacturing (metal supply): software for mid-size metal distributors: about 9,400 sites, with the top 50 holding half [src-20251201-4b732d]. We passed on Nox.
-- Parts Manufacturing, forgings: the Pentagon flags castings and forgings as hard to enter [src-20220215-45c353]; no AI-native forger is in the repo.
-- Parts Manufacturing, inspection as a service: inspection takes as long at Hadrian as at legacy shops [src-20260908-ed94f0].
+- Manufacturing (metal supply): software for mid-size metal distributors: about 9,400 sites, with the top 50 holding half [src-20251201-4b732d]. We passed on Nox.
+- Manufacturing, forgings: the Pentagon flags castings and forgings as hard to enter [src-20220215-45c353]; no AI-native forger is in the repo.
+- Manufacturing, inspection as a service: inspection takes as long at Hadrian as at legacy shops [src-20260908-ed94f0].
 
-**What this means [inference].** SPC's entry is a Series B in Parts Manufacturing (fabrication or a franchise-style variant), with Lumaril as the one enabler worth a call, not the expensive leaders.
+**What this means [inference].** SPC's entry is a Series B in Manufacturing (fabrication or a franchise-style variant), with Lumaril as the one enabler worth a call, not the expensive leaders.
 
 ## 13. Bottom line
 
@@ -1588,13 +1603,13 @@ Together this is "owner economics without owner capital": a capital-light route 
 1. The category is real, but proven demand is narrow. Most buyers value flexibility, scale and total program cost over speed [src-20260921-876080]. Paid demand is speed on prototypes and low-rate work. These startups hold 2-10% of spend at the primes we spoke to [src-20260802-ef6506][src-20260802-36d46c].
 2. The data loop has partial evidence (score 2) only where the process is continuous: Freeform, Mariana, Radical, plus Hadrian's faster training. Nobody shows improvement over time (section each chapter's data-loop section).
 3. Capital falls into three tiers: capital-light owner-operators (SendCutSend, Senra); capital-heavy owner-operators funded by debt and government (Hadrian, Vulcan, Mariana); and software vendors that need someone else's plant (Arda, Mind) [inference].
-4. Precision parts is priced out at the top: Hadrian $7.87B [src-20260807-b0dc5b], Amca over $1B [src-20260520-af3e6c]. SPC's entry is Series B in fabrication or a hybrid or franchise model [inference].
+4. Precision & Defense Hardware is priced out at the top: Hadrian $7.87B [src-20260807-b0dc5b], Amca over $1B [src-20260520-af3e6c]. SPC's entry is Series B in fabrication or a hybrid or franchise model [inference].
 5. Policy money lands mostly on metals supply: OSC, tariffs including copper, IEA finance, and DPA awards to rare earths and rocket motors [src-20251103-ee9b27][src-20260402-1b5d6c][src-20250805-80f2f4][src-20261019-68fd3d]. The FY26 defense law adds robotic munitions automation and a fund for castings, forgings and machine tools, but no money has reached tracked startups yet [src-20251218-f0d6ef]. Precision parts gets its pull through prime contracts instead [inference].
 
 **Our pick per layer and model [inference].**
 - Metals supply: Vulcan and Mariana as benchmarks; distributor software as white space.
 - Fabrication: **Senra** (pick); SendCutSend (benchmark); 1872; Machina (hybrid); Path Robotics (enabler).
-- Precision parts: **Freeform** (pick); Fabri; **Isembard** (hybrid pick); Hadrian and Divergent (benchmarks).
+- Manufacturing, Precision & Defense Hardware: **Freeform** (pick); Fabri; **Isembard** (hybrid pick); Hadrian and Divergent (benchmarks).
 - Materials R&D: Radical and Periodic (own labs); CuspAI (software).
 - Factory software: Arda and Mind (benchmarks); Siemens and Rockwell (incumbents).
 
@@ -1705,7 +1720,7 @@ Together this is "owner economics without owner capital": a capital-light route 
 - Hadrian revenue: two low-confidence figures conflict; get a primary number.
 - Startup gross margins: none disclosed; ask Senra, SendCutSend.
 - Raw Materials (Stage B): refining TAM and economics: no free source found.
-- Parts Manufacturing: fabrication TAM: none; Census CBP gives counts and payroll only [src-20250626-23f6d9]. Next: 2022 Economic Census receipts by NAICS 3323/3327.
+- Manufacturing: fabrication TAM: none; Census CBP gives counts and payroll only [src-20250626-23f6d9]. Next: 2022 Economic Census receipts by NAICS 3323/3327.
 - AI/robotics cost decline over 24 months: no source.
 - Golden Dome amounts: the NDAA funding tables reference Golden Dome funds; size and recipients unconfirmed [src-20251218-f0d6ef]. Freeform Skyfall go-live: unconfirmed.
 - ABL use by startups: none evidenced.
@@ -1908,14 +1923,6 @@ Chemistry's public data (patents, papers) mostly records successes and leaves ou
 - **Buyers:** hundreds of mission-critical parts a week, customers undisclosed [src-20260219-2125d7]; a fast prototype contract (OTA) from DIU, the Pentagon's tech-buying unit [src-20260901-6e197d].
 - **Bear:** metal 3D printing has the worst failure record in this theme (Velo3D, Markforged; section 8). Freeform's claims are company-only and Skyfall is unconfirmed.
 - **What this means [inference]:** the clearest live feedback loop in precision parts, and small enough for SPC.
-
-**Divergent**
-
-- **Scale:** Long Beach plant, 430,000 sq ft, 1,000 jobs, online by end-2026, sized for 30,000 airframes a year; aerospace and defense about 80% of work [src-20261023-e02543].
-- **Claims (Divergent):** revenue up over 5x [src-20250915-262bfd]; about 30 programs with 15 primes [src-20261014-47f64b]; old Tomahawk casting suppliers get under 20% good parts [src-20260113-c08796]. Some programs about 50% cheaper per unit [src-20260523-b05ded] (unverified). "Over 30 production contracts" in 18 months, unnamed and unvalued; repair parts redesigned in 24-48 hours where casting suppliers quit [src-20251015-e9edbf]. Production car frames for Aston Martin and other brands [src-20250309-b9a3c2].
-- **Bear:** asked about a Navy 3D-printing center that "haven't been able to achieve" 20-40% savings, Czinger called it "an adoption issue" [src-20260113-c08796]. An Anduril engineer called Divergent "not really a scalable thing" (opinion, March 2025) [src-20250623-5bc67c] (low).
-- **What this means [inference]:** a car-to-defense pivot that worked; a benchmark at $2.3B.
-- **More specifics (from all sources):** **Claim (Czinger):** the first factory exits "about three airframes per day"; it "haven't cracked it yet" on exquisite munitions [src-20261014-47f64b]. Printer output rose from 50 grams to 1-2 kg an hour; structures priced "at or below casting"; 500+ products on the same machines [src-20260325-7ba845]. "We never compete as a prime" [src-20261002-b0cee5].
 
 **Amca**
 

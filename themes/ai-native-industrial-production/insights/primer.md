@@ -1,13 +1,13 @@
 # Vertically Integrated Industries: VC primer
 
-_Version 9.5, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.4 adds "Listen & watch" episode lists to each chapter and a listening appendix (E). v9.3 renamed Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over. v9.5 adds "Commercial traction and incumbents" sections (3.14-7.14), removes Nox from Raw Materials, and removes repeated text (Chemicals first)._
+_Version 9.6, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.4 adds "Listen & watch" episode lists to each chapter and a listening appendix (E). v9.3 renamed Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over. v9.5 adds "Commercial traction and incumbents" sections (3.14-7.14), removes Nox from Raw Materials, and removes repeated text (Chemicals first). v9.6 narrows chapter 5 to Specialty Chemicals: full market map, supply chain, economics, incumbents and new AI-enabled specialty startups._
 
 **The idea in plain English.** America has spent forty years outsourcing the "hard middle" of making things: digging and refining minerals, making metal, machining and welding parts, and producing chemicals. Now defense, industrial policy and China's export controls make that middle valuable again, and it is short of plants and people. We look for startups that **own the plant and sell the physical output** (a mineral, a metal, a part, a chemical) and use **AI, software and automation inside their own operations** to build faster and run with fewer scarce skilled workers than incumbents. Owning production is what lets them keep the margin and the data.
 
 **The five industries (chapters 3–7).**
 1. **Raw Materials (Minerals & Metals)** — Stage A, finding and mining ore; Stage B, refining and making metal (smelting, alloys, magnets, powders).
 2. **Manufacturing** — metal supply / service centers, then **fabrication (sheet/structures)** and **precision (machining, 3D printing, castings, composites)**.
-3. **Chemicals** — producers of chemicals, fuels, fertilizers and pharma ingredients.
+3. **Specialty Chemicals** — producers of pharma ingredients and intermediates, agrochemical actives, electronic chemicals, fragrances, coatings and additives, catalysts and performance polymers, plus AI molecule discovery.
 4. **Advanced Materials** — producers of engineered materials (battery cathodes, cooling fluids), with a separate **Materials Discovery Labs** sub-group.
 5. **Enabling Software & Robotics** — tools sold to other people's factories; tracked, **outside the core**.
 
@@ -328,14 +328,14 @@ _Each industry chapter repeats its own market-size numbers in section x.7._
 
 ### 2.14 Macro scorecard by industry [inference]
 
-| Force | Raw Materials (A: mining / B: refining & metal) | Manufacturing | Chemicals | Advanced Materials | Software & Robotics |
+| Force | Raw Materials (A: mining / B: refining & metal) | Manufacturing | Specialty Chemicals | Advanced Materials | Software & Robotics |
 |---|---|---|---|---|---|
 | OSC/EDF/DPA money | Strong + (both stages; most to B) | + (via defense) | Mild + (DOE loans, grants) | + (DOE battery awards) | 0 |
 | China export controls | Strong + (B most) | Input-cost − | + (pharma reshoring, BIOSECURE) | + (battery materials) | 0 |
 | Section 232 tariffs | A: Mild +; B: Strong + (makers), − (buyers) | Mixed | + (pharma; generics excluded) | 0 | 0 |
 | Rates 3.75–4.00% | − (most capex-heavy) | Mild − | − | − | Mild − |
 | Construction slowdown | − | − | Mild − | 0 | − |
-| Munitions budget | + (B strong: magnets, alloys) | Strong + | Mild + (energetics, fuels) | 0 | Mild + |
+| Munitions budget | + (B strong: magnets, alloys) | Strong + | Mild + (energetics) | 0 | Mild + |
 | Labor shortage | Mild − | Strong + (automation edge) | Mild + | Mild + | Strong + |
 | 100% bonus depreciation | + | + | + | + | + (buyers' capex) |
 | VC concentration | − | Hype pricing | Mild − | Hype pricing (discovery labs) | − |
@@ -967,91 +967,105 @@ _Labels as in 3.14._
 
 **5-year outlook (to 2031).** **Likely.** SendCutSend, Hadrian and Divergent already sell, and defense demand is pulling. **Bear case, equal weight:** defense demand is lumpy and budget-dependent (2.6); customers "outgrow" online fabricators by buying machines [src-20251002-6a5afd]; and incumbents can buy the same robots (GrayMatter rents cells to them [src-20261022-3335bd]), so the margin edge may shrink.
 
-## 5. Chemicals
+## 5. Specialty Chemicals
 
-_What this industry is._ Chemicals covers companies that make and sell molecules: commodity and specialty chemicals, fuels, fertilizers and pharmaceutical ingredients (APIs and their intermediates). Engineered materials (battery cathodes, cooling fluids, alloys) and the AI discovery labs are now a separate chapter (6, Advanced Materials).
+_What this industry is._ Specialty chemicals are molecules sold for what they do, not what they are, in smaller volumes and at higher prices than bulk chemicals. This chapter covers pharmaceutical ingredients (APIs, their intermediates and key starting materials), agrochemical actives, electronic and semiconductor chemicals, flavors and fragrances, coatings and additives, catalysts, performance polymers, and AI molecule discovery. Engineered materials (battery cathodes, cooling fluids, alloys) and the materials discovery labs sit in chapter 6. **Brooke's focus** runs through the chapter: the chemical supply chain (5.6, 5.7) and AI-designed molecules (5.8, 5.10, 5.14).
 
 ### 5.1 The problem today
 
-- **Europe is closing plants.** About 9% of European capacity (37 Mt) is closing; plants need 80–85% utilization to pay (detail 5.6).
-- **US growth is flat.** US chemical volumes are expected up only 0.5% in 2026 (detail 5.6).
-- **Pharma ingredients depend on China and India.** About 46% of US generic doses depend on Chinese source materials (detail 5.6).
-- **The 'valley of death' killed the last wave.** Zymergen admitted it had no commercial-scale manufacturing and its contract makers missed goals [src-20220101-9c58e3]; LanzaTech's FY2025 10-K flags substantial doubt about going concern [src-20260331-20d171]. Twelve's first plant opened years late [src-20260610-bf26af].
+- **US drug supply rests on China and India.** About 46% of US generic doses depend on Chinese source materials (detail 5.6).
+- **Specialty demand is soft.** US specialty output is expected to fall 0.3% in 2026, except for chips, data centers and healthcare (detail 5.6).
+- **New molecules take years to reach customers.** Discovery is getting faster, but qualification and regulatory review (TSCA, FDA, pesticide registration) are not (5.14).
+- **The 'valley of death' killed the last wave.** See 5.11 (1).
 
-### 5.2 Macro and tailwinds, ranked [ranking is inference]
+### 5.2 Market map, size and economics
+
+Estimates of the global specialty market vary with definitions: **$626.5B** in 2025 on one count [src-20260101-69df28] and **$1.4T** on a broader one [src-20250101-1d84c3] (both low-confidence market-research figures). Asia-Pacific is about 47% of revenue [src-20260101-cab1ab].
+
+| Segment | Rough share of specialty market | What it is | Startups in this primer |
+|---|---|---|---|
+| Pharma APIs, intermediates, KSMs | ~8–10% [src-20250101-1d84c3] | The active molecule in a drug and its building blocks | Phlow, On Demand Pharmaceuticals, Warp, Chemify, Scimplify |
+| Agrochemical actives | ~10–20% [src-20250101-1d84c3][src-20260101-cab1ab] | Herbicides, fungicides, insecticides | Enko |
+| Electronic / semiconductor chemicals | ~15% [src-20260101-cab1ab] | High-purity acids, CMP slurries, photoresists | Scimplify (partly); Discovered Materials (discovery) |
+| Flavors and fragrances | not broken out [gap] | Scent and taste molecules | Osmo |
+| Coatings, adhesives, additives | ~25–30% coatings, ~18–22% adhesives [src-20250101-1d84c3] | Resins, pigments, curing agents, additives | **No producer startup found**; Albert (formulation software) |
+| Catalysts | not broken out [gap] | Molecules that speed reactions in plants and cars | Dunia (discovery); Orbital licenses catalyst software to BASF (6.10) |
+| Performance polymers | ~33% of one estimate (specialty polymers) [src-20260101-cab1ab] | High-spec plastics and elastomers | **No startup found** |
+| Personal care and bio-based ingredients | ~12–15% [src-20250101-1d84c3] | Emulsifiers, actives, bio-made ingredients | Debut, Solugen |
+
+_Gaps:_ the segment shares come from different vendor reports with different scopes, so they do not add to 100%.
+
+#### How specialty economics differ from commodity
+
+| | Commodity | Specialty |
+|---|---|---|
+| Sold on | Price per ton | Performance in the customer's product |
+| Plants | Giant, continuous (millions of t/yr) | Small, often batch, multi-product (5.7) |
+| Margins (2025) | Dow net loss $2.4B [src-20260129-338338]; LyondellBasell net loss $738M [src-20260130-12a9f3] | Lonza CORE EBITDA 31.6% [src-20260128-af3b8f]; Clariant 17.8% [src-20260226-f774af]; Evonik 13.3% [src-20260305-5c5e74] |
+| Switching cost | Low | High: the customer must re-qualify. **Claim (Scimplify):** custom development usually takes 12–18 months [src-20261014-b218c5] |
+| Where AI helps | Plant control | Finding the molecule, the route and the formulation, then speeding qualification |
+
+_Meaning [inference]:_ specialty buyers pay for performance and pay again for reliability, so a supplier that is qualified tends to stay. That makes specialty the part of chemistry where a startup can earn margin without matching incumbents on scale.
+
+### 5.3 Tailwinds, ranked [ranking is inference]
 
 | Rank | Tailwind | Date / size | Structural or reversible? |
 |---|---|---|---|
-| 1 | **Pharma onshoring policy** | Section 232 pharma tariff (April 2026): 100% on patented drugs and ingredients, 20% with approved onshoring plans [src-20260402-ecae19]; BIOSECURE enacted Dec 18, 2025, first list due Dec 2026 [src-20260110-4db409]; WuXi AppTec on the 1260H list (June 2026) [src-20260818-489fdf] | BIOSECURE structural (statute); tariff reversible |
-| 2 | **Europe's capacity exit** | 37 Mt closed, about 9% of capacity [src-20260115-ec35af] | Structural (energy costs) |
-| 3 | **US feedstock and energy edge** | Cheap shale ethane; Middle East disruption raising demand for US output [src-20260615-0c9b7e] | Durable, gas-price dependent |
-| 4 | **Government loans and grants** | Solugen conditional $213.6M DOE loan guarantee [src-20240613-2df5d6]; Phlow $15.9M award [src-20260721-fa5081]; On Demand Pharmaceuticals ~$35.6M federal awards [src-20250813-79a0cf]; AIRCO ~$70M DoD-related awards [src-20260526-9ebac5] | Annual budgets; reversible |
-| 5 | **Defense chemicals (energetics, fuels)** | Munitions 8.5x request [src-20261007-c6f64e]; AIRCO MAD fuel systems [src-20260526-9ebac5] | Structural for the munitions cycle |
-| 6 | **Cheap US gas and ammonia** | Henry Hub averaged about $3.44/MMBtu in 2025; US ammonia plants ran at about 80% and net import reliance fell to 5% [src-20260206-c8fbbc] | Durable while shale lasts |
+| 1 | **Pharma onshoring policy** | Section 232 pharma tariff and BIOSECURE (detail 5.6) | BIOSECURE structural (statute); tariff reversible |
+| 2 | **The state as a buyer of APIs** | Strategic API Reserve for about 26 critical drugs [src-20260701-818dbe] | Executive order; reversible |
+| 3 | **Specialty demand from chips, data centers and healthcare** | Still growing while other specialty output falls [src-20260615-0c9b7e] | Structural while AI capex lasts |
+| 4 | **Europe's retreat** | Closures and insolvencies leave buyers of European intermediates looking for suppliers (5.6) | Structural (energy costs) |
+| 5 | **AI shortens discovery and formulation** | **Claims:** Enko 75% faster discovery [src-20250601-f7467b]; Scimplify 2 months vs 12–18 [src-20261014-b218c5] | Unproven at scale |
+| 6 | **Government grants and loans** | Phlow $15.9M award [src-20260721-fa5081]; On Demand Pharmaceuticals ~$35.6M [src-20250813-79a0cf]; Solugen conditional $213.6M DOE loan [src-20240613-2df5d6] | Annual budgets; reversible |
+| 7 | **FDA PreCheck** | Reviews a new plant before any product filing; seven sites picked June 29, 2026 [src-20260629-8074e1] | Pilot program |
 
-**Pharma onshoring money, in numbers.** Since Eli Lilly's $27B API and sterile-injectables pledge in 2025, 14 big drugmakers have pledged more than $480B of US production over 4–10 years, pointing to 22 new sites and about 44,000 jobs [src-20260601-17c2d4]. CBRE counts about $600B of 2025 manufacturing-plus-R&D pledges but only about $60B tied to specific amounts and locations [src-20260210-883e2f]. In 2026 nine mid-sized firms (including Teva and Sun) pledged another $19.6B for tariff exemptions; MFN pricing deals now cover 26 companies and 89% of the branded market [src-20260701-818dbe]. The 232 regime gives 0% until 2029 to firms with pricing deals, and generics are exempt but under review [src-20260601-17c2d4].
+**Pharma onshoring money, in numbers.** Fourteen big drugmakers have pledged more than $480B of US production [src-20260601-17c2d4], but only about $60B of about $600B of pledges has specific amounts and locations [src-20260210-883e2f]. _Meaning [inference]:_ the pledges fund big pharma's own patented-drug plants. The opening for startups is generic APIs and KSMs, where only policy (the reserve, a generics tariff, BIOSECURE) creates a buyer.
 
-**The state is now a buyer of APIs.** An August 2025 executive order directs HHS (ASPR) to secure a six-month API supply for about 26 critical drugs in the Strategic API Reserve, prioritizing domestic sources; the order says only about 10% of APIs by volume are US-made [src-20260701-818dbe]. Companies are donating tons of antibiotics and other APIs to it [src-20260701-818dbe].
+### 5.4 Headwinds, at equal weight
 
-**FDA is clearing the path for new plants.** FDA PreCheck opened February 1, 2026, drew 80+ requests in a month and picked seven facilities on June 29, 2026, including Lilly's API plant in Lebanon, Indiana and Amneal's sterile plant [src-20260629-8074e1]. It reviews a new plant before any product application, which shortens the slowest step for a new API maker [inference].
+1. **Specialty demand is flat.** US specialty output is expected to fall 0.3% in 2026 [src-20260615-0c9b7e]; in Europe, dyes and pigments fell 2.7% in the first half of 2026 [src-20260915-e74614].
+2. **Qualification is slow and sticky.** Incumbents are already qualified; a customer switches only for a real gain (5.2).
+3. **Regulation sets the clock, not AI.** A new US chemical's median TSCA review took 520 days in 2025; pesticides and drugs take longer (5.14).
+4. **Generics are outside the 232 tariff.** See 5.11 (4).
+5. **Pledges are not plants.** See 5.3.
+6. **Rates.** Plants are capital-heavy and long-dated; Fed 3.75–4.00% [src-20260916-f0c016].
+7. **AI discovery is not the bottleneck.** Discovery without scale-up does not create supply (see 5.8).
 
-**Why it matters for startups [inference].** The big pledges mostly fund big pharma's own patented-drug plants. The gap left open is generic APIs and key starting materials (KSMs) — the 46% China-dependence number — where margins are thin and only policy (SAPIR purchases, a generics tariff, BIOSECURE) creates a buyer. That is exactly where Phlow and On Demand Pharmaceuticals sit. Watch whether equipment orders follow the pledges: CFR notes that even 15% of pledged capital going to equipment would be more than $75B of orders, which had not appeared [src-20260601-17c2d4].
+### 5.5 Why an AI-enabled, vertically integrated company wins here
 
-**Feedstock and energy: the US–Europe gap, in numbers.** Gas is both fuel and raw material for chemicals: in Europe 62% of the industry's gas is burned for heat and 38% is feedstock, and the industry is Europe's largest industrial gas user (324 TWh in 2023) [src-20251001-7ec954]. From January to July 2026 European gas averaged €45.1/MWh (up 15.7%) against €12.5/MWh in the US (down 9%); the ratio widened from 2.8 to 3.6, and in July 2026 European gas cost more than five times US gas [src-20260915-e74614]. European gas is still about 2.5 times its 2014–19 average while US gas is only about 6% above; EU chemical capacity utilization sits at 75% and EU chemical imports fell 5.9% in the first half of 2026 [src-20260915-e74614]. _Meaning [inference]:_ this is a structural cost edge for any molecule made from gas in the US, and the reason Europe's 37 Mt of closures [src-20260115-ec35af] are not coming back.
+- **Owning the plant captures the margin.** Specialty margins are earned by whoever is qualified to supply (5.2); pure AI software for chemistry is a tool, labeled **enabler**.
+- **AI shortens the slow steps.** Finding the molecule (Enko, Osmo), planning the route and process (Scimplify, Chemify), and continuous-flow plants (Phlow, On Demand Pharmaceuticals). All are **claims** at this stage.
+- **Each order feeds the data loop.** A producer that makes many custom molecules builds proprietary process data that a software vendor never sees [inference].
+- **Versus imports:** BIOSECURE and the 232 tariff reward provable US supply.
+- **Where it breaks [inference]:** regulators (FDA, EPA) set the timeline, and a customer's qualification cycle does not move just because the molecule was found faster.
 
-**Ammonia and fertilizer.** The US made 14.0 Mt of ammonia (as nitrogen) in 2025 at 38 plants of 18 companies, 57% of capacity in Louisiana, Oklahoma and Texas, running at about 80%; 88% goes to fertilizer and the rest to explosives, plastics and fibers. Net import reliance fell from 13% (2021) to 5% (2025), with imports mainly from Canada (49%) and Trinidad (47%). Gulf ammonia averaged about $450 per short ton in 2025 against $1,070 in 2022 [src-20260206-c8fbbc]. _Meaning [inference]:_ the US is close to self-sufficient in commodity nitrogen, so a newcomer like Nitricity wins only on a niche (organic, local, low-carbon) rather than on supply security; prices swing more than twofold with gas, which sets the bar for any alternative.
+**What would have to be true, and signals to watch.**
+- Onshoring rules bite on generics. **Watch:** any 232 extension to generics; BIOSECURE's first OMB list (Dec 2026).
+- Repeat orders from paying buyers. **Watch:** Phlow's FDA decision (2027); Osmo's ingredient sales to large brands; Scimplify's US plant with Teknor Apex.
+- AI-designed molecules clear regulators. **Watch:** Enko herbicides entering registration.
 
-**Oil-based feedstocks.** Brent averaged about €74.6 a barrel over the 2026 period Cefic tracks [src-20260915-e74614]; oil-based (naphtha) crackers dominate Europe while US crackers run mostly on ethane from shale gas, which is why the gas gap above flows straight into petrochemical costs [inference]. Demand growth: see 5.6. _Meaning [inference]:_ US demand is flat, so US makers grow mainly by taking export share from Europe and imports, not from a growing home market.
+### 5.6 Macro in more depth: the supply chain
 
-**Process-plant software is a related bet.** Process plants (chemicals, polymers, biologics) are the main market for Lumaril, an AI closed-loop control startup profiled as an enabler in section 7.10. If plants can raise yield through software alone, that lowers the bar for existing US plants and competes with new-build startups [inference].
+**China and India own the pharma building blocks.** About 90% of US prescriptions are generics. India supplies 47.2% of US generic doses and China 13.0%; only 10.5% are US-made. Indian firms get 65–70% of their KSMs, intermediates and APIs from China, so after adjusting, about 46% of US generic doses depend on Chinese source materials [src-20250605-bde73f]. Estimates vary: direct Chinese API is about 8% of volume, and Brookings puts Chinese API in "perhaps a quarter" of US drug volume [src-20250501-c298cb]. CFR finds about 41% of KSMs in US-approved APIs come only from China, including the starting materials for 94% of amoxicillin, 74% of heparin and 70% of acetaminophen sold in the US; US amoxicillin production went from 100% domestic to zero in twelve years. Shortages would peak 4.5–9 months after a Chinese restriction [src-20260501-7f527d]. Only about 10% of APIs by volume are US-made [src-20260701-818dbe]. _Meaning [inference]:_ the case is strongest for a short list of old, cheap molecules, which need a price floor or a government buyer.
 
-### 5.3 Headwinds, at equal weight
+**Beyond pharma, Asia holds the volume.** Asia-Pacific is about 47% of specialty revenue [src-20260101-cab1ab]. Electronic chemicals are growing with Asian fab expansion and US subsidies [src-20260101-cab1ab]. India is emerging as an AI-enabled specialty supplier as buyers diversify away from China (Scimplify, 5.10) [src-20261014-b218c5].
 
-1. **Commodities are an incumbent's game.** See 5.11 (3).
-2. **Scale-up kills companies.** See 5.11 (1); Geno was sold in 2026 [src-20260812-dc968f].
-3. **Green premiums are fragile.** Alaska postponed its Twelve-fuel flight over carbon intensity [src-20260901-c5f851]; e-fuels need mandates or buyers paying more.
-4. **Regulators can stop a product.** California says Nitricity's fertilizer contains prohibited synthetic nitrogen; litigation ongoing [src-20260320-7b8d7b]. Phlow's epinephrine awaits FDA (2027) [src-20260209-16223c].
-5. **Generics are excluded from the 232 tariff.** See 5.11 (4).
-6. **Pledges are not plants.** Only about $60B of about $600B of pharma pledges has specific amounts and locations [src-20260210-883e2f], and equipment orders have not followed [src-20260601-17c2d4]. Pricing deals give 0% tariffs until 2029, blunting the stick [src-20260601-17c2d4].
-7. **Rates.** Plants are capital-heavy and long-dated; Fed 3.75–4.00% [src-20260916-f0c016].
-8. **AI discovery is not the bottleneck.** Discovery without scale-up does not create supply [inference].
+**Europe is shrinking.** Announced European closures reached 37 Mt over 2022–25, about 9% of capacity, with energy cost the reason in 49% of cases [src-20260115-ec35af]. Plants need 80–85% utilization to pay; Europe averages about 74%, and more than 30 German chemical companies a year have gone insolvent since 2024 [src-20260401-e2adb0]. Specialty exports from the EU fell €1.5B in the first half of 2026 [src-20260915-e74614]. _Meaning [inference]:_ buyers of European intermediates need new suppliers, and US makers with cheap energy are the natural replacement.
 
-### 5.4 Why an AI-enabled, vertically integrated company is the answer here
-
-- **Owning the plant captures the value.** Whoever sells the molecule keeps the margin; pure AI software for chemistry is a tool, so we label it **enabler** only.
-- **AI and automation shorten scale-up,** the step that killed the last wave: continuous-flow and modular plants (Phlow, On Demand Pharmaceuticals), AI-tuned bioprocesses (Solugen), robotic labs (Chemify, Radical) — mostly **claims** at this stage.
-- **Versus imports:** BIOSECURE and the 232 tariff reward provable US supply for APIs and intermediates.
-- **Where it breaks [inference].** In commodities, cost per ton wins and incumbents own it; in pharma, FDA approval, not AI, sets the timeline.
-
-### 5.5 What would have to be true, and signals to watch
-
-- Onshoring rules bite on generics, not just patented drugs. **Watch:** any 232 extension to generics; BIOSECURE's first OMB list (due Dec 2026).
-- Repeat orders from paying buyers. **Watch:** Phlow's FDA decision on epinephrine (2027); Nitricity's sold-out-through-2028 contracts holding after the CDFA case; Twelve's fuel deliveries.
-- Plants hit nameplate on time. **Watch:** Solugen's Bioforge Marshall; Twelve AirPlant One output versus 50k gal/yr.
-- The US–Europe gas gap stays wide. **Watch:** Cefic's quarterly gas ratio (3.6 in Jan–Jul 2026) [src-20260915-e74614].
-
-### 5.6 Macro in more depth
-
-**Europe is shrinking.** Announced European chemical closures rose sixfold a year, to 37 Mt over 2022–25, about 9% of capacity. Almost half is upstream petrochemicals; nine steam crackers (16% of Europe's cracking capacity) are closing. In 49% of cases the stated reason is energy cost. Confirmed new investment collapsed to 0.3 Mt in 2025, and confirmed capex fell from EUR7.6bn to 1.5bn [src-20260115-ec35af]. Roland Berger calls it a "structural reset," not a downturn, with about 20,000 direct and 89,000 indirect jobs at risk [src-20260201-63910c]. FTI says chemical plants need 80–85% utilization to pay; Europe's average is about 74% and Germany's was 70% in Q3 2025, some segments are below 65%, more than 30 German chemical companies a year have gone insolvent since 2024, and Europe's share of global chemical sales is set to stay below 15% [src-20260401-e2adb0]. Roland Berger puts the net capacity loss above 30 Mt [src-20260201-63910c]. _Meaning [inference]:_ buyers of European intermediates need new suppliers; US plants with cheap gas are the natural replacement.
-
-**The US has a feedstock edge, but growth is slow.** Shale gas makes US ethane cheap. ACC expects US chemical volumes up only 0.5% in 2026, led by basic chemicals, with specialty and consumer chemicals declining. Middle East disruption is raising demand for gas-advantaged US output; tariff uncertainty is the main risk [src-20260615-0c9b7e]. [inference] Commodity chemistry in the US is an incumbent's game (Dow, ExxonMobil, LyondellBasell); the openings for startups are further up the ladder.
-
-**China and India own the pharma building blocks.** About 90% of US prescriptions are generics. India supplies 47.2% of US generic doses and China 13.0%; only 10.5% are US-made. Indian firms get 65–70% of their KSMs, intermediates and APIs from China, so after adjusting, about 46% of US generic doses depend on Chinese source materials [src-20250605-bde73f]. Estimates vary: direct Chinese API is about 8% of volume, and Brookings' own review puts Chinese API in "perhaps a quarter" of US drug volume [src-20250501-c298cb]. CFR finds about 41% of KSMs in US-approved APIs come only from China, including the starting materials for 94% of amoxicillin, 74% of heparin and 70% of acetaminophen sold in the US; US amoxicillin production went from 100% domestic to zero in twelve years. It estimates shortages would peak 4.5–9 months after a Chinese restriction [src-20260501-7f527d]. _Meaning [inference]:_ the case is strongest for a short list of old, cheap molecules, which need a price floor or a government buyer.
+**US demand.** US specialty output is expected down 0.3% in 2026 and up 2.7% in 2027; specialties for semiconductors, data centers and healthcare keep growing [src-20260615-0c9b7e].
 
 **Policy is pushing reshoring, mainly in pharma.**
-- **Section 232 pharma tariff (April 2026):** 100% on patented drugs and their ingredients; 20% for companies with approved onshoring plans (rising to 100% in 2030); zero for companies with pricing-and-onshoring deals; 15% for the EU, Japan, Korea and Switzerland. Generics are excluded for now. FDA data cited in the proclamation: only 15% of patented API volume is made in the US [src-20260402-ecae19]. Deadlines run to July 31 and September 29, 2026; pricing-deal firms get 0% until 2029 [src-20260601-17c2d4].
-- **BIOSECURE Act:** enacted in the FY2026 defense bill (signed Dec 18, 2025). It bars federal contracts, grants and loans involving "biotechnology companies of concern"; the first OMB list is due by Dec 2026 [src-20260110-4db409]. The Pentagon added WuXi AppTec to its 1260H list in June 2026 [src-20260818-489fdf].
-- **Executive Order 14293 (May 2025)** and FDA's PreCheck pilot speed approval of new US drug and API plants (see the policy tracker, section 11).
-- **Government lending** (section 2.4) can fund plants: Solugen holds a conditional $213.6M DOE loan guarantee [src-20240613-2df5d6].
-
-[inference] The policy pull is strongest for pharma intermediates and APIs and for defense chemicals (energetics). It is weakest for commodities, where the US is already a net exporter.
+- **Section 232 pharma tariff (April 2026):** 100% on patented drugs and their ingredients; 20% with approved onshoring plans (rising to 100% in 2030); zero for pricing-and-onshoring deals; 15% for the EU, Japan, Korea and Switzerland. Generics are excluded for now. Only 15% of patented API volume is US-made [src-20260402-ecae19]. Deadlines run to July 31 and September 29, 2026; pricing-deal firms get 0% until 2029 [src-20260601-17c2d4].
+- **BIOSECURE Act:** enacted Dec 18, 2025. It bars federal contracts, grants and loans involving "biotechnology companies of concern"; the first OMB list is due by Dec 2026 [src-20260110-4db409]. The Pentagon added WuXi AppTec to its 1260H list in June 2026 [src-20260818-489fdf].
+- **Strategic API Reserve:** an August 2025 order directs HHS to hold six months of API for about 26 critical drugs, favoring domestic sources [src-20260701-818dbe].
+- **Executive Order 14293 and FDA PreCheck** speed approval of new US drug and API plants (section 11).
 
 ### 5.7 How the industry and its supply chain work
 
 Think of chemistry as a five-step ladder. Each step takes the output of the step below and makes it more specific, smaller in volume and higher in price per kilogram.
 
 1. **Feedstocks.** The raw inputs: natural gas and natural-gas liquids (ethane, propane), crude-oil fractions (naphtha), salt, sulfur, phosphate rock and, increasingly, biomass such as corn sugar.
-2. **Commodity (basic) chemicals.** Made in giant, continuous plants measured in millions of tons a year. A **steam cracker** heats ethane or naphtha to "crack" it into ethylene and propylene, the building blocks of most plastics. Others: ammonia, chlorine, sulfuric acid, methanol. Price is set by feedstock and energy cost; margins are thin and cyclical.
+2. **Commodity (basic) chemicals.** Made in giant, continuous plants measured in millions of tons a year. A **steam cracker** heats ethane or naphtha to "crack" it into ethylene and propylene, the building blocks of most plastics. Others: chlorine, sulfuric acid, methanol. Price is set by feedstock and energy cost; margins are thin and cyclical.
 3. **Intermediates.** Molecules one or several reaction steps further on (for example acetic acid, adipic acid, solvents and monomers). In pharma, the key ones are **key starting materials (KSMs)**, the purchased building blocks an approved drug process starts from.
 4. **Specialty and fine chemicals.** Smaller volumes sold for what they do, not what they are: coatings, catalysts, water-treatment chemicals, electronic chemicals, flavors, crop chemicals, energetics. Higher margins; buyers qualify a supplier and then rarely switch.
 5. **Active pharmaceutical ingredients (APIs).** The molecule in a drug that does the work. A **finished dose form (FDF)** is the pill or injection. A **CRO** (contract research organization) makes molecules for research; a **CDMO** (contract development and manufacturing organization) makes them at commercial scale under FDA rules.
@@ -1060,7 +1074,7 @@ Two engineering terms matter for startups. **Batch** chemistry runs one tank at 
 
 Who buys: ACC says more than 80% of basic and specialty chemicals are bought by other industries, not consumers [src-20260615-0c9b7e]. So chemical demand follows manufacturing, housing, autos, data centers and pharma.
 
-**Market size (this industry).** No clean free revenue number for US chemicals in the repo [gap]. Physical proxies: US ammonia output 14.0 Mt of nitrogen in 2025, 88% to fertilizer, Gulf price about $450 per short ton [src-20260206-c8fbbc]; Europe announced 37 Mt of closures in 2022–25 [src-20260115-ec35af]; only about 10% of APIs by volume are made in the US [src-20260701-818dbe].
+**Market size (this industry).** No clean free revenue number for US specialty chemicals in the repo [gap]. Global specialty estimates: 5.2. Europe announced 37 Mt of closures in 2022–25 [src-20260115-ec35af]; only about 10% of APIs by volume are made in the US [src-20260701-818dbe].
 
 ### 5.8 Where AI and automation help
 
@@ -1087,18 +1101,11 @@ No chemicals company in the repo has a scored data loop yet [gap].
 
 #### Producers — fully integrated
 
-**Solugen (Houston; specialty and commodity chemicals; Full).**
+**Solugen (Houston; bio-based specialty chemicals; Full).** _Qualifies as specialty, borderline: hydrogen peroxide is also a bulk chemical, but Solugen sells small-plant, bio-based product into specialty uses [inference]._
 - **Process:** "chemoenzymatic" production pairs an enzyme with a metal catalyst to turn corn syrup into chemicals, starting with hydrogen peroxide and organic acids. **Claim (Solugen founders):** 96% yield at scale versus about 60% for the traditional route [src-20260320-f90e80].
 - **Origin:** started with a reactor costing about $10,000 and sold to hot-tub owners in Dallas before raising large rounds. Its Bioforge plant runs 24/7 on railcars of corn syrup. **Claim:** smaller plants near customers undercut incumbents on shipping [src-20260320-f90e80].
-- **What it means [inference]:** the clearest AI-adjacent chemical producer. It owns plants, sells product and has repeat industrial buyers. But the edge is enzyme engineering and plant design more than AI, and the products are lower-value chemicals exposed to commodity pricing.
+- **What it means [inference]:** the clearest AI-adjacent chemical producer. It owns plants, sells product and has repeat industrial buyers. But the edge is enzyme engineering and plant design more than AI, and some products face bulk-chemical pricing.
 - _More detail: Appendix D (Solugen)._
-
-**Twelve (Moses Lake, WA; e-fuels and e-chemicals from CO2, water and power; Full).** _Strong fit; fuller profile._
-- **What it makes:** AirPlant One opened June 10, 2026 and makes e-jet fuel and E-Naphtha from captured CO2, water and renewable power; the fuel meets ASTM spec and is being sold. Nameplate is about 50,000 gallons a year [src-20260610-bf26af][src-20260901-c5f851].
-- **Who buys / repeat orders:** Alaska Airlines and Microsoft committed in 2022 to buy output; IAG and the US Air Force are named customers [src-20260610-bf26af][src-20260901-c5f851]. No repeat-order data yet.
-- **AI / automation angle:** the edge is electrochemistry and plant design, not AI; offtakers are mostly strategic investors (Alaska, Microsoft, Amazon Climate Pledge Fund) [src-20260901-c5f851] [inference on the AI point].
-- **Money:** $645M raised (round reported in the source) [src-20260610-bf26af].
-- **Bear (one line):** the plant ran years late, and Alaska postponed its first flight over carbon intensity [src-20260901-c5f851] — the premium depends on mandates.
 
 **Phlow (Richmond/Petersburg, VA; US-made essential-medicine APIs; Full).** _Strong fit; fuller profile._
 - **What it makes:** active pharmaceutical ingredients (APIs) for essential generic medicines, in its own plants using batch plus continuous-flow chemistry: a kilo facility (~250 kg a year) and a metric-ton facility (50–100 t a year) [src-20260209-16223c][src-20260721-fa5081].
@@ -1113,13 +1120,27 @@ No chemicals company in the repo has a scored data loop yet [gap].
 - **AI / automation angle:** **Claim:** AI/ML-controlled modular continuous manufacturing.
 - **Bear (one line):** still grant-funded; hospital-scale units may not reach meaningful volume.
 
-**Nitricity (Fremont and Delhi, CA; organic nitrogen fertilizer from air, power and almond shells; Full).**
-- **What it makes:** nitrogen fertilizer for organic growers; its Delhi plant is about 100x pilot scale and ramping [src-20260320-7b8d7b].
-- **Who buys / repeat orders:** Delhi output **sold out through 2028** to organic growers [src-20260320-7b8d7b] — the best repeat-demand signal among the new names. $50M Series B (Khosla, World Fund).
-- **AI / automation angle:** electrified, automated plasma process; little explicit AI [inference].
-- **Bear (one line):** California's agriculture department (CDFA) says the product contains prohibited synthetic nitrogen; if that stands, the organic market closes (litigation ongoing) [src-20260320-7b8d7b].
+**Osmo (New York and Elizabeth, NJ; AI-designed fragrance molecules and formulas; Full).** _Added v9.6._
+- **What it makes:** fragrance formulas and its own AI-designed fragrance molecules (Glossine, Fractaline, Quasarine), sold through its "Generation" ingredient arm since March 2025. It formulates, manufactures, bottles and packages [src-20260204-1ec8c6]. A 60,000 sq ft plant with robotics opened in Elizabeth, NJ in May 2026; filling and logistics use local partners [src-20260512-3ad5dc].
+- **Who buys:** nearly 100 brands, mostly small ones (Kindred, Loucil and others); minimum orders of 500 units or 10 kg of oil [src-20260204-1ec8c6]. No revenue disclosed.
+- **Money:** $70M Series B led by Two Sigma Ventures in Feb 2026, $130M total [src-20260204-1ec8c6].
+- **Why it fits [inference]:** the clearest case of AI-designed molecules sold as product by the company that designed them, made in its own US plant.
+- **Bear (one line):** customers so far are small brands; big fragrance houses (Givaudan, Firmenich-DSM, IFF, Symrise) own the large accounts, and a fragrance molecule's value depends on perfumers adopting it.
 
 #### Producers — hybrid
+
+**Scimplify (Bengaluru; AI-run custom specialty chemical manufacturing; Hybrid).** _Added v9.6._
+- **What it does:** takes a customer's specification, develops the process in its own labs in Bengaluru and Hyderabad, then makes the product at partner factories. Its AI platform, Scinode, picks routes and plants and tracks quality and regulatory needs [src-20261014-b218c5]. **Claim:** more than 40% of its portfolio is advanced materials for semiconductors, batteries and critical minerals [src-20261015-2d7316].
+- **Who buys:** Henkel and Teknor Apex are customers and invested; Teknor Apex will be its US manufacturing partner [src-20261014-b218c5][src-20261015-2d7316]. **Claim:** 2 months from requirement to delivery versus the usual 12–18 [src-20261014-b218c5].
+- **Money:** $25M led by Hitachi Ventures (Oct 2026), $80M total equity [src-20261014-b218c5].
+- **Why it fits [inference]:** a direct answer to "China plus one" in specialty supply, and it owns the customer even though partners run the reactors.
+- **Bear (one line):** an Indian, asset-light model is a competitor to US reshoring rather than part of it, and partner factories limit control of quality and margin.
+
+**Enko (Mystic, CT; AI-discovered crop-protection actives; Hybrid, close to Enabler).** _Added v9.6._
+- **What it does:** discovers herbicides, fungicides and insecticides with its ENKOMPASS platform (machine learning plus DNA-encoded libraries) [src-20250601-f7467b]. It works with Syngenta, which took its new-mode-of-action herbicide leads to proof of concept [src-20241210-12825a].
+- **Traction:** two advanced herbicide programs with 4+ years of field data across 200+ trials [src-20250601-f7467b]. **Claim (CEO):** discovery 75% faster and 90% cheaper [src-20250601-f7467b].
+- **Bear (one line):** registration still takes years and the regulatory step is unchanged, as the CEO admits [src-20250601-f7467b]; the likely model is licensing to majors, not selling product.
+
 
 **Warp Sciences (San Francisco; US drug-discovery chemistry CRO; Hybrid).**
 - **What it is:** a US-based chemistry CRO that combines expert chemists, AI and robotics in labs "designed for automation from day one" to make the molecules biotech and pharma teams test. It does not develop its own drugs [src-20261027-c11426][src-20261022-b542e2].
@@ -1133,32 +1154,26 @@ No chemicals company in the repo has a scored data loop yet [gap].
 - **What it means [inference]:** the most ambitious "AI makes molecules" platform. Today it is a research-scale CRO and co-discovery shop, not a bulk producer, so it sits beside the discovery labs in 6.10.
 - _More detail: Appendix D (Chemify)._
 
-**AIRCO (formerly Air Company; New York and Pennsylvania; CO2-to-fuels and alcohols; Hybrid, close to Enabler).**
-- **What it makes:** fuels and alcohols from CO2; now licenses its process and builds containerized "MAD" fuel systems for the military rather than running large plants [src-20260526-9ebac5].
-- **Who buys:** DoD — about $70M of DoD-related awards, including a $15M STRATFI; Pennsylvania manufacturing hub [src-20260526-9ebac5].
-- **AI / automation angle:** modular, automated units deployable in the field.
-- **Bear (one line):** licensing plus defense prototypes means it may never sell product at volume itself.
-
 #### Watch list and AI-chemistry enablers
 
 **Watch list (short notes, not core):**
 - **Debut (beauty ingredients by biomanufacturing; Hybrid).** $20M for AI ingredient discovery; pilot plant; $2M to plan a facility [src-20250801-a4ae9d]. Bear: no commercial plant yet.
-- **Cemvita (microbes turning CO2 into chemicals and oil; Hybrid).** Brazil plant at the agreement stage [src-20250804-e1bddd]. Bear: no operating commercial plant.
-- **Geno (Genomatica; bio-based chemicals; acquired).** Acquired by Again in 2026 [src-20260812-dc968f]. Kept as a scale-up cautionary tale.
-- **Lygos (bio-based organic acids).** Sold its Soltellus business to Dober (low confidence) [src-20260101-5ca758].
 - **Visolis:** not added; only a LinkedIn source was found.
 
 **AI-chemistry enablers (software or drug developers; not producers):**
+- **Albert (Oakland; AI for formulation R&D; Enabler).** $55M Series B (Oct 2026); used by AkzoNobel, BASF, Chemours, Henkel, Kenvue, Nouryon and others [src-20261013-fbc067][src-20261015-2d7316]. The main AI name in coatings and additives, but software, not a producer. Bear: incumbents keep the margin.
+- **Dunia Innovations (Berlin; AI plus robotic labs for catalysts and battery materials; Enabler).** Serves customers in catalysts, batteries and semiconductors; €280M "GigaLab" due 2028 [src-20260520-57be93]. Bear: no named customers or product sales.
+- **Discovered Materials (YC; AI agents for semiconductor thermal materials; Enabler).** $9M seed (Aug 2026); released hundreds of candidate materials, no customers named [src-20260810-357833]. Bear: candidates are not products.
 - **Iambic (Enabler / drug developer).** Enchant v3 model (41B parameters) and an automated lab that makes hundreds of compounds a week; its own drug pipeline (IAM-C1, IAM217) and partners; S-1 filed October 2026 [src-20260921-cb3d77]. Sells drugs, not chemicals. Bear: drug-development risk dominates.
 - **PostEra and SYNTHIA (Merck KGaA's retrosynthesis software; Enablers).** Software for planning how to make molecules [src-20261027-13f9b3]. Tools, not producers. Bear: commoditizing as general AI models improve [inference].
 
 **Process-plant software (cross-reference).** Lumaril, AI closed-loop control sold to chemical, polymer and biologics plants and paid on the production it adds (company claim), is profiled in full in section 7.10 as an enabler [src-20261027-d5ba3f].
 
-_Short v8 notes on LanzaTech, Zymergen, Zapata and others: Appendix D._
+
 
 ### 5.11 Bear case, at equal weight
 
-1. **Biomanufacturing has a terrible record.** Ginkgo, Zymergen and Amyris all collapsed in 2021–23. For simple molecules, making them with organisms usually costs more than conventional chemical synthesis, so bio works mainly for complex, high-value compounds [src-20240101-499ec8]. Zymergen had no in-house commercial-scale manufacturing, its contract manufacturers missed production goals, and customers could not get its Hyaline film to work in their own production lines [src-20220101-9c58e3]. LanzaTech is fighting going-concern doubt [src-20260331-20d171].
+1. **Biomanufacturing has a terrible record.** Ginkgo, Zymergen and Amyris all collapsed in 2021–23. For simple molecules, making them with organisms usually costs more than conventional chemical synthesis, so bio works mainly for complex, high-value compounds [src-20240101-499ec8]. Zymergen had no in-house commercial-scale manufacturing, its contract manufacturers missed production goals, and customers could not get its Hyaline film to work in their own production lines [src-20220101-9c58e3].
 2. **AI-for-chemistry software alone fails.** Zapata is the example [src-20241011-721c93]. Retrosynthesis tools are still decision support for chemists [inference].
 3. **Commodity economics punish newcomers.** Europe's plants are closing because of energy cost and Chinese overcapacity [src-20260115-ec35af]. A US startup selling a commodity competes with shale-fed incumbents and Chinese surplus, so it needs a real cost edge, not a green premium.
 4. **Pharma policy can reverse or be diluted.** Section 232 exempts generics (where China dependence is deepest) and gives 0–20% rates to companies that do deals [src-20260402-ecae19]. A federal court enjoined WuXi's 1260H designation (search summary; low). The cheaper Indian and Chinese supply still exists.
@@ -1174,19 +1189,18 @@ _Short v8 notes on LanzaTech, Zymergen, Zapata and others: Appendix D._
 | Warp Sciences | Hybrid (CRO) | Fits the reshoring and data-loop thesis; services, not product; too early to judge. |
 | Chemify | Hybrid (CRO plus IP) | Interesting option on "code to molecule"; research scale. |
 | CuspAI, Periodic, Lila | Enabler or discovery lab | Not producers; track via 6.10. |
-| LanzaTech, Zymergen, Zapata | — | Cautionary tales. |
 
 **Diligence questions:** What is the yield and cost per kilogram at the current plant versus incumbents? How many customers have reordered after qualification? Who keeps the data rights? How much capex is committed before offtake contracts?
 
 ### 5.12 Key sources
 
-- Cefic gas and trends [src-20260915-e74614][src-20251001-7ec954]; USGS ammonia [src-20260206-c8fbbc]
+- Cefic gas and trends [src-20260915-e74614][src-20251001-7ec954]
 - Cefic closures [src-20260115-ec35af]; Roland Berger [src-20260201-63910c]; FTI [src-20260401-e2adb0]
 - ACC 2026 outlook [src-20260615-0c9b7e]
 - USCC on generics [src-20250605-bde73f]; Brookings [src-20250501-c298cb]; CFR [src-20260501-7f527d]
 - Section 232 pharma [src-20260402-ecae19]; BIOSECURE [src-20260110-4db409]; WuXi 1260H [src-20260818-489fdf]
-- Solugen DOE loan [src-20240613-2df5d6]; Zymergen [src-20220101-9c58e3]; LanzaTech [src-20260331-20d171]; pledges and deadlines [src-20260601-17c2d4][src-20260701-818dbe]
-- New company sources: Twelve, Phlow, ODP, Nitricity, AIRCO, Debut, Cemvita, Geno, Lygos, Iambic, PostEra/SYNTHIA (cited in 6.10)
+- Solugen DOE loan [src-20240613-2df5d6]; Zymergen [src-20220101-9c58e3]; pledges and deadlines [src-20260601-17c2d4][src-20260701-818dbe]
+- New company sources: Phlow, ODP, Debut, Iambic, PostEra/SYNTHIA (cited in 6.10)
 
 _Brooke's reading and listening list (v7.2 section 4B.10): Appendix D._
 
@@ -1197,50 +1211,53 @@ Full list: Appendix E._
 
 1. ★ **"Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry"**, YC, Mar 2026, about 13 min. [▶ Open link](https://www.ycombinator.com/library/NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry) — *Why:* the best short intro to a fully integrated chemical maker (Solugen; ~96% yield claim). Repo: src-20260320-f90e80.
 2. **"EP 312 Lee Cronin on Automating Chemistry"**, *The Jim Rutt Show*, Jul 2025, length not listed. [▶ Open link](https://jimrutt.substack.com/p/ep-312-lee-cronin-on-automating-chemistry-f9f) — *Why:* Chemify's "code to molecule" and how it charges (company claims). Repo: src-20250724-0f42f3.
-3. **"Why Twelve believes power-to-liquids will revolutionise SAF"**, *Sustainability in the Air*, Jul 24, 2025, 34 min. [▶ Open link](https://podcasts.apple.com/bm/podcast/why-twelve-believes-power-to-liquids-will-revolutionise/id1620281360?i=1000718768981) — *Why:* an owned e-fuels plant and its long-term buyers; policy is the swing factor. Not in the repo.
-4. **"Mission-driven doctor, inventor & entrepreneur" (Ep. 175)**, *Molecule to Market*, Phlow CEO Eric Edwards, 55 min. [▶ Open link](https://moleculetomarketpod.com/episodes/mission-driven-doctor-inventor-entrepreneur/) — *Why:* drug-ingredient onshoring with the government as anchor buyer. Not in the repo.
+3. **"Mission-driven doctor, inventor & entrepreneur" (Ep. 175)**, *Molecule to Market*, Phlow CEO Eric Edwards, 55 min. [▶ Open link](https://moleculetomarketpod.com/episodes/mission-driven-doctor-inventor-entrepreneur/) — *Why:* drug-ingredient onshoring with the government as anchor buyer. Not in the repo.
 
 ### 5.14 Commercial traction and incumbents
 
-_Labels as in 3.14. This is the deepest traction section because chemicals is where lab-to-revenue gaps have killed the most startups._
+_Labels as in 3.14. This is the deepest traction section because specialty chemicals is where lab-to-revenue gaps have killed the most startups._
 
-**Who's actually commercializing (selling product today first)**
+**Who's actually commercializing (selling product first)**
 
 | Company | Segment | Status | Evidence |
 |---|---|---|---|
-| Solugen | Specialty/commodity | **Revenue** | Bioforge plant runs 24/7; repeat industrial buyers; conditional $213.6M DOE loan [src-20240613-2df5d6][src-20260320-f90e80]. |
-| Nitricity | Fertilizer | **Revenue** | Delhi output sold out through 2028 [src-20260320-7b8d7b]; California regulator dispute pending. |
-| Twelve | E-fuels | **Revenue (early)** | Fuel meets ASTM spec and is being sold; offtakers Alaska, Microsoft, IAG, US Air Force [src-20260610-bf26af][src-20260901-c5f851]. Plant ran years late. |
-| AIRCO | CO2 fuels (defense) | **Revenue (government)** | About $70M of DoD-related awards; licensing plus field units [src-20260526-9ebac5]. |
+| Solugen | Bio-based specialty chemicals | **Revenue** | Bioforge plant runs 24/7; repeat industrial buyers; conditional $213.6M DOE loan [src-20240613-2df5d6][src-20260320-f90e80]. |
+| Osmo | Flavors and fragrances | **Revenue** | Nearly 100 brands; own NJ plant since May 2026 [src-20260204-1ec8c6][src-20260512-3ad5dc]. Revenue not disclosed. |
+| Scimplify | Custom specialty / electronic | **Revenue** | Henkel and Teknor Apex are customers [src-20261014-b218c5]. |
 | On Demand Pharmaceuticals | APIs | **Pilot** | About $35M of federal awards; one hospital-deployed unit [src-20250813-79a0cf]. |
 | Phlow | APIs | **Pilot** | Epinephrine API with Fresenius; validation done; commercial supply pending FDA in 2027 [src-20260209-16223c]; $15.9M award [src-20260721-fa5081]. |
 | Chemify | Robotic chemistry (CRO) | **Pilot** | **Claim:** 12 customers [src-20250724-0f42f3]. Research scale. |
-| Debut | Bio-ingredients | **Pilot** | Pilot plant [src-20250801-a4ae9d]. |
+| Enko | Agrochemical actives | **Pilot** (partnered) | Syngenta collaboration; field trials, no product registered [src-20241210-12825a][src-20250601-f7467b]. |
+| Debut | Beauty ingredients | **Pilot** | Pilot plant [src-20250801-a4ae9d]. |
 | Warp Sciences | Chemistry CRO | **Lab / pre-revenue** | Launched October 2026; no customers public [src-20261022-b542e2]. |
+| Albert, Dunia, Discovered Materials | Enablers | Albert **revenue** (software); Dunia and Discovered **lab** | [src-20261013-fbc067][src-20260520-57be93][src-20260810-357833] |
 
-Exits and failures: Zymergen [src-20220101-9c58e3]; LanzaTech going-concern doubt [src-20260331-20d171]; Geno sold [src-20260812-dc968f].
+Failure to remember: Zymergen [src-20220101-9c58e3].
 
-**Revenue vs lab.** _Real revenue:_ specialty chemicals made in owned plants (Solugen), fertilizer (Nitricity), and government-funded fuels (Twelve, AIRCO). _Pilot:_ US-made APIs; revenue waits on FDA. _Mostly lab:_ AI chemistry platforms and new CROs (Chemify, Warp) and AI-discovered molecules.
+**Revenue vs lab, by segment.** _Real revenue:_ bio-based specialty chemicals (Solugen), fragrances (Osmo), custom specialty manufacturing (Scimplify) and formulation software (Albert). _Pilot:_ US-made APIs (revenue waits on FDA) and agrochemical actives (waits on registration). _Mostly lab:_ catalysts and semiconductor-material discovery, and the new CROs. _No startup found:_ coatings and additives producers, performance polymers.
 
-**Startup vs incumbent: cost and scale.**
+**Startup vs incumbent: scale and margins.**
 
-| | BASF | Dow | LyondellBasell | Startups |
-|---|---|---|---|---|
-| 2025 revenue | €59.7B | $40.0B | $30.2B | Twelve nameplate ~50,000 gal/yr [src-20260610-bf26af]; Phlow 50–100 t/yr API [src-20260721-fa5081] |
-| 2025 profit | EBITDA €6.6B before special items (11.0%) | Net loss $2.4B | Net loss $738M | Mostly not public |
-| Yearly capex / R&D | Capex €4.8B; R&D €2.0B | — | Capex $1.9B | Solugen's conditional DOE loan: $213.6M |
-| Sources | [src-20260227-9fe9e6] | [src-20260129-338338] | [src-20260130-12a9f3] | as cited |
+| | Lonza | Evonik | Clariant | BASF | Startups |
+|---|---|---|---|---|---|
+| 2025 sales | CHF 6.5B (+21.7%) | €14.1B (−7%) | CHF 3.9B (flat) | €59.7B | Osmo $130M raised in total; Phlow 50–100 t/yr API [src-20260721-fa5081] |
+| Margin | CORE EBITDA 31.6% | Adj. EBITDA 13.3% | 17.8% | 11.0% | Not public |
+| Investment | Capex CHF 1.37B | R&D €418M | — | R&D €2.0B | Solugen conditional DOE loan $213.6M |
+| Source | [src-20260128-af3b8f] | [src-20260305-5c5e74] | [src-20260226-f774af] | [src-20260227-9fe9e6] | as cited |
 
-_Meaning [inference]:_ a single incumbent spends more on R&D in a year than most chemical startups have raised in total, so startups cannot win on cost per ton in commodities. Two openings remain. The incumbents are themselves losing money and closing plants (5.6), and startups can win where a smaller plant has a real process edge (**Claim (Solugen):** 96% yield versus about 60% for the traditional route [src-20260320-f90e80]) or where policy pays for US supply (APIs, defense). Incumbents also buy AI rather than build it: LyondellBasell signed a multi-year deal with Citrine [src-20260902-224ead]. Lonza (contract pharma manufacturing) is the incumbent for APIs; no free source in the repo yet [gap].
+Albemarle's specialties unit sold $1.37B in 2025 [src-20260201-955851]. Croda: no free source in the repo [gap].
 
-**TSCA timeline: new molecules vs drop-ins.**
-- **New molecule (premanufacture notice, PMN):** the law gives EPA 90 days, extendable by 90. In practice the median final decision took **520 days in 2025** and 469 in Q1 2026; about 92% of pending cases are past the deadline and 307 have waited over a year [src-20261027-f4abbf]. GAO found EPA met the 90 days less than 10% of the time [src-20250101-74b3e0]. EPA had 427 active cases on Oct 1, 2026 [src-20261001-d40423].
-- **Low volume (LVE, up to 10,000 kg a year):** 30-day review, the fastest path for pilot volumes [src-20261027-f4abbf].
-- **Drop-in chemical** (a molecule already in commerce, such as hydrogen peroxide or jet fuel): no new-chemical review; the PMN process applies to new chemicals and new uses [src-20261027-f4abbf][src-20261001-d40423]. _Meaning [inference]:_ a startup that makes an existing molecule by a better process (Solugen, Twelve) skips one to two years of EPA review; an AI-discovered new molecule should budget around 1.5 years before US sale at full volume.
-- **Pharma (FDA):** a standard generic application (ANDA) has a 10-month review goal, 8 months if prioritized [src-20261027-711e48]; plants also need cGMP inspection (Phlow's 2027 timing [src-20260209-16223c]).
+_What incumbents do better:_ qualified products, global sales forces and regulatory dossiers. Lonza, a contract maker for pharma, grew 21.7% while commodity-heavy names shrank, which shows that outsourced pharma manufacturing is where buyers pay [src-20260128-af3b8f]. Incumbents buy AI rather than build it: BASF licenses Orbital's software [src-20261022-edad3e]; AkzoNobel, BASF and Henkel use Albert [src-20261013-fbc067]. _Where startups win [inference]:_ molecules incumbents have offshored (generic APIs, KSMs), small-batch custom work that big plants find uneconomic, and new AI-designed molecules owned outright (Osmo).
+
+**Regulation and qualification timelines.**
+- **TSCA, new molecule (PMN):** 90 days by law, but the median decision took **520 days in 2025** and 469 in Q1 2026; about 92% of pending cases are past the deadline [src-20261027-f4abbf]. EPA met the 90 days less than 10% of the time [src-20250101-74b3e0].
+- **TSCA, low volume (LVE, up to 10,000 kg a year):** 30-day review, the usual path for specialty pilot volumes [src-20261027-f4abbf].
+- **TSCA, existing molecule made a new way:** no new-chemical notice; review applies to new chemicals and new uses [src-20261027-f4abbf][src-20261001-d40423]. _Meaning [inference]:_ a new AI-designed molecule should budget about 1.5 years of EPA review before full-volume US sale.
+- **FDA (APIs):** a standard generic application has a 10-month review goal [src-20261027-711e48], plus cGMP plant inspection (Phlow's 2027 timing [src-20260209-16223c]).
+- **Pesticides:** new actives typically take 10–15 years and about $300M from discovery to market (**Claim, Enko CEO**) [src-20250601-f7467b].
 - **EU REACH:** registration applies before selling into Europe [src-20251110-84b67e][src-20251218-f0d6ef].
 
-**5-year outlook (to 2031).** _Specialty and pharma intermediates:_ **possible**. Solugen and Nitricity sell today; Phlow could be supplying by 2027 if FDA approves. _Commodity chemicals:_ **unlikely**. _AI-discovered new molecules at volume:_ **unlikely**, given TSCA and scale-up times. **Bear case, equal weight:** see 5.11. Biomanufacturing's record is poor, generics are outside the tariff, green premiums depend on mandates, and Nitricity's regulator fight could close its market.
+**5-year outlook (to 2031).** _Pharma APIs and intermediates:_ **possible**. Phlow could supply in 2027 if FDA approves; policy creates buyers. _Fragrances and custom specialty:_ **likely** to be selling at meaningful scale (Osmo, Scimplify already sell). _Agrochemical actives:_ **unlikely** (registration timelines). _AI-designed new molecules at volume generally:_ **unlikely** outside fragrance, given TSCA and qualification. **Bear case, equal weight:** see 5.11. US specialty demand is flat, generics are outside the tariff, incumbents are qualified and buying AI tools, and the first AI-designed molecules sell mainly to small customers.
 
 ## 6. Advanced Materials
 
@@ -1485,7 +1502,7 @@ _What this industry is._ Enabling Software & Robotics covers companies that sell
 
 **How much the technology can move costs.** BCG models factory-of-the-future technology (automation and physical AI) raising productivity by up to 60% and cutting labor 30–60% in some plants, with the US leading on readiness; but it finds greenfield aerospace and defense still favors China, and tariffs can blunt the push to invest [src-20260528-a1c5d1]. Robot learning is far from production reliability: about 59–66% success on short tasks versus the 99.9%+ factories need [src-20260904-267293]. _Meaning [inference]:_ the near-term gains come from control and scheduling software on existing equipment, not general-purpose robots.
 
-**Why process plants pay for throughput.** In process industries the plant is the cost: chemical assets need about 80–85% utilization to earn their cost of capital, and Europe's average is about 74% [src-20260401-e2adb0]. US ammonia plants ran at about 80% in 2025 [src-20260206-c8fbbc], and EU chemical capacity utilization was 75% in mid-2026 [src-20260915-e74614]. When a plant is already sold out (US gas-advantaged plants with Middle East disruption lifting demand for their output [src-20260615-0c9b7e]), each extra percent of throughput or yield is near-pure margin, because feedstock, labor and capital are already paid for [inference]. Where plants run below breakeven (much of Europe), better yield lowers cost per ton on the output they do sell [inference]. This is the economic opening for closed-loop control software in chemicals, polymers and biologics.
+**Why process plants pay for throughput.** In process industries the plant is the cost: chemical assets need about 80–85% utilization to earn their cost of capital, and Europe's average is about 74% [src-20260401-e2adb0]. EU chemical capacity utilization was 75% in mid-2026 [src-20260915-e74614]. When a plant is already sold out (US gas-advantaged plants with Middle East disruption lifting demand for their output [src-20260615-0c9b7e]), each extra percent of throughput or yield is near-pure margin, because feedstock, labor and capital are already paid for [inference]. Where plants run below breakeven (much of Europe), better yield lowers cost per ton on the output they do sell [inference]. This is the economic opening for closed-loop control software in chemicals, polymers and biologics.
 
 **Software is where automation value is moving.** Roland Berger expects automation value to shift from hardware to software over 2026–30, with pharma among the strongest end markets [src-20260116-0c4980] (med). Rockwell's growth leaders include life sciences and data centers [src-20260804-0e8130]. _Meaning [inference]:_ the buyers most willing to pay for software control are regulated, high-value process plants (pharma, biologics, specialty chemicals), which is also where a single bad batch is most costly, so trust and validation become the gating factor.
 
@@ -1943,7 +1960,7 @@ _Labels as in 3.14._
 - Golden Dome amounts: the NDAA funding tables reference Golden Dome funds; size and recipients unconfirmed [src-20251218-f0d6ef]. Freeform Skyfall go-live: unconfirmed.
 - ABL use by startups: none evidenced.
 - Exits (Q14): no comparable acquisition above $100M in repo.
-- Chemicals: no clean free US revenue TAM; ammonia volumes only [src-20260206-c8fbbc].
+- Specialty Chemicals: global market estimates range from $626.5B to $1.4T depending on scope (5.2); no clean US figure.
 - Raw Materials (Stage A): Earth AI has no published resource estimate; its 75% success rate is self-reported and undefined [src-20250127-c28430].
 - Advanced Materials: no market size for materials R&D or US cathode demand in dollars.
 - Enabling Software: Lumaril customers, revenue and measured yield gains are not public; WSJ article body is paywalled (headline only) [src-20261027-79ddd6].
@@ -1965,24 +1982,22 @@ Honest limits: the long filings above were not read line by line. Podcast claims
 
 ## Appendix D. Profile and deep-dive detail (moved from the chapters)
 
-**Chemicals: other notes carried from v8** (verified where cited):**
-- **CuspAI, Orbital, Periodic, Lila:** see 5.4. CuspAI is an enabler (Kemira makes the PFAS sorbent). Orbital is the closest to a producer, since it makes and sells its own fluid.
-- **LanzaTech (gas fermentation to chemicals and fuels; bear case):** its FY2025 10-K flags substantial doubt about continuing as a going concern, with $13.2M cash and a $1.0bn accumulated deficit [src-20260331-20d171].
+**Specialty Chemicals: other notes carried from v8** (verified where cited):**
+- **CuspAI, Orbital, Periodic, Lila:** see the 5.11 table and 6.10. CuspAI is an enabler (Kemira makes the PFAS sorbent). Orbital is the closest to a producer, since it makes and sells its own fluid.
 - **Zymergen (synthetic biology; failed):** see 4B.7 [src-20220101-9c58e3].
 - **Zapata (quantum and generative-AI software, including chemistry; failed):** wound down in Oct 2024 because its assets did not cover its obligations [src-20241011-721c93].
-- **Geno (Genomatica), Debut, Iambic, Isomorphic, IBM RXN, Synthia, PostEra:** not separately sourced this run. Geno and Debut are biomanufacturing comparables; Iambic and Isomorphic are pharma molecule-design comparables (enablers, not producers); IBM RXN, Synthia and PostEra are synthesis-planning tools. Treat them as names to verify, not evidence.
 
-**Chemicals: business models and unit economics**
+**Specialty Chemicals: business models and unit economics**
 
 1. **Own the plant and sell the chemical (fully vertically integrated).** Solugen is the archetype. Revenue is per kilogram; margin depends on yield, feedstock and logistics. Highest capex; best fit for SPC's producer thesis.
 2. **Robotic CRO (make molecules for others, fee for service).** Chemify and Warp Sciences. Revenue per compound or per project, plus possible IP upside. Cash comes earlier, but it is a services business until automation lowers unit cost.
 3. **Design partner or licensor.** CuspAI, Iambic and Isomorphic (pharma comparables). Paid in fees, milestones or royalties; someone else makes and sells the product (see 4A.5).
 4. **Software.** Retrosynthesis and lab-informatics tools (Synthia, IBM RXN, PostEra's tools). Low capex but weak pricing power; Zapata shows the downside (4B.7).
-5. **Biomanufacturing platform.** Engineered microbes or enzymes licensed or used in-house (Geno, LanzaTech, Debut). History is poor (4B.7).
+5. **Biomanufacturing platform.** Engineered microbes or enzymes licensed or used in-house (Debut). History is poor (4B.7).
 
 **Claim (Cronin, Chemify):** customers pay for molecules, for software access, and for co-discovered assets with shared upside; Chemify had 12 customers and expected 20 big ones the next year, and aims to be cash-flow positive within a venture cycle [src-20250724-0f42f3].
 
-**Chemicals: data loop**
+**Specialty Chemicals: data loop**
 
 Chemistry's public data (patents, papers) mostly records successes and leaves out failed reactions. A company that runs its own robots captures every run, including failures, in a form a model can learn from. Lightspeed's Warp memo makes exactly this argument: each run yields both chemistry results and robotics and process data, used to run the lab better and to choose what to make next [src-20261022-b542e2]. Cronin says Chemify has converted a few hundred thousand published reactions into its chemical programming code and versions every run [src-20250724-0f42f3]. [inference] The loop is real only if volume is high and the data stays with the operator. Pharma customers often keep the data rights, the same problem CuspAI faces (4A.6).
 
@@ -1999,7 +2014,7 @@ Chemistry's public data (patents, papers) mostly records successes and leaves ou
 9. **Manufacturing Chemist, "Where Zymergen went wrong"** — https://manufacturingchemist.com/where-zymergen-went-wrong-a-biomanufacturing-perspective-for-synthetic-biology-204177 — A short lesson: scale-up and customer qualification kill companies, not discovery.
 10. **Industrial AI Podcast, "Max Welling's CuspAI" (Feb 2025)** — https://podwise.ai/episodes/2974143 — The materials-design view from CuspAI's co-founder (listed, not yet transcribed into the repo).
 
-**Chemicals: bull case**
+**Specialty Chemicals: bull case**
 
 - **Real, dated policy pull** for US-made APIs and KSMs, through tariffs, BIOSECURE and the onshoring EO [src-20260402-ecae19][src-20260110-4db409].
 - **Europe's retreat leaves supply gaps** in specialty and intermediate chemicals that customers must re-source [src-20260115-ec35af].
@@ -2295,12 +2310,11 @@ Chemistry's public data (patents, papers) mostly records successes and leaves ou
 3. **"Building the Arsenal: Speed, Scale, and Affordability"**, Air & Space Forces Association, Oct 14, 2026, 40 min. [▶ Open link](https://www.youtube.com/watch?v=r7BNP3R_TWk) — *Why:* the buyer side; Divergent's CEO on a panel about producing munitions at scale. Repo: src-20261014-47f64b.
 4. *(Read or listen)* **TBPN transcript: Atomic Industries raises $25M Series A**, Sep 19, 2025. [▶ Open link](https://www.tbpndigest.com/story/2025-09-19/aaron-slodovs-atomic-industries-raises-25m-series-a-to-automate-injection-mold-manufacturing-in-detroit/transcript) — *Why:* Atomic's move from software to molds to parts; "mid eight figure" contracts (company claim). Repo: src-20250919-2805c7.
 
-### E.3 Chemicals
+### E.3 Specialty Chemicals
 
 1. ★ **"Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry"**, YC, Mar 2026, about 13 min. [▶ Open link](https://www.ycombinator.com/library/NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry) — *Why:* the best short intro to a fully integrated chemical maker (Solugen; ~96% yield claim). Repo: src-20260320-f90e80.
 2. **"EP 312 Lee Cronin on Automating Chemistry"**, *The Jim Rutt Show*, Jul 2025, length not listed. [▶ Open link](https://jimrutt.substack.com/p/ep-312-lee-cronin-on-automating-chemistry-f9f) — *Why:* Chemify's "code to molecule" and how it charges (company claims). Repo: src-20250724-0f42f3.
-3. **"Why Twelve believes power-to-liquids will revolutionise SAF"**, *Sustainability in the Air*, Jul 24, 2025, 34 min. [▶ Open link](https://podcasts.apple.com/bm/podcast/why-twelve-believes-power-to-liquids-will-revolutionise/id1620281360?i=1000718768981) — *Why:* an owned e-fuels plant and its long-term buyers; policy is the swing factor. Not in the repo.
-4. **"Mission-driven doctor, inventor & entrepreneur" (Ep. 175)**, *Molecule to Market*, Phlow CEO Eric Edwards, 55 min. [▶ Open link](https://moleculetomarketpod.com/episodes/mission-driven-doctor-inventor-entrepreneur/) — *Why:* drug-ingredient onshoring with the government as anchor buyer. Not in the repo.
+3. **"Mission-driven doctor, inventor & entrepreneur" (Ep. 175)**, *Molecule to Market*, Phlow CEO Eric Edwards, 55 min. [▶ Open link](https://moleculetomarketpod.com/episodes/mission-driven-doctor-inventor-entrepreneur/) — *Why:* drug-ingredient onshoring with the government as anchor buyer. Not in the repo.
 
 ### E.4 Advanced Materials
 

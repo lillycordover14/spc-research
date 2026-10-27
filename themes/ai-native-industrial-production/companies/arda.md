@@ -92,6 +92,7 @@ sources:
 - src-20261021-ef5d1b
 - src-20261020-e6a4c6
 - src-20261020-894973
+- src-20261020-8d7abc
 data_quality: 'Harmonic best match (urn:harmonic:company:54804621, arda.cards) is a DIFFERENT company (inventory cards, Seattle); no Harmonic record found by domain. Official website/domain not found in any fetched source (launch PR on BusinessWire could not be fetched). HQ ''San Francisco'' is unsourced. Mar 2026 WSJ report of ''$70M at $700M'' is superseded by the Oct 2026 launch: $72M seed + $160M Series A at $1.5B. Odena and Mark are listed as execs in press, not explicitly as co-founders.'
 updated: '2026-10-22'
 news_query: '"Arda" (McGrew OR manufacturing OR factory OR "production line") -Güler -Guler -Madrid'

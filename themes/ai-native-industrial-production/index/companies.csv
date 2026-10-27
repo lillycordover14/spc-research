@@ -8,6 +8,7 @@ axal,Axal,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/a
 bright-machines,Bright Machines,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/bright-machines.md
 c-infinity,C Infinity,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/c-infinity.md
 charge-robotics,Charge Robotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/charge-robotics.md
+chemify,Chemify,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/chemify.md
 chemix,Chemix,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/chemix.md
 chipletz,Chipletz,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/chipletz.md
 circuithub,Circuithub,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/circuithub.md
@@ -35,6 +36,7 @@ hybron,Hybron,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,them
 instrumental,Instrumental,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/instrumental.md
 invisible-ai,Invisible Ai,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/invisible-ai.md
 jabil,Jabil,adjacent,owner-operator,public,incumbent,,,,,,,,,Contract manufacturer; acquired Hanley Energy (~$725M) for data-center power,2026-10-22,themes/ai-native-industrial-production/companies/jabil.md
+lanzatech,Lanzatech,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/lanzatech.md
 layup-parts,Layup Parts,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/layup-parts.md
 limitless-labs,Limitless Labs,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/limitless-labs.md
 lux-semiconductors,Lux Semiconductors,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/lux-semiconductors.md
@@ -50,6 +52,7 @@ rangeview,Rangeview,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-2
 retrocausal,Retrocausal,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/retrocausal.md
 saronic,Saronic,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/saronic.md
 seurat-technologies,Seurat Technologies,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/seurat-technologies.md
+solugen,Solugen,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/solugen.md
 sparkz,Sparkz,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/sparkz.md
 squint,Squint,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/squint.md
 substrate,Substrate,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/substrate.md
@@ -65,6 +68,9 @@ union-technologies,Union Technologies,adjacent,owner-operator,unknown,candidate,
 ursa-major,Ursa Major,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/ursa-major.md
 vention,Vention,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/vention.md
 voxel,Voxel,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/voxel.md
+warp-sciences,Warp Sciences,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/warp-sciences.md
+zapata,Zapata,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/zapata.md
+zymergen,Zymergen,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/zymergen.md
 1872,1872,fabrication,owner-operator,seed,tracking,"Cincinnati, OH (Camp Washington)",2024,18,15000000,https://1872.ai,urn:harmonic:company:75603108,"owns-production,in-house-software,data-loop,speed-moat","steel,welding,scheduling,quoting,job-shop,reshoring,labor-gap,capex-financing","Owner-operated AI-native steel fabrication plant in Cincinnati run on in-house Factory OS; sells complex welded structural steel assemblies (frames, skids, enclosures, modular infrastructure) to energy, utility, industrial and modular-construction buyers.",2026-10-23,themes/ai-native-industrial-production/companies/1872.md
 abb,ABB,fabrication,enabler,public,incumbent,,,,,,,,,Industrial automation; robotics division being sold to SoftBank ($5.375B),2026-10-22,themes/ai-native-industrial-production/companies/abb.md
 atomic-industries,Atomic Industries,fabrication,owner-operator,series-a,candidate,"Warren and Shelby Township, Michigan",2019,50,45200000,https://atomic.industries,,,,"AI/physics-designed injection molds built in-house, then run in its own presses to sell molded parts on multi-year programs",2026-10-27,themes/ai-native-industrial-production/companies/atomic-industries.md

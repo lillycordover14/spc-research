@@ -1,6 +1,6 @@
 # AI-native industrial production: VC primer
 
-_Version 7, dated 2026-10-27 (America/New_York). v7 adds section 1B (macro environment in depth) and section 4A (materials R&D and discovery labs), built on 68 new free sources tagged v7-sourcing. Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
+_Version 7.1, dated 2026-10-27 (America/New_York). v7.1 adds a full Atomic Industries profile (section 5.11A, 13 new sources). v7 added section 1B (macro environment in depth) and section 4A (materials R&D and discovery labs), built on 68 new free sources tagged v7-sourcing. Overwritten on each rerun. Built from the anip repo: sources/ (1,437 records across all types), companies/, insights/ (signals, questions, thesis, weekly/2026-W43, producers-comparison, software-first-platforms, cross-sector-map, raising-now, repeat-orders-evidence, unit-economics, failures-and-pivots, incumbents-vs-ai-native, materials-science-semis, must-read-sources, huddle-prep). Free sources only; no AlphaSense searches run by the agent (the AlphaSense-arranged expert calls Lilly filed are used)._
 
 **New to this topic? Start with section 1, section 1A (the macro primer) and section 1B (macro in depth), then come back to section 0.** Acronyms are spelled out on first use and collected in Appendix A.
 
@@ -431,7 +431,7 @@ Section 1A gave the short version. This section gives the evidence for each driv
 - **What this means [inference]:** government support is strongest here (OSC loans, tariffs, IEA finance).
 
 ### 4.2 Fabrication (cutting, bending and welding sheet metal; wire harnesses)
-- **Who:** SendCutSend [src-20260519-38c7ed]; Senra (wire harnesses, the bundled cables inside machines) [src-20260701-027c1b]; Machina Labs (robots that shape sheet metal) [src-20260204-ce7053]; 1872 (robotic steel fabrication) [src-20260722-985690]. Candidates: Atomic Industries (tool and die) [src-20261023-a3bfe7], Advanced Metal Research.
+- **Who:** SendCutSend [src-20260519-38c7ed]; Senra (wire harnesses, the bundled cables inside machines) [src-20260701-027c1b]; Machina Labs (robots that shape sheet metal) [src-20260204-ce7053]; 1872 (robotic steel fabrication) [src-20260722-985690]. Atomic Industries (AI-designed injection molds plus its own molding presses; section 5.11A) [src-20261027-b51989]. Candidate: Advanced Metal Research.
 - **How it makes money:** SendCutSend has been profitable for eight years [src-20260519-38c7ed]. Revenue is about $140M a year per a since-deleted post (low) [src-20260504-c3ded5], or "nine digits" per Sequoia's Reed [src-20261020-487a39] (med).
 - **What AI changes:** instant online quotes, and software that packs many customers' parts onto one metal sheet ("nesting"). **Claim (Senra):** quotes in about a day and 99% first-pass yield (FPY: parts that pass inspection the first time) [src-20260701-027c1b].
 - **Risks:** works for small batches, not mass production. Machina takes 30 minutes to hours per part; a stamping press takes seconds [src-20261023-c3b62f].
@@ -725,6 +725,52 @@ The steps, with typical time in brackets [inference, built from sources cited]:
 - **Claims (website, no baseline):** 99% FPY, welding arc on 70% of the time, 85% lower welding cost [src-20261022-fdbf29]. Full autonomy by 2027 [src-20260722-985690].
 - **What this means [inference]:** the cheapest way in, but too early to judge.
 
+### 5.11A Atomic Industries (tooling and molded parts; owner-operator; new in v7.1)
+- **What it does, in plain English.** Almost every plastic part (a car bumper clip, a drone shell, a subway seat bracket) is made by squirting molten plastic into a steel mold. The mold is the expensive, slow part: a skilled toolmaker designs where the cooling channels, ejector pins and plastic entry points go, then machines the steel, then runs trial shots and tweaks it, often over many weeks. Atomic uses physics simulation plus machine learning to design that mold, builds it in its own Michigan shop, and then runs the mold in its own presses to sell finished parts [src-20260130-9500f0][src-20261027-b51989].
+- **Where it sits.** Detroit area (Warren and Shelby Township, Macomb County, Michigan). Founded 2019 by Aaron Slodov (software, ex-Google per TBPN), Austin Bishop and Lou Young Jr. (a veteran toolmaker, head of manufacturing); Y Combinator W21 [src-20231204-652d42][src-20260128-2b7e8b][src-20250919-2805c7].
+- **Plants (company site, updated July 18, 2026).** Warren: 50,000 sq ft, mold building, 8 machine systems (machining, EDM spark-erosion, gun drilling, conformal cooling). Shelby: 100,000 sq ft, 16 injection presses from 55 to 2,000 tons. Markets listed: automotive, rail, industrial, consumer, defense; customers are OEMs and their Tier 1 suppliers [src-20261027-b51989]. It also owns a Velo3D metal printer for 3D-printed tool-steel mold inserts with built-in cooling channels (2023) [src-20231128-ff966f]. Macomb County gave a 50% property-tax cut for 10 years; Atomic plans over $10M of equipment and 30-60 jobs at Shelby [src-20260616-57c7d5].
+
+**Business model and where it fits Lilly's two approaches.**
+- It is an **owner-operator**, not a software vendor. Young: "Rather than selling software or molds ... vertically integrate that tool building capability into producing parts. Every tool that we can put into production grows our business" [src-20260130-9500f0]. It started as software, then made molds, and now makes parts [src-20250919-2805c7].
+- **The pricing idea (company claim):** because its molds are cheap to design and build, it wants to quote a piece price with no separate mold charge. Young's example: "I could quote someone 250 for a piece price, and Company B quotes 250 piece price plus a $300,000 mold" [src-20260130-9500f0]. That turns a one-off tooling sale into multi-year part revenue.
+- In the theme's layers it is **fabrication / tooling**: a "new producer" in Approach 1 terms, whose edge is AI in the engineering step (mold design and process setup) rather than robots on the floor.
+
+**Customers and repeat orders.**
+- **Claim (Slodov, Sept 2025):** "we picked up like our first couple big ... part production contracts ... it's just like, you know, I need a widget for five years ... we're kind of in the mid eight figure range for that right now"; target "nine figures" next; about 50 staff [src-20250919-2805c7]. Whether "mid eight figures" is annual revenue or total contract value is not clear from the transcript.
+- **Named work (company, March 2025):** molds for a drone program and production work for the New York City subway (transit authority) [src-20250327-008034]. Fortune bio: supplies "major OEMs to high growth hardware startups" [src-20260629-d8e640]. No customer is named by a customer.
+- **Buyer voice (expert call, med):** a defense-startup chief of staff sourcing drone components: "we use a company called Atomic more than we do Hadrian ... they have the software design integration mastered ... I just cannot believe how fast it moves"; "we can get them designs for a component and they can turn production in eight days" [src-20250729-a0a78c]. This is the only independent buyer on record, and it is about speed, not repeat volume.
+- **What this means [inference]:** multi-year part programs are exactly the "repeat production order" signal Lilly is testing for, but today they are company-reported, unnamed and unvalued.
+
+**Right to win against job shops, toolmakers and China.**
+- **The market it attacks.** US mold builders are small, aging and squeezed. The trade group says Chinese shops sell molds "up to 40% below" US cost, get 90% of the price paid up front (versus 55% of US builders), and a 2018 tariff on Chinese molds was lifted within six months [src-20250101-110ec0]. US shops call themselves "almost a dying industry" short of trained toolmakers [src-20250701-0ecf2d]. Tariffs since 2025 have helped: 54% of 79 surveyed US shops saw or expect reshoring, and one shop's quote requests rose 25% in a month [src-20250501-39c489].
+- **Atomic's angle (company claims):** design speed is where China wins. Young: "Chinese tool shops can deploy 200 designers simultaneously ... the largest tool shop in North America has fewer than 30 mold designers" [src-20260130-9500f0]. Software places cooling lines and ejectors "in seconds instead of days" [src-20260128-2b7e8b]; molds "50% more efficient, built 50% faster and cost 50% less"; cycle times down 20-40% [src-20260130-9500f0]. Slodov: US shops lose bids by slow, margin-gated quoting while China quotes instantly [src-20250327-008034].
+- **Against US job shops:** one company owns design, mold build, trials and production, so there is no hand-off between a mold shop and a separate molder [src-20261027-b51989]. Folding the mold into the part price is hard for a capital-thin shop to copy.
+
+**Unit economics (what we know).**
+- About $8M spent on the test bed, "more about R&D than direct revenue" [src-20260130-9500f0]; over $10M planned at Shelby [src-20260616-57c7d5]. Roughly 45-50 staff, about 16 of them software engineers [src-20260130-9500f0][src-20250919-2805c7].
+- No margin, price or payback data. **[inference]** Bundling the mold into the piece price means Atomic carries the mold cost up front and earns it back only if the program runs its full volume, so its returns depend on long programs and its ability to build molds cheaply.
+
+**Data loop.** Molds in the test bed carry sensors for plastic flow, ejection force and internal temperature, feeding back into design [src-20260130-9500f0]. Models for cooling-line design are trained on physics-solver output, not on past human designs [src-20260130-9500f0]. Slodov: "we're the only ones with a labeled dataset because we're creating it daily in the factory" (claim) [src-20250327-008034]. The site says production results feed back into cycle time and future mold decisions [src-20261027-b51989]. On the scorecard in section 6 this is a medium-strong loop: owned production data, but limited to its own presses.
+
+**Team and money (brief).** $3.2M pre-seed (2022), $17M seed (Dec 2023, led by Narya with 8090 Industries and Acequia; Toyota, Porsche and Yamaha venture arms), $25M Series A (Sept 2025, led by MaC Venture Capital and DTX Ventures) [src-20220405-b7aac2][src-20231204-652d42][src-20261023-a3bfe7]. Several small SPV filings [src-20250905-f62778]. No SBIR, AFWERX or other government award was found in free sources this run.
+
+**Bear case (equal weight).**
+- **Proof is thin.** Every performance number (50/50/50, 20-40% faster cycles, first-shot good parts) is the company's own. The trade editor wrote that success "will be measured not by software capabilities but by results" and listed these as open questions [src-20260130-9500f0].
+- **Humans still do the hard part.** Parting lines and die draw (how the mold splits and opens) are not yet automated [src-20260130-9500f0][src-20260128-2b7e8b]. Those are the judgment calls that make complex molds hard.
+- **Automotive is a slow, protective buyer.** Young himself: automotive is "deeply protective and resistant to change" [src-20260130-9500f0]. Being both moldmaker and molder means competing with customers' existing Tier 1 molders.
+- **Commodity end-market.** Injection-molded parts are a low-margin, price-shopped business, and Chinese mold prices are up to 40% lower [src-20250101-110ec0]. The tariff tailwind can disappear, as it did in 2018. Tariffs also raise steel and imported press costs [src-20250701-0ecf2d].
+- **Capital intensity.** Rolling mold cost into part price ties up cash in steel. With a $25M Series A, a mid-eight-figure book (by its own account) and two plants, Atomic will need more capital or debt to scale.
+- **Small and early.** About 50 people, one independent buyer quote, no named OEM program. The same speed edge is claimed by Protolabs-style quick-turn molders and by any large molder that buys mold-design software.
+- **The edge can leak.** Mold-simulation tools (Moldflow-type software) are sold to every shop; if they add AI, Atomic's design advantage narrows to its own data [inference].
+
+**Open questions / expert-call questions.**
+1. To a buyer (Tier 1 or drone OEM): what did you order, how many repeat programs, and did Atomic really skip the separate mold charge? Price versus your normal molder and versus China?
+2. To a former Atomic engineer or toolmaker: what share of a mold's design is truly automated today; how many trial loops (T1, T2, T3) does a typical mold still need?
+3. Is "mid eight figures" annual revenue or contract value, and how much is parts versus molds?
+4. Press utilization at Shelby, and how many molds a month Warren builds.
+5. To a US mold-shop owner: does instant AI design change who wins bids, or is price versus China still decisive?
+- **What this means [inference]:** the cleanest "AI in the engineering step, owner-operator in production" story in plastics, aimed at a real bottleneck (dying US moldmaker base). Worth a call, but the repeat-order and economics evidence is all company-reported so far.
+
 ### 5.12 Nox Metals (metals supply; we passed)
 - An automated metal distributor outside Detroit with nesting software [src-20261009-404b9b]. $11.5M seed (Hyperion) [src-20260616-1cf7cb]. About 12 people at one site [src-20260325-5b68db]. Its founder's "controversial belief" is "raw capacity over everything else" [src-20260427-83b102].
 
@@ -741,7 +787,7 @@ The steps, with typical time in brackets [inference, built from sources cited]:
 - **Terrafirma:** $100M Series A, self-driving earthmoving equipment, Austin [src-20260714-976329]; about $500M valuation per Harmonic (low). Adjacent to the thesis.
 
 ### 5.19 Other candidates (one line each)
-Fabri: automated casting, $13.5M from RTX and Lockheed venture arms, shipping castings [src-20260617-4dfb96]. Layup: composite parts, $42M Series A [src-20260602-a7b79e]. Hybron: composite shells, $25M seed, contract floor over $100M [src-20260413-abc797]. Atomic Industries: AI tool and die, $25M Series A [src-20261023-a3bfe7]. Rangeview: castings from printed molds, $4.2M seed [src-20260923-3ab808]. Furientis: low-cost interceptor missiles, $25M seed (Benchmark) and a Pentagon OTA [src-20261006-410f77]. Firestorm: drones; moved from small research grants (SBIR) to a repeat-order contract, 19 awards worth $53.8M [src-20251022-629fc0][src-20251219-bd5788]. Re:Build: engineering and manufacturing roll-up, 12 sites [src-20261006-1212f9]. VulcanForms: metal 3D printing plus machining; CEO change, then re-raise [src-20240919-72efcc]. Incumbents are in section 7.
+Fabri: automated casting, $13.5M from RTX and Lockheed venture arms, shipping castings [src-20260617-4dfb96]. Layup: composite parts, $42M Series A [src-20260602-a7b79e]. Hybron: composite shells, $25M seed, contract floor over $100M [src-20260413-abc797]. Rangeview: castings from printed molds, $4.2M seed [src-20260923-3ab808]. Furientis: low-cost interceptor missiles, $25M seed (Benchmark) and a Pentagon OTA [src-20261006-410f77]. Firestorm: drones; moved from small research grants (SBIR) to a repeat-order contract, 19 awards worth $53.8M [src-20251022-629fc0][src-20251219-bd5788]. Re:Build: engineering and manufacturing roll-up, 12 sites [src-20261006-1212f9]. VulcanForms: metal 3D printing plus machining; CEO change, then re-raise [src-20240919-72efcc]. Incumbents are in section 7.
 
 **What this means [inference].** Most profiles rest on company claims. Buyer calls exist mainly for Hadrian, and they are mixed.
 
@@ -990,7 +1036,7 @@ Power is a minor cost: one plant used 500-600 amps of a 1,200-amp service for 6-
 **Candidates.**
 - **Fabri:** castings are about 40% of munitions (claim, Power) [src-20260921-876080]; backed by RTX and Lockheed. Next: a second source.
 - **1872:** cheap entry, energy skids. Next: track to its first repeat order.
-- **Atomic Industries:** tool and die is a bottleneck. Next: a second source.
+- **Atomic Industries:** AI-designed molds plus its own presses; claims multi-year part contracts (section 5.11A). Next: a buyer call to confirm repeat programs.
 - **Machina:** depot demand. Next: verify valuation.
 
 **Benchmarks.** Hadrian, Divergent, SendCutSend, Mariana and Amca are priced at $1B-$7.9B. (Oct 26 run: no new candidates added; Mariana's project-level financing [claim, src-20261024-c53370] lowers its equity need but doesn't change its tier.) Periodic, CuspAI, Mind and Arda are priced before product; watch for revenue.

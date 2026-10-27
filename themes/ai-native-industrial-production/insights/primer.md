@@ -1,6 +1,6 @@
 # Vertically Integrated Industries: VC primer
 
-_Version 9.3, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.3 renames Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over._
+_Version 9.4, dated 2026-10-27 (America/New_York). v9 renames the theme to "Vertically Integrated Industries" (v8: "AI-Enabled Vertically Integrated Industries"; before v7.2: "AI-native industrial production") and reorganizes the whole primer by industry, each opening with its own macro case. v9.1 split Chemicals and Materials and added Lumaril. v9.4 adds "Listen & watch" episode lists to each chapter and a listening appendix (E). v9.3 renamed Parts Manufacturing to Manufacturing and expands Divergent. v9.2 merged Minerals and Metals into one Raw Materials chapter (two stages), adds Earth AI, moves Nox Metals to Manufacturing, and renames Materials to Advanced Materials: five industries. Earlier evidence, sources and verdicts carry over._
 
 **The idea in plain English.** America has spent forty years outsourcing the "hard middle" of making things: digging and refining minerals, making metal, machining and welding parts, and producing chemicals. Now defense, industrial policy and China's export controls make that middle valuable again, and it is short of plants and people. We look for startups that **own the plant and sell the physical output** (a mineral, a metal, a part, a chemical) and use **AI, software and automation inside their own operations** to build faster and run with fewer scarce skilled workers than incumbents. Owning production is what lets them keep the margin and the data.
 
@@ -349,6 +349,15 @@ _Each industry chapter repeats its own market-size numbers in section x.7._
 - Higher rates raise the cost of the loans that fund plants #2+ [inference].
 - Spare capacity exists: the average CNC spindle at existing shops cuts metal 34% of the time versus a 70% target [src-20250120-419768] (med, survey). The US lost 4,874 machine shops (-20%) from 2002 to 2018 [src-20250909-29c826].
 
+
+### 2.16 Listen & watch
+
+_Free episodes and videos for this chapter (from listening list v2; links checked Oct 27, 2026). ★ = top pick. Full list: Appendix E._
+
+1. ★ **"China Has Mass. Can America Catch Up?"**, a16z Podcast, Sep 29, 2025, length not listed. [▶ Open link](https://a16z.com/podcast/china-has-mass-can-america-catch-up/) — *Why:* Anduril's and Hadrian's CEOs explain the munitions gap: war games run out in about a week, restocking takes 2–3 years. Repo: src-20250929-452dcb.
+2. **"How LA Is Becoming America's New Industrial Tech Hub"**, Bloomberg *Odd Lots*, Sep 21, 2026, 34 min. [▶ Open link](https://www.youtube.com/watch?v=mgCQ0Pl754c) — *Why:* the best mainstream framing; the bottleneck is factory software and feedback, not robots. Repo: src-20260921-a51ab2.
+3. **"Can the U.S. Still Build Things?" (#34)**, *The Drone Ultimatum*, with Miles Arnone (Re:Build), about 95 min. [▶ Open link](https://www.thedroneultimatum.com/can-the-us-still-build-things-fixing-the-industrial-base-miles-arnone-podcast-34/) — *Why:* the case for buying and upgrading old shops instead of building megafactories. Repo: src-20261022-f423ef.
+
 ## 3. Raw Materials (Minerals & Metals)
 
 _What this industry is._ Raw Materials covers everything from finding ore to delivering a finished metal product: **Stage A, finding and mining** (exploration, mining and concentrating ore) and **Stage B, refining and making metal** (refining to pure oxides, carbonates or cathode, then smelting, alloys, magnets and powders). It sits at the bottom of every supply chain in this primer. Metal distribution (service centers that buy mill metal and cut it to size) now sits in Manufacturing (chapter 4) as a supplier to parts makers.
@@ -586,6 +595,26 @@ _Placement check:_ Earth AI explores and drills its own claims (Stage A); Marian
 - Government equity stakes [src-20260726-39275b]; Strature roll-over odds [src-20261016-83adeb]; refinery build times [src-20250723-3f3ef8]
 - Section 232 proclamations [src-20260402-1b5d6c][src-20260602-b995e2]; Nucor [src-20260812-77d6f5]; Carpenter [src-20261022-de5e6c]; Vulcan/OSC package [src-20251103-ee9b27]; Army drone magnets [src-20260923-c53c99]
 - Earth AI [src-20250127-c28430][src-20241121-ac9f37][src-20221213-5d9521][src-20241220-f860e9][src-20250326-5929b8][src-20250601-b499c3][src-20260429-1bdb70][src-20251001-cf441c]
+
+
+### 3.13 Listen & watch
+
+_Free episodes and videos for this chapter (from listening list v2; links checked Oct 27, 2026). ★ = top pick. Full list: Appendix E._
+
+**Stage A — Finding and mining**
+
+1. ★ **"Critical Minerals: Mining for the Industrial Future"**, a16z Podcast, Jul 23, 2025, length not listed. [▶ Open link](https://a16z.com/podcast/critical-minerals-mining-for-the-industrial-future/) — *Why:* Mariana's Turner Caldwell on owning mines and refineries and using software to cut build time and cost. Repo: src-20250723-3f3ef8.
+2. **"Inside Earth AI: Cutting the Cost of Critical Mineral Discovery" (S2 E57)**, Rare Earth Exchanges, Feb 26, 2026, 33 min. [▶ Open link](https://www.youtube.com/watch?v=-dQONUziAxY) — *Why:* founder Roman Teslyuk on training on 50 years of Australian drilling archives, and why few new deposits are found each year (his figures). Repo: src-20251001-cf441c.
+3. **"From Y Combinator to mining, ft Earth AI's Roman Teslyuk"**, YouTube, Apr 28, 2026, 66 min. [▶ Open link](https://www.youtube.com/watch?v=KXbUJ2CjWbI) — *Why:* the longer Earth AI founder story; pair with the primer's bear case (no resource estimate yet). **Not in the repo (new).**
+4. **"Critical Minerals: What Makes Mining Tech VC-Backable"**, *Deep Tech Catalyst*, with Jun Ku (Main Sequence), length not listed. [▶ Open link](https://www.thescenarionist.com/p/critical-minerals-at-venture-scale-deeptech) — *Why:* an investor on how non-dilutive government money makes heavy-capex mining fundable. Repo: src-20261022-cd6c5c.
+
+**Stage B — Refining and making metal**
+
+1. ★ **"How The Rarest Company On Earth Raised $75M"**, *Sourcery*, Aug 11, 2025, length not listed. [▶ Open link](https://podcasts.apple.com/us/podcast/how-the-rarest-company-on-earth-raised-%2475m/id1738124704?i=1000721503376) — *Why:* Vulcan's early demand: pilot plant opened Mar 2025 and was qualifying magnets with customers within four months (company claim). Repo: src-20250811-e7cb9a.
+2. **"'Supply Chains Win Wars': Rare Earth Magnets with John Maslin"**, *Building the Base*, Apr 29, 2025, length not listed. [▶ Open link](https://buildingthebase.org/episode/supply-chains-win-wars-rare-earth-magnets-with-john-maslin-ceo-vulcan-elements) — *Why:* the magnet macro in one sitting; the gap is processing and metal-making, not ore. Repo: src-20250429-6f9155.
+3. **"Energy, Minerals, and the Physical Stack Behind AI"**, a16z Podcast, May 13, 2026, length not listed. [▶ Open link](https://a16z.com/podcast/energy-minerals-and-the-physical-stack-behind-ai/) — *Why:* Mariana's refinery and plant software (the data loop inside owned assets). Repo: src-20260513-bdc044.
+4. **"Advancing US critical minerals with software and autonomy"**, Benchmark Mineral Intelligence, Jun 23, 2026, 23 min. [▶ Open link](https://www.youtube.com/watch?v=OvJX0j5OPXs) — *Why:* how industry analysts see AI-run refineries. Repo: src-20260623-6dc76b.
+5. *(Quick watch)* **"The Future is Metal – Mariana Minerals"**, a16z, Aug 5, 2026, 9 min. [▶ Open link](https://www.youtube.com/watch?v=uFt-tkagUUI) — *Why:* nine minutes on China's 90%+ share of refining. Repo: src-20260805-b7e3c7.
 
 ## 4. Manufacturing
 
@@ -865,6 +894,30 @@ Fabri: automated casting, $13.5M from RTX and Lockheed venture arms, shipping ca
 - Website checks (Oct 27, 2026): Nox [src-20261027-93d80b], SendCutSend [src-20261027-82f772], 1872 [src-20261027-ff001d], Senra [src-20261027-6834f5], Atomic [src-20261027-de288e], Amca [src-20261027-77bb69]
 - FAI standard [src-20190801-e81d7b]; IFR robots [src-20260924-28b59b]
 
+
+### 4.13 Listen & watch
+
+_Free episodes and videos for this chapter (from listening list v2; links checked Oct 27, 2026). ★ = top pick. Full list: Appendix E._
+
+**Metal Supply**
+
+1. ★ **"Just Gonna Send It Podcast: Zane Hengsperger (Nox Metals) – Ep. 13"**, SendCutSend, Mar 25, 2026, 54 min. [▶ Open link](https://www.youtube.com/watch?v=qhRV1cBG2lw) — *Why:* Nox's founder in conversation with a big customer type; why software beats old-line distributors on quoting and cutting. Repo: src-20260325-5b68db.
+2. **"Reindustrializing America: Zane Hengsperger on building Nox"**, *First Builders*, Apr 27, 2026, length not listed. [▶ Open link](https://podcasts.apple.com/us/podcast/reindustrializing-america-zane-hengsperger-on-building/id1818466924?i=1000763907900) — *Why:* the detailed founder story and lean-capital bet. Repo: src-20260427-83b102.
+3. **"Building NOX Metals & The Future of Manufacturing" (#430)**, *Powers Pod*, length not listed. [▶ Open link](https://www.powerspod.com/reindustrializing-america-building-nox-metals-the-future-of-manufacturing-with-zane-hengsperger/) — *Why:* Nox as the AI-run metal service center. Repo: src-20261022-3135b5.
+
+**Fabrication**
+
+1. ★ **"How to Build a Manufacturing Company in America | Jim Belosic, SendCutSend"**, *The Peel*, Apr 30, 2026, 1 h 32 min. [▶ Open link](https://www.youtube.com/watch?v=Zajo84R1ckI) — *Why:* a bootstrapped fabricator at about $140M run rate in eight years (company figure); the best repeat-order case study. Repo: src-20260430-9318cd.
+2. **"What Everyone is Missing About Reindustrialization"**, Machina Labs, Oct 20, 2026, 55 min. [▶ Open link](https://www.youtube.com/watch?v=EiMhaHThSXk) — *Why:* Machina's and Freeform's founders on why the money is in the finished part ($57 of steel becomes a $2,000 part). Repo: src-20261020-bac9ca.
+3. **"The Crisis Facing American Manufacturing"**, *Core Memory* (Ashlee Vance), Sep 26, 2026, 25 min. [▶ Open link](https://www.youtube.com/watch?v=NpvYyx2OUTc) — *Why:* a short documentary inside Hadrian and Machina Labs. Repo: src-20260926-70087f.
+
+**Precision & Defense Hardware**
+
+1. ★ **"How to Dominate Manufacturing in the US | Chris Power, Hadrian"**, *Relentless*, Sep 21, 2026, 1 h 19 min. [▶ Open link](https://www.youtube.com/watch?v=hmOLr_h7zTk) — *Why:* the clearest unit-economics case for owning factories; about 80% of capex is shared across programs. Repo: src-20260921-876080.
+2. **"From hypercars to cruise missiles: Lukas Czinger on the future of US defense" (E2292)**, *This Week in Startups*, May 23, 2026, 1 h 46 min. [▶ Open link](https://www.youtube.com/watch?v=U5kZI86lIjk) — *Why:* Divergent's CEO on moving from cars to missile airframes and why it builds its own printers. Repo: src-20260523-b05ded.
+3. **"Building the Arsenal: Speed, Scale, and Affordability"**, Air & Space Forces Association, Oct 14, 2026, 40 min. [▶ Open link](https://www.youtube.com/watch?v=r7BNP3R_TWk) — *Why:* the buyer side; Divergent's CEO on a panel about producing munitions at scale. Repo: src-20261014-47f64b.
+4. *(Read or listen)* **TBPN transcript: Atomic Industries raises $25M Series A**, Sep 19, 2025. [▶ Open link](https://www.tbpndigest.com/story/2025-09-19/aaron-slodovs-atomic-industries-raises-25m-series-a-to-automate-injection-mold-manufacturing-in-detroit/transcript) — *Why:* Atomic's move from software to molds to parts; "mid eight figure" contracts (company claim). Repo: src-20250919-2805c7.
+
 ## 5. Chemicals
 
 _What this industry is._ Chemicals covers companies that make and sell molecules: commodity and specialty chemicals, fuels, fertilizers and pharmaceutical ingredients (APIs and their intermediates). Engineered materials (battery cathodes, cooling fluids, alloys) and the AI discovery labs are now a separate chapter (6, Advanced Materials).
@@ -1094,6 +1147,16 @@ _Short v8 notes on LanzaTech, Zymergen, Zapata and others: Appendix D._
 
 _Brooke's reading and listening list (v7.2 section 4B.10): Appendix D._
 
+
+### 5.13 Listen & watch
+
+_Free episodes and videos for this chapter (from listening list v2; links checked Oct 27, 2026). ★ = top pick. Full list: Appendix E._
+
+1. ★ **"Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry"**, YC, Mar 2026, about 13 min. [▶ Open link](https://www.ycombinator.com/library/NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry) — *Why:* the best short intro to a fully integrated chemical maker (Solugen; ~96% yield claim). Repo: src-20260320-f90e80.
+2. **"EP 312 Lee Cronin on Automating Chemistry"**, *The Jim Rutt Show*, Jul 2025, length not listed. [▶ Open link](https://jimrutt.substack.com/p/ep-312-lee-cronin-on-automating-chemistry-f9f) — *Why:* Chemify's "code to molecule" and how it charges (company claims). Repo: src-20250724-0f42f3.
+3. **"Why Twelve believes power-to-liquids will revolutionise SAF"**, *Sustainability in the Air*, Jul 24, 2025, 34 min. [▶ Open link](https://podcasts.apple.com/bm/podcast/why-twelve-believes-power-to-liquids-will-revolutionise/id1620281360?i=1000718768981) — *Why:* an owned e-fuels plant and its long-term buyers; policy is the swing factor. Not in the repo.
+4. **"Mission-driven doctor, inventor & entrepreneur" (Ep. 175)**, *Molecule to Market*, Phlow CEO Eric Edwards, 55 min. [▶ Open link](https://moleculetomarketpod.com/episodes/mission-driven-doctor-inventor-entrepreneur/) — *Why:* drug-ingredient onshoring with the government as anchor buyer. Not in the repo.
+
 ## 6. Advanced Materials
 
 _What this industry is._ Advanced Materials covers companies that make and sell engineered materials rather than commodity molecules: battery cathodes, cooling fluids and hardware for data centers, sorbents, alloys and catalysts. Two producers sit here (Mitra Chem, Orbital Industries). AI discovery labs (Radical AI, CuspAI, Periodic Labs, Lila Sciences) are kept in a clearly labeled sub-group, **Materials Discovery Labs**: they invent materials with AI and robotic labs but mostly do not yet sell product at scale.
@@ -1264,6 +1327,23 @@ _Materials bull case and SPC actions: Appendix D._
 - Mitra [src-20261023-6e0642]; Orbital [src-20260528-375aec][src-20260528-93befb][src-20260528-2c20ee]
 - Discovery labs [src-20260807-52b690][src-20260925-679418][src-20260917-29aa29]; OMol25 [src-20250513-fbb4d8]
 
+
+### 6.13 Listen & watch
+
+_Free episodes and videos for this chapter (from listening list v2; links checked Oct 27, 2026). ★ = top pick. Full list: Appendix E._
+
+**Producers**
+
+1. ★ **"Jonathan Godwin, CEO at Orbital: Orbital raised $50m Series B"**, *Scaling Europe*, Jun 29, 2026, 21 min. [▶ Open link](https://open.spotify.com/episode/2iSBDNWM2Sc5czUAIW0ugX) — *Why:* Orbital's founder on why it builds and sells hardware (a GPU-cooling material) instead of only models (company claims). Not in the repo (new).
+2. **"Developing a supply chain for American-made batteries"**, *Volts*, Sep 6, 2024, length not listed (free transcript on page). [▶ Open link](https://www.volts.wtf/p/developing-a-supply-chain-for-american) — *Why:* Mitra Chem's CEO on China's grip on LFP cathodes and its iron-rich roadmap. Not in the repo (new).
+
+**Materials Discovery Labs**
+
+1. ★ **"The Self-Driving Lab — Joseph Krause, Radical AI"**, *Latent Space*, Jun 17, 2026, length not listed. [▶ Open link](https://www.latent.space/p/radical-ai) — *Why:* the moat is experiments, not models; customers asking for 300 lb pushed Radical toward making alloys. Repo: src-20260617-f9d293.
+2. **"AI for Atoms: Periodic Labs with Liam Fedus"**, *No Priors*, Apr 3, 2026, 29 min. [▶ Open link](https://www.youtube.com/watch?v=Oru2Jxr1xHU) — *Why:* economics of an AI lab running its own experiments. Repo: src-20260403-40fa0e.
+3. **"Meet the Ex-OpenAI & DeepMind Leads Creating an AI Scientist"**, *The Generalist*, Sep 29, 2026, 60 min. [▶ Open link](https://www.youtube.com/watch?v=vJVZgeXKlVo) — *Why:* Periodic's superconductor focus and the impurity problem. Repo: src-20260929-ca6d19.
+4. **"Max Welling, CuspAI — Nebius Conversations"**, May 4, 2026, 19 min. [▶ Open link](https://www.youtube.com/watch?v=40CU4rbO7E4) — *Why:* the software-only model for contrast; it designs but does not make. Repo: src-20260504-36655f.
+
 ## 7. Enabling Software & Robotics (tracked, outside the core)
 
 _What this industry is._ Enabling Software & Robotics covers companies that sell tools to factories rather than making the product themselves: factory operating systems, inventory and ordering software, inspection AI, CAM automation and robots. We track it because it sets the pace for the producers in chapters 3–6, but it sits **outside the core thesis** (it is an enabler, not an owner of output).
@@ -1417,6 +1497,17 @@ Together this is "owner economics without owner capital": a capital-light route 
 - Roland Berger automation 2026 [src-20260116-0c4980]
 - Lumaril [src-20261027-d5ba3f][src-20261027-311fa6][src-20261003-496a99][src-20261027-79ddd6]
 - Arda [src-20261020-a1e174][src-20261020-914a64][src-20261020-8d7abc]
+
+
+### 7.13 Listen & watch
+
+_Free episodes and videos for this chapter (from listening list v2; links checked Oct 27, 2026). ★ = top pick. Full list: Appendix E._
+
+1. ★ **"Building Factory SuperIntelligence with Ariyan Kabir"**, *Machine Minds*, length not listed. [▶ Open link](https://machineminds.buzzsprout.com/2212148/episodes/19077384-building-factory-superintelligence-with-ariyan-kabir) — *Why:* GrayMatter moved from licensing software to selling robot cells as a service, which tests the thesis. Repo: src-20261022-3335bd.
+2. **"Former top OpenAI employees raise capital for defense startup valued at $1.5B"**, CNBC, Oct 16, 2026, short clip. [▶ Open link](https://www.cnbc.com/video/2026/10/16/former-top-openai-employees-raises-capital-for-defense-startup-valued-at-1point5b.html) — *Why:* Arda on the 3–6 months it takes to retool factory automation. Repo: src-20261020-878aa9.
+3. **"Mind Robotics: Building the AI-Native Robotics Platform"**, Kleiner Perkins, May 13, 2026, 4 min. [▶ Open link](https://www.youtube.com/watch?v=fc9GB9Yz75Y) — *Why:* Rivian's line as Mind's live data loop. Repo: src-20260513-abe9cf.
+4. **"Big Ideas 2026: Physical AI and the Industrial Stack"**, a16z Podcast, Dec 25, 2025, length not listed. [▶ Open link](https://a16z.com/podcast/big-ideas-2026-physical-ai-and-the-industrial-stack/) — *Why:* how investors frame the software layer going into 2026. Repo: src-20251225-725014.
+- *Gap:* no free Lumaril podcast or founder interview found (searched Oct 27, 2026). Use the primer profile (section 7.10).
 
 ## 8. Competition and incumbents
 
@@ -2026,3 +2117,82 @@ Chemistry's public data (patents, papers) mostly records successes and leaves ou
 - **Plan:** "Act 1" is software for manual assembly lines. "Act 2" is robotic lines that reconfigure as fast as human workers when the design changes [src-20261020-a1e174].
 - **Team and money:** founded 2025 by Bob McGrew (Palantir's second engineer, later OpenAI Chief Research Officer). $72M seed (Accel, Founders Fund), then a $160M Series A at $1.5B co-led by Altimeter, Accel and Khosla; $232M total [src-20261020-914a64][src-20261020-9be48d]. Accel says complex engineering workflows run "more than 10x faster" (claim) [src-20261020-8d7abc]. Its investor admits "the price is steep today" [src-20261020-878aa9].
 - **Bear case (equal weight):** one customer (Anduril), and every number is from Arda, Anduril or Arda's investors; there is no independent buyer call yet. It sells into the installed base of Siemens, Rockwell and other MES vendors (section 8). As software it does not own production data unless the host lets it, the same weakness as other enablers (section 1). "Act 2" robotic lines are unbuilt.
+
+## Appendix E. Listening list (all links)
+
+*Compiled Oct 27, 2026, to match primer v9.3 (five industries). Every link was opened on Oct 27, 2026, loaded, and is free (YouTube, open podcast pages or free web pages). Lengths come from YouTube or the podcast host; "length not listed" means the page did not give one. ★ = top pick for the section. "Repo" gives the source ID. Company numbers are the companies' own claims unless marked otherwise.*
+
+**Start here, if you only have 3 hours:** a16z *China Has Mass* (macro) → a16z *Critical Minerals* (Raw Materials) → Relentless with Chris Power (Manufacturing) → YC on Solugen (Chemicals) → Latent Space with Radical AI (Advanced Materials).
+
+### E.0 Cross-cutting macro
+
+1. ★ **"China Has Mass. Can America Catch Up?"**, a16z Podcast, Sep 29, 2025, length not listed. [▶ Open link](https://a16z.com/podcast/china-has-mass-can-america-catch-up/) — *Why:* Anduril's and Hadrian's CEOs explain the munitions gap: war games run out in about a week, restocking takes 2–3 years. Repo: src-20250929-452dcb.
+2. **"How LA Is Becoming America's New Industrial Tech Hub"**, Bloomberg *Odd Lots*, Sep 21, 2026, 34 min. [▶ Open link](https://www.youtube.com/watch?v=mgCQ0Pl754c) — *Why:* the best mainstream framing; the bottleneck is factory software and feedback, not robots. Repo: src-20260921-a51ab2.
+3. **"Can the U.S. Still Build Things?" (#34)**, *The Drone Ultimatum*, with Miles Arnone (Re:Build), about 95 min. [▶ Open link](https://www.thedroneultimatum.com/can-the-us-still-build-things-fixing-the-industrial-base-miles-arnone-podcast-34/) — *Why:* the case for buying and upgrading old shops instead of building megafactories. Repo: src-20261022-f423ef.
+
+### E.1 Raw Materials (Minerals & Metals)
+
+### Stage A — Finding and mining
+
+1. ★ **"Critical Minerals: Mining for the Industrial Future"**, a16z Podcast, Jul 23, 2025, length not listed. [▶ Open link](https://a16z.com/podcast/critical-minerals-mining-for-the-industrial-future/) — *Why:* Mariana's Turner Caldwell on owning mines and refineries and using software to cut build time and cost. Repo: src-20250723-3f3ef8.
+2. **"Inside Earth AI: Cutting the Cost of Critical Mineral Discovery" (S2 E57)**, Rare Earth Exchanges, Feb 26, 2026, 33 min. [▶ Open link](https://www.youtube.com/watch?v=-dQONUziAxY) — *Why:* founder Roman Teslyuk on training on 50 years of Australian drilling archives, and why few new deposits are found each year (his figures). Repo: src-20251001-cf441c.
+3. **"From Y Combinator to mining, ft Earth AI's Roman Teslyuk"**, YouTube, Apr 28, 2026, 66 min. [▶ Open link](https://www.youtube.com/watch?v=KXbUJ2CjWbI) — *Why:* the longer Earth AI founder story; pair with the primer's bear case (no resource estimate yet). **Not in the repo (new).**
+4. **"Critical Minerals: What Makes Mining Tech VC-Backable"**, *Deep Tech Catalyst*, with Jun Ku (Main Sequence), length not listed. [▶ Open link](https://www.thescenarionist.com/p/critical-minerals-at-venture-scale-deeptech) — *Why:* an investor on how non-dilutive government money makes heavy-capex mining fundable. Repo: src-20261022-cd6c5c.
+
+#### Stage B — Refining and making metal
+
+1. ★ **"How The Rarest Company On Earth Raised $75M"**, *Sourcery*, Aug 11, 2025, length not listed. [▶ Open link](https://podcasts.apple.com/us/podcast/how-the-rarest-company-on-earth-raised-%2475m/id1738124704?i=1000721503376) — *Why:* Vulcan's early demand: pilot plant opened Mar 2025 and was qualifying magnets with customers within four months (company claim). Repo: src-20250811-e7cb9a.
+2. **"'Supply Chains Win Wars': Rare Earth Magnets with John Maslin"**, *Building the Base*, Apr 29, 2025, length not listed. [▶ Open link](https://buildingthebase.org/episode/supply-chains-win-wars-rare-earth-magnets-with-john-maslin-ceo-vulcan-elements) — *Why:* the magnet macro in one sitting; the gap is processing and metal-making, not ore. Repo: src-20250429-6f9155.
+3. **"Energy, Minerals, and the Physical Stack Behind AI"**, a16z Podcast, May 13, 2026, length not listed. [▶ Open link](https://a16z.com/podcast/energy-minerals-and-the-physical-stack-behind-ai/) — *Why:* Mariana's refinery and plant software (the data loop inside owned assets). Repo: src-20260513-bdc044.
+4. **"Advancing US critical minerals with software and autonomy"**, Benchmark Mineral Intelligence, Jun 23, 2026, 23 min. [▶ Open link](https://www.youtube.com/watch?v=OvJX0j5OPXs) — *Why:* how industry analysts see AI-run refineries. Repo: src-20260623-6dc76b.
+5. *(Quick watch)* **"The Future is Metal – Mariana Minerals"**, a16z, Aug 5, 2026, 9 min. [▶ Open link](https://www.youtube.com/watch?v=uFt-tkagUUI) — *Why:* nine minutes on China's 90%+ share of refining. Repo: src-20260805-b7e3c7.
+
+### E.2 Manufacturing
+
+### Metal Supply
+
+1. ★ **"Just Gonna Send It Podcast: Zane Hengsperger (Nox Metals) – Ep. 13"**, SendCutSend, Mar 25, 2026, 54 min. [▶ Open link](https://www.youtube.com/watch?v=qhRV1cBG2lw) — *Why:* Nox's founder in conversation with a big customer type; why software beats old-line distributors on quoting and cutting. Repo: src-20260325-5b68db.
+2. **"Reindustrializing America: Zane Hengsperger on building Nox"**, *First Builders*, Apr 27, 2026, length not listed. [▶ Open link](https://podcasts.apple.com/us/podcast/reindustrializing-america-zane-hengsperger-on-building/id1818466924?i=1000763907900) — *Why:* the detailed founder story and lean-capital bet. Repo: src-20260427-83b102.
+3. **"Building NOX Metals & The Future of Manufacturing" (#430)**, *Powers Pod*, length not listed. [▶ Open link](https://www.powerspod.com/reindustrializing-america-building-nox-metals-the-future-of-manufacturing-with-zane-hengsperger/) — *Why:* Nox as the AI-run metal service center. Repo: src-20261022-3135b5.
+
+#### Fabrication
+
+1. ★ **"How to Build a Manufacturing Company in America | Jim Belosic, SendCutSend"**, *The Peel*, Apr 30, 2026, 1 h 32 min. [▶ Open link](https://www.youtube.com/watch?v=Zajo84R1ckI) — *Why:* a bootstrapped fabricator at about $140M run rate in eight years (company figure); the best repeat-order case study. Repo: src-20260430-9318cd.
+2. **"What Everyone is Missing About Reindustrialization"**, Machina Labs, Oct 20, 2026, 55 min. [▶ Open link](https://www.youtube.com/watch?v=EiMhaHThSXk) — *Why:* Machina's and Freeform's founders on why the money is in the finished part ($57 of steel becomes a $2,000 part). Repo: src-20261020-bac9ca.
+3. **"The Crisis Facing American Manufacturing"**, *Core Memory* (Ashlee Vance), Sep 26, 2026, 25 min. [▶ Open link](https://www.youtube.com/watch?v=NpvYyx2OUTc) — *Why:* a short documentary inside Hadrian and Machina Labs. Repo: src-20260926-70087f.
+
+#### Precision & Defense Hardware
+
+1. ★ **"How to Dominate Manufacturing in the US | Chris Power, Hadrian"**, *Relentless*, Sep 21, 2026, 1 h 19 min. [▶ Open link](https://www.youtube.com/watch?v=hmOLr_h7zTk) — *Why:* the clearest unit-economics case for owning factories; about 80% of capex is shared across programs. Repo: src-20260921-876080.
+2. **"From hypercars to cruise missiles: Lukas Czinger on the future of US defense" (E2292)**, *This Week in Startups*, May 23, 2026, 1 h 46 min. [▶ Open link](https://www.youtube.com/watch?v=U5kZI86lIjk) — *Why:* Divergent's CEO on moving from cars to missile airframes and why it builds its own printers. Repo: src-20260523-b05ded.
+3. **"Building the Arsenal: Speed, Scale, and Affordability"**, Air & Space Forces Association, Oct 14, 2026, 40 min. [▶ Open link](https://www.youtube.com/watch?v=r7BNP3R_TWk) — *Why:* the buyer side; Divergent's CEO on a panel about producing munitions at scale. Repo: src-20261014-47f64b.
+4. *(Read or listen)* **TBPN transcript: Atomic Industries raises $25M Series A**, Sep 19, 2025. [▶ Open link](https://www.tbpndigest.com/story/2025-09-19/aaron-slodovs-atomic-industries-raises-25m-series-a-to-automate-injection-mold-manufacturing-in-detroit/transcript) — *Why:* Atomic's move from software to molds to parts; "mid eight figure" contracts (company claim). Repo: src-20250919-2805c7.
+
+### E.3 Chemicals
+
+1. ★ **"Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry"**, YC, Mar 2026, about 13 min. [▶ Open link](https://www.ycombinator.com/library/NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry) — *Why:* the best short intro to a fully integrated chemical maker (Solugen; ~96% yield claim). Repo: src-20260320-f90e80.
+2. **"EP 312 Lee Cronin on Automating Chemistry"**, *The Jim Rutt Show*, Jul 2025, length not listed. [▶ Open link](https://jimrutt.substack.com/p/ep-312-lee-cronin-on-automating-chemistry-f9f) — *Why:* Chemify's "code to molecule" and how it charges (company claims). Repo: src-20250724-0f42f3.
+3. **"Why Twelve believes power-to-liquids will revolutionise SAF"**, *Sustainability in the Air*, Jul 24, 2025, 34 min. [▶ Open link](https://podcasts.apple.com/bm/podcast/why-twelve-believes-power-to-liquids-will-revolutionise/id1620281360?i=1000718768981) — *Why:* an owned e-fuels plant and its long-term buyers; policy is the swing factor. Not in the repo.
+4. **"Mission-driven doctor, inventor & entrepreneur" (Ep. 175)**, *Molecule to Market*, Phlow CEO Eric Edwards, 55 min. [▶ Open link](https://moleculetomarketpod.com/episodes/mission-driven-doctor-inventor-entrepreneur/) — *Why:* drug-ingredient onshoring with the government as anchor buyer. Not in the repo.
+
+### E.4 Advanced Materials
+
+### Producers
+
+1. ★ **"Jonathan Godwin, CEO at Orbital: Orbital raised $50m Series B"**, *Scaling Europe*, Jun 29, 2026, 21 min. [▶ Open link](https://open.spotify.com/episode/2iSBDNWM2Sc5czUAIW0ugX) — *Why:* Orbital's founder on why it builds and sells hardware (a GPU-cooling material) instead of only models (company claims). Not in the repo (new).
+2. **"Developing a supply chain for American-made batteries"**, *Volts*, Sep 6, 2024, length not listed (free transcript on page). [▶ Open link](https://www.volts.wtf/p/developing-a-supply-chain-for-american) — *Why:* Mitra Chem's CEO on China's grip on LFP cathodes and its iron-rich roadmap. Not in the repo (new).
+
+#### Materials Discovery Labs
+
+1. ★ **"The Self-Driving Lab — Joseph Krause, Radical AI"**, *Latent Space*, Jun 17, 2026, length not listed. [▶ Open link](https://www.latent.space/p/radical-ai) — *Why:* the moat is experiments, not models; customers asking for 300 lb pushed Radical toward making alloys. Repo: src-20260617-f9d293.
+2. **"AI for Atoms: Periodic Labs with Liam Fedus"**, *No Priors*, Apr 3, 2026, 29 min. [▶ Open link](https://www.youtube.com/watch?v=Oru2Jxr1xHU) — *Why:* economics of an AI lab running its own experiments. Repo: src-20260403-40fa0e.
+3. **"Meet the Ex-OpenAI & DeepMind Leads Creating an AI Scientist"**, *The Generalist*, Sep 29, 2026, 60 min. [▶ Open link](https://www.youtube.com/watch?v=vJVZgeXKlVo) — *Why:* Periodic's superconductor focus and the impurity problem. Repo: src-20260929-ca6d19.
+4. **"Max Welling, CuspAI — Nebius Conversations"**, May 4, 2026, 19 min. [▶ Open link](https://www.youtube.com/watch?v=40CU4rbO7E4) — *Why:* the software-only model for contrast; it designs but does not make. Repo: src-20260504-36655f.
+
+### E.5 Enabling Software & Robotics (tracked, outside the core)
+
+1. ★ **"Building Factory SuperIntelligence with Ariyan Kabir"**, *Machine Minds*, length not listed. [▶ Open link](https://machineminds.buzzsprout.com/2212148/episodes/19077384-building-factory-superintelligence-with-ariyan-kabir) — *Why:* GrayMatter moved from licensing software to selling robot cells as a service, which tests the thesis. Repo: src-20261022-3335bd.
+2. **"Former top OpenAI employees raise capital for defense startup valued at $1.5B"**, CNBC, Oct 16, 2026, short clip. [▶ Open link](https://www.cnbc.com/video/2026/10/16/former-top-openai-employees-raises-capital-for-defense-startup-valued-at-1point5b.html) — *Why:* Arda on the 3–6 months it takes to retool factory automation. Repo: src-20261020-878aa9.
+3. **"Mind Robotics: Building the AI-Native Robotics Platform"**, Kleiner Perkins, May 13, 2026, 4 min. [▶ Open link](https://www.youtube.com/watch?v=fc9GB9Yz75Y) — *Why:* Rivian's line as Mind's live data loop. Repo: src-20260513-abe9cf.
+4. **"Big Ideas 2026: Physical AI and the Industrial Stack"**, a16z Podcast, Dec 25, 2025, length not listed. [▶ Open link](https://a16z.com/podcast/big-ideas-2026-physical-ai-and-the-industrial-stack/) — *Why:* how investors frame the software layer going into 2026. Repo: src-20251225-725014.
+- *Gap:* no free Lumaril podcast or founder interview found (searched Oct 27, 2026). Use the primer profile (section 7.10).

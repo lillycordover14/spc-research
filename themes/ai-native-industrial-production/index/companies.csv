@@ -12,7 +12,7 @@ bright-machines,Bright Machines,adjacent,owner-operator,unknown,excluded,,,,,,,,
 c-infinity,C Infinity,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/c-infinity.md
 cemvita,Cemvita,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/cemvita.md
 charge-robotics,Charge Robotics,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/charge-robotics.md
-chemify,Chemify,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/chemify.md
+chemify,Chemify,adjacent,owner-operator,series-b,candidate,"Glasgow, Scotland",,152,,https://chemify.io,,,,"AI plus robotic synthesis (""chemputation"", chiDL language) in its own Chemifarm labs; makes new molecules at mg-g scale for pharma and materials partners.",2026-10-28,themes/ai-native-industrial-production/companies/chemify.md
 chemix,Chemix,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/chemix.md
 chipletz,Chipletz,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/chipletz.md
 circuithub,Circuithub,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/circuithub.md
@@ -89,7 +89,7 @@ union-technologies,Union Technologies,adjacent,owner-operator,unknown,candidate,
 ursa-major,Ursa Major,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/ursa-major.md
 vention,Vention,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/vention.md
 voxel,Voxel,adjacent,owner-operator,unknown,excluded,,,,,,,,,,2026-10-23,themes/ai-native-industrial-production/companies/voxel.md
-warp-sciences,Warp Sciences,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/warp-sciences.md
+warp-sciences,Warp Sciences,adjacent,owner-operator,series-a,candidate,"San Francisco, CA",,,,https://warp.xyz,,,,US chemistry CRO: AI- and robot-assisted lead-optimization synthesis for pharma/biotech; keeps all run data (incl. failures) to train models.,2026-10-28,themes/ai-native-industrial-production/companies/warp-sciences.md
 zapata,Zapata,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/zapata.md
 zymergen,Zymergen,adjacent,owner-operator,unknown,candidate,,,,,,,,,,2026-10-27,themes/ai-native-industrial-production/companies/zymergen.md
 1872,1872,fabrication,owner-operator,seed,tracking,"Cincinnati, OH (Camp Washington)",2024,18,15000000,https://1872.ai,urn:harmonic:company:75603108,"owns-production,in-house-software,data-loop,speed-moat","steel,welding,scheduling,quoting,job-shop,reshoring,labor-gap,capex-financing","Owner-operated AI-native steel fabrication plant in Cincinnati run on in-house Factory OS; sells complex welded structural steel assemblies (frames, skids, enclosures, modular infrastructure) to energy, utility, industrial and modular-construction buyers.",2026-10-23,themes/ai-native-industrial-production/companies/1872.md

@@ -87,6 +87,8 @@ sources:
 - src-20260806-7aefa9
 - src-20260407-a5a1b0
 - src-20261024-c53370
+- src-20260501-0736cd
+- src-20260501-c478b0
 data_quality: 'Official Aug 3 2026 release does not disclose valuation; $1.5B appears in Harmonic and secondary coverage (Dealroom, KuCoin headlines). Total raised: release says ~$400M parent plus project capital (Harmonic had $395M). Headcount 206 and CFO/CTO names are from Harmonic, not from the press sources ingested here. Investmets interview date approximated to 2026-08-05.'
 updated: '2026-10-22'
 match_context:

@@ -27,6 +27,11 @@ tags: []
 sources:
 - src-20260803-423f7a
 - src-20261022-04e57d
+- src-20230530-8381de
+- src-20230530-29a15b
+- src-20210908-3882da
+- src-20210908-289951
+- src-20260603-826fb7
 data_quality: 'created by grokbot for incumbents-vs-ai-native; threat view: Med long-term; investor now'
 updated: '2026-10-22'
 ---

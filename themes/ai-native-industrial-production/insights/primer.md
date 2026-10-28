@@ -1,11 +1,11 @@
 # Vertically Integrated Industries: VC primer
 
-_Version 10.0, dated 2026-10-27 (America/New_York). v10.0 shortens v9.9 (103 pages) by removing repetition; structure, evidence and views are unchanged. Version history: repo git log._
+_Version 10.1, dated 2026-10-28 (America/New_York). v10.1 renames the Raw Materials stages, adds a Phoenix Tailings spotlight, business-model boxes for the four Raw Materials names, an "Incumbents and AI" section (BHP, Rio Tinto, MP Materials) and a plain "what it makes" line for every company. v10.0 shortened v9.9 (103 pages); structure is unchanged. Version history: repo git log._
 
 **The idea in plain English.** America has spent forty years outsourcing the "hard middle" of making things: digging and refining minerals, making metal, machining and welding parts, and producing chemicals. Now defense, industrial policy and China's export controls make that middle valuable again, and it is short of plants and people. We look for startups that **own the plant and sell the physical output** (a mineral, a metal, a part, a chemical) and use **AI, software and automation inside their own operations** to build faster and run with fewer scarce skilled workers than incumbents. Owning production is what lets them keep the margin and the data.
 
 **The five industries (chapters 3–7).**
-1. **Raw Materials (Minerals & Metals)** — Stage A, finding and mining ore; Stage B, refining and making metal (smelting, alloys, magnets, powders).
+1. **Raw Materials (Minerals & Metals)** — Stage A: Locating & mining critical minerals (exploration, mining, concentrating ore); Stage B: Refining minerals/metals (separation, smelting, alloys, magnets, powders).
 2. **Manufacturing** — metal supply / service centers, then **fabrication (sheet/structures)** and **precision (machining, 3D printing, castings, composites)**.
 3. **Specialty Chemicals** — producers of pharma ingredients and intermediates, agrochemical actives, electronic chemicals, fragrances, coatings and additives, catalysts and performance polymers, plus AI molecule discovery.
 4. **Advanced Materials** — producers of engineered materials (battery cathodes, cooling fluids), with a separate **Materials Discovery Labs** sub-group.
@@ -32,108 +32,109 @@ Confidence (high/med/low) is marked on weak numbers. Acronyms are collected in A
 | 1. The theme in plain English | 7 |
 | 2. Cross-cutting macro (applies to all five industries) | 8 |
 | &emsp;2.1 Manufacturing in one page | 8 |
-| &emsp;2.2 Six forces behind "why now" (overview) | 8 |
+| &emsp;2.2 Six forces behind "why now" (overview) | 9 |
 | &emsp;2.3 Industrial policy and the policy toolkit | 9 |
 | &emsp;2.4 The government as lender and investor: OSC, EDF and DPA Title III | 10 |
 | &emsp;2.5 Capex, construction, rates and how plants get financed | 10 |
-| &emsp;2.6 Defense and munitions budgets | 10 |
+| &emsp;2.6 Defense and munitions budgets | 11 |
 | &emsp;2.7 Labor: the binding constraint, and why cheap labor is not the point | 11 |
 | &emsp;2.8 Power, permits and build time | 11 |
-| &emsp;2.9 Venture climate and how investors see it | 11 |
+| &emsp;2.9 Venture climate and how investors see it | 12 |
 | &emsp;2.10 Science policy: the Genesis Mission, DOE, NSF and the national labs | 12 |
 | &emsp;2.11 More macro facts a newcomer should know | 12 |
 | &emsp;2.12 Market size: overview | 12 |
-| &emsp;2.13 Data loops: what the sources say for and against | 12 |
+| &emsp;2.13 Data loops: what the sources say for and against | 13 |
 | &emsp;2.14 Macro scorecard by industry [inference] | 13 |
 | &emsp;2.15 What would break "why now" | 13 |
-| &emsp;2.16 Listen & watch | 13 |
+| &emsp;2.16 Listen & watch | 14 |
 | 3. Raw Materials (Minerals & Metals) | 14 |
 | &emsp;3.1 Shared macro: China's refining grip, the critical-minerals orders and government lending | 14 |
-| &emsp;3.2 Stage A — Finding and mining: problem, tailwinds and headwinds | 15 |
-| &emsp;3.3 Stage B — Refining and making metal: problem, tailwinds and headwinds | 15 |
+| &emsp;3.2 Stage A: Locating & mining critical minerals — problem, tailwinds and headwinds | 15 |
+| &emsp;3.3 Stage B: Refining minerals/metals — problem, tailwinds and headwinds | 16 |
 | &emsp;3.4 Why an AI-enabled, vertically integrated company is the answer here | 16 |
-| &emsp;3.5 What would have to be true, and signals to watch | 16 |
+| &emsp;3.5 What would have to be true, and signals to watch | 17 |
 | &emsp;3.6 Macro in more depth | 17 |
 | &emsp;3.7 How the industry and its supply chain work | 17 |
-| &emsp;3.8 Where AI and automation help | 17 |
-| &emsp;3.9 Right to win, unit economics and data loop | 17 |
+| &emsp;3.8 Where AI and automation help | 18 |
+| &emsp;3.9 Right to win, unit economics and data loop | 18 |
 | &emsp;3.10 Companies, grouped by label | 18 |
-| &emsp;3.11 Bear case, at equal weight | 19 |
-| &emsp;3.12 Key sources | 20 |
-| &emsp;3.13 Listen & watch | 20 |
-| &emsp;3.14 Commercial traction and incumbents | 20 |
-| 4. Manufacturing | 22 |
-| &emsp;4.1 The problem today | 22 |
-| &emsp;4.2 Macro and tailwinds, ranked [ranking is inference] | 23 |
-| &emsp;4.3 Headwinds, at equal weight | 23 |
-| &emsp;4.4 Why an AI-enabled, vertically integrated company is the answer here | 24 |
-| &emsp;4.5 What would have to be true, and signals to watch | 24 |
-| &emsp;4.6 Macro in more depth | 24 |
-| &emsp;4.7 How the industry and its supply chain work | 24 |
-| &emsp;4.8 Where AI and automation help | 25 |
-| &emsp;4.9 Right to win, unit economics and data loop | 25 |
-| &emsp;4.11 Bear case, at equal weight | 29 |
-| &emsp;4.12 Key sources | 29 |
-| &emsp;4.13 Listen & watch | 30 |
-| &emsp;4.14 Commercial traction and incumbents | 30 |
-| 5. Specialty Chemicals | 32 |
-| &emsp;5.1 The problem today | 33 |
-| &emsp;5.2 Market map, size and economics | 33 |
-| &emsp;5.3 Tailwinds, ranked [ranking is inference] | 34 |
-| &emsp;5.4 Headwinds, at equal weight | 35 |
-| &emsp;5.5 Why an AI-enabled, vertically integrated company wins here | 35 |
-| &emsp;5.6 Macro in more depth: the supply chain | 35 |
-| &emsp;5.7 How the industry and its supply chain work | 36 |
-| &emsp;5.8 Where AI and automation help | 37 |
-| &emsp;5.9 Right to win, unit economics and data loop | 37 |
-| &emsp;5.10 Companies, grouped by label | 37 |
-| &emsp;5.11 Bear case, at equal weight | 40 |
-| &emsp;5.12 Key sources | 41 |
-| &emsp;5.13 Listen & watch | 41 |
-| &emsp;5.14 Commercial traction and incumbents | 41 |
-| 6. Advanced Materials | 43 |
-| &emsp;6.1 The problem today | 43 |
-| &emsp;6.2 Macro and tailwinds, ranked [ranking is inference] | 44 |
-| &emsp;6.3 Headwinds, at equal weight | 45 |
-| &emsp;6.4 Why an AI-enabled, vertically integrated company is the answer here | 45 |
-| &emsp;6.5 What would have to be true, and signals to watch | 45 |
-| &emsp;6.6 Macro in more depth | 45 |
-| &emsp;6.7 How the industry and its supply chain work | 46 |
-| &emsp;6.8 Where AI and automation help | 47 |
-| &emsp;6.9 Right to win, unit economics and data loop | 47 |
-| &emsp;6.10 Companies, grouped by label | 47 |
-| &emsp;6.11 Bear case, at equal weight | 49 |
-| &emsp;6.12 Key sources | 49 |
-| &emsp;6.13 Listen & watch | 49 |
-| &emsp;6.14 Commercial traction and incumbents | 50 |
-| 7. Enabling Software & Robotics (tracked, outside the core) | 53 |
-| &emsp;7.1 The problem today | 54 |
-| &emsp;7.2 Macro and tailwinds, ranked [ranking is inference] | 54 |
-| &emsp;7.3 Headwinds, at equal weight | 54 |
-| &emsp;7.4 Why vertical integration matters here, and where the logic breaks | 55 |
-| &emsp;7.5 What would have to be true, and signals to watch | 55 |
-| &emsp;7.6 Macro in more depth | 55 |
-| &emsp;7.7 How the industry and its supply chain work | 55 |
-| &emsp;7.8 Where AI and automation help | 55 |
-| &emsp;7.9 Right to win, unit economics and data loop | 55 |
-| &emsp;7.10 Companies, grouped by label | 56 |
-| &emsp;7.11 Bear case, at equal weight | 57 |
-| &emsp;7.12 Key sources | 57 |
-| &emsp;7.13 Listen & watch | 57 |
-| &emsp;7.14 Commercial traction and incumbents | 57 |
-| 8. Competition and incumbents | 58 |
-| &emsp;8.1 The right to win: versus job shops, contract manufacturers and overseas | 59 |
-| 9. Customers and repeat orders | 59 |
-| &emsp;9.1 How buyers qualify suppliers and reorder, step by step | 59 |
-| 10. Capital and financing | 60 |
-| 11. Policy tracker (newest first) | 60 |
-| 12. Companies worth attention | 61 |
-| 13. Bottom line | 62 |
-| &emsp;13.1 The bear case in one list | 62 |
-| Appendix A. Glossary | 62 |
-| Appendix B. Gaps and next actions | 64 |
-| Appendix C. Source coverage | 65 |
-| Appendix D. Listening list | 65 |
+| &emsp;3.11 Bear case, at equal weight | 22 |
+| &emsp;3.12 Key sources | 22 |
+| &emsp;3.13 Listen & watch | 23 |
+| &emsp;3.14 Commercial traction and incumbents | 23 |
+| &emsp;3.15 Incumbents and AI: BHP, Rio Tinto, MP Materials | 24 |
+| 4. Manufacturing | 26 |
+| &emsp;4.1 The problem today | 27 |
+| &emsp;4.2 Macro and tailwinds, ranked [ranking is inference] | 27 |
+| &emsp;4.3 Headwinds, at equal weight | 28 |
+| &emsp;4.4 Why an AI-enabled, vertically integrated company is the answer here | 28 |
+| &emsp;4.5 What would have to be true, and signals to watch | 28 |
+| &emsp;4.6 Macro in more depth | 28 |
+| &emsp;4.7 How the industry and its supply chain work | 29 |
+| &emsp;4.8 Where AI and automation help | 29 |
+| &emsp;4.9 Right to win, unit economics and data loop | 29 |
+| &emsp;4.11 Bear case, at equal weight | 34 |
+| &emsp;4.12 Key sources | 34 |
+| &emsp;4.13 Listen & watch | 35 |
+| &emsp;4.14 Commercial traction and incumbents | 35 |
+| 5. Specialty Chemicals | 37 |
+| &emsp;5.1 The problem today | 38 |
+| &emsp;5.2 Market map, size and economics | 38 |
+| &emsp;5.3 Tailwinds, ranked [ranking is inference] | 39 |
+| &emsp;5.4 Headwinds, at equal weight | 40 |
+| &emsp;5.5 Why an AI-enabled, vertically integrated company wins here | 40 |
+| &emsp;5.6 Macro in more depth: the supply chain | 40 |
+| &emsp;5.7 How the industry and its supply chain work | 41 |
+| &emsp;5.8 Where AI and automation help | 42 |
+| &emsp;5.9 Right to win, unit economics and data loop | 42 |
+| &emsp;5.10 Companies, grouped by label | 42 |
+| &emsp;5.11 Bear case, at equal weight | 45 |
+| &emsp;5.12 Key sources | 46 |
+| &emsp;5.13 Listen & watch | 46 |
+| &emsp;5.14 Commercial traction and incumbents | 46 |
+| 6. Advanced Materials | 48 |
+| &emsp;6.1 The problem today | 48 |
+| &emsp;6.2 Macro and tailwinds, ranked [ranking is inference] | 49 |
+| &emsp;6.3 Headwinds, at equal weight | 50 |
+| &emsp;6.4 Why an AI-enabled, vertically integrated company is the answer here | 50 |
+| &emsp;6.5 What would have to be true, and signals to watch | 50 |
+| &emsp;6.6 Macro in more depth | 50 |
+| &emsp;6.7 How the industry and its supply chain work | 51 |
+| &emsp;6.8 Where AI and automation help | 52 |
+| &emsp;6.9 Right to win, unit economics and data loop | 52 |
+| &emsp;6.10 Companies, grouped by label | 52 |
+| &emsp;6.11 Bear case, at equal weight | 54 |
+| &emsp;6.12 Key sources | 54 |
+| &emsp;6.13 Listen & watch | 54 |
+| &emsp;6.14 Commercial traction and incumbents | 55 |
+| 7. Enabling Software & Robotics (tracked, outside the core) | 59 |
+| &emsp;7.1 The problem today | 59 |
+| &emsp;7.2 Macro and tailwinds, ranked [ranking is inference] | 59 |
+| &emsp;7.3 Headwinds, at equal weight | 60 |
+| &emsp;7.4 Why vertical integration matters here, and where the logic breaks | 60 |
+| &emsp;7.5 What would have to be true, and signals to watch | 60 |
+| &emsp;7.6 Macro in more depth | 60 |
+| &emsp;7.7 How the industry and its supply chain work | 60 |
+| &emsp;7.8 Where AI and automation help | 61 |
+| &emsp;7.9 Right to win, unit economics and data loop | 61 |
+| &emsp;7.10 Companies, grouped by label | 61 |
+| &emsp;7.11 Bear case, at equal weight | 62 |
+| &emsp;7.12 Key sources | 62 |
+| &emsp;7.13 Listen & watch | 62 |
+| &emsp;7.14 Commercial traction and incumbents | 63 |
+| 8. Competition and incumbents | 63 |
+| &emsp;8.1 The right to win: versus job shops, contract manufacturers and overseas | 64 |
+| 9. Customers and repeat orders | 64 |
+| &emsp;9.1 How buyers qualify suppliers and reorder, step by step | 65 |
+| 10. Capital and financing | 65 |
+| 11. Policy tracker (newest first) | 66 |
+| 12. Companies worth attention | 66 |
+| 13. Bottom line | 67 |
+| &emsp;13.1 The bear case in one list | 67 |
+| Appendix A. Glossary | 68 |
+| Appendix B. Gaps and next actions | 69 |
+| Appendix C. Source coverage | 70 |
+| Appendix D. Listening list | 70 |
 
 
 ---
@@ -168,8 +169,8 @@ _In one line: the category is real and defense demand is strong, but most buyers
 | Category | Stance | Conviction | Top names (label) | Key signal |
 |---|---|---|---|---|
 | Raw Materials | Selective | Medium | Vulcan, Mariana (Full) | Offtakes renew without subsidy |
-| — Stage A, exploration | Watch | Medium | Earth AI (Hybrid) | First formal resource estimate |
-| — Stage B, refining and metal | Attractive, selectively | Medium | Vulcan, Mariana (Full) | Mariana hits nameplate; Section 232 holds |
+| — Stage A: Locating & mining critical minerals | Watch | Medium | Earth AI (Hybrid) | First formal resource estimate |
+| — Stage B: Refining minerals/metals | Attractive, selectively | Medium | Vulcan, Mariana, Phoenix Tailings (Full) | Mariana hits nameplate; Section 232 holds |
 | Manufacturing | Selective | Medium | Senra, Freeform (Full); Isembard (Hybrid) | Unit cost falling with volume |
 | — Metal Supply | Watch | Low | Nox (Full, passed) | AI distributor beats Reliance margins |
 | — Fabrication | Attractive | Medium | Senra, 1872 (Full); Machina (Hybrid) | Customers stay as they grow |
@@ -359,10 +360,10 @@ _Free episodes and videos for this chapter (from listening list v2; links checke
 > - **Why:** (1) only the owner of a non-Chinese plant can sign the offtake that OSC and EDF lenders want [src-20260804-05a6a5]; (2) the data loop scores 2 where the process runs continuously (Mariana); (3) startups win on small deposits, tailings and magnet steps that majors ignore (3.14).
 > - **Strongest counter:** MP, the largest US name, still loses money [src-20260201-0b4d7a]. A Chinese price cut or a US–China deal could strand subsidized plants.
 > - **What would change our mind:** price floors renewed without subsidy; Mariana hits nameplate on schedule; OSC fund-finance commitments close (expected by March 2027).
-> - **Best placed / watch:** Vulcan (fully integrated), Mariana (fully integrated); watch Earth AI (hybrid) and Phoenix Tailings (context).
+> - **Best placed / watch:** Vulcan (fully integrated), Mariana (fully integrated); Phoenix Tailings (fully integrated, spotlight; large check); watch Earth AI (hybrid).
 > - **Good SPC fit:** Series A–B; a plant financed mostly by government debt, with venture money paying for software and ramp; buyer is DoD, a prime or an automaker with an offtake.
 
-_What this industry is._ Raw Materials covers everything from finding ore to delivering a finished metal product: **Stage A, finding and mining** (exploration, mining and concentrating ore) and **Stage B, refining and making metal** (refining to pure oxides, carbonates or cathode, then smelting, alloys, magnets and powders). It sits at the bottom of every supply chain in this primer. Metal distribution (service centers that buy mill metal and cut it to size) now sits in Manufacturing (chapter 4) as a supplier to parts makers.
+_What this industry is._ Raw Materials covers everything from finding ore to delivering a finished metal product: **Stage A: Locating & mining critical minerals** (exploration, mining and concentrating ore) and **Stage B: Refining minerals/metals** (separating and refining to pure oxides, carbonates or cathode, then smelting, alloys, magnets and powders). It sits at the bottom of every supply chain in this primer. Metal distribution (service centers that buy mill metal and cut it to size) now sits in Manufacturing (chapter 4) as a supplier to parts makers.
 
 ### 3.1 Shared macro: China's refining grip, the critical-minerals orders and government lending
 
@@ -373,7 +374,7 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 - **Government lending and orders.** OSC, EDF, DPA and equity stakes (2.3-2.4) are mostly minerals deals; $65B of public money was committed to minerals in 2025 [src-20260716-6a06e4]. The 2025 executive orders speed permits [src-20250320-91988a][src-20250424-a310b3]; a new president can reverse them, but granted permits stay granted [inference].
 - **What it means [inference].** A US producer of rare-earth metals, magnets, gallium or germanium has the government as buyer of last resort. But if China floods the market after a deal, prices collapse, so producers need floor-price offtakes (the MP Materials–DoD template) [src-20260726-39275b]. "Designing out" scarce elements is the strongest commercial case for materials AI (chapter 6).
 
-### 3.2 Stage A — Finding and mining: problem, tailwinds and headwinds
+### 3.2 Stage A: Locating & mining critical minerals — problem, tailwinds and headwinds
 
 **The problem.** US nonfuel mines produced $112B in 2025, but metals were only $38.1B [src-20260130-ebdd5a]. The US is 100% import-reliant for 16 mineral commodities and over 50% for 54, including 67% of rare earths and 57% of refined copper [src-20260206-04fe3e]. **Claim (Earth AI):** industry discovery success is about 0.5% per project [src-20250127-c28430].
 
@@ -394,7 +395,7 @@ _What this industry is._ Raw Materials covers everything from finding ore to del
 4. **Rates.** Mines are the most rate-sensitive assets here [src-20260916-f0c016][inference].
 5. **A US–China deal** takes the urgency out (3.1).
 
-### 3.3 Stage B — Refining and making metal: problem, tailwinds and headwinds
+### 3.3 Stage B: Refining minerals/metals — problem, tailwinds and headwinds
 
 **The problem.** Chinese refineries commission in about 6 months versus 2–4 years in the West [src-20250723-3f3ef8]. China produces 56% of world castings, and the Pentagon relies on one US foundry for large titanium parts (General Catalyst thesis) [src-20240202-8c6d3b]. Steel mill products are up about 86% and copper wire about 91.4% since February 2020 [src-20260302-477c5f]; Reliance calls aluminum "historically elevated largely due to" tariffs [src-20260728-ae7dea].
 
@@ -460,11 +461,13 @@ Stage A: AI targeting and ore-body modeling. Stage B: AI agents tuning a refiner
 
 ### 3.10 Companies, grouped by label
 
-#### Stage A — Finding and mining
+#### Stage A: Locating & mining critical minerals
 
-> **Our view: Stage A, exploration** _(analyst judgment)_ — **Watch, not invest yet. Conviction: medium.** **Why:** AI lowers the cost of finding a deposit, but a find earns nothing until a mine is built, and mines take 15.7–19.1 years from discovery (3.14). **Counter:** cheap drilling plus owned claims could let an explorer sell deposits early to miners, a real business. **Change our mind:** a formal resource estimate at Fontenoy or Willow Glen, or a deposit sale to a major. **Watch:** Earth AI (hybrid). **Good fit:** owns claims and rigs, sells deposits to majors, buyer lined up before drilling out.
+> **Our view: Stage A: Locating & mining critical minerals** _(analyst judgment)_ — **Watch, not invest yet. Conviction: medium.** **Why:** AI lowers the cost of finding a deposit, but a find earns nothing until a mine is built, and mines take 15.7–19.1 years from discovery (3.14). **Counter:** cheap drilling plus owned claims could let an explorer sell deposits early to miners, a real business. **Change our mind:** a formal resource estimate at Fontenoy or Willow Glen, or a deposit sale to a major. **Watch:** Earth AI (hybrid). **Good fit:** owns claims and rigs, sells deposits to majors, buyer lined up before drilling out.
 
 #### Earth AI (mineral exploration; hybrid; owns claims, drills, sells deposits)
+
+**In one line:** finds and drills new metal deposits (palladium-platinum-nickel, gold, tungsten, copper) on its own Australian claims, aiming to sell proven deposits to mining companies; it does not mine or sell metal.
 
 - **What it does.** Its own AI targeting model (a deep neural net trained on ~400M sites, "not generative AI") picks targets in poorly explored Australian ground; it drills them with its own rigs and is building its own assay labs to cut results from five months to days [src-20250127-c28430][src-20260429-1bdb70][src-20260428-aa5557, 62:00]. **Claim:** about $100 a meter drilling and up to 80% lower exploration cost [src-20250127-c28430]; cost per discovery "under 1 million" vs ~$300M industry [src-20251001-cf441c, 27:22].
 - **Track record (claim, CEO Roman Teslyuk).** Of 5 drilled prospects, 4 became discoveries ("grade in core", not tonnage), the update of the earlier 75% figure; sizing results were due "in the next six to nine months" (said April 2026) [src-20260428-aa5557, 52:43–53:32]. Reported finds: Fontenoy palladium-platinum-nickel across about 2 km² [src-20241121-ac9f37]; Willow Glen gold, seven intercepts at about 1.14 g/t [src-20241220-f860e9]; Kooranjie and Elkedra rock chips (tungsten, cobalt, copper, indium) [src-20250326-5929b8][src-20250601-b499c3].
@@ -473,23 +476,69 @@ Stage A: AI targeting and ore-body modeling. Stage B: AI agents tuning a refiner
 - **Bear case.** No formal resource estimate (e.g. JORC) published [gap]; the success rate is self-defined on a small sample [src-20260428-aa5557, 52:50]; assets are in Australia; the exit is a project sale, so most mine value goes to the builder [src-20251001-cf441c]; competition from better-funded KoBold, plus "maybe 50 new startups" [src-20260428-aa5557, 56:14].
 - **Next step [inference].** Drill results at Fontenoy, a resource-estimate timeline, and buyers spoken to.
 
+> **Business model: Earth AI.** (1) Its AI picks targets and it pegs or farms into the ground: under its Legacy Minerals alliance it funds up to A$4.5M of work on another company's tenements and earns up to a 3% NSR royalty on a qualifying discovery, with an option to buy the ground for US$1M plus a 2% royalty [src-20221213-5d9521]. (2) Its own rigs and assay labs drill cheaply, with lab results in about 5 days instead of 5 months (**Claim**) [src-20260429-1bdb70]. (3) It proves a deposit and sells it to a miner for about 5% of the metal in the ground, keeping a stake or royalty [src-20251001-cf441c]. **Supplies:** its own claims and drilling, so there is no feedstock. **Customers:** mining companies buying deposits; none named, and no sale yet [gap]. **Status:** pre-revenue; no government award found. **What has to go right:** a formal resource estimate, then a sale at a price that pays for about 30 projects.
+
 #### Mariana Minerals (mining and refining; fully integrated; fits)
+
+**In one line:** mines and refines copper into 99.99% copper cathode at its own Lisbon Valley mine in Utah, and is building a plant to pull lithium from Texas oilfield wastewater; it sells the metal, not software.
 
 - **What it does.** Builds and runs mines and refineries (Copper One, Lithium One) on its own software; "we do not sell software" [src-20260803-30e6d5][src-20260623-d1790b]. Selling software to miners is a "death spiral" of pilots, says CEO Turner Caldwell [src-20250723-3f3ef8, 21:52].
 - **Operations (claims).** Restarted a Utah copper mine in May 2026, about 50% autonomous (autonomy bought in from Sandvik and Pronto), making 99.99% copper; the prior operator shut it partly for lack of haul-truck drivers [src-20260623-d1790b][src-20260502-21f16a]. Targets 50,000 t a year by 2030 versus about 2,500 t before [src-20261011-e2426c]; 30% lower refining and 40-50% lower mining cost [src-20260502-21f16a]; 10 projects in 10 years, two today; East Texas lithium to an unnamed battery maker [src-20260513-dd56eb][src-20261024-c53370].
 - **Money.** $310M Series B (Khosla), about $400M including project money; most mine capex comes from project investors [src-20260803-30e6d5][src-20261024-c53370]. A $1.5B valuation appears only in Harmonic (low). About 250 staff, 20% in software [src-20260623-d1790b].
 - **What this means [inference].** One of two names with a credible data loop; the check size is above SPC's. Mariana's refinery is also its Stage B entry.
 
-#### Stage B — Refining and making metal
+> **Business model: Mariana.** (1) **Buys a permitted asset:** in Q4 2025 it acquired Lisbon Valley Mining Company (about 10,000 permitted acres, making cathode since 2009). Refining never stopped there; mining paused in late 2024 and restarted in April 2026 with Pronto haulage, Sandvik AutoMine and Boston Dynamics Spot robots [src-20260501-0736cd]. (2) **Copper One:** leaches ore in heaps with bacteria, then uses solvent extraction and electrowinning (SX-EW) to make high-purity cathode "for the U.S. market". It plans to add copper scrap as feed and reach 50,000 t a year [src-20260501-c478b0]. (3) **Lithium One:** extracts lithium from oil-and-gas wastewater in Texas, with commercial output planned for H1 2027 [src-20260805-6f5d90]. (4) It sells cathode at market copper prices; its own software (MarianaOS) is meant to cut build time and operating cost, not to be sold. **Supplies:** its own ore, copper scrap and oilfield brine. **Customers:** no copper buyer named [gap]; lithium goes to an unnamed battery maker (**Claim**) [src-20261024-c53370]. **Status:** revenue from cathode sales, amount undisclosed; investors include BHP Ventures, Mitsubishi and IQT [src-20260803-423f7a]; no DoD or DOE award found. **What has to go right:** reach 50,000 t at the claimed 30–50% lower cost, and repeat the playbook at more sites.
 
-> **Our view: Stage B, refining and metal** _(analyst judgment)_ — **Attractive now, selectively. Conviction: medium.** **Why:** the scarce thing is a permitted, working plant outside China; DoD and OSC money flows here first (13, conclusion 5); Vulcan's pilot output is sold out 12 months ahead (**claim**) [src-20250811-e7cb9a]. **Counter:** a refinery is one giant bet better suited to debt, and Ganfeng lost over 75% of its value with lithium prices [src-20250529-3a588b]. **Change our mind:** offtakes that renew without subsidy (bull); a court overturning Section 232 (bear). **Best placed:** Vulcan, Mariana (fully integrated). **Good fit:** pilot already shipping to a qualified defense buyer; government debt for plant two.
+#### Stage B: Refining minerals/metals
+
+> **Our view: Stage B: Refining minerals/metals** _(analyst judgment)_ — **Attractive now, selectively. Conviction: medium.** **Why:** the scarce thing is a permitted, working plant outside China; DoD and OSC money flows here first (13, conclusion 5); Vulcan's pilot output is sold out 12 months ahead (**claim**) [src-20250811-e7cb9a]. **Counter:** a refinery is one giant bet better suited to debt, and Ganfeng lost over 75% of its value with lithium prices [src-20250529-3a588b]. **Change our mind:** offtakes that renew without subsidy (bull); a court overturning Section 232 (bear). **Best placed:** Vulcan, Mariana, Phoenix Tailings (fully integrated; Phoenix is the most advanced rare-earth metal maker but a large check). **Good fit:** pilot already shipping to a qualified defense buyer; government debt for plant two.
 
 #### Vulcan Elements (magnets; fully integrated; fits)
 
-- **What it makes:** rare-earth magnets; a 10-ton pilot in Durham and a 10,000-ton plant planned [src-20251103-ee9b27].
+**In one line:** makes sintered neodymium-iron-boron (NdFeB) rare-earth magnets, the strongest permanent magnets, used in drone and robot motors, chip-fab tools, hard drives and cars, from non-Chinese material in North Carolina [src-20261010-8e6ec0].
+
+- **What it makes:** rare-earth magnets; a 10-ton pilot in Durham and a 10,000-ton plant planned [src-20251103-ee9b27]. The plant is being built in Benson, NC; **Claim:** it will be the largest rare-earth magnet factory outside China [src-20261015-cd127c].
 - **Money:** $65M Series A (Altimeter) [src-20261010-8e6ec0]. A $1.4B package: $620M loan from the Pentagon's OSC, $50M Commerce Department equity, $550M private [src-20251103-ee9b27]. Form D filing shows $430.7M sold [src-20260402-c8e4dc].
 
-**Context names (not profiled):** Phoenix Tailings (rare-earth metal and magnet feedstock; $500M conditional OSC loan, facility due 2028) [src-20260618-184e0c]; MP Materials (incumbent; $400M DoD equity) [src-20260726-39275b]; Energy Fuels ($725M conditional OSC loan) [src-20260618-184e0c]; ReElement (Vulcan's refining partner; $80M OSC loan) [src-20251103-ee9b27]; Hertha, Mass Magnetics, Duranium (candidates). Cyclic (candidate, not sourced this run).
+> **Business model: Vulcan.** (1) It buys refined rare-earth material: ReElement offtake for light and heavy rare-earth oxides (Aug 2025) [src-20251103-ee9b27], and a Ucore MOU for NdPr and dysprosium oxide samples, with commercial supply from 2027 [src-20260324-61ffc3]. (2) It turns that material into finished sintered magnets in its own plant, with all material and equipment from the US and allies (**Claim**) [src-20261010-8e6ec0]. (3) It sells magnets per kilogram to defense buyers and to commercial makers of drones, chip-fab tools, hard drives, robots and cars [src-20261010-8e6ec0]. **Customers:** the US Army chose it to supply magnets for SkyFoundry drones, its 10th Department of War contract [src-20260923-c53c99]; USAspending shows 7 federal awards worth $5.7M [src-20260710-6361ea]; no commercial buyer named. **Status:** pilot sales and government contracts; $620M OSC loan plus $50M Commerce Department equity [src-20251103-ee9b27]. **What has to go right:** Benson ramps on time, unit cost gets close enough to China that commercial buyers sign without subsidy, and oxide supply arrives in 2027.
+
+#### Phoenix Tailings (rare-earth metals; fully integrated; spotlight)
+
+_Sub-type: Stage B: Refining minerals/metals (separation and metal-making)._
+
+**In one line:** turns rare-earth concentrate and recycled magnet scrap into rare-earth metals and alloys (NdPr metal, dysprosium-iron, dysprosium, terbium) that magnet makers melt into magnets, in its own plants in Massachusetts and New Hampshire, with a separation plant coming in Rochester, NY [src-20251023-4f8da0][src-20260219-bd22b6].
+
+- **Process and AI.** ARPA-E funded its route in 2021 ($499,854): selective halogenation to separate the elements, then reduction of mixed-halide salts to metal, which it estimated uses 35–45% less energy [src-20210621-c887f1]. It bought Machinery Partner's AI and automation team (closed April 3, announced May 8, 2026). **Claim:** higher yields and uptime at lower cost [src-20260508-cf2550]. Reuters says the deal should lift processing 30% a year, partly by predicting equipment failures [src-20260508-1dd095].
+- **Plants and capacity.**
+
+| Site | Step | Capacity | Status |
+|---|---|---|---|
+| Burlington, MA | Pilot | Up to 40 t/yr [src-20250617-db05db] | Opened 2023 [src-20251023-4f8da0] |
+| Exeter, NH | Metal-making | 200 t/yr of light and heavy rare-earth metals, scalable to over 1,000 t | Opened Oct 23, 2025 [src-20251023-4f8da0] |
+| Rochester, NY ("Freedom Separation", Eastman Business Park) | Separation into oxides | Over 18,000 t/yr of feedstock into over 4,400 t/yr of oxides (about 3,000 t of metal) | Announced Oct 20, 2026; $375M; ramp from 2027, full output 2028 [src-20261020-f2cfc3][src-20261020-9fea79] |
+| "Freedom Facility" | Separation plus metal-making | About $1B project | $500M conditional OSC loan (Jun 16, 2026); initial operations 2028 [src-20260616-3580b9] |
+
+- **Money.** The Series B totals $116.6M after a $40.2M B-3 in February 2026 ($30.2M equity plus $10M Nomura venture debt) [src-20260219-bd22b6]. The December 2024 round was led by Envisioning Partners with BMW i Ventures, Yamaha and Escape Velocity [src-20241230-a7f987]. Other backers are Olive Tree (Series A lead), IQT and Sumitomo's Presidio [src-20260219-bd22b6]. **Government:** the $500M conditional OSC loan [src-20260616-3580b9]; selection for a $66M DOE grant within a $147.8M heavy-rare-earth project with MIT and the University of Minnesota (a selection, not a final award) [src-20260604-0cdaa4][src-20260602-0b0139]; up to $3M in New York tax credits; over $550M combined from OSC and DOE [src-20261020-d6953a].
+- **Customers and offtakes.** A $100M contract with an undisclosed automaker, with feedstock until 2027 from major miners and recyclers in the US and allied countries [src-20250130-1a7b77]. It has "initial offtake agreements" [src-20241230-a7f987] and customers in automotive, defense and medical devices, none named [src-20251023-4f8da0]. **Claim (2025):** "We ship on the tonnage scale globally today", mostly automotive [src-20250617-db05db].
+- **Partnerships.** Traxys (a rare-earth trader), Eni Next and Geodesic are strategic investors [src-20260219-bd22b6]; BMW i Ventures and Yamaha invested in 2024 [src-20241230-a7f987]. Rochester feedstock is to come from the US West and Southwest, South America, Southeast Asia and Australia [src-20261020-d6953a].
+- **Revenue status:** early revenue under the automaker contract; amount undisclosed [gap]. Label for 3.14: Pilot / early revenue.
+- **Bear case, at equal weight.** (1) **Scale jump:** from a 40 t pilot and a 200 t plant to about 3,000 t of metal by 2028, roughly 15 times in two years [inference]. (2) **Money is conditional:** the OSC loan is conditional and the DOE grant is only a selection [src-20260616-3580b9][src-20260602-0b0139]. (3) **Feedstock:** it must buy non-Chinese concentrate that MP and others also want; no long-term mine supply is named [gap]. (4) **Price:** China sets NdPr prices; no public price floor like MP's [inference]. (5) **Customers unnamed.** (6) **Software is not the bottleneck:** Rare Earth Exchanges warned that AI alone cannot solve scale, chemistry, permitting, financing or feedstock [src-20260508-1dd095].
+
+> **Business model: Phoenix Tailings.** (1) It buys concentrate from miners and recycled magnet scrap [src-20250130-1a7b77][src-20260616-3580b9]. (2) It separates that into individual rare-earth oxides (Rochester, from 2027). (3) It reduces oxides into metals and alloys (Exeter). (4) It sells metal by the ton to magnet makers and automakers under multi-year contracts. Margin is the spread between feedstock and metal price plus any premium for non-Chinese supply [inference]. **Status:** early revenue, with OSC and DOE support pending. **What has to go right:** Rochester ramps on schedule, feedstock is locked in, and buyers pay a non-China premium.
+
+#### Business models compared: the four Raw Materials names
+
+| | Earth AI | Mariana | Phoenix Tailings | Vulcan |
+|---|---|---|---|---|
+| Stage | A | A and B | B | B (magnets) |
+| Sells | Proven deposits, for about 5% of in-ground metal plus a royalty | Copper cathode; lithium from 2027 | Rare-earth metals and alloys | Sintered NdFeB magnets |
+| Inputs | Its own claims and drilling | Its own ore, copper scrap, oilfield brine | Mine concentrate, recycled scrap | Oxides from ReElement; Ucore from 2027 |
+| Buyers (named?) | Miners (none named) | Not named; unnamed battery maker for lithium | Undisclosed automaker ($100M) | US Army (SkyFoundry drones), DoD |
+| Status | Pre-revenue | Revenue, amount undisclosed | Early revenue | Pilot sales plus government contracts |
+| Government money | None found | None found | $500M OSC (conditional); $66M DOE (selected) | $620M OSC loan, $50M Commerce equity |
+| Must go right | Resource estimate, then a sale | 50,000 t at lower cost | Roughly 15x ramp by 2028 | Benson ramps near China cost |
+
+**Context names (not profiled):** MP Materials (incumbent; $400M DoD equity) [src-20260726-39275b]; Energy Fuels ($725M conditional OSC loan) [src-20260618-184e0c]; ReElement (Vulcan's refining partner; $80M OSC loan) [src-20251103-ee9b27]; Hertha, Mass Magnetics, Duranium (candidates). Cyclic (candidate, not sourced this run).
 
 ### 3.11 Bear case, at equal weight
 
@@ -505,14 +554,14 @@ USGS [src-20260206-04fe3e][src-20260130-ebdd5a]; IEA [src-20250521-c62d29][src-2
 
 _Full list: Appendix D._
 
-**Stage A — Finding and mining**
+**Stage A: Locating & mining critical minerals**
 
 1. ★ **"Critical Minerals: Mining for the Industrial Future"**, a16z Podcast, Jul 23, 2025, length not listed. [▶ Open link](https://a16z.com/podcast/critical-minerals-mining-for-the-industrial-future/) — *Why:* Mariana's Turner Caldwell on owning mines and refineries and using software to cut build time and cost. Repo: src-20250723-3f3ef8.
 2. **"Inside Earth AI: Cutting the Cost of Critical Mineral Discovery" (S2 E57)**, Rare Earth Exchanges, Feb 26, 2026, 33 min. [▶ Open link](https://www.youtube.com/watch?v=-dQONUziAxY) — *Why:* founder Roman Teslyuk on training on 50 years of Australian drilling archives, and why few new deposits are found each year (his figures). Repo: src-20251001-cf441c.
 3. **"From Y Combinator to mining, ft Earth AI's Roman Teslyuk"**, YouTube, Apr 28, 2026, 66 min. [▶ Open link](https://www.youtube.com/watch?v=KXbUJ2CjWbI) — *Why:* the longer Earth AI founder story; pair with the primer's bear case (no resource estimate yet). **Not in the repo (new).**
 4. **"Critical Minerals: What Makes Mining Tech VC-Backable"**, *Deep Tech Catalyst*, with Jun Ku (Main Sequence), length not listed. [▶ Open link](https://www.thescenarionist.com/p/critical-minerals-at-venture-scale-deeptech) — *Why:* an investor on how non-dilutive government money makes heavy-capex mining fundable. Repo: src-20261022-cd6c5c.
 
-**Stage B — Refining and making metal**
+**Stage B: Refining minerals/metals**
 
 1. ★ **"How The Rarest Company On Earth Raised $75M"**, *Sourcery*, Aug 11, 2025, length not listed. [▶ Open link](https://podcasts.apple.com/us/podcast/how-the-rarest-company-on-earth-raised-%2475m/id1738124704?i=1000721503376) — *Why:* Vulcan's early demand: pilot plant opened Mar 2025 and was qualifying magnets with customers within four months (company claim). Repo: src-20250811-e7cb9a.
 2. **"'Supply Chains Win Wars': Rare Earth Magnets with John Maslin"**, *Building the Base*, Apr 29, 2025, length not listed. [▶ Open link](https://buildingthebase.org/episode/supply-chains-win-wars-rare-earth-magnets-with-john-maslin-ceo-vulcan-elements) — *Why:* the magnet macro in one sitting; the gap is processing and metal-making, not ore. Repo: src-20250429-6f9155.
@@ -526,20 +575,52 @@ _Status labels: **Revenue** = paying customers or product sales; **Pilot** = pil
 
 **Who's actually commercializing**
 
-| Company | Sub-section | Status | Evidence |
+| Company | Stage: what it makes | Status | Evidence |
 |---|---|---|---|
-| Mariana Minerals | Stage A/B (mines and refines) | Revenue-stage producer; buyers not disclosed | Restarted its Utah copper mine in May 2026, about 50% autonomous; **Claim:** 99.99% copper [src-20260623-d1790b][src-20260513-bdc044]. **Claim:** East Texas lithium goes to an unnamed battery maker, ramping next year [src-20261024-c53370]. No buyer contracts public. |
-| Vulcan Elements | Stage B (magnets) | Pilot, with government buyers | Seven federal awards worth $5.7M, including an Army magnet IDIQ [src-20260710-6361ea][src-20250501-1885f8]. **Claim:** pilot output sold out 12 months ahead [src-20250811-e7cb9a]. |
-| Earth AI | Stage A (exploration) | Lab / pre-revenue | No published resource estimate [src-20250127-c28430][src-20241121-ac9f37]. |
-| Phoenix Tailings (context) | Stage B (rare-earth metal) | Pilot | $500M conditional loan; commercial facility due 2028 [src-20260618-184e0c]. |
+| Mariana Minerals | Stage A/B: copper cathode (Utah); lithium (Texas, 2027) | Revenue-stage producer; buyers not disclosed | Restarted its Utah copper mine in May 2026, about 50% autonomous; **Claim:** 99.99% copper [src-20260623-d1790b][src-20260513-bdc044]. **Claim:** East Texas lithium goes to an unnamed battery maker, ramping next year [src-20261024-c53370]. No buyer contracts public. |
+| Vulcan Elements | Stage B: sintered NdFeB magnets | Pilot, with government buyers | Seven federal awards worth $5.7M, including an Army magnet IDIQ [src-20260710-6361ea][src-20250501-1885f8]. **Claim:** pilot output sold out 12 months ahead [src-20250811-e7cb9a]. |
+| Earth AI | Stage A: drilled-out deposits for sale to miners | Lab / pre-revenue | No published resource estimate [src-20250127-c28430][src-20241121-ac9f37]. |
+| Phoenix Tailings | Stage B: NdPr, Dy, Tb metals and alloys | Pilot / early revenue | $100M undisclosed-automaker contract [src-20250130-1a7b77]; Exeter 200 t/yr plant open; $500M conditional OSC loan; Rochester separation from 2027 (3.10) [src-20260616-3580b9]. |
 
 **Revenue vs lab.** Real revenue today sits with incumbents in refining and magnets (MP Materials: $224.4M revenue in 2025, still a $85.9M net loss [src-20260201-0b4d7a]). Startup revenue is thin: Mariana is producing, Vulcan sells pilot volumes and federal work. AI exploration (Stage A) is pre-revenue by nature: a find earns nothing until a mine is built.
 
-**Incumbents.** BHP, Rio Tinto and MP Materials. _What they do better:_ balance sheets, permits in hand, offtake relationships and operating know-how; MP also has $400M of DoD equity [src-20260726-39275b]. They buy AI rather than build it: BHP Ventures backs AI exploration startups [src-20261022-04e57d]; Fleet Space lists Rio Tinto among the miners using its surveys [src-20261014-84a296]. _Where startups win [inference]:_ small deposits and tailings the majors ignore, and refining or magnet steps where policy pays for a non-Chinese source.
+**Incumbents.** BHP, Rio Tinto and MP Materials have balance sheets, permits in hand, offtake relationships and operating know-how. How they use AI and partner with startups is in 3.15.
 
 **Regulation and qualification.** Permitting is the clock. A federal environmental impact statement (NEPA) took 4.5 years on average, 3.5 median, and a quarter took over 6 [src-20200612-38edca]. US mine permitting commonly takes 7–10 years versus about 2 in Australia and Canada; mines average 15.7 years from discovery to production [src-20240101-a81fa2], rising to 17.8 years for mines opened 2020–24 (US: 19.1) [src-20250101-3e6713]. Refinery build times: see 3.6 [src-20250723-3f3ef8]. Magnet buyers (defense, autos) then qualify the material, see 6.14.
 
-**5-year outlook (to 2031).** _Stage B refining and magnets:_ **possible**. Vulcan and Mariana have product and government pull. _Stage A AI exploration:_ **unlikely**. Discovery-to-mine timelines run well past 2031. **Bear case, equal weight:** the subsidy-backed buyers (DoD, OSC loans) may not renew, loans are still conditional, and Chinese price cuts can strand US plants; MP is the largest US name and still loses money [src-20260201-0b4d7a].
+**5-year outlook (to 2031).** _Stage B refining and magnets:_ **possible**. Vulcan, Mariana and Phoenix have product and government pull. _Stage A AI exploration:_ **unlikely**. Discovery-to-mine timelines run well past 2031. **Bear case, equal weight:** the subsidy-backed buyers (DoD, OSC loans) may not renew, loans are still conditional, and Chinese price cuts can strand US plants; MP is the largest US name and still loses money [src-20260201-0b4d7a].
+
+### 3.15 Incumbents and AI: BHP, Rio Tinto, MP Materials
+
+_The short version [inference]: the two majors use AI to run existing mines more cheaply and buy the rest through venture arms and partnerships. MP's edge is government and anchor-customer contracts, not AI._
+
+**BHP.** **What it makes:** mined commodities, including copper from Escondida in Chile, the world's largest copper mine, which produces over 1M t a year [src-20230530-8381de][src-20230530-29a15b]; full product list not covered here. Its AI aims to raise copper recovery. Machine learning on Microsoft Azure at the Escondida concentrators gives operators hourly predictions and recommendations, and is extending this to a second concentrator. Its CTO calls digital "the next big wave in mining" [src-20230530-8381de][src-20230530-29a15b]. It looks for new deposits through partners: in 2021 it set up a jointly funded AI exploration alliance with KoBold covering 500,000 km² of Western Australia, giving KoBold access to BHP's data [src-20210908-289951]. BHP Ventures backs KoBold, FieldAI, AIM, Terra AI, GeologicAI, Ceibo, Boston Metal and Electra [src-20261022-04e57d], joined Khosla in Terra AI's $20M Series A [src-20260603-826fb7], and invested in Mariana [src-20260803-423f7a].
+
+**Rio Tinto.** **What it makes:** iron ore, moved by its own driverless trains in Western Australia, and now lithium after buying Arcadium [src-20261028-83bcd3][src-20250306-8337d4]; also gallium plans in Canada [src-20260807-110c13]. It runs a large autonomy program. Its Perth operations centre runs trucks, trains, plants and drills 1,500 km away, and its AutoHaul driverless trains (from 2018) move over 1M t a day [src-20261028-83bcd3]. In November 2024 it had over 360 self-driving trucks (about 84% of its fleet) and nearly 40 autonomous drills [src-20241108-03f96f]. Gudai-Darri runs a fully driverless truck fleet and an AI water cart built with Caterpillar [src-20261028-87e4a4]. It partners for new sensing (Ideon's muon imaging across 6 operations) [src-20251006-87f05a], co-invests in 12 startups a year through a Founders Factory accelerator [src-20261028-d79ce6], and is both investor in and client of Terra AI [src-20261028-89f533]. It buys growth outright: Arcadium Lithium for $6.7B [src-20250306-8337d4], plus lithium partnerships with Codelco and ENAMI in Chile and a conditional C$18.95M Canadian grant for gallium [src-20260807-110c13].
+
+**MP Materials** (the largest US rare-earth producer). **What it makes:** rare-earth concentrate and separated NdPr oxide at its Mountain Pass mine in California, and NdPr metal and magnets at its Independence plant in Fort Worth (metal from 2024, magnets from 2025) [src-20260226-b1948e]. No public AI program was found. Its plant runs on a site-wide automation and control system (PLC/SCADA) built with Thermo Systems [src-20261028-e42c43]. Its edge is contracts: the July 2025 DoD deal has $400M of convertible preferred stock, a 10-year $110/kg NdPr price floor, a 10-year commitment that all 10X-plant magnets will be bought, and a $1B bank commitment [src-20250710-e21373]. Apple committed $500M to buy magnets made from recycled feedstock, with shipments from 2027 [src-20250715-4da508][src-20250715-fd65f4]. It also has a long-term GM magnet supply deal and is building a 10X campus in Northlake, TX (over $1.25B, about 10,000 t of total magnet capacity, commissioning 2028) [src-20260226-b1948e]. In 2025 it had $224.4M of revenue and an $85.9M net loss [src-20260201-0b4d7a].
+
+**Partnerships and deals**
+
+| Date | Incumbent | Partner | What | Source |
+|---|---|---|---|---|
+| Sep 2021 | BHP | KoBold Metals | Jointly funded AI exploration, 500,000 km² of Western Australia | [src-20210908-289951] |
+| May 2023 | BHP | Microsoft | Azure machine learning at the Escondida concentrators | [src-20230530-8381de] |
+| 2026 | BHP Ventures | Terra AI, Mariana | Terra AI $20M Series A with Khosla; Mariana Series B | [src-20260603-826fb7][src-20260803-423f7a] |
+| 2018 onward | Rio Tinto | (in-house) | AutoHaul driverless trains, over 1M t a day | [src-20261028-83bcd3] |
+| Mar 2025 | Rio Tinto | Arcadium Lithium | $6.7B acquisition | [src-20250306-8337d4] |
+| Apr 2025 | Rio Tinto | Founders Factory | Mining-tech accelerator, 12 startups a year | [src-20261028-d79ce6] |
+| Oct 2025 | Rio Tinto | Ideon | Muon imaging of ore bodies across 6 operations | [src-20251006-87f05a] |
+| 2025 | Rio Tinto | Terra AI | Investor and client | [src-20261028-89f533] |
+| — | Rio Tinto | Caterpillar | Driverless trucks and AI water cart at Gudai-Darri | [src-20261028-87e4a4] |
+| Jul 2025 | MP Materials | DoD | $400M preferred, $110/kg floor, 10-year magnet offtake | [src-20250710-e21373] |
+| Jul 2025 | MP Materials | Apple | $500M recycled-magnet supply from 2027 | [src-20250715-4da508] |
+| Feb 2026 | MP Materials | GM, DoW, Texas | 10X campus; GM supply; about $200M Texas incentives | [src-20260226-b1948e] |
+
+**What it means for startups [inference].**
+- **Partner (Stage A):** the majors are buyers and investors of AI, not builders: BHP Ventures and Rio's accelerator are a funding and customer route for exploration and mine-software startups. But software sold to miners rarely sticks (Earth AI's 80 pilots did not recur) [src-20251001-cf441c], so the best partnership is selling a deposit or ore to a major, not a licence.
+- **Compete (Stage B):** rare-earth metal and magnets are where startups go head-to-head with MP. MP has the price floor, Apple and GM. Phoenix and Vulcan need their own government-backed floors or offtakes to compete on equal terms.
+- **Get acquired:** Rio paid $6.7B for a producing lithium company, not for software. Majors buy assets that already produce, so an exit means proving tonnes first. Note that Phoenix itself acquired an AI team rather than the reverse [src-20260508-cf2550].
 
 ## 4. Manufacturing
 
@@ -652,7 +733,7 @@ Instant quoting, automated CAM programming, scheduling, in-process inspection an
 
 #### Nox Metals (metal distribution; fully integrated; we passed)
 
-- An automated metal distributor outside Detroit with nesting software [src-20261009-404b9b]. $11.5M seed (Hyperion) [src-20260616-1cf7cb]. About 12 people at one site [src-20260325-5b68db]. Its founder's "controversial belief" is "raw capacity over everything else" [src-20260427-83b102].
+- **In one line:** sells aluminum plate and bar (5000/6061/7050/7075) and steel and stainless round bar, saw-cut to size and ordered online with instant quotes; no machining or finishing [src-20261027-93d80b]. An automated metal distributor outside Detroit with nesting software [src-20261009-404b9b]. $11.5M seed (Hyperion) [src-20260616-1cf7cb]. About 12 people at one site [src-20260325-5b68db]. Its founder's "controversial belief" is "raw capacity over everything else" [src-20260427-83b102].
 - Instant quoting is easy with a 50% buffer; the hard part is beating a human estimator (**Claim**) [src-20261022-3135b5]. Traction: 4.14.
 
 _Sub-type: metal supply / service center._
@@ -686,7 +767,7 @@ _Sub-type: fabrication (electrical assembly; not metal, closest fit)._
 
 _Sub-type: fabrication._
 
-- **What it makes:** robots that shape sheet metal without molds ("RoboCraftsman"), plus machining and welding. Runs its own plants and places cells with customers [src-20260204-ce7053].
+- **What it makes:** formed sheet-metal structures such as missile airframes, aircraft panels and car panels. Robots shape the sheet without molds ("RoboCraftsman"), with machining and welding added. **Claim:** its first plant will make thousands of missile airframes a year; the Department of War was an early customer [src-20260320-1361e2][src-20260821-1c5a08]. It runs its own plants and places cells with customers [src-20260204-ce7053].
 - **Money:** $124M Series C, February 2026 [src-20260204-ce7053].
 
 #### Precision & Defense Hardware
@@ -697,7 +778,7 @@ _Sub-type: fabrication._
 
 _Sub-type: precision._
 
-- **What it makes:** machined parts in automated CNC factories run on its "Opus" software. Now also runs cells inside Lockheed's plant [src-20261014-015327].
+- **What it makes:** CNC-machined metal parts for rockets, missiles, satellites and jets and, from 2026, Virginia- and Columbia-class submarines, made in automated factories in Torrance, CA and Mesa, AZ that run on its "Opus" software [src-20260819-dadd06] (med, one research write-up). It also runs machining and inspection cells inside customer sites, including Lockheed's plant [src-20261014-015327][src-20261022-37538f].
 - **Money:** Series C $260M (equity plus debt), July 2025 [src-20250721-d99a2a]; about $1.6B valuation in January 2026, then $1.37B Series D at $7.87B in August 2026 [src-20260807-b0dc5b]; a $360M bank credit line [src-20260817-c48f28]. About $2.24B raised in total [Harmonic].
 - **v9.9, from Odd Lots (company claims, CEO Chris Power):** Hadrian pitches itself as a "design agnostic" contract manufacturer making parts up to "30% of a Virginia-class submarine"; most factory work is skilled people "driving an incredibly dumb computer ... 90% of advanced manufacturing"; even modelling his factory at zero labour and energy cost, some Chinese commercial parts land at about a third of his cost (transcript wording garbled) because of subsidised energy, capital and export rebates. On make-vs-buy, he says every company should keep 10–15% in-house, while SpaceX now sends parts out and Hadrian is preparing to make Raptor parts [src-20260921-a51ab2, 9:30, 10:42, 17:34, 32:37].
 
@@ -705,14 +786,15 @@ _Sub-type: precision._
 
 _Sub-type: precision._
 
-- **What it makes:** machined parts in owned and franchised factories, all on its "MasonOS" software; US, UK, Germany, France, Ukraine [src-20260310-45bab3].
+- **What it makes:** CNC-machined precision metal components cut to customers' 3D designs from aluminium, steel, titanium and Inconel on 3-axis, 5-axis and mill-turn machines to ±0.01 mm. Typical parts go into jet engines, drones, satellite antennas, robots and energy equipment [src-20261027-ee8c62][src-20261028-1430ed]. Named customers: Anduril, Babcock, Tekever and Oxford Space Systems. **Claim (CEO):** about 60% of customers are aerospace and defence and most of the rest robotics; revenue grew 10x year on year [src-20260914-37bb6a][src-20261027-ee8c62].
+- **How:** owned and franchised factories, all on its "MasonOS" software: the London (Southwark) headquarters factory, an Exeter franchisee, and sites in the US, Germany, France and Ukraine [src-20260310-45bab3][src-20260914-37bb6a][src-20261026-15ac82].
 - **Money:** $9M seed plus $50M Series A led by USV, March 2026; valuation undisclosed [src-20260310-45bab3]. Harmonic estimates about $250M (low).
 
 #### Freeform (metal 3D printing; fully integrated; fits)
 
 _Sub-type: precision._
 
-- **What it makes:** metal 3D-printed parts using AI-controlled multi-laser printers. It sells parts, not printers [src-20241024-7f1c2e].
+- **What it makes:** metal 3D-printed parts, mostly parts that carry fluids and heat (heat exchangers, manifolds, rocket-engine injectors and nozzles) plus brackets. Customers are in space, defense, high-performance auto, energy, chip-fab equipment and oil and gas (**Claim**) [src-20241029-1d136e]. It prints on its own AI-controlled multi-laser printers and sells parts, not printers [src-20241024-7f1c2e].
 - **Money:** $67M Series B, February 2026; PitchBook puts it at $179M after the round [src-20260219-2125d7] (med); about $126M raised.
 
 #### Divergent (printed structures and munition airframes; fully integrated; fits, benchmark)
@@ -742,13 +824,15 @@ _Sub-type: precision & defense hardware._ Website: divergent.us (the old diverge
 
 _Sub-type: precision._
 
-- **What it does:** bought 8 certified aerospace plants and redesigns parts with its AI platform [src-20260520-af3e6c][src-20261008-149196].
+- **What it makes:** flight-critical components (hydraulic and electrical parts, avionics, switches, valves, relays, transformers and power supplies) for platforms such as the F-35, F-16, F/A-18, Mk-48 torpedo and M1 Abrams [src-20260520-af3e6c][src-20260212-c61f30].
+- **How:** it bought 8 certified aerospace plants (for example Electrocube in Pomona, CA) and redesigns parts with its AI platform [src-20260520-af3e6c][src-20260212-c61f30][src-20261008-149196].
 - **Money:** $300M Series B at over $1B (Caffeinated, Lightspeed) [src-20260520-af3e6c].
 
 #### Atomic Industries (tooling and molded parts; fully integrated; fits)
 
 _Sub-type: precision (tooling and molding)._
 
+- **In one line:** designs and builds steel injection molds and then molds plastic parts with them in its own Michigan presses ("today our focus is plastics", **Claim**) [src-20261027-de288e][src-20260130-9500f0].
 - **What it does, in plain English.** Almost every plastic part (a car bumper clip, a drone shell, a subway seat bracket) is made by squirting molten plastic into a steel mold. The mold is the expensive, slow part: a skilled toolmaker designs where the cooling channels, ejector pins and plastic entry points go, then machines the steel, then runs trial shots and tweaks it, often over many weeks. Atomic uses physics simulation plus machine learning to design that mold, builds it in its own Michigan shop, and then runs the mold in its own presses to sell finished parts [src-20260130-9500f0][src-20261027-b51989].
 - **Where it sits.** Detroit area (Warren and Shelby Township, Macomb County, Michigan). Founded 2019 by Aaron Slodov (software, ex-Google per TBPN), Austin Bishop and Lou Young Jr. (a veteran toolmaker, head of manufacturing); Y Combinator W21 [src-20231204-652d42][src-20260128-2b7e8b][src-20250919-2805c7].
 
@@ -798,19 +882,19 @@ _Labels as in 3.14._
 
 **Who's actually commercializing**
 
-| Company | Sub-section | Status | Evidence |
+| Company | Sub-section: what it makes | Status | Evidence |
 |---|---|---|---|
-| Nox Metals | Metal Supply | Revenue | **Claim:** 46 people, 250–300 customers, 75,000 sq ft [src-20261009-404b9b]; a price quote in minutes versus 3–5 days at brokers [src-20250813-5ee11b]. |
-| SendCutSend | Fabrication | Revenue | About $140M a year (low confidence) [src-20260504-c3ded5]; 32,000 orders a month, growing ~100% a year [src-20260525-4a12ab]; 300,000+ customers [src-20261020-9deafa]; named customers include Zipline, Waymo, Anduril [src-20261020-c541ad]. |
-| Senra | Fabrication | Revenue | Growth comes from existing customers [src-20260701-027c1b]. |
-| Machina Labs | Fabrication | Revenue (paid projects) | Won't start a project unless the customer commits dollars [src-20260622-7846f9]. |
-| 1872 | Fabrication | Lab / pre-revenue (no evidence) | $15M seed [src-20260722-985690]; no customer evidence found [gap]. |
-| Hadrian | Precision & Defense | Revenue | $3M revenue in 2023 [src-20240815-500933]; **Claim:** "10xed revenue" [src-20250718-ac643a]; Army Red River Depot contract to Mar 2027 [src-20260318-472c29]; cells inside Lockheed's plant [src-20261014-015327]. |
-| Divergent | Precision & Defense | Revenue; defense ramp is pilot | Sells parts per unit [src-20260222-9c80a9]; Tomahawk midbody second source, production aimed for H1 2027 [src-20260601-976843]; L3Harris teaming (Oct 2026) [src-20261013-eda149]. |
-| Isembard | Precision & Defense | Revenue | **Claim:** 14 factories (4 owned, 10 franchised) on long-term contracts [src-20260909-b547c7]. |
-| Amca | Precision & Defense | Revenue | Eight plants; bought Electrocube [src-20260212-c61f30]; **Claim:** Army Materiel Command contract [src-20261008-9941fd]. |
-| Atomic Industries | Precision & Defense | Revenue (claimed) | **Claim:** "mid eight figure" part contracts [src-20250919-2805c7]. |
-| Freeform | Precision & Defense | Pilot | Hundreds of parts a week, customers undisclosed [src-20260219-2125d7]; DIU OTA [src-20260901-6e197d]. |
+| Nox Metals | Metal Supply: cut-to-size aluminum plate and bar, steel bar | Revenue | **Claim:** 46 people, 250–300 customers, 75,000 sq ft [src-20261009-404b9b]; a price quote in minutes versus 3–5 days at brokers [src-20250813-5ee11b]. |
+| SendCutSend | Fabrication: laser-cut and bent sheet-metal parts, online | Revenue | About $140M a year (low confidence) [src-20260504-c3ded5]; 32,000 orders a month, growing ~100% a year [src-20260525-4a12ab]; 300,000+ customers [src-20261020-9deafa]; named customers include Zipline, Waymo, Anduril [src-20261020-c541ad]. |
+| Senra | Fabrication: wire harnesses for defense and space | Revenue | Growth comes from existing customers [src-20260701-027c1b]. |
+| Machina Labs | Fabrication: robot-formed sheet structures (missile airframes, panels) | Revenue (paid projects) | Won't start a project unless the customer commits dollars [src-20260622-7846f9]. |
+| 1872 | Fabrication: welded steel skids, frames, enclosures | Lab / pre-revenue (no evidence) | $15M seed [src-20260722-985690]; no customer evidence found [gap]. |
+| Hadrian | Precision: CNC parts for rockets, missiles, jets, submarines | Revenue | $3M revenue in 2023 [src-20240815-500933]; **Claim:** "10xed revenue" [src-20250718-ac643a]; Army Red River Depot contract to Mar 2027 [src-20260318-472c29]; cells inside Lockheed's plant [src-20261014-015327]. |
+| Divergent | Precision: 3D-printed metal structures, missile airframes | Revenue; defense ramp is pilot | Sells parts per unit [src-20260222-9c80a9]; Tomahawk midbody second source, production aimed for H1 2027 [src-20260601-976843]; L3Harris teaming (Oct 2026) [src-20261013-eda149]. |
+| Isembard | Precision: CNC parts in aluminium, titanium, Inconel for engines, drones | Revenue | **Claim:** 14 factories (4 owned, 10 franchised) on long-term contracts [src-20260909-b547c7]. |
+| Amca | Precision: hydraulic, electrical and avionics components | Revenue | Eight plants; bought Electrocube [src-20260212-c61f30]; **Claim:** Army Materiel Command contract [src-20261008-9941fd]. |
+| Atomic Industries | Precision: steel injection molds and molded plastic parts | Revenue (claimed) | **Claim:** "mid eight figure" part contracts [src-20250919-2805c7]. |
+| Freeform | Precision: 3D-printed heat exchangers, manifolds, injectors | Pilot | Hundreds of parts a week, customers undisclosed [src-20260219-2125d7]; DIU OTA [src-20260901-6e197d]. |
 
 **Revenue vs lab.** This is the most commercial industry in the primer: Metal Supply and Fabrication are revenue businesses today. Precision & Defense has revenue, but most defense volume is still prototypes and second-source qualification. Failures show the risk: Markforged and Velo3D (section 8), Daedalus insolvency [src-20251203-fc28ea].
 
@@ -965,6 +1049,7 @@ No chemicals company in the repo has a scored data loop yet [gap].
 #### Producers — fully integrated
 
 **Solugen (Houston; bio-based specialty chemicals; Full).** _Qualifies as specialty, borderline: hydrogen peroxide is also a bulk chemical, but Solugen sells small-plant, bio-based product into specialty uses [inference]._
+- **In one line:** makes hydrogen peroxide and organic acids from corn syrup in its own Houston plant, using enzymes instead of petrochemical routes [src-20260320-f90e80].
 - **Process:** "chemoenzymatic" production pairs an enzyme with a metal catalyst to turn corn syrup into chemicals, starting with hydrogen peroxide and organic acids. **Claim (Solugen founders):** 96% yield at scale versus about 60% for the traditional route [src-20260320-f90e80].
 - **Origin:** started with a reactor of about $7,000 built from Home Depot PVC pipe, which at its peak earned $12,000 a month (founder's account), and sold to hot-tub owners in Dallas [src-20260320-f90e80, 0:00, 7:06] before raising large rounds. Its Bioforge plant runs 24/7 on railcars of corn syrup. **Claim:** smaller plants near customers undercut incumbents on shipping [src-20260320-f90e80].
 - **What it means [inference]:** the clearest AI-adjacent chemical producer. It owns plants, sells product and has repeat industrial buyers. But the edge is enzyme engineering and plant design more than AI, and some products face bulk-chemical pricing.
@@ -1234,12 +1319,14 @@ AI screens candidates and runs robotic labs (steps 1–2 in 6.6); producers use 
 > **Our view: Advanced Materials producers** _(analyst judgment)_ — **Selective; Orbital first. Conviction: medium.** **Why:** Orbital has an urgent buyer (AWS) and owns the product margin [src-20260528-375aec]; Mitra uses AI from lab to production [src-20261023-6e0642]. **Counter:** both are pilot-stage, and Mitra competes with Chinese LFP on cost per kWh, the hardest market in industry. **Change our mind:** Orbital's fluid qualifies for 2027 GPUs; Mitra's plant is funded with offtakes. **Best placed:** Orbital, Mitra (fully integrated). **Good fit:** a qualified buyer, a contract maker or own line, and a plan for gross margin per unit.
 
 **Orbital Industries (formerly Orbital Materials; London and Princeton, NJ; model 4).**
+- **In one line:** sells an AI-designed, PFAS-free liquid for cooling data-center servers, made by a contract manufacturer, plus modular data centers [src-20260528-93befb].
 - **Funding:** $50M Series B led by Plural, May 28, 2026; about 50 staff [src-20260528-93befb][src-20260528-375aec].
 - **Model:** it is vertically integrated and sells products, not software. The two products are a PFAS-free dielectric cooling fluid for data centers and "Nova Array," a modular data center it says can be deployed in 180 days [src-20260528-93befb].
 - **What it means [inference]:** **the most thesis-aligned name in the section.** It found a buyer with an urgent need (data-center cooling), chose a product it can make through a contract manufacturer, and owns the margin. If the fluid ships in 2027 it could be among the first AI-designed materials sold at scale. Diligence: who the CMO is, qualification status, gross margin per liter.
 - **v9.9 (company claim, CEO Jonathan Godwin):** its cooling fluid took about 3 years from start to market, vs a new material that "would normally cost a hundred million dollars and ten years" [src-20260629-ae1f90, 3:09].
 
 **Mitra Chem (Mountain View, CA; LMFP and LFP battery cathodes; model 4).**
+- **In one line:** makes iron-phosphate cathode powders (LMFP and LFP), the active material in EV and grid batteries, and plans a Michigan plant [src-20240611-24c650][src-20260831-db47e6].
 - **History:** began shipping LMFP cathode samples to global customers in 2023 [src-20240611-24c650]. Series B led by GM.
 - **Production:** **Per BusinessPost (Korean):** a $100M DOE production grant, $50M from Michigan's MSF fund, and a planned 30k-ton-a-year, $370M LFP plant in Michigan. Korea's L&F invested $10M for about 3.3%, and the two are considering a joint-venture plant [src-20260831-db47e6] (med; single foreign-language article).
 - **What it means [inference]:** an AI-designed chemistry turning into a chemical plant, so it does pass the producer test. But it competes on cost per kWh against Chinese LFP, which is the hardest market in industry. Its value depends on 45X and the foreign-entity rules (section 2.3).
@@ -1253,22 +1340,26 @@ _Radical AI, CuspAI, Periodic Labs, Lila Sciences and smaller names. They invent
 _Pure discovery labs and design partners. Most do not run a production floor, so they are tracked, not targeted (section 6). Labels: Radical AI hybrid; CuspAI, Periodic and Lila enablers._
 
 **Radical AI (New York; alloys and metals; model 3; Hybrid; partial fit).**
+- **In one line:** invents new metal alloys for hypersonic and propulsion parts (for example a hafnium-free C103) in a robot-run lab, and is paid for R&D by RTX and the Air Force; it does not yet sell metal [src-20260617-f9d293][src-20250825-300a14].
 - **Funding:** $55M led by RTX Ventures [src-20250718-d46f24]. An Air Force AFWERX Direct-to-Phase II contract worth $1,197,902 [src-20250825-300a14].
 - **Technology:** its AI engine, "Antimatter," drives a self-driving alloy lab. TIME named it one of the Best Inventions of 2026 [src-20261020-055082].
 - **What it means [inference]:** the clearest defense-led path. Hypersonic and propulsion alloys have a buyer (RTX and the Air Force) and a clear test (the torch test). The risk is the jump from a 500 g button to qualified mill product, which needs a melter and forger partner.
 - **v9.9 (company claims, CEO Joseph Krause):** about 1,200 alloys made in five or six months; it has made a hafnium-free version of the C103 aerospace alloy after hafnium prices rose 10–15× on Chinese supply; "we haven't touched manufacturing"; "models aren't the moat, experiments are" [src-20260617-f9d293, 9:11, 9:44, 16:33–17:08, 1:14:26].
 
 **CuspAI (Cambridge, UK; sorbents, membranes, chemicals; model 2; Enabler; track).**
+- **In one line:** designs new materials with AI, such as sorbents and membranes that capture or filter molecules, for partners who make and sell them (for example Kemira); it does not make product [src-20261022-37a0ea].
 - **Funding:** $450M Series B (Kleiner, NEA) [src-20260720-840ae3].
 - **Partners:** about 30 industry and 15 lab partners, including Samsung, AMD, Lam and Applied [src-20261022-37a0ea]. Its "AI Materials Foundry" consortium has 45+ members.
 - **What it means [inference]:** the best commercial traction in the group, with a named buyer (Kemira) and a regulatory driver (PFAS rules). But CuspAI is a design shop: Kemira makes and sells the product, and CuspAI's take is a royalty or fee.
 
 **Periodic Labs (San Francisco; semiconductors, superconductors, magnets; model 2; Enabler; track).**
+- **In one line:** runs AI models and lab experiments to discover materials, starting with ways to pull heat out of chips, and sells this as on-site R&D work; no product sold [src-20261008-38b3d6].
 - **Funding:** $300M seed, September 2025 [src-20251022-8eb7c0]; reportedly raising more (med) [src-20260514-5796ab].
 - **Go-to-market:** **Claim (Periodic, via Heard In):** acts as its own "customer zero." It sends forward-deployed engineers, runs models on the client's site and fine-tunes on the client's data. Its first focus is semiconductor heat dissipation [src-20261008-38b3d6]. Its website lists magnets, semiconductors and superconductors, plus a Montreal ML office [src-20261001-e0573e][src-20261007-13c943].
 - **What it means [inference]:** the most "frontier lab" of the group (OpenAI and DeepMind alumni). It is priced on talent; commercial proof is the least public.
 
 **Lila Sciences (Cambridge, MA; "scientific superintelligence," life sciences and materials; model 2; Enabler; track).**
+- **In one line:** AI-run automated labs that run biology and materials experiments (for example screening electrolyzer catalysts); no product sold [src-20260925-679418].
 - **Funding and site:** $550M raised and a new 250k sq ft site in Cambridge [src-20260610-21e4df]. Reportedly in talks at about $8.5B (Bloomberg, via repo notes).
 - **Catalysts (company claim):** 2,942 catalysts screened in 3 months, across six palladium-based families. The best matched ruthenium after more than 1,000 hours of testing. 17 times faster, with over 90% less hands-on time [src-20260925-679418]. Still untested in a real electrolyzer [src-20261019-392916].
 - **What it means [inference]:** most of the value is in biology. Materials is a second line. Not an industrial producer.

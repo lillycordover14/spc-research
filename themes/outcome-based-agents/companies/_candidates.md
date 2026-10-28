@@ -72,3 +72,43 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-10-23 | Elimentary | vertical-outcome | Agents running ops for private credit managers; YC | src-20261023-c1d343 | grokbot
 - 2026-10-23 | Zolvo | vertical-outcome | Back-office automation for factoring and ABL lenders; YC | src-20261023-d2a134 | grokbot
 - 2026-10-23 | Prosper AI | vertical-outcome | AI-native healthcare services provider; n/v | src-20261023-cc2e6e | grokbot
+
+## More vertical and horizontal players (grokbot, 2026-10-28)
+Funding reports and VC primers, 2025 to 2026. Names with two independent sources were promoted to cards (marked card). Company releases and blogs are company claims.
+
+- 2025-08-06 | Rillet (card) | vertical-outcome | AI-native ERP and general ledger that automates accruals, reconciliations, revenue recognition and investor reporting | src-20250806-b579d5, src-20250813-44ef93 | grokbot
+- 2025-10-15 | Campfire | vertical-outcome | AI-native ERP for finance teams with its own LAM model for reconciliations and variance work | src-20251015-1d9298 | grokbot
+- 2025-09-16 | Tabs | vertical-outcome | AI-native revenue platform with agents for billing, invoicing and collections | src-20250916-6b0cd0 | grokbot
+- 2025-11-20 | Stuut | vertical-outcome | Accounts receivable agents for collections, payments, cash application and deductions on top of existing ERPs | src-20251120-b7dfc3 | grokbot
+- 2025-06-18 | Tennr (card) | vertical-outcome | AI for patient referral intake: reads faxes and documents, qualifies referrals and writes them into the EHR | src-20250618-89929d, src-20241113-d5f4fa | grokbot
+- 2025-10-02 | Assort Health | vertical-outcome | Specialty voice AI agents for healthcare call centers, embedded in EHR and practice management systems | src-20251002-499204 | grokbot
+- 2026-01-29 | Sixfold (card) | vertical-outcome | AI underwriting agent for insurers, embedded in policy admin systems and underwriting workbenches | src-20260129-3fadee, src-20250128-3948ca | grokbot
+- 2025-06-04 | Reserv | vertical-outcome | Tech-enabled claims third-party administrator (TPA) combining adjusters with its own AI software | src-20250604-fd80b0 | grokbot
+- 2026-02-25 | Harper | vertical-outcome | AI-native commercial insurance brokerage working with 160+ carriers | src-20260225-3917a2 | grokbot
+- 2025-11-18 | Federato | vertical-outcome | AI-native platform for P&C insurers covering underwriting and the policy lifecycle | src-20251118-a1bc08 | grokbot
+- 2025-02-13 | Eudia | vertical-outcome | Augmented intelligence platform for Fortune 500 in-house legal teams, delivered with human experts in the loop | src-20250213-7eb7f6 | grokbot
+- 2025-04-30 | Supio | vertical-outcome | AI legal analysis platform for plaintiff (personal injury) firms with human verification | src-20250430-935fd7 | grokbot
+- 2025-10-07 | EvenUp (card) | vertical-outcome | AI platform for personal injury law firms covering the case lifecycle, starting with demand packages | src-20251007-efb7da, src-20250813-44ef93 | grokbot
+- 2025-02-11 | ConverzAI | vertical-outcome | Virtual recruiters for staffing firms that run the pipeline from sourcing to placement | src-20250211-780a74 | grokbot
+- 2025-09-25 | Juicebox | vertical-outcome | LLM-powered talent search (PeopleGPT) with agents that email candidates and book calls | src-20250925-7d17f1 | grokbot
+- 2026-03-12 | Rox | vertical-outcome | Autonomous sales agents that sit on the existing CRM and data warehouse | src-20260312-b92bcd | grokbot
+- 2025-07-14 | Unify | vertical-outcome | AI-native go-to-market platform with agents that research accounts and run outbound | src-20250714-a49000 | grokbot
+- 2026-01-15 | Parloa | vertical-outcome | Enterprise voice and chat customer service agents (Berlin) | src-20260115-f3635c | grokbot
+- 2025-08-06 | Lorikeet | vertical-outcome | AI customer concierge for regulated and complex support (fintech, health) that takes actions end to end | src-20250806-000216 | grokbot
+- 2025-05-30 | Gradient Labs | vertical-outcome | Specialist AI agents for customer operations at banks and fintechs (support, disputes, KYB) | src-20250530-b93251 | grokbot
+- 2026-02-04 | Resolve AI | vertical-outcome | AI site reliability engineer that troubleshoots production incidents | src-20260204-8be226 | grokbot
+- 2025-06-18 | Traversal | vertical-outcome | AI site reliability engineer for root cause analysis and incident remediation | src-20250618-b909ed | grokbot
+- 2025-12-11 | Serval (card) | vertical-outcome | AI-native IT service management (ITSM) platform that automates tickets and is becoming the service system of record | src-20251211-c9227b, src-20250813-44ef93 | grokbot
+- 2025-08-20 | EliseAI (card) | vertical-outcome | Agentic AI for property management (leasing, resident comms, lease audits) and healthcare front desks | src-20250820-5c5edf, src-20250813-44ef93 | grokbot
+- 2025-09-03 | HappyRobot (card) | vertical-outcome | AI workforce for logistics and freight: voice, email and document agents integrated with TMS and ERP | src-20250903-f1a523, src-20241113-d5f4fa | grokbot
+- 2025-09-04 | Augment | vertical-outcome | AI assistant (Augie) for freight brokers, shippers and carriers: bids, tracking, load building and invoicing | src-20250904-fe3d9b | grokbot
+- 2026-01-15 | GovDash | vertical-outcome | AI-native ERP for government contractors, from bid discovery to proposals and contract modifications | src-20260115-edd4ec | grokbot
+- 2025-07-09 | Polimorphic | vertical-outcome | AI front office for local and state government: voice AI, chat, CRM, workflows, permitting and licensing | src-20250709-395aa2 | grokbot
+- 2025-06-30 | Levelpath | vertical-outcome | AI-native procurement suite (intake, sourcing, contracts) from the Scout RFP founders | src-20250630-c0d572 | grokbot
+- 2025-09-17 | Omnea | vertical-outcome | AI-native procurement intake, orchestration and supplier relationship management | src-20250917-786a38 | grokbot
+- 2025-09-22 | Distyl AI | services | Ex-Palantir founders; helps Fortune 500 companies operationalize AI across healthcare, telecom, insurance, manufacturing and financial services | src-20250922-1bc8b4 | grokbot
+- 2025-05-06 | Relevance AI (card) | orchestration | No-code platform to build and run teams of AI agents across functions (Sydney and San Francisco) | src-20250506-6ff4ce, src-20251028-1ffc30 | grokbot
+- 2025-10-09 | n8n | orchestration | Fair-code workflow automation and AI agent orchestration platform, self-hostable | src-20251009-9cd90b | grokbot
+- 2025-04-03 | Unframe | orchestration | Enterprise AI platform that delivers tailored AI solutions on customer data in hours | src-20250403-82b140 | grokbot
+- 2025-06-10 | Glean | work-context | Enterprise search and work assistant that indexes company knowledge and lets employees build agents | src-20250610-0a09d0 | grokbot
+- 2026-01-15 | PolyAI (card) | vertical-outcome | UK voice-first CX agents; $86M at $750M, ARR expected $40M at end of 2025 per TechCrunch | src-20260115-f3635c, src-20260226-87dd95 | grokbot

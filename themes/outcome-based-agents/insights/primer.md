@@ -678,84 +678,86 @@ Filed in v2: Hitachi on Ema, Skan AI director, Avant on Didero and Magentic, IKE
 
 ## 8. Landscape cuts: where each company sits
 
-65 startups, cut six ways. Each sits in exactly one group per cut. Full table with a source id on every row: insights/landscape-cuts.md. Pricing and stage come only from filed sources; thesis position is [inference].
+101 startups, cut six ways: the first 65 plus 36 vertical and horizontal players added 2026-10-28 from 2025 to 2026 funding reports and six VC primers (Foundation Capital, a16z twice, Bessemer three times; see insights/landscape-cuts.md for source ids). Late private names (Series D and later: Parloa, EvenUp, EliseAI, Federato, Glean, Sierra, Candid Health) are comps, outside the Seed to Series C check band. Each sits in exactly one group per cut. Full table with a source id on every row: insights/landscape-cuts.md. Pricing and stage come only from filed sources; thesis position is [inference].
 
 ### 8.1 The five worlds
 Incumbents: labs and hyperscalers (OpenAI, Anthropic, Google, Microsoft, Amazon Web Services); systems of record (Salesforce, ServiceNow, SAP, Oracle, Workday and others); SIs and BPOs (Accenture, Cognizant, Infosys, TCS and others). No startup sits in "enterprises building their own".
 
 | Group | n | Who |
 |---|---|---|
-| Vertical apps | 39 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, ClearRisk AI, Notch, Pace, Crosby, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Crescendo |
-| Horizontal orchestration | 9 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI |
-| SIs and AI services | 4 | DeepOpinion, Otera, RapidCanvas, AuxoAI |
+| Vertical apps | 70 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, ClearRisk AI, Notch, Pace, Crosby, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Crescendo, Rillet, Campfire, Tabs, Stuut, Tennr, Assort Health, Sixfold, Reserv, Harper, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Rox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, PolyAI |
+| Horizontal orchestration | 13 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Relevance AI, n8n, Unframe, Glean |
+| SIs and AI services | 5 | DeepOpinion, Otera, RapidCanvas, AuxoAI, Distyl AI |
 | Agent infrastructure | 13 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs |
 
-**What this means:** venture money is in vertical apps; the other worlds belong to incumbents.
+**What this means:** venture money is in vertical apps (70 of 101); the other worlds belong to incumbents. The four added horizontal names (Relevance AI, n8n, Unframe, Glean) raised bigger rounds than the first nine but sit where labs and systems of record are moving. Distyl AI is placed with AI services [inference].
 
 ### 8.2 Buyer function
 | Group | n | Who |
 |---|---|---|
-| Customer service and contact center | 7 | ElevenLabs, Sierra, Decagon, Omilia, respond.io, Cresta, Crescendo |
-| Sales and revenue | 3 | Actively AI, Attention, Vida |
-| Finance, accounting and lending ops | 7 | Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma |
-| Procurement and supply chain | 6 | Didero, Lio, Magentic, Walter, Pactum, Pavus AI |
-| Healthcare revenue cycle and admin | 6 | Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI |
-| Insurance and regulated ops | 5 | DeepOpinion, ClearRisk AI, Notch, Pace, Otera |
-| Legal | 3 | Crosby, Ivo, Wordsmith |
-| HR and recruiting | 3 | Orbio, Spott, Take2 |
-| IT ops and agent infrastructure (sold to engineering) | 14 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, Moveworks, NeuBird AI |
-| Cross-function (no single buyer) | 11 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, RapidCanvas, AuxoAI |
+| Customer service and contact center | 11 | ElevenLabs, Sierra, Decagon, Omilia, respond.io, Cresta, Crescendo, Parloa, Lorikeet, Gradient Labs, PolyAI |
+| Sales and revenue | 5 | Actively AI, Attention, Vida, Rox, Unify |
+| Finance, accounting and lending ops | 11 | Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Rillet, Campfire, Tabs, Stuut |
+| Procurement, supply chain and logistics | 10 | Didero, Lio, Magentic, Walter, Pactum, Pavus AI, HappyRobot, Augment, Levelpath, Omnea |
+| Healthcare revenue cycle and admin | 8 | Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, Tennr, Assort Health |
+| Insurance and regulated ops | 9 | DeepOpinion, ClearRisk AI, Notch, Pace, Otera, Sixfold, Reserv, Harper, Federato |
+| Legal | 6 | Crosby, Ivo, Wordsmith, Eudia, Supio, EvenUp |
+| HR and recruiting | 5 | Orbio, Spott, Take2, ConverzAI, Juicebox |
+| IT ops and agent infrastructure (sold to engineering) | 17 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, Moveworks, NeuBird AI, Resolve AI, Traversal, Serval |
+| Real estate and property ops | 1 | EliseAI |
+| Government and public sector | 2 | GovDash, Polimorphic |
+| Cross-function (no single buyer) | 16 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, RapidCanvas, AuxoAI, Distyl AI, Relevance AI, n8n, Unframe, Glean |
 
-**What this means:** CX is crowded and late stage; finance, procurement, healthcare billing and insurance hold most early picks.
+**What this means:** CX is crowded and late stage (Parloa at $3B, PolyAI at $750M added as comps [src-20260115-f3635c]); finance (11), procurement and logistics (10) and insurance (9) hold most early picks. Real estate (EliseAI) and government (GovDash, Polimorphic) are new groups.
 
 ### 8.3 Pricing model
-Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]. Decagon: per meaningful conversation [src-20260515-de88a1]. Crescendo: per contact [src-20260724-865e53]. Outcome rows are company claims from their own releases.
+Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]. Decagon: per meaningful conversation [src-20260515-de88a1]. Crescendo: per contact [src-20260724-865e53]. Outcome rows are company claims from their own releases. Added: EvenUp per demand package [src-20241205-4ac3cf]; Unframe says customers do not pay until they see impact (company claim) [src-20250403-82b140]. None of the 36 added names disclosed a price in its funding announcement.
 
 | Group | n | Who |
 |---|---|---|
-| Per outcome or savings share | 4 | Ema, Vida, Procode, Crosby |
-| Per transaction, task, conversation or run | 5 | Duvo, DeepOpinion, Sierra, Decagon, Crescendo |
+| Per outcome or savings share | 5 | Ema, Vida, Procode, Crosby, Unframe |
+| Per transaction, task, conversation or run | 6 | Duvo, DeepOpinion, Sierra, Decagon, Crescendo, EvenUp |
 | Hybrid (part outcome, part usage) | 1 | Prosper AI |
 | Usage (minutes, GB, cloud consumption) | 3 | Tsuga, Kestra, Cresta |
 | Subscription or seat | 1 | RapidCanvas |
-| Not disclosed in any filed source | 51 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, LangChain, ElevenLabs, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Actively AI, Attention, Omilia, respond.io, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, ClearRisk AI, Notch, Pace, Otera, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, AuxoAI |
+| Not disclosed in any filed source | 85 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, LangChain, ElevenLabs, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Actively AI, Attention, Omilia, respond.io, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, ClearRisk AI, Notch, Pace, Otera, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, AuxoAI, Rillet, Campfire, Tabs, Stuut, Tennr, Assort Health, Sixfold, Reserv, Harper, Federato, Eudia, Supio, ConverzAI, Juicebox, Rox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, Distyl AI, Relevance AI, n8n, Glean, PolyAI |
 
-**What this means:** buyer-verified prices are per transaction; true outcome pricing is only claimed, by four startups.
+**What this means:** buyer-verified prices are per transaction; true outcome pricing is only claimed, by five startups. 85 of 101 have no disclosed price.
 
 ### 8.4 Go-to-market channel
 | Group | n | Who |
 |---|---|---|
-| Direct to the enterprise (no partner named in sources) | 45 | Coval, Dash0, Daytona, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, ElevenLabs, Ema, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Actively AI, Attention, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI |
-| Runs inside or on top of a system of record (SAP, Oracle, ServiceNow, existing EHR or email) | 5 | Moveworks, Didero, Magentic, Walter, GenHealth.ai |
+| Direct to the enterprise (no partner named in sources) | 73 | Coval, Dash0, Daytona, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, ElevenLabs, Ema, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Actively AI, Attention, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Rillet, Campfire, Tabs, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, Relevance AI, Unframe, Glean, PolyAI, Distyl AI |
+| Runs inside or on top of a system of record (SAP, Oracle, ServiceNow, existing EHR or email) | 10 | Moveworks, Didero, Magentic, Walter, GenHealth.ai, Sixfold, Stuut, Tennr, Assort Health, Rox |
 | Sold or delivered through an SI, BPO or channel partner | 4 | DeepOpinion, Workfabric AI, Vida, Otera |
-| Sells the finished work (AI-native service firm or BPO replacement) | 7 | Procode, Prosper AI, Pace, Crosby, Crescendo, RapidCanvas, AuxoAI |
-| Open source or developer-led | 4 | CopilotKit, Flexprice, LangChain, Kestra |
+| Sells the finished work (AI-native service firm or BPO replacement) | 9 | Procode, Prosper AI, Pace, Crosby, Crescendo, RapidCanvas, AuxoAI, Harper, Reserv |
+| Open source or developer-led | 5 | CopilotKit, Flexprice, LangChain, Kestra, n8n |
 
-**What this means:** direct sale dominates; all three SI-delivered startups run through Cognizant, so "SIs as channel" rests on one SI [src-20260724-b4a442] [src-20250627-297f7b] [src-20260710-e2a61b].
+**What this means:** direct sale dominates (73 of 101). Added names that ride a record: Sixfold (inside policy admin systems, Guidewire invested), Stuut (existing ERPs), Tennr (writes to the EHR per a16z), Assort Health (embeds in the EHR), Rox (plugs into Salesforce and Zendesk). Harper (licensed agency) and Reserv (TPA) sell the work. The added 36 brought no new SI channel; all three SI-delivered startups run through Cognizant, so "SIs as channel" rests on one SI [src-20260724-b4a442] [src-20250627-297f7b] [src-20260710-e2a61b].
 
 ### 8.5 Stage
 | Group | n | Who |
 |---|---|---|
 | Seed | 7 | Flexprice, Sycamore, Definite, Elimentary, Zolvo, Zomma, Walter |
-| Series A | 22 | CopilotKit, Coval, Natural, Raindrop, Rein, Runlayer, Tsuga, Kestra, Duvo, Didero, Lio, Magentic, Amperos Health, GenHealth.ai, Procode, ClearRisk AI, Notch, Otera, Orbio, Spott, Take2, AuxoAI |
-| Series B | 18 | Dash0, Daytona, InsightFinder, Ema, Mimica, Actively AI, Attention, Omilia, respond.io, Adaptive, Basis, Xelix, Pace, Crosby, Ivo, Wordsmith, NeuBird AI, RapidCanvas |
-| Series C | 2 | Skan AI, Adonis |
-| Series D or later / late private | 2 | Sierra, Candid Health |
-| Stage not in filed sources | 14 | LangChain, ElevenLabs, Airia, Maisa AI, DeepOpinion, Workfabric AI, Vida, Decagon, Cresta, Moveworks, Pactum, Pavus AI, Prosper AI, Crescendo |
+| Series A | 34 | CopilotKit, Coval, Natural, Raindrop, Rein, Runlayer, Tsuga, Kestra, Duvo, Didero, Lio, Magentic, Amperos Health, GenHealth.ai, Procode, ClearRisk AI, Notch, Otera, Orbio, Spott, Take2, AuxoAI, Stuut, Harper, Eudia, ConverzAI, Juicebox, Lorikeet, Gradient Labs, Resolve AI, Traversal, Augment, Polimorphic, Unframe |
+| Series B | 33 | Dash0, Daytona, InsightFinder, Ema, Mimica, Actively AI, Attention, Omilia, respond.io, Adaptive, Basis, Xelix, Pace, Crosby, Ivo, Wordsmith, NeuBird AI, RapidCanvas, Rillet, Campfire, Tabs, Sixfold, Reserv, Supio, Unify, Serval, HappyRobot, GovDash, Levelpath, Omnea, Distyl AI, Relevance AI, Assort Health |
+| Series C | 4 | Skan AI, Adonis, Tennr, n8n |
+| Series D or later / late private | 7 | Sierra, Candid Health, Federato, Parloa, EvenUp, EliseAI, Glean |
+| Stage not in filed sources | 16 | LangChain, ElevenLabs, Airia, Maisa AI, DeepOpinion, Workfabric AI, Vida, Decagon, Cresta, Moveworks, Pactum, Pavus AI, Prosper AI, Crescendo, Rox, PolyAI |
 
-**What this means:** Series A and B are most of the universe; 14 have no stage on file.
+**What this means:** Series A and B are most of the universe (67 of 101); 16 have no stage on file. Resolve AI's Series A was at a $1B valuation [src-20260204-8be226]; Serval's Series B too [src-20251211-c9227b].
 
 ### 8.6 Thesis position [inference]
 | Group | n | Who |
 |---|---|---|
-| Fits: vertical app that owns a workflow | 29 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI |
-| Fits: rides on the system of record | 5 | Moveworks, Didero, Magentic, Walter, GenHealth.ai |
-| Fits: sells the outcome as a service | 5 | Procode, Prosper AI, Pace, Crosby, Crescendo |
-| Channel: SI, BPO or managed service | 4 | DeepOpinion, Otera, RapidCanvas, AuxoAI |
-| Exposed: horizontal orchestration or context | 9 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI |
+| Fits: vertical app that owns a workflow | 53 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Rillet, Campfire, Tabs, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, PolyAI |
+| Fits: rides on the system of record | 10 | Moveworks, Didero, Magentic, Walter, GenHealth.ai, Sixfold, Stuut, Tennr, Assort Health, Rox |
+| Fits: sells the outcome as a service | 7 | Procode, Prosper AI, Pace, Crosby, Crescendo, Harper, Reserv |
+| Channel: SI, BPO or managed service | 5 | DeepOpinion, Otera, RapidCanvas, AuxoAI, Distyl AI |
+| Exposed: horizontal orchestration or context | 13 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Relevance AI, n8n, Unframe, Glean |
 | Neutral: picks and shovels (infra, evals, security) | 13 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs |
 
-**What this means:** six in ten fit the thesis; the horizontal group carries the most absorption risk from labs and systems of record.
+**What this means:** about seven in ten (70 of 101) fit the thesis; the horizontal group (13) carries the most absorption risk from labs and systems of record. New pattern in the additions [inference]: vertical apps that replace the record rather than ride on it (Rillet, Campfire, Serval, Federato), and incumbents investing in agents on their own records (Guidewire in Sixfold, Thomson Reuters Ventures in Supio, RELX's REV in EvenUp).
 
 ## Appendix A. Glossary
 
@@ -820,6 +822,7 @@ Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]
 - Repo insights: framework.md, evidence-by-question.md (658 lines), weekly/2026-W44.md, bull-bear.md, comps.md, market-sizing.md, startup-landscape.md, labs-vs-startups.md, timeline.md.
 - Company cards for the 10 picks plus sierra, decagon, duvo, sycamore, workfabric, salesforce, servicenow, intercom, zendesk and crescendo.
 - The 17 pick sources: src-20260930-9ee545, src-20260331-83a5c4, src-20260812-4cb1fc, src-20260428-2d177a, src-20261025-5ffac1, src-20260422-d6ae9d, src-20261025-db0c8b, src-20260331-50e583, src-20261025-474366, src-20260212-5fd1e0, src-20260213-3c647d, src-20260917-25441c, src-20260923-47e348, src-20260806-53e2bf, src-20260527-cecfde, src-20261025-58fd6b, src-20261025-c77b6e.
+- v3 (2026-10-28), for Section 8: six VC primers read in full: Foundation Capital services-as-software year one src-20250703-8a38e7; a16z "The Incumbents Are Coming" src-20260903-a696de; a16z "RIP to RPA" src-20241113-d5f4fa (dated 2024-11); Bessemer State of AI 2025 src-20250813-44ef93; Bessemer IT services roadmap src-20251028-1ffc30; Bessemer vertical AI part IV src-20250128-3948ca. Plus 35 startup sources (funding reports and company blogs), each read in full: src-20250806-b579d5, src-20251015-1d9298, src-20250916-6b0cd0, src-20251120-b7dfc3, src-20250618-89929d, src-20251002-499204, src-20260129-3fadee, src-20250604-fd80b0, src-20260225-3917a2, src-20251118-a1bc08, src-20250213-7eb7f6, src-20250430-935fd7, src-20251007-efb7da, src-20250211-780a74, src-20250925-7d17f1, src-20260312-b92bcd, src-20250714-a49000, src-20260115-f3635c, src-20250806-000216, src-20250530-b93251, src-20260204-8be226, src-20250618-b909ed, src-20251211-c9227b, src-20250820-5c5edf, src-20250903-f1a523, src-20250904-fe3d9b, src-20260115-edd4ec, src-20250709-395aa2, src-20250630-c0d572, src-20250917-786a38, src-20250922-1bc8b4, src-20250506-6ff4ce, src-20251009-9cd90b, src-20250403-82b140, src-20250610-0a09d0.
 
 **Keyword-searched only, not read in full:**
 - src-20261025-7ef133 (Ema founder podcast), src-20261025-1fbd1c and src-20260618-7d51b5 (Crosby podcasts), src-20260203-a5df90 (Pace on Sequoia's podcast). Quotes from these were checked in context around each line used.
@@ -844,3 +847,4 @@ Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]
 - src-20251024-112e5e: the expert once says the consultant cost "a month" when the math is per year; only the stated ranges are used.
 - src-20251126-6d86c8: pricing model not stated; spend figure only.
 - src-20260310-e66bf3: the expert now works at ElevenLabs, a competitor.
+- v3 funding reports: most are company press releases or trade write-ups of them, so company claims. src-20250714-a49000 (Unify) date is taken from a BusinessWire listing; the blog page metadata says 2026-03-10. Rox's $1.2B valuation is "according to multiple sources" [src-20260312-b92bcd]. PolyAI's round stage is not in the source [src-20260115-f3635c].

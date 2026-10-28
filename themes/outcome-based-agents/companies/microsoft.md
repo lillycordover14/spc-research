@@ -55,6 +55,8 @@ sources:
 - src-20260724-b4a442
 - src-20260825-747be0
 - src-20260904-8886b4
+- src-20261007-54b3ff
+- src-20260428-14f0c8
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -68,6 +70,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-04-28 | Truist: agents metered in Agent Units; Azure SRE Agent at 4 AAUs per hour plus 0.25 per task [src-20260428-14f0c8]
 - 2026-10-21 | microsoft: Contact Center Intelligence public preview; Siemens Healthineers, Thomas Jefferson [src-20261021-e45563]
 - 2026-09-04 | Ascot Group: about 2,500 E7 seats at 14.6% off E5 list; Cowork tokens 800,000 to 3.3 million in first month [src-20260904-8886b4]
 - 2026-07-29 | microsoft: 100,000 Foundry customers; Agent 365 ~40M agents; 30M+ M365 Copilot seats; seat plus usage pricing [src-20260729-8b3c16]

@@ -76,6 +76,7 @@ sources:
 - src-20260518-714b0a
 - src-20260828-bb2734
 - src-20250703-8a38e7
+- src-20261022-c0698e
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
 updated: '2026-10-23'
 ---
@@ -89,6 +90,7 @@ Benchmark for outcome-priced vertical agents in CX.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-22 | UBS: $200M ARR June 2026, two quarters after $100M; growth credited partly to outcome-based pricing; Horizon long-horizon agents (Jul 2026); Series E $950M at over $15B (May 2026); UBS checks see it as an emerging alternative to Salesforce [src-20261022-c0698e]
 - 2026-10-20 | sierra: Stripe partnership for in-call payments; Cedar 71.3% payment completion [src-20261020-28bcd0]
 - 2026-10-16 | sierra: Genesys joins Personal Agent Protocol [src-20261016-e06470]
 - 2026-10-09 | Airbnb evaluated Sierra but uses Decagon [src-20261009-44e09b]

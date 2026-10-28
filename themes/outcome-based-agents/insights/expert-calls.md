@@ -108,6 +108,29 @@ Paste as-is. AlphaSense supports Boolean and NEAR/n; Tegus search is simpler, so
 2. One Duvo customer (MacPherson or Notino) on Q15 and the outcome test.
 3. One F500 head of AI with an outcome-priced CX vendor (Chime-style) on renewal and verification.
 
+## AlphaSense batch 4 filed (2026-10-28, 11 calls plus 3 reports)
+Experts are anonymous; role as given by AlphaSense. Date is interview or publication date. Docid is the EC number in the PDF name.
+
+| Source | Expert role, company | Interview | Docid | Gaps it closes |
+|---|---|---|---|---|
+| src-20260930-124dc3 | VP Client Services, TTEC Holdings (Conduent competitor; AI-run interview) | 2026-09-30 | 256200 | AI BPO price compression, FTE to consumption billing, Conduent agentic pitch (Q2, Q4, Q14) |
+| src-20260922-5e723f | Former Principal PM Growth, Apollo.io (Clay competitor) | 2026-09-22 | 253417 | Clay as GTM orchestration; Claude as competitor; AI SDR view (Q6, Q9, Q10) |
+| src-20260811-a0aa1e | Head of Strategic Partnerships, Accelerant Holdings (Pace customer; AI-run interview) | 2026-08-11 | 240396 | Second Pace buyer: usage with a floor, ROI open, commoditization risk (Q2, Q10) |
+| src-20260716-88dbe4 | Global Head of Enterprise Sales and Merchant Acquisition, PayPal (Zip and Omnea customer) | 2026-07-16 | 232624 | Procurement agents on top of the ERP (Q7, Q8, Q10) |
+| src-20260608-5e7d7e | VP Operations, Health Prime (RCM services; former R1 RCM) | 2026-06-08 | 220193 | Incumbent services firm adopting agents; Epic gatekeeping; savings ceiling (Q3, Q4, Q10) |
+| src-20260217-2cccb9 | Co-Founder, Enigma; former Senior Manager of Procurement, Personio | 2026-02-17 | 191104 | Zip, Omnea, Pivot, Levelpath evaluated; built in-house (Q8, Q10) |
+| src-20250611-a24e31 | COO, Deel (micro1 customer) | 2025-06-11 | 137375 | AI recruiting buyer; BPO challengers per hour (Q2, Q4, Q10) |
+| src-20250507-e13bdd | Former Strategic Advisor and GTM Advisor, 11x | 2025-05-07 | 132171 | AI SDR churn 80% to 90%; Nooks spend (Q3, Q10) |
+| src-20250313-c22032 | Sourcing Manager, Honeywell (SAP Ariba customer) | 2025-03-13 | 124193 | In-house procurement news agent; low relevance (Q5) |
+| src-20241031-1d55b6 | Former Head of Engineering, 11x | 2024-10-31 | 109190 | 11x vs Artisan; break clauses (Q10) |
+| src-20240919-474182 | Founding Sales Executive, Thoughtful AI | 2024-09-19 | 103988 | RCM agents priced per agent (company view) (Q2, Q10) |
+
+Reports filed in the same batch: UBS "Private 100" src-20261022-c0698e (142 pages); Truist agentic AI primer src-20260428-14f0c8 (111 pages); Oppenheimer SailPoint initiation src-20261007-54b3ff (36 pages, brief note for this theme).
+
+Duplicate: docid 235321 (Crescendo, former Director of Partner Services) is already filed as src-20260724-865e53 (table below) and was not filed again. None of the 15 batch 4 docids was in the backlog list at the end of this file, so nothing was removed from it.
+
+Still open after batch 4: no current enterprise buyer of an AI SDR; no Thoughtful AI customer; no Zip or Omnea pricing from a buyer.
+
 ## AlphaSense transcripts filed (2026-10-27, 17 calls)
 Experts are anonymous; role as given by AlphaSense. Date is interview date. Same link pattern as below.
 

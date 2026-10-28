@@ -28,6 +28,8 @@ tags:
 sources:
 - src-20260827-79de17
 - src-20261013-7962db
+- src-20260217-2cccb9
+- src-20260716-88dbe4
 data_quality: Incumbent card created 2026-10-23 from earnings and pricing sources; numbers only with source ids.
 updated: '2026-10-23'
 ---
@@ -38,6 +40,7 @@ HR and finance system of record; Workday agents and Flex Credits. Incumbent benc
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-07-16 | PayPal procurement finalist; strong ERP integration, weaker experience and AI than Zip (expert view) [src-20260716-88dbe4]
 - 2026-10-13 | workday: Definitive agreement to acquire C1.ai (agentic identity) [src-20261013-7962db]
 - 2026-08-27 | workday: Q2 FY27: AI SKU ARR ~$600M (+200%); AI drove $100M+ new ACV; 200 Flex Credit customers; BMO pilot 500 to 55,000 in one month [src-20260827-79de17]
 

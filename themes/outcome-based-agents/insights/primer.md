@@ -6,6 +6,8 @@ _Version 3, dated 2026-10-27 (America/New_York). v2 was earlier on 2026-10-27; v
 
 **What changed in v3.** New Section 8: six landscape cuts of 65 startups (five worlds, buyer, pricing, channel, stage, thesis fit), one group per company per cut. Full version: insights/landscape-cuts.md.
 
+**What changed on 2026-10-28 (AlphaSense batch 4).** 14 more AlphaSense documents, each read in full and filed; a 15th (a Crescendo expert call) was the same transcript as src-20260724-865e53 and was not filed again. They are UBS's report on 100 private AI and software firms [src-20261022-c0698e], a 111-page Truist agentic AI primer [src-20260428-14f0c8], an Oppenheimer SailPoint initiation [src-20261007-54b3ff] (low relevance, a brief note) and 11 expert calls on AI SDRs, procurement, healthcare revenue cycle, recruiting and AI BPO. Section 8 grows from 101 to 120 startups. New evidence in 1.6 and 1.7 (sizing and private comps), Q2 (pricing), Q6 (what UBS heard at its private-company conference), Q9 and Q10 (AI SDR skepticism, AI BPO commoditization, procurement), Q14 (incumbent BPOs) and Appendix C. The verdict is unchanged.
+
 **Start here.** This primer is for an investor who writes Series B to D checks and is new to AI agents. Read it in this order:
 1. Section 1 (the big picture) tells you what an "agent" is, who sells them, who buys them and how big the money pools are.
 2. Section 0 (the decision summary) gives the view and the 10 things that shaped it.
@@ -144,6 +146,8 @@ Different publishers define pools differently. Do not add the rows (market-sizin
 | AI agents and assistants spending | $16.5B (2025), $29.2B (2026), $65.5B (2027) | Gartner | [src-20260916-b894eb] |
 | US agent software for coordination work | $100B TAM, $4B to $6B captured | Bain | [src-20260507-2c054a] |
 | Software spend exposed to agents | $234B by 2030 | Gartner via PYMNTS (secondary) | [src-20261016-9f1777] |
+| Agent market sized on labor (top-down) | $6.7T by 2030: a 10% "labor optimization rate" on $66.9T of 2030 global labor spend | Truist (sell-side) | [src-20260428-14f0c8] |
+| Revenue of 100 AI and software privates, frontier labs excluded | about $62B, with 21 above $1B | UBS (sell-side) | [src-20261022-c0698e] |
 
 TAM means total addressable market: the most that could be spent if everyone bought.
 
@@ -165,6 +169,8 @@ Disclosed incumbent agent revenue gives a reality check: Salesforce Agentforce A
 - Implied multiples (repo arithmetic, rough): Sierra about 75x to 100x ARR, Decagon about 45x, Fin under 36x on stale ARR (comps.md).
 - Exits so far go to incumbents: Salesforce (Fin), NiCE (Cognigy), Genesys (Pinkfish), SAP (TechWolf), Workday (C1.ai) [src-20260805-3deb2c] [src-20260902-b6edda] [src-20261001-056aad] [src-20261013-7962db]. Decagon hired a bank to explore a sale [src-20261013-6d4b75].
 - Investor maps tilt to vertical apps: 13 of 17 tallied, with Battery Ventures the main dissent (W44) [src-20260123-b88941].
+- UBS's Private 100 (22 Oct 2026) updates the comps. Sierra disclosed $200M ARR in June 2026, two quarters after $100M; Decagon is at about $100M ARR per Newcomer and, per Business Insider, "has hired an investment bank to explore a sale"; Harvey passed $400M ARR at a $15.5B valuation; Cognition reached a $1B run rate (from $37M in May 2025) and raised at $48B; Clay passed $100M ARR and raised at $7.1B; EliseAI reached $200M ARR and $4B [src-20261022-c0698e]. Most figures are company or press reported.
+- UBS's read: "In many cases, disruptors are being chosen over software incumbents", but "Outside of the AI coding market, fewer of these privates have scaled in the applications space" [src-20261022-c0698e].
 
 **What this means:** customer service leaders are priced for perfection, and the only priced exit cleared at about a third of the private multiples. Earlier vertical names outside CX are where entry prices still make sense [inference].
 
@@ -215,17 +221,29 @@ How the main contracts actually bill:
 | Amperos at DOCS Dermatology | Proportional to claim volume, minimum-transaction contracts | n/a | [src-20251016-371c9b] |
 | Ema at Hitachi | Subscription priced on workflows | n/a | [src-20260224-8c72f4] |
 | Omilia at Discover | Annual license, $500,000 to $1M | n/a | [src-20241114-f0ab80] |
+| Sierra (UBS profile) | Growth credited partly to "outcome-based pricing"; unit not stated | n/a | [src-20261022-c0698e] |
+| Serval | "combines an organization-size-based platform fee with workflow consumption charges rather than tokens" | n/a | [src-20261022-c0698e] |
+| Glean | ARR "from both subscriptions and consumption" | n/a | [src-20261022-c0698e] |
+| Pace at Accelerant | "usage-based with a floor", negotiated away from an initial contract-value proposal; low six figures a year | n/a | [src-20260811-a0aa1e] |
+| Thoughtful AI (own sales lead) | Per agent, sized by workflow: "We don't charge per transaction cost" | n/a | [src-20240919-474182] |
+| Salesforce (Truist) | From $2 per conversation (late 2024) to Flex Credits, per-user add-ons and flat-rate enterprise agreements | Vendor | [src-20260428-14f0c8] |
+| Microsoft Azure SRE Agent (Truist) | 4 Agent Units an hour plus 0.25 per task | Vendor | [src-20260428-14f0c8] |
+| Payer BPO (TTEC VP) | Buyer-set standardized rates, moving from per FTE to consumption | Buyer | [src-20260930-124dc3] |
+| RCM services firm (Health Prime VP) | FTE-based or collection-based contracts; on FTE contracts "we take the savings" | n/a | [src-20260608-5e7d7e] |
 
 - **Adoption is rising from a low base.** ICONIQ: outcome pricing went from 18% to 23% of AI vendors in six months [src-20260715-e16b49]. Bain: most outcome pricing is output pricing [src-20260810-21fe8d].
 - **Buyers often prefer predictability.** A buyer at a European fintech wanted "a more transactional pricing without outcome commitment" [src-20260708-a5fc76]. In an a16z survey, 27 of 50 buyers preferred work-based credits against 14 for tokens [src-20260827-fb556f]. HubSpot says outcome pricing and trials lengthened sales cycles [src-20260812-1b0bca].
 - **Per-resolution pricing is hard to budget.** A former Intercom sales lead: "there's not a lot of cost control that can be deployed", so buyers put Fin on a subset of conversations [src-20260310-e66bf3]. A Cognizant practice head: consumption pricing "introduces a lot of variability, which CFOs and budget holders don't like" [src-20260724-b4a442].
 - **Sellers' own doubts.** Sierra's CEO calls cost-savings pricing "a temporary drug" once agents are compared to other agents, not to labor [src-20250514-093b59].
+- **Batch 4: the sell-side says outcome pricing favors the record holders.** Truist: "We believe such outcome-based monetization could be especially advantageous to SoR companies that benefit from vast amounts of highly contextual customer and/or operational data", while "much of the broader agentic AI ecosystem today remains consumption-based (tokens, inference, or per-agent pricing)" [src-20260428-14f0c8]. UBS still credits Sierra's growth in part to outcome-based pricing [src-20261022-c0698e].
+- **Crescendo is the cautionary case, unchanged.** The batch 4 Crescendo call turned out to be the transcript already filed. Its contracts were per contact, "not per resolution", and when discounts of 10% to 40% met flat costs, "Gross margin did tank heavily" (former director) [src-20260724-865e53].
+- **Buyers push AI BPO toward usage, not outcomes.** Accelerant: "We negotiated towards the usage-based pricing" with Pace, and calls ROI "still to be determined" after about 10 months [src-20260811-a0aa1e]. Deel would hire SDRs or support agents from a BPO challenger "for X dollars per hour" [src-20250611-a24e31]. A payer BPO's billing is moving from per FTE to consumption, not to outcome [src-20260930-124dc3].
 
 **Conflict to note (unit economics).** Sierra is the outcome-pricing benchmark, yet one buyer pays per minute [src-20260717-eb6872] while another pays per verified transaction [src-20260710-37d40b]. Sierra's real pricing varies by account.
 
 **Conflict to note (unit economics).** Magentic pitches 1% to 2% spend savings [src-20260923-47e348], but its IKEA contract has no value share [src-20260209-7ec831].
 
-**What this means:** ask every company for the contract, not the slide. Count how much revenue is truly per result. In v2, none of the eight new contracts outside Fin is priced per result.
+**What this means:** ask every company for the contract, not the slide. Count how much revenue is truly per result. In v2, none of the eight new contracts outside Fin is priced per result. Batch 4 adds nine more rows; only Sierra (per UBS, unit not stated) is credited with outcome pricing.
 
 ### Q3. What blocks production?
 
@@ -276,6 +294,8 @@ How the main contracts actually bill:
 
 - v2: a Skan.AI director: "Biggest competition is Anthropic and OpenAI" and "Once Claude figures out how to do this themselves, they don't need us" [src-20260616-48f4c6]. Ascot dropped Claude for Cowork and consolidated on Microsoft over data leakage; Agent 365 "still throws up errors all the time" [src-20260904-8886b4]. A former Palantir FDE: "DeployCo is the forward-deployed arm" of OpenAI [src-20260908-547a69].
 
+- Batch 4: at UBS's July private-company conference, token optimization came up constantly ("every single customer conversation is about this"), yet "few, if any, of the AI-natives cited examples of customers using their tech to displace incumbent SaaS/apps products", and there were "few, if any, call-outs of SaaS incumbents having material success selling their AI suites" [src-20261022-c0698e]. Open-weight models are 71.5% of tokens on Vercel's AI Gateway, up from 11% in April; Factory's router claims to cut token spend by more than 60% [src-20261022-c0698e]. A former Apollo PM says "Claude would be their biggest competitor" for Clay among small GTM teams [src-20260922-5e723f].
+
 **What this means:** a startup selling the agent loop alone is in the labs' path. Selling the finished job, with domain rules and liability, is safer [inference].
 
 ### Q7. Orchestration, context, vertical or services: where does value sit?
@@ -313,6 +333,8 @@ How the main contracts actually bill:
 
 - v2 buyer calls: Hitachi spends "a few hundred thousand" a year on Ema but expects growth of only 5%-10% because it now builds its own agents [src-20260224-8c72f4]. Justworks got about $1M of revenue from Actively on around $160,000 of spend, but switching "would be pretty easy" [src-20251126-6d86c8].
 
+- Batch 4, from UBS (company or press reported): n8n crossed EUR 100M ARR in May 2026 and SAP invested at about $5.2B to embed it in Joule Studio; UBS says it "positions itself between fully autonomous agent platforms and deterministic workflow tools" [src-20261022-c0698e]. Workato processed "1.1 billion enterprise AI actions" [src-20261022-c0698e]. Glean reached $300M ARR "from both subscriptions and consumption", with bundling by Microsoft, Google, Salesforce and Atlassian as the named risk [src-20261022-c0698e]. Clay, the GTM orchestration layer, "had never churned an enterprise customer, and reported NRR over 200%" in 2025 (company-reported) [src-20261022-c0698e]. All four are late stage, outside the check band.
+
 **What this means:** horizontal names with real customers exist (Ema, Kestra, Skan), but their numbers are press-release numbers, and the one Ema buyer call shows an expansion cap. Diligence first.
 
 ### Q10. Which vertical players are investable?
@@ -321,7 +343,15 @@ How the main contracts actually bill:
 
 In CX, Notion's RFP scored Decagon and Sierra "at 94% or 90%-94%" on chat, Ada and Fin 80%-90% [src-20260515-de88a1]. Asked to split $100, a procurement BPO CEO "would put $40 on Didero ... $30 on Magentic ... $20 on Pavus, and ... the balance on Pactum" [src-20260617-937cc1].
 
-**What this means:** vertical names at Series A or B are where price and proof still line up.
+**AI SDR skepticism (batch 4).** The weakest vertical on file is the autonomous AI SDR. A former 11x advisor: "I'm yet to see a company in the AI SDR space that has built an agent that can operate autonomously and be effective" and "The AI SDR category has the worst churn out of anything I've ever seen in the 80%-90% churn" [src-20250507-e13bdd]. A former 11x head of engineering says most customers have "a three-month break clause" and that 11x reimplemented existing outbound functionality as "a marketing innovation" [src-20241031-1d55b6]. A former Apollo PM: "That promise failed. I think AI SDR not doing well, 11x not doing well." [src-20260922-5e723f]. Truist cites Gartner: 45% of martech leaders with agents in pilots or production say vendor agents do not meet promised business performance [src-20260428-14f0c8]. Counterpoint: tools that keep the human rep win. Clay is growing fast [src-20261022-c0698e], and a buyer spends under $50,000 a year for 10 reps on Nooks [src-20250507-e13bdd]. All three calls are single-expert views, two from people who left 11x.
+
+**AI BPO commoditization (batch 4).** Buyers and incumbents both describe a price war. An Accelerant partnerships head who bought Pace expects "someone's going to come do this and offer it at a 10th of the price by using open-source models", gets pitched "at least two or three a day", and says switching would not be hard because "All the data is living within our existing systems" [src-20260811-a0aa1e]. A TTEC VP says payer BPO rates fell "between 20% and 40%" in two years and "Right now, there is no protection in the industry" [src-20260930-124dc3]. Incumbents are adopting agents themselves: a Health Prime VP reports "About a low-double digit" cost gain and says of claims above 20%, "you can pretty much scrub it" [src-20260608-5e7d7e]; Conduent pitched an agentic payer contact center to UnitedHealth Group [src-20260930-124dc3]. Deel's COO: "We hate working with BPOs" [src-20250611-a24e31]. [inference] An AI BPO's moat has to be something other than price: the customer's data stays with the customer, and the incumbents now ship the same agents.
+
+**Procurement (batch 4).** PayPal runs Zip (over $4B of spend) and Omnea (under $3B) on top of its ERP: "We weren't trying to replace our system of record" (expert estimates) [src-20260716-88dbe4]. A procurement lead found the agents in Zip and Levelpath "very bolted on" and says intake is only "15%, 20% of procurement" [src-20260217-2cccb9]. Honeywell runs its own internal agent (internal data plus a ChatGPT model) for commodity, FX, tariff and geopolitical news; the expert wants it connected to the ERP [src-20250313-c22032].
+
+**Healthcare revenue cycle (batch 4).** Thoughtful AI's founding sales executive: "We are not a new software. We are operating and optimizing the systems that a provider has currently", priced per agent (company view) [src-20240919-474182]. A Health Prime VP says Epic "don't allow integrations of AI outside of what they're already working on" [src-20260608-5e7d7e].
+
+**What this means:** vertical names at Series A or B are where price and proof still line up. Batch 4 narrows that: avoid autonomous AI SDR, and in AI BPO ask what stops a cheaper copy.
 
 ### Q11. What are the unit economics?
 
@@ -364,6 +394,8 @@ In CX, Notion's RFP scored Decagon and Sierra "at 94% or 90%-94%" on chat, Ada a
 - Cognizant Northern Europe: 60%-70% of BPO work automatable over five to seven years; token cost "not yet a pressing problem for the enterprise clients I see" [src-20260724-b4a442].
 - Accenture VP on UiPath: RPA automated "At the max, 30%-40%"; bots outnumber agents "90% to 10%, or even 95% to 5%" [src-20260825-747be0].
 - Former Palantir FDE: Deloitte and Accenture rate about 80% of Palantir; Indian SIs' coding edge "has mainly eroded because of agentic coding tools" [src-20260908-547a69].
+
+- Batch 4, incumbent BPOs: a TTEC VP says BPOs without data or AI partners have "no stickiness", and expects 50% or more headcount reduction after a 4 to 6 month proof of concept of Conduent's agentic AI (his estimate) [src-20260930-124dc3]. PayPal used Accenture, EXL and Deloitte to run its procurement vendor scan [src-20260716-88dbe4].
 
 **What this means:** SIs are allies for vendors that make them faster and partners in the sale. Ema already sells through PwC and KPMG [src-20261025-7ef133].
 
@@ -678,37 +710,38 @@ Filed in v2: Hitachi on Ema, Skan AI director, Avant on Didero and Magentic, IKE
 
 ## 8. Landscape cuts: where each company sits
 
-101 startups, cut six ways: the first 65 plus 36 vertical and horizontal players added 2026-10-28 from 2025 to 2026 funding reports and six VC primers (Foundation Capital, a16z twice, Bessemer three times; see insights/landscape-cuts.md for source ids). Late private names (Series D and later: Parloa, EvenUp, EliseAI, Federato, Glean, Sierra, Candid Health) are comps, outside the Seed to Series C check band. Each sits in exactly one group per cut. Full table with a source id on every row: insights/landscape-cuts.md. Pricing and stage come only from filed sources; thesis position is [inference].
+120 startups, cut six ways: the first 65, plus 36 vertical and horizontal players added 2026-10-28 from 2025 to 2026 funding reports and six VC primers (Foundation Capital, a16z twice, Bessemer three times), plus 19 added the same day from AlphaSense batch 4 (UBS's Private 100 [src-20261022-c0698e] and expert calls; see insights/landscape-cuts.md for source ids). Late private names (Series D and later, 16 of them, such as Sierra, Decagon, Clay, Cognition and Glean) are comps, outside the Seed to Series C check band. Each sits in exactly one group per cut. Full table with a source id on every row: insights/landscape-cuts.md. Pricing and stage come only from filed sources; thesis position is [inference].
 
 ### 8.1 The five worlds
 Incumbents: labs and hyperscalers (OpenAI, Anthropic, Google, Microsoft, Amazon Web Services); systems of record (Salesforce, ServiceNow, SAP, Oracle, Workday and others); SIs and BPOs (Accenture, Cognizant, Infosys, TCS and others). No startup sits in "enterprises building their own".
 
 | Group | n | Who |
 |---|---|---|
-| Vertical apps | 70 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, ClearRisk AI, Notch, Pace, Crosby, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Crescendo, Rillet, Campfire, Tabs, Stuut, Tennr, Assort Health, Sixfold, Reserv, Harper, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Rox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, PolyAI |
-| Horizontal orchestration | 13 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Relevance AI, n8n, Unframe, Glean |
-| SIs and AI services | 5 | DeepOpinion, Otera, RapidCanvas, AuxoAI, Distyl AI |
-| Agent infrastructure | 13 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs |
+| Vertical apps | 86 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, ClearRisk AI, Notch, Pace, Crosby, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Crescendo, Rillet, Campfire, Tabs, Stuut, Tennr, Assort Health, Sixfold, Reserv, Harper, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Rox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, PolyAI, Clay, 11x, Artisan, Nooks, Zip, Pivot, Thoughtful AI, micro1, Mercor, FurtherAI, Harvey, Hebbia, Pigment, Abridge, Cognition, Factory AI |
+| Horizontal orchestration | 14 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Relevance AI, n8n, Unframe, Glean, Workato |
+| SIs, BPOs and AI services | 5 | DeepOpinion, Otera, RapidCanvas, AuxoAI, Distyl AI |
+| Agent infrastructure | 15 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs, Saviynt, Modal |
 
-**What this means:** venture money is in vertical apps (70 of 101); the other worlds belong to incumbents. The four added horizontal names (Relevance AI, n8n, Unframe, Glean) raised bigger rounds than the first nine but sit where labs and systems of record are moving. Distyl AI is placed with AI services [inference].
+**What this means:** venture money is in vertical apps (86 of 120); the other worlds belong to incumbents. Batch 4 added Workato to horizontal and Saviynt (agent identity) and Modal (compute) to infrastructure. The four added horizontal names (Relevance AI, n8n, Unframe, Glean) raised bigger rounds than the first nine but sit where labs and systems of record are moving. Distyl AI is placed with AI services [inference].
 
 ### 8.2 Buyer function
 | Group | n | Who |
 |---|---|---|
 | Customer service and contact center | 11 | ElevenLabs, Sierra, Decagon, Omilia, respond.io, Cresta, Crescendo, Parloa, Lorikeet, Gradient Labs, PolyAI |
-| Sales and revenue | 5 | Actively AI, Attention, Vida, Rox, Unify |
-| Finance, accounting and lending ops | 11 | Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Rillet, Campfire, Tabs, Stuut |
-| Procurement, supply chain and logistics | 10 | Didero, Lio, Magentic, Walter, Pactum, Pavus AI, HappyRobot, Augment, Levelpath, Omnea |
-| Healthcare revenue cycle and admin | 8 | Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, Tennr, Assort Health |
-| Insurance and regulated ops | 9 | DeepOpinion, ClearRisk AI, Notch, Pace, Otera, Sixfold, Reserv, Harper, Federato |
-| Legal | 6 | Crosby, Ivo, Wordsmith, Eudia, Supio, EvenUp |
-| HR and recruiting | 5 | Orbio, Spott, Take2, ConverzAI, Juicebox |
-| IT ops and agent infrastructure (sold to engineering) | 17 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, Moveworks, NeuBird AI, Resolve AI, Traversal, Serval |
+| Sales and revenue | 9 | Actively AI, Attention, Vida, Rox, Unify, Clay, 11x, Artisan, Nooks |
+| Finance, accounting and lending ops | 13 | Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Rillet, Campfire, Tabs, Stuut, Hebbia, Pigment |
+| Procurement, supply chain and logistics | 12 | Didero, Lio, Magentic, Walter, Pactum, Pavus AI, HappyRobot, Augment, Levelpath, Omnea, Zip, Pivot |
+| Healthcare revenue cycle and admin | 10 | Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, Tennr, Assort Health, Thoughtful AI, Abridge |
+| Insurance and regulated ops | 10 | DeepOpinion, ClearRisk AI, Notch, Pace, Otera, Sixfold, Reserv, Harper, Federato, FurtherAI |
+| Legal | 7 | Crosby, Ivo, Wordsmith, Eudia, Supio, EvenUp, Harvey |
+| HR and recruiting | 7 | Orbio, Spott, Take2, ConverzAI, Juicebox, micro1, Mercor |
+| IT ops and agent infrastructure (sold to engineering) | 19 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, Moveworks, NeuBird AI, Resolve AI, Traversal, Serval, Saviynt, Modal |
 | Real estate and property ops | 1 | EliseAI |
 | Government and public sector | 2 | GovDash, Polimorphic |
-| Cross-function (no single buyer) | 16 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, RapidCanvas, AuxoAI, Distyl AI, Relevance AI, n8n, Unframe, Glean |
+| Software engineering | 2 | Cognition, Factory AI |
+| Cross-function (no single buyer) | 17 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, RapidCanvas, AuxoAI, Distyl AI, Relevance AI, n8n, Unframe, Glean, Workato |
 
-**What this means:** CX is crowded and late stage (Parloa at $3B, PolyAI at $750M added as comps [src-20260115-f3635c]); finance (11), procurement and logistics (10) and insurance (9) hold most early picks. Real estate (EliseAI) and government (GovDash, Polimorphic) are new groups.
+**What this means:** CX is crowded and late stage (Parloa at $3B, PolyAI at $750M added as comps [src-20260115-f3635c]); finance (11), procurement and logistics (10) and insurance (9) hold most early picks. Real estate (EliseAI) and government (GovDash, Polimorphic) are new groups. Batch 4 grew sales from 5 to 9 (Clay, 11x, Artisan, Nooks), where the expert calls are the most negative in the repo (Q10), and added a software engineering group (Cognition, Factory AI), the market UBS singles out as where privates have scaled.
 
 ### 8.3 Pricing model
 Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]. Decagon: per meaningful conversation [src-20260515-de88a1]. Crescendo: per contact [src-20260724-865e53]. Outcome rows are company claims from their own releases. Added: EvenUp per demand package [src-20241205-4ac3cf]; Unframe says customers do not pay until they see impact (company claim) [src-20250403-82b140]. None of the 36 added names disclosed a price in its funding announcement.
@@ -718,46 +751,47 @@ Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]
 | Per outcome or savings share | 5 | Ema, Vida, Procode, Crosby, Unframe |
 | Per transaction, task, conversation or run | 6 | Duvo, DeepOpinion, Sierra, Decagon, Crescendo, EvenUp |
 | Hybrid (part outcome, part usage) | 1 | Prosper AI |
-| Usage (minutes, GB, cloud consumption) | 3 | Tsuga, Kestra, Cresta |
-| Subscription or seat | 1 | RapidCanvas |
-| Not disclosed in any filed source | 85 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, LangChain, ElevenLabs, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Actively AI, Attention, Omilia, respond.io, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, ClearRisk AI, Notch, Pace, Otera, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, AuxoAI, Rillet, Campfire, Tabs, Stuut, Tennr, Assort Health, Sixfold, Reserv, Harper, Federato, Eudia, Supio, ConverzAI, Juicebox, Rox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, Distyl AI, Relevance AI, n8n, Glean, PolyAI |
+| Platform fee or subscription plus consumption | 2 | Serval, Glean |
+| Usage (minutes, GB, cloud consumption) | 5 | Tsuga, Kestra, Cresta, Pace, Modal |
+| Subscription or seat | 3 | RapidCanvas, Thoughtful AI, Cognition |
+| Not disclosed in any filed source | 98 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, LangChain, ElevenLabs, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Actively AI, Attention, Omilia, respond.io, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, ClearRisk AI, Notch, Otera, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, AuxoAI, Rillet, Campfire, Tabs, Stuut, Tennr, Assort Health, Sixfold, Reserv, Harper, Federato, Eudia, Supio, ConverzAI, Juicebox, Rox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, Distyl AI, Relevance AI, n8n, PolyAI, Clay, 11x, Artisan, Nooks, Zip, Pivot, micro1, Mercor, FurtherAI, Harvey, Hebbia, Pigment, Abridge, Factory AI, Workato, Saviynt |
 
-**What this means:** buyer-verified prices are per transaction; true outcome pricing is only claimed, by five startups. 85 of 101 have no disclosed price.
+**What this means:** buyer-verified prices are per transaction; true outcome pricing is only claimed, by five startups. 98 of 120 have no disclosed price. Batch 4 added a sixth model, platform fee or subscription plus consumption (Serval, Glean, per UBS), and moved Pace into usage with a floor at one buyer [src-20260811-a0aa1e].
 
 ### 8.4 Go-to-market channel
 | Group | n | Who |
 |---|---|---|
-| Direct to the enterprise (no partner named in sources) | 73 | Coval, Dash0, Daytona, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, ElevenLabs, Ema, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Actively AI, Attention, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Rillet, Campfire, Tabs, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, Relevance AI, Unframe, Glean, PolyAI, Distyl AI |
-| Runs inside or on top of a system of record (SAP, Oracle, ServiceNow, existing EHR or email) | 10 | Moveworks, Didero, Magentic, Walter, GenHealth.ai, Sixfold, Stuut, Tennr, Assort Health, Rox |
+| Direct to the enterprise (no partner named in sources) | 89 | Coval, Dash0, Daytona, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, ElevenLabs, Ema, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Actively AI, Attention, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Rillet, Campfire, Tabs, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Relevance AI, Unframe, Glean, PolyAI, Distyl AI, Clay, 11x, Artisan, Nooks, Pivot, micro1, Mercor, FurtherAI, Harvey, Hebbia, Pigment, Abridge, Cognition, Factory AI, Workato, Saviynt, Modal |
+| Runs inside or on top of a system of record (SAP, Oracle, ServiceNow, existing EHR or email) | 13 | Moveworks, Didero, Magentic, Walter, GenHealth.ai, Sixfold, Stuut, Tennr, Assort Health, Rox, Omnea, Zip, Thoughtful AI |
 | Sold or delivered through an SI, BPO or channel partner | 4 | DeepOpinion, Workfabric AI, Vida, Otera |
 | Sells the finished work (AI-native service firm or BPO replacement) | 9 | Procode, Prosper AI, Pace, Crosby, Crescendo, RapidCanvas, AuxoAI, Harper, Reserv |
 | Open source or developer-led | 5 | CopilotKit, Flexprice, LangChain, Kestra, n8n |
 
-**What this means:** direct sale dominates (73 of 101). Added names that ride a record: Sixfold (inside policy admin systems, Guidewire invested), Stuut (existing ERPs), Tennr (writes to the EHR per a16z), Assort Health (embeds in the EHR), Rox (plugs into Salesforce and Zendesk). Harper (licensed agency) and Reserv (TPA) sell the work. The added 36 brought no new SI channel; all three SI-delivered startups run through Cognizant, so "SIs as channel" rests on one SI [src-20260724-b4a442] [src-20250627-297f7b] [src-20260710-e2a61b].
+**What this means:** direct sale dominates (89 of 120). Batch 4 moved Omnea and added Zip and Thoughtful AI to the record-riding group: PayPal runs Zip and Omnea on top of its ERP [src-20260716-88dbe4], and Thoughtful AI sells itself as operating the provider's existing systems [src-20240919-474182]. Added names that ride a record: Sixfold (inside policy admin systems, Guidewire invested), Stuut (existing ERPs), Tennr (writes to the EHR per a16z), Assort Health (embeds in the EHR), Rox (plugs into Salesforce and Zendesk). Harper (licensed agency) and Reserv (TPA) sell the work. The added 36 brought no new SI channel; all three SI-delivered startups run through Cognizant, so "SIs as channel" rests on one SI [src-20260724-b4a442] [src-20250627-297f7b] [src-20260710-e2a61b].
 
 ### 8.5 Stage
 | Group | n | Who |
 |---|---|---|
 | Seed | 7 | Flexprice, Sycamore, Definite, Elimentary, Zolvo, Zomma, Walter |
 | Series A | 34 | CopilotKit, Coval, Natural, Raindrop, Rein, Runlayer, Tsuga, Kestra, Duvo, Didero, Lio, Magentic, Amperos Health, GenHealth.ai, Procode, ClearRisk AI, Notch, Otera, Orbio, Spott, Take2, AuxoAI, Stuut, Harper, Eudia, ConverzAI, Juicebox, Lorikeet, Gradient Labs, Resolve AI, Traversal, Augment, Polimorphic, Unframe |
-| Series B | 33 | Dash0, Daytona, InsightFinder, Ema, Mimica, Actively AI, Attention, Omilia, respond.io, Adaptive, Basis, Xelix, Pace, Crosby, Ivo, Wordsmith, NeuBird AI, RapidCanvas, Rillet, Campfire, Tabs, Sixfold, Reserv, Supio, Unify, Serval, HappyRobot, GovDash, Levelpath, Omnea, Distyl AI, Relevance AI, Assort Health |
+| Series B | 36 | Dash0, Daytona, InsightFinder, Ema, Mimica, Actively AI, Attention, Omilia, respond.io, Adaptive, Basis, Xelix, Pace, Crosby, Ivo, Wordsmith, NeuBird AI, RapidCanvas, Rillet, Campfire, Tabs, Sixfold, Reserv, Supio, Unify, Serval, HappyRobot, GovDash, Levelpath, Omnea, Distyl AI, Relevance AI, Assort Health, LangChain, Hebbia, Saviynt |
 | Series C | 4 | Skan AI, Adonis, Tennr, n8n |
-| Series D or later / late private | 7 | Sierra, Candid Health, Federato, Parloa, EvenUp, EliseAI, Glean |
-| Stage not in filed sources | 16 | LangChain, ElevenLabs, Airia, Maisa AI, DeepOpinion, Workfabric AI, Vida, Decagon, Cresta, Moveworks, Pactum, Pavus AI, Prosper AI, Crescendo, Rox, PolyAI |
+| Series D or later / late private | 16 | Sierra, Candid Health, Federato, Parloa, EvenUp, EliseAI, Glean, Decagon, Cresta, ElevenLabs, Clay, Cognition, Abridge, Workato, Modal, Pigment |
+| Stage not in filed sources | 23 | Airia, Maisa AI, DeepOpinion, Workfabric AI, Vida, Moveworks, Pactum, Pavus AI, Prosper AI, Crescendo, Rox, PolyAI, 11x, Artisan, Nooks, Zip, Pivot, Thoughtful AI, micro1, Mercor, FurtherAI, Harvey, Factory AI |
 
-**What this means:** Series A and B are most of the universe (67 of 101); 16 have no stage on file. Resolve AI's Series A was at a $1B valuation [src-20260204-8be226]; Serval's Series B too [src-20251211-c9227b].
+**What this means:** Series A and B are most of the universe (70 of 120); 23 have no stage on file. Batch 4 mostly added late names (D or later grew from 7 to 16, including Decagon, Cresta and ElevenLabs moved per UBS) or names with no stage on file (11), so it adds comps more than entry points. Resolve AI's Series A was at a $1B valuation [src-20260204-8be226]; Serval's Series B too [src-20251211-c9227b].
 
 ### 8.6 Thesis position [inference]
 | Group | n | Who |
 |---|---|---|
-| Fits: vertical app that owns a workflow | 53 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Rillet, Campfire, Tabs, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, PolyAI |
-| Fits: rides on the system of record | 10 | Moveworks, Didero, Magentic, Walter, GenHealth.ai, Sixfold, Stuut, Tennr, Assort Health, Rox |
+| Fits: vertical app that owns a workflow | 66 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Rillet, Campfire, Tabs, Federato, Eudia, Supio, EvenUp, ConverzAI, Juicebox, Unify, Parloa, Lorikeet, Gradient Labs, Resolve AI, Traversal, Serval, EliseAI, HappyRobot, Augment, GovDash, Polimorphic, Levelpath, Omnea, PolyAI, 11x, Artisan, Nooks, Pivot, micro1, Mercor, FurtherAI, Harvey, Hebbia, Pigment, Abridge, Cognition, Factory AI |
+| Fits: rides on the system of record | 12 | Moveworks, Didero, Magentic, Walter, GenHealth.ai, Sixfold, Stuut, Tennr, Assort Health, Rox, Zip, Thoughtful AI |
 | Fits: sells the outcome as a service | 7 | Procode, Prosper AI, Pace, Crosby, Crescendo, Harper, Reserv |
 | Channel: SI, BPO or managed service | 5 | DeepOpinion, Otera, RapidCanvas, AuxoAI, Distyl AI |
-| Exposed: horizontal orchestration or context | 13 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Relevance AI, n8n, Unframe, Glean |
-| Neutral: picks and shovels (infra, evals, security) | 13 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs |
+| Exposed: horizontal orchestration or context | 15 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Relevance AI, n8n, Unframe, Glean, Clay, Workato |
+| Neutral: picks and shovels (infra, evals, security) | 15 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs, Saviynt, Modal |
 
-**What this means:** about seven in ten (70 of 101) fit the thesis; the horizontal group (13) carries the most absorption risk from labs and systems of record. New pattern in the additions [inference]: vertical apps that replace the record rather than ride on it (Rillet, Campfire, Serval, Federato), and incumbents investing in agents on their own records (Guidewire in Sixfold, Thomson Reuters Ventures in Supio, RELX's REV in EvenUp).
+**What this means:** about seven in ten (85 of 120) fit the thesis; the horizontal group (15) carries the most absorption risk from labs and systems of record. New pattern in the additions [inference]: vertical apps that replace the record rather than ride on it (Rillet, Campfire, Serval, Federato), and incumbents investing in agents on their own records (Guidewire in Sixfold, Thomson Reuters Ventures in Supio, RELX's REV in EvenUp).
 
 ## Appendix A. Glossary
 
@@ -811,6 +845,7 @@ Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]
 4. Pick facts rest on press releases plus, since v2, one or two buyer calls each for Didero, Magentic, Amperos, Actively, Omilia and Ema. Crosby and Pace still lack an independent enterprise buyer. Next: named enterprise buyers (section 7.2).
 6. No Decagon unit price. Next: ask the Notion or Chime contacts for the contract price per conversation.
 5. Four long podcasts were only keyword-searched (Appendix C). Next: read in full if the readout leans on Ema, Crosby or Pace.
+7. Batch 4 gaps: no current enterprise buyer of an AI SDR (the 11x evidence is from former insiders and dates from 2024 to 2025), and no buyer of Thoughtful AI. UBS's Private 100 figures are mostly company or press reported. Next: one AI SDR buyer call and one Thoughtful AI customer call.
 
 ---
 
@@ -823,6 +858,7 @@ Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]
 - Company cards for the 10 picks plus sierra, decagon, duvo, sycamore, workfabric, salesforce, servicenow, intercom, zendesk and crescendo.
 - The 17 pick sources: src-20260930-9ee545, src-20260331-83a5c4, src-20260812-4cb1fc, src-20260428-2d177a, src-20261025-5ffac1, src-20260422-d6ae9d, src-20261025-db0c8b, src-20260331-50e583, src-20261025-474366, src-20260212-5fd1e0, src-20260213-3c647d, src-20260917-25441c, src-20260923-47e348, src-20260806-53e2bf, src-20260527-cecfde, src-20261025-58fd6b, src-20261025-c77b6e.
 - v3 (2026-10-28), for Section 8: six VC primers read in full: Foundation Capital services-as-software year one src-20250703-8a38e7; a16z "The Incumbents Are Coming" src-20260903-a696de; a16z "RIP to RPA" src-20241113-d5f4fa (dated 2024-11); Bessemer State of AI 2025 src-20250813-44ef93; Bessemer IT services roadmap src-20251028-1ffc30; Bessemer vertical AI part IV src-20250128-3948ca. Plus 35 startup sources (funding reports and company blogs), each read in full: src-20250806-b579d5, src-20251015-1d9298, src-20250916-6b0cd0, src-20251120-b7dfc3, src-20250618-89929d, src-20251002-499204, src-20260129-3fadee, src-20250604-fd80b0, src-20260225-3917a2, src-20251118-a1bc08, src-20250213-7eb7f6, src-20250430-935fd7, src-20251007-efb7da, src-20250211-780a74, src-20250925-7d17f1, src-20260312-b92bcd, src-20250714-a49000, src-20260115-f3635c, src-20250806-000216, src-20250530-b93251, src-20260204-8be226, src-20250618-b909ed, src-20251211-c9227b, src-20250820-5c5edf, src-20250903-f1a523, src-20250904-fe3d9b, src-20260115-edd4ec, src-20250709-395aa2, src-20250630-c0d572, src-20250917-786a38, src-20250922-1bc8b4, src-20250506-6ff4ce, src-20251009-9cd90b, src-20250403-82b140, src-20250610-0a09d0.
+- Batch 4 (2026-10-28), AlphaSense, each read in full (notes in the source records' key_facts): UBS "Private 100" src-20261022-c0698e; Truist agentic AI primer src-20260428-14f0c8; Oppenheimer SailPoint initiation src-20261007-54b3ff; expert calls src-20240919-474182 (Thoughtful AI), src-20241031-1d55b6 (11x and Artisan), src-20250313-c22032 (Honeywell procurement), src-20250507-e13bdd (AI SDR churn, Nooks), src-20250611-a24e31 (Deel on micro1 and Mercor), src-20260217-2cccb9 (Zip, Omnea, Pivot), src-20260608-5e7d7e (Health Prime RCM), src-20260716-88dbe4 (PayPal on Zip and Omnea), src-20260811-a0aa1e (Accelerant on Pace), src-20260922-5e723f (Clay), src-20260930-124dc3 (TTEC on Conduent). A 15th document, a Crescendo call (AlphaSense 235321), was the same transcript as src-20260724-865e53 and was not filed again.
 
 **Keyword-searched only, not read in full:**
 - src-20261025-7ef133 (Ema founder podcast), src-20261025-1fbd1c and src-20260618-7d51b5 (Crosby podcasts), src-20260203-a5df90 (Pace on Sequoia's podcast). Quotes from these were checked in context around each line used.
@@ -848,3 +884,5 @@ Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]
 - src-20251126-6d86c8: pricing model not stated; spend figure only.
 - src-20260310-e66bf3: the expert now works at ElevenLabs, a competitor.
 - v3 funding reports: most are company press releases or trade write-ups of them, so company claims. src-20250714-a49000 (Unify) date is taken from a BusinessWire listing; the blog page metadata says 2026-03-10. Rox's $1.2B valuation is "according to multiple sources" [src-20260312-b92bcd]. PolyAI's round stage is not in the source [src-20260115-f3635c].
+- Batch 4: src-20260811-a0aa1e and src-20260930-124dc3 are AI-run interviews. src-20241031-1d55b6 is a former 11x employee with grievances; src-20250507-e13bdd is a former 11x advisor. src-20240919-474182 is Thoughtful AI's own sales executive, dated 2024-09. src-20260217-2cccb9: the expert evaluated but bought none of the tools, so pricing is secondhand. src-20260716-88dbe4: spend figures are the expert's estimates. src-20250313-c22032: low relevance to agents. src-20261007-54b3ff (Oppenheimer on SailPoint): a brief note for this theme, used only for agent identity. src-20260428-14f0c8 (Truist): the report contains a typo ($61.8 billion for 2026 labor spend; its figure shows $61.8 trillion). src-20261022-c0698e (UBS): private-company figures are company or press reported; UBS's spelling "Pinkish" for Genesys's acquisition is taken as Pinkfish.
+- Use restrictions in the reports themselves: the UBS report says recipients may "not to use UBS Global Research in any artificial intelligence system without UBS's prior written consent" and that it is "provided solely to recipients who are expressly authorized by UBS"; the Truist report carries a similar footer. The UBS PDF is watermarked to an SPC user. Flagged for SPC to decide on use.

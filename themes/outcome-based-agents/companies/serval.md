@@ -44,6 +44,7 @@ tags:
 sources:
 - src-20250813-44ef93
 - src-20251211-c9227b
+- src-20261022-c0698e
 data_quality: Card promoted 2026-10-28 by grokbot at 2 independent sources (funding report plus VC primer). Company-only claims labeled. n/v fields left blank.
 updated: '2026-10-28'
 ---
@@ -55,6 +56,7 @@ AI-native IT service management (ITSM) platform: agents resolve help desk ticket
 Direct ServiceNow replacement play; Sequoia compares it to its ServiceNow investment. Pricing not disclosed.
 
 ## Traction and signals
+- 2026-10-22 | UBS: pricing combines an organization-size platform fee with workflow consumption, not tokens or seats; ServiceNow replacements at Lucid and GitLab; Series B $75M at $1B led by Sequoia (Dec 2025); about 200 employees [src-20261022-c0698e]
 - 2025-12-11: $75M Series B led by Sequoia at $1B, $127M total, three months after a $47M Series A; company claims over 50% of IT tickets automated and 500% revenue growth since the A (company release) [src-20251211-c9227b]
 - 2025-08-13: Bessemer cites Serval in ITSM as an AI wedge growing into a full system of record [src-20250813-44ef93]
 

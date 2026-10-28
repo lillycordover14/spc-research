@@ -31,6 +31,7 @@ sources:
 - src-20260310-e66bf3
 - src-20260618-f36dc6
 - src-20261026-dd1f65
+- src-20261022-c0698e
 data_quality: Stub from src-20260310-e66bf3; what from the expert call, other fields n/v
 updated: '2026-10-27'
 ---
@@ -40,6 +41,7 @@ updated: '2026-10-27'
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-10-22 | UBS: ARR from $350M at YE25 to over $500M in the first four months of 2026, tied to enterprise voice-agent adoption; $300M employee tender at a $22B valuation (Sep 2026) [src-20261022-c0698e]
 - 2026-03-10 | Former Intercom lead now at ElevenLabs: often head to head with Sierra [src-20260310-e66bf3]
 
 ## Economics (what we know)

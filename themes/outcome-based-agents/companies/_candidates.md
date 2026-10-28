@@ -29,7 +29,7 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-10-08 | Rein (reinsec.io) | harness-infra | Runtime security for AI agents: traces actions, holds agents to roles, blocks harmful actions; $25M Series A, total $35M | src-20261008-418b1c | grokbot
 - 2026-10-16 | RapidCanvas (rapidcanvas.ai) | services | Managed AI execution: platform plus field AI engineers at subscription pricing; $29M Series B, total $52.5M | src-20261016-425bfa | grokbot
 - 2026-10-23 | Daytona | harness-infra | Agent cloud and sandbox infrastructure; $60M Series B at $1B, total $91M | src-20261023-3f4b4a | grokbot
-- 2026-03-25 | Adonis | vertical-outcome | AI orchestration platform for healthcare revenue cycle; 4x revenue growth 2025, NRR above 130%; $40M Series C, total $95M+ | src-20260325-9a969a | grokbot
+- 2026-03-25 | Adonis (card) | vertical-outcome | AI orchestration platform for healthcare revenue cycle; 4x revenue growth 2025, NRR above 130%; $40M Series C, total $95M+ | src-20260325-9a969a, src-20240919-474182 | grokbot
 - 2026-07-22 | Candid Health | vertical-outcome | Autonomous RCM platform; ARR +190% YoY; valuation tripled vs Feb 2025; $120M Series D | src-20260722-e6a1e0 | grokbot
 - 2026-10-08 | GenHealth.ai | vertical-outcome | Agents for intake, eligibility, prior auth, billing and denials inside existing systems; $16.5M Series A, total $30M | src-20261008-50f3eb | grokbot
 - 2026-04-22 | Amperos Health (amperos.com) | vertical-outcome | Agentic workforce that works denied claims end to end: calls, portals, appeals; $16M Series A | src-20260422-d6ae9d | grokbot
@@ -41,7 +41,7 @@ Include seed through Series C with enterprise customers. Labs, public companies 
 - 2026-03-25 | Notch (get-notch.co) | vertical-outcome | AI operating system for regulated industries, started from insurance operations; $30M Series A, total $45M | src-20260325-5584af | grokbot
 - 2026-05-13 | ClearRisk AI | vertical-outcome | AI platform to assist auto insurance claims adjusters; $15M Series A, total $22M | src-20260513-fb476a | grokbot
 - 2026-02-12 | Didero | vertical-outcome | Agents that run day-to-day procurement inside existing systems and email; $30M Series A | src-20260212-5fd1e0 | grokbot
-- 2026-03-05 | Lio (lio.ai) | vertical-outcome | Agents that complete the entire enterprise procurement process; $30M Series A, total $33M | src-20260305-fefcb3 | grokbot
+- 2026-03-05 | Lio (lio.ai) (card) | vertical-outcome | Agents that complete the entire enterprise procurement process; $30M Series A, total $33M | src-20260305-fefcb3, src-20260716-88dbe4 | grokbot
 - 2026-09-17 | Magentic | vertical-outcome | Procurement and supply-chain agents across ERP data; $18M Series A, total $23.5M | src-20260917-25441c | grokbot
 - 2026-03-23 | Dash0 (dash0.com) | harness-infra | OpenTelemetry observability with Agent0 AI SRE agents; $110M Series B at $1B, total $155M | src-20260323-e76c06 | grokbot
 - 2026-04-16 | InsightFinder | harness-infra | Finds where AI agents and infrastructure fail; seven-figure Fortune 50 deal; $15M Series B, total $35M | src-20260416-dfa630 | grokbot
@@ -104,11 +104,33 @@ Funding reports and VC primers, 2025 to 2026. Names with two independent sources
 - 2025-09-04 | Augment | vertical-outcome | AI assistant (Augie) for freight brokers, shippers and carriers: bids, tracking, load building and invoicing | src-20250904-fe3d9b | grokbot
 - 2026-01-15 | GovDash | vertical-outcome | AI-native ERP for government contractors, from bid discovery to proposals and contract modifications | src-20260115-edd4ec | grokbot
 - 2025-07-09 | Polimorphic | vertical-outcome | AI front office for local and state government: voice AI, chat, CRM, workflows, permitting and licensing | src-20250709-395aa2 | grokbot
-- 2025-06-30 | Levelpath | vertical-outcome | AI-native procurement suite (intake, sourcing, contracts) from the Scout RFP founders | src-20250630-c0d572 | grokbot
-- 2025-09-17 | Omnea | vertical-outcome | AI-native procurement intake, orchestration and supplier relationship management | src-20250917-786a38 | grokbot
+- 2025-06-30 | Levelpath (card) | vertical-outcome | AI-native procurement suite (intake, sourcing, contracts) from the Scout RFP founders | src-20250630-c0d572, src-20260217-2cccb9 | grokbot
+- 2025-09-17 | Omnea (card) | vertical-outcome | AI-native procurement intake, orchestration and supplier relationship management | src-20250917-786a38, src-20260217-2cccb9, src-20260716-88dbe4 | grokbot
 - 2025-09-22 | Distyl AI | services | Ex-Palantir founders; helps Fortune 500 companies operationalize AI across healthcare, telecom, insurance, manufacturing and financial services | src-20250922-1bc8b4 | grokbot
 - 2025-05-06 | Relevance AI (card) | orchestration | No-code platform to build and run teams of AI agents across functions (Sydney and San Francisco) | src-20250506-6ff4ce, src-20251028-1ffc30 | grokbot
-- 2025-10-09 | n8n | orchestration | Fair-code workflow automation and AI agent orchestration platform, self-hostable | src-20251009-9cd90b | grokbot
+- 2025-10-09 | n8n (card) | orchestration | Fair-code workflow automation and AI agent orchestration platform, self-hostable | src-20251009-9cd90b, src-20261022-c0698e | grokbot
 - 2025-04-03 | Unframe | orchestration | Enterprise AI platform that delivers tailored AI solutions on customer data in hours | src-20250403-82b140 | grokbot
-- 2025-06-10 | Glean | work-context | Enterprise search and work assistant that indexes company knowledge and lets employees build agents | src-20250610-0a09d0 | grokbot
+- 2025-06-10 | Glean (card) | work-context | Enterprise search and work assistant that indexes company knowledge and lets employees build agents | src-20250610-0a09d0, src-20261022-c0698e | grokbot
 - 2026-01-15 | PolyAI (card) | vertical-outcome | UK voice-first CX agents; $86M at $750M, ARR expected $40M at end of 2025 per TechCrunch | src-20260115-f3635c, src-20260226-87dd95 | grokbot
+
+## AlphaSense batch 4: expert calls, UBS Private 100, Truist and Oppenheimer (grokbot, 2026-10-28)
+<!-- (card) = promoted to a company card with 2+ independent sources. Others are single-source and stay here. Figures are company, press or expert claims as labeled in the source. -->
+- 2026-10-22 | Clay (card) | orchestration | GTM data and workflow orchestration over 150+ providers; >$100M ARR Dec 2025, NRR over 200% (company-reported), Series D $115M at $7.1B | src-20261022-c0698e, src-20260922-5e723f, src-20250507-e13bdd | grokbot
+- 2024-10-31 | 11x (card) | vertical-outcome | Autonomous AI SDR sold as a digital worker; experts report three-month break clauses and high churn | src-20241031-1d55b6, src-20250507-e13bdd, src-20260922-5e723f | grokbot
+- 2024-10-31 | Artisan (card) | vertical-outcome | Autonomous AI SDR; reached feature parity with 11x per a former 11x engineer | src-20241031-1d55b6, src-20250507-e13bdd | grokbot
+- 2025-05-07 | Nooks (card) | vertical-outcome | AI calling workspace that augments human SDRs; one buyer pays under $50,000 a year for 10 reps | src-20250507-e13bdd, src-20241031-1d55b6 | grokbot
+- 2026-07-16 | Zip (card) | vertical-outcome | Procurement intake and orchestration on top of the ERP; PayPal runs over $4B of spend through it (expert estimate) | src-20260716-88dbe4, src-20260217-2cccb9 | grokbot
+- 2026-10-22 | Saviynt (card) | harness-infra | Identity security extended to AI agent governance (Zuma); $300M ARR Jul 2026; late stage, context only | src-20261022-c0698e, src-20261007-54b3ff | grokbot
+- 2026-02-17 | Pivot | vertical-outcome | AI-native procurement intake for smaller companies (expert view) | src-20260217-2cccb9 | grokbot
+- 2024-09-19 | Thoughtful AI | vertical-outcome | One custom agent per RCM workflow (prior auth, eligibility, claims) running inside the provider's EHR and payer portals; priced per agent (company sales view) | src-20240919-474182 | grokbot
+- 2025-06-11 | micro1 | vertical-outcome | AI interviewer that sources, screens and vets candidates; won Deel's RFP on speed and service; revenue said to concentrate in AI labs | src-20250611-a24e31 | grokbot
+- 2025-06-11 | Mercor | vertical-outcome | AI recruiting and human data marketplace; evaluated by Deel; revenue said to concentrate in AI labs (buyer view) | src-20250611-a24e31 | grokbot
+- 2026-08-11 | FurtherAI | vertical-outcome | Agentic insurance operations vendor vetted against Pace by Accelerant | src-20260811-a0aa1e | grokbot
+- 2026-10-22 | Harvey | vertical-outcome | Legal and professional services AI; >$400M ARR Sep 2026, 25,000+ custom agents; $15.5B valuation after $550M round | src-20261022-c0698e | grokbot
+- 2026-10-22 | Hebbia | vertical-outcome | Multi-agent analysis (Matrix); says customers include 40% of the largest asset managers; ~$13M ARR 2024 (latest disclosure); Series B $130M (Jul 2024); customized enterprise contracts | src-20261022-c0698e | grokbot
+- 2026-10-22 | Abridge | vertical-outcome | Ambient clinical documentation expanding into coding, billing, prior auth and payer adjudication; 300+ health systems; Series E extension at $5.3B | src-20261022-c0698e | grokbot
+- 2026-10-22 | Pigment | vertical-outcome | AI planning platform for finance with a Modeler Agent; approaching $100M ARR (Mar 2026); Series D $145M at $1B (Apr 2024) | src-20261022-c0698e | grokbot
+- 2026-10-22 | Workato | orchestration | Enterprise integration and multi-agent orchestration (Workato One, AIRO); 1.1 billion enterprise AI actions; Series E (2021) | src-20261022-c0698e | grokbot
+- 2026-10-22 | Cognition | adjacent | Autonomous coding agents (Devin, Devin Desktop); $1B ARR Sep 2026 from $37M May 2025; Series E $2B at $48B | src-20261022-c0698e | grokbot
+- 2026-10-22 | Factory AI | adjacent | Autonomous SDLC agents (Droids) with Factory Router cutting token spend by more than 60%; $5B valuation after $200M round | src-20261022-c0698e | grokbot
+- 2026-10-22 | Modal | harness-infra | Serverless compute and agent sandboxes; Sandboxes at about $300M run rate; charges for active compute; Series D | src-20261022-c0698e | grokbot

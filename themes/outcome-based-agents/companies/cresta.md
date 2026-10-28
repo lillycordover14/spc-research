@@ -33,6 +33,7 @@ sources:
 - src-20261013-c9c9c7
 - src-20261024-2dba6a
 - src-20261026-0ef392
+- src-20261022-c0698e
 data_quality: Stub from src-20260618-f36dc6; what from the expert call, other fields n/v
 updated: '2026-10-27'
 ---
@@ -42,6 +43,7 @@ updated: '2026-10-27'
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-10-22 | UBS: $100M+ ARR Apr 2026; about 600 employees; competitors include Decagon and Sierra [src-20261022-c0698e]
 - 2026-06-18 | Own orchestration framework, per-minute pricing with outcome options, two to four months of eval per month of build [src-20260618-f36dc6]
 
 ## Economics (what we know)

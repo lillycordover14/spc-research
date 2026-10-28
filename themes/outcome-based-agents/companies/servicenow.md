@@ -53,6 +53,8 @@ sources:
 - src-20260911-0742fb
 - src-20260904-8886b4
 - src-20250813-44ef93
+- src-20260716-88dbe4
+- src-20260428-14f0c8
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -66,6 +68,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-07-16 | PayPal procurement finalist; scored 10 on ERP integration but 7 to 8.5 elsewhere, 'not built from the ground up' (expert view) [src-20260716-88dbe4]
 - 2026-09-11 | KPMG National Executive Director: Now Assist seat contraction, debooks, license price increases [src-20260911-0742fb]
 - 2026-08-26 | servicenow: Salesforce says Agentforce IT Service has 450+ customers including conversions from ServiceNow [src-20260826-580137]
 - 2026-10-21 | servicenow: Arc personal agent GA with Nvidia; AI Passport and Control Tower [src-20261021-bf34b8]

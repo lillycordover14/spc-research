@@ -36,6 +36,7 @@ sources:
 - src-20251105-fde118
 - src-20260303-4bfebc
 - src-20260616-48f4c6
+- src-20261022-c0698e
 data_quality: Benchmark card, unsourced; numbers and claims only with source ids.
 updated: '2026-10-23'
 ---
@@ -49,6 +50,7 @@ Benchmark. Track launches, pricing and customer counts.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-22 | UBS profile: process intelligence positioned as operational context for agents [src-20261022-c0698e]
 - 2026-05-04 | celonis: Rinke: customer Uniper savings across 27 processes; a large bank with 4,000 market systems; close to 4,000 employees [src-20260504-0c7955]
 - 2025-11-05 | celonis: Celosphere 2025: Vinmar supply chain team 40% more productive; zero-copy integrations with Databricks and Microsoft; ISV ecosystem incl. Bloomfilter [src-20251105-fde118]
 

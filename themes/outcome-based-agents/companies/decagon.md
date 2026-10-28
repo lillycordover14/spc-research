@@ -64,6 +64,7 @@ sources:
 - src-20260515-de88a1
 - src-20260518-714b0a
 - src-20241113-d5f4fa
+- src-20261022-c0698e
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---
@@ -77,6 +78,7 @@ Benchmark for CX agents in production.
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-10-22 | UBS: about $100M ARR Aug 2026 (Newcomer); Series D $250M at $4.5B (Jan 2026); Business Insider reports it hired an investment bank to explore a sale [src-20261022-c0698e]
 - 2026-10-13 | decagon: Hired bank to explore sale; early ServiceNow talks (BI 2026-10-13) [src-20261013-6d4b75]
 - 2026-10-13 | decagon: $100M ARR; 90% of workloads on fine-tuned open models [src-20261013-d7909a]
 - 2026-10-09 | Airbnb uses Decagon (about six to nine months) alongside in-house AI [src-20261009-44e09b]

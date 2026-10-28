@@ -41,6 +41,7 @@ sources:
 - src-20261025-5ffac1
 - src-20261026-b011ff
 - src-20251126-6d86c8
+- src-20250507-e13bdd
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -53,6 +54,7 @@ Landscape view (2026-10-23): PICK: Ramp 23% higher close rate; revenue-generatin
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2025-05-07 | Former 11x advisor groups Actively AI with Nooks and Clay as AI-powered tools that wrap a human rep, versus autonomous AI SDRs [src-20250507-e13bdd]
 - 2026-04-28 | Actively AI: $45M Series B at $250M, total $67.5M (2026-04-28) [src-20260428-2d177a]
 - 2025-11-26 | Justworks: about $1M revenue, spend around $160,000, ROI about 6X, easy to switch [src-20251126-6d86c8]
 

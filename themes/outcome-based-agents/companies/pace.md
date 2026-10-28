@@ -74,6 +74,7 @@ sources:
 - src-20261027-f60d18
 - src-20261024-ff8460
 - src-20261027-d65848
+- src-20260811-a0aa1e
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---
@@ -86,13 +87,14 @@ Landscape view (2026-10-23): PICK: Sequoia and Thrive, replaces ~$70B insurance 
 
 ## Traction and signals
 <!-- Dated bullets, newest first, each ending with a source id -->
+- 2026-08-11 | Accelerant: underwriting triage, policy servicing and FNOL; usage-based pricing with a floor, negotiated away from an annual license; low six figures a year; greenfield, replaced nothing; ROI not yet proven; customer expects commoditization (expert view) [src-20260811-a0aa1e]
 - None | pace: Prudential Individual Life Insurance signs multi-year deal, live in production [src-20261025-58fd6b]
 - 2026-08-11 | UnitedHealth Group: 3 teams, 50+ users, insourced outsourced P&C claims work, 10X claims speed, spend $100k to $250k a year [src-20260811-852c57]
 - 2026-05-27 | Pace: $46M Series B at $375M (Series A $10M Sequoia, Jan 2026) (2026-05-27) [src-20260527-cecfde]
 - 2026-05-08 | RYZE Claim Solutions: claim QA and entry automation, implementation fee plus per-claim volume [src-20260508-386718]
 
 ## Economics (what we know)
-Pricing: n/v [src-20260527-cecfde]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
+Pricing: n/v at launch [src-20260527-cecfde]; at Accelerant, usage-based with a floor [src-20260811-a0aa1e]. Outcome definition, who verifies it, price per outcome, gross margin and contract minimums: n/v.
 
 ## Open questions
 - Which outcome is billed, and who measures it?

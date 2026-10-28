@@ -2,7 +2,7 @@
 
 Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, directly answers Q1, Q2, Q6, Q7 or Q8, moves the investable view, or is a canonical thesis. Every listed record carries the tags `must-read` and `must-read-tier-1` or `must-read-tier-2` in its frontmatter, so `grep -l must-read-tier-1 sources -r` lists them. Read time assumes about 230 words a minute; long transcripts are marked "skim" with a 20-minute budget on the parts quoted in key_facts.
 
-## Tier 1 (38): read these first
+## Tier 1 (44): read these first
 | # | Source | Date | Read | Why | Qs |
 |---|---|---|---|---|---|
 | 1 | src-20260309-78d5a1: [Kleiner Perkins: How Sierra Is Pulling Ahead in the AI Race, Co-founder Bret Taylor](https://www.youtube.com/watch?v=6v9q6k8aF6E) | 2026-03-09 | 60 min (skim: 20 min on the flagged parts) | Sierra's own numbers ($100M in 7 quarters, $150M in 8) and why FDE exists: to guarantee outcomes | Q2, Q5, Q8 |
@@ -43,8 +43,14 @@ Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, direc
 | 36 | src-20260518-714b0a: Former Chime CPO on Decagon and Sierra (AlphaSense expert call) | 2026-05-18 | 40 min (skim: 20 min on the flagged parts) | Buyer keeps CX vendors interchangeable behind its own router | Q5, Q7, Q10 |
 | 37 | src-20260904-8886b4: Ascot Group on Microsoft E7 and Cowork tokens (AlphaSense expert call) | 2026-09-04 | 40 min (skim: 20 min on the flagged parts) | Seat bundle discount respent on token-priced agents | Q4, Q6, Q11 |
 | 38 | src-20260908-547a69: Former Palantir FDE on FDE economics (AlphaSense expert call) | 2026-09-08 | 40 min (skim: 20 min on the flagged parts) | FDE priced inside usage contracts; OpenAI DeployCo | Q5, Q6, Q14 |
+| 39 | src-20261022-c0698e: UBS Research: AI Research 100 Private (sell-side report, 142 pages) | 2026-10-22 | 60 min (skim: 20 min on the flagged parts) | Profiles 100 privates incl. Sierra, Decagon, Harvey, Clay, Cognition; 'disruptors are being chosen over software incumbents' but few scaled outside coding; company-reported figures | Q1, Q2, Q6, Q9, Q10, Q12 |
+| 40 | src-20250507-e13bdd: Former 11x advisor on AI SDR churn (AlphaSense expert call) | 2025-05-07 | 40 min (skim: 20 min on the flagged parts) | AI SDR churn 80% to 90%; humans plus tools (Nooks) beat autonomous SDRs | Q3, Q10 |
+| 41 | src-20260608-5e7d7e: Health Prime VP on agentic AI in an RCM services firm (AlphaSense expert call) | 2026-06-08 | 40 min (skim: 20 min on the flagged parts) | Incumbent services firm adopts agents: low double digit savings, Epic gatekeeping, boomerang clients | Q2, Q3, Q4, Q10 |
+| 42 | src-20260811-a0aa1e: Accelerant on Pace as an AI BPO (AlphaSense expert call) | 2026-08-11 | 40 min (skim: 20 min on the flagged parts) | Second Pace buyer: usage with a floor, ROI open, expects a copy 'at a 10th of the price' | Q2, Q10 |
+| 43 | src-20260922-5e723f: Former Apollo PM on Clay (AlphaSense expert call) | 2026-09-22 | 40 min (skim: 20 min on the flagged parts) | Clay as GTM orchestration; Claude as its main competitor; AI SDR verdict | Q6, Q9, Q10 |
+| 44 | src-20260930-124dc3: TTEC VP on Conduent and payer BPO (AlphaSense expert call) | 2026-09-30 | 40 min (skim: 20 min on the flagged parts) | BPO rates down 20% to 40%; billing moves from FTE to consumption; incumbents ship agents | Q2, Q4, Q14 |
 
-## Tier 2 (47): read for depth on a question
+## Tier 2 (53): read for depth on a question
 | # | Source | Date | Read | Why | Qs |
 |---|---|---|---|---|---|
 | 1 | src-20260909-c1900d: Salesforce at Goldman Sachs Communacopia Technology Conference 2026 (transcript, AlphaSense) | 2026-09-09 | 50 min (skim: 20 min on the flagged parts) | Salesforce at Goldman Communacopia: Agentforce economics and pricing straight from management | Q2, Q8 |
@@ -94,6 +100,12 @@ Built 2026-10-25 from 373 sources. Criteria: primary source, hard numbers, direc
 | 45 | src-20260811-852c57: UnitedHealth Group on Pace (AlphaSense expert call) | 2026-08-11 | 40 min (skim: 20 min on the flagged parts) | Pace insources outsourced claims; seat plus usage pricing | Q10 |
 | 46 | src-20251006-b80311: Infosys EMEA AI head on SI pricing (AlphaSense expert call) | 2025-10-06 | 40 min (skim: 20 min on the flagged parts) | GSI outcome pricing and AI savings pressure | Q5, Q14 |
 | 47 | src-20261017-72ec30: Accenture MD on AI vendor partnerships (AlphaSense expert call) | 2026-10-17 | 40 min (skim: 20 min on the flagged parts) | SIs decompose workflows and pick models per agent | Q5, Q6 |
+| 48 | src-20260428-14f0c8: Truist Securities: Demystifying Agentic AI (sell-side primer, 111 pages) | 2026-04-28 | 60 min (skim: 20 min on the flagged parts) | Outcome pricing favors SoRs; $6.7T labor-based sizing; vendor pricing evolution (Salesforce, Microsoft) | Q2, Q8, Q11 |
+| 49 | src-20240919-474182: Thoughtful AI founding sales exec on RCM agents (AlphaSense expert call) | 2024-09-19 | 40 min (skim: 20 min on the flagged parts) | Per-agent pricing; operates the provider's existing systems (company view) | Q2, Q10 |
+| 50 | src-20241031-1d55b6: Former 11x head of engineering on 11x vs Artisan (AlphaSense expert call) | 2024-10-31 | 40 min (skim: 20 min on the flagged parts) | Three-month break clauses; AI SDR moats thin | Q10 |
+| 51 | src-20250611-a24e31: Deel COO on micro1 and AI challengers to BPOs (AlphaSense expert call) | 2025-06-11 | 40 min (skim: 20 min on the flagged parts) | AI recruiting buyer; 'We hate working with BPOs' | Q4, Q10 |
+| 52 | src-20260217-2cccb9: Enigma co-founder on Zip, Omnea and Pivot (AlphaSense expert call) | 2026-02-17 | 40 min (skim: 20 min on the flagged parts) | Procurement agents look bolted on; intake is 15% to 20% of procurement | Q8, Q10 |
+| 53 | src-20260716-88dbe4: PayPal on Zip and Omnea (AlphaSense expert call) | 2026-07-16 | 40 min (skim: 20 min on the flagged parts) | Procurement agents run on top of the ERP, not instead of it | Q7, Q8, Q10 |
 
 
 ## Suggested reading order (Tier 1, about 6 hours; a 2-hour cut is marked *)

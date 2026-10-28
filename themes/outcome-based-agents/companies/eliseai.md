@@ -42,6 +42,7 @@ sources:
 - src-20250813-44ef93
 - src-20250820-5c5edf
 - src-20251028-1ffc30
+- src-20261022-c0698e
 data_quality: Card promoted 2026-10-28 by grokbot at 2 independent sources (funding report plus VC primer). Company-only claims labeled. n/v fields left blank.
 updated: '2026-10-28'
 ---
@@ -53,6 +54,7 @@ Agentic AI for property management (leasing, resident communications, lease audi
 Late-stage vertical benchmark, outside the seed to Series C band. Shows a vertical agent stretching into a second vertical. Pricing not disclosed.
 
 ## Traction and signals
+- 2026-10-22 | UBS: $200M ARR Jun 2026 (from $100M early 2025); $4B valuation after $350M round (Sep 2026) [src-20261022-c0698e]
 - 2025-08-20: $250M Series E led by a16z; company states it passed $100M ARR and grew from 150 to 300+ staff; a16z partner says it powers 10% of the US apartment market [src-20250820-5c5edf]
 - 2025-10-28: Bessemer names EliseAI as a vertical specialist replacing human expert work [src-20251028-1ffc30]
 

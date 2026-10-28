@@ -2,15 +2,15 @@
 slug: warp-sciences
 name: Warp Sciences
 aliases: []
-website: null
-hq: null
+website: https://warp.xyz
+hq: San Francisco, CA
 founded: null
 layer: adjacent
 layers: []
 model: owner-operator
-what: ''
+what: 'US chemistry CRO: AI- and robot-assisted lead-optimization synthesis for pharma/biotech; keeps all run data (incl. failures) to train models.'
 fit: []
-stage: unknown
+stage: series-a
 total_raised_usd: null
 last_round: {}
 investors: []
@@ -38,17 +38,15 @@ sources:
 - src-20261022-a4fc05
 - src-20261023-e0395e
 data_quality: auto-created stub from src-20261027-c11426; fill layer/model/what
-updated: '2026-10-27'
+updated: '2026-10-28'
 ---
 
 ## What they do
-
-## Why it fits the theme (or doesn't)
+Contract chemistry for drug discovery (lead optimization analogs). Chemists first, robots over time; plans to sell predictions later. No own drug pipeline.
 
 ## Traction and signals
-
-## Economics (what we know)
+- $215M Series A led by Lightspeed (Oct 22 2026), with IVP, Lux, Menlo, Premji; $865M post-money per CEO (Mezha). Working with "a small number of design partners" (website).
+- Founders: Kevin Weil (CEO, ex-OpenAI), Sol Reisberg (CSO), DJ Patil (COO), Manohar Paluri (CTO).
 
 ## Open questions
-
-## People
+Named customers; pricing vs offshore CROs; lab capex and location.

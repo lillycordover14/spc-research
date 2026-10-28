@@ -1,15 +1,20 @@
 # Outcome-based agents and agentic orchestration: VC primer
 
-_Version 2, dated 2026-10-27 (America/New_York). v1 was 2026-10-26. Built from the oba repo: insights/ (framework, evidence-by-question, weekly/2026-W44, bull-bear, comps, market-sizing, startup-landscape, labs-vs-startups, timeline, expert-calls), companies/ cards, and the sources/ records named in Appendix C. Free sources only, plus the AlphaSense expert calls filed in the repo. Reading log and per-source notes: insights/primer-notes/._
+_Version 3, dated 2026-10-27 (America/New_York). v2 was earlier on 2026-10-27; v1 was 2026-10-26. Built from the oba repo: insights/ (framework, evidence-by-question, weekly/2026-W44, bull-bear, comps, market-sizing, startup-landscape, labs-vs-startups, timeline, expert-calls), companies/ cards, and the sources/ records named in Appendix C. Free sources only, plus the AlphaSense expert calls filed in the repo. Reading log and per-source notes: insights/primer-notes/._
 
 **What changed in v2.** 17 more AlphaSense expert calls, each read in full (list in Appendix C). Main effects: buyer calls now exist for six of the ten picks (Didero, Magentic, Amperos, Actively, Omilia, Ema) and for Skan; Decagon and Fin have buyer-side pricing; the pricing table in Q2 grows from 10 to 18 rows; new evidence that buyers keep CX vendors interchangeable; SI and Microsoft calls on token cost. The verdict is unchanged; the case for outcome pricing outside CX is weaker (see Q2).
+
+**What changed in v3.** New Section 8: six landscape cuts of 65 startups (five worlds, buyer, pricing, channel, stage, thesis fit), one group per company per cut. Full version: insights/landscape-cuts.md.
 
 **Start here.** This primer is for an investor who writes Series B to D checks and is new to AI agents. Read it in this order:
 1. Section 1 (the big picture) tells you what an "agent" is, who sells them, who buys them and how big the money pools are.
 2. Section 0 (the decision summary) gives the view and the 10 things that shaped it.
 3. Section 2 answers 17 questions in order. Skip to the ones you care about.
 4. Sections 3 to 6 cover the companies, the money, the data and the bear case.
-5. Appendix A is a glossary. Every acronym is spelled out the first time it appears and again in the glossary.
+5. Section 8 shows where every startup sits, cut six ways. Read it after Section 3.
+6. Appendix A is a glossary. Every acronym is spelled out the first time it appears and again in the glossary.
+
+**Contents.** 0 Decision summary; 1 Big picture; 2 The 17 questions; 3 Company profiles; 4 Unit economics; 5 Data loops and moats; 6 Bear case; 7 Open questions; 8 Landscape cuts; Appendices A Glossary, B Gaps, C Source coverage.
 
 **How to read this doc.** Three kinds of statement are kept apart:
 - A plain sentence ending in `[src-…]` is a sourced fact: a filing, a release, a dataset or a reported figure.
@@ -670,6 +675,87 @@ Filed in v2: Hitachi on Ema, Skan AI director, Avant on Didero and Magentic, IKE
 **What this means:** three calls (an SI lead, an independent Duvo customer, an F500 CX buyer) would test most of the kill criteria before the readout.
 
 ---
+
+## 8. Landscape cuts: where each company sits
+
+65 startups, cut six ways. Each sits in exactly one group per cut. Full table with a source id on every row: insights/landscape-cuts.md. Pricing and stage come only from filed sources; thesis position is [inference].
+
+### 8.1 The five worlds
+Incumbents: labs and hyperscalers (OpenAI, Anthropic, Google, Microsoft, Amazon Web Services); systems of record (Salesforce, ServiceNow, SAP, Oracle, Workday and others); SIs and BPOs (Accenture, Cognizant, Infosys, TCS and others). No startup sits in "enterprises building their own".
+
+| Group | n | Who |
+|---|---|---|
+| Vertical apps | 39 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, ClearRisk AI, Notch, Pace, Crosby, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, Crescendo |
+| Horizontal orchestration | 9 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI |
+| SIs and AI services | 4 | DeepOpinion, Otera, RapidCanvas, AuxoAI |
+| Agent infrastructure | 13 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs |
+
+**What this means:** venture money is in vertical apps; the other worlds belong to incumbents.
+
+### 8.2 Buyer function
+| Group | n | Who |
+|---|---|---|
+| Customer service and contact center | 7 | ElevenLabs, Sierra, Decagon, Omilia, respond.io, Cresta, Crescendo |
+| Sales and revenue | 3 | Actively AI, Attention, Vida |
+| Finance, accounting and lending ops | 7 | Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma |
+| Procurement and supply chain | 6 | Didero, Lio, Magentic, Walter, Pactum, Pavus AI |
+| Healthcare revenue cycle and admin | 6 | Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI |
+| Insurance and regulated ops | 5 | DeepOpinion, ClearRisk AI, Notch, Pace, Otera |
+| Legal | 3 | Crosby, Ivo, Wordsmith |
+| HR and recruiting | 3 | Orbio, Spott, Take2 |
+| IT ops and agent infrastructure (sold to engineering) | 14 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, Moveworks, NeuBird AI |
+| Cross-function (no single buyer) | 11 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, RapidCanvas, AuxoAI |
+
+**What this means:** CX is crowded and late stage; finance, procurement, healthcare billing and insurance hold most early picks.
+
+### 8.3 Pricing model
+Sierra: under $2 per transaction plus about 10% of savings [src-20260710-37d40b]. Decagon: per meaningful conversation [src-20260515-de88a1]. Crescendo: per contact [src-20260724-865e53]. Outcome rows are company claims from their own releases.
+
+| Group | n | Who |
+|---|---|---|
+| Per outcome or savings share | 4 | Ema, Vida, Procode, Crosby |
+| Per transaction, task, conversation or run | 5 | Duvo, DeepOpinion, Sierra, Decagon, Crescendo |
+| Hybrid (part outcome, part usage) | 1 | Prosper AI |
+| Usage (minutes, GB, cloud consumption) | 3 | Tsuga, Kestra, Cresta |
+| Subscription or seat | 1 | RapidCanvas |
+| Not disclosed in any filed source | 51 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, LangChain, ElevenLabs, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Actively AI, Attention, Omilia, respond.io, Moveworks, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, GenHealth.ai, ClearRisk AI, Notch, Pace, Otera, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI, AuxoAI |
+
+**What this means:** buyer-verified prices are per transaction; true outcome pricing is only claimed, by four startups.
+
+### 8.4 Go-to-market channel
+| Group | n | Who |
+|---|---|---|
+| Direct to the enterprise (no partner named in sources) | 45 | Coval, Dash0, Daytona, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, ElevenLabs, Ema, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Actively AI, Attention, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI |
+| Runs inside or on top of a system of record (SAP, Oracle, ServiceNow, existing EHR or email) | 5 | Moveworks, Didero, Magentic, Walter, GenHealth.ai |
+| Sold or delivered through an SI, BPO or channel partner | 4 | DeepOpinion, Workfabric AI, Vida, Otera |
+| Sells the finished work (AI-native service firm or BPO replacement) | 7 | Procode, Prosper AI, Pace, Crosby, Crescendo, RapidCanvas, AuxoAI |
+| Open source or developer-led | 4 | CopilotKit, Flexprice, LangChain, Kestra |
+
+**What this means:** direct sale dominates; all three SI-delivered startups run through Cognizant, so "SIs as channel" rests on one SI [src-20260724-b4a442] [src-20250627-297f7b] [src-20260710-e2a61b].
+
+### 8.5 Stage
+| Group | n | Who |
+|---|---|---|
+| Seed | 7 | Flexprice, Sycamore, Definite, Elimentary, Zolvo, Zomma, Walter |
+| Series A | 22 | CopilotKit, Coval, Natural, Raindrop, Rein, Runlayer, Tsuga, Kestra, Duvo, Didero, Lio, Magentic, Amperos Health, GenHealth.ai, Procode, ClearRisk AI, Notch, Otera, Orbio, Spott, Take2, AuxoAI |
+| Series B | 18 | Dash0, Daytona, InsightFinder, Ema, Mimica, Actively AI, Attention, Omilia, respond.io, Adaptive, Basis, Xelix, Pace, Crosby, Ivo, Wordsmith, NeuBird AI, RapidCanvas |
+| Series C | 2 | Skan AI, Adonis |
+| Series D or later / late private | 2 | Sierra, Candid Health |
+| Stage not in filed sources | 14 | LangChain, ElevenLabs, Airia, Maisa AI, DeepOpinion, Workfabric AI, Vida, Decagon, Cresta, Moveworks, Pactum, Pavus AI, Prosper AI, Crescendo |
+
+**What this means:** Series A and B are most of the universe; 14 have no stage on file.
+
+### 8.6 Thesis position [inference]
+| Group | n | Who |
+|---|---|---|
+| Fits: vertical app that owns a workflow | 29 | Actively AI, Attention, Vida, Sierra, Decagon, Omilia, respond.io, Cresta, Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Lio, Pactum, Pavus AI, Adonis, Amperos Health, Candid Health, ClearRisk AI, Notch, Ivo, Wordsmith, Orbio, Spott, Take2, NeuBird AI |
+| Fits: rides on the system of record | 5 | Moveworks, Didero, Magentic, Walter, GenHealth.ai |
+| Fits: sells the outcome as a service | 5 | Procode, Prosper AI, Pace, Crosby, Crescendo |
+| Channel: SI, BPO or managed service | 4 | DeepOpinion, Otera, RapidCanvas, AuxoAI |
+| Exposed: horizontal orchestration or context | 9 | Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI |
+| Neutral: picks and shovels (infra, evals, security) | 13 | CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, LangChain, ElevenLabs |
+
+**What this means:** six in ten fit the thesis; the horizontal group carries the most absorption risk from labs and systems of record.
 
 ## Appendix A. Glossary
 

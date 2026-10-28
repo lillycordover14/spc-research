@@ -71,6 +71,7 @@ sources:
 - src-20261026-2230d8
 - src-20261026-bb04cb
 - src-20250521-4c5901
+- src-20261027-053d50
 data_quality: 'Valuation: Harmonic estimated $275M post for the seed; not disclosed in press, so left null. Seed date: AIM article 2025-07-22, Harmonic 2025-07-20, other trackers 2025-07-01. Total raised = $10M pre-seed (Mar 2024) + $55M seed [src-20250722-6b94a0]. Krause''s Rice PhD and Ceder as co-founder come from Harmonic/prior file, not re-sourced here.'
 updated: '2026-10-22'
 ---

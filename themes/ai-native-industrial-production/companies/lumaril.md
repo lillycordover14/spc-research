@@ -8,7 +8,7 @@ founded: 2025
 layer: factory-ai
 layers: []
 model: software-first
-what: 'AI closed-loop process control for plants, paid on added production (company claim)'
+what: AI closed-loop process control for plants, paid on added production (company claim)
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -28,6 +28,7 @@ sources:
 - src-20261027-311fa6
 - src-20261003-496a99
 - src-20261027-79ddd6
+- src-20261027-5b17a2
 data_quality: auto-created stub from src-20261027-d5ba3f; fill layer/model/what
 updated: '2026-10-27'
 ---

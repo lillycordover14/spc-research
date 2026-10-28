@@ -61,6 +61,11 @@ sources:
 - src-20261014-086869
 - src-20261021-85611a
 - src-20261026-c2365a
+- src-20261028-a0a113
+- src-20261028-8ee887
+- src-20261028-3bf308
+- src-20261028-192a66
+- src-20261020-6926c1
 data_quality: Seed card from Harmonic, pulled 2026-10-26. Already in SPC's pipeline deck spotlight pages; link that page.
 updated: '2026-10-26'
 ---

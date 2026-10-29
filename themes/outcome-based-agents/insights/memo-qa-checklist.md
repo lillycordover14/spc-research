@@ -2,6 +2,13 @@
 
 Run on every version of insights/OBA-theme-memo.md (source of truth) and its Word and PDF exports. The automated checks live in /workspace/oba-memo/qa.py on the box. The script was made stricter for v3 after an outside review of v2 (commit 6a9134d) found that our own v2 checklist had marked every item as passing when only 4 of 10 passed in full, 4 passed in part and 2 failed. This file records v3 results honestly, including what the script cannot catch.
 
+## v5 (2026-10-29): example companies audit
+
+- Every Example companies name checked against cards and sources; full keep or cut table with reasons and source ids in insights/memo-example-companies-audit.md.
+- Lists cut from 131 to 81 names: A 19 to 7, B 9 to 7, C 16 to 8, D 17 to 10, E1 19 to 14, E2 25 to 16, E3 26 to 19. 16 names cut as uncertain.
+- Body text unchanged; cut names still cited as evidence (Skan AI, Celonis, Rillet, Eudia, Guidewire, Epic, KPMG, Concentrix, TTEC, Clay) are used as context, not as examples.
+- Strict QA: STRICT_FLAGS 0 (three known NUM? false positives: $350,000, $400,000, $0.99). 5,001 words, 8 pages.
+
 ## v4 results, 2026-10-29
 
 v4 applies the two blocking fixes from the outside review of v3 (commit 0ad733a) plus its nits, each checked against the filed source.

@@ -1,4 +1,4 @@
-<!-- OBA theme memo v4, 2026-10-29. Source of truth for exports/OBA-theme-memo-v4-2026-10-29.docx/.pdf. Inline cites show the short source name; bracketed ids map to sources/. Built with /workspace/oba-memo/build.py on the Sewon template. -->
+<!-- OBA theme memo v5, 2026-10-29. Source of truth for exports/OBA-theme-memo-v5-2026-10-29.docx/.pdf. Inline cites show the short source name; bracketed ids map to sources/. Built with /workspace/oba-memo/build.py on the Sewon template. -->
 
 # Outcome-Based Agents and Agentic Orchestration
 
@@ -55,7 +55,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Buyers rarely pay for neutrality across models, which weakens the main argument for an independent layer.** An Accenture managing director calls models "such commodities" and says routing between them is "hardly ever" used by his clients (expert call) [src-20261017-72ec30].
 - **Why we should not focus here: Agent infrastructure is sold to engineering teams on usage, and the labs that sell the model bundle the same tools for free.** Companies here compete with their own suppliers, earn usage revenue that falls with model prices and tend to sell to a lab or cloud provider at a modest price, so the returns go to the model owners and to the applications that sell the finished job.
 
-**Example companies:** OpenAI, Anthropic, Google, Microsoft, Amazon Web Services, LangChain, CopilotKit, Coval, Dash0, Daytona, Flexprice, InsightFinder, Natural, Raindrop, Rein, Runlayer, Tsuga, Saviynt, Modal
+**Example companies:** OpenAI, Anthropic, Google, Microsoft, Amazon Web Services, LangChain, CopilotKit
 
 ## B. Systems of Record
 
@@ -70,7 +70,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Seat-based incumbents lose seats as agents do the work, which pushes them to raise prices and leads buyers to question the platform.** The KPMG partner reports shrinking seat counts and growth led by price increases (expert call) [src-20260911-0742fb], and Wawa's CIO asks "Do I even need to have a ServiceNow platform?" (expert call) [src-20260402-8d84cb].
 - **Why we should not focus here: Systems of record are established incumbents that most agent spending will run through, so they matter to us as the channel, the likely acquirer and the main absorber of any startup whose work they can copy.** They hold the data, permissions and audit trail that outcome pricing needs, so we should test every startup in the theme against how hard its work is for the record holder to rebuild.
 
-**Example companies:** Salesforce, ServiceNow, SAP, Oracle, Workday, Zendesk, HubSpot, Guidewire, Epic
+**Example companies:** Salesforce, ServiceNow, SAP, Oracle, Workday, Zendesk, HubSpot
 
 ## C. Enterprises Building Their Own
 
@@ -85,7 +85,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **The labs are moving into work context, so the companies that map work face the suppliers of the models they feed.** A Skan AI director says "Once Claude figures out how to do this themselves, they don't need us" (expert call) [src-20260616-48f4c6].
 - **Why we should not focus here: Horizontal orchestration sells a platform that enterprises increasingly build themselves or receive free from a platform they already own, so pricing power falls as the customer's own team learns.** Sales cycles run about nine months by Ema's account (Ema, claim) [src-20261025-7ef133], and expansion stalls once the customer builds its own agents. Work context has the better economics of the two, because a record of how work really gets done improves every agent a company runs, but Celonis and the labs already compete for that layer, so we should not back standalone work-context companies.
 
-**Example companies:** Ema, Kestra, Duvo, Sycamore, Airia, Maisa AI, Mimica, Skan AI, Workfabric AI, Relevance AI, n8n, Unframe, Glean, Workato, UiPath, Celonis
+**Example companies:** Ema, Kestra, Duvo, Sycamore, Workfabric AI, Relevance AI, n8n, UiPath
 
 ## D. Systems Integrators and BPOs
 
@@ -99,7 +99,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Discounting before the automation works erases the margin a services firm starts with.** Crescendo, an AI-native outsourcer, cut prices 10% to 40% while its costs stayed flat, and a former director says "Gross margin did tank heavily" (expert call) [src-20260724-865e53].
 - **Why we should not focus here: Services firms earn on people and hours, so automation shrinks their revenue even as it lifts their margin.** AI-native outsourcers that undercut the incumbents fight a price war with no switching costs because the data stays with the customer. Integrators matter to the theme as the channel that installs agents in enterprises, and the recurring value goes to the software they deploy, so we should back the vertical products that integrators resell and treat the services firms as partners and acquirers.
 
-**Example companies:** Accenture, Deloitte, Cognizant, Infosys, TCS, KPMG, PwC, Concentrix, Teleperformance, TTEC, Conduent, Crescendo, DeepOpinion, Otera, RapidCanvas, AuxoAI, Distyl AI
+**Example companies:** Accenture, Deloitte, Cognizant, TCS, Teleperformance, Conduent, Crescendo, DeepOpinion, Otera, Distyl AI
 
 ## E. Vertical Applications
 
@@ -116,7 +116,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Salesforce bundles its own sales agents to replace point tools, squeezing standalone vendors in its accounts.** Salesforce says its $550 Agentforce 1 Edition replaces roughly $1,300 of point-solution spend per US sales rep (Salesforce) [src-20260909-c1900d].
 - **Why we should not focus here: Customer service proves that buyers will pay per result, but the labs, the help desk platforms and the contact-center incumbents all sell the same countable unit at falling prices.** Sales agents are paid on meetings and leads that are easy to count and easy to game, so buyers churn when quality slips, and the customer database owners bundle their own agents. Buyers in both functions keep their data so they can switch, and the customer service leaders already raised at roughly 45 to 100 times ARR by our estimate (company reports) [src-20260504-c9d184] [src-20261025-07358d] [src-20260127-5d9191], which leaves a new entrant little room to win share or earn a strong return. We should use customer service prices as the benchmark for other functions and make no new bets in the category.
 
-**Example companies:** Sierra, Decagon, Cresta, Parloa, Lorikeet, Gradient Labs, PolyAI, ElevenLabs, Omilia, respond.io, Actively AI, Attention, Vida, Rox, Unify, Clay, 11x, Artisan, Nooks
+**Example companies:** Sierra, Decagon, Cresta, Parloa, Lorikeet, Gradient Labs, PolyAI, ElevenLabs, Omilia, Actively AI, Vida, Rox, 11x, Artisan
 
 ### E2. Back-Office Operations: Finance, Accounting and Procurement
 
@@ -131,7 +131,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Most finance agent companies do not disclose their pricing, so the move to pricing per unit of work is less proven than in customer service.** Xelix, Tabs and Stuut all announced funding without saying how they charge customers (Xelix, Tabs and Stuut) [src-20250721-54e512] [src-20250916-6b0cd0] [src-20251120-b7dfc3].
 - **Why we should focus here: Finance and procurement work repeats every month, is easy to count and costs money when it goes wrong, so buyers pay for agents that cut the cost of each invoice, collection or order.** The agents sit on the buyer's ERP, so the result is counted in a record the buyer already trusts, deployment can take days and nobody has to replace a system to start. The work also runs across suppliers, banks and email outside any single record, which makes it harder for an ERP vendor to absorb than a help desk task. Revenue recurs with the monthly close and grows with the spend the agent handles, and we should back companies whose cost per invoice or order already falls with each new customer, because that is when margins move toward software levels.
 
-**Example companies:** Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Rillet, Campfire, Tabs, Stuut, Hebbia, Pigment, Didero, Lio, Magentic, Walter, Pactum, Pavus AI, HappyRobot, Augment, Levelpath, Omnea, Zip, Pivot
+**Example companies:** Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Tabs, Stuut, Didero, Lio, Magentic, Walter, Pactum, HappyRobot, Augment
 
 ### E3. Regulated Services: Healthcare, Insurance, Legal and Life Sciences
 
@@ -147,4 +147,4 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Legal work depends on judgment, so lawyer time per matter falls slowly and keeps margins below software levels.** Crosby's Ryan Daniels tracks lawyer review minutes every week and says the firm lost a lot of money on its pricing before getting it right (Stanford Law School) [src-20261025-1fbd1c].
 - **Why we should focus here: Regulated services are paid by the claim, the policy, the matter or the run, so outcome pricing ties revenue to a unit the buyer already buys from outsourcers and law firms.** Companies that hold a license or take legal responsibility for the result keep more of the price than tool vendors, know rules the labs do not learn from public data and face the least pressure from cheaper open models. Healthcare billing agents are paid on cash the provider sees in its own books, and Epic's limits matter least in independent and specialty practices. As the labs make drafting tools cheap, we should back the firms that sell finished legal work under their own license, because they keep the price of the outside counsel they replace. Research outcomes take years to prove, and within seven months of launching at $200 per run, Edison ended its founding subscriptions and moved access to application only, with new pricing not yet announced (Edison Scientific) [src-20251105-cdfbed] [src-20260519-9cb3f1], so in life sciences we should back companies that already show repeat paid runs at the same customer.
 
-**Example companies:** Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, Tennr, Assort Health, Thoughtful AI, Abridge, Pace, Sixfold, Reserv, Harper, Federato, FurtherAI, ClearRisk AI, Notch, Crosby, Eudia, EvenUp, Supio, Harvey, Ivo, Wordsmith, Edison Scientific
+**Example companies:** Adonis, Amperos Health, Candid Health, GenHealth.ai, Procode, Prosper AI, Tennr, Assort Health, Thoughtful AI, Pace, Sixfold, Reserv, Harper, FurtherAI, Notch, Crosby, EvenUp, Wordsmith, Edison Scientific

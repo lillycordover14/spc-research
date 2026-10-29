@@ -2,6 +2,26 @@
 
 Run on every version of insights/OBA-theme-memo.md (source of truth) and its Word and PDF exports. The automated checks live in /workspace/oba-memo/qa.py on the box. The script was made stricter for v3 after an outside review of v2 (commit 6a9134d) found that our own v2 checklist had marked every item as passing when only 4 of 10 passed in full, 4 passed in part and 2 failed. This file records v3 results honestly, including what the script cannot catch.
 
+## v4 results, 2026-10-29
+
+v4 applies the two blocking fixes from the outside review of v3 (commit 0ad733a) plus its nits, each checked against the filed source.
+
+- **Blocking fix 1, B focus lead:** it now carries the don't-focus call ("Systems of record are established incumbents that most agent spending will run through, so they matter to us as the channel, the likely acquirer and the main absorber of any startup whose work they can copy"). The repeat of "three other roles" is cut.
+- **Blocking fix 2, Edison wording:** now matches src-20251105-cdfbed (launch at $200 per run on 2025-11-05) and src-20260519-9cb3f1 (2026-05-19: founding subscriptions end, access by application, new pricing to be announced).
+- **Nits:**
+  - Truist line paraphrased as "especially favors systems of record".
+  - Collibra example restated without a vague reference.
+  - Magentic now carries the sourced $100M to $200M.
+  - Fin named consistently, with a plain-words first mention.
+  - Dermatology point cut from T2 and kept in E3.
+  - "model release" no longer used twice.
+  - "target discovery" and "demand package" explained.
+  - Lassie dropped, because it is not in the primer.
+- **Strict QA (qa.py):** 0 strict flags. Three NUM? false positives remain, all checked by hand: $350,000 and $400,000 are our estimate, and the source has $0.99 as "99 cent". There is 1 "instead of" and 0 dashes. qa.py now measures bold-lead length without the section label.
+- **Primer match:** now has one documented exception, Crescendo in D.
+- **Length:** 8 pages, 5,055 words. Sewon styles carry through.
+- **Validate:** passed.
+
 ## v3 results, 2026-10-29
 
 1. **Structure: two parts and five theses.** Pass. The script checks the h1 count, the five numbered theses and 3 to 5 bullets each (5, 4, 4, 4, 4). The thesis order is tailwinds and why now, then the edge for new companies, buyers, unit economics, and the main risk with where new companies win.

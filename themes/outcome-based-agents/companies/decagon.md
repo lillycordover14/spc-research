@@ -8,7 +8,7 @@ founded: null
 layer: vertical-outcome
 layers:
 - vertical-outcome
-model: unknown
+model: usage-priced
 what: AI customer-support agents for enterprises.
 fit: []
 stage: unknown
@@ -65,8 +65,9 @@ sources:
 - src-20260518-714b0a
 - src-20241113-d5f4fa
 - src-20261022-c0698e
+- src-20261029-58b696
 data_quality: Benchmark card, unsourced. Fill from sources.
-updated: '2026-10-23'
+updated: '2026-10-29'
 ---
 
 ## What they do

@@ -12,7 +12,8 @@ layers:
 - orchestration
 model: unknown
 what: Builds digital twins of employees and business objects from data about how work is done (what people do, how and in what order) and uses that context to coordinate outcomes such as sales, renewals and escalations.
-fit: []
+fit:
+- owns-work-context
 stage: unknown
 total_raised_usd: null
 last_round:
@@ -40,6 +41,7 @@ tags:
 - digital-twin
 - task-mining
 - sales-revops
+- memo-C
 match_context:
 - agent
 - murty
@@ -53,8 +55,10 @@ sources:
 - src-20250829-31a67a
 - src-20260318-033caf
 - src-20261026-2970d7
+- src-20251229-050f87
+- src-20261029-3f0bd1
 data_quality: Seed card from Harmonic, pulled 2026-10-23. No funding recorded in Harmonic; relationship to Soroco (spinout vs new company) unverified.
-updated: '2026-10-23'
+updated: '2026-10-29'
 ---
 
 ## What they do
@@ -83,3 +87,7 @@ Candidate tests to verify: owns-work-context (the core claim), lab-resistant, in
 ## People
 - Rohan Murty, Founder
 - George Nychis, Co-founder & CTO
+
+## v7 verification (2026-10-29)
+
+Site (src-20261029-3f0bd1) sells 'missions', long-running business goals such as finding hidden revenue, catching escalations early and recovering cash at risk, carried out by on-device employee 'twins' that coordinate across teams. Company claims: live in the Fortune 500, no integrations, running in 48 hours, $380M net-new pipeline. Moneycontrol (src-20251229-050f87): live and generating revenue; ContextFabric captures decisions, exceptions and approvals from live workflows; backed by Bob McGrew and Chris Re. Pricing not public. Verdict: work-context and orchestration layer that frames its product around outcomes, not an agent that completes a defined unit of work for a per-outcome fee. Kept in category C as the work-context example.

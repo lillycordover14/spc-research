@@ -9,7 +9,7 @@ founded: null
 layer: vertical-outcome
 layers:
 - vertical-outcome
-model: unknown
+model: outcome-priced
 what: Customer-experience AI agents for large consumer brands, co-founded by Bret Taylor and Clay Bavor; publicly associated with outcome-based pricing.
 fit: []
 stage: unknown
@@ -78,7 +78,7 @@ sources:
 - src-20250703-8a38e7
 - src-20261022-c0698e
 data_quality: Benchmark card, unsourced. Fill stage, funding, pricing model and customers from sources; set model to outcome-priced only with a source.
-updated: '2026-10-23'
+updated: '2026-10-29'
 ---
 
 ## What they do

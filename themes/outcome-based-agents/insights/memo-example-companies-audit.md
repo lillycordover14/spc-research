@@ -16,6 +16,16 @@ Requested by Lilly ("make sure all outcome-based agents as getting very broad so
 - E3. Regulated Services: Healthcare, Insurance, Legal and Life Sciences: 26 to 19 to 19
 - Total: 131 to 81 to 76
 
+## v7 (2026-10-29): rebuilt from outcome-based-agents-verified.md
+
+Lists now come from insights/outcome-based-agents-verified.md, which applies one test (completes a defined unit of work end to end, and is paid per outcome or per completed unit, or takes responsibility for the result) and records pricing evidence for every name. Core outcome-priced names lead each list. A, B and D keep their framing as suppliers and incumbents.
+
+- Restored: Workfabric AI to C (work-context example; not outcome-priced, pricing unknown).
+- Added: Lorikeet and Gradient Labs moved to the front of E1 on verified per-resolution pricing; Basis and Magentic moved to the front of E2 on outcome pricing; new E2 names fileAI and Freehand; new E3 names Anterior, SmarterDx, Strala and Lawhive.
+- Cut: 11x, Artisan, Rox, Actively AI (E1); Xelix, Tabs, Stuut (E2); Thoughtful AI, Wordsmith, Notch, Adonis, Assort Health (E3).
+- Reordered: B puts Salesforce (owner of Fin), Zendesk and HubSpot first; D puts Crescendo, DeepOpinion, Otera and Distyl AI ahead of the incumbents.
+- Counts v6 to v7: A 7 to 7, B 7 to 7, C 5 to 6, D 10 to 10, E1 13 to 9, E2 15 to 14, E3 19 to 18. Total 76 to 71.
+
 ## A. Labs and Hyperscalers / Agent Infrastructure
 
 | Company | Decision | Reason | Source |

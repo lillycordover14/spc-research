@@ -8,7 +8,7 @@ founded: null
 layer: vertical-outcome
 layers:
 - vertical-outcome
-model: unknown
+model: platform-license
 what: AI supplier negotiation; per a procurement BPO CEO no client lets it negotiate without a human in the loop
 fit: []
 stage: unknown
@@ -31,8 +31,9 @@ sources:
 - src-20261027-7e9413
 - src-20261021-b65bc4
 - src-20261022-967c60
+- src-20261029-a2fafb
 data_quality: Stub from src-20260617-937cc1; what from the expert call, other fields n/v
-updated: '2026-10-27'
+updated: '2026-10-29'
 ---
 
 ## What they do

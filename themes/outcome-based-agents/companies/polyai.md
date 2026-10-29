@@ -8,7 +8,7 @@ founded: null
 layer: vertical-outcome
 layers:
 - vertical-outcome
-model: unknown
+model: usage-priced
 what: UK voice-first customer service agents for enterprise contact centers.
 fit:
 - in-production
@@ -35,8 +35,9 @@ tags:
 sources:
 - src-20260115-f3635c
 - src-20260226-87dd95
+- src-20261029-dabc99
 data_quality: Card promoted 2026-10-28 by grokbot at 2 independent sources (funding report plus VC primer). Company-only claims labeled. n/v fields left blank.
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 
 ## What they do

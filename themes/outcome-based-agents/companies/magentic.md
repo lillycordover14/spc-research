@@ -8,7 +8,7 @@ founded: null
 layer: vertical-outcome
 layers:
 - vertical-outcome
-model: unknown
+model: outcome-priced
 what: Procurement and supply-chain agents that work across ERP data for manufacturers.
 fit:
 - measurable-roi
@@ -40,8 +40,9 @@ sources:
 - src-20260923-47e348
 - src-20260209-7ec831
 - src-20260617-937cc1
+- src-20260723-5994c7
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
-updated: '2026-10-25'
+updated: '2026-10-29'
 ---
 
 ## What they do

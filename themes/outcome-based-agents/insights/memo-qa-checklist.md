@@ -2,6 +2,13 @@
 
 Run on every version of insights/OBA-theme-memo.md (source of truth) and its Word and PDF exports. The automated checks live in /workspace/oba-memo/qa.py on the box. The script was made stricter for v3 after an outside review of v2 (commit 6a9134d) found that our own v2 checklist had marked every item as passing when only 4 of 10 passed in full, 4 passed in part and 2 failed. This file records v3 results honestly, including what the script cannot catch.
 
+## v7 (2026-10-29)
+
+- Strict QA (qa.py): STRICT_FLAGS 0; only the known NUM? false positives ($350,000, $400,000, $0.99). Words 5,123. Pages 8. "instead of" used once.
+- qa.py EXTRA extended for names outside the primer cuts: Workfabric AI (C), fileAI, Freehand (E2), Anterior, SmarterDx, Strala, Lawhive (E3).
+- Every new body sentence cites a filed source; company statements labeled claim. No em dashes.
+- Trims to hold 8 pages: dropped the Clay clause (E1), the Prudential and EvenUp 10,000-cases clauses (E3), the Edison 79.4% figure and the application-only detail, and the Adonis NRR sentence; Rillet tailwind replaced by Basis and Freehand.
+
 ## v6 (2026-10-29): AI-Native Production QA fixes
 
 - A focus lead replaced with: "The labs and hyperscalers own the models and agent platforms that every other category runs on, so in this theme they act as the suppliers and likely acquirers our startups depend on." The modest-exit sentence is now labeled by our estimate.

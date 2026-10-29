@@ -1,4 +1,4 @@
-# Index stats — Vertically Integrated Industries — 2026-10-28
+# Index stats — Vertically Integrated Industries — 2026-10-29
 
 - sources: 2018  | companies: 162 | people: 16
 

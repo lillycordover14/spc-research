@@ -1,4 +1,4 @@
-# Index stats — Power and compute: the AI buildout bottleneck — 2026-10-28
+# Index stats — Power and compute: the AI buildout bottleneck — 2026-10-29
 
 - sources: 289  | companies: 16 | people: 0
 

@@ -2,196 +2,116 @@
 
 ## Initial takeaways on minerals, metals, manufacturing and chemistry
 
-_Smith Point Capital theme memo, v3, October 28, 2026. Drawn from our primer (v10.1), its sources and new research on Chemify and Warp Sciences. Company statements are labeled as claims._
+# 1. Tailwinds, key takeaways and macro
 
-# What this theme is
+This theme covers companies that make physical things in their own plants, such as metal parts, magnets and molecules, and use their own software and AI to make them faster and with fewer skilled people than older competitors. They earn money on what they ship. We call them vertically integrated because one company owns the whole job, from taking the order to shipping the product. The takeaways below cover why demand is rising, what makes these businesses hard to build, and where the money ends up.
 
-This theme covers companies that make physical things in their own plants and use their own software and AI to make them faster, and with fewer skilled people, than older competitors. Their revenue comes from the part, metal or molecule they ship. We call them vertically integrated because one company owns the whole job, from taking the order to shipping the product.
+1. **Some tailwinds behind US production are lasting and others can reverse. The lasting ones are what we should build a thesis on.**
+- **Lasting:** China's control of mineral refining and magnets, the shortage of skilled factory workers, and the years it takes a big buyer to approve a new supplier. None of these goes away with an election or a budget cycle.
+- **Temporary:** tariffs, the current surge in munitions spending and interest rates. Tariffs are set by proclamation and can change overnight. Munitions money depends on bills Congress has not passed. The Fed raised rates to 3.75-4.00% in September, and spending on new factory construction was down 21.9% year on year by May 2026 (Federal Reserve, ENR).
+- **Implications:** we should favor companies that still work if tariffs fall and the munitions surge slows. That means owning approved capacity that buyers need for a decade, and avoiding businesses whose margin exists only because of a tariff.
 
-Hadrian is the clearest example. It machines metal parts for rockets, missiles, satellites, jets and submarines in automated factories in California and Arizona. Its in-house software handles quoting, programming the machines, scheduling and quality checks. A customer sends a drawing and gets parts back. Lockheed liked the result enough to put Hadrian's cells inside its own missile plant.
+2. **China's hold on minerals and magnets is the most lasting limit in the theme.**
+- China leads refining in 19 of 20 strategic minerals, with about 70% average share (IEA). Refining is the step that turns ore into pure metal. China also makes about 94% of the world's rare-earth magnets (Mining.com). These magnets go into drones, missiles, motors and robots.
+- The US is fully import-reliant for 16 critical minerals (USGS). China has already used export controls on these materials, and its current pause on those controls ends on November 10 and November 27, 2026.
+- This is why buyers and the government will pay for a non-Chinese supply even when it costs more. It also means the plants that fix this problem are expensive and slow to build, which takeaway 5 covers.
 
-Picture the supply chain as a ladder. Companies mine ore, then refine it into pure metals and products like magnets. Distributors cut metal to size. Fabrication shops cut, bend and weld it into frames and enclosures. Precision shops make tight-tolerance parts by computer-controlled machining (CNC), metal 3D printing or casting, mostly for aerospace and defense. Chemistry sits alongside: making the molecules that drug and materials programs need. At the top sit the primes, the few big contractors (Lockheed, RTX, Northrop, General Dynamics, Boeing) that sell finished weapons and aircraft to the government.
+3. **Defense demand and government money are real, but much of the money is conditional and slow.**
+- The FY27 budget request asks for $49.5B for 10 key munitions, about 8.5 times the past decade's average. About 82% of that depends on a reconciliation bill Congress has not passed (CNAS). The Navy is putting $900M into plants that make submarine parts (Breaking Defense).
+- The FY26 defense bill lets the Pentagon buy munitions over several years and commit to purchases of up to 10 years, with advance payments. That is new and helpful, though each year still needs Congress to approve the money (FY26 NDAA).
+- Government now acts as lender and investor. The Pentagon's Office of Strategic Capital (OSC), which lends to companies in key supply chains, has made a $620M loan to one magnet maker and a $500M conditional loan to a rare-earth metals maker, and about $20B is requested for FY27 (Mintz). The Department of Energy's loan office has over $289B of lending authority (DOE). Governments worldwide put about $65B into minerals in 2025 (IEA). These loans take a long time to close and come with conditions.
 
-Why now? China has shown it will cut off critical minerals and magnets. The Pentagon needs far more missiles and ships than its suppliers can make. Washington is lending, buying and taking equity stakes to get US production built. And the owners of America's small machine shops are retiring with no one to replace them.
+4. **The labor gap is lasting, and it is driving owners of small shops to sell.**
+- US manufacturers need to fill about 3.8M jobs by 2033, and about 1.9M of them may go unfilled (Deloitte).
+- Of 17,156 US machine shops, 83% have fewer than 20 employees (Census). Many owners are near retirement with no one to take over. That creates a supply of certified shops for sale at reasonable prices.
+- Fewer skilled people means a plant that needs fewer of them can grow where others cannot. This is the opening for software and automation in takeaway 7.
 
-# 1. Key takeaways
+5. **Capex before contracts is the central risk. A factory has to spend its money before it wins the orders.**
+- Capex means capital spending on buildings, machines and certifications. A big defense contractor, often called a prime, won't approve a new supplier or sign a volume contract until the plant exists and is certified. Approval takes 1-3 years. In expert calls, one prime said 9-12 months and another said one to two years.
+- The numbers are large. One precision-parts maker committed about $200M to a single Arizona plant (Plant Services), and its CEO says capex runs about two years ahead of revenue (claim). Process plants need about 80-85% use of capacity to make money (FTI Consulting). A hardware company at Series B often has about $10M of revenue and break-even gross margins (Lowercarbon).
+- This hurts venture returns. Equity spent on a building earns building-like returns and dilutes founders before the first big order arrives.
+- The winners shift who pays for the build. Options include government loans and grants, a buyer that agrees to purchase output before the plant is built (the Pentagon agreed to buy all of one magnet plant's output for 10 years, with a price floor), a customer that hosts the factory inside its own plant (one 7-year deal), bank debt once revenue exists, leased buildings, franchising, and buying plants that are already certified. One roll-up founder said they buy shops at about seven times annual earnings (claim).
 
-Five steps, each building on the last: demand, capex risk, margin, AI's edge, incumbents.
+6. **Buyers pay for speed and spare capacity. Few pay for a lower price, so the margin goes to whoever owns the output and holds the approvals.**
+- "Cost is secondary. Cost is driven usually by schedule," a director at a large defense contractor said in an expert call. An engineer there would pay 20-40% more to avoid a delay. The premium is highest on prototypes, spare parts and urgent orders, and it fades at volume.
+- Owning the plant pays. One listed parts maker earns a 49% gross margin in its own plants and 31% on work it farms out to partner shops (company filings). Approved incumbents earn well too: a large engine-parts unit runs a 37.7% EBITDA margin (earnings before interest, taxes, depreciation and amortization). Aerospace programs can run about 50 years, so an approval keeps paying.
+- Selling software or machines to factories and mines has been hard. One 3D-printer maker fell from a $2.1B value to a $42.5M sale (3D Printing Journal). An AI-run machining startup in Germany went insolvent in August 2026. Buyers cap each supplier at about a quarter to a third of their work, so even a winner grows one share at a time.
 
-**1. Demand for US production is large and mostly lasting, but much of the money is conditional.**
+7. **AI's edge today is in the work around the machine and in processes that run nonstop. Nobody has shown yet that it makes each unit cheaper as volume grows.**
+- Around the machine means quoting, planning, writing the instructions a machine follows (CAM programming), inspection and paperwork. One startup claims it cut assembly-instruction writing from about 10 hours to 15 minutes (claim). A former employee of one parts maker said its time from order to first part fell about 50% over two years.
+- The machines themselves are underused. In a survey of more than 100 plants, cutting machines ran about 34% of the time against a 70% target. European process plants run at about 74% of capacity against the 80-85% they need (FTI Consulting). Better planning and control software closes that gap.
+- In a plant that runs nonstop, like a chemical or metals line, every extra point of yield (good output per unit of input) is close to pure profit. A head of strategy at a large aircraft maker put net savings from automation, after paying for the machines, at 20-30% at best. Labor is under 10% of the cost of goods in a new automated plant (claim), so the case rests on speed and yield more than headcount.
 
-| Tailwind | Key numbers | Lasting or cyclical | Who it helps most |
-|----------|------------------------|---------|---------|
-| China's hold on refining and magnets | Leads refining in 19 of 20 strategic minerals at about 70% share (IEA); about 94% of rare-earth magnets (Mining.com); US fully import-reliant for 16 minerals (USGS) | Lasting. China's pause on export controls ends Nov 10 and Nov 27, 2026 | Magnet and metal makers; parts makers that need secure inputs |
-| Munitions and shipbuilding | $49.5B for 10 munitions in the FY27 request, 8.5x the past decade's average, but 82% depends on an unpassed reconciliation bill (CNAS); $900M of Navy money for submarine-part plants (Breaking Defense) | Need is lasting; funding timing is cyclical | Precision parts and structures |
-| Multi-year buying in law | FY26 defense bill allows multi-year munitions buys and purchase commitments of up to 10 years with advance payments (FY26 NDAA) | Lasting law; each year still needs appropriations | Producers with a plant already running |
-| Government lending and equity | Pentagon OSC (Office of Strategic Capital) loans of $620M to Vulcan and $500M (conditional) to Phoenix, about $20B requested for FY27 (Mintz); DOE loan office has over $289B of authority (DOE); $65B of public minerals money worldwide in 2025 (IEA) | Mixed. Large, but conditional and political | Capital-heavy producers that can carry debt |
-| Labor gap | 3.8M manufacturing jobs to fill by 2033, 1.9M may go unfilled (Deloitte); 83% of 17,156 US machine shops have under 20 staff (Census) | Lasting | Automated producers and buyers of old shops |
-| Drug-chemistry onshoring | BIOSECURE became law in Dec 2025; 79% of 124 biotechs surveyed had a China contract manufacturer (BIO); replacing them could take up to eight years (industry estimate) | Lasting policy, slow enforcement | US chemistry labs |
-| Tariffs | 50%, 25% and 10% tiers on metal goods since April 2026 (White & Case); Nucor's margin rose from 14% to 20% | Cyclical. Set by proclamation | Domestic mills first |
-| Reshoring and data centers | Fabricated-metal shipments rose from $471.5B in 2023 to $490.4B in 2025 (Census); only 14 of 64 tariff-linked reshoring announcements had turned into projects by mid-2026 (Reshoring Initiative) | Partly cyclical | Fabricators |
+8. **The key risk is that incumbents automate and buy faster than new companies can grow.**
+- The primes decide who is approved and how much work each supplier gets. The largest aerospace parts supplier saw its share of one buyer's machining fall from about 50% to 30%, and it is now automating (expert call).
+- Big companies buy instead of build. Miners back startups through their venture arms, one paid $6.7B for a lithium producer, and a defense contractor's venture arm led a round in an AI materials startup. Drug companies are building their own AI labs, one with plans for up to $1B.
+- There is still room. The Pentagon relies on more than 200,000 suppliers and has country-of-origin data for fewer than 10% of the lower-tier suppliers on the F-35 (GAO). Most of that base is small, old and short of people, which is where new companies can win.
 
-- Security and labor will keep buyers paying for US capacity for a decade. Budgets and tariffs explain why 2026-27 feels hot, and they could cool.
-- Against us: the Fed raised rates to 3.75-4.00% in September, and manufacturing construction was down 21.9% year on year by May 2026 (Federal Reserve, ENR). Bonus depreciation helps profitable incumbents buy machines.
+# 2. Interesting categories
 
-**2. To serve that demand, a factory has to spend its capital before it wins the contracts. This is the central risk in the theme.**
+The categories below are grouped by where they sit in the supply chain, from parts to plants to materials. For each, we explain why it is interesting and how the business makes money. We rank parts and fabrication highest because demand is strongest there and the capital needed is smallest. Magnets are last because they need the most capital before contracts.
 
-- A buyer won't qualify you or sign a volume contract until the plant, machines and certifications exist. Hadrian's CEO says "no one's going to give you a production contract unless you've already started executing," and capex runs about two years ahead of revenue (claim). Qualification takes 9-12 months at Raytheon and one to two years at Northrop (expert calls).
-- Examples: Hadrian committed about $200M to its Mesa, Arizona plant (Plant Services). Divergent is filling a 430,000-square-foot Long Beach factory sized mostly for missile work still waiting on the FY27 budget. Vulcan is building a 10,000-ton magnet plant with no commercial buyer named. Phoenix announced a $375M Rochester plant with one $100M automaker contract. Chemify's second lab is part of an £89.9M expansion (The Scotsman).
-- Equity spent on a building earns building-like returns. A hardware company at Series B often has about $10M of revenue and break-even gross margins (Lowercarbon).
-- The best companies move the risk to someone else: government loans (Vulcan's $620M), offtakes signed before the build (the Pentagon agreed to buy all of MP Materials' next magnet plant output for 10 years, with a price floor), customer-hosted cells (Lockheed and Hadrian, 7 years), bank debt once revenue exists (Hadrian's $360M credit line), leases (Senra's second plant), franchising (Isembard) and buying plants that are already certified (Amca).
+## A. Defense and aerospace parts
 
-**3. The companies that do build, own the output and get approved keep the margin. Buyers reward them for speed more than price.**
+**How it ties to takeaways 3, 5 and 6:** takeaway 3 says defense demand is rising, takeaway 5 says the plant has to exist before the contract, and takeaway 6 says buyers pay for speed and keep paying once a supplier is approved. Parts makers sit where all three meet.
 
-- Owned plants earn more than partner networks. Proto Labs makes 49% gross margin in its own plants and 31% on work it farms out (Protolabs). Approved incumbents earn well: Howmet's engine unit runs a 37.7% EBITDA margin and Carpenter 32.1%.
-- Buyers pay for speed on prototypes, spares and urgent orders. "Cost is secondary. Cost is driven usually by schedule" (Northrop director). A Northrop engineer would pay 20-40% more to avoid a delay. The premium fades at volume, and buyers cap each supplier's share. Hadrian holds 2-3% of one Boeing unit's precision spend (expert calls).
-- Labor is under 10% of cost of goods in a new automated plant (claim, Drew Baglino), so the pitch is "we deliver when your current shop can't."
+Factories here come in two models. An owned factory is run by the company on its own machines, so it keeps the whole margin and all the data but pays the full cost of building before the orders come. A hybrid model mixes owned plants with capacity someone else paid for, through franchisees, a customer hosting the cells or plants bought from retiring owners. Hybrid companies keep less of each sale but need far less capital. We prefer franchised and acquired-plant models over building every plant from scratch.
 
-**4. AI's real edge is in the office work around the machine and in processes that run nonstop. Nobody has shown it making each unit cheaper as volume grows.**
+### Precision parts for defense and aerospace
+- **Why it's interesting:** Precision parts are metal parts made to very tight limits, by computer-controlled machining (CNC), metal 3D printing or casting. Missiles, jets, satellites and submarines need thousands of them. The shops that make them are small and slow, and a late part holds up a whole program. A new supplier that delivers in weeks gets paid a premium and, once approved, keeps the work for years.
+- **How the business makes money:** The company sells finished parts, usually to a prime or a large supplier under a purchase order or a multi-year contract. The buyer sends a drawing and gets parts back. Margin comes from charging for speed and running machines more hours a day with fewer people, using software for quoting, programming and inspection. Revenue grows as more part numbers get approved.
+- **What it costs to build and the factory model:** An owned plant costs tens to hundreds of millions of dollars before approval; one parts maker committed about $200M to a single plant, and the Navy co-funds some submarine-part plants. Some owned operators also place cells inside a customer's plant, which shares the cost. A franchise network flips the cost: one network claims 14 factories, 4 owned and 10 franchised, where franchisees buy the machines and the company supplies software, orders and quality rules (claim). It also claims it cut one customer's lead time from about 10 weeks to under 14 days (claim). The question for franchising is whether primes accept the same quality across many sites.
 
-- AI speeds quoting, programming and instructions. Arda cut assembly-instruction writing at Anduril from about 10 hours to 15 minutes (claim), and Hadrian's order-to-first-part time fell about 50% over two years (former employee).
-- The data advantage is strongest where every run is measured: Freeform's printers checking each layer, robotic chemistry labs logging failed reactions. A Boeing strategy head puts net savings from automation, after paying for the machines, at 20-30% at best.
-- That points to software paid on output. In a sold-out process plant each extra point of yield is near-pure profit, and European plants average about 74% utilization against the 80-85% they need (FTI Consulting).
-
-**5. The incumbents are automating and buying, so the winners need several buyers and approvals that are hard to copy.**
-
-- The primes decide who is qualified and cap share. Precision Castparts' share of Boeing machining fell from about 50% to 30%, and it is automating (expert call). Pharma is building its own AI labs: Eli Lilly and NVIDIA plan up to $1B for one (Lightspeed).
-- The majors buy rather than build: BHP Ventures backs Mariana, Rio paid $6.7B for Arcadium Lithium, and RTX Ventures led Radical AI's round.
-- Daedalus, an AI-run CNC factory in Germany, went insolvent in August 2026, and Markforged fell from $2.1B to a $42.5M sale (3D Printing Journal).
-
-# 2. Investable now
-
-These companies have revenue or paying partners, a stage and price we can work with (under about $10B), and a plausible answer to the capex problem. Ranked: (1) Hadrian, (2) Isembard, (3) Lumaril, (4) Amca, (5) Senra Systems, (6) Divergent, (7) Freeform, (8) Chemify, (9) SendCutSend, (10) Machina Labs, (11) Vulcan Elements.
-
-Hadrian ranks first on proof: primes qualify it and pay for its parts. Isembard and Lumaril follow because they need the least capital and are raising now. Vulcan is last because it carries the most plant risk.
-
-## A. Precision and defense parts
-
-### Owned vs hybrid
-
-These companies split into two models. Owned companies run their own factories and machines, keep the whole margin and all the data, and carry the full cost of building before the contracts come. Hybrid companies mix their own plants with capacity someone else paid for. They keep less of each sale but need far less capital.
-
-| Company | Model | Who pays for the machines | Who owns the customer | Who carries the capex-before-contracts risk | What it means for margins and returns |
-|---------|---------|----------|---------|----------|------------|
-| Hadrian | Owned, with hosted cells (our primer labels it hybrid) | Hadrian for its own plants; the Navy co-funds the submarine plants; cells at Lockheed sit in Lockheed's building | Hadrian | Mostly Hadrian, shared with the Navy and Lockheed | Full margin and data; returns depend on filling very expensive plants |
-| Divergent | Owned | Divergent (its own printers and Long Beach factory) | Divergent | Divergent alone | Full margin and data; most exposed to FY27 munitions timing |
-| Freeform | Owned | Freeform (its own printers) | Freeform | Freeform, at smaller scale | Same model as Divergent at a much lower entry price |
-| Amca | Owned, by acquisition | Already paid for by the shops it buys | Amca, which inherits the shops' prime relationships | Little build risk; the risk moves to purchase price and debt | Returns come from buying well and lifting margins at existing plants |
-| Isembard | Hybrid (4 owned, 10 franchised sites, claim) | Franchisees for most sites | Isembard | Mostly franchisees | Smaller share of each part's margin, far less capital; works only if quality holds across sites. The split with franchisees is not public |
-
-How it ties to takeaways 2 and 3: every company here sells speed into programs that can last 50 years, and the model decides who pays for the plant. Incumbents leave room because the lower tiers are huge and untracked. The Pentagon relies on more than 200,000 suppliers and has country-of-origin data for fewer than 10% of F-35 sub-tier suppliers (GAO).
-
-### Hadrian ($1.37B Series D, August 2026, at $7.87B; anchored by JPMorgan's Strategic Investment Group; about 643 staff)
-
-- Overview and use cases: Hadrian makes CNC-machined metal parts for rockets, missiles, satellites, jets and, from 2026, Virginia- and Columbia-class submarines. Its factories in Torrance, California and Mesa, Arizona run on its own Opus software, and it also runs cells inside customer plants such as Lockheed's. Customers include Lockheed, RTX, Anduril and the Navy.
-- Thesis: Hadrian has more proof than anyone in the theme that primes will qualify and pay a new producer, and it has shown the capex playbook in takeaway 2: Navy co-investment, a Lockheed-hosted cell deal and a $360M credit line (ABL Advisor). Our help would be introductions to commercial buyers outside defense.
-- Areas to diligence: A former employee called it "not ... a fantastically profitable business," so we need margins at $7.87B. We would test whether Opus lowers unit cost over time and how Hadrian grows past the 25-30% share buyers allow. Its CEO says some Chinese parts land at about a third of his cost (claim). Access to an allocation is to confirm.
-
-### Isembard ($50M Series A, March 2026, led by USV; claims 14 factories)
-
-- Overview and use cases: Isembard machines precision parts from aluminum, steel, titanium and Inconel (a heat-resistant nickel alloy) for jet engines, drones, satellite antennas and robots. Named customers include Anduril, Babcock, Tekever and Oxford Space Systems. It runs owned and franchised factories on one system, MasonOS, from a London headquarters with sites in the US, Germany, France and Ukraine. It claims 10x revenue growth year on year.
-- Thesis: Franchisees pay for the machines while Isembard supplies software, orders and standards. That is the lightest-capex answer to takeaway 2. It claims it cut one customer's lead time from about 10 weeks to under 14 days at the same price. In September 2026 it said it expects to raise significant additional funding.
-- Areas to diligence: We would ask what a franchisee earns, what Isembard keeps and how fast a site turns a profit. A Thales Alenia Space procurement head doubted primes will accept quality across franchised sites.
-
-### Amca ($300M Series B at over $1B, led by Caffeinated Capital and Lightspeed; revenue to confirm)
-
-- Overview and use cases: Amca buys certified aerospace and defense component makers and modernizes them. It owns eight plants, including Electrocube in Pomona, California, that make hydraulic and electrical parts, switches, valves, transformers and power supplies for the F-35, F-16, F/A-18, Mk-48 torpedo and M1 Abrams. Its AI platform, RAPID, handles engineering and requalification. It claims an Army Materiel Command contract and work with over a dozen primes.
-- Thesis: Amca buys capex and qualification that already exist, often for single-source parts primes can't easily move, then adds software to lift margins. A buy-and-improve platform suits our operating and partnership support.
-- Areas to diligence: Revenue, EBITDA and the price paid per plant are to confirm. One roll-up founder said they buy shops at about seven times EBITDA (Re:Build). We would test whether RAPID lifts margins, how much debt sits on the plants, and whether key engineers stay.
-
-### Divergent ($290M Series E, September 2025, at $2.3B; over $1B raised; about 500 staff)
-
-- Overview and use cases: Divergent designs and 3D-prints metal structures for missiles, aircraft and cars, then assembles them with robots and no fixed tooling. It builds its own printers and charges per part. Named customers include Lockheed, RTX, General Atomics, Saab, Bugatti and McLaren. It is a second source for Raytheon's Tomahawk midbody, with production aimed for early 2027.
-- Thesis: It owns everything from design software to factory, sells into both defense and cars, and claims 2025 revenue grew more than 5x. The two-market mix hedges budget risk.
-- Areas to diligence: Long Beach is the biggest capex-before-contract bet in our set, since about 80% is sized for defense volume (CEO). Cost parity with casting is only the CEO's claim. A newer priced round is to confirm.
-
-### Freeform ($67M Series B, February 2026; about $179M post-money per PitchBook)
-
-- Overview and use cases: Freeform 3D-prints metal parts that carry fluid and heat, like heat exchangers, manifolds and rocket-engine injectors, for space, defense, energy and chip-equipment customers (claim). Its own multi-laser printers use cameras and AI to correct each layer as it prints. It sells the parts and keeps the printers. It reports hundreds of parts a week and has a Defense Innovation Unit contract.
-- Thesis: Freeform has the best data story in manufacturing, because every layer is measured (takeaway 4), at the cheapest entry in this area.
-- Areas to diligence: Customers are undisclosed, so we need reference calls. We haven't seen yield trends over time, and whether its large new printer is running is unconfirmed.
+### Buying and automating certified shops
+- **Why it's interesting:** Takeaway 4 says thousands of small shop owners are retiring. Their plants already hold the hard part: certifications and approvals on parts that are often single-source, meaning only one supplier is approved. Buying a plant skips the 1-3 year approval wait in takeaway 5.
+- **How the business makes money:** The company buys a profitable, certified shop, keeps its customers and contracts, and adds software and automation to raise output and margin. It earns the shop's existing profit from day one and grows it. Certified here usually means AS9100, the quality standard for aerospace and defense suppliers.
+- **What it costs to build and the factory model:** This is owned by acquisition. The machines are already paid for, so build risk is low. The risk moves to the purchase price, the debt used to pay it and whether key engineers stay. One roll-up founder said they pay about seven times annual earnings (claim). One platform owns eight acquired certified plants making parts for fighter jets, torpedoes and tanks.
 
 ## B. Fabrication and assembly
 
-How it ties to takeaways 2 and 3: these companies sell speed on high-mix work (many small, different orders) from plants that cost tens of millions. Senra and SendCutSend own their plants; Machina is hybrid, because it also places robot cells at customer sites. Incumbent shops are small, aging and short of programmers, and their machines cut metal only about 34% of the time against a 70% target (industry survey of 100+ plants).
+**How it ties to takeaways 1 and 6:** takeaway 1 says we want demand that lasts past tariffs, and takeaway 6 says buyers pay for speed. Fabrication serves defense and every other kind of hardware company, and the best operators turn reorders in about a day.
 
-### Senra Systems ($65M Series B, July 2026, co-led by Lowercarbon and Interlagos; about 190 staff)
+Fabrication means cutting, bending and welding metal into frames, brackets and enclosures, plus assembling parts like wire harnesses. The work is high-mix, meaning many small orders that are each a bit different. Plants cost far less than precision or materials plants, so the capex risk is smaller.
 
-- Overview and use cases: Senra makes wire harnesses and cable assemblies, the bundles of wires and connectors that carry power and signals through aircraft, satellites and defense systems. It builds them in two plants in Redondo Beach and Cypress, California. Its software, Amp, turns a customer's design into a digital model and step-by-step instructions for technicians. It claims it cut harness lead time from six months to two weeks, and says 99% of harnesses pass inspection the first time.
-- Thesis: Harnesses are still made by hand, and a late one holds up the whole aircraft or missile. Senra leased its second plant and opened it within months, the light-capex approach we want. It just raised, so this is a relationship to build for the next round.
-- Areas to diligence: We would check the yield and lead-time claims with customers, gross margin by program and how concentrated repeat revenue is.
+### Custom parts and sheet metal
+- **Why it's interesting:** Hardware startups, robot makers, energy companies and defense suppliers all need custom metal parts fast. Most shops quote by hand and take days to answer. Fabricated-metal shipments grew from $471.5B in 2023 to $490.4B in 2025 (Census), though only 14 of 64 tariff-linked reshoring announcements had become real projects by mid-2026 (Reshoring Initiative).
+- **How the business makes money:** Customers upload a design online, get an instant price and receive parts in days. The company earns a margin on each order and wins on speed and convenience. One online fabricator handles about 32,000 orders a month and says it has been profitable for eight years (claim). Its founder says he beats China on price on only about 20-25% of his work (claim), so speed carries the rest.
+- **What it costs to build and the factory model:** Usually owned plants with lasers, press brakes and finishing lines, costing a fraction of a precision plant. A newer approach uses pairs of robot arms to shape sheet metal without the costly dies a stamping press needs, and sometimes places robot cells at customer sites, which makes it hybrid. Each part takes minutes to hours against seconds on a press (MMS), so it wins on short runs and design changes. The risk is that customers outgrow online fabricators once their volumes rise.
 
-### SendCutSend (Series B at $2.1B, October 2026, after a $1.01B round in May 2026)
+### Wire harnesses and assembly
+- **Why it's interesting:** A wire harness is the bundle of wires and connectors that carries power and signals through an aircraft, satellite or missile. Most are still built by hand, and a late harness holds up the whole system. One maker claims it cut harness lead time from six months to two weeks (claim).
+- **How the business makes money:** The company sells finished harnesses and cable assemblies per program. Software turns the customer's design into a digital model and step-by-step instructions for technicians, which raises the share that pass inspection the first time and lets less experienced workers do the job. Margin comes from fewer reworks and faster delivery.
+- **What it costs to build and the factory model:** Owned plants, but light ones, since the work is mostly benches, testers and people. One maker leased a second plant of about 80,000 square feet and opened it within months. Leasing is the kind of light capex answer to takeaway 5 we want.
 
-- Overview and use cases: SendCutSend cuts, bends and finishes custom sheet-metal parts that customers order online, in plants it owns. It handles about 32,000 orders a month and has been profitable for eight years.
-- Thesis: It proves an owned fabrication business can be profitable at scale, and it was bootstrapped, so earnings paid for the plants.
-- Areas to diligence: The price doubled in five months, and the $2.1B figure comes from a single trade report, so it is to confirm. Customers tend to "outgrow" online fabricators, and the founder says he beats China on only about 20-25% of his work (claim).
+## C. Software that runs a plant, paid on results
 
-### Machina Labs ($124M Series C, February 2026)
+**How it ties to takeaways 5 and 7:** takeaway 5 says plants are expensive to build, and takeaway 7 says AI's clearest edge is in controlling processes that run nonstop. Software that runs an existing plant earns from the plant without paying to build one. It is the closest fit for an enterprise software fund.
 
-- Overview and use cases: Machina shapes sheet metal into missile airframes and aircraft and car panels with pairs of robot arms, skipping the costly dies a stamping press needs. It claims its first plant will make thousands of missile airframes a year.
-- Thesis: A new die takes months and a lot of money, so skipping it suits defense programs whose designs change often. The founder says Machina won't start a project unless the customer commits dollars, which is good capex discipline.
-- Areas to diligence: Each part takes 30 minutes to hours, against seconds on a press (MMS). We would test where it wins at volume, verify the claimed 50x lead-time gain, and split paid production from development work.
+Takeaway 6 warns that selling software to traditional plants has been hard. This category differs on two points: the software adjusts the plant directly, and it is paid on the extra output it creates.
 
-## C. Software that runs plants
+### Plant control software
+- **Why it's interesting:** Chemical, metals and other process plants run below the capacity they need, about 74% in Europe against 80-85% (FTI Consulting). In a sold-out plant, each extra point of throughput or yield is close to pure profit. The old control-system vendors mostly sell hardware or advise operators, which leaves room for software that acts.
+- **How the business makes money:** The software connects to the plant's existing controls, adds cheap sensors such as cameras and microphones, builds a live model of the plant and adjusts setpoints itself through a safety layer. A setpoint is a target such as a temperature or a flow rate. One startup says it is paid on the production it adds (claim). That makes revenue a share of new profit, so the buyer sees the value before it pays.
+- **What it costs to build and the factory model:** No factory. The cost is engineering, sensors and long deployments at each plant. The hard parts are agreeing on a fair baseline for results-based pricing and getting a plant's safety team to approve software that makes changes on its own. Buyers are large industrial companies, where our go-to-market and partnership help counts.
 
-How it ties to takeaways 2 and 4: this is the way to back the theme without carrying a plant. Rockwell, Siemens and the process-control vendors (Honeywell, AspenTech, Emerson) sell hardware first or advise operators, which leaves room for software that runs the plant and is paid on what it adds.
+## D. Automated chemistry labs for pharma
 
-### Lumaril ($12M seed led by Lux; a WSJ Pro headline reports a $66M round at $400M)
+**How it ties to takeaways 1, 6 and 7:** takeaway 1 lists drug-supply security as a lasting push, takeaway 6 says owning the output keeps the margin, and takeaway 7 says AI does best where every run is measured. Robotic chemistry labs meet all three. They are early and still need paying customers.
 
-- Overview and use cases: Lumaril connects to a process plant's existing controls, adds cheap audio and video sensors, builds a live model of the plant and adjusts setpoints itself, through a safety layer, to raise throughput and yield. A setpoint is a target such as a temperature or flow rate. It says "We're paid on the production we add" (claim). The founders built Palantir Foundry, Palantir's commercial data platform.
-- Thesis: Lumaril earns like a producer with no capex, and because it runs the plant directly it builds the data a plant owner would. The buyers are large industrial enterprises, where our partnership help counts. It is early, but we rank it third because the model fits us best and a round appears to be under way.
-- Areas to diligence: Customers and results aren't public, so we need one plant's before-and-after yield. We would ask how the outcome-pricing baseline is set and how a plant's safety team approved software that adjusts the plant on its own. The round size comes only from a paywalled headline.
+Drug companies send most early chemistry work offshore, largely to China. The two biggest offshore providers are worth close to $100B combined (Lightspeed). BIOSECURE, a law passed in December 2025, limits US drug companies' use of certain Chinese biotech suppliers. A survey found 79% of 124 biotechs had a China-based contract manufacturer, and replacing one can take up to eight years (BIO).
 
-## D. AI-run chemistry labs
+### Robotic labs that make new molecules
+- **Why it's interesting:** These labs turn molecule designs into code that robots run, then log every result, including failures. Failed reactions are data most labs throw away, and they make the next prediction better. A US or UK option is attractive to buyers worried about Chinese suppliers.
+- **How the business makes money:** Today they sell discovery chemistry as a service, making small batches of new compounds for drug programs, paid per project or per molecule. Over time some plan to sell predictions about which molecules will work. One lab claims it works with eight of the top 20 drug companies (claim). Most output is milligrams to grams, so this is research work for now.
+- **What it costs to build and the factory model:** Owned labs. Each lab costs tens of millions of dollars, and some have pushed part of that onto governments; one received about £22M of UK and Scottish grants toward its next lab. The risk is that big drug companies build their own robotic labs instead of buying from startups. Until labs show named paying customers at volume, most are not investable now.
 
-How it ties to takeaways 1, 2 and 4: Chemify and Warp Sciences are the only chemistry companies we want in the theme. Both build robotic labs that make small batches of new molecules for drug and materials programs and learn from every run. Drug companies send most of this work offshore, largely to China, and the two biggest offshore providers are worth close to $100B combined (Lightspeed). BIOSECURE and the Pentagon's June 2026 listing of the largest provider as a Chinese military company push buyers toward a US option. Chemify is investable now. Warp is in section 3 because it launched last week with no customers yet.
+## E. Selective: rare-earth metals and magnets
 
-### Chemify (Series B of £51.9M, about $70M, co-led by Wing and Insight Partners; about £110M raised including grants; valuation to confirm)
+**How it ties to takeaways 2 and 5:** takeaway 2 says China's hold on magnets is the most lasting limit, and takeaway 5 says these plants carry the most capex before contracts. We would back at most one company here.
 
-- Overview and use cases: Chemify, a University of Glasgow spin-out founded by chemist Lee Cronin, turns molecule designs into code that robots run to make the compound. It calls this "chemputation," built on its own chemistry programming language and a large library of tested reactions (Insight Partners). Its first automated lab, the Chemifarm, opened in Glasgow in June 2025 and makes molecules at milligram-to-gram scale (claim, SCI). It mainly sells discovery chemistry to pharma. Named partners include Sanacor (heart disease) and the Gates Foundation (tuberculosis), and Cronin claims it works with eight of the top 20 pharma companies (SCI). Staff are about 152.
-- Thesis: Chemify owns the lab, the language and the reaction data, so customers' experiments improve its system. It pushed part of its capex onto government, with £22M of Scottish and UK grants toward its second lab. It plans a US lab, where our go-to-market and pharma introductions could help.
-- Areas to diligence: Revenue is undisclosed, and the "eight of the top 20" claim may include pilots. Milligram-to-gram output means this is research services for now. We would ask whether the US lab is funded and how it competes with pharma's in-house robotic labs.
+We would invest only where government debt pays for most of the plant and a buyer has signed to purchase the output. The only scaled US magnet producer still lost $85.9M on $224.4M of revenue in 2025 (company filings).
 
-## E. Rare-earth magnets
-
-How it ties to takeaways 1 and 2: China's hold on magnets is the most lasting limit in the theme, but these plants carry the most capex before contracts. MP, the only scaled US producer, still lost $85.9M on $224.4M of revenue in 2025 (MP Materials). We would back at most one company here, and only where government debt pays for the plant and a buyer already pays.
-
-### Vulcan Elements ($65M Series A, led by Altimeter; $620M OSC loan)
-
-- Overview and use cases: Vulcan makes NdFeB magnets (named for neodymium, iron and boron) for drones, chip tools, robots and cars from non-Chinese material. It buys refined oxides from ReElement, has a supply deal with Ucore from 2027 and is building a 10,000-ton plant in Benson, North Carolina. The Army chose it for its SkyFoundry drone program.
-- Thesis: A defense buyer already orders its product and government debt pays for the plant, which is the right capex structure. It claims its pilot output is sold out a year ahead.
-- Areas to diligence: Federal awards total only $5.7M across seven contracts (USAspending). We would test unit cost against Chinese magnets and whether commercial buyers sign without subsidy.
-
-## Recommendation
-
-Hadrian, Isembard and Lumaril are the most actionable. Hadrian has already solved the capex problem with Navy money, a Lockheed-hosted deal and bank debt; the question is price and access at $7.87B. Isembard has the lightest capex model and says it expects to raise soon. Lumaril fits an enterprise software fund best, paid on output with no plant. Amca and Senra are close behind.
-
-# 3. Not investable now
-
-| Company or layer | Why not now | What would change our mind |
-|---------|------------|------------|
-| Warp Sciences ($215M Series A, Lightspeed; $865M post per CEO) | Too early. Launched October 22, 2026 with design partners only and no revenue, at a high launch price | Named paying pharma customers and a lab running at volume |
-| Phoenix Tailings ($116.6M Series B in total) | Too capital-heavy for our check. Plans to grow about 15x in two years; OSC loan conditional; no public mine supply | A final OSC loan, signed long-term supply and a round sized for us |
-| Mariana Minerals ($310M Series B, Khosla) | Too capital-heavy. Owns a Utah copper mine and refinery; no copper buyer named | A named offtake and a round we can join at a meaningful size |
-| 1872 ($15M seed) | Too early. No customer evidence; welding AI comes from a partner | A first repeat customer and software it owns |
-| Arda ($160M Series A at $1.5B) | One named customer (Anduril) at a high price | Several factories beyond Anduril paying for it |
-| Radical AI ($55M, RTX Ventures) | No product revenue; a new alloy still needs one to five years of buyer qualification | A signed supply contract with a defense buyer |
-| CuspAI ($450M Series B) | No product revenue; priced on promise | Materials in a customer's product |
-| Periodic Labs ($300M seed), Lila Sciences | Discovery labs valued in the billions before selling anything | A paid commercial product |
-| Earth AI | Exploration. US mines take 15.7 to 19 years from discovery to production; no formal resource estimate yet | A published resource estimate and a buyer for the deposit |
-| Mind Robotics ($3.4B) | One main customer, Rivian, which owns 32.1% of it | Paying customers beyond Rivian |
-| Metal distribution | Incumbents like Reliance are gaining share without AI; value sits in inventory and credit | A distributor showing clearly better margins from software |
-| Greenfield refineries funded with equity | One giant bet better suited to government debt | Debt and offtakes covering most of the build |
-| Bulk and specialty chemical producers | Commodity price fights and long regulatory reviews | Our chemistry exposure comes through Chemify and Warp |
-| Companies valued above about $10B | We can't own enough to matter | A secondary at a price that works |
-
-# 4. What we would underwrite
-
-We back companies that own their output, get paid for speed, and have moved the cost of their plants onto someone else. Five tests:
-
-1. Committed demand before the build: a signed offtake, a prepayment, a customer-hosted deal or a qualified buyer already ordering.
-2. Debt, government loans or grants, customer money, leases, franchisees or an acquired plant pay for most of the capex, so our equity funds software, people and ramp-up.
-3. It owns production or the outcome of production, through its own floor, a franchise network on its software, or pricing tied to the output it adds.
-4. It sells to more than one big buyer and holds approvals that take years to repeat.
-5. It can show with numbers that its software improves yield, lead time, scrap or cost over time.
+### Rare-earth metals and magnets
+- **Why it's interesting:** Rare-earth magnets, mostly the neodymium-iron-boron type, power drones, chip tools, robots and electric motors. Buyers need a non-Chinese source, and the Pentagon has shown it will sign long purchase deals with a price floor to get one.
+- **How the business makes money:** Metal makers turn refined rare-earth oxides into metal; magnet makers turn the metal into magnets. Both sell under long contracts to defense, auto and electronics buyers. Margins depend on beating Chinese prices or on a guaranteed price floor.
+- **What it costs to build and the factory model:** Owned plants, and very expensive ones. One magnet maker is building a 10,000-ton plant with a $620M government loan and no commercial buyer named. A rare-earth metals maker announced a $375M plant with one $100M automaker contract and plans to grow about 15x in two years. These are the clearest cases of capex before contracts, which is why we stay selective.

@@ -55,17 +55,17 @@ This section follows the categories in our primer and covers each one where our 
 
 China's hold on refining makes this the most lasting tailwind in the theme, but these are also the most capital-heavy businesses. Our primer view is selective: attractive in refining when someone else pays for the plant, and early in exploration.
 
-### Stage A: Locating & mining critical minerals
-- **Why it's interesting:** Finding a deposit is slow and mostly fails; one explorer puts success at about 0.5% per project (claim), and US mines take about 19 years from discovery to production. AI can narrow where to drill. Data centers and the grid also need far more copper, so restarting old, permitted mines with automation is attractive.
-- **How the business works:** Explorers own the claims and drill rigs, prove out a deposit and sell it to a miner, for example for about 5% of the metal in the ground plus a royalty (claim). That costs far less than a mine, but revenue comes in lumps years apart. Miners own the mine and sell metal at market prices, which is fully owned and very capital-heavy: about 5 years to build and 3 to 5 to ramp after permits (claim). Software sold to miners on its own rarely sticks.
+### Stage A: Locating & finding minerals and mines
+- **Why it's interesting:** Finding a new deposit is slow and mostly fails. One explorer puts industry success at about 0.5% per project (claim), and US mines take about 19 years from discovery to production. AI can narrow where to drill, and the big miners are paying for that through venture arms and accelerators.
+- **How the business works:** The explorer owns the mining claims and drill rigs, proves out a deposit and sells it to a miner, for example for about 5% of the metal in the ground plus a royalty (claim). It owns the find but not the mine. Costs are drilling and geologists, far less than a mine, but revenue comes in lumps years apart. Software sold to miners on its own rarely sticks; one explorer ran about 80 pilots that did not turn into repeat business.
 
-**Example companies:** Earth AI, KoBold Metals, Terra AI, GeologicAI, Ideon, Mariana Minerals, BHP, Rio Tinto, Caterpillar
+**Example companies:** Earth AI, KoBold Metals, Terra AI, GeologicAI, Ideon
 
-### Stage B: Refining minerals/metals
-- **Why it's interesting:** Chinese refineries take about 6 months to commission against 2 to 4 years in the West. Defense and auto buyers need non-Chinese metal and magnets, and the government is lending and signing long purchase deals to get plants built. Tariffs help too: one large steelmaker's margin rose from 14% to 20%.
-- **How the business works:** The company buys concentrate or scrap and sells refined oxides, metals or magnets under long contracts. It owns the plant, which costs hundreds of millions of dollars. The best deals push that cost onto others: a $620M government loan to one magnet maker, and for the largest incumbent a 10-year price floor and a promise that all output of its next magnet plant will be bought. Without a floor, a US refiner takes prices set in China, and equity-funded refineries are the capex-before-contracts problem at its worst. Even the largest US producer lost $85.9M on $224.4M of revenue in 2025.
+### Stage B: Mining & refining
+- **Why it's interesting:** Data centers and the grid need far more copper, and defense and auto buyers need non-Chinese metal and magnets. Chinese refineries take about 6 months to commission against 2 to 4 years in the West. Restarting an old, permitted mine skips much of the permit wait, and the government is lending and signing long purchase deals to get refineries built. Tariffs help too: one large steelmaker's margin rose from 14% to 20%.
+- **How the business works:** Miners own and run the mine and sell metal such as copper at market prices; automation cuts the number of people needed, and one startup says its restarted Utah copper mine runs about half autonomously (claim). Refiners buy ore concentrate or scrap and sell oxides, metals or magnets under long contracts. Both are fully owned and cost hundreds of millions: about 5 years to build and 3 to 5 to ramp after permits (claim). The best deals push that cost onto others, such as a $620M government loan to one magnet maker, or a 10-year price floor and a promise that all output of the largest incumbent's next magnet plant will be bought. Without a floor, a US producer takes prices set in China. Even the largest US rare-earth producer lost $85.9M on $224.4M of revenue in 2025.
 
-**Example companies:** Vulcan Elements, Phoenix Tailings, Mariana Minerals, ReElement, Ucore, Energy Fuels, MP Materials, Hertha, Cyclic, Mass Magnetics, Duranium, Boston Metal, Electra, Ceibo, Nucor, Carpenter Technology
+**Example companies:** Mariana Minerals, BHP, Rio Tinto, Caterpillar, Vulcan Elements, Phoenix Tailings, ReElement, Ucore, Energy Fuels, MP Materials, Hertha, Cyclic, Mass Magnetics, Duranium, Boston Metal, Electra, Ceibo, Nucor, Carpenter Technology
 
 ## B. Manufacturing
 
@@ -75,7 +75,7 @@ Manufacturing is the most commercial part of the theme, and most companies here 
 - **Why it's interesting:** Tariffs and buy-American rules help US metal, and job shops wait days for a quote from a broker. An online distributor can quote in minutes (claim).
 - **How the business works:** The distributor buys metal from mills, holds it in stock, cuts it to size and sells it to shops and primes. It earns the spread plus cutting fees. Plants are cheap, but a lot of cash sits in inventory. Incumbents are gaining share without AI, so this is our lowest-conviction manufacturing category.
 
-**Example companies:** Reliance, Ryerson
+**Example companies:** Nox Metals, Reliance, Ryerson
 
 ### Fabrication
 - **Why it's interesting:** Fabrication means cutting, bending and welding metal into frames and enclosures, and assembling parts like wire harnesses, the bundles of wires that carry power and signals through an aircraft or missile. Every kind of hardware company needs this fast. One online fabricator handles about 32,000 orders a month, is growing about 100% a year and says it has been profitable for eight years (claim). One harness maker claims it cut lead time from six months to two weeks (claim).
@@ -83,19 +83,11 @@ Manufacturing is the most commercial part of the theme, and most companies here 
 
 **Example companies:** SendCutSend, 1872, Senra Systems, Machina Labs, CircuitHub, Jeevy, Protolabs
 
-Precision and defense hardware comes in two factory models. Owned companies run their own plants, keep the whole margin and all the data, and pay the full build before contracts arrive. Hybrid companies mix owned plants with capacity someone else paid for, through franchisees or cells hosted inside a buyer's plant. They keep less of each sale but need far less capital.
-
-### Precision & Defense Hardware: owned factories
+### Precision & Defense Hardware
 - **Why it's interesting:** Precision parts are metal or composite parts made to very tight limits, by machining, 3D printing, casting or molding, for missiles, jets, satellites and submarines. The shops that make them are small and slow, and primes, which earn 7-12% on cost-plus contracts, outsource much of the work. A supplier that delivers fast earns a premium and, once approved, keeps the work for programs that can run 50 years.
-- **How the business works:** The company sells parts under purchase orders or multi-year contracts. It pays for the plant before approval: one parts maker committed about $200M to a single plant, and a former employee said a six-machine first plant cost "well north of $10 million." Debt and Navy co-funding help once revenue exists. 3D-printing companies keep their printers and sell parts, since selling printers has gone badly. Buying a certified shop from a retiring owner is the cheaper route: the machines and approvals already exist, and roll-ups buy at about seven times annual earnings (claim). New plants need AS9100 certification, the aerospace quality standard, which typically takes 6-12 months, then each part's approval at the buyer.
+- **How the business works:** Companies sell parts under purchase orders or multi-year contracts, and the factory model decides who pays for the machines. Owned factories built from scratch keep the whole margin and all the data, but pay the full build before approval: one parts maker committed about $200M to a single plant, and a former employee said a six-machine first plant cost "well north of $10 million." Buying certified shops from retiring owners is cheaper, since the machines and approvals already exist; roll-ups buy at about seven times annual earnings (claim). A franchised network lets franchisees buy the machines while the company supplies software, orders and quality rules; one claims 14 factories, 4 owned and 10 franchised (claim). Cells hosted inside a buyer's plant share the cost with the buyer; one 7-year deal puts cells inside a prime's missile plant. The last two keep less of each sale but need far less capital. New plants need AS9100 certification, the aerospace quality standard, which typically takes 6-12 months, then each part's approval at the buyer.
 
-**Example companies:** Hadrian, Divergent, Freeform, Amca, Atomic Industries, Fabri, Layup, Hybron, Rangeview, Furientis, Helicon, Westmag, Re:Build, Anduril, Precision Castparts, Howmet
-
-### Precision & Defense Hardware: hybrid factories
-- **Why it's interesting:** This is the lightest-capital way into precision parts. It answers the capex-before-contracts problem by putting someone else's money into the machines.
-- **How the business works:** In a franchise, franchisees buy the machines while the company supplies software, orders and quality rules and keeps a share. One network claims 14 factories, 4 owned and 10 franchised, and a lead-time cut from about 10 weeks to under 14 days for one customer (claims). In a hosted cell, the company runs its machines inside a buyer's plant; one 7-year deal places cells inside a prime's missile plant. The open question is whether primes accept the same quality across many sites.
-
-**Example companies:** Isembard, Hadrian
+**Example companies:** Hadrian, Isembard, Divergent, Freeform, Amca, Atomic Industries, Fabri, Layup, Hybron, Rangeview, Furientis, Helicon, Westmag, Re:Build, Anduril, Precision Castparts, Howmet
 
 ## C. Specialty Chemicals
 
@@ -109,19 +101,13 @@ We limit chemicals to automated chemistry labs that make new molecules for drug 
 
 ## D. Advanced Materials
 
-Advanced materials are new materials such as battery cathodes, cooling fluids and alloys. AI can find candidates in weeks, but making them at scale and getting customers to qualify them takes one to five years. Our primer view is selective for producers and early for discovery labs.
+Advanced materials are new materials such as battery cathodes, cooling fluids and alloys. We focus on vertically integrated companies that both discover the material and make and sell it themselves. Labs that only discover, license or sell software are left out, because a partner keeps the product margin. Our primer view is selective.
 
 ### Producers
-- **Why it's interesting:** China makes about 85% of battery cathode material and over 98% of the cheaper LFP type. Data centers used 415 TWh of power in 2024, heading to about 945 TWh by 2030, and cooling takes 7% to over 30% of it. Both create buyers for a non-Chinese or new material.
-- **How the business works:** The producer designs the material and sells it by the kilogram or ton under long qualification and supply deals. Some own the plant; others use a contract maker, a hybrid with far less capex. Owned cathode plants cost hundreds of millions and compete on Chinese prices. Even an established incumbent's battery-materials unit lost money on €436M of revenue.
+- **Why it's interesting:** China makes about 85% of battery cathode material and over 98% of the cheaper LFP type. Data centers used 415 TWh of power in 2024, heading to about 945 TWh by 2030, and cooling takes 7% to over 30% of it. Hypersonic and propulsion parts need new alloys. Each creates buyers for a new or non-Chinese material, and the company that makes it keeps the margin.
+- **How the business works:** The company uses AI and its own lab to design the material, then makes it and sells it by the kilogram or ton under supply deals. Some own the plant; one claims its AI carries a material from 1 kg a day in the lab to 1,000 kg a day in production (claim). Others use a contract maker, which cuts capex. One says its cooling fluid took about 3 years to reach market, against roughly 10 years and $100M for a new material (claim). The slow part is customer qualification, which takes one to five years. Owned cathode plants cost hundreds of millions and compete on Chinese prices, and even an established incumbent's battery-materials unit lost money on €436M of revenue.
 
-**Example companies:** Chemix, Albemarle, Umicore, Corning
-
-### Materials Discovery Labs
-- **Why it's interesting:** AI plus robotic labs can test far more candidates than people can. One lab made about 1,200 alloys in five or six months (claim), and an independent university test found one of its alloys beat a standard aerospace alloy.
-- **How the business works:** Labs earn from paid R&D for partners, licensing, royalties, software licenses and government research awards, while a partner makes and sells the material. They don't own the output, so their share is a fee or royalty. Government awards run around $1M. Valuations are set on talent, from a $300M seed to one reported at about $7.5B. One investor says materials has had "no AlphaFold moment."
-
-**Example companies:** Radical AI, CuspAI, Periodic Labs, Lila Sciences, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials, Kebotix, Citrine Informatics, Uncountable, Albert Invent, Microsoft Discovery
+**Example companies:** Orbital Materials, Mitra Chem, Radical AI, Chemix, Albemarle, Umicore, Corning
 
 ## E. Enabling Software & Robotics
 

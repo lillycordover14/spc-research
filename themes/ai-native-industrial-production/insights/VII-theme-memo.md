@@ -101,13 +101,19 @@ We limit chemicals to automated chemistry labs that make new molecules for drug 
 
 ## D. Advanced Materials
 
-Advanced materials are new materials such as battery cathodes, cooling fluids and alloys. We focus on vertically integrated companies that both discover the material and make and sell it themselves. Some earlier-stage labs design materials today and are moving toward making them, often with partners. Software-only vendors are left out, because a partner keeps the product margin. Our primer view is selective.
+Advanced materials are new materials such as battery cathodes, cooling fluids and alloys. AI can find candidates in weeks, but making them at scale and getting customers to qualify them takes one to five years. Our primer view is selective for producers and early for discovery labs.
 
 ### Producers
-- **Why it's interesting:** China makes about 85% of battery cathode material and over 98% of the cheaper LFP type. Data centers used 415 TWh of power in 2024, heading to about 945 TWh by 2030, and cooling takes 7% to over 30% of it. Hypersonic and propulsion parts need new alloys. Each creates buyers for a new or non-Chinese material, and the company that makes it keeps the margin.
-- **How the business works:** The company uses AI and its own lab to design the material, then makes it and sells it by the kilogram or ton under supply deals. Some own the plant; one claims its AI carries a material from 1 kg a day in the lab to 1,000 kg a day in production (claim). Others use a contract maker, which cuts capex. One says its cooling fluid took about 3 years to reach market, against roughly 10 years and $100M for a new material (claim). The slow part is customer qualification, which takes one to five years. Owned cathode plants cost hundreds of millions and compete on Chinese prices, and even an established incumbent's battery-materials unit lost money on €436M of revenue.
+- **Why it's interesting:** China makes about 85% of battery cathode material and over 98% of the cheaper LFP type. Data centers used 415 TWh of power in 2024, heading to about 945 TWh by 2030, and cooling takes 7% to over 30% of it. Each creates buyers for a new or non-Chinese material, and the company that both designs and makes it keeps the margin.
+- **How the business works:** These companies are vertically integrated: they design the material with AI in their own lab, then make it and sell it by the kilogram or ton under supply deals. Some own the plant; one claims its AI carries a material from 1 kg a day in the lab to 1,000 kg a day in production (claim). Others use a contract maker, which cuts capex. One says its cooling fluid took about 3 years to reach market, against roughly 10 years and $100M for a new material (claim). Customer qualification is the slow part. Owned cathode plants cost hundreds of millions and compete on Chinese prices, and even an established incumbent's battery-materials unit lost money on €436M of revenue.
 
-**Example companies:** Orbital Materials, Mitra Chem, Radical AI, CuspAI, Lila Sciences, Chemix, Albemarle, Umicore, Corning
+**Example companies:** Orbital Materials, Mitra Chem, Chemix, Albemarle, Umicore, Corning
+
+### Materials Discovery Labs
+- **Why it's interesting:** AI plus robotic labs can test far more candidates than people can. One lab made about 1,200 alloys in five or six months (claim), and an independent university test found one of its alloys beat a standard aerospace alloy. The best-placed lab has about 30 industry partners.
+- **How the business works:** Most labs earn today from paid R&D for partners, licensing and royalties, software licenses and government research awards, which run around $1M. Their path to making material usually runs through a partner that scales it up and sells it, so the lab's share is a fee or royalty unless it later builds its own production. Valuations are set on talent, from a $300M seed to one reported at about $7.5B, and one investor says materials has had "no AlphaFold moment."
+
+**Example companies:** Radical AI, CuspAI, Lila Sciences, Periodic Labs, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials, Kebotix, Citrine Informatics, Uncountable, Albert Invent, Microsoft Discovery
 
 ## E. Enabling Software & Robotics
 

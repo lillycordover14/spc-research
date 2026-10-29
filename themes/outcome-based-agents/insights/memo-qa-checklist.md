@@ -87,3 +87,9 @@ v4 applies the two blocking fixes from the outside review of v3 (commit 0ad733a)
     - E3 is "focus", consistent with T2 and T5 on licenses and liability.
     - C and D are "do not focus", consistent with T3 (easy switching) and T4 (margins).
     - The open-model price pressure in the E3 headwinds applies to tool vendors, and the E3 focus backs license holders, so the two do not conflict.
+
+## v10 (2026-10-29)
+- Blocking: the word "startup"/"startups" (any case, incl. "start-up") must not appear anywhere in the memo body; qa.py STARTUP scan must report 0.
+- Research firms are not named in the body; cite as "industry research".
+- Tailwind/headwind bullets open with the market force; single-company data points are supporting clauses only, never the lead.
+- Docx scan: 0 company names outside "Example companies:" lines, 0 src ids, 0 "startup", 0 em dashes.

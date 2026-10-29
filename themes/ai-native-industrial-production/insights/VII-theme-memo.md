@@ -82,7 +82,7 @@ The categories below follow our primer, and for each one we set out the main tai
 - **Customers that grow often buy their own machines and take the work in-house.** 
 - **Why we should focus here: Fabrication plants cost far less than precision plants, so companies in this category can grow on their own revenue and reach profit early.** Buyers that pay for speed, low capital needs and early profits make this one of the most attractive categories in the theme.
 
-**Example companies:** SendCutSend, 1872, Senra Systems, Machina Labs, CircuitHub, Jeevy, Protolabs
+**Example companies:** SendCutSend, 1872, Senra Systems, Machina Labs, CircuitHub, Jeevy, Foundry Robotics, Podium Automation, Protolabs
 
 ### Precision & Defense Hardware
 - **Tailwinds: The Pentagon needs a larger base of trusted domestic suppliers for precision parts, the metal or composite parts made to very tight limits by machining, 3D printing, casting or molding that go into missiles, jets, satellites and submarines.** Munitions and submarine budgets are rising, with purchase commitments of up to 10 years now allowed.
@@ -108,7 +108,7 @@ The categories below follow our primer, and for each one we set out the main tai
 - **The legal push away from China can soften, which would weaken the main reason to switch suppliers.** In August 2026 a federal judge blocked the Pentagon's listing of WuXi AppTec while the case proceeds (Reuters).
 - **Why we should focus here: Drug companies want a domestic or allied source for discovery chemistry, and they now have a legal reason to move work out of China.** The automated labs in this category make new molecules at milligram-to-gram scale and do not develop their own drugs. They are paid per compound delivered, or through milestones and royalties if a molecule advances. If automation brings unit cost close to offshore prices, the category can take a meaningful share of work that is leaving China.
 
-**Example companies:** Chemify, Warp Sciences
+**Example companies:** Chemify, Warp Sciences, Varda
 
 ## D. Advanced Materials
 
@@ -150,4 +150,4 @@ The categories below follow our primer, and for each one we set out the main tai
 - **Buyers pay when the system adds output from machines they already own or covers a shift they cannot staff.** By our estimate, one operator on two shifts costs about $185,000 a year, so a $350,000 cell covering both shifts pays back in about two years.
 - **Software and robotics companies grow faster than plant owners because they do not build factories, and we should back those paid on measured output, starting in defense and aerospace shops.** 
 
-**Example companies:** Lumaril, Arda, Mind Robotics, GrayMatter Robotics, CloudNC, AI Robotics, Bright Machines, Rapta, Allus, Faraday, Siemens, Rockwell Automation, Honeywell, AspenTech, Emerson
+**Example companies:** Lumaril, Arda, Mind Robotics, GrayMatter Robotics, CloudNC, AI Robotics, Bright Machines, Rapta, Allus, Faraday, Project Prometheus, Unlimited Industries, Siemens, Rockwell Automation, Honeywell, AspenTech, Emerson

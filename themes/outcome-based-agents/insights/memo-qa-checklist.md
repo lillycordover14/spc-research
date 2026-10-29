@@ -2,6 +2,13 @@
 
 Run on every version of insights/OBA-theme-memo.md (source of truth) and its Word and PDF exports. The automated checks live in /workspace/oba-memo/qa.py on the box. The script was made stricter for v3 after an outside review of v2 (commit 6a9134d) found that our own v2 checklist had marked every item as passing when only 4 of 10 passed in full, 4 passed in part and 2 failed. This file records v3 results honestly, including what the script cannot catch.
 
+## v6 (2026-10-29): AI-Native Production QA fixes
+
+- A focus lead replaced with: "The labs and hyperscalers own the models and agent platforms that every other category runs on, so in this theme they act as the suppliers and likely acquirers our startups depend on." The modest-exit sentence is now labeled by our estimate.
+- C focus names Celonis as "the process-mining company".
+- Example lists: C cut to Ema, Duvo, Sycamore, Relevance AI, UiPath (Kestra, n8n, Workfabric AI cut; Workfabric still cited as the Sierra customer); E1 cut ElevenLabs; E2 cut Zolvo. Total 131 to 81 to 76. Audit table, Pactum and Actively reasons updated in insights/memo-example-companies-audit.md.
+- Strict QA: STRICT_FLAGS 0 (known NUM? false positives $350,000, $400,000, $0.99). 5,133 words, 8 pages.
+
 ## v5 (2026-10-29): example companies audit
 
 - Every Example companies name checked against cards and sources; full keep or cut table with reasons and source ids in insights/memo-example-companies-audit.md.

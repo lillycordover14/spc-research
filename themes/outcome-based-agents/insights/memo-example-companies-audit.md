@@ -1,18 +1,20 @@
-# OBA theme memo: example companies audit (2026-10-29, grokbot)
+# OBA theme memo: example companies audit (2026-10-29, grokbot; updated for v6 after AI-Native Production QA)
 
 Requested by Lilly ("make sure all outcome-based agents as getting very broad so do a double check there"). Every name on the memo's Example companies lines (v4) was checked against its company card and filed sources.
 
+**v6 changes.** Production QA cut Kestra and n8n (general workflow platforms), Workfabric AI (work context, like Skan AI and Mimica), ElevenLabs (build-your-own agent platform) and Zolvo (humans approve its matches, no traction on its source). Relevance AI stays.
+
 **Test.** Keep a name only if (a) it sells an AI agent that does a whole job or task end to end, not a copilot, chatbot builder, analytics tool, model or general infrastructure, and (b) it fits the category. For A to D, keep only names actually building or selling agents or agentic orchestration; tools around agents (evals, monitoring, security, billing, compute) count as adjacent. Outcome or usage pricing tied to completed work is a strong signal, not a requirement. Where the filed evidence is too thin to decide, the name is cut and marked uncertain. Company statements are company claims. Body text may still cite cut names as evidence; only the example lists changed.
 
-**Counts (v4 to v5).**
-- A. Labs and Hyperscalers / Agent Infrastructure: 19 to 7
-- B. Systems of Record / Incumbent Platforms: 9 to 7
-- C. Enterprises Building Their Own / Horizontal Orchestration and Work Context: 16 to 8
-- D. Systems Integrators and BPOs / AI Services and AI-Native Outsourcers: 17 to 10
-- E1. Front Office: Customer Service and Sales: 19 to 14
-- E2. Back-Office Operations: Finance, Accounting and Procurement: 25 to 16
-- E3. Regulated Services: Healthcare, Insurance, Legal and Life Sciences: 26 to 19
-- Total: 131 to 81
+**Counts (v4 to v5 to v6).**
+- A. Labs and Hyperscalers / Agent Infrastructure: 19 to 7 to 7
+- B. Systems of Record / Incumbent Platforms: 9 to 7 to 7
+- C. Enterprises Building Their Own / Horizontal Orchestration and Work Context: 16 to 8 to 5
+- D. Systems Integrators and BPOs / AI Services and AI-Native Outsourcers: 17 to 10 to 10
+- E1. Front Office: Customer Service and Sales: 19 to 14 to 13
+- E2. Back-Office Operations: Finance, Accounting and Procurement: 25 to 16 to 15
+- E3. Regulated Services: Healthcare, Insurance, Legal and Life Sciences: 26 to 19 to 19
+- Total: 131 to 81 to 76
 
 ## A. Labs and Hyperscalers / Agent Infrastructure
 
@@ -57,12 +59,12 @@ Requested by Lilly ("make sure all outcome-based agents as getting very broad so
 | Company | Decision | Reason | Source |
 |---|---|---|---|
 | Ema | Keep | Teams of agents running HR, IT and finance processes, priced on completed tasks | src-20260930-9ee545 |
-| Kestra | Keep | Sells orchestration of AI agent and business workflows, usage priced | src-20260331-83a5c4 |
+| Kestra | Cut (v6) | General workflow platform; orchestrates data and business workflows, with agent workflows as one type | src-20260331-83a5c4 |
 | Duvo | Keep | Agents execute approved workflows across ERPs and portals, priced per agent run | src-20260609-4b024f |
 | Sycamore | Keep | Enterprise OS that builds, deploys and orchestrates autonomous agents | src-20260404-029771 |
-| Workfabric AI | Keep | Agents execute 'missions' using employee twins (company site, no pricing or customers) | src-20261023-21a6d6 |
+| Workfabric AI | Cut (v6) | Coordinates work context (employee twins), same reasoning as Skan AI and Mimica; still cited in the body as the Sierra customer | src-20261023-21a6d6 |
 | Relevance AI | Keep | Platform to build and run teams of agents across functions | src-20250506-6ff4ce |
-| n8n | Keep | Workflow and agent orchestration platform | src-20251009-9cd90b |
+| n8n | Cut (v6) | General workflow automation platform; a Duvo customer uses it for deterministic flows | src-20260609-4b024f |
 | UiPath | Keep | Incumbent repositioned as agentic automation and orchestration | src-20241218-3282c7 |
 | Airia | Cut (uncertain) | Only named as a Sycamore competitor in TechCrunch; no filed source on its product | src-20260330-8d6266 |
 | Maisa AI | Cut (uncertain) | Only named as a Sycamore competitor in TechCrunch; no filed source on its product | src-20260330-8d6266 |
@@ -106,9 +108,9 @@ Requested by Lilly ("make sure all outcome-based agents as getting very broad so
 | Lorikeet | Keep | Customer service agents that resolve issues (company release) | src-20250806-000216 |
 | Gradient Labs | Keep | Customer service agents for financial services, money back if it does not deliver | src-20250530-b93251 |
 | PolyAI | Keep | Voice customer service agents for contact centers | src-20260115-f3635c |
-| ElevenLabs | Keep | Sells enterprise voice agents head to head with Sierra (beyond its voice models) | src-20260310-e66bf3 |
+| ElevenLabs | Cut (v6) | ElevenAgents is a build-your-own voice agent platform sold alongside its models and API, the same reason respond.io was cut; an Innovaccer expert calls it not focused on one job | src-20260717-eb6872 |
 | Omilia | Keep | Voice-first contact center automation for banks and utilities | src-20260806-53e2bf |
-| Actively AI | Keep | Agent re-engages closed-lost deals in Salesforce; Justworks users never touch the tool | src-20251126-6d86c8 |
+| Actively AI | Keep | Keep rests on the Justworks call: it re-engages closed-lost deals inside Salesforce, users never touch the tool, about $1M of revenue that year | src-20251126-6d86c8 |
 | Vida | Keep | Agents billed per verified outcome such as a qualified lead | src-20261008-fb6a3d |
 | Rox | Keep | Autonomous sales agents (TechCrunch, sources-based) | src-20260312-b92bcd |
 | 11x | Keep | Autonomous AI SDR selling outbound work | src-20241031-1d55b6 |
@@ -128,7 +130,7 @@ Requested by Lilly ("make sure all outcome-based agents as getting very broad so
 | Definite | Keep | Agents run bank regulatory reporting from ledger to filed report | src-20261023-12e7f6 |
 | Elimentary | Keep | Agents running operations for private credit managers | src-20261023-c1d343 |
 | Xelix | Keep | Agentic accounts payable processing 115M+ invoices a year | src-20250721-54e512 |
-| Zolvo | Keep | Handles reconciliation and collections automatically for lenders (YC page) | src-20261023-d2a134 |
+| Zolvo | Cut (v6) | Its YC page says the lender's team still reviews the exceptions, and the page lists no customers or traction | src-20261023-d2a134 |
 | Zomma | Keep | Computer-use agents that run transaction alert investigations (AI BPO) | src-20261023-36cc4e |
 | Tabs | Keep | Billing and collections agents | src-20250916-6b0cd0 |
 | Stuut | Keep | Accounts receivable agents | src-20251120-b7dfc3 |
@@ -136,7 +138,7 @@ Requested by Lilly ("make sure all outcome-based agents as getting very broad so
 | Lio | Keep | Agents complete the enterprise procurement process | src-20260305-fefcb3 |
 | Magentic | Keep | Procurement and supply-chain agents across ERP data | src-20260917-25441c |
 | Walter | Keep | AI employee that enters POs in SAP, Dynamics or Oracle | src-20261023-aee4fa |
-| Pactum | Keep | Agent that negotiates with suppliers (clients keep a human in the loop) | src-20260617-937cc1 |
+| Pactum | Keep | AI-driven supplier negotiation, autonomous or semi-autonomous; no client lets it negotiate without a human in the loop (procurement BPO CEO) | src-20260617-937cc1 |
 | HappyRobot | Keep | Logistics agents that negotiate rates, book appointments and collect payments | src-20250903-f1a523 |
 | Augment | Keep | Freight agents; customer cut invoice delays 40% | src-20250904-fe3d9b |
 | Rillet | Cut | AI-native ERP and ledger; a system of record, not an agent (still cited in the body) | src-20250806-b579d5 |

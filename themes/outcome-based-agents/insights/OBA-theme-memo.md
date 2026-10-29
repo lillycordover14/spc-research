@@ -1,4 +1,4 @@
-<!-- OBA theme memo v5, 2026-10-29. Source of truth for exports/OBA-theme-memo-v5-2026-10-29.docx/.pdf. Inline cites show the short source name; bracketed ids map to sources/. Built with /workspace/oba-memo/build.py on the Sewon template. -->
+<!-- OBA theme memo v6, 2026-10-29. Source of truth for exports/OBA-theme-memo-v6-2026-10-29.docx/.pdf. Inline cites show the short source name; bracketed ids map to sources/. Built with /workspace/oba-memo/build.py on the Sewon template. -->
 
 # Outcome-Based Agents and Agentic Orchestration
 
@@ -54,7 +54,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Headwinds: The labs give away the harness, the software that runs a model through a task and calls its tools, or price it near cost, which caps what an independent vendor can charge.** OpenAI's Agents API adds no fee on top of model usage (OpenAI) [src-20260910-014b24], and Anthropic charges $0.08 per session-hour for its managed version (Anthropic) [src-20260408-e5d37b].
 - **The labs are also building testing and improvement tools into their own agents, which removes the reason to buy them separately.** OpenAI's Presence ships with test conversations, automated scoring of answers and a loop that improves the agent, all of which independent testing vendors sell as products (OpenAI) [src-20260722-a3993b].
 - **Buyers rarely pay for neutrality across models, which weakens the main argument for an independent layer.** An Accenture managing director calls models "such commodities" and says routing between them is "hardly ever" used by his clients (expert call) [src-20261017-72ec30].
-- **Why we should not focus here: The labs and hyperscalers own the models and agent platforms that every other category runs on, and they are not companies a venture fund can back.** Independent frameworks and infrastructure sell to engineering teams on usage while the labs bundle the same tools free, so these companies compete with their suppliers and tend to sell to a lab or cloud at a modest price.
+- **Why we should not focus here: The labs and hyperscalers own the models and agent platforms that every other category runs on, so in this theme they act as the suppliers and likely acquirers our startups depend on.** Independent frameworks and infrastructure sell to engineering teams on usage while the labs bundle the same tools free, so these companies compete with their suppliers and, by our estimate, tend to sell to a lab or cloud at a modest price.
 
 **Example companies:** OpenAI, Anthropic, Google, Microsoft, Amazon Web Services, LangChain, CopilotKit
 
@@ -84,9 +84,9 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Work context goes stale quickly, so a map of how work gets done loses value unless someone keeps it current.** Collibra's CEO says that accuracy fell back to 60% two months later (VentureBeat) [src-20261020-7922f1].
 - **The clouds and systems of record give the coordination layer away to win the platform.** ServiceNow made its AI Control Tower free for a year (ServiceNow) [src-20260507-e6c2cd], and Microsoft sells Agent 365 to govern every agent a company runs (Microsoft) [src-20260501-fc687c].
 - **The labs are moving into work context, so the companies that map work face the suppliers of the models they feed.** A Skan AI director says "Once Claude figures out how to do this themselves, they don't need us" (expert call) [src-20260616-48f4c6].
-- **Why we should not focus here: Horizontal orchestration sells a platform that enterprises increasingly build themselves or receive free from a platform they already own, so pricing power falls as the customer's own team learns.** Sales cycles run about nine months by Ema's account (Ema, claim) [src-20261025-7ef133], and expansion stalls once the customer builds its own agents. Work context has the better economics of the two, because a record of how work really gets done improves every agent a company runs, but Celonis and the labs already compete for that layer, so we should not back standalone work-context companies.
+- **Why we should not focus here: Horizontal orchestration sells a platform that enterprises increasingly build themselves or receive free from a platform they already own, so pricing power falls as the customer's own team learns.** Sales cycles run about nine months by Ema's account (Ema, claim) [src-20261025-7ef133], and expansion stalls once the customer builds its own agents. Work context has the better economics of the two, because a record of how work really gets done improves every agent a company runs, but Celonis, the process-mining company, and the labs already compete for that layer, so we should not back standalone work-context companies.
 
-**Example companies:** Ema, Kestra, Duvo, Sycamore, Workfabric AI, Relevance AI, n8n, UiPath
+**Example companies:** Ema, Duvo, Sycamore, Relevance AI, UiPath
 
 ## D. Systems Integrators and BPOs
 
@@ -117,7 +117,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Salesforce bundles its own sales agents to replace point tools, squeezing standalone vendors in its accounts.** Salesforce says its $550 Agentforce 1 Edition replaces roughly $1,300 of point-solution spend per US sales rep (Salesforce) [src-20260909-c1900d].
 - **Why we should not focus here: Customer service proves that buyers will pay per result, but the labs, the help desk platforms and the contact-center incumbents all sell the same countable unit at falling prices.** Sales agents are paid on meetings and leads that are easy to count and easy to game, so buyers churn when quality slips, and the customer database owners bundle their own agents. Buyers in both functions keep their data so they can switch, and the customer service leaders already raised at roughly 45 to 100 times ARR by our estimate (company reports) [src-20260504-c9d184] [src-20261025-07358d] [src-20260127-5d9191], which leaves a new entrant little room to win share or earn a strong return. We should use customer service prices as the benchmark for other functions and make no new bets in the category.
 
-**Example companies:** Sierra, Decagon, Cresta, Parloa, Lorikeet, Gradient Labs, PolyAI, ElevenLabs, Omilia, Actively AI, Vida, Rox, 11x, Artisan
+**Example companies:** Sierra, Decagon, Cresta, Parloa, Lorikeet, Gradient Labs, PolyAI, Omilia, Actively AI, Vida, Rox, 11x, Artisan
 
 ### E2. Back-Office Operations: Finance, Accounting and Procurement
 
@@ -132,7 +132,7 @@ The categories follow the five groups in our primer, with vertical applications 
 - **Most finance agent companies do not disclose their pricing, so the move to pricing per unit of work is less proven than in customer service.** Xelix, Tabs and Stuut all announced funding without saying how they charge customers (Xelix, Tabs and Stuut) [src-20250721-54e512] [src-20250916-6b0cd0] [src-20251120-b7dfc3].
 - **Why we should focus here: Finance and procurement work repeats every month, is easy to count and costs money when it goes wrong, so buyers pay for agents that cut the cost of each invoice, collection or order.** The agents sit on the buyer's ERP, so the result is counted in a record the buyer already trusts, deployment can take days and nobody has to replace a system to start. The work also runs across suppliers, banks and email outside any single record, which makes it harder for an ERP vendor to absorb than a help desk task. Revenue recurs with the monthly close and grows with the spend the agent handles, and we should back companies whose cost per invoice or order already falls with each new customer, because that is when margins move toward software levels.
 
-**Example companies:** Adaptive, Basis, Definite, Elimentary, Xelix, Zolvo, Zomma, Tabs, Stuut, Didero, Lio, Magentic, Walter, Pactum, HappyRobot, Augment
+**Example companies:** Adaptive, Basis, Definite, Elimentary, Xelix, Zomma, Tabs, Stuut, Didero, Lio, Magentic, Walter, Pactum, HappyRobot, Augment
 
 ### E3. Regulated Services: Healthcare, Insurance, Legal and Life Sciences
 

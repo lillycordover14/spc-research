@@ -115,25 +115,14 @@ Fabrication and Precision & Defense are both full-stack factories that own the p
 
 ## D. Advanced Materials
 
-### Producers
-- **Tailwinds: China makes about 85% of battery cathode material and over 98% of the cheaper LFP type, so battery makers for EVs, grid storage and defense need another source for resilience and security.** The IEA expects China still to hold about three-quarters of cathode production in 2035, with the US and Europe together at about 10% (IEA).
-- **Data centers are on track to use about 945 TWh of power by 2030, up from 415 TWh in 2024, and cooling takes 7% to over 30% of a site's power, which creates demand for new cooling materials (IEA).** 
-- **AI design aims to shorten the 10 to 20 years and more than $100M that a new material has typically taken to develop (claim).** 
-- **Headwinds: Customers take one to five years to qualify a new material, so revenue arrives slowly even after the material works.** 
-- **Owned cathode plants cost hundreds of millions of dollars and sell at prices set by China's surplus output.** Umicore, a Belgian leader, saw its battery-materials unit lose money on €436M of revenue (company filings).
-- **US demand for some of these materials is softer than forecast as EV sales slow.** The share of LFP batteries in US EVs almost halved, and makers moved capacity to grid storage (IEA).
-- **Why we should focus here: These companies design the material with AI in their own lab, then make it and sell it by the kilogram or ton under supply deals, so the company that designs and makes the material keeps the margin, while contract manufacturing keeps the capital need far below that of a refinery.** 
-
-**Example companies:** Orbital Materials, Mitra Chem, Chemix, Albemarle, Umicore, Corning
-
 ### Materials Discovery Labs
 - **Tailwinds: AI and robotic labs can now make and test new materials far faster than human teams.** The leading labs report making more than a thousand alloys in about six months (claim).
 - **Non-Chinese magnets and battery materials, stronger alloys for defense and better cooling for data centers all require new materials, so the buyers for a successful discovery already exist.** 
 - **Headwinds: These labs do not yet sell material at volume, and their revenue is small next to their valuations.** Revenue today comes from paid R&D, licensing and research awards of around $1M.
 - **Finding a material faster does not shorten the years customers take to qualify it.** 
-- **Why we should focus here, on a longer time horizon: If these labs work, they shorten the slowest part of the materials chain, which is finding a material worth qualifying.** To sell at volume they usually go through a partner that scales the material up and sells it, so a lab earns a fee or royalty unless it builds its own plant.
+- **Why we should focus here, on a longer time horizon: If these labs work, they shorten the slowest part of the materials chain, which is finding a material worth qualifying.** To sell at volume they usually go through a partner that scales the material up and sells it, so a lab earns a fee or royalty unless it builds its own plant. Orbital Materials, for example, pairs generative AI with its own lab experiments to design new materials for commercial use, and has found new molecular classes for cooling high-density GPUs in data centers (Orbital). Today the category is more of an experiment for us, with a longer time horizon than the factory categories above.
 
-**Example companies:** Radical AI, CuspAI, Lila Sciences, Periodic Labs, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials
+**Example companies:** Orbital Materials, Radical AI, CuspAI, Lila Sciences, Periodic Labs, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials, Chemix
 
 ## E. Enabling Software & Robotics
 

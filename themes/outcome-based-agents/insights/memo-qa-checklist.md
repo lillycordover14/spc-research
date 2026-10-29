@@ -2,6 +2,16 @@
 
 Run on every version of insights/OBA-theme-memo.md (source of truth) and its Word and PDF exports. The automated checks live in /workspace/oba-memo/qa.py on the box. The script was made stricter for v3 after an outside review of v2 (commit 6a9134d) found that our own v2 checklist had marked every item as passing when only 4 of 10 passed in full, 4 passed in part and 2 failed. This file records v3 results honestly, including what the script cannot catch.
 
+## v9 (2026-10-29): no company names outside the Example companies lines
+
+- Lilly: Tailwinds and Headwinds should describe market forces, not companies, and no startups should be named in the body. Every Tailwind, Headwind, Why focus and Part 1 bullet rewritten without company names; customers, investors, incumbents and labs are described by type (for example "a national retailer", "a CRM incumbent", "a model lab").
+- Inline citations in the docx are generic (expert call, vendor pricing pages, company filings, company announcement, company claim, trade press, investor survey, investor research, equity research, founder interview, developer survey, labor market data, press reports, conference talk). Gartner, BLS and HFS Research are kept as research and government sources. Source ids stay in the md only.
+- Every generalized sentence still cites the filed sources it rests on. Where only one source supports a point, the sentence says "a vendor" or "a buyer", not "vendors".
+- New blocking check in qa.py: NAME scan of every paragraph except the Example companies lines against 244 names drawn from the company cards (names and aliases), outcome-based-agents-verified.md, landscape-cuts.md, plus customers, investors, publishers and product names previously cited in the body. v9 result 0 hits (the same scan finds 187 hits in v8). The docx was also scanned paragraph by paragraph: 0 hits and no source ids.
+- Dropped to hold 8 pages or because the point was one company's story: the clinical-stage buyer running a procurement agent in three days (E2), the AI-native law firm losing money on pricing (E3), and the sentence on where resolution history sits (B).
+- Example companies lines unchanged from v8.
+- Strict QA: STRICT_FLAGS 0; only the known NUM? false positives ($350,000, $400,000, $0.99). Words 5,190. Pages 8. "instead of" used once. No em dashes.
+
 ## v8 (2026-10-29)
 
 - Blocking fix 1: DeepOpinion and Otera were one company; D line now Crescendo, Otera, Distyl AI, Accenture, Deloitte, Cognizant, TCS, Teleperformance, Conduent. Verified file rows merged.

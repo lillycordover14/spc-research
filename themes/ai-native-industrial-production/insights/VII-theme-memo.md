@@ -39,6 +39,8 @@ This theme covers companies that make physical things in their own plants, such 
 
 The categories below follow our primer, and for each one we set out the main tailwinds and headwinds and state whether we should focus there, judged on the category as a whole.
 
+Fabrication and Precision & Defense are both full-stack factories that own the plant, the software and the operating model, so the difference between them is the buyer and the qualification bar. If a part needs aerospace or defense certification such as AS9100 or ITAR, it belongs in Precision & Defense, and if it is an industrial part bought mainly on speed and cost, it belongs in Fabrication.
+
 ## A. Raw Materials
 
 ### Stage A: Locating & finding minerals and mines
@@ -74,29 +76,29 @@ The categories below follow our primer, and for each one we set out the main tai
 **Example companies:** Nox Metals, Reliance, Ryerson
 
 ### Fabrication
-- **Tailwinds: Full-stack fabrication companies own the factory, write the software that runs it and sell the finished parts themselves, so they quote and build faster than a traditional shop and keep the whole margin on each job.** The model case is 1872, a Cincinnati steel fabricator whose software turns a customer's design file into a build plan and schedule for its robots, and which says it builds "the full stack," meaning the factory, the software and the operating model as one system (1872). Fabrication here means cutting, bending and welding metal into frames and enclosures, and assembling wire harnesses (the bundles of wires that carry power and signals through an aircraft or missile), circuit boards and control panels. Defense, drone, space and energy companies buy these parts and pay extra for speed.
-- **Reshoring is bringing new assembly plants to the US, and each one needs local suppliers of frames and harnesses.** Companies announced about 247,000 US jobs from reshoring and foreign investment in 2025 (Reshoring Initiative).
+- **Tailwinds: Full-stack fabrication companies own the plant, write the software that runs it and set the operating model, so they make general industrial parts fast and in volume and keep the whole margin on each job.** The model case is 1872, a Cincinnati steel fabricator whose software turns a customer's design file into a build plan and schedule for its robots, and which says it builds "the full stack," meaning the factory, the software and the operating model as one system (1872). The parts are sheet metal, welded steel frames and skids, circuit boards, control panels and molded parts, sold to energy, utility, industrial and consumer buyers who choose on speed and price. None of this work needs aerospace or defense certification, and that is the test separating Fabrication from Precision & Defense.
+- **Reshoring is bringing new assembly plants to the US, and each one needs local suppliers of frames, panels and boards.** Companies announced about 247,000 US jobs from reshoring and foreign investment in 2025 (Reshoring Initiative).
 - **The shortage of welders and machinists favors plants that automate cutting and bending instead of hiring more people.** 
 - **Headwinds: The speed premium fades at volume, and US shops beat Chinese prices on only part of their work (claim).** A former Anduril engineer told us that parts from Taiwan cost only about 20-30% less than US parts and arrive more reliably (claim).
 - **Reshoring announcements run well ahead of real orders, so fabricators cannot plan capacity on headlines.** Only 14 of 64 conditional reshoring announcements had turned into actual projects by mid-2026 (Reshoring Initiative).
 - **Customers that grow often buy their own machines and take the work in-house.** 
-- **Some companies sell their robots as well as their parts, which blurs whether the value sits in the factory or in the equipment.** Machina Labs is a hybrid that makes metal structures in its own plants and also places its robot cells at customer sites (Machina Labs).
 - **Why we should focus here: Full-stack fabrication plants cost far less than precision plants and keep the whole margin on each part, so companies in this category can grow on their own revenue and reach profit early.** Owning the factory, the software and the customer lets a company price and schedule every job itself, and Protolabs, the closest listed comparison, keeps more margin in its own plants than on work it sends to partner shops. Buyers that pay for speed, low capital needs and early profits make this one of the most attractive categories in the theme.
 
-**Example companies:** 1872, SendCutSend, Senra Systems, CircuitHub, Foundry Robotics, Podium Automation, Machina Labs
+**Example companies:** 1872, SendCutSend, CircuitHub, Podium Automation, Atomic Industries
 
 ### Precision & Defense Hardware
-- **Tailwinds: The Pentagon needs a larger base of trusted domestic suppliers for precision parts, the metal or composite parts made to very tight limits by machining, 3D printing, casting or molding that go into missiles, jets, satellites and submarines.** Munitions and submarine budgets are rising, with purchase commitments of up to 10 years now allowed.
+- **Tailwinds: Precision & Defense factories make flight-critical and defense hardware that needs aerospace or defense certification, and the Pentagon needs a larger base of trusted domestic suppliers for it.** These are metal or composite parts made to tight tolerances by machining, 3D printing, casting or molding for missiles, jets, satellites, submarines and chip equipment, and each one needs AS9100 or ITAR approval plus a qualification at the buyer that takes months. The buyers are aerospace, defense, space and semiconductor companies, on the commercial side as well as the defense side. Munitions and submarine budgets are rising, with purchase commitments of up to 10 years now allowed.
 - **Commercial aerospace adds a second and steadier source of demand, because Airbus and Boeing together hold orders for nearly 15,000 aircraft and parts supply sets how fast they can build.** Airbus ended 2025 with a record backlog of 8,754 aircraft and Boeing with more than 6,100 (company results). A Pratt & Whitney engine shortfall delays Airbus's main jet program from reaching 70 to 75 a month until the end of 2027 (Airbus FY2025 results). Suppliers are already growing on this demand, and Howmet's revenue rose 24% in the second quarter of 2026, with commercial aerospace up 28%, defense aerospace up 11% and gas turbines up 38% (Howmet results).
 - **Power, chip and space hardware need the same precision parts and are growing as fast as aerospace.** GE Vernova has sold out its gas turbines through 2028 and had 122 GW under contract in the third quarter of 2026 (GE Vernova), chip equipment sales are forecast to reach a record $165.9B in 2026, up 23% (SEMI), and the world made a record 329 orbital launch attempts in 2025 (planet4589). Medical devices, EVs and robot joints need the same tight-tolerance metal parts, which widens the buyer base further.
 - **Headwinds: A new precision plant has to be built and certified before it wins volume work, so capex runs well ahead of revenue.** AS9100, the aerospace quality standard, typically takes 6-12 months, and approval at each buyer takes about nine months to two years.
 - **Commercial work brings its own approvals, because aircraft and engine makers also require Nadcap accreditation for special processes.** Nadcap is an industry-run program that audits processes such as heat treating, welding and inspection.
 - **Commercial buyers push hard on price, and a few buyers control most of the volume.** Spirit AeroSystems, Boeing's largest structures supplier, booked $585M of losses on fixed-price contracts in one quarter of 2025 (Reuters), and Boeing bought it back that December (Boeing). Two airframers and a few engine makers place most orders, so a supplier tied to one carries its problems.
 - **Defense money arrives slowly and depends on Congress, even in years when budgets rise.** Carpenter Technology reported that its defense bookings fell because customers were "not receiving funds" (Carpenter earnings call).
+- **Some companies sell their robots as well as their parts, which blurs whether the value sits in the factory or in the equipment.** Machina Labs is a hybrid that makes metal structures in its own plants and also places its robot cells at customer sites (Machina Labs).
 - **Why we should focus here: An approved supplier keeps the work for programs that can run 50 years, primes pay a premium for fast delivery, and approved incumbents earn strong margins, so the prize at the end of approval is real.** New companies can reach it by building their own plants, by buying certified shops from retiring owners at about seven times annual earnings (claim), or by hosting cells inside a buyer's plant, and each model trades some margin for less capital.
 - **The strongest new precision companies sell to both defense and commercial buyers, because commercial aerospace, power and chip equipment bring larger and steadier volumes that do not depend on appropriations.** That mix keeps machines busy between defense orders and spreads the cost of approvals.
 
-**Example companies:** Hadrian, Isembard, Divergent, Freeform, Amca, Atomic Industries, Fabri, Layup, Hybron, Rangeview, Furientis, Helicon, Westmag, Re:Build, Anduril, Precision Castparts, Howmet
+**Example companies:** Hadrian, Isembard, Divergent, Freeform, Machina Labs, Senra Systems, Foundry Robotics, Amca, Fabri, Layup, Hybron, Rangeview, Furientis, Helicon, Westmag, Re:Build, Anduril, Precision Castparts, Howmet
 
 ## C. Specialty Chemicals
 
@@ -131,7 +133,7 @@ The categories below follow our primer, and for each one we set out the main tai
 - **Finding a material faster does not shorten the years customers take to qualify it.** 
 - **Why we should focus here, on a longer time horizon: If these labs work, they shorten the slowest part of the materials chain, which is finding a material worth qualifying.** To sell at volume they usually go through a partner that scales the material up and sells it, so a lab earns a fee or royalty unless it builds its own plant.
 
-**Example companies:** Radical AI, CuspAI, Lila Sciences, Periodic Labs, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials, Kebotix, Citrine Informatics, Uncountable, Albert Invent, Microsoft Discovery
+**Example companies:** Radical AI, CuspAI, Lila Sciences, Periodic Labs, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials
 
 ## E. Enabling Software & Robotics
 

@@ -49,162 +49,86 @@ This theme covers companies that make physical things in their own plants, such 
 
 # 2. Interesting categories
 
-This section lists every category in our primer where our view is positive or possibly positive, grouped the same way the primer is. Where the economics differ inside a category, we split it into smaller pieces. Each piece ends with the companies the primer names there, so we can decide together which categories to keep.
+This section follows the categories in our primer and covers each one where our view is positive or possibly positive. Each ends with the companies the primer names there, so we can decide together which to keep.
 
 ## A. Raw Materials
 
-Raw materials has two stages: finding and mining ore, then refining it into pure metals and magnets. China's hold on refining makes this the most lasting tailwind in the theme, but these are also the most capital-heavy businesses. Our primer view is selective: attractive in refining when someone else pays for the plant, and early in exploration.
+China's hold on refining makes this the most lasting tailwind in the theme, but these are also the most capital-heavy businesses. Our primer view is selective: attractive in refining when someone else pays for the plant, and early in exploration.
 
-### Mining: AI exploration that sells deposits
-- **Why it's interesting:** Finding a new deposit is slow and mostly fails. One explorer puts industry success at about 0.5% per project (claim). US mines take about 19 years from discovery to production. AI can narrow where to drill, and the big miners are paying for that through venture arms and accelerators.
-- **How the business works:** The explorer owns the mining claims and drill rigs, proves out a deposit and sells it to a miner, for example for about 5% of the metal in the ground plus a royalty (claim). This is a hybrid model: it owns the find but not the mine. Costs are drilling and geologists, far less than a mine, but revenue comes in lumps years apart. Software sold to miners on its own rarely sticks; one explorer ran about 80 pilots that did not turn into repeat business.
+### Stage A: Locating & mining critical minerals
+- **Why it's interesting:** Finding a deposit is slow and mostly fails; one explorer puts success at about 0.5% per project (claim), and US mines take about 19 years from discovery to production. AI can narrow where to drill. Data centers and the grid also need far more copper, so restarting old, permitted mines with automation is attractive.
+- **How the business works:** Explorers own the claims and drill rigs, prove out a deposit and sell it to a miner, for example for about 5% of the metal in the ground plus a royalty (claim). That costs far less than a mine, but revenue comes in lumps years apart. Miners own the mine and sell metal at market prices, which is fully owned and very capital-heavy: about 5 years to build and 3 to 5 to ramp after permits (claim). Software sold to miners on its own rarely sticks.
 
-**Example companies:** Earth AI, KoBold Metals, Terra AI, GeologicAI, Ideon
+**Example companies:** Earth AI, KoBold Metals, Terra AI, GeologicAI, Ideon, Mariana Minerals, BHP, Rio Tinto, Caterpillar
 
-### Mining: restarting and running mines with automation
-- **Why it's interesting:** Data centers and the grid need far more copper; one AI campus can need up to 50,000 tons. Restarting an old, permitted mine skips much of the permit wait, and automation cuts the number of people needed.
-- **How the business works:** The company owns the mine and plant and sells metal, such as copper cathode, at market prices. One startup restarted a Utah copper mine in May 2026 and says it runs about half autonomously (claim). It is fully owned and very capital-heavy: about 5 years to build and 3 to 5 to ramp after permits (claim). Margins swing with commodity prices, and no startup in this group has public buyer contracts.
+### Stage B: Refining minerals/metals
+- **Why it's interesting:** Chinese refineries take about 6 months to commission against 2 to 4 years in the West. Defense and auto buyers need non-Chinese metal and magnets, and the government is lending and signing long purchase deals to get plants built. Tariffs help too: one large steelmaker's margin rose from 14% to 20%.
+- **How the business works:** The company buys concentrate or scrap and sells refined oxides, metals or magnets under long contracts. It owns the plant, which costs hundreds of millions of dollars. The best deals push that cost onto others: a $620M government loan to one magnet maker, and for the largest incumbent a 10-year price floor and a promise that all output of its next magnet plant will be bought. Without a floor, a US refiner takes prices set in China, and equity-funded refineries are the capex-before-contracts problem at its worst. Even the largest US producer lost $85.9M on $224.4M of revenue in 2025.
 
-**Example companies:** Mariana Minerals, BHP, Rio Tinto, Caterpillar
-
-### Refining: plants backed by government debt and signed buyers
-- **Why it's interesting:** Chinese refineries take about 6 months to commission against 2 to 4 years in the West. Buyers in defense and autos need non-Chinese metal and magnets, and the government is lending and signing long purchase deals to get them built.
-- **How the business works:** The company buys concentrate or scrap and sells refined oxides, metals or magnets under long contracts. It owns the plant, but government loans, grants and a signed buyer cover most of the build. Examples of the money: a $620M loan plus $50M of equity to one magnet maker, a $500M conditional loan to a rare-earth metals maker, and for the largest incumbent a 10-year price floor and a promise that all output of its next magnet plant will be bought. A federal tax credit covers 10% of production cost until it phases out in 2031-34. Even so, that incumbent lost $85.9M on $224.4M of revenue in 2025.
-
-**Example companies:** Vulcan Elements, Phoenix Tailings, ReElement, Ucore, Energy Fuels, MP Materials
-
-### Refining: plants funded mainly with equity
-- **Why it's interesting:** The same China problem applies, and tariffs help: one large steelmaker's margin rose from 14% to 20%, and steel mill product prices are up about 86% since February 2020. Some startups say software can halve a 5 to 10 year build (claim).
-- **How the business works:** The company owns the refinery and sells metal at prices set globally or in China, so without a price floor it is a price-taker. Lithium fell 24% and nickel 11% in 2025. A refinery is one giant bet, and one founder called custom lines "unfinanceable" (claim). Equity pays for most of the build, which is the capex-before-contracts problem at its worst.
-
-**Example companies:** Mariana Minerals, Hertha, Cyclic, Mass Magnetics, Duranium, Boston Metal, Electra, Ceibo, Nucor, Carpenter Technology
+**Example companies:** Vulcan Elements, Phoenix Tailings, Mariana Minerals, ReElement, Ucore, Energy Fuels, MP Materials, Hertha, Cyclic, Mass Magnetics, Duranium, Boston Metal, Electra, Ceibo, Nucor, Carpenter Technology
 
 ## B. Manufacturing
 
-Manufacturing is the most commercial part of the theme. Most companies here already have revenue. It covers metal supply, fabrication, precision and defense hardware, and buying certified shops. Our primer view is attractive for fabrication, selective for precision and defense hardware, and low conviction for metal supply.
+Manufacturing is the most commercial part of the theme, and most companies here already have revenue. Our primer view is attractive for fabrication, selective for precision and defense hardware, and low conviction for metal supply.
 
-### Metal supply: distributors that cut metal to size
+### Metal Supply
 - **Why it's interesting:** Tariffs and buy-American rules help US metal, and job shops wait days for a quote from a broker. An online distributor can quote in minutes (claim).
-- **How the business works:** The distributor buys metal from mills, holds it in stock, cuts it to size and sells it to shops and primes. It earns the spread between buying and selling plus cutting fees. Plants are cheap, but a lot of cash sits in inventory. Instant quoting is easy with a big safety margin; the hard part is beating a human estimator (claim). Incumbents are gaining share without AI, so this is our lowest-conviction manufacturing category.
+- **How the business works:** The distributor buys metal from mills, holds it in stock, cuts it to size and sells it to shops and primes. It earns the spread plus cutting fees. Plants are cheap, but a lot of cash sits in inventory. Incumbents are gaining share without AI, so this is our lowest-conviction manufacturing category.
 
 **Example companies:** Reliance, Ryerson
 
-### Fabrication: online custom parts from owned plants
-- **Why it's interesting:** Hardware companies of every kind need custom metal parts fast. One online fabricator handles about 32,000 orders a month and is growing about 100% a year, with over 300,000 customers. It says it has been profitable for eight years (claim). Its lasers run 86% of the time thanks to scheduling software.
-- **How the business works:** Customers upload a design, get an instant price and receive parts in days. The company owns its lasers, press brakes and finishing lines, which cost a fraction of a precision plant, and earns a margin on each order. It wins on speed: its founder says he beats China on price on only about 20-25% of his work (claim). The risk is that customers outgrow it and buy their own machines.
+### Fabrication
+- **Why it's interesting:** Fabrication means cutting, bending and welding metal into frames and enclosures, and assembling parts like wire harnesses, the bundles of wires that carry power and signals through an aircraft or missile. Every kind of hardware company needs this fast. One online fabricator handles about 32,000 orders a month, is growing about 100% a year and says it has been profitable for eight years (claim). One harness maker claims it cut lead time from six months to two weeks (claim).
+- **How the business works:** Customers send a design and get parts or assemblies back in days. Most companies own their plants, which cost a fraction of a precision plant; one leased a second plant and opened it within months. Some route work to partner shops instead, keeping less of each sale: one listed parts maker earns a 49% gross margin in its own plants and 31% on work sent to partners (company filings). Speed is the edge, since one founder says he beats China on price on only about 20-25% of his work (claim). The risk is that customers outgrow them and buy their own machines.
 
-**Example companies:** SendCutSend, 1872
+**Example companies:** SendCutSend, 1872, Senra Systems, Machina Labs, CircuitHub, Jeevy, Protolabs
 
-### Fabrication: partner networks
-- **Why it's interesting:** A network can offer the same instant quotes without building plants, which makes it the lightest-capital way into fabrication.
-- **How the business works:** The company takes the order and routes it to partner shops, keeping a cut. This is hybrid. It needs little capital but keeps less of each sale: one listed parts maker earns a 49% gross margin in its own plants and 31% on work it sends to partners (company filings). One startup sends about 90% of its volume to partner shops. Quality control across shops is the main risk.
+Precision and defense hardware comes in two factory models. Owned companies run their own plants, keep the whole margin and all the data, and pay the full build before contracts arrive. Hybrid companies mix owned plants with capacity someone else paid for, through franchisees or cells hosted inside a buyer's plant. They keep less of each sale but need far less capital.
 
-**Example companies:** Jeevy, Protolabs
+### Precision & Defense Hardware: owned factories
+- **Why it's interesting:** Precision parts are metal or composite parts made to very tight limits, by machining, 3D printing, casting or molding, for missiles, jets, satellites and submarines. The shops that make them are small and slow, and primes, which earn 7-12% on cost-plus contracts, outsource much of the work. A supplier that delivers fast earns a premium and, once approved, keeps the work for programs that can run 50 years.
+- **How the business works:** The company sells parts under purchase orders or multi-year contracts. It pays for the plant before approval: one parts maker committed about $200M to a single plant, and a former employee said a six-machine first plant cost "well north of $10 million." Debt and Navy co-funding help once revenue exists. 3D-printing companies keep their printers and sell parts, since selling printers has gone badly. Buying a certified shop from a retiring owner is the cheaper route: the machines and approvals already exist, and roll-ups buy at about seven times annual earnings (claim). New plants need AS9100 certification, the aerospace quality standard, which typically takes 6-12 months, then each part's approval at the buyer.
 
-### Fabrication: robotic sheet forming
-- **Why it's interesting:** Pairs of robot arms shape sheet metal into airframe and car panels without the costly dies a stamping press needs. A new die takes months and a lot of money, so this suits defense programs whose designs change often.
-- **How the business works:** The company sells formed parts and paid projects. It runs its own plants and sometimes places robot cells at customer sites, which makes it hybrid. Each part takes minutes to hours against seconds on a press (MMS), so it wins on short runs. One company says it won't start a project unless the customer commits money, which limits capex before contracts.
+**Example companies:** Hadrian, Divergent, Freeform, Amca, Atomic Industries, Fabri, Layup, Hybron, Rangeview, Furientis, Helicon, Westmag, Re:Build, Anduril, Precision Castparts, Howmet
 
-**Example companies:** Machina Labs
-
-### Fabrication: wire harnesses and electronics assembly
-- **Why it's interesting:** A wire harness is the bundle of wires and connectors that carries power and signals through an aircraft, satellite or missile. Most are still built by hand, and a late one holds up the whole system. One maker claims it cut lead time from six months to two weeks (claim).
-- **How the business works:** The company sells finished harnesses or assembled boards per program. Software turns the design into a digital model and step-by-step instructions, so more units pass inspection the first time and less experienced workers can do the job. Plants are owned but light, mostly benches, testers and people. One maker leased a second plant of about 80,000 square feet and opened it within months. Growth so far comes from existing customers.
-
-**Example companies:** Senra Systems, CircuitHub
-
-### Precision and defense hardware: owned factories for machined, cast and composite parts
-- **Why it's interesting:** Precision parts are metal or composite parts made to very tight limits for missiles, jets, satellites and submarines. The shops that make them are small and slow, and primes, which earn 7-12% on cost-plus contracts, outsource much of this work. A supplier that delivers fast earns a premium and, once approved, keeps the work for programs that run decades.
-- **How the business works:** The company runs its own plants, sells parts under purchase orders or multi-year contracts, and keeps the whole margin and all the process data. It also pays the whole build before approval: one parts maker committed about $200M to a single plant, and a former employee said a six-machine first plant cost "well north of $10 million." Debt and Navy co-funding help once revenue exists. Approval takes AS9100 certification, the aerospace quality standard, which typically takes 6-12 months, then each part's own qualification at the buyer.
-
-**Example companies:** Hadrian, Fabri, Layup, Hybron, Furientis, Helicon, Westmag, Anduril, Precision Castparts, Howmet
-
-### Precision and defense hardware: 3D-printed parts from owned printers
-- **Why it's interesting:** Metal 3D printing can make shapes machining can't, with no tooling, and it fits parts that carry heat or fluid and printed missile structures. Printers that check each layer with cameras build the best process data in the theme.
-- **How the business works:** The company builds or buys its own printers, keeps them and sells parts per unit. Selling printers to others has gone badly: one printer maker fell from a $2.1B value to a $42.5M sale (3D Printing Journal). Owned printer plants are large bets; one 430,000-square-foot factory is about 80% sized for defense work still waiting on budgets. One drone founder said 3D printing is "way high on the hype curve" (claim).
-
-**Example companies:** Divergent, Freeform, Rangeview
-
-### Precision and defense hardware: tooling and molded parts
-- **Why it's interesting:** Almost every plastic part is made in a steel mold, and designing and building that mold takes skilled toolmakers many weeks. Simulation and machine learning can shorten that.
-- **How the business works:** The company designs and builds the mold in its own shop, then runs it in its own presses and sells finished parts. Owning both steps keeps the margin on the long run of parts after the mold is done. One company claims "mid eight figure" part contracts (claim). Plants need a toolroom and presses, smaller than a precision machining plant.
-
-**Example companies:** Atomic Industries
-
-### Precision and defense hardware: franchised or hosted-cell models
+### Precision & Defense Hardware: hybrid factories
 - **Why it's interesting:** This is the lightest-capital way into precision parts. It answers the capex-before-contracts problem by putting someone else's money into the machines.
-- **How the business works:** In a franchise, franchisees buy the machines while the company supplies software, orders and quality rules and keeps a share. One network claims 14 factories, 4 owned and 10 franchised, and a lead-time cut from about 10 weeks to under 14 days for one customer (claims). In a hosted cell, the company runs its machines inside a buyer's plant; one 7-year deal places cells inside a prime's missile plant. Both keep less of each sale but scale faster. The question is whether primes accept the same quality across many sites.
+- **How the business works:** In a franchise, franchisees buy the machines while the company supplies software, orders and quality rules and keeps a share. One network claims 14 factories, 4 owned and 10 franchised, and a lead-time cut from about 10 weeks to under 14 days for one customer (claims). In a hosted cell, the company runs its machines inside a buyer's plant; one 7-year deal places cells inside a prime's missile plant. The open question is whether primes accept the same quality across many sites.
 
 **Example companies:** Isembard, Hadrian
 
-### Buying and automating certified shops
-- **Why it's interesting:** Thousands of small-shop owners are retiring. Their plants already hold certifications and approvals, often on single-source parts, so buying one skips most of the approval wait.
-- **How the business works:** The company buys a profitable certified shop, keeps its customers and adds software and automation to raise output and margin. It is owned by acquisition: the machines are already paid for, so build risk is low, and the risk moves to the price, the debt and keeping key engineers. Incumbent roll-ups run about a 30% gross margin and buy at about seven times annual earnings (claim). Some defense contracts can be voided when a supplier is sold, which needs checking deal by deal.
-
-**Example companies:** Amca, Re:Build
-
 ## C. Specialty Chemicals
 
-We limit chemicals to automated chemistry labs that make new molecules for drug programs. Drug companies send most of this work offshore, largely to China, and the two biggest offshore providers are worth close to $100B combined (Lightspeed). BIOSECURE, a law passed in December 2025, limits use of certain Chinese biotech suppliers, and 79% of 124 biotechs surveyed had a China-based contract manufacturer (BIO). Our view: early, and they need paying customers.
+We limit chemicals to automated chemistry labs that make new molecules for drug programs. Our view: early, and they need paying customers.
 
-### Robotic chemistry platforms
-- **Why it's interesting:** These labs turn molecule designs into code that robots run, and log every result, including failures most labs throw away. That data makes the next prediction better.
-- **How the business works:** The lab sells discovery chemistry and co-discovery projects to drug companies and research funders, at milligram-to-gram scale for now (claim). It owns the lab, the software and the reaction data. Labs cost tens of millions; one opened a £12M first lab and is part-funding an £89.9M expansion with about £22M of UK and Scottish grants. One claims to work with eight of the top 20 drug companies (claim).
+### Producers (hybrid)
+- **Why it's interesting:** Drug companies send most early chemistry work offshore, largely to China, and the two biggest offshore providers are worth close to $100B combined (Lightspeed). BIOSECURE, a law passed in December 2025, limits use of certain Chinese biotech suppliers, and 79% of 124 biotechs surveyed had a China-based contract manufacturer (BIO). Robotic labs that log every result, including failures, also build data that improves each prediction.
+- **How the business works:** The lab sells chemistry work to drug companies, making small batches of new molecules at milligram-to-gram scale for now (claim). It owns the lab, software and data, and does not develop its own drugs. Labs cost tens of millions; one is part-funding an £89.9M expansion with about £22M of UK and Scottish grants. US chemists cost several times Chinese rates, so automation has to bring unit cost down.
 
-**Example companies:** Chemify
-
-### US chemistry service labs for drug discovery
-- **Why it's interesting:** This is a direct US replacement for the offshore labs that make the molecules drug teams test, and BIOSECURE pushes buyers toward it.
-- **How the business works:** The lab sells chemistry work to biotech and pharma, combining chemists, AI and robots. It does not develop its own drugs and may later sell predictions. US chemists cost several times Chinese rates, so the business works only if automation brings unit cost down. Capex is lab buildout plus a large team. The leading startup launched in October 2026 with design partners and no public customers.
-
-**Example companies:** Warp Sciences
+**Example companies:** Chemify, Warp Sciences
 
 ## D. Advanced Materials
 
 Advanced materials are new materials such as battery cathodes, cooling fluids and alloys. AI can find candidates in weeks, but making them at scale and getting customers to qualify them takes one to five years. Our primer view is selective for producers and early for discovery labs.
 
-### Materials producers
-- **Why it's interesting:** China makes about 85% of battery cathode material and over 98% of the cheaper LFP type. Data centers used 415 TWh of power in 2024, heading to about 945 TWh by 2030, and cooling takes 7% to over 30% of it. Liquid cooling is expected on 53% of AI chips in 2026. Both create buyers for a non-Chinese or new material.
-- **How the business works:** The producer designs the material and sells it by the kilogram or ton under long qualification and supply deals. Some own the plant; others use a contract maker, which is a hybrid with far less capex. Owned cathode plants cost hundreds of millions and compete on Chinese prices. Even an established incumbent's battery-materials unit lost money on €436M of revenue.
+### Producers
+- **Why it's interesting:** China makes about 85% of battery cathode material and over 98% of the cheaper LFP type. Data centers used 415 TWh of power in 2024, heading to about 945 TWh by 2030, and cooling takes 7% to over 30% of it. Both create buyers for a non-Chinese or new material.
+- **How the business works:** The producer designs the material and sells it by the kilogram or ton under long qualification and supply deals. Some own the plant; others use a contract maker, a hybrid with far less capex. Owned cathode plants cost hundreds of millions and compete on Chinese prices. Even an established incumbent's battery-materials unit lost money on €436M of revenue.
 
 **Example companies:** Chemix, Albemarle, Umicore, Corning
 
-### Materials discovery labs
+### Materials Discovery Labs
 - **Why it's interesting:** AI plus robotic labs can test far more candidates than people can. One lab made about 1,200 alloys in five or six months (claim), and an independent university test found one of its alloys beat a standard aerospace alloy.
-- **How the business works:** Labs earn from paid R&D for partners, licensing and royalties, and government research awards, while a partner makes and sells the material. They don't own the output, so their share is a fee or royalty. Government awards run around $1M. Valuations are set on talent, from a $300M seed to one reported at about $7.5B. One investor says materials has had "no AlphaFold moment."
+- **How the business works:** Labs earn from paid R&D for partners, licensing, royalties, software licenses and government research awards, while a partner makes and sells the material. They don't own the output, so their share is a fee or royalty. Government awards run around $1M. Valuations are set on talent, from a $300M seed to one reported at about $7.5B. One investor says materials has had "no AlphaFold moment."
 
-**Example companies:** Radical AI, CuspAI, Periodic Labs, Lila Sciences, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials, Kebotix
-
-### Materials R&D software, licensed
-- **Why it's interesting:** Chemical and materials companies want AI tools for their own R&D teams, and some of the largest are already paying.
-- **How the business works:** The vendor sells a data platform and AI tools to corporate R&D teams on multi-year licenses; one claims 10 such customers (claim). It is recurring software revenue with no plant, but the customer keeps the product margin.
-
-**Example companies:** Citrine Informatics, Uncountable, Albert Invent, Microsoft Discovery
+**Example companies:** Radical AI, CuspAI, Periodic Labs, Lila Sciences, Aionics, Mattiq, Dunia Innovations, Entalpic, Discovered Materials, Kebotix, Citrine Informatics, Uncountable, Albert Invent, Microsoft Discovery
 
 ## E. Enabling Software & Robotics
 
-These companies sell tools to factories and plants instead of making the product. The primer tracks them outside the core, because selling to plants has been hard and incumbents own the installed base. The split that matters is how they get paid: on results, by license, or by renting robots.
+These companies sell tools to factories and plants instead of making the product. The primer tracks them outside the core, because selling to plants has been hard and incumbents own the installed base.
 
-### Plant software paid on results
-- **Why it's interesting:** Process plants run below the capacity they need, about 74% in Europe against 80-85% (FTI Consulting). In a sold-out plant each extra point of yield is close to pure profit. This is the closest fit for an enterprise software fund.
-- **How the business works:** The software connects to a plant's existing controls, adds cheap sensors, builds a live model and adjusts setpoints itself through a safety layer. A setpoint is a target such as a temperature or flow rate. One startup says it is paid on the production it adds (claim). There is no factory; the cost is engineering and long deployments. The hard parts are agreeing on a baseline and getting the plant's safety team to approve software that makes changes on its own.
+### Enablers
+- **Why it's interesting:** The labor gap and underused plants create demand for tools that raise output. Process plants run at about 74% of capacity in Europe against the 80-85% they need (FTI Consulting), and in a sold-out plant each extra point of yield is close to pure profit. The US installed 38,428 industrial robots in 2025 against 354,226 in China. AI already speeds work around the machine; one tool claims to cut assembly-instruction writing from about 10 hours to 15 minutes (claim).
+- **How the business works:** Vendors sell software subscriptions, robots, or robot cells they own and rent out. The closest fit for an enterprise software fund is plant-control software paid on the production it adds (claim): it adjusts the plant's setpoints, such as a temperature or flow rate, itself, with no factory to build. The customer owns the output and the data, big automation vendors bundle software with hardware, and robot-learning success is only 59-66% on short tasks against the 99.9% plus a factory needs.
 
-**Example companies:** Lumaril
-
-### Licensed factory software
-- **Why it's interesting:** AI speeds the office work around the machine. One tool claims to cut assembly-instruction writing from about 10 hours to 15 minutes (claim), and others write machining programs or inspect welds.
-- **How the business works:** The vendor sells software by subscription to factories. There is no plant, but the customer owns the output and the data. Most startups here have a first customer and little else, and big automation vendors bundle software with hardware at high margins; one runs a 49.5% gross margin. These tools may help old shops catch up as much as new ones.
-
-**Example companies:** Arda, CloudNC, AI Robotics, Siemens, Rockwell Automation, Honeywell, AspenTech, Emerson
-
-### Robots as a service
-- **Why it's interesting:** The US installed 38,428 industrial robots in 2025 against 354,226 in China, and has 307 robots per 10,000 workers against 1,220 in South Korea. The labor gap makes renting automation attractive to small plants.
-- **How the business works:** The vendor owns turnkey robot cells, places them in the customer's plant and charges for use. It is hybrid: the vendor pays for the robots and the customer hosts them. One company found selling autonomy software alone "doesn't really work" and switched to renting cells, and it claims one customer went from about 300 to 1,700 units a day on the same robots (claim).
-
-**Example companies:** GrayMatter Robotics
-
-### Robot AI sold to plants
-- **Why it's interesting:** Cheaper robots and better models could automate tasks like picking and fastening that still need people.
-- **How the business works:** The company trains robot models and sells robots or software to plants. Robot-learning success is 59-66% on short tasks against the 99.9% plus a factory needs. One company in this group has raised over $1B with no public product and relies on a single partner that owns about a third of it.
-
-**Example companies:** Mind Robotics, Bright Machines, Rapta, Allus, Faraday
+**Example companies:** Lumaril, Arda, Mind Robotics, GrayMatter Robotics, CloudNC, AI Robotics, Bright Machines, Rapta, Allus, Faraday, Siemens, Rockwell Automation, Honeywell, AspenTech, Emerson

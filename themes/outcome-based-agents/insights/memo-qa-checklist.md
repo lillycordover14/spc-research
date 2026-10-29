@@ -7,7 +7,9 @@ Run on every version of insights/OBA-theme-memo.md (source of truth) and its Wor
 - Every Example companies name checked against cards and sources; full keep or cut table with reasons and source ids in insights/memo-example-companies-audit.md.
 - Lists cut from 131 to 81 names: A 19 to 7, B 9 to 7, C 16 to 8, D 17 to 10, E1 19 to 14, E2 25 to 16, E3 26 to 19. 16 names cut as uncertain.
 - Body text unchanged; cut names still cited as evidence (Skan AI, Celonis, Rillet, Eudia, Guidewire, Epic, KPMG, Concentrix, TTEC, Clay) are used as context, not as examples.
-- Strict QA: STRICT_FLAGS 0 (three known NUM? false positives: $350,000, $400,000, $0.99). 5,001 words, 8 pages.
+- Category A rewritten to match its list: subhead now "Agent Platforms, Frameworks and Infrastructure"; tailwinds lead on agents reaching production, lab and cloud agent platforms (OpenAI Frontier, AWS AgentCore, Microsoft Agent 365) and frameworks (LangChain in Google's Agents CLI); tooling demand kept as one supporting tailwind (PocketOS); focus says the labs and clouds are not venture targets and independent frameworks compete with their suppliers.
+- Cut names still cited in the body now read as evidence: Skan AI described as recording work for agents, Rillet as a ledger rather than an agent, Eudia as augmenting lawyers, Clay as a sales data and workflow tool. Guidewire, Epic, KPMG, Concentrix, TTEC and Celonis already read as evidence.
+- Strict QA: STRICT_FLAGS 0 (three known NUM? false positives: $350,000, $400,000, $0.99). 5,127 words, 8 pages.
 
 ## v4 results, 2026-10-29
 

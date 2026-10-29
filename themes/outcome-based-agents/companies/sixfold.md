@@ -2,7 +2,7 @@
 slug: sixfold
 name: Sixfold
 aliases: []
-website: null
+website: https://www.sixfold.ai
 hq: null
 founded: null
 layer: vertical-outcome
@@ -57,8 +57,9 @@ sources:
 - src-20261029-4a0508
 - src-20261029-367f20
 - src-20261026-30cf90
+- src-20261029-dd9fd4
 data_quality: Card promoted 2026-10-28 by grokbot at 2 independent sources (funding report plus VC primer). Company-only claims labeled. n/v fields left blank.
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 
 ## What they do

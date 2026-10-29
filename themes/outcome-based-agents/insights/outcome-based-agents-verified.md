@@ -1,6 +1,6 @@
-# Outcome-based agents: verified example companies (v7, 2026-10-29)
+# Outcome-based agents: verified example companies (v8, 2026-10-29)
 
-Built for memo v7 after Lilly's feedback on v6 (restore Workfabric, tighten the set, verify every name). Every row cites a filed source id. Company statements are company claims. Where no public price exists, pricing says unknown. Nothing here is estimated.
+Built for memo v7 after Lilly's feedback on v6 (restore Workfabric, tighten the set, verify every name) and tightened for v8 after the AI-Native Production QA (Otera rename, 18 more cuts, each reason checked on the company's own site on 2026-10-29). Every row cites a filed source id. Company statements are company claims. Where no public price exists, pricing says unknown. Nothing here is estimated.
 
 ## The test
 
@@ -24,7 +24,7 @@ Verdicts:
 - **Traction (company claims).** Live in the Fortune 500, no integrations, running in 48 hours, $380M of net-new pipeline "on track for $1B", 39 days of average warning before escalations (src-20261029-3f0bd1). Moneycontrol says it is live and generating revenue, backed by Bob McGrew and Chris Re (src-20251229-050f87). It is also a Sierra customer that audits Sierra's resolution counts (src-20260318-033caf). Founder podcasts: src-20260408-5408bb, src-20260710-e2a61b.
 - **Pricing.** Not public in any source.
 - **Verdict.** It is not an outcome-based agent under the strict test. It frames the product around outcomes, but the output is coordinated insight across people, not a defined unit of completed work billed per outcome.
-- **Decision.** Restored to C (Horizontal Orchestration and Work Context) as that category's work-context example, listed third after Ema and Duvo, with a new C tailwind sentence citing Moneycontrol. Cutting it in v6 was a mistake for C, where it fits better than Sycamore or Relevance AI.
+- **Decision.** Restored to C (Horizontal Orchestration and Work Context) as that category's work-context example, listed third after Ema and Duvo, with a new C tailwind sentence citing Moneycontrol. Cutting it in v6 was a mistake for C, where it fits better than Sycamore or Relevance AI. In v8, C lists only Ema, Duvo and Workfabric AI, and the memo says why the horizontal build platforms were moved out.
 
 ## A. Agent platforms, frameworks and infrastructure (suppliers)
 
@@ -36,7 +36,6 @@ Verdicts:
 | Microsoft | Agent 365 governance | not scored (supplier) | nearly 40M agents (claim) | Category example | src-20260729-8b3c16 |
 | Amazon Web Services | AgentCore managed agent loop | not scored (supplier) | n/v here | Category example | src-20261022-a0f852 |
 | LangChain | Agent framework | unknown | 57% figure in memo | Category example | src-20251202-cd7dc4 |
-| CopilotKit | Agent UI framework | unknown | n/v | Category example | src-20260505-826992 |
 
 ## B. Systems of record and platform incumbents
 
@@ -59,9 +58,6 @@ Listed with the incumbents already billing per result first.
 | Ema | Teams of agents running HR, IT and finance processes | outcome (completed tasks, company claim) | bookings $150M+ (claim); $77M Series B | Core | src-20260930-9ee545 |
 | Duvo | Executes approved operational workflows across ERPs and portals | per completed run (one flat price per execution) | $32M round 2026-10-14 | Core | src-20260701-3b0c17, src-20260609-4b024f |
 | Workfabric AI | Work-context twins coordinating teams on missions | unknown | generating revenue; Cognizant 1,000 engineers | Category example (not scored) | src-20261029-3f0bd1, src-20251229-050f87 |
-| Sycamore | Enterprise agent operating system | unknown (CEO says moving toward outcome) | $65M seed | Category example (not scored) | src-20260404-029771 |
-| Relevance AI | No-code platform to build agent teams | unknown | $24M Series B | Category example (not scored) | src-20250506-6ff4ce |
-| UiPath | RPA incumbent moving to agent orchestration | platform license | public | Category example (not scored) | card |
 
 ## D. Systems integrators and BPOs
 
@@ -70,8 +66,7 @@ AI-native service providers first, then incumbents.
 | Company | Job | Pricing (evidence) | Traction | Verdict | Sources |
 |---|---|---|---|---|---|
 | Crescendo | AI-native CX BPO that sells the finished contact | outcome (per-contact outcome contracts) | n/v | Core | src-20260724-865e53 |
-| DeepOpinion | Agentic automation used by Cognizant for insurance claims BPO | per-task credits | Cognizant deployment | Whole job, not outcome-priced | src-20250627-297f7b |
-| Otera | Insurance agentic automation | unknown | n/v | Whole job, not outcome-priced | src-20260724-b4a442 |
+| Otera (previously DeepOpinion) | Autonomous operations for insurance, banking and other regulated back offices; earlier used by Cognizant for insurance claims BPO | outcome (company claim: "Priced on outcomes. Not licenses, not seats, not modules."); no public price; DeepOpinion-era Cognizant deal used per-task credits | Allianz, Erste, Siemens, SAAB named on site; Cognizant deployment | Core (pricing is a company claim) | src-20261029-d6fdcf, src-20260724-b4a442, src-20250627-297f7b |
 | Distyl AI | AI services building agents for enterprises | unknown | n/v | Whole job, not outcome-priced | src-20250922-1bc8b4 |
 | Accenture, Deloitte, Cognizant, TCS, Teleperformance, Conduent | Incumbent SIs and BPOs | not scored | public | Category example (not scored) | memo D section |
 
@@ -84,29 +79,19 @@ AI-native service providers first, then incumbents.
 | Gradient Labs | Resolves financial-services support and back-office cases | outcome: pay only for successful resolutions, no platform fee | Wise, Yonder, Pockit, SteadyPay listed on site | Core | src-20261029-170473, src-20250530-b93251 |
 | Vida | Agent OS for qualified leads and service | outcome option alongside usage (pay for 20 qualified leads, not 500 conversations) | n/v | Core | src-20261008-fb6a3d |
 | Decagon | Resolves support contacts | per conversation by default; per resolution offered; most customers choose per conversation | n/v here | Whole job, not outcome-priced | src-20261029-58b696, src-20260515-de88a1 |
-| Cresta | Contact center voice agents | usage: mainly per minute, some outcome charging | n/v | Whole job, not outcome-priced | src-20260618-f36dc6 |
-| Parloa | Enterprise voice and chat agents | usage: per minute voice, per interaction chat; outcome "when it makes sense" | n/v | Whole job, not outcome-priced | src-20261029-95b348, src-20260115-f3635c |
-| PolyAI | Enterprise voice agents | usage: per connected minute; API 2 cents a minute | n/v | Whole job, not outcome-priced | src-20261029-dabc99 |
-| Omilia | Voice-first CX automation | unknown | ARR $60M (claim); $67M Series B; Capital One, RBC | Whole job, not outcome-priced | src-20260806-53e2bf |
 
 ## E2. Back office: finance, accounting and procurement
 
 | Company | Job | Pricing (evidence) | Traction | Verdict | Sources |
 |---|---|---|---|---|---|
 | Basis | Completes tax, audit and close work for accounting firms | outcome: "We never had a seat-based model for our core product", no token pricing; rates not public | $100M Series B (Accel); $1.15B valuation; a third of the US Top 25 firms | Core | src-20260730-3a49fd, src-20260224-b6a4eb |
-| Magentic | Procurement and supply-chain savings agents | outcome: "no win, no fee", paid only on realized savings (summary of company remarks) | $18M Series A; Fortune 500 manufacturers | Core | src-20260723-5994c7, src-20260923-47e348 |
+| Magentic (magentic.com) | Procurement and supply-chain savings agents | outcome: "no win, no fee", paid only on realized savings (summary of company remarks) | $18M Series A; Fortune 500 manufacturers | Core | src-20260723-5994c7, src-20260923-47e348 |
 | fileAI | Document agents that deliver a finished file, record or case | per completed Agent Run; no charge for failures | n/v | Core | src-20261012-e6c2b7 |
 | Freehand | Decides whether to pay, dispute or negotiate each invoice | unknown; CEO says agents "take accountability for the outcome" | $75M seed; Meta, Unilever, J&J, Pfizer | Core (on responsibility claim) | src-20260729-f4bed6 |
 | Lio | Completes enterprise procurement | unknown | $30M Series A (a16z) | Whole job, not outcome-priced | src-20260305-fefcb3 |
 | Didero | Runs procurement for manufacturers and distributors | usage: platform fee plus volume kickers | $30M Series A; Novilla renewal quote | Whole job, not outcome-priced | src-20260617-937cc1, src-20251024-112e5e |
-| Pactum | Digital workers from intake to purchase order | subscription by revenue band and digital worker; no success fee | 50+ global enterprises (claim) | Whole job, not outcome-priced | src-20261029-a2fafb |
-| Adaptive | Construction accounting agents | unknown | 750+ construction companies; $30M Series B | Whole job, not outcome-priced | src-20260917-e6c847 |
-| Definite | Bank regulatory reporting from ledger to filing | unknown | YC | Whole job, not outcome-priced | src-20261023-12e7f6 |
-| Elimentary | Private credit back-office operations | unknown | YC; one unnamed customer | Whole job, not outcome-priced | src-20261023-c1d343 |
-| Zomma | Compliance alert investigations (AI BPO) | unknown | YC; two pilots | Whole job, not outcome-priced | src-20261023-36cc4e |
-| Walter | Enters POs in SAP, Dynamics or Oracle | unknown | YC | Whole job, not outcome-priced | src-20261023-aee4fa |
 | HappyRobot | Logistics agents: rate negotiation, booking, payment collection | unknown | $44M Series B | Whole job, not outcome-priced | src-20250903-f1a523 |
-| Augment | Freight operations agents | unknown | $85M Series A | Whole job, not outcome-priced | src-20250904-fe3d9b |
+| Augment | Freight brokerage agent Augie: loads built, carriers booked, appointments set, docs filed | outcome: each workflow priced per completed unit, tiered by volume; no list price | $85M Series A; Werner; a $1.4B brokerage with 1 in 4 loads handled (claim) | Core | src-20261029-60748a, src-20250904-fe3d9b |
 
 ## E3. Regulated services: healthcare, insurance, legal and life sciences
 
@@ -122,14 +107,37 @@ AI-native service providers first, then incumbents.
 | Harper | AI-native commercial insurance brokerage | brokerage commission (terms not in source) | $46.8M; 5,000+ customers | Core (on responsibility) | src-20260225-3917a2 |
 | Lawhive | AI-native consumer law firm (UK and Arizona) | unknown fee model; regulated firm of record | revenue above $35M, up 7x; $60M Series B | Core (on responsibility) | src-20260205-e13567 |
 | Prosper AI | Prior auth and benefits verification services | hybrid: part per resolution, part per minute | Emergence-backed | Core (part outcome) | src-20261023-cc2e6e |
-| Pace | Replaces insurance BPO work (claims QA, servicing) | usage with a floor at one insurer | $46M Series B; Prudential, Palomar | Whole job, not outcome-priced | src-20260811-a0aa1e, src-20261025-c77b6e |
+| Pace (withpace.com) | Replaces insurance BPO work (claims QA, servicing) | usage with a floor at one insurer | $46M Series B; Prudential, Palomar; Palomar COO says it resolves more than 90% of cases without a human touch (claim) | Whole job, not outcome-priced | src-20260811-a0aa1e, src-20261025-c77b6e, src-20261029-99058e |
 | Amperos Health | Works denied claims end to end | unknown in filed sources | $16M Series A; 3,000 clinical locations | Whole job, not outcome-priced | src-20260422-d6ae9d |
-| Candid Health | Autonomous RCM | unknown | $120M Series D; ARR +190% (claim) | Whole job, not outcome-priced | src-20260722-e6a1e0 |
 | GenHealth.ai | Intake, eligibility, prior auth, billing agents | unknown | $16.5M Series A | Whole job, not outcome-priced | src-20261008-50f3eb |
-| Tennr | Referral intake from fax to EHR | unknown | $101M Series C at $605M | Whole job, not outcome-priced | src-20250618-89929d |
-| Sixfold | Underwriting agent for insurers | unknown | $30M Series B; Zurich NA | Whole job, not outcome-priced | src-20260129-3fadee |
-| FurtherAI | Insurance workflow agents | unknown | n/v in filed source | Whole job, not outcome-priced | src-20260811-a0aa1e |
 | Edison Scientific | Kosmos research runs for biopharma | per-run credits at launch ($200), retired May 2026 | $70M seed; Incyte | Whole job, not outcome-priced | src-20251105-cdfbed, src-20260519-9cb3f1 |
+
+## Cut from the memo lists in v8
+
+Each reason was checked on the company's own site on 2026-10-29 or in the filed source named. Cresta, Sixfold and Pactum stay in the memo body as evidence.
+
+| Company | Was in | Reason | Sources |
+|---|---|---|---|
+| CopilotKit | A | Developer SDKs and the AG-UI protocol for in-app copilots, not a supplier the memo needs to name | src-20261029-0e1811 |
+| Sycamore | C | Now sells Forge and Guard, an agent operating system for enterprises to build and govern their own agents | src-20261029-4e4c26 |
+| Relevance AI | C | Sells Invent, a tool for customer teams to build their own AI workforces | src-20261029-6a85cf |
+| UiPath | C | RPA and business orchestration platform sold as a license | uipath.com homepage, company card |
+| Parloa | E1 | Priced per minute for voice and per interaction for chat | src-20261029-95b348 |
+| PolyAI | E1 | Priced per connected minute | src-20261029-dabc99 |
+| Cresta | E1 | Mainly per-minute pricing, and much of the suite assists human reps in real time (still cited in the body) | src-20260618-f36dc6, src-20261029-ee1f31 |
+| Omilia | E1 | No public pricing; the platform includes CSR CoPilot real-time assistance for reps alongside voice agents | src-20261029-cfa241, src-20260806-53e2bf |
+| Definite | E2 | Now an ontology layer for finance data; its site says "Your team does the analysis" (usedefinite.com; definite.ai is a different company) | src-20261029-0b05f0 |
+| Adaptive | E2 | Sold as construction accounting software with agents; no outcome pricing stated | src-20261029-93fb4a |
+| Pactum | E2 | Annual subscription by revenue band, no success fee (still cited in the body) | src-20261029-a2fafb |
+| Elimentary | E2 | Early YC company; no public pricing; one unnamed customer | src-20261023-c1d343 |
+| Zomma | E2 | Early YC company; no public pricing; two pilots | src-20261023-36cc4e |
+| Walter | E2 | Spring 2026 YC company; no public pricing or named customers | src-20261023-aee4fa |
+| Sixfold | E3 | Underwriting AI that supports underwriters, who keep the decision; no public pricing (still cited in the body) | src-20261029-dd9fd4, src-20260129-3fadee |
+| FurtherAI | E3 | Sold as an underwriting and claims platform; no public pricing | src-20261029-23a59e |
+| Tennr | E3 | Sold as a patient orchestration platform; no public pricing | src-20261029-91d43b |
+| Candid Health | E3 | Sold as a revenue cycle automation platform; no public pricing | src-20261029-c03bec |
+
+DeepOpinion was not cut: it is the old name of Otera (deepopinion.ai redirects to otera.ai, and the site header reads "previously DeepOpinion"), so the two rows were merged.
 
 ## Cut from the memo lists in v7
 
@@ -155,13 +163,13 @@ AI-native service providers first, then incumbents.
 - Infinitus, AKASA, EtherMed, ClarityCare (E3): pricing comes only from third-party snippets or is not public. Not added.
 - SMB collections tools on contingency (Receivable, Syntharra, Recoup and others): small, unverified vendors. Not added.
 
-## Counts (71 names across the v7 lists)
+## Counts (52 names across the v8 lists)
 
 | Verdict | n |
 |---|---|
-| Core | 21 (C 2, D 1, E1 4, E2 4, E3 10) |
-| Whole job, not outcome-priced | 26 (D 3, E1 5, E2 10, E3 8) |
-| Category example, not scored | 24 (A 7, B 7, C 4, D 6) |
-| Excluded and cut | 12 |
+| Core | 23 (C 2, D 2, E1 4, E2 5, E3 10) |
+| Whole job, not outcome-priced | 9 (D 1, E1 1, E2 3, E3 4) |
+| Category example, not scored | 20 (A 6, B 7, C 1, D 6) |
+| Excluded and cut | 30 (12 in v7, 18 in v8) |
 
-Of the 21 core names, 16 pass on a disclosed per-outcome or per-unit price and 5 pass on responsibility for the result (Freehand, Reserv, Strala, Harper, Lawhive). Pricing is unknown for 20 of the 47 scored companies, so the verdicts on those rest on what the agent does, not on how it is paid.
+Of the 23 core names, 18 pass on a disclosed per-outcome or per-unit price (Otera's is a company claim with no public price) and 5 pass on responsibility for the result (Freehand, Reserv, Strala, Harper, Lawhive). Pricing is unknown for 8 of the 32 scored companies (Distyl AI, Freehand, Lio, HappyRobot, Strala, Lawhive, Amperos Health, GenHealth.ai), so the verdicts on those rest on what the agent does, not on how it is paid.

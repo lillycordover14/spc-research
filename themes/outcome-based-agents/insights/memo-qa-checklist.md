@@ -2,6 +2,15 @@
 
 Run on every version of insights/OBA-theme-memo.md (source of truth) and its Word and PDF exports. The automated checks live in /workspace/oba-memo/qa.py on the box. The script was made stricter for v3 after an outside review of v2 (commit 6a9134d) found that our own v2 checklist had marked every item as passing when only 4 of 10 passed in full, 4 passed in part and 2 failed. This file records v3 results honestly, including what the script cannot catch.
 
+## v8 (2026-10-29)
+
+- Blocking fix 1: DeepOpinion and Otera were one company; D line now Crescendo, Otera, Distyl AI, Accenture, Deloitte, Cognizant, TCS, Teleperformance, Conduent. Verified file rows merged.
+- Blocking fix 2: E1 sales passage now cites Fin's $9.99 per qualified lead (HackerNoon, src-20260924-1b6619), Vida billing per qualified lead after CRM or connected-system verification (Telecom Reseller, src-20261008-fb6a3d) and Justworks on Actively AI, about $1M of revenue on spend of around $160,000 (expert call, src-20251126-6d86c8). Each figure checked against the filed source.
+- 18 list cuts applied (see the audit and the verified file); C focus now says why only three examples remain. Augment upgraded to core.
+- Pace 90% claim confirmed on withpace.com (Palomar COO quote) and filed as src-20261029-99058e; it was already in E3 tailwind 2, marked claim.
+- 14 new website sources filed (src-20261029-d6fdcf, 60748a, 4e4c26, 6a85cf, ee1f31, cfa241, 0b05f0, 93fb4a, dd9fd4, 23a59e, 91d43b, c03bec, 0e1811, 99058e). DeepOpinion card merged into Otera.
+- Strict QA (qa.py): STRICT_FLAGS 0; only the known NUM? false positives. Words 5,152. Pages 8. "instead of" used once. No em dashes.
+
 ## v7 (2026-10-29)
 
 - Strict QA (qa.py): STRICT_FLAGS 0; only the known NUM? false positives ($350,000, $400,000, $0.99). Words 5,123. Pages 8. "instead of" used once.

@@ -16,6 +16,16 @@ Requested by Lilly ("make sure all outcome-based agents as getting very broad so
 - E3. Regulated Services: Healthcare, Insurance, Legal and Life Sciences: 26 to 19 to 19
 - Total: 131 to 81 to 76
 
+## v8 (2026-10-29): AI-Native Production QA on v7
+
+Every reason below was checked on the company's own site on 2026-10-29 or in a filed source; full table with source ids in insights/outcome-based-agents-verified.md.
+
+- Merged: DeepOpinion into Otera. deepopinion.ai redirects to otera.ai, and the Otera site header reads "previously DeepOpinion". Otera's pricing page says "Priced on outcomes" (company claim, no public price), so Otera is now core in D.
+- Upgraded: Augment to core in E2. Its pricing page says each workflow is priced per completed unit (loads built, carriers booked, appointments set, docs filed). The exact phrase "results-oriented by workflow and load" does not appear on the page.
+- Cut: CopilotKit (A); Sycamore, Relevance AI, UiPath (C); Parloa, PolyAI, Cresta, Omilia (E1); Definite, Adaptive, Pactum, Elimentary, Zomma, Walter (E2); Sixfold, FurtherAI, Tennr, Candid Health (E3). Cresta, Sixfold and Pactum stay in the body as evidence.
+- Domains: Pace is withpace.com, Magentic is magentic.com, Definite is usedefinite.com (definite.ai is a different company and appears nowhere in the repo).
+- Counts v7 to v8: A 7 to 6, B 7 to 7, C 6 to 3, D 10 to 9, E1 9 to 5, E2 14 to 8, E3 18 to 14. Total 71 to 52.
+
 ## v7 (2026-10-29): rebuilt from outcome-based-agents-verified.md
 
 Lists now come from insights/outcome-based-agents-verified.md, which applies one test (completes a defined unit of work end to end, and is paid per outcome or per completed unit, or takes responsibility for the result) and records pricing evidence for every name. Core outcome-priced names lead each list. A, B and D keep their framing as suppliers and incumbents.

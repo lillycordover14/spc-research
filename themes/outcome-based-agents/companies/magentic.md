@@ -2,7 +2,7 @@
 slug: magentic
 name: Magentic
 aliases: []
-website: null
+website: https://www.magentic.com
 hq: null
 founded: null
 layer: vertical-outcome

@@ -2,7 +2,7 @@
 slug: relevance-ai
 name: Relevance AI
 aliases: []
-website: null
+website: https://www.relevanceai.com
 hq: null
 founded: null
 layer: orchestration
@@ -45,8 +45,9 @@ sources:
 - src-20261023-93b3cb
 - src-20261026-9aa7b0
 - src-20261028-7f85a1
+- src-20261029-6a85cf
 data_quality: Card promoted 2026-10-28 by grokbot at 2 independent sources (funding report plus VC primer). Company-only claims labeled. n/v fields left blank.
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 
 ## What they do

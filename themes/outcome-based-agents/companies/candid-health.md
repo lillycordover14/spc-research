@@ -1,14 +1,14 @@
 ---
-slug: deepopinion
-name: Deepopinion
+slug: candid-health
+name: Candid Health
 aliases: []
-website: null
+website: https://www.joincandidhealth.com
 hq: null
 founded: null
-layer: orchestration
+layer: adjacent
 layers: []
 model: unknown
-what: 'Agentic process automation platform used by Cognizant for insurance claims BPO, priced per task'
+what: ''
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -24,9 +24,9 @@ status: candidate
 spc_owner: Lilly
 tags: []
 sources:
-- src-20250627-297f7b
-data_quality: auto-created stub from src-20250627-297f7b; fill layer/model/what
-updated: '2026-10-25'
+- src-20261029-c03bec
+data_quality: auto-created stub from src-20261029-c03bec; fill layer/model/what
+updated: '2026-10-29'
 ---
 
 ## What they do
@@ -35,7 +35,6 @@ updated: '2026-10-25'
 
 ## Traction and signals
 
-- 2025-06-27 | Platform under Cognizant's insurance claims BPO automation, per-task credit pricing [src-20250627-297f7b]
 ## Economics (what we know)
 
 ## Open questions

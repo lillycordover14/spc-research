@@ -63,6 +63,7 @@ sources:
 - src-20260829-a29596
 - src-20261028-d15c5b
 - src-20261028-935bd9
+- src-20261029-e6ecea
 data_quality: Card built 2026-10-28 by grokbot from 13 sources (Lilly asked to add). Valuation (about $250M) is secondhand via Whiteford citing Bloomberg via LinkedIn [src-20261028-935bd9], so valuation_usd left null. Headcount 51 to 200 per LinkedIn via Whiteford, left null. model=usage-priced on the public per-run credit price; enterprise terms not disclosed. in-production and measurable-roi rest on company sources (Incyte deployment, PHP case study). R&D sits outside the core enterprise-ops buyers; placed as vertical-outcome because it sells completed research and regulatory work units into pharma.
 updated: '2026-10-28'
 news_query: '"Edison Scientific" OR ("Kosmos" "AI scientist")'

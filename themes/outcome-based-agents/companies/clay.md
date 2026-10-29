@@ -42,6 +42,23 @@ sources:
 - src-20250507-e13bdd
 - src-20260922-5e723f
 - src-20261022-c0698e
+- src-20261029-802241
+- src-20261029-467c87
+- src-20261029-3b9327
+- src-20261027-bf9dc1
+- src-20261029-0fed65
+- src-20261028-f28091
+- src-20261027-ed5264
+- src-20261028-48bdcf
+- src-20261027-6e8e7e
+- src-20261029-1eb9df
+- src-20261026-e36aa2
+- src-20261029-7c0d6b
+- src-20261029-9ac01f
+- src-20261029-1f6ea0
+- src-20261029-fb9692
+- src-20261029-737248
+- src-20261029-c00920
 data_quality: Card filled 2026-10-28 by grokbot from AlphaSense batch 4 and filed sources; fields left null where sources do not state them. Company figures are company or press reported.
 updated: '2026-10-28'
 ---

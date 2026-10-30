@@ -106,3 +106,21 @@ v4 applies the two blocking fixes from the outside review of v3 (commit 0ad733a)
 - A new tailwind may cite only figures already filed in sources/; the E2 compliance and freight tailwind is figure-free because the vendor figures sit only in the Affinity screen.
 - Report word count from pdftotext of the exported PDF, not the build script count.
 - All v10 and v11 checks still apply.
+
+## v13 (perspective memo, 2026-10-29)
+
+Research base for v13, counted 2026-10-29: 898 filed sources under sources/, including 55 expert-call transcripts (AlphaSense) and 54 podcasts. New v13 sources: Fragment, Notch, InstaLILY, Edra, Brain Co, Salient (a16z), HappyRobot Series C, ChatGPT Work (2026-07-09, Uber rollout 2026-10-22), OpenAI with Oracle and ServiceNow (2026-10-27/28), Claude Science (2026-06-30).
+
+- Theses 1 to 3 answer Lilly's three questions in order (tipping point, right to win against the labs including the harness question, who we can back today), each heading a one-sentence direct answer; Thesis 4 is the outcome-pricing view and whether to push further.
+- Part 2 uses three groups only: A Horizontal, B Regulated verticals, C Non-regulated verticals, each split into domains with a focus call. No labs, incumbent or SI category; those appear only as unnamed forces.
+- Part 3 is the expert call framework: hypotheses, three call types, open questions mapped to theses.
+- Company names appear only on "Example companies:" lines (including the one under Thesis 3) and "Call targets:" lines in Part 3; qa.py allows exactly those two ties labels.
+- Every Example company needs a row in the v13 table of outcome-based-agents-verified.md (qa.py VERIFIED_ROW check replaces the primer-group check).
+- Thesis 3 may repeat names from Part 2; duplicate checks apply to Part 2 categories only.
+- All v10 to v12 checks still apply.
+
+### v13 read pass and labs research fold-in (2026-10-29, 21:30 ET)
+- Read all 55 AlphaSense expert-call and research transcripts in sources/alphasense (summary, key facts and takeaways) and the summaries of 460 other filed sources; 407 sweep records carry no summary and were scanned by title only.
+- Folded insights/labs-layers-adoption-research-2026-10-29.md into Theses 1 to 3, the A1 and B1 labs content and the Part 3 hypotheses. Labs stay unnamed as "the model labs".
+- Expert-call citations now appear in all four theses and in A1, A2, B1, B2, B3, C1, C2 and C3. B4 Legal Services and B5 Life Sciences Research have no matching expert call on file.
+- 21:15 ET: applied the six blocking fixes from the AI-Native Production QA (/workspace/qa/OBA-v13-QA.md): Thesis 2 lead and the matching A1 and hypothesis edits, the prescriptive A1 verdict, Edra moved off the Thesis 3 line (it stays in A2), the single-company rewrites, the B4 and C2 stage notes moved into the focus text, the Part 3 meta reference and bold leads fixed, Call type 4 added. The strict QA category check now allows 2 to 5 tailwinds and headwinds, because the QA deleted one tailwind each from B1 and B5 and one headwind from B4.

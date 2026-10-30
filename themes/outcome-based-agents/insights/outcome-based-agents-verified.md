@@ -1,6 +1,51 @@
-# Outcome-based agents: verified example companies (v12 lists, v11 test, 2026-10-29)
+# Outcome-based agents: verified example companies (v13 lists, v11 test, 2026-10-29)
 
 Built for memo v7 after Lilly's feedback on v6 (restore Workfabric, tighten the set, verify every name) and tightened for v8 after the AI-Native Production QA (Otera rename, 18 more cuts, each reason checked on the company's own site on 2026-10-29). Every row cites a filed source id. Company statements are company claims. Where no public price exists, pricing says unknown. Nothing here is estimated.
+
+## v13 lists (perspective memo, 2026-10-29)
+
+Lilly's v13 direction (2026-10-29): build the memo as a perspective, with categories Horizontal, Regulated verticals and Non-regulated verticals (no labs, incumbent or SI category), and include Duvo, Workfabric, Edison Scientific, Sycamore, InstaLILY, Magentic, Salient, Notch, Brain Co, Fragment, Edra, Anterior and HappyRobot. Every Example company in v13 has a row here. Company statements are claims. The v11 job-completion test still applies as a description, but Lilly's named companies are included at her request even where they would not pass it (noted in the row).
+
+| Company | v13 category | What it does | Evidence (customers, round, traction) | Note | Sources |
+|---|---|---|---|---|---|
+| Duvo | A1 Orchestration and harness | Execution OS that runs approved operational workflows across ERPs and portals; per agent run | $32M Series A (Balderton), about $48M total; Notino reconciliation 70 to 15 days; a customer saves 30 to 40 FTEs (expert call) | Lilly must-include; call target | src-20261014-1d5d80, src-20260609-4b024f, src-20260701-3b0c17 |
+| Sycamore | A1 Orchestration and harness | Agent operating system: Forge builds and runs agents from a described outcome, Guard governs every agent | $65M seed (Coatue, Lightspeed); no customers named on site or in coverage; site says it works with Fortune 100 companies (claim) | Lilly must-include (sycamore.so); call target; no named customers | src-20261029-4e4c26, src-20260330-8d6266 |
+| Ema | A1 Orchestration and harness | Teams of agents running HR, IT and finance processes | $77M Series B; bookings $150M+ (claim); NTT DATA, Hitachi | v12 C carried over | src-20260930-9ee545, src-20260224-8c72f4 |
+| Convey | A1 Orchestration and harness | Digital teammates that run invoice processing, reconciliation and reporting | $38M Series A; named customers on site (claim) | v12 C carried over | see v12 row |
+| Brain Co | A1 Orchestration and harness | Applied AI platform and applications built and deployed for governments and large institutions | $30M Series A (Gil Capital, Affinity Partners), Sep 2025; 10 Global 2000 customers including a strategic relationship with OpenAI (claim); customers not named beyond use types | Lilly must-include (brain.co); services-led, sits closest to a harness builder | src-20250911-dc1698 |
+| Workfabric AI | A2 Work context | ContextFabric captures decisions, exceptions and approvals from live work as context for agents | Live and generating revenue (press); Cognizant to train 1,000 context engineers; no customers named on site; funding not disclosed | Lilly must-include; call target; fails the v11 test, kept as the context example | src-20251229-050f87, src-20261023-21a6d6 |
+| Edra | A2 Work context | Turns emails, logs, tickets and chats into a living knowledge base that agents act on; ITSM and support first | $30M Series A led by Sequoia with 8VC and A* (Mar 2026); HubSpot, ASOS, Cushman & Wakefield | Lilly must-include; failed the earlier Affinity screen as a build kit and context platform, included at Lilly's request | src-20260318-d7f379 |
+| Anterior | B1 Healthcare administration | Auto-approves prior authorizations for health plans | $64M total; Geisinger Health Plan; value-based pricing incl. per auto-approved request | Lilly must-include | src-20260213-d1e7fa |
+| SmarterDx | B1 Healthcare administration | Pre-bill review of charts for missed diagnoses; pays only on approved findings | UAMS, Novant, McLaren | v12 E3 | src-20261029-559e73 |
+| Procode | B1 Healthcare administration | Surgical coding and billing on contingency | $10M Series A; 350+ providers | v12 E3 | src-20260728-5c2f73 |
+| TJM Labs | B1 Healthcare administration | Pharmacy agents for intake, refills and prior-auth support | $75M Series B; 550+ pharmacies (site) | v12 E3 | tjmlabs.com |
+| Adaptive Innovations | B1 Healthcare administration | AI-native home health provider | $50M Series A (Felicis, BCV) | v12 E3 | adaptive.co |
+| Alaffia Health | B1 Healthcare administration | Payment integrity, utilization review and appeals for health plans | $55M Series B (Feb 2026) | v12 E3 | businesswire release |
+| Notch | B2 Insurance operations | Governed agents for insurance, telecom and banking ops (FNOL intake, servicing, renewals) | Phoenix Insurance in production across channels in its own cloud; 70% to 73% autonomous resolution across 20M FNOL conversations (claim); $30M Series A led by Headline (get-notch.co coverage) | Lilly must-include (notch.cx). notch.cx and get-notch.co appear to be the same company (Phoenix is customer and investor), domain differs; v8 excluded it on undisclosed pricing, which no longer decides | src-20261029-6049d3, src-20260325-5584af |
+| Pace | B2 Insurance operations | Replaces insurance BPO work (claims QA, servicing) | $46M Series B; Prudential, Palomar | v12 E3 | src-20261025-c77b6e, src-20260811-a0aa1e |
+| Reserv | B2 Insurance operations | AI-native claims TPA | $25M Series B; 80+ MGAs (claim) | v12 E3 | src-20250604-fd80b0 |
+| Harper | B2 Insurance operations | AI-native commercial insurance brokerage | $46.8M; 5,000+ customers | v12 E3 | src-20260225-3917a2 |
+| Strala | B2 Insurance operations | AI-native claims TPA | $51.3M raised | v12 E3 | src-20260401-133cee |
+| Salient | B3 Lending and financial services | Agents run auto-loan servicing and collections across voice, text, email and chat, with UDAAP monitoring | a16z-led Series A; $1B+ processed, handle times cut 60%; Westlake Financial, ACA, Exeter Finance, CPS and three listed banks | Lilly must-include. Lilly wrote salient.com, which is a different company (performance analytics, Corning NY); the agent company is Salient at trysalient.com, already on the LC list | src-20250728-f2a019 |
+| Bretton AI | B3 Lending and financial services | KYC, AML and sanctions investigation agents | $75M Series B (Sapphire); Robinhood, Mercury, Gusto | v12 E2 | businesswire release |
+| Gradient Labs | B3 Lending and financial services | Financial-services support and back-office case agents; pays on resolution | Wise and others listed on site | v12 E1 moved to B3 | src-20261029-170473 |
+| Crosby | B4 Legal services | AI-native commercial contracts law firm | $60M Series B (Lux); 100+ customers | v12 E3 | src-20260331-50e583 |
+| Lawhive | B4 Legal services | AI-native consumer law firm | revenue above $35M; $60M round | v12 E3 | src-20260205-e13567 |
+| EvenUp | B4 Legal services | Personal injury demand packages | $150M Series E, valuation above $2B; priced past our stage | v12 E3 | src-20251007-efb7da |
+| Edison Scientific | B5 Life sciences research | Kosmos research runs for biopharma | $70M seed; Incyte; per-run pricing retired May 2026 | Lilly must-include | src-20251218-eefcdb, src-20260519-9cb3f1 |
+| Fragment | C1 Procurement, logistics and distribution | Agents resolve source-to-pay exceptions (PO changes, invoice exceptions) on an Autonomous Context Engine | $56M total, Series A led by 8VC, seed co-led by General Catalyst and A* (launched 2026-10-28); Graybar, CNX; Flex 91% touchless in 4 weeks (claim) | Lilly must-include (fragment.ai) | src-20261028-a36adc |
+| Magentic | C1 Procurement, logistics and distribution | Procurement and supply-chain savings agents | $18M Series A (Felicis); IKEA 45% to 50% of procurement volume (expert call); Siemens, CCEP | Lilly must-include | src-20260917-25441c, src-20260209-7ec831, src-20260923-47e348 |
+| Didero | C1 Procurement, logistics and distribution | Procurement for manufacturers and distributors | $30M Series A | v12 E2 | src-20251024-112e5e |
+| HappyRobot | C1 Procurement, logistics and distribution | Freight and logistics agents on phone, email and chat for quoting, dispatch, collections and service | $150M Series C at $1.2B (Prysm, Eurazeo), Aug 2026, about $200M total; 150+ enterprise customers incl. DHL, Uber Freight, Kuehne+Nagel; CMA CGM resolves 46% of cargo release requests with its agents | Lilly must-include (added 2026-10-29 20:51); priced at Series C, past our usual entry; earlier cut in v12 | src-20260804-cd7dde, src-20261015-4835a8 |
+| InstaLILY | C1 Procurement, logistics and distribution | InstaWorkers for distributors and industrial suppliers, plus Lily, an AI forward-deployed engineer | $60M Series B (Energize; Home Depot Ventures, United Rentals), about $100M total; revenue up 5x+ (claim); SunSource, Parts Town, SRS Distribution, Henry Schein | Lilly must-include | src-20260714-2498c3 |
+| BackOps | C1 Procurement, logistics and distribution | Freight claims, billing and logistics exceptions | $42M Series B (Insight); 91% of claims resolved without humans at one deployment (claim) | v12 E2 | see v12 row |
+| Basis | C2 Finance and accounting | Tax, audit and close for accounting firms | $100M Series B at $1.15B; a third of US Top 25 firms | v12 E2 | src-20260730-3a49fd |
+| Freehand | C2 Finance and accounting | Decides whether to pay, dispute or negotiate each invoice | $75M seed; Meta, Unilever | v12 E2 | src-20260729-f4bed6 |
+| Niural | C2 Finance and accounting | AI-native global PEO running payroll and compliance | $52M Series A total | v12 E2 | niural.com |
+| Sierra | C3 Customer service and sales (no focus) | Resolves customer service contacts | valued at $15.8B | benchmark only | src-20261020-28bcd0 |
+| Decagon | C3 Customer service and sales (no focus) | Resolves support contacts | most customers pick per conversation | benchmark only | src-20241210-0d932d |
+
+Moved out of the lists in v13: OpenAI, Anthropic, Google, Microsoft, Amazon Web Services, LangChain, Salesforce, Zendesk, HubSpot, ServiceNow, SAP, Oracle, Workday, Accenture, Deloitte, Cognizant, Teleperformance (no labs, incumbent or SI category; they appear in the memo only as unnamed forces, and Deloitte and Accenture appear as call targets); Crescendo, Otera, Mechanical Orchard, Tessera Labs (AI services category dropped).
 
 ## The test (v11, 2026-10-29)
 

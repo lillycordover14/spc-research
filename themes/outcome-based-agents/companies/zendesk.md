@@ -31,6 +31,8 @@ sources:
 - src-20260724-865e53
 - src-20251023-28432e
 - src-20260828-bb2734
+- src-20260817-c3527b
+- src-20260831-c59649
 data_quality: Incumbent card created 2026-10-23 from earnings and pricing sources; numbers only with source ids.
 updated: '2026-10-23'
 ---

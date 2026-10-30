@@ -3,7 +3,7 @@
 _Seeded 2026-10-23 from Lilly's brief. This is the living version: every claim should end with a source id once we have one. Nothing below is sourced yet; treat it as hypotheses to test._
 
 ## Definition
-AI agents that complete enterprise work end to end and are bought on outcomes (per task, per resolution, share of savings) rather than per seat, plus the layers that let a large enterprise run many agents in production: the harness (runtime, tools, memory, evals, permissions), orchestration (coordinating many agents across systems with governance), and context on how work actually gets done.
+AI agents that complete a defined unit of enterprise work end to end and own the result (updated 2026-10-29 per Lilly: outcome or per-unit pricing is one way vendors capture value, not the definition), plus the layers that let a large enterprise run many agents in production: the harness (runtime, tools, memory, evals, permissions), orchestration (coordinating many agents across systems with governance), and context on how work actually gets done.
 
 The stack we use throughout (see `taxonomy.yml`): 1. model labs, 2. harness and infrastructure, 3. orchestration, 4. work context, 5. vertical outcome agents, 6. services and SIs.
 

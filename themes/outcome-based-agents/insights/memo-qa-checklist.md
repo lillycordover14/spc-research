@@ -93,3 +93,16 @@ v4 applies the two blocking fixes from the outside review of v3 (commit 0ad733a)
 - Research firms are not named in the body; cite as "industry research".
 - Tailwind/headwind bullets open with the market force; single-company data points are supporting clauses only, never the lead.
 - Docx scan: 0 company names outside "Example companies:" lines, 0 src ids, 0 "startup", 0 em dashes.
+
+## v11 (2026-10-29)
+- Definition: the agent completes a defined unit of work end to end and owns the result. Outcome or per-unit pricing is one way to capture value, never the definition; no thesis, tailwind, headwind or focus line may assume outcome pricing is required.
+- All v10 checks still apply (0 names outside Example lines, 0 "startup", 0 em dashes, 0 src ids in docx, 8 pages, STRICT_FLAGS 0).
+
+## v12 (2026-10-29)
+- No ", not " contrast construction anywhere in the body (v11 QA B1).
+- Every lead must follow the v11 definition: never infer how many whole jobs agents finish from how the work is priced (v11 QA B2).
+- Section titles must cover every name on their Example line; E2 is now "Finance, Compliance and Supply Chain" (v11 QA B3).
+- One source supports a singular subject only ("one global retailer reports", not "buyers report") (v11 QA B4).
+- A new tailwind may cite only figures already filed in sources/; the E2 compliance and freight tailwind is figure-free because the vendor figures sit only in the Affinity screen.
+- Report word count from pdftotext of the exported PDF, not the build script count.
+- All v10 and v11 checks still apply.

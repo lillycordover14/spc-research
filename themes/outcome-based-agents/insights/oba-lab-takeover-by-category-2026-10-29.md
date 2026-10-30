@@ -16,3 +16,20 @@ Test: in each category, what did OpenAI and Anthropic (plus Microsoft and Google
 | C3 Customer Service and Sales | OpenAI Presence, 75% of inbound issues resolved on its own line (Jul 22, a3993b); Sierra joins OpenAI B2B Marketplace (announced Sep 29 at DevDay; Futurum analysis Sep 30, 9b1413); Microsoft sales and service agents (Oct 8, 5bb82b) and Contact Center Intelligence (Oct 21, e45563); Salesforce $2 per resolution (ff7125). Counterpoint: Deutsche Telekom says "OpenAI and Anthropic are rather no-goes to us" (3b21a8). | Do not focus | Labs, Microsoft and suites now sell the finished resolution at a published price. Use as the pricing benchmark only. |
 
 Cross-category: Anthropic services firm (May 4, 8f8eff), OpenAI DeployCo (May 11, c3ff64), Anthropic $100M for 10,000 forward-deployed engineers (Oct 2, 8d9e4f), Frontier Alliances with consultancies (Feb 23, 9272a6). The labs now bring engineers as well as models, which is why "ships tools" is judged on whether they also take the accountable work.
+
+## v24 market assessment: how likely the labs are to absorb each category
+
+The v18 verdict column above is superseded in the memo by this descriptive rating (market assessment, not a recommendation). Lab traction sources added in v24: Anthropic H1 2026 revenue $16.29B, majority from businesses paying per use (f0b182); OpenAI enterprise revenue passed consumer per CFO in August, enterprise Codex users in legal up 108-fold since February (6efa2b); OpenAI annualized revenue ~$50B end of September (d13758); Google says nearly 90% of the Fortune 100 use Gemini Enterprise (52c762); Copilot Cowork used by over half the Fortune 500 (28211f).
+
+| Category | Rating | Basis |
+|---|---|---|
+| A1 Orchestration and Execution | High | Runtime and control plane sold by OpenAI, Google, Microsoft; limit is buyers wanting control plane partly outside a provider (66e092) |
+| A2 Work Context | Medium | Labs and Microsoft bundle context for own agents; SAP keeps TechWolf in its suite; no lab sells cross-app context for any model |
+| B1 Healthcare Administration | Medium | Both labs have health system customers and a prior auth template; coverage decision stays with the plan under CMS rule; EHR vendor limits outside AI (expert) |
+| B2 Insurance Operations | Medium | Custom builds with Allianz, State Farm Frontier, Roadzen on Managed Agents; no packaged lab insurance product in sources |
+| B3 Lending and Financial Crime | High | FIS agent available to any US bank, Fiserv with OpenAI, Anthropic KYC template; investigator stays accountable |
+| B4 Legal Services | High | Claude for Legal, Astra for Law, FDEs in top firms, CoCounsel Legal on Claude Agent SDK, Codex legal usage up 108-fold |
+| B5 Life Sciences Research | Medium | Both labs sell models and workbenches to named pharma; tools for the customer's own scientists |
+| C1 Procurement, Logistics, Distribution | Low | OpenAI procurement agent internal plus preview; Oracle agents inside its ERP; no cross-company lab product |
+| C2 Finance and Accounting | Medium | Templates and PwC build; no named production close customer; agents cost several times bots |
+| C3 Customer Service and Sales | High | Presence, Microsoft CCI, Salesforce $2 per resolution; limit is buyers like Deutsche Telekom ruling labs out over EU data |

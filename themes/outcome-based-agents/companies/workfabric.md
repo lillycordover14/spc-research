@@ -49,6 +49,7 @@ match_context:
 - work
 - artificial intelligence
 sources:
+- src-20260610-10dfb0
 - src-20261023-21a6d6
 - src-20260408-5408bb
 - src-20260710-e2a61b

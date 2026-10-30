@@ -33,6 +33,7 @@ tags:
 - tpa
 - memo-E3
 sources:
+- src-20261029-eaefa8
 - src-20260401-133cee
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'

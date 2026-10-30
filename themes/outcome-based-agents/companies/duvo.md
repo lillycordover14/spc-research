@@ -58,6 +58,7 @@ match_context:
 - artificial intelligence
 - automation
 sources:
+- src-20261019-9430ef
 - src-20261014-79938e
 - src-20261014-1d5d80
 - src-20260401-e0ba89

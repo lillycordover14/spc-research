@@ -45,6 +45,7 @@ spc_owner: Lilly
 tags:
 - outcome-pricing
 sources:
+- src-20260923-953c18
 - src-20260930-9ee545
 - src-20261025-7ef133
 - src-20261026-2c6450

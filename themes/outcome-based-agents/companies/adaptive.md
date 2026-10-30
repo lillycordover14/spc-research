@@ -24,6 +24,7 @@ status: candidate
 spc_owner: Lilly
 tags: []
 sources:
+- src-20260602-51dadc
 - src-20261029-93fb4a
 data_quality: auto-created stub from src-20261029-93fb4a; fill layer/model/what
 updated: '2026-10-29'

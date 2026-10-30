@@ -1,4 +1,4 @@
-<!-- OBA theme memo v22, 2026-10-29. Source of truth for exports/OBA-theme-memo-v22-2026-10-29.docx/.pdf. Inline cites show the short source name; bracketed ids map to sources/. Built with /workspace/oba-memo/build.py on the Sewon template. -->
+<!-- OBA theme memo v23, 2026-10-29. Source of truth for exports/OBA-theme-memo-v23-2026-10-29.docx/.pdf. Inline cites show the short source name; bracketed ids map to sources/. Built with /workspace/oba-memo/build.py on the Sewon template. -->
 
 # Enterprise Agents and the Frontier Labs
 
@@ -16,8 +16,8 @@ The theme covers AI agents that finish a defined piece of enterprise work, such 
 
 2. **Almost every big enterprise now runs agents, but few can show a return yet, and buyers still pay for AI mostly by the seat or by usage**
 
-- Agent use has spread across big companies quickly, and on Microsoft's platform alone the number of agents grew by more than 30% in a single quarter. In a July 2026 survey 95.3% of enterprises ran at least one agent workflow in production (IDC) [src-20260901-8a07a7], and Microsoft counts over 50M agents in its registry, up more than 30% in a quarter (Microsoft earnings call) [src-20261028-51d9ca].
-- The value has not kept pace with the usage, because most agents still do simple, narrow tasks that are hard to tie to a line in the budget. Only 13% of CIOs report significant or transformational value from AI (Gartner) [src-20261019-a120c4], only 22% of organizations have scaled AI across multiple business units (Gartner) [src-20260901-59ebe1], and the head of Amazon Web Services describes most enterprise agents as relatively simple and mostly non-autonomous (AWS interview) [src-20261008-3ac60a].
+- Agent use has spread across big companies quickly, both in surveys of enterprises and in the agent counts the main platforms report. In a July 2026 survey 95.3% of enterprises ran at least one agent workflow in production (IDC) [src-20260901-8a07a7], and Microsoft counts over 50M agents in its registry, up more than 30% in a quarter (Microsoft earnings call) [src-20261028-51d9ca].
+- The value has not kept pace with the usage, because most agents that enterprises have built still do simple, narrow and mostly supervised tasks. Only 13% of CIOs report significant or transformational value from AI (Gartner) [src-20261019-a120c4], only 22% of organizations have scaled AI across multiple business units (Gartner) [src-20260901-59ebe1], and the head of Amazon Web Services describes most enterprise agents as relatively simple and mostly non-autonomous (AWS interview) [src-20261008-3ac60a].
 - Buyers therefore stay wary of savings claims and keep paying the way they always have. For AI features billed separately, decision makers still rank per-seat pricing first at 42.3%, ahead of consumption at 36.6% and outcome pricing at 21.1% (Futurum) [src-20260817-c3527b], ServiceNow's finance chief says its customers are not asking for outcome pricing at all (ServiceNow earnings call) [src-20261028-88124d], and a revenue cycle executive whose own gains are in the low double digits dismisses any vendor claim above that (expert call) [src-20260608-5e7d7e].
 
 3. **Since January the labs have moved from selling models to selling the agent runtime, ready-made department agents and their own deployment services**
@@ -25,16 +25,15 @@ The theme covers AI agents that finish a defined piece of enterprise work, such 
 - The software that runs agents, which agent platforms used to sell, now comes from the labs at close to the cost of the tokens it uses. Anthropic launched Managed Agents at $0.08 per session-hour in April (Anthropic) [src-20260408-e5d37b], and OpenAI opened its Agents API in September with no fees beyond tokens and tools (OpenAI) [src-20260910-014b24].
 - Both labs also ship ready-made agents for whole departments that take a goal through to finished documents and analyses. Anthropic open-sourced 11 Cowork plugins for roles from sales and finance to legal and customer support in January (Anthropic) [src-20260130-79791d], and OpenAI launched ChatGPT Work in July as an agent that turns a goal into finished work (OpenAI) [src-20260709-eb8b16].
 - To get those agents into production the labs are adding people as well as products, and they are only now building the services arms that reach the labor budget. OpenAI formed a majority-owned deployment company with more than $4B of initial investment (OpenAI) [src-20260511-c3ff64], Anthropic formed a services firm with Blackstone, Hellman & Friedman and Goldman Sachs aimed at mid-sized companies (Anthropic) [src-20260504-8f8eff], and OpenAI's Frontier Alliances bring in BCG, McKinsey, Accenture and Capgemini to deploy its platform (OpenAI) [src-20260223-9272a6]. The labs are also buying, as AI companies funded by venture investors bought 195 other AI companies through September 29, with OpenAI making 10 of those deals and Anthropic 5 (Crunchbase via Forbes) [src-20261021-c49bee].
-- Big buyers are hedging against any single lab by spreading their bets across models and keeping control of their own agents. In a survey 81% of big-company CIOs use three or more model families (a16z CIO survey) [src-20260130-fb2a33], and 67% of agent platform users expect the control plane to sit at least partly outside a provider-managed service (VentureBeat survey) [src-20261005-66e092].
+- Buyers are hedging against any single lab by spreading their bets across models and keeping control of their own agents. In a survey 81% of big-company CIOs use three or more model families (a16z CIO survey) [src-20260130-fb2a33], and 67% of agent platform users expect the control plane to sit at least partly outside a provider-managed service (VentureBeat survey) [src-20261005-66e092].
 
 4. **The labs ship templates and tools but leave the work that needs private data, write access to core systems, a license or liability with the buyer and its service providers**
 
-- Lab products stop at the template and leave the buyer responsible for the outcome, because running a regulated or messy operation is slow, local and risky work. Sapphire Ventures finds that the labs do not want to take on the operational mess of running work for customers (Sapphire Ventures) [src-20260416-926244], and Andrej Karpathy points builders to work that is valuable and easy to check but undertrained by the frontier labs (conference summary) [src-20260430-1af2d4].
-- Whoever does the work also keeps the data from doing it, which makes each new job cheaper to deliver and harder for a rival to copy. Bessemer argues that each delivered unit of verifiable work becomes training data for the company that delivers it (Bessemer) [src-20260731-169caf], and Menlo Ventures finds that regulatory certification and human sign-off slow competitors down (Menlo Ventures) [src-20260407-5d9d8c].
-- How far the labs reach into the work itself differs sharply from one industry to the next. In health plan administration, insurance below the biggest carriers, and procurement and freight, the labs have shipped tools while the accountable work still sits with plans, carriers, claims administrators and purchasing teams. In bank compliance, life sciences research and finance operations the labs now sell the core tool through core banking providers, direct deals with drug companies and consulting partners, and in legal services and customer service the labs and the big software suites sell the agents and the finished work directly.
+- Lab products stop at the template and leave the buyer responsible for the outcome, because running a regulated or messy operation is slow, local and risky work. Sapphire Ventures finds that the labs do not want to take on the operational mess of running work for customers (Sapphire Ventures) [src-20260416-926244].
+- How far the labs reach into the work itself differs sharply from one industry to the next. In health plan administration, insurance below the biggest carriers, and procurement and freight, the labs have shipped tools while the accountable work still sits with plans, carriers, claims administrators and purchasing teams. In bank compliance, life sciences research and finance operations the labs now sell the core tool through core banking providers, direct deals with drug companies and consulting partners, and in legal services and customer service the labs and the big software suites now sell agents straight to the firms and support teams that do the work.
 # 2. Interesting categories
 
-We split the theme into horizontal software that runs agents across a company, regulated verticals where a license or rulebook governs the work, and non-regulated verticals where the work is operational. Each category summarizes what enterprises and the labs are doing there, with the lab moves dated from January 2026 onward.
+We split the theme into horizontal software that runs agents across a company, regulated verticals where a license or rulebook governs the work, and non-regulated verticals where the work is operational. In each category the lab moves are those OpenAI, Anthropic, Microsoft and Google made from January 2026 onward.
 
 ## A. Horizontal
 
@@ -43,8 +42,8 @@ We split the theme into horizontal software that runs agents across a company, r
 **What is happening:**
 
 - **Companies are handing agents real authority faster than they build the controls to govern them.** In a BCG survey of 1,330 executives, 42% expect agents to hold real decision authority by 2030 while only 5% have the controls in place (BCG) [src-20260930-591de0].
-- **Custom agent systems built by outside engineers rarely last, because they cost too much to maintain.** Gartner expects 70% of enterprises to abandon agent systems built by vendor engineering teams by 2028 because of maintenance costs (Gartner) [src-20261012-11ce4a].
-- **Every lab and cloud now ships the generic runtime and control plane for agents.** OpenAI launched Frontier in February with HP, Oracle, State Farm, Thermo Fisher and Uber as first adopters (OpenAI) [src-20260205-ea19f4], Google turned Vertex AI into the Gemini Enterprise Agent Platform in April (Google) [src-20260422-1f1ec3], and Microsoft sells Agent 365 to govern agents at $15 per user per month (Microsoft) [src-20260501-fc687c].
+- **Gartner expects most custom agent systems built by outside engineering teams to be abandoned by 2028 because they cost too much to maintain.** Gartner expects 70% of enterprises to abandon agent systems built by vendor engineering teams by 2028 because of maintenance costs (Gartner) [src-20261012-11ce4a].
+- **OpenAI, Google and Microsoft now each ship a generic runtime and control plane for running and governing agents.** OpenAI launched Frontier in February with HP, Oracle, State Farm, Thermo Fisher and Uber as first adopters (OpenAI) [src-20260205-ea19f4], Google turned Vertex AI into the Gemini Enterprise Agent Platform in April (Google) [src-20260422-1f1ec3], and Microsoft sells Agent 365 to govern agents at $15 per user per month (Microsoft) [src-20260501-fc687c].
 
 **Example companies:** Duvo, Sycamore
 
@@ -53,8 +52,8 @@ We split the theme into horizontal software that runs agents across a company, r
 **What is happening:**
 
 - **Enterprises expect to tailor agents to how their own business works, which needs context that no model ships with.** In a Deloitte survey of 3,235 leaders, 85% expect to customize agents to fit the unique needs of their business (Deloitte) [src-20260121-231aaa].
-- **The big application suites are buying context about how work gets done and keeping it inside their own products.** SAP agreed to buy a work context graph company for its HR suite (SAP) [src-20261001-056aad].
-- **The labs now bundle company context into their own platforms at no extra charge.** Frontier includes a business context layer that spans warehouses, CRM, ticketing and internal apps (OpenAI) [src-20260205-ea19f4], and Anthropic lets admins package skills and connectors into private plugins for each team (Anthropic) [src-20260224-a28ce9].
+- **SAP agreed to buy a company that maps how work gets done and will keep that context inside its own HR suite.** SAP says the acquired company is expected to become an intelligent core of its SuccessFactors HR software (SAP) [src-20261001-056aad].
+- **The labs now bundle company context into the agent platforms they sell to enterprises.** Frontier includes a business context layer that spans warehouses, CRM, ticketing and internal apps (OpenAI) [src-20260205-ea19f4], and Anthropic lets admins package skills and connectors into private plugins for each team (Anthropic) [src-20260224-a28ce9].
 
 **Example companies:** Edra, Workfabric AI
 
@@ -75,8 +74,8 @@ We split the theme into horizontal software that runs agents across a company, r
 **What is happening:**
 
 - **Insurers employ big claims and policy teams whose work follows forms, rules and deadlines that agents can follow too.** Government data counts 324,230 claims adjusters, examiners and investigators at a mean wage of $80,470 (BLS) [src-20260401-ae18ba], and HFS expects traditional outsourcing to "decline from 55% to 37% of delivery" within two years (HFS Research) [src-20260831-73c927].
-- **Insurers are flooded with agent vendors and keep their data in their own systems.** An insurance executive says he is pitched two or three times a day, and adds that all of the data his team works with lives inside the insurer's existing systems (expert call) [src-20260811-a0aa1e].
-- **The biggest carriers now get custom claims agents and agent platforms straight from the labs.** Allianz is co-developing motor and health claims agents with Anthropic (Allianz) [src-20260109-a82ace], State Farm was among the first adopters of OpenAI Frontier (OpenAI) [src-20260205-ea19f4], and the listed insurtech Roadzen is launching underwriting and claims agents on Anthropic's managed agent platform (Roadzen filing) [src-20260507-76bd32].
+- **One insurance executive says agent vendors pitch the team two or three times a day and that all of the team's data stays inside the insurer's own systems.** The executive, who runs strategic partnerships at an insurance group, made both points in an August 2026 expert call (expert call) [src-20260811-a0aa1e].
+- **Anthropic is building claims agents with Allianz, and State Farm was among the first carriers to adopt OpenAI's agent platform.** Allianz is co-developing motor and health claims agents with Anthropic (Allianz) [src-20260109-a82ace], State Farm was among the first adopters of OpenAI Frontier (OpenAI) [src-20260205-ea19f4], and the listed insurtech Roadzen is launching underwriting and claims agents on Anthropic's managed agent platform (Roadzen filing) [src-20260507-76bd32].
 
 **Example companies:** Notch, Pace, Harper, Strala
 
@@ -85,9 +84,9 @@ We split the theme into horizontal software that runs agents across a company, r
 **What is happening:**
 
 - **Financial crime compliance is a big and rising cost whose biggest line is people.** It costs institutions in the US and Canada $61 billion a year, and labor is the biggest cost within that spending (LexisNexis and Forrester) [src-20240221-19ce25].
-- **The biggest banks build their own agents or buy packages straight from the labs.** Capital One built its own agent platform under model risk rules (podcast) [src-20260416-e6896d], and OpenAI built ChatGPT for Financial Services with Morgan Stanley and Evercore (OpenAI) [src-20260910-8f172a].
+- **Capital One built its own agent platform, and OpenAI built its financial services package with Morgan Stanley and Evercore.** Capital One built its own agent platform under model risk rules (podcast) [src-20260416-e6896d], and OpenAI built ChatGPT for Financial Services with Morgan Stanley and Evercore (OpenAI) [src-20260910-8f172a].
 - **Anthropic and OpenAI now reach the rest of the banks through the core banking providers.** FIS made its AML agent, built with an embedded Anthropic team, available to any US bank in October (FIS) [src-20261015-9b6d2c], Fiserv launched agentOS with OpenAI as a collaborator and an AML triage agent among its four launch agents (Fiserv) [src-20260514-c198a1], and Anthropic's templates include KYC screening (Anthropic) [src-20260505-1c452a].
-- **These bank agents recommend and leave each case with the bank's own staff.** The design partner for the FIS agent says "the investigator remains accountable for the final determination" (FIS) [src-20261015-9b6d2c].
+- **The FIS agent recommends a decision and leaves each case with the bank's own investigators.** The design partner for the FIS agent says "the investigator remains accountable for the final determination" (FIS) [src-20261015-9b6d2c].
 
 **Example companies:** Salient, Bretton AI, Gradient Labs
 
@@ -108,7 +107,7 @@ We split the theme into horizontal software that runs agents across a company, r
 
 - **Drug research is one of the biggest professional budgets in any industry and keeps growing.** R&D spending at the biggest pharma companies rose to $190Bn in 2024 from $163Bn in 2023 (IQVIA Institute) [src-20250301-62db38].
 - **Anthropic sells research products straight to drug companies, and research software stocks fell on the day it launched its research workbench.** Anthropic named Novo Nordisk and Sanofi as customers in January (Anthropic) [src-20260111-f1affc], and Schrodinger shares fell as much as 8.3% the day Anthropic launched Claude Science in June, with Recursion and IQVIA also lower (trade press) [src-20260630-55a218].
-- **OpenAI has its own life sciences model and sells it to the same drug companies.** OpenAI launched a life sciences model with Amgen and Moderna in April (OpenAI) [src-20260416-fc8cf7], and its life sciences plugin connects more than 50 research tools (OpenAI) [src-20260416-fc8cf7].
+- **OpenAI has its own life sciences model, which left research preview in September and is now sold to drug companies through a vetted access program.** OpenAI launched GPT-Rosalind in April with Amgen and Moderna among its customers and made it generally available to eligible organizations on September 11, alongside a free Codex plugin that connects to more than 50 public databases, literature sources and biology tools (OpenAI) [src-20260416-fc8cf7].
 
 **Example companies:** Edison Scientific
 
@@ -119,7 +118,7 @@ We split the theme into horizontal software that runs agents across a company, r
 **What is happening:**
 
 - **Purchasing and freight coordination employ big teams whose work runs on email, portals and phone calls.** Government data counts 491,430 buyers and purchasing agents, 202,810 dispatchers outside emergency services and 97,670 cargo and freight agents (BLS) [src-20260401-ae18ba].
-- **ERP suites now ship agents of their own that act inside the purchasing processes they already run.** Oracle launched 22 Fusion Agentic Applications that act inside its business processes (Oracle) [src-20260324-59ab43].
+- **Oracle now ships 22 agentic applications of its own that act inside the business processes its ERP suite already runs.** Oracle launched its Fusion Agentic Applications in March as teams of specialized agents that run on Fusion data (Oracle) [src-20260324-59ab43].
 - **OpenAI is building and testing procurement agents that handle purchasing requests inside a single company, starting with its own finance team.** OpenAI is building a procurement agent with PwC inside its own finance team (OpenAI) [src-20260504-c8e2ab] and previewed specialist agents tested on procurement and invoice processing in September (OpenAI) [src-20260929-2fdd0f].
 
 **Example companies:** Fragment, Magentic, Didero, InstaLILY, BackOps, HappyRobot, Freehand
@@ -129,7 +128,7 @@ We split the theme into horizontal software that runs agents across a company, r
 **What is happening:**
 
 - **Finance teams repeat the same work every month with big clerical staffs, and every invoice or reconciliation has a clear count and cost.** Government data counts 1,373,680 bookkeeping, accounting and auditing clerks at a mean wage of $53,560 (BLS) [src-20260401-ae18ba].
-- **Agents cost more to run than the scripted bots finance teams already use, which slows the switch.** An integrator's automation lead says a task costing $200 or $300 a month on bots costs $1,000 or $1,200 a month with AI (expert call) [src-20260825-747be0].
+- **An integrator's automation lead says agents cost several times more to run than the scripted bots finance teams already use.** The automation lead puts a task at $200 or $300 a month on bots and $1,000 or $1,200 a month with AI (expert call) [src-20260825-747be0].
 - **Both labs now go after the in-house monthly close directly, with templates and consulting partners.** Anthropic's spring financial services release includes a month-end closer (Anthropic) [src-20260505-1c452a], and OpenAI and PwC are building agents for planning, payments, tax and the accounting close (OpenAI) [src-20260504-c8e2ab].
 
 **Example companies:** Basis, Niural
@@ -138,8 +137,8 @@ We split the theme into horizontal software that runs agents across a company, r
 
 **What is happening:**
 
-- **Customer service is the first job agents finish end to end at scale, because a resolved ticket is easy to check and to price.** OpenAI says its Presence agent resolves 75% of inbound issues on its own phone line without human assistance, and it launched Presence in July as a deployed product for production support agents (OpenAI) [src-20260722-a3993b].
-- **The big software suites now sell finished service work at a published price.** Salesforce charges $2 per resolution for its help agent and says its agents have handled 4.3 million inquiries on its own help site (CX Today) [src-20260926-ff7125], and Microsoft launched Contact Center Intelligence in October on top of existing systems from Cisco and Avaya (Constellation) [src-20261021-e45563].
-- **At least one big European telecom keeps the labs out of its contact center and plans to consolidate the specialist vendors it uses.** A Deutsche Telekom executive who deploys AI customer support says OpenAI and Anthropic are rather no-goes for the company, and he plans to cut to one or two vendors within 18 months (expert call) [src-20260727-3b21a8].
+- **Customer service is the first job agents finish end to end at scale, because a resolved ticket is easy to check and to price.** OpenAI says its Presence agent, launched in July, resolves 75% of inbound issues on its own phone line without human assistance (OpenAI) [src-20260722-a3993b], and Salesforce says its agents have handled 4.3 million inquiries on its own help site (CX Today) [src-20260926-ff7125].
+- **Salesforce now sells finished service work at a published price, and Microsoft launched an AI layer for contact centers on the systems buyers already run.** Salesforce charges $2 per resolution for its help agent (CX Today) [src-20260926-ff7125], and Microsoft launched Contact Center Intelligence in October on top of existing systems from Cisco and Avaya (Constellation) [src-20261021-e45563].
+- **A Deutsche Telekom executive who leads its choice of customer support AI vendors says OpenAI and Anthropic are largely ruled out there over EU data concerns.** In a July 2026 expert call the executive said the company runs several specialist vendors and plans to cut to one or two once its current contracts end in about 18 months (expert call) [src-20260727-3b21a8].
 
 **Example companies:** Sierra, Decagon

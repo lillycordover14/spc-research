@@ -31,6 +31,7 @@ tags:
 - memo-E2
 sources:
 - src-20260730-3a49fd
+- src-20261029-a747be
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

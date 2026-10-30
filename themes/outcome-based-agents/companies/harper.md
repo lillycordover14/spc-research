@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: services-led
-what: 'AI-native commercial insurance brokerage.'
+what: AI-native commercial insurance brokerage.
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -25,6 +25,7 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20260226-0d2a79
+- src-20261029-f1fcd0
 data_quality: auto-created stub from src-20260226-0d2a79; fill layer/model/what
 updated: '2026-10-29'
 ---

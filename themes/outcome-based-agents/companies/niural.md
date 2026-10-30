@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: unknown
-what: 'AI-native global payroll, benefits, payments and compliance platform with a PEO.'
+what: AI-native global payroll, benefits, payments and compliance platform with a PEO.
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -25,6 +25,7 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20260623-ff7576
+- src-20261029-e10887
 data_quality: auto-created stub from src-20260623-ff7576; fill layer/model/what
 updated: '2026-10-29'
 ---

@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: unknown
-what: 'Learns how a business operates from tickets, logs and messages and turns it into executable knowledge and agents, starting with IT service management and support.'
+what: Learns how a business operates from tickets, logs and messages and turns it into executable knowledge and agents, starting with IT service management and support.
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -27,6 +27,7 @@ sources:
 - src-20261029-ea16fd
 - src-20260318-7f5b07
 - src-20260408-a9b1fb
+- src-20261027-2b4688
 data_quality: auto-created stub from src-20261029-ea16fd; fill layer/model/what
 updated: '2026-10-29'
 ---

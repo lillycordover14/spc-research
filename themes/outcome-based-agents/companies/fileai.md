@@ -31,6 +31,7 @@ tags:
 - per-task
 sources:
 - src-20261012-e6c2b7
+- src-20261026-a35f1e
 data_quality: v7 card from filed source 2026-10-29; traction not verified
 updated: '2026-10-29'
 ---

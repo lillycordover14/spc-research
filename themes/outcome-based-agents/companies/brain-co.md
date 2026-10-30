@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: services-led
-what: 'Agent-native operating systems for regulated institutions (government, insurance, health, finance) on its Atlas platform, deployed with its own engineers.'
+what: Agent-native operating systems for regulated institutions (government, insurance, health, finance) on its Atlas platform, deployed with its own engineers.
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -26,6 +26,7 @@ tags: []
 sources:
 - src-20261029-2f10eb
 - src-20261001-1cee7c
+- src-20261019-0cb068
 data_quality: auto-created stub from src-20261029-2f10eb; fill layer/model/what
 updated: '2026-10-29'
 ---

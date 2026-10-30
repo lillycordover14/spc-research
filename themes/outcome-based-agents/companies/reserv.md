@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: services-led
-what: 'AI-native P&C claims third-party administrator and software provider.'
+what: AI-native P&C claims third-party administrator and software provider.
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -25,6 +25,9 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20260504-3725cb
+- src-20261021-26e043
+- src-20261021-e2e2a1
+- src-20261016-d5ecbf
 data_quality: auto-created stub from src-20260504-3725cb; fill layer/model/what
 updated: '2026-10-29'
 ---

@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: unknown
-what: 'Pharmacy AI agents for prescription intake, data entry, refills, prior authorization support and patient communication.'
+what: Pharmacy AI agents for prescription intake, data entry, refills, prior authorization support and patient communication.
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -25,6 +25,7 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20260702-127fcb
+- src-20261021-1b9fa6
 updated: '2026-10-29'
 ---
 

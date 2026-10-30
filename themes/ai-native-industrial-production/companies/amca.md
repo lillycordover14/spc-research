@@ -63,6 +63,8 @@ sources:
 - src-20261026-3f89e8
 - src-20261027-77bb69
 - src-20261027-190df4
+- src-20261030-0da3a7
+- src-20261027-c7d895
 data_quality: grokbot producers deep dive 2026-10-23
 updated: '2026-10-23'
 ---

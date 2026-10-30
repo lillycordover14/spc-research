@@ -26,6 +26,8 @@ tags: []
 sources:
 - src-20260623-ff7576
 - src-20261029-e10887
+- src-20261027-35f85a
+- src-20261027-bd163f
 data_quality: auto-created stub from src-20260623-ff7576; fill layer/model/what
 updated: '2026-10-29'
 ---

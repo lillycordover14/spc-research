@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: unknown
-what: 'AI agents for auto loan servicing and collections.'
+what: AI agents for auto loan servicing and collections.
 fit: []
 stage: unknown
 total_raised_usd: null
@@ -25,6 +25,9 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20261029-86ea02
+- src-20261030-f5637b
+- src-20261029-e37f3e
+- src-20261028-e13cab
 data_quality: auto-created stub from src-20261029-86ea02; fill layer/model/what
 updated: '2026-10-29'
 ---

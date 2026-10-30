@@ -59,6 +59,12 @@ sources:
 - src-20261029-589de0
 - src-20261029-204ec0
 - src-20261029-259443
+- src-20261029-b4f1a4
+- src-20261029-17bde5
+- src-20261030-eb7125
+- src-20261030-0f2fe0
+- src-20261029-259e7a
+- src-20261030-2eba33
 data_quality: Card promoted 2026-10-28 by grokbot at 2 independent sources (funding report plus VC primer). Company-only claims labeled. n/v fields left blank.
 updated: '2026-10-28'
 ---

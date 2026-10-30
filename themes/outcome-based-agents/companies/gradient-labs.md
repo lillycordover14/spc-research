@@ -31,6 +31,10 @@ tags:
 - memo-E1
 sources:
 - src-20261029-170473
+- src-20261021-5ea2ab
+- src-20261022-1af435
+- src-20261020-1ba5f5
+- src-20261020-86c792
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

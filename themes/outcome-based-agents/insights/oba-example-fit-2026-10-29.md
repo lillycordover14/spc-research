@@ -2,15 +2,14 @@
 
 Every Example company in the v18 memo was re-researched from its own site (sources filed 2026-10-29, tag v18-company-research) and existing repo sources. Descriptions and customer names are company claims. Source ids are src- suffixes under sources/.
 
-Removed from the memo: Ema and Convey (per Lilly), TJM Labs, Procode and Alaffia (B1 now holds Anterior only). Moves: Brain Co B2 to A1, Freehand C2 to C1. Low confidence fits to recheck: Sycamore, Workfabric AI, Niural.
+Removed from the memo: Ema and Convey (per Lilly), TJM Labs, Procode and Alaffia (B1 now holds Anterior only); Brain Co cut by Lilly in v20. Moves: Freehand C2 to C1. Low confidence fits to recheck: Sycamore, Niural.
 
 | Company | What it does (company claims) | Category | Evidence | Confidence |
 |---|---|---|---|---|
 | Duvo | Agents that run back office operations for retailers and suppliers, such as supplier bonus reconciliation, freight and payables audit | A1 (selective horizontal; runs the work across processes) | 445cb1, 1a8cca | High |
 | Sycamore | Build, deploy and orchestrate platform plus governance (Forge and Guard); build tool, no named customers | A1 | 4e4c26 | Low |
-| Brain Co | Agent operating systems for government, insurance, health and finance on one platform; moved from B2 because it is multi-industry | A1 | 2f10eb | Medium |
 | Edra | Reads tickets, logs and messages to build executable knowledge and deploys agents in ServiceNow, Jira, Zendesk, Salesforce; HubSpot and ASOS stories | A2 | ea16fd | High |
-| Workfabric AI | Long-running business 'missions' with a per-employee twin that learns how people work; Cognizant partnership | A2 | 3f0bd1, 10dfb0 | Low |
+| Workfabric AI | v20 recheck of workfabric.com and /platform: ContextFabric senses how people work across apps (on-device twins, no integrations), builds a governed context backbone and serves it to any agent or harness through one MCP server (Agentforce, ServiceNow, Workday, Copilot, Claude, GPT, Bedrock). The homepage packages it as missions, led by finding revenue and catching customer escalations. Cognizant runs context engineers on it and its CEO cites about $200M of incremental pipeline. It supplies context to other agents and does not run a process itself, so A2 fits better than A1 or C3 | A2 | 15cadb, 3f0bd1, 10dfb0, 31a67a | Medium |
 | Anterior | Prior authorization and utilization management review sold to health plans | B1 (only company) | 5e4c26 | High |
 | Notch | Agents for regulated industries, proven in insurance; Phoenix policy servicing and carrier FNOL intake stories | B2 | 5a2826 | Medium |
 | Pace | AI operations platform for insurance; Palomar COO quoted on 90%+ of cases resolved without a human | B2 | 99058e, d43c22 | High |

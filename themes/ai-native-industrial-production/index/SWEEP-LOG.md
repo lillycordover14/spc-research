@@ -2,6 +2,7 @@
 
 One line per run (newest first). If `new` is 0 for a week, feeds are broken or filters too tight: check watchlist/searches.yml.
 
+- 2026-10-31 16:39Z — new 78, dup 251, filtered 229, old 1476, feeds ok/fail 150/3, sites 0 (fail 0), page fetch fails 72
 - 2026-10-30 17:30Z — new 111, dup 232, filtered 241, old 1428, feeds ok/fail 150/3, sites 0 (fail 0), page fetch fails 72
 - 2026-10-29 17:59Z — new 139, dup 190, filtered 247, old 1446, feeds ok/fail 150/3, sites 0 (fail 0), page fetch fails 73
 - 2026-10-28 17:42Z — new 153, dup 183, filtered 233, old 1426, feeds ok/fail 148/3, sites 0 (fail 0), page fetch fails 73

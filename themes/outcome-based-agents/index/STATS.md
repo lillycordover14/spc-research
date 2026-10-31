@@ -1,10 +1,10 @@
-# Index stats — Outcome-based agents and agentic orchestration — 2026-10-30
+# Index stats — Outcome-based agents and agentic orchestration — 2026-10-31
 
-- sources: 1239  | companies: 115 | people: 0
+- sources: 1380  | companies: 115 | people: 0
 
 ## Sources by type
 - alphasense: 55
-- article: 942
+- article: 1083
 - dataset: 5
 - filing: 17
 - market-research: 48
@@ -14,7 +14,7 @@
 
 ## Sources by status
 - summarized: 584
-- unread: 655
+- unread: 796
 
 ## Sources by layer
 - vertical-outcome: 276
@@ -40,18 +40,18 @@
 - status=tracking: 15
 
 ## Most-mentioned companies
-- pace: 77
-- crosby: 64
+- pace: 86
+- crosby: 76
 - anthropic: 51
 - openai: 50
-- ema: 45
+- ema: 49
+- clay: 42
 - salesforce: 40
 - sierra: 39
+- artisan: 32
 - decagon: 31
-- clay: 30
-- serval: 29
+- kestra: 31
+- serval: 30
+- harper: 28
 - servicenow: 27
 - microsoft: 27
-- artisan: 25
-- langchain: 24
-- kestra: 24

@@ -86,6 +86,9 @@ sources:
 - src-20260206-8bb619
 - src-20260206-2b13c7
 - src-20260220-fe6c5e
+- src-20261029-cc6d7d
+- src-20261029-85aea8
+- src-20261029-e6143b
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -97,6 +100,9 @@ Public digital manufacturer that owns its plants (injection molding, CNC, sheet 
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
+- 2026-10-29: Q3 call: non-GAAP GM 44.5%, -230 bps q/q (~100 machine upgrades, ~90 contract labor for speed); own factories +17.5% vs Network +3.0%; customers incl. Blue Origin, Relativity, Raytheon, AeroVironment, Shield AI, Agility; AI order checks, Amazon Quick, forward deployed AI engineers, India center [src-20261029-e6143b]
+- 2026-10-29: 10-Q: GAAP GM 44.5% vs 45.3%; AI in pricing/sourcing, molding inspection, CNC toolpath verification; German factories closing [src-20261029-85aea8]
+- 2026-10-29: Q3 2026 record revenue $154.3M (+14.0%); CNC +16.4%, molding +12.5%, 3DP +11.4%; non-GAAP op margin 11.9%; FY26 guide raised to 10-11%, Q4 $143-151M [src-20261029-cc6d7d]
 - 2026-07-31: Q2 2026 record revenue $149.3M (+10.6%); GAAP GM 46.4%; CNC +13.6%; FY26 guide raised to 8-10% [src-20260731-4f4aac]
 - 2026-07-31: 10-Q: growth led by A&D CNC and molding; AI in pricing, inspection, toolpath verification [src-20260731-ef3d40]
 

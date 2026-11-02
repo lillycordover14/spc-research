@@ -30,6 +30,7 @@ sources:
 - src-20261027-79ddd6
 - src-20261027-5b17a2
 - src-20261101-118edd
+- src-20261027-25ae81
 data_quality: auto-created stub from src-20261027-d5ba3f; fill layer/model/what
 updated: '2026-10-27'
 ---
@@ -39,6 +40,7 @@ updated: '2026-10-27'
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-10-27: Bob McGrew (Arda) publicly praises Lumaril team on X as Series A news breaks [src-20261027-25ae81]
 
 ## Economics (what we know)
 

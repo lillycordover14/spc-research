@@ -29,6 +29,9 @@ sources:
 - src-20260630-bd78e7
 - src-20260301-357ec4
 - src-20260212-91b1e0
+- src-20261029-e4ef9d
+- src-20261029-025dbc
+- src-20261029-e365e5
 data_quality: incumbent comp; financials from SEC filings
 updated: '2026-10-22'
 ---
@@ -38,6 +41,9 @@ updated: '2026-10-22'
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-10-29: Q3 call: new blade capacity 'totally sold out', gas turbine customers say 2031 sold out; missile parts fastest-growing defense line, working with 'newer defense companies'; seven new plants, three more considered; no AI talk [src-20261029-e365e5]
+- 2026-10-29: 10-Q: Engine Products +~520 net heads in Q3, ~1,240 YTD; capex to stay elevated; tariff recovery uncertain [src-20261029-025dbc]
+- 2026-10-29: Q3 2026 revenue $2.70B (+29%); adj. EBITDA 32.5%; Engine Products 39.1% margin; gas turbines +45%, defense aero +10%; FY26 $10.29-10.31B, 2027 ~$11.5B [src-20261029-e4ef9d]
 - 2026-08-06: Q2 2026 revenue $2.55B (+24%); Engine Products EBITDA margin 37.7%, +485 net heads; CAM fasteners acquired ~$1.8B; capex to rise further in 2027 [src-20260806-9a83f7]
 - 2026-06-30: 10-Q: Engine Products absorbed ~720 net headcount in 1H 2026 [src-20260630-bd78e7]
 

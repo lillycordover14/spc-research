@@ -35,6 +35,7 @@ sources:
 - src-20261021-16bb64
 - src-20260728-ae7dea
 - src-20261022-1e6872
+- src-20261027-2e4e4d
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -46,6 +47,7 @@ Largest North American metals service center. Benchmark for service-center econo
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
+- 2026-10-27: 10-Q: tons +16%, ASP +24%; border wall +9.4 pts tons and $0.74 EPS but -60 bps FIFO GM; LIFO GM 27.9%; 50% Section 232 supports carbon prices [src-20261027-2e4e4d]
 - 2026-10-22: Q3 call: tons +15.6% y/y vs industry +10.1% (share gain); pricing on constrained supply and extended lead times; buying domestic; Q4 tons +13.5-15.5% incl ~9.5 pts border wall; no AI/automation talk [src-20261022-1e6872]
 - 2026-10-21: Q3 2026 sales $5.21B (+42.8% y/y), LIFO GM 27.9% / FIFO 31.6%, non-GAAP EPS $8.02 (+120%); border wall $0.74/share; defense/space, data center, shipbuilding strong [src-20261021-16bb64]
 - 2026-07-28: Q2 10-Q: LIFO GM 28.1%; aluminum elevated on 50% Section 232 tariff [src-20260728-ae7dea]

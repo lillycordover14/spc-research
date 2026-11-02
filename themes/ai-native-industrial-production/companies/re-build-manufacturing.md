@@ -13,11 +13,11 @@ fit: []
 stage: private-mature
 total_raised_usd: null
 last_round:
-  date: null
-  amount_usd: null
-  lead: null
+  date: '2026-10-27'
+  amount_usd: 2100000000
+  lead: General Catalyst; JPMorganChase Strategic Investment Group
   valuation_usd: null
-  source: null
+  source: src-20261027-17c687
 investors: []
 founders: []
 headcount: null
@@ -71,6 +71,7 @@ sources:
 - src-20250818-3349fa
 - src-20250826-157b1b
 - src-20260721-ca7273
+- src-20261027-17c687
 data_quality: ''
 updated: '2026-10-23'
 ---
@@ -82,7 +83,7 @@ PE-style roll-up of US manufacturers with a shared tech layer. Comp for 'buy pla
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
-- (add from AlphaSense earnings transcripts)
+- 2026-10-27: $2.1B raise led by General Catalyst and JPMorganChase Strategic Investment Group (Security and Resiliency Initiative); >$4B raised to date; 2,100+ US staff, 2.4M+ sq ft; incubates Slate, Neon Aero, Ensorcell [src-20261027-17c687]
 
 ## Economics (what we know)
 - (pull GM, capex/revenue, lead-time claims from filings)

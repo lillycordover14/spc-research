@@ -3,7 +3,20 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-11-01 — SendCutSend: Belosic says 2026 bigger than all prior years combined, 2027 "looks like a repeat" (X reply, no figures) [src-20261101-41a70a]
+- 2026-10-29 — Proto Labs Q3: revenue $154.3M (+14%), non-GAAP GM 44.5% (-230 bps q/q on machine upgrades and contract labor); own factories +17.5% vs Network +3.0%; new-space and drone customers named; AI order checks and forward deployed AI engineers [src-20261029-cc6d7d] [src-20261029-e6143b]
+- 2026-10-29 — Howmet Q3: revenue $2.70B (+29%), EBITDA 32.5%; gas turbine customers say 2031 sold out; missile parts fastest-growing defense line; +1,240 net heads YTD in Engine Products [src-20261029-e4ef9d] [src-20261029-e365e5] [src-20261029-025dbc]
+- 2026-10-29 — ATI Q3: sales $1.42B (+26%), backlog $4.3B (+20%); PQ titanium lead time ~20 months, isothermal forgings >2 years; customers co-fund capacity [src-20261029-feba8d] [src-20261029-9a67a8]
+- 2026-10-29 — Ryerson Q3 call: spot vs contract margin spread ~1,000 bps; customers now want 24-48h lead times vs 2-3 days [src-20261029-f7d64e]
+- 2026-10-28 — Ryerson (RYZ) Q3: revenue $2.18B incl. Olympic, GM 17.2%, EBITDA ex-LIFO 5.3%; Section 338 duties on Canadian steel/aluminum from Sep 15 [src-20261028-0b1856] [src-20261028-5feacf]
+- 2026-10-28 — [mention: Jordan Black] Senra Systems: Crossing the Valley Ep. 97; factory 2 ~1/3 full, hiring ~20 techs/month, eyeing M&A among ~1,000 US harness shops [src-20261028-31480d]
+- 2026-10-27 — Re:Build raises $2.1B led by General Catalyst and JPMorganChase SRI; >$4B raised to date; 2,100+ staff, 2.4M+ sq ft [src-20261027-17c687]
+- 2026-10-27 — [mention: Bob McGrew] Lumaril: publicly backs team on X as $66M Series A is reported [src-20261027-25ae81]
+- 2026-10-27 — Nucor Q3 call: towers backlog into early 2028, data centers ~15% of backlog, border wall through 2027-28; no AI talk [src-20261027-e05ea3]
+- 2026-10-27 — Reliance 10-Q: border wall +9.4 pts tons, -60 bps FIFO GM; LIFO GM 27.9% [src-20261027-2e4e4d]
+- 2026-10-26 — Nucor Q3: sales $11.25B (+32%), utilization 89%, external ASP $1,493/t (+19%), 9M capex down to $1.86B [src-20261026-5b2abf]
 - 2026-10-24 — Mariana co-founder: most mine capex raised from project-level investors separate from VC; Lithium One offtake to unnamed battery maker (company claims) [src-20261024-c53370]
+- 2026-10-23 — [mention: Jim Belosic] SendCutSend: FABTECH interview; ~800 employees, three new sites, 3-5 day typical lead time [src-20261023-ff0b31]
 - 2026-10-22 — Carpenter: defense bookings down q/q and y/y because funds not reaching customers; aero bookings +49% y/y, sold-out LTAs at higher prices [src-20261022-de5e6c]
 - 2026-10-22 — Reliance Q3 call: tons +15.6% vs industry +10.1%, extended lead times, domestic sourcing; Q4 includes ~9.5 pts border wall tonnage [src-20261022-1e6872]
 - 2026-10-07 — CNAS: FY27 munitions request $49.5B (8.5x avg) but 82% hinges on reconciliation; lead times unchanged for 6 of 10 munitions [src-20261007-c6f64e]

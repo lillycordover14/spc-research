@@ -73,6 +73,7 @@ sources:
 - src-20240517-21cb76
 - src-20260715-8161a3
 - src-20261027-6834f5
+- src-20261028-31480d
 data_quality: Series B $65M (Jul 2026), total >$112M per press; Harmonic showed $107M total and $493M post (valuation not in press). Headcount ~190 per Wiring Harness News (Jul 2026) vs Harmonic 116. 'US Air Force / Space Force (contracts)' in investors is legacy from the seed file, not confirmed by 2026 sources. Wiring Harness News profile date is July 2026, exact day not shown (recorded as 2026-07-01).
 updated: '2026-10-23'
 ---
@@ -90,6 +91,7 @@ Senra (founded 2023, two plants in Redondo Beach and Cypress, CA) designs and bu
 Caveat: the physical build is manual with standard strip/crimp equipment, so today the moat is software thread plus trained labor, not robotics [src-20260715-68183e][src-20260701-027c1b]. Shanahan's move to Head of AI & Robotics is the bet that changes.
 
 ## Traction and signals
+- 2026-10-28 — Jordan Black podcast: second factory (~90,000 sq ft, lease signed Feb) about a third full; technician hiring ~4/month at start of year to ~20/month, to roughly double next year; onboarding 18-24 months cut to four weeks; starting to look at M&A among ~1,000 US harness shops (machine transcript) [src-20261028-31480d]
 - 2026-07-15 — $65M Series B co-led by Lowercarbon Capital and Interlagos; General Catalyst, Sequoia, a16z, Founders Fund, Dylan Field, CIV, 8VC, Friedkin Group, Jaws Estates, Sozo, Alumni Ventures; total raised >$112M; proceeds fund Factory 3 [src-20260715-fb79c2][src-20260715-68183e]
 - 2026-07-15 — Ken Venner (ex-SpaceX CIO, built Warp Drive; ex-Broadcom) joins as Chief Technology and Product Officer [src-20260715-fb79c2][src-20260715-821445]
 - 2026-07-15 — Output ~1,000 harnesses/month across two factories; target 10,000/month by 2027 [src-20260715-68183e][src-20260715-fb79c2]

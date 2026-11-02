@@ -57,6 +57,8 @@ sources:
 - src-20261022-c0698e
 - src-20261028-0f3c18
 - src-20261101-746149
+- src-20261102-7090bc
+- src-20261102-e7e7ef
 data_quality: Benchmark card for the harness layer, unsourced. Fill from sources.
 updated: '2026-10-23'
 ---

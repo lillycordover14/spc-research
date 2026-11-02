@@ -50,6 +50,14 @@ sources:
 - src-20261101-024453
 - src-20261026-597077
 - src-20261029-52f298
+- src-20261102-d9b717
+- src-20261102-dbda2e
+- src-20261102-bc7a89
+- src-20261102-ed6a7b
+- src-20261102-56d15e
+- src-20261102-ae4560
+- src-20261029-986651
+- src-20261102-9eb33f
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

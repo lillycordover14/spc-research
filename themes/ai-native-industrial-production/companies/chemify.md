@@ -8,7 +8,7 @@ founded: null
 layer: adjacent
 layers: []
 model: owner-operator
-what: 'AI plus robotic synthesis ("chemputation", chiDL language) in its own Chemifarm labs; makes new molecules at mg-g scale for pharma and materials partners.'
+what: AI plus robotic synthesis ("chemputation", chiDL language) in its own Chemifarm labs; makes new molecules at mg-g scale for pharma and materials partners.
 fit: []
 stage: series-b
 total_raised_usd: null
@@ -28,6 +28,7 @@ sources:
 - src-20260917-2991e2
 - src-20261022-3a9997
 - src-20261016-dd3304
+- src-20261102-07d2ae
 data_quality: auto-created stub from src-20250724-0f42f3; fill layer/model/what
 updated: '2026-10-28'
 ---

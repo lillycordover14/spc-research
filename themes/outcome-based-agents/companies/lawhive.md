@@ -32,6 +32,7 @@ tags:
 sources:
 - src-20260205-e13567
 - src-20261029-c951e8
+- src-20261102-bcf670
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

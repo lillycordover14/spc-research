@@ -30,6 +30,7 @@ sources:
 - src-20260724-b4a442
 - src-20261029-d6fdcf
 - src-20250627-297f7b
+- src-20261102-d0418b
 data_quality: 'Stub from src-20260724-b4a442; what from the expert call, other fields n/v; v8: merged DeepOpinion card (deepopinion.ai redirects to otera.ai, site reads "previously DeepOpinion"); outcome pricing is a company claim, no public price'
 updated: '2026-10-29'
 ---

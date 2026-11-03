@@ -65,6 +65,8 @@ sources:
 - src-20261026-51fd70
 - src-20261029-4e4c26
 - src-20261102-ab54f7
+- src-20261103-e72e53
+- src-20261103-f5fb1e
 data_quality: 'Seed card from Harmonic, pulled 2026-10-23. Funding round detail (lead) not available; pricing model, customers and production deployments unverified. Name collides with Sycamore Partners (PE) and others: resolve by domain sycamore.so.'
 updated: '2026-10-29'
 ---

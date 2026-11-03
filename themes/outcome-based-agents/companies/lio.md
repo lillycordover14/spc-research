@@ -48,6 +48,8 @@ sources:
 - src-20261030-1f27fb
 - src-20261026-b3a2aa
 - src-20261030-c68b7d
+- src-20261029-1c40e6
+- src-20261026-340556
 data_quality: Card filled 2026-10-28 by grokbot from AlphaSense batch 4 and filed sources; fields left null where sources do not state them. Company figures are company or press reported.
 updated: '2026-10-28'
 ---

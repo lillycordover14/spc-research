@@ -59,6 +59,9 @@ sources:
 - src-20261103-65d04f
 - src-20261103-b0dde3
 - src-20261103-de4ba4
+- src-20261103-19b022
+- src-20261102-5d9e79
+- src-20261103-3c63df
 data_quality: Stub from src-20260618-f36dc6; what from the expert call, other fields n/v
 updated: '2026-10-29'
 ---

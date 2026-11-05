@@ -155,6 +155,15 @@ sources:
 - src-20261104-c5ec8d
 - src-20261104-691176
 - src-20261104-8862b1
+- src-20261104-5ff6ee
+- src-20261105-cf3db4
+- src-20261105-5c3f92
+- src-20261105-05eaf9
+- src-20261104-ce56d7
+- src-20261104-7dd7bb
+- src-20261105-0cfaf5
+- src-20261104-c05518
+- src-20261105-4aa7af
 data_quality: Card made 2026-10-25 from insights/startup-landscape.md (funding source) plus case studies and interviews filed 2026-10-25. Domain shown only where seen on a source; n/v fields left blank.
 updated: '2026-10-25'
 ---

@@ -87,6 +87,10 @@ sources:
 - src-20261105-31f959
 - src-20261105-80e52c
 - src-20261105-2c10c3
+- src-20261106-63f471
+- src-20261106-7b4ccd
+- src-20261106-305c0e
+- src-20261106-a1f338
 data_quality: auto-created stub from src-20261029-5a2826; fill layer/model/what
 updated: '2026-10-29'
 ---

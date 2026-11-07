@@ -97,6 +97,10 @@ sources:
 - src-20261104-e23830
 - src-20261104-23eac0
 - src-20261105-5853c6
+- src-20261107-4749ab
+- src-20261107-d8dd4c
+- src-20261104-f1cbcf
+- src-20261107-68ce67
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

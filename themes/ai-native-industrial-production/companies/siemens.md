@@ -28,8 +28,9 @@ sources:
 - src-20260106-60b745
 - src-20250326-cc1810
 - src-20250701-a7fef9
+- src-20261103-afe6f2
 data_quality: 'created by grokbot for incumbents-vs-ai-native; threat view: High vs software-first factory AI'
-updated: '2026-10-22'
+updated: '2026-11-09'
 ---
 
 ## What they do
@@ -39,6 +40,7 @@ Xcelerator; acquired Altair (Mar 2025) and Dotmatics (Jul 2025); Industrial AI O
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-11-03: Xometry says native Siemens Designcenter integration (pricing and manufacturability insight) enters beta Q1 2027, with Supplyframe and Thomas collaboration [src-20261103-afe6f2]
 
 ## Economics (what we know)
 

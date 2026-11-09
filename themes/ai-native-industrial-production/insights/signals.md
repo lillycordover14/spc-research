@@ -3,6 +3,15 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-11-07 — Berkshire Q3 10-Q: Precision Castparts revenue $3.2B (+19.1%), nine months $9.2B (+13.9%), pre-tax +29.6% Q3; aerospace plus industrial gas turbines on demand and price; growth gated by capacity (Q2 was +14.4%) [src-20261107-f97277]
+- 2026-11-07 — Arda: McGrew on Fox Business, assembly-line design for a missile avionics box about two hours vs a week; on-customer-firewall deployment for sensitive customers (auto-captions garbled) [src-20261107-5de951]
+- 2026-11-05 — Rockwell FQ4: organic +3% (core +7%), Software & Control +15%, Logix +25%, op margin 24.5% (22% target hit 3 yrs early), mining ~-10%, FY27 organic +6-9%; new US capacity 'around the fourth inning'; FactoryTalk Conductor agentic orchestration; Investor Day in Boston in coming weeks [src-20261105-244672] [src-20261105-13d408]
+- 2026-11-05 — Mariana Minerals: Utah FFSL selects it to restart the former US Magnesium site (lithium, modernized magnesium); terms and milestones to be finalized [src-20261105-b27123]
+- 2026-11-03 — Xometry Q3: revenue $252.4M (+40%), marketplace GM record 36.0%, first GAAP profit $1.9M, adj. EBITDA $21.4M, FY26 growth raised to ~37%; Siemens Designcenter beta Q1 2027; capex ~$15M almost all software [src-20261103-38a66c] [src-20261103-afe6f2] [src-20261103-82704d]
+- 2026-11-02 — Foundry Robotics: $100M Series A (Marlinspike lead) for owner-operated 130,000 sq ft assembly factory in Emeryville; no volumes or contract values disclosed [src-20261102-0100b1]
+- 2026-11-02 — Re:Build Manufacturing: $2.1B round (General Catalyst, JPMorgan Chase), >$4B total equity, 13 acquisitions, 18 sites, ~2,000 people; will not target tariff-protected products [src-20261102-61140f]
+- 2026-10-07 — Atomic Machines (atomicmachines.com): exits stealth with $250M raised to date and Matter Compiler micro-machine system; Construct Capital among investors; weak fit [src-20261007-5406f6]
+- 2026-09-08 — GE Aerospace to buy Consolidated Precision Products (PCC competitor) for $11.75B, ~18x 2027 EBITDA with synergies, ~26x without; close 2H 2027 (filed late) [src-20260908-b9f644]
 - 2026-11-01 — SendCutSend: Belosic says 2026 bigger than all prior years combined, 2027 "looks like a repeat" (X reply, no figures) [src-20261101-41a70a]
 - 2026-10-29 — Proto Labs Q3: revenue $154.3M (+14%), non-GAAP GM 44.5% (-230 bps q/q on machine upgrades and contract labor); own factories +17.5% vs Network +3.0%; new-space and drone customers named; AI order checks and forward deployed AI engineers [src-20261029-cc6d7d] [src-20261029-e6143b]
 - 2026-10-29 — Howmet Q3: revenue $2.70B (+29%), EBITDA 32.5%; gas turbine customers say 2031 sold out; missile parts fastest-growing defense line; +1,240 net heads YTD in Engine Products [src-20261029-e4ef9d] [src-20261029-e365e5] [src-20261029-025dbc]

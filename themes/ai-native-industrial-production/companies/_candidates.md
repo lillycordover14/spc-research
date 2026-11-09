@@ -9,6 +9,7 @@ Promote with `make new-company name="..."` once there are 2 independent sources 
 - 2026-10-22 | Rangeview | casting | Printed-mold autonomous investment-casting foundry, El Segundo; Kratos/Navy work | Seed $4.2M Dec 2022 [src-20260923-3ab808] | claude
 
 ## From sweeps
+- 2026-11-09 | Atomic Machines | adjacent | AI-native micro-machine manufacturing (Matter Compiler, PrimeSwitch relay for 800V AI data-center power); weak fit, track not model; not Atomic Industries or Fab2, resolved by atomicmachines.com | $250M raised to date, stage not stated, Construct Capital among investors [src-20261007-5406f6] | grokbot
 - 2026-10-22 | Atomic Industries | fabrication | AI tool and die; "software-defined factory", ships production-grade parts to OEMs from its own Detroit shop; organizer of Reindustrialize | $25M Series A Sep 2025 (MaC, DTX) [src-20250301-a9888e] | https://pulse2.com/atomic-industries-25-million-secured-to-advance-ai-based-manufacturing | claude
 - 2026-10-22 | Vulcan Elements | metals-supply | Sintered NdFeB magnets, owns 10 t pilot line in Durham NC, building 10,000 t/yr plant; US/allied inputs only | $65M Series A Aug 2025 (Altimeter); $1.4B gov package Nov 2025 ($620M OSC loan, $50M Commerce equity, $550M private) [src-20251103-ee9b27] | https://www.mining.com/?p=1192089 | claude
 - 2026-10-22 | Hertha Metals | metals-supply | Single-step iron and steelmaking reactor; owns 20,000 sq ft plant in Conroe TX; commercial iron 2028, steel 2030 | $133.65M Series A Sep 2026 (Khosla, Doerr) after $17M [src-20260930-82812e] [src-20260519-2653de] | https://projectstartups.com/pages/manufacturing/ | claude
@@ -88,7 +89,7 @@ Promote with `make new-company name="..."` once there are 2 independent sources 
 - 2026-10-22 | Alloy Enterprises | fabrication | Metal additive manufacturing (listed under AM) | Shriftman map [src-20250506-249be3] | https://www.alloyenterprises.co | grokbot
 - 2026-10-22 | Noble Machines | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy physical AI map [src-20260909-524e7c] | | grokbot
 - 2026-10-22 | Multiverse Machines | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] | | grokbot
-- 2026-10-22 | Foundry Robotics | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] | | grokbot
+- 2026-11-09 | Foundry Robotics | fabrication | Owner-operator final assembly (drones, harnesses, ground robots, satellites) in own 130,000 sq ft Emeryville factory, in-house FoundryOS; defense unmanned-systems customer quote (HII Unmanned Systems) | $100M Series A Nov 2026, Marlinspike lead (Khosla, Red Glass returning) [src-20261102-0100b1] [src-20260909-524e7c]; primary release not yet fetched, announcement date Nov 2 vs Oct 28 unresolved, stub at companies/foundry-robotics.md | grokbot
 - 2026-10-22 | Emergent Matter | factory-ai | Listed in Warehouse/Mfg/Industrial vertical (name as read from image) | Defy map [src-20260909-524e7c] | | grokbot
 - 2026-10-22 | Tutor | factory-ai | Listed in Warehouse/Mfg/Industrial vertical | Defy map [src-20260909-524e7c] | | grokbot
 - 2026-10-22 | Medra | materials-rd | Autonomous lab robotics (listed next to Lila/Periodic) | Defy map [src-20260909-524e7c] | | grokbot

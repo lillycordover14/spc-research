@@ -72,8 +72,9 @@ sources:
 - src-20250826-157b1b
 - src-20260721-ca7273
 - src-20261027-17c687
+- src-20261102-61140f
 data_quality: ''
-updated: '2026-10-23'
+updated: '2026-11-09'
 ---
 
 ## What they do
@@ -83,6 +84,7 @@ PE-style roll-up of US manufacturers with a shared tech layer. Comp for 'buy pla
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
+- 2026-11-02: Boston Globe: $2.1B round led by General Catalyst and JPMorgan Chase (first-time), total equity >$4B since 2020, valuation undisclosed; 13 acquisitions, 18 sites, ~2,000 people (200 in MA); CEO says Re:Build will not target tariff-protected products [src-20261102-61140f]
 - 2026-10-27: $2.1B raise led by General Catalyst and JPMorganChase Strategic Investment Group (Security and Resiliency Initiative); >$4B raised to date; 2,100+ US staff, 2.4M+ sq ft; incubates Slate, Neon Aero, Ensorcell [src-20261027-17c687]
 
 ## Economics (what we know)

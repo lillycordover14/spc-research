@@ -89,8 +89,9 @@ sources:
 - src-20261024-c53370
 - src-20260501-0736cd
 - src-20260501-c478b0
+- src-20261105-b27123
 data_quality: 'Official Aug 3 2026 release does not disclose valuation; $1.5B appears in Harmonic and secondary coverage (Dealroom, KuCoin headlines). Total raised: release says ~$400M parent plus project capital (Harmonic had $395M). Headcount 206 and CFO/CTO names are from Harmonic, not from the press sources ingested here. Investmets interview date approximated to 2026-08-05.'
-updated: '2026-10-22'
+updated: '2026-11-09'
 match_context:
 - mineral
 - mining
@@ -115,6 +116,7 @@ Mariana Minerals builds and operates its own mines and refineries for critical m
 - Net: the 'rebuild US refining' benchmark for the metals-supply layer. Fits every test except that at $310M Series B and ~$1.5B valuation it is a benchmark rather than an SPC entry point; nothing is yet producing at target scale.
 
 ## Traction and signals
+- 2026-11-05: Utah FFSL selects Mariana to lead redevelopment and phased restart of the former US Magnesium site on the Great Salt Lake (lithium and modernized magnesium, non-evaporative extraction, royalties projected); terms and milestones still to be finalized [src-20261105-b27123]
 - 2026-10-24: Co-founder Juan Lozano interview: fourth suite Biz OS; autonomy partly via partner firms over CAN bus; VC funds R&D, most mine capex from separate project investors; East Texas lithium to an unnamed battery company, ramp next year; 10 projects goal, two today (company claims, agent transcription) [src-20261024-c53370]
 - 2026-08-13: Utah site to ramp to ~300 staff vs ~130 peak under prior operator [src-20260813-1fe8a2]
 - 2026-06-23: ~250 staff (20% software/ML); Utah copper restart ~50% autonomous, no-human pit targeted end-2026/Q1 2027; RL agents in process control loop; Select Water lithium partnership [src-20260623-d1790b]

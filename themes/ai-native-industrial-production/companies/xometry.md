@@ -96,8 +96,11 @@ sources:
 - src-20250730-147eb3
 - src-20260224-a7b149
 - src-20260224-0bf807
+- src-20261103-afe6f2
+- src-20261103-38a66c
+- src-20261103-82704d
 data_quality: ''
-updated: '2026-10-22'
+updated: '2026-11-09'
 ---
 
 ## What they do
@@ -107,10 +110,14 @@ Public marketplace for custom parts; no plants (asset-light). The anti-thesis co
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
+- 2026-11-03: Q3 2026 revenue $252.4M (+40%), marketplace +43% at record 36.0% marketplace GM (+130 bps q/q), first GAAP profit $1.9M, adj. EBITDA $21.4M; active buyers 93,812; FY26 growth outlook raised to ~37%; Q4 guide $254-256M [src-20261103-38a66c] [src-20261103-afe6f2]
+- 2026-11-03: Siemens Designcenter native integration, beta Q1 2027; $50M Siemens investment and ~$250M follow-on behind $505M cash [src-20261103-afe6f2]
+- 2026-11-03: 10-Q: marketplace GM 36.0% vs 35.7%, credited to AI platform and supplier network; 98% of revenue from existing accounts; US segment revenue $213.4M [src-20261103-82704d]
 - 2026-08-04: Q2 2026 revenue $229M (+41%), marketplace +45%, GP $87.2M, adj. EBITDA $14.1M; Q3 guide $234-236M; FY26 growth 33-34% [src-20260804-33fe9f]
 - 2026-08-04: 10-Q: self-described AI-native marketplace; Siemens ISW integration [src-20260804-7625ed]
 
 ## Economics (what we know)
+- Marketplace GM 36.0% (Q3 2026), target 35-40%; total GM 39.1% on services at ~90% GM; Q3 cash capex ~$15M, almost all software [src-20261103-afe6f2] [src-20261103-82704d]
 - (pull GM, capex/revenue, lead-time claims from filings)
 
 ## Open questions

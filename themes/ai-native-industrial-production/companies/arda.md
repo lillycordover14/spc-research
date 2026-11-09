@@ -94,8 +94,9 @@ sources:
 - src-20261020-894973
 - src-20261020-8d7abc
 - src-20261102-446e51
+- src-20261107-5de951
 data_quality: 'Harmonic best match (urn:harmonic:company:54804621, arda.cards) is a DIFFERENT company (inventory cards, Seattle); no Harmonic record found by domain. Official website/domain not found in any fetched source (launch PR on BusinessWire could not be fetched). HQ ''San Francisco'' is unsourced. Mar 2026 WSJ report of ''$70M at $700M'' is superseded by the Oct 2026 launch: $72M seed + $160M Series A at $1.5B. Odena and Mark are listed as execs in press, not explicitly as co-founders.'
-updated: '2026-10-22'
+updated: '2026-11-09'
 news_query: '"Arda" (McGrew OR manufacturing OR factory OR "production line") -Güler -Guler -Madrid'
 match_context:
 - mcgrew
@@ -124,6 +125,7 @@ Arda emerged from stealth on 20 Oct 2026 with an agent for manufacturing enginee
 - Net: this is the cleanest software-first control case for the thesis, but note the product today is a manufacturing-engineering copilot (MES / work-instruction layer, adjacent to ArsenalOS, Tulip, Siemens), not AI running the plant from video. Compare with Mind Robotics, which captures the floor video but ships robots.
 
 ## Traction and signals
+- 2026-11-07: McGrew on Fox Business: assembly-line design for a missile avionics box took about two hours vs a week; on-customer-firewall deployment for sensitive defense customers; auto-captions garbled, confidence low [src-20261107-5de951]
 - 2026-10-20 — Out of stealth: $160M Series A at $1.5B co-led by Altimeter, Accel, Khosla with XYZ, 8VC, SV Angel, Felicis; $72M seed led by Accel and Founders Fund; $232M total; CNBC exclusive [src-20261020-914a64] [src-20261020-26c44d]
 - 2026-10-20 — Anduril named first design partner and customer, Arda embedded in ArsenalOS; 10 hrs to 15 min on basic work instructions, up to 30 hrs to ~2.5 hrs on complex engineering work [src-20261020-914a64]
 - 2026-10-20 — Team disclosed: Bob McGrew, Jakob Frick (co-founders), Augustus Odena (chief AI officer), Alex Mark (CTO) [src-20261020-914a64]

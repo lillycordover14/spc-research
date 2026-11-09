@@ -31,6 +31,7 @@ sources:
 - src-20261019-392916
 - src-20260722-5412a7
 - src-20261006-732675
+- src-20261107-c0a527
 data_quality: 'created by grokbot for incumbents-vs-ai-native; threat view: Peer to Periodic/Radical'
 updated: '2026-10-22'
 ---

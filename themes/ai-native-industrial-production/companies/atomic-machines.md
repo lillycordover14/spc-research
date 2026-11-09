@@ -35,6 +35,7 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20261007-5406f6
+- src-20261109-014dce
 data_quality: Not Atomic Industries (atomic.industries) or Fab2 fka Atomic Semi; resolved by domain atomicmachines.com. Round stage not stated; $250M raised to date per company release [src-20261007-5406f6]
 updated: '2026-11-09'
 ---

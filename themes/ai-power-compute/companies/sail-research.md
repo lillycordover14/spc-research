@@ -64,6 +64,7 @@ sources:
 - src-20260621-ed3bd8
 - src-20261026-69a73d
 - src-20261102-1b2720
+- src-20261109-489bd9
 data_quality: Seed card from Harmonic, pulled 2026-10-26. Harmonic lists a 2014 founding date, which conflicts with the co-founder start date (2026-01); treat founding year as unverified. model=usage-priced inferred from 'cost-effective token usage' API description; verify.
 updated: '2026-10-26'
 ---

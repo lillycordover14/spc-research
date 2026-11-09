@@ -36,6 +36,8 @@ sources:
 - src-20261026-d5b5c1
 - src-20261026-18cf72
 - src-20261026-a6c110
+- src-20261026-d13f07
+- src-20261109-5a8037
 data_quality: v7 card from filed source 2026-10-29; traction not verified
 updated: '2026-10-29'
 ---

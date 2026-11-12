@@ -222,6 +222,21 @@ sources:
 - src-20261111-f4ed4d
 - src-20261111-d3cd60
 - src-20261111-99a7fd
+- src-20261112-8a8148
+- src-20261112-af046f
+- src-20261112-f64a05
+- src-20261112-3db2b9
+- src-20261112-3f9715
+- src-20261112-42f1d1
+- src-20261112-233a67
+- src-20261112-0a7f24
+- src-20261112-3cbd7e
+- src-20261112-665a5d
+- src-20261112-3e634f
+- src-20261111-6f22b3
+- src-20261112-70d9d6
+- src-20261112-717d92
+- src-20261112-c0d3cf
 data_quality: auto-created stub from src-20250801-a4ae9d; fill layer/model/what
 updated: '2026-10-27'
 ---

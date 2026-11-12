@@ -77,6 +77,11 @@ sources:
 - src-20261111-c6f992
 - src-20261111-375e8d
 - src-20261111-e145f7
+- src-20261112-438383
+- src-20261112-56aad6
+- src-20261112-d27b91
+- src-20261112-46ed4f
+- src-20261112-4cb792
 data_quality: Stub from src-20260310-e66bf3; what from the expert call, other fields n/v
 updated: '2026-10-27'
 ---

@@ -54,6 +54,8 @@ sources:
 - src-20261111-2643f7
 - src-20261112-37fe1e
 - src-20261113-127e41
+- src-20261116-3d2661
+- src-20261109-bfe96b
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

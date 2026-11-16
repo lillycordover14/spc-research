@@ -126,6 +126,12 @@ sources:
 - src-20261115-f5f5c0
 - src-20261115-7c7629
 - src-20261114-355cb7
+- src-20261116-64584d
+- src-20261116-007118
+- src-20261116-7160b6
+- src-20261116-9ef6fb
+- src-20261114-8a72d4
+- src-20261116-bde8af
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

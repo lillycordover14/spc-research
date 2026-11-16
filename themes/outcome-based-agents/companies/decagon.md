@@ -71,6 +71,7 @@ sources:
 - src-20261102-18ba6c
 - src-20261109-89b351
 - src-20261113-b74947
+- src-20261116-92ba42
 data_quality: Benchmark card, unsourced. Fill from sources.
 updated: '2026-10-29'
 ---

@@ -31,6 +31,7 @@ sources:
 - src-20261029-feba8d
 - src-20261029-4b608e
 - src-20261029-9a67a8
+- src-20261112-fdec95
 data_quality: incumbent comp; financials from SEC filings
 updated: '2026-10-22'
 ---
@@ -40,6 +41,7 @@ updated: '2026-10-22'
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-11-12: Investor Day: 2029 targets 10-12% revenue CAGR, adj. EBITDA high-20s to low-30s, adj. FCF ~$1.25B (>2x 2026); new Bakers NC nickel powder (~$200M rev, late 2028) and Millersburg OR zirconium sponge (~$100M, early 2028), ~$1B incremental revenue by 2029 with prior projects; isothermal forgings >2 yr lead time; backlog >$4B; Google and Meta placing energy-materials orders, backlogs into 2033; Elevation program unlocks capacity via scrap and yield [src-20261112-fdec95]
 - 2026-10-29: Q3 call: backlog $4.3B (+20%); PQ titanium lead time ~20 months, isothermal forgings >2 years; customers co-fund capacity; one OEM would take double current output; new superalloy qualified in 9 months; Investor Day Nov 12 [src-20261029-9a67a8]
 - 2026-10-29: 10-Q: A&D 69% of Q3 sales; defense +34% y/y; YTD capex $216.6M [src-20261029-4b608e]
 - 2026-10-29: Q3 2026 sales $1.42B (+26%), adj. EBITDA 23%; jet engine $603M (+39%), record defense $172M; FY26 EBITDA guide +$35M to $1.195B midpoint [src-20261029-feba8d]

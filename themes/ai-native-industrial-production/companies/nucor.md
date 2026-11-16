@@ -37,6 +37,7 @@ sources:
 - src-20260225-3ea941
 - src-20261026-5b2abf
 - src-20261027-e05ea3
+- src-20261110-b139f5
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -48,6 +49,7 @@ Largest US steelmaker; electric-arc minimills; benchmark for metals margins and 
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
+- 2026-11-10: 10-Q: Q3 GM $2.33B (21%) vs 14%; 9M utilization mills 89%, steel products 66%, raw materials 76%; record mill shipments (plate, bar, structurals); FY26 capex ~$2.50B vs $3.42B as WV sheet mill nears completion; Q4 in line or modestly higher [src-20261110-b139f5]
 - 2026-10-27: Q3 call: towers/structures backlog more than doubled since Jan, runs into early 2028, $165M for ~50% more capacity; data centers ~15% of backlog; border wall ~1,400 miles at ~1,500 tons/mile through 2027-28; imports surging from South Korea despite 232; no AI talk [src-20261027-e05ea3]
 - 2026-10-26: Q3 2026 sales $11.25B (+32%), EPS $5.80 (beat $5.55-5.65 guide); ~20.7% gross margin; utilization 89% (Q2 91%); external ASP $1,493/t (+19%); 9M capex $1.86B vs $2.62B; Q4 flat to modestly up [src-20261026-5b2abf]
 - 2026-09-17: Q3 2026 guidance EPS $5.55-5.65 (Q2 $5.04; Q3 2025 $2.63) [src-20260917-ed8e8b]

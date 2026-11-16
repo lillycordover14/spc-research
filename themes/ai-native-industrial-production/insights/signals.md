@@ -3,6 +3,11 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-11-12 — [mention: Edward Mehr] Machina Labs: 22Astronauts Ep. 115; high-mix RoboCraftsman factory, 200-400 cells concept, defense + automotive work today; also names Relativity Space (former employer, not a candidate) [src-20261112-0de08b]
+- 2026-11-12 — ATI Investor Day: 2029 targets 10-12% revenue CAGR, high-20s to low-30s EBITDA margin, ~$1.25B FCF; nickel powder + zirconium sponge capacity, ~$1B incremental revenue by 2029; isothermal forgings >2 yr lead time, backlog >$4B; hyperscalers ordering with backlogs into 2033 [src-20261112-fdec95]
+- 2026-11-12 — Rockwell FY26 10-K: Software & Control +18%, segment margin 33.8% (29.7%); 27,000 employees; industrial AI applications first-listed M&A priority; Investor Meeting Nov 18 [src-20261112-6ae709]
+- 2026-11-10 — Nucor Q3 10-Q: GM 21% (14% y/y); 9M mill utilization 89%; FY26 capex ~$2.5B vs $3.42B; 232 plus AD/CVD still cutting imports [src-20261110-b139f5]
+- 2026-11-05 — Divergent: Lukas Czinger says 300+ SKUs from one facility, 25+ defense programs in ~3 years, multiple airframes/day, second factory ~10x the first, $700M+ pre-revenue R&D [src-20261105-a3f404]
 - 2026-11-07 — Berkshire Q3 10-Q: Precision Castparts revenue $3.2B (+19.1%), nine months $9.2B (+13.9%), pre-tax +29.6% Q3; aerospace plus industrial gas turbines on demand and price; growth gated by capacity (Q2 was +14.4%) [src-20261107-f97277]
 - 2026-11-07 — Arda: McGrew on Fox Business, assembly-line design for a missile avionics box about two hours vs a week; on-customer-firewall deployment for sensitive customers (auto-captions garbled) [src-20261107-5de951]
 - 2026-11-05 — Rockwell FQ4: organic +3% (core +7%), Software & Control +15%, Logix +25%, op margin 24.5% (22% target hit 3 yrs early), mining ~-10%, FY27 organic +6-9%; new US capacity 'around the fourth inning'; FactoryTalk Conductor agentic orchestration; Investor Day in Boston in coming weeks [src-20261105-244672] [src-20261105-13d408]

@@ -96,6 +96,7 @@ sources:
 - src-20261027-44a34d
 - src-20261102-9017ab
 - src-20261104-bf5c54
+- src-20261105-a3f404
 data_quality: 'Harmonic entity_lookup returned the wrong ''Divergent Technologies'' (a semiconductor test distributor); resolve by domain divergent3d.com. Series E (Sep 2025) confirmed at $290M/$2.3B led by Rochefort; stage set to growth since Series E is not in the stages vocabulary. CEO is now Lukas Czinger (press release Sep 2025); Kevin Czinger''s current title unknown. total_raised_usd not summed: known rounds are $230M Series D (2023) and $290M Series E (2025); earlier rounds unsourced.'
 updated: '2026-10-23'
 news_query: '"Divergent Technologies" OR Czinger OR ("Divergent" (munitions OR "additive manufacturing" OR L3Harris))'
@@ -126,6 +127,7 @@ Divergent runs DAPS, a production system that pairs in-house AI generative desig
 - Mature ($2.3B, growth stage); use as the additive-based production benchmark, not an SPC entry.
 
 ## Traction and signals
+- 2026-11-05: Lukas Czinger: 300+ SKUs from one Torrance facility with no tooling changes; 25+ defense programs in ~3 years, multiple airframes per day incl. Tomahawk; second factory ~10x the first, factories 3-5 planned; $700M+ R&D over six years before revenue [src-20261105-a3f404]
 - 2026-10-14: ~30 active programs with 15 primes [src-20261014-47f64b]
 - 2026-10-02: Long Beach 400,000 sq ft, capacity 30,000 airframes/yr; >$1B raised; works with Lockheed Skunk Works [src-20261002-b0cee5]
 - 2026-03-25: Mach Industries cruise missile whiteboard to flight in 71 days; several thousand cruise missiles planned 2026; 500+ products on same machines [src-20260325-7ba845]

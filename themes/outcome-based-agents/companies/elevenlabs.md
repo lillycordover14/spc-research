@@ -95,6 +95,12 @@ sources:
 - src-20261116-795082
 - src-20261116-177096
 - src-20261113-85a684
+- src-20261117-a50cac
+- src-20261117-a5d9c8
+- src-20261117-ad9f5c
+- src-20261117-f8659f
+- src-20261117-cf0704
+- src-20261117-dca8d9
 data_quality: Stub from src-20260310-e66bf3; what from the expert call, other fields n/v
 updated: '2026-10-27'
 ---

@@ -55,6 +55,7 @@ sources:
 - src-20261028-f8fa05
 - src-20261029-886343
 - src-20261102-1899b4
+- src-20261116-1b2733
 data_quality: stub from secondary blog [src-20261102-0100b1]; primary BusinessWire release not fetched; announcement date Nov 2 per blog vs 20261028 in BusinessWire URL; no volumes or contract values disclosed
 updated: '2026-11-09'
 ---

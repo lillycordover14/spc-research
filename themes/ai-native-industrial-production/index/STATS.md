@@ -1,10 +1,10 @@
-# Index stats — Vertically Integrated Industries — 2026-11-17
+# Index stats — Vertically Integrated Industries — 2026-11-18
 
-- sources: 4345  | companies: 164 | people: 16
+- sources: 4505  | companies: 164 | people: 16
 
 ## Sources by type
 - alphasense: 10
-- article: 3642
+- article: 3802
 - dataset: 13
 - expert-call: 49
 - filing: 370
@@ -16,7 +16,7 @@
 ## Sources by status
 - reviewed: 1
 - summarized: 974
-- unread: 3370
+- unread: 3530
 
 ## Sources by layer
 - precision-parts: 148
@@ -43,18 +43,18 @@
 - status=tracking: 15
 
 ## Most-mentioned companies
-- figure: 303
-- again: 292
-- tar: 268
-- debut: 266
-- twelve: 166
-- geno: 150
-- deterrence: 133
-- substrate: 116
-- tulip: 112
-- mp-materials: 105
-- nominal: 93
-- instrumental: 78
-- hadrian: 77
+- figure: 313
+- again: 307
+- debut: 279
+- tar: 277
+- twelve: 179
+- geno: 162
+- deterrence: 138
+- substrate: 127
+- tulip: 117
+- mp-materials: 114
+- nominal: 94
+- instrumental: 80
+- hadrian: 79
+- boston-dynamics: 75
 - saronic: 72
-- xometry: 67

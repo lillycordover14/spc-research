@@ -103,6 +103,9 @@ sources:
 - src-20261117-ac83fa
 - src-20261117-1ef37b
 - src-20261110-03a1cb
+- src-20261119-89bbe3
+- src-20261119-e7712c
+- src-20261116-276932
 data_quality: Benchmark card, unsourced. Fill stage, funding and numbers from sources.
 updated: '2026-10-26'
 ---

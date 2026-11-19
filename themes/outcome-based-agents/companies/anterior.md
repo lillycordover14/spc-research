@@ -88,6 +88,8 @@ sources:
 - src-20261118-dc5f22
 - src-20261118-047c6b
 - src-20261118-ed49c7
+- src-20261119-c10864
+- src-20261118-7dbbac
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

@@ -77,6 +77,16 @@ sources:
 - src-20261103-840e8d
 - src-20261109-31e73e
 - src-20261116-a35705
+- src-20261118-736434
+- src-20261119-008a3b
+- src-20261119-a9782f
+- src-20261119-254ec0
+- src-20261119-2d6f7b
+- src-20261119-95fb93
+- src-20261119-d907c4
+- src-20261119-cc8c55
+- src-20261118-42153f
+- src-20261119-c8de7f
 data_quality: Seed card from Harmonic, pulled 2026-10-26. Harmonic also has a secondary record and an investor entity named Applied Compute; this card is urn 61283283. Customers and pricing unverified.
 updated: '2026-10-26'
 ---

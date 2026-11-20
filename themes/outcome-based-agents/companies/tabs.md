@@ -180,6 +180,12 @@ sources:
 - src-20261119-b5e566
 - src-20261113-2d7c09
 - src-20261118-9c89e6
+- src-20261120-f45199
+- src-20261120-25fbfe
+- src-20261120-0fcaf9
+- src-20261120-44ae30
+- src-20261120-11d0b2
+- src-20261117-473235
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

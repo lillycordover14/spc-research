@@ -223,6 +223,11 @@ sources:
 - src-20261119-14eac3
 - src-20261120-a1148e
 - src-20261120-6c227e
+- src-20261122-04bc21
+- src-20261122-adb5c8
+- src-20261120-10ee33
+- src-20261122-27e2dd
+- src-20261122-09d006
 data_quality: v7 card from filed sources 2026-10-29
 updated: '2026-10-29'
 ---

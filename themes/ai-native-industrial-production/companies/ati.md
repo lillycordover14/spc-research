@@ -32,6 +32,7 @@ sources:
 - src-20261029-4b608e
 - src-20261029-9a67a8
 - src-20261112-fdec95
+- src-20261112-d062c2
 data_quality: incumbent comp; financials from SEC filings
 updated: '2026-10-22'
 ---
@@ -41,6 +42,7 @@ updated: '2026-10-22'
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
+- 2026-11-12: Investor Day deck: 2029 bridge adds zirc sponge +$100M, Ti SQ/PQ +$300M, nickel remelt/VIM +$350M, nickel powder +$200M; capex ~7% of sales 2027E-2028E; customer-funded capacity incremental to LTA pricing; 1 of 2 qualified PQ Ti producers, 5 of 7 sole-source superalloy positions; 2026E adj. EBITDA $1.195B, adj. FCF $575M [src-20261112-d062c2]
 - 2026-11-12: Investor Day: 2029 targets 10-12% revenue CAGR, adj. EBITDA high-20s to low-30s, adj. FCF ~$1.25B (>2x 2026); new Bakers NC nickel powder (~$200M rev, late 2028) and Millersburg OR zirconium sponge (~$100M, early 2028), ~$1B incremental revenue by 2029 with prior projects; isothermal forgings >2 yr lead time; backlog >$4B; Google and Meta placing energy-materials orders, backlogs into 2033; Elevation program unlocks capacity via scrap and yield [src-20261112-fdec95]
 - 2026-10-29: Q3 call: backlog $4.3B (+20%); PQ titanium lead time ~20 months, isothermal forgings >2 years; customers co-fund capacity; one OEM would take double current output; new superalloy qualified in 9 months; Investor Day Nov 12 [src-20261029-9a67a8]
 - 2026-10-29: 10-Q: A&D 69% of Q3 sales; defense +34% y/y; YTD capex $216.6M [src-20261029-4b608e]

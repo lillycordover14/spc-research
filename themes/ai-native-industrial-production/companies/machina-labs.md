@@ -117,6 +117,8 @@ sources:
 - src-20261112-0de08b
 - src-20261119-049350
 - src-20261122-06143e
+- src-20261118-849f6b
+- src-20261119-be29b4
 data_quality: 'Hybrid: runs its own plants (2 in LA, each <100k sq ft) and sells/places RoboCraftsman cells. Series C $124M (Feb 2026) per press; lead and valuation undisclosed, Harmonic shows $333M post. Slide 8 ''$124M Series C'' is the round size, not valuation. Press release calls the 200k sq ft Intelligent Factory ''production-ready'' and the third facility, but Axios the same day says the site is still being negotiated (NM, TX, AL, Reno); treat as planned. Total raised $172.3M is Harmonic''s figure; press does not state it.'
 updated: '2026-10-22'
 ---
@@ -134,6 +136,8 @@ Machina Labs (LA, founded 2019) runs software-defined factories that form, machi
 Tension for the thesis: hybrid model. Lockheed and Toyota on the cap table want cells and capacity, not just parts. Whether more value sits in running the plant or shipping the cell is still open.
 
 ## Traction and signals
+- 2026-11-19: Mehr on X: defense team broke ground on a new 'massive factory' on the other side of the country; details to come [src-20261119-be29b4]
+- 2026-11-18: Mehr (Grace Gong): equipment debt-financed only against contracts, equity funds capability; 6-7 months of one-offs plus up to 2 years qualification; a prime can spend $20M to qualify one part; sells final parts to Toyota and Lockheed rather than selling the system [src-20261118-849f6b]
 - 2026-11-12: Mehr on 22Astronauts: RoboCraftsman cells reprogrammable from aircraft to missile parts same day; factory concept of 200-400 cells; defense and automotive named as current markets; no new customer, contract or facility figures [src-20261112-0de08b]
 - 2026-08-22: Mehr: new ~200,000 sq ft programmable facility to be announced Q4 2026 [src-20260822-53d33e]
 - 2026-06-22: RoboCraftsman cell serial #19 in build [src-20260622-7846f9]

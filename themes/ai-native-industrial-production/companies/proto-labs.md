@@ -89,6 +89,7 @@ sources:
 - src-20261029-cc6d7d
 - src-20261029-85aea8
 - src-20261029-e6143b
+- src-20261120-798102
 data_quality: ''
 updated: '2026-10-22'
 ---
@@ -100,6 +101,7 @@ Public digital manufacturer that owns its plants (injection molding, CNC, sheet 
 Benchmark / incumbent, not a target.
 
 ## Traction and signals
+- 2026-11-20: 8-K: Rocket Lab COO Frank Klein (Path Robotics board, ex-Rivian COO) joins board; chair cites push into production and defense, satellite, drone, robotics, commercial space [src-20261120-798102]
 - 2026-10-29: Q3 call: non-GAAP GM 44.5%, -230 bps q/q (~100 machine upgrades, ~90 contract labor for speed); own factories +17.5% vs Network +3.0%; customers incl. Blue Origin, Relativity, Raytheon, AeroVironment, Shield AI, Agility; AI order checks, Amazon Quick, forward deployed AI engineers, India center [src-20261029-e6143b]
 - 2026-10-29: 10-Q: GAAP GM 44.5% vs 45.3%; AI in pricing/sourcing, molding inspection, CNC toolpath verification; German factories closing [src-20261029-85aea8]
 - 2026-10-29: Q3 2026 record revenue $154.3M (+14.0%); CNC +16.4%, molding +12.5%, 3DP +11.4%; non-GAAP op margin 11.9%; FY26 guide raised to 10-11%, Q4 $143-151M [src-20261029-cc6d7d]

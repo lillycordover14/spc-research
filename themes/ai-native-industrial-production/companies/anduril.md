@@ -39,6 +39,7 @@ sources:
 - src-20261116-3e81bd
 - src-20261118-bf281b
 - src-20261120-759ad1
+- src-20261119-bb62c4
 data_quality: 'created by grokbot for incumbents-vs-ai-native; threat view: High as in-sourcer; also major customer'
 updated: '2026-10-22'
 ---
@@ -50,7 +51,7 @@ Neo-prime; Arsenal-1 ~5M sq ft Ohio campus on ArsenalOS; Arda design partner. Se
 ## Why it fits the theme (or doesn't)
 
 ## Traction and signals
-
+- 2026-11-19: Arda deployed across all Anduril product divisions (drones, missiles, Fury CCA) per Bob McGrew [src-20261119-bb62c4]
 ## Economics (what we know)
 
 ## Open questions

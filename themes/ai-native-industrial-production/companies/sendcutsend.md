@@ -90,6 +90,7 @@ sources:
 - src-20261102-373ea2
 - src-20261109-08b928
 - src-20261116-f72069
+- src-20261118-0c766f
 data_quality: Round is the first institutional round (May 2026), no series letter in press; slide 8 calls it Series B, Harmonic Series A. Total raised $116M = $110M + $6M friends-and-family per press; Harmonic shows $117.89M. Press says founded by two software engineers but names only Belosic; second co-founder not identified in sources. $140M revenue run rate comes from a deleted Turner Novak post via Traders Union; low confidence.
 updated: '2026-10-22'
 ---
@@ -107,6 +108,7 @@ SendCutSend (Reno, founded 2018) is an instant-quote online metal parts service 
 Belosic argues "software first" is a VC trap, which is the counterpoint to the software-first model in our taxonomy [src-20260624-3dc6f7].
 
 ## Traction and signals
+- 2026-11-18: Belosic on POWERS Pod: ~800 people, ~$200M annual revenue, 7-8 locations; ~$75-80M revenue and ~300 people at Series A; growing ~100% y/y; customers pay a premium for speed; preferred machines bought out through 2027; 13-month power upgrade in Nevada; lease-to-parts record under 30 days; two acquisitions in progress [src-20261118-0c766f]
 - 2026-11-01: Belosic on X: 2026 'bigger than all the other years combined, and next year looks like a repeat' [src-20261101-41a70a]
 - 2026-10-23: FABTECH: almost 800 employees; sites Reno, Arlington TX, Paris KY, Pittston PA; next southeast, Great Lakes, Las Vegas; typical lead time 3-5 days, Noon by Noon next-day; OEM runs a big part of growth [src-20261023-ff0b31]
 - 2026-05-25: 32,000 orders in a month; 15-20% new customers monthly; growing ~100% y/y; +150,000 sq ft Reno [src-20260525-4a12ab]

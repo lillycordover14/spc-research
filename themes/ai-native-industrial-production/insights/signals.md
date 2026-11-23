@@ -3,6 +3,15 @@
 Dated, newest first, one line each, source id at the end. Funding, hires, contracts, plants, policy. No "no news" lines.
 Agent appends here on every sweep; weekly synthesis rolls these up. Lines marked [Harmonic] have no document source yet.
 
+- 2026-11-20 — Proto Labs: Rocket Lab COO Frank Klein (Path Robotics director) joins board; targets defense, satellite, drone, robotics, space production [src-20261120-798102]
+- 2026-11-19 — [mention: Bob McGrew] Anduril: Arda deployed across all Anduril product divisions incl. Fury CCA; first user cut actuator virtual build days to 90 min; Arda target is 7-day line reconfiguration; no own model training [src-20261119-bb62c4]
+- 2026-11-19 — [mention: Edward Mehr] Machina Labs: defense team broke ground on a new 'massive factory' across the country (X, no details) [src-20261119-be29b4]
+- 2026-11-19 — GAO-27-109420: DOD has no overarching munitions plan tying production and funding to requirements; no empowered lead office; risk of reactive over-investment; $25B+ 2025 munitions appropriation [src-20261119-89d3ef]
+- 2026-11-18 — Rockwell Investor Day: ~25% margin target; AGILOX AMR acquisition (OTTO + AGILOX ~5,000 vehicles, 800+ sites); FactoryTalk Conductor agents on NVIDIA open-weight models, no own foundation model; few completed AI-enabled projects yet; ~300 bps FY27 price [src-20261118-d0c45c]
+- 2026-11-18 — [mention: Jim Belosic] SendCutSend: POWERS Pod; ~$200M revenue, ~800 people, ~100% y/y growth, $75-80M at Series A; customers pay a premium for speed; machines bought out through 2027; two acquisitions in progress [src-20261118-0c766f]
+- 2026-11-18 — [mention: Edward Mehr] Machina Labs: Grace Gong interview; equipment debt only against contracts; 6-7 mo one-offs + up to 2 yr qualification; prime spends ~$20M to qualify a part [src-20261118-849f6b]
+- 2026-11-16 — [mention: Chris Power] Hadrian: Kutztown Foundry acquisition, $300M investment, several hundred hires; castings 'number one bottleneck' for subs and munitions; fully privately funded [src-20261116-9f9a09]
+- 2026-11-12 — ATI Investor Day deck: capacity bridge (zirc +$100M, Ti +$300M, nickel remelt/VIM +$350M, powder +$200M); capex ~7% of sales 2027E-28E; customer capacity funding incremental to LTA pricing [src-20261112-d062c2]
 - 2026-11-12 — [mention: Edward Mehr] Machina Labs: 22Astronauts Ep. 115; high-mix RoboCraftsman factory, 200-400 cells concept, defense + automotive work today; also names Relativity Space (former employer, not a candidate) [src-20261112-0de08b]
 - 2026-11-12 — ATI Investor Day: 2029 targets 10-12% revenue CAGR, high-20s to low-30s EBITDA margin, ~$1.25B FCF; nickel powder + zirconium sponge capacity, ~$1B incremental revenue by 2029; isothermal forgings >2 yr lead time, backlog >$4B; hyperscalers ordering with backlogs into 2033 [src-20261112-fdec95]
 - 2026-11-12 — Rockwell FY26 10-K: Software & Control +18%, segment margin 33.8% (29.7%); 27,000 employees; industrial AI applications first-listed M&A priority; Investor Meeting Nov 18 [src-20261112-6ae709]

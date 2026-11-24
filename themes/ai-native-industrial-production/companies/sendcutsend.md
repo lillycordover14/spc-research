@@ -91,6 +91,7 @@ sources:
 - src-20261109-08b928
 - src-20261116-f72069
 - src-20261118-0c766f
+- src-20261123-57574f
 data_quality: Round is the first institutional round (May 2026), no series letter in press; slide 8 calls it Series B, Harmonic Series A. Total raised $116M = $110M + $6M friends-and-family per press; Harmonic shows $117.89M. Press says founded by two software engineers but names only Belosic; second co-founder not identified in sources. $140M revenue run rate comes from a deleted Turner Novak post via Traders Union; low confidence.
 updated: '2026-10-22'
 ---

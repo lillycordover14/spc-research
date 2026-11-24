@@ -180,6 +180,10 @@ sources:
 - src-20261122-fb4506
 - src-20261122-ad158a
 - src-20261122-f531dc
+- src-20261123-23b9e0
+- src-20261123-568138
+- src-20261123-6753ea
+- src-20261122-d7d302
 data_quality: auto-created stub from src-20250327-1dc3fd; fill layer/model/what
 updated: '2026-10-23'
 ---

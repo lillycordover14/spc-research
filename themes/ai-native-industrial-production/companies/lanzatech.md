@@ -65,6 +65,14 @@ sources:
 - src-20261116-3eaa0b
 - src-20261116-0166d2
 - src-20261116-bc9f7a
+- src-20261124-69c9c7
+- src-20261124-2d052e
+- src-20261118-c30d45
+- src-20261124-cbb34a
+- src-20261116-cc2f71
+- src-20261117-aabe19
+- src-20261116-6290c5
+- src-20261116-86b55e
 data_quality: auto-created stub from src-20260331-20d171; fill layer/model/what
 updated: '2026-10-27'
 ---

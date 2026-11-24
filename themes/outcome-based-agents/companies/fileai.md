@@ -40,6 +40,8 @@ sources:
 - src-20261109-5a8037
 - src-20261116-e5982b
 - src-20261117-ddf4d0
+- src-20261117-6fddef
+- src-20261117-210abc
 data_quality: v7 card from filed source 2026-10-29; traction not verified
 updated: '2026-10-29'
 ---

@@ -25,6 +25,7 @@ spc_owner: Lilly
 tags: []
 sources:
 - src-20261023-c68417
+- src-20261124-3bae4a
 data_quality: auto-created stub from src-20261023-c68417; fill layer/model/what
 updated: '2026-10-23'
 ---

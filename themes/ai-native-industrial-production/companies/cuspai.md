@@ -74,6 +74,7 @@ sources:
 - src-20261119-23f4d5
 - src-20261120-0d72e0
 - src-20261120-708209
+- src-20261124-cd96ab
 data_quality: 'Slide 8: $450M Series B. Harmonic: $980M total at $2.6B (2026-07); Dealroom profile says $580M total ($30M seed + $100M+ Series A Sep 2025 + $450M Series B), which reconciles with press, so $580M used here [src-20260720-02f3fe]. NVIDIA/Samsung/Hyundai appear in Harmonic as investors and on cusp.ai as Foundry partners; investor status unconfirmed in press. Founders'' prior roles from Harmonic, not re-sourced.'
 updated: '2026-10-23'
 ---

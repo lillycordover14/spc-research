@@ -1,10 +1,10 @@
-# Index stats — Power and compute: the AI buildout bottleneck — 2026-11-24
+# Index stats — Power and compute: the AI buildout bottleneck — 2026-11-25
 
-- sources: 947  | companies: 16 | people: 0
+- sources: 972  | companies: 16 | people: 0
 
 ## Sources by type
 - alphasense: 31
-- article: 797
+- article: 822
 - filing: 26
 - market-research: 6
 - other: 5
@@ -13,7 +13,7 @@
 
 ## Sources by status
 - summarized: 136
-- unread: 811
+- unread: 836
 
 ## Sources by layer
 - grid-interconnection: 50
@@ -40,11 +40,11 @@
 - status=tracking: 7
 
 ## Most-mentioned companies
-- google: 452
-- fireworks-ai: 76
-- together-ai: 48
-- baseten: 41
-- applied-compute: 40
+- google: 466
+- fireworks-ai: 78
+- together-ai: 52
+- baseten: 42
+- applied-compute: 41
 - simplismart: 30
 - emerald-ai: 27
 - gridcare: 25

@@ -91,6 +91,7 @@ sources:
 - src-20261120-890ec7
 - src-20261123-bd51ed
 - src-20261123-e6a7ed
+- src-20261117-fd6cbd
 data_quality: Headcount 66 per Tech.eu Aug 2026 vs 76 per Harmonic; total raised $59M = $9M seed + $50M A plus undisclosed debt for owned factories; Series A valuation not disclosed (Harmonic estimates ~$250M); seed investor 'Foreword Fund' appears as 'Forward Fund' in Resilience Media; owned vs franchised split of the 14 factories not disclosed.
 updated: '2026-10-23'
 ---

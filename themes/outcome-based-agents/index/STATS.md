@@ -1,10 +1,10 @@
-# Index stats — Outcome-based agents and agentic orchestration — 2026-11-25
+# Index stats — Outcome-based agents and agentic orchestration — 2026-11-26
 
-- sources: 4838  | companies: 115 | people: 0
+- sources: 4961  | companies: 115 | people: 0
 
 ## Sources by type
 - alphasense: 55
-- article: 4433
+- article: 4556
 - dataset: 5
 - filing: 17
 - market-research: 48
@@ -14,7 +14,7 @@
 
 ## Sources by status
 - summarized: 584
-- unread: 4254
+- unread: 4377
 
 ## Sources by layer
 - vertical-outcome: 276
@@ -40,18 +40,18 @@
 - status=tracking: 15
 
 ## Most-mentioned companies
-- pace: 357
-- harper: 279
-- clay: 271
-- crosby: 269
-- adaptive: 238
-- ada: 230
-- zip: 214
-- artisan: 213
-- notch: 213
-- ema: 203
-- tabs: 174
-- basis: 166
-- kestra: 136
-- elevenlabs: 101
-- sixfold: 88
+- pace: 367
+- harper: 285
+- clay: 280
+- crosby: 278
+- adaptive: 246
+- ada: 235
+- artisan: 218
+- zip: 218
+- notch: 217
+- ema: 210
+- tabs: 177
+- basis: 175
+- kestra: 137
+- elevenlabs: 112
+- sixfold: 92
